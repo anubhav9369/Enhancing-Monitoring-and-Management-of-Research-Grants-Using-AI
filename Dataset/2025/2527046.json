@@ -1,0 +1,106 @@
+{
+ "awd_id": "2527046",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MCA:Theoretical Foundations of NeuroAI: A Modeling Framework Motivated by Living Neuronal Network Dynamics",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032927878",
+ "po_email": "slim@nsf.gov",
+ "po_sign_block_name": "Soo-Siang Lim",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 310000.0,
+ "awd_amount": 310000.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Biological brains can swiftly perceive and learn from a single experience, invent creative solutions when faced with novel roadblocks, switch among diverse activities and cognitive tasks, and adapt to widely varied conditions and unstructured dynamic environments. Moreover, brains sustain life activities with minimal energy consumption (e.g., approximately 20 Watts of power for >80 billion neurons performing complex cognitive tasks with limited, if any, training). While humans can learn by observing something once, artificial intelligence (AI) systems must be trained thousands of times, can rapidly forget existing knowledge, and consume significant amounts of energy. For example, generative AI is approximately 4 to 10 orders of magnitude less energy-efficient than the human brain, consuming billions of Watts for training and executing just a single task. This project aims to better understand how biological neurons operate during learning and decision-making to replicate their energy-efficient computational feat into future brain-inspired AI architectures, known as NeuroAI. The overall goal is to lay the scientific and engineering foundations of NeuroAI to allow for future advancements in artificial intelligence, biotechnology, translational research, national security, and the science of public safety.\r\n\r\nThis project aims to develop mathematical and computational science frameworks and tools for investigating and understanding how networks of neurons and non-neuronal cells interact to self-organize to perform complex learning and decision making on the fly. The research leverages multimodal and advanced neuroimaging and sensing and provides new computational techniques to (i) identify living neurons, non-neuronal cells, and their connections, (ii) measure and monitor the neuronal network growth, their intrinsic biophysical parameters (mass distribution alterations and membrane fluidity), and neuronal functional activity, and (iii) determine the learning mechanisms of living neuronal networks (LNNs) and glia networks. The knowledge learned in this project has the potential to guide the design of the next generation of distributed artificial neural networks (DistANNs) capable of multimodal representation, perception, learning and decision-making from limited observations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Paul",
+   "pi_last_name": "Bogdan",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Paul B Bogdan",
+   "pi_email_addr": "pbogdan@usc.edu",
+   "nsf_id": "000639281",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3740 McClintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900892563",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127Y00",
+   "pgm_ele_name": "Sci of Lrng & Augmented Intel"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "059Z",
+   "pgm_ref_txt": "Science of Learning"
+  },
+  {
+   "pgm_ref_code": "101Z",
+   "pgm_ref_txt": "MCA-Mid-Career Advancement"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 310000.0
+  }
+ ],
+ "por": null
+}

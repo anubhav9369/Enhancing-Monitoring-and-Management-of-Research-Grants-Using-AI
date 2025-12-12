@@ -1,0 +1,110 @@
+{
+ "awd_id": "2450667",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CDS&E: Data-driven, physics-informed modeling of multiscale phenomena",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927030",
+ "po_email": "rjoslin@nsf.gov",
+ "po_sign_block_name": "Ron Joslin",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 630763.0,
+ "awd_amount": 630763.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "The ability to accurately predict multiscale fluid dynamics phenomena is essential for accurate weather forecasting, climate modeling, design of fusion energy devices and numerous other practical applications. However, the predictive modeling of multiscale phenomena is a challenging problem.  Computer simulations solve the relevant equations at specific points that form a grid.  Simulations on coarse grids can be made today, but they require accurate models of physics below the scale of the computational grid, i.e., between points on the grid. No general and systematic approach to construction of such sub-grid-scale models currently exists to capture all of the flow physics. The objective of this project is therefore to develop a systematic approach to modeling multiscale phenomena at a desired level of resolution.  The fundamental advances resulting from the project will also impact a range of other applications in science (e.g., dynamics of accretion disks, forest/brush fires, pollution transport) and engineering (e.g., aircraft design, combustion and hypersonic vehicles). The project will also educate and train several graduate and undergraduate students in state-of-the-art numerical modeling techniques supplemented by novel machine-learning architectures, providing them with skills directly transferable to jobs in research and development, applied engineering applications, and national security applications.\r\n\r\nTraditional, analytic coarse-graining approaches for modeling multiscale problems often lead to infinite hierarchies of equations, with numerous ad hoc assumptions employed to close the truncated system of equations. The resulting models lack generalizability and are fundamentally incapable of correctly describing fluxes of physical quantities from small scales to large scales. Models constructed using deep learning, on the other hand, lack the interpretability needed to understand the mechanisms responsible for generating structure at multiple scales. This challenge will be addressed by developing a systematic machine learning framework combining relevant, limited domain knowledge and plentiful, representative, and well-resolved data generated using experiments and/or numerical simulations. This new framework will allow construction of explicit mathematical models of multiscale phenomena without relying on empirical assumptions that may or may not be justified in particular geometries or under particular conditions. The explicit analytical form of an inferred model will allow straightforward interpretation of various terms and enable identification of the dominant mechanisms responsible for transport of physical quantities of interest between scales.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Roman",
+   "pi_last_name": "Grigoriev",
+   "pi_mid_init": "O",
+   "pi_sufx_name": "",
+   "pi_full_name": "Roman O Grigoriev",
+   "pi_email_addr": "roman.grigoriev@physics.gatech.edu",
+   "nsf_id": "000486399",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Schatz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Schatz",
+   "pi_email_addr": "mike.schatz@physics.gatech.edu",
+   "nsf_id": "000402318",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144300",
+   "pgm_ele_name": "FD-Fluid Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 630763.0
+  }
+ ],
+ "por": null
+}

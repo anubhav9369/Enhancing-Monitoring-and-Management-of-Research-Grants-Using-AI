@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442970",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Mechanism-Informed AI for Biological Systems-of-Systems to Accelerate Biomanufacturing Systems Integration and Innovations",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 596920.0,
+ "awd_amount": 596920.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "Unlike traditional pharmaceuticals, biopharmaceuticals use living organisms, e.g., cells, as factories to provide essential life-saving treatments for severe and chronic diseases (including cancers, metabolic diseases, and infectious diseases such as COVID-19) often with advantages such as increased efficacy and reduced side effects. However, current manufacturing systems lack the flexibility to produce existing and new biopharmaceuticals on demand. This is mainly because biomanufacturing processes are highly complex and variable, with hundreds of biological, physical, and chemical factors dynamically interacting at molecular, cellular, and macroscopic scales.  Further, bioprocessing mechanisms are not systematically understood, and data are often very limited, sparse, and heterogeneous. To address these challenges, this Faculty Early Career Development (CAREER) project aims to optimize biomanufacturing processes via a bioprocess-specific AI that integrates uncertainty, intelligence, and science (i.e., systems and synthetic biology). Leveraging emerging sensing technologies that can monitor bioprocesses at molecular and cellular scales, this AI can also efficiently decode fundamental mechanisms. Moreover, by transferring this AI to industry practice, it is hoped this research will help make life-saving biopharmaceuticals rapidly available by accelerating biomanufacturing systems integration and automation with dramatically improved capabilities. The project will in parallel create a world-leading workforce pipeline from training the current workforce to educating (under)graduate and K-12 students. \r\n\r\nThis project will create a mechanism-informed AI platform on Biological Systems-of-Systems to enable the quick assembly of flexible and robust biomanufacturing systems. To support biomanufacturing systems integration and accelerate the development of flexible optimal robust manufacturing systems, this research will answer two fundamental questions: (1) how to create a unified knowledge representation that enables integration of heterogeneous data collected at molecular, cellular, and macroscopic scales in different production processes; and (2) how to enable sample-efficient and interpretable learning for fundamental mechanisms and optimal control strategies within and across different scales. These questions will be addressed through three integrated research efforts: (i) creating a multi-scale probabilistic knowledge graph (pKG) hybrid (mechanistic + statistical) model with a modular design capable of representing spatial-temporal causal interdependencies from molecular- to cellular- to macroscopic scales for different biomanufacturing processes; (ii) developing interpretable federated learning to quickly fuse sparse and heterogeneous data collected from different production processes to advance scientific understanding and track critical latent states through sequential Bayesian inference on the pKG; and (iii) constructing new provably efficient model-based reinforcement learning schemes on Bayesian pKG, accounting for model uncertainty, informing design of experiments for digital twin calibration, and streamlining the policy search on optimal robust biomanufacturing systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wei",
+   "pi_last_name": "Xie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei Xie",
+   "pi_email_addr": "w.xie@northeastern.edu",
+   "nsf_id": "000691959",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "229Y00",
+   "pgm_ele_name": "MSI-Manufacturing Systms Integ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "118E",
+   "pgm_ref_txt": "GRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "1713",
+   "pgm_ref_txt": "WORKFORCE"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 596920.0
+  }
+ ],
+ "por": null
+}

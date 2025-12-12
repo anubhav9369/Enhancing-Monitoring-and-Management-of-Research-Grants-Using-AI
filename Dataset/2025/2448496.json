@@ -1,0 +1,102 @@
+{
+ "awd_id": "2448496",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "High-efficiency, full-spectrum, full-space wave control for enhanced reconfigurable intelligent surfaces",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Next-generation 6G wireless communication systems are anticipated to bring ultra-high speed, ultra-high reliability, and ultra-low delay global coverage. For wireless communication technologies deployed to date, the radio-frequency (RF) signal propagation environment has been treated as a fixed constraint and limitation, under which theories are developed, standards are written, and devices are designed and developed. Recently, reconfigurable intelligent surface (RIS) has emerged as an enabling technology to overcome these limitations by proactively controlling and optimizing the RF signal propagation environment for future 6G wireless communications. Installed on building facades or billboards, these large planar electromagnetic RIS structures can redirect signals between wireless access points and user devices, overcoming adverse effects caused by signal blockage. They help improve coverage, suppress interference, and enhance security. However, the state-of-the-art RIS designs still face the challenge of providing true full-space coverage and leave some areas with poor signal quality or no signal at all. This project aims to realize a novel RIS technology capable of achieving true full-space coverage by transmitting, reflecting, and scattering electromagnetic waves carrying wireless signals to any possible direction in 3-D space. In addition, simultaneous signal reception and wireless power transfer will be studied. The success of this project will bring the envisioned next-generation wireless communications closer to reality by enabling wireless signal propagation control at will. The research outcome of this project will be incorporated in undergraduate and graduate classroom teaching to train future RF engineers in wireless technologies. Through summer outreach programs, local high-school students will learn about basic electromagnetic wave propagation principles using similar sound-wave control experiments.\r\n\r\nThis project will investigate a new RIS technology at microwave frequencies for full-space coverage with high power-conversion efficiencies. Reflective RIS as well as simultaneously-transmitting-and-reflecting (STAR) RIS will be designed, fabricated, and experimentally characterized. Specifically, the research will investigate redirecting incident waves into exact endfire directions as well as anomalous directions by a planar RIS to achieve true full-space coverage. Endfire-direction beam-scattering synthesis and enhanced RIS capabilities such as converting propagating wave to surface wave and near-field focusing will be achieved by controlling both propagating wave and evanescent wave. The project will develop RIS prototypes comprising reactively loaded arrays of patch antennas for reflective RIS and stacked planar dipole antennas for STAR RIS. Based on the antenna vector effective height extended to arrays and their linear network treatment, numerically efficient design techniques will be developed and applied to electrically large RIS for practical applications. The project will study design trade-offs between wave conversion efficiencies and array element spacing to cover extreme-angle anomalous reflection and refraction as well as endfire-direction beam scattering. For each of the reflective and STAR RIS types, the project will first build and study static-response prototypes using printed-circuit technologies and a parallel-plate waveguide simulating 2-D wave propagation environment. Subsequently, reconfigurable RIS prototypes incorporating semiconductor diodes and digital control circuitry will be designed, fabricated, and evaluated. Based on the results of the 2-D experiments, planar RIS prototypes of reflective and STAR types will be built to demonstrate full 3-D space coverage. As the proposed technique for full-space coverage is not limited to electromagnetic waves, the same design philosophy for high-efficiency, full-space coverage can be extended to other types of wave physics such as acoustic waves.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Do-Hoon",
+   "pi_last_name": "Kwon",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Do-Hoon Kwon",
+   "pi_email_addr": "dhkwon@ecs.umass.edu",
+   "nsf_id": "000545262",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

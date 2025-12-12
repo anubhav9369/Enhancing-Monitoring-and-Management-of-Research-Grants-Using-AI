@@ -1,0 +1,114 @@
+{
+ "awd_id": "2453653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SHF: Small: Compiler and Runtime Support for Computational Storage in HPC",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 540000.0,
+ "awd_amount": 540000.0,
+ "awd_min_amd_letter_date": "2025-06-26",
+ "awd_max_amd_letter_date": "2025-06-26",
+ "awd_abstract_narration": "This project addresses a critical challenge in high-performance computing (HPC): the growing inefficiency and energy demands of moving massive volumes of data between storage and compute units - a bottleneck that hampers scientific progress and national innovation. As the U.S. advances toward exascale computing and increasingly data-centric scientific discovery, the ability to analyze and process large amounts of data efficiently is paramount in nationally significant domains such as energy systems, artificial intelligence (AI), astrophysics, and precision health. This project focuses on Computational Storage Devices (CSDs), a transformative technology that embeds processing power directly into storage hardware, dramatically reducing data movement and enabling faster, more energy-efficient computation. However, programming and optimizing CSDs remains highly complex, limiting their impact. This project develops a scalable, automated software infrastructure (including compilers, runtime systems, and programming interfaces) that makes it practical to deploy and benefit from CSDs across diverse and critical HPC workloads of national importance. By unlocking the potential of near-storage computing, this project directly contributes to national priorities such as AI, energy systems, and advanced manufacturing. Additionally, the project produces open-source tools, CSD-focused benchmarks, and educational resources, contributing to the U.S. leadership in next-generation computing while preparing a workforce equipped to tackle the grand challenges of tomorrow.\r\n\r\nAs modern HPC applications become increasingly data-driven - integrating traditional simulations with machine learning and data analytics - the overhead of moving data between storage and compute units has emerged as a major performance and energy bottleneck. CSDs promise to mitigate this issue by embedding compute engines within storage devices (e.g., solid state devices), allowing select computations to be executed near the data. However, current CSD programming models are low-level, hardware-specific, and lack standardized abstractions, making them difficult to adopt at scale. This project addresses these limitations through five integrated research thrusts: (1) characterizing diverse HPC workloads across real and simulated CSD configurations to identify offload opportunities and performance tradeoffs; (2) exposing CSDs to the software stack via rich abstractions and interfaces that communicate device heterogeneity, memory capacity, and compute capabilities; (3) developing compiler-directed optimizations for code and data placement, loop parallelization, and CSD-to-CSD data migration; (4) designing a runtime system that dynamically manages code fragments offloaded to CSDs, handles multi-application scheduling, and coordinates compute/data mapping with the compiler; and (5) building a simulation platform for futuristic CSD architectures and releasing a benchmark suite tailored to CSD-aware optimizations. Together, these efforts will lower the programming barrier to CSD adoption, enable intelligent orchestration across heterogeneous storage-side compute resources, and advance the state of the art in near-storage computing. Scientifically, this project aims to establish foundational tools, abstractions, and methodologies that accelerate the integration of CSDs into production HPC systems, drive innovation in compiler-runtime co-design for heterogeneous storage environments and enable new levels of energy-efficient performance in data-intensive scientific workloads.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mahmut",
+   "pi_last_name": "Kandemir",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahmut T Kandemir",
+   "pi_email_addr": "mtk2@psu.edu",
+   "nsf_id": "000163936",
+   "pi_start_date": "2025-06-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Chitaranjan",
+   "pi_last_name": "Das",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chitaranjan Das",
+   "pi_email_addr": "cxd12@psu.edu",
+   "nsf_id": "000358842",
+   "pi_start_date": "2025-06-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 540000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2529284",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: III: Small: An Information-Theoretic Framework for Explainable and Explanation-Assisted Graph Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 167000.0,
+ "awd_amount": 167000.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Graphs are powerful tools for representing relationships in complex systems, from social networks to weather monitoring stations. Graph Neural Networks (GNNs) have emerged as effective methods for analyzing these interconnected systems, but their \"black box\" nature poses significant challenges in critical applications such as environmental monitoring, healthcare, and finance. This project develops a comprehensive framework for making GNN predictions explainable and trustworthy. The research addresses the urgent need for artificial intelligence systems that can not only make accurate predictions but also explain their reasoning in ways that domain experts can understand and verify. For instance, in South Florida's water management network where monitoring stations form a graph connected by hydrological pathways, emergency managers need to understand which stations and their interconnections are most influential in flood predictions. This capability is essential for building trust in these systems and ensuring their responsible deployment in applications that affect public safety and welfare. The project will train students in interdisciplinary research combining machine learning, information theory, and practical applications, while developing educational materials that bridge theoretical foundations with real-world implementations.\r\n\r\nThis project establishes a unified framework using information theory concepts for explainable GNNs through two complementary research thrusts. The first thrust develops rigorous mathematical foundations for quantifying explainability in graph learning, including necessary and sufficient conditions for classifier explainability, methods to address out-of-distribution challenges, and ways to demonstrate how accurate the finding are. The second thrust translates these theoretical insights into practical architectures and algorithms, including computationally efficient  explainers, generative models for robust explainers, and co-design frameworks that balance prediction accuracy with explainability. The research introduces novel concepts such as nonverbal signatures for characterizing  explanation patterns and explanation-assisted learning mechanisms that leverage extracted explanations to improve model performance. Extensive evaluations will be conducted on benchmark datasets and specially curated weather forecasting datasets from South Florida's water management systems. The project advances the state-of-the-art by providing both theoretical rigor in quantifying explainability and practical solutions for deploying trustworthy GNN systems in critical applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiang",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiang Zhang",
+   "pi_email_addr": "xzhang@ist.psu.edu",
+   "nsf_id": "000602250",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 167000.0
+  }
+ ],
+ "por": null
+}

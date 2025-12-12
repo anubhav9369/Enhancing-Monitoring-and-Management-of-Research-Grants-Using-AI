@@ -1,0 +1,110 @@
+{
+ "awd_id": "2530653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: Leveraging AI for Weather and Air Quality Forecast",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032924943",
+ "po_email": "thuang@nsf.gov",
+ "po_sign_block_name": "Tai-Yin Huang",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 543185.0,
+ "awd_amount": 543185.0,
+ "awd_min_amd_letter_date": "2025-07-08",
+ "awd_max_amd_letter_date": "2025-07-08",
+ "awd_abstract_narration": "Advancing our ability to predict weather and air quality is essential for protecting public health, supporting emergency response, and developing effective adaptation strategies. This project will bring together artificial intelligence (AI) and geoscience to create a new generation of forecasting tools that are faster, more accurate, and more responsive than current numerical model-based systems. By leveraging large volumes of observations from satellites, ground monitors, and physical models, the outcome from this research will enable real-time forecasting of air pollution and weather patterns across wide regions with high resolution. The tools to be developed in this study will help inform policymakers to respond to extreme weather and pollution events, improving public safety and risk management planning.  Research outputs and educational materials will be available through online platforms.  This project will support a graduate student involved in this work.   \r\n\r\nTechnically, this study aims to develop a machine learning-based surrogate for chemical transport models (CTMs), which are widely used in atmospheric research but often too computationally expensive for real-time forecasting. The proposed AI model will be trained on geoscientific big data, including meteorological inputs, satellite remote sensing, and ground-based pollutant measurements, and will learn to replicate the spatial-temporal behavior of CTMs. Unlike most existing AI models, this framework explicitly incorporates meteorology-chemistry interactions, such as the feedback between air pollutants and weather conditions. This allows the model to provide more realistic and scientifically based forecasts. The approach enhances predictive accuracy, expands spatial coverage, and reduces computational costs, making it suitable for integration into operational forecasting systems. The research outcomes include better air quality management, more accurate weather forecasting, supporting disaster preparedness, and promoting international collaboration on climate and environmental issues.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jia",
+   "pi_last_name": "Xing",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jia Xing",
+   "pi_email_addr": "jxing3@utk.edu",
+   "nsf_id": "0000A01DN",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "Fu",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua S Fu",
+   "pi_email_addr": "jsfu@utk.edu",
+   "nsf_id": "000295373",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 543185.0
+  }
+ ],
+ "por": null
+}

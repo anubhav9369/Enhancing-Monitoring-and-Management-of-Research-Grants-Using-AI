@@ -1,0 +1,93 @@
+{
+ "awd_id": "2510039",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-BSF: Theory, algorithms, and applications of estimation over groups",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "This project aims to develop novel computational methods grounded in robust mathematical theory to recover signals from highly corrupted and distorted data. The new algorithms are intended to enable researchers to effectively extract and analyze information from data collected by modern imaging devices, thereby maximizing their potential. Notable examples include state-of-the-art technologies for imaging of biomedical molecules---such as single-particle reconstruction using cryo-electron microscopy (cryo-EM), X-ray free-electron lasers, and X-ray crystallography---that produce important knowledge to the process of drug design and expand the understanding of the mechanisms of life. A specific focus will be given to building a strong mathematical foundation to tackle the challenges posed by these datasets. Graduate students will be trained as part of this project, and user-friendly software will be made available in public repositories for the use of the broad scientific community.\r\n \r\nThe project addresses the challenge of signal recovery in datasets where measurements are affected by unknown transformations and high noise levels. The investigators will study two regimes: one with high noise, where robust methods will be developed based on algebraic structure and information-theoretic limits; and one with moderate noise, where new techniques will be introduced to estimate the underlying group transformations, especially in settings involving symmetries and non-compact groups. Core objectives include developing robust maximum likelihood frameworks and deriving information-theoretic bounds in extremely high-dimensional settings. Additional goals include advancing the non-unique games approach for determining group elements in the presence of symmetries and solving challenging non-compact synchronization problems using advanced algebraic techniques. The research integrates principles from diverse mathematical fields, including group and representation theory, statistical estimation, convex and non-convex optimization, numerical analysis, and information theory.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Amit",
+   "pi_last_name": "Singer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amit Singer",
+   "pi_email_addr": "amits@math.princeton.edu",
+   "nsf_id": "000312743",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Princeton University",
+  "perf_str_addr": "Fine Hall, Suite 201",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085442001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

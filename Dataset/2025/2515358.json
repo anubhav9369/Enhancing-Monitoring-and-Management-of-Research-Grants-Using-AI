@@ -1,0 +1,106 @@
+{
+ "awd_id": "2515358",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Parametric Control Barrier Functions For Complex Modern Safety-Critical Applications",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "This project advances the theory and methods underlying the development of computationally lightweight control algorithms that ensure the safe and reliable operation of autonomous systems in safety-critical applications.   Such methods can benefit a broad range of industrial uses, including autonomous drone delivery, robotics, manufacturing, aerial and ground transportation, autonomous driving, and precision agriculture.  To fully realize their benefits, autonomous systems must be capable of making reliable decisions in real time while operating in complex environments with rapidly changing constraints. This is especially challenging because modern autonomous systems are often designed to reduce cost, weight, and energy consumption, which limits their onboard computing capabilities. To address these challenges, this project pursues a systematic and theoretically justified framework, grounded in extensions to Control Barrier Function (CBF) methods, that enables the design of control algorithms ensuring the satisfaction of safety constraints even when computational resources are severely limited.\r\n\r\nControl Barrier Functions (CBFs) hold significant promise for addressing constrained control challenges in nonlinear systems and for providing computationally lightweight solutions that ensure the safety and reliable operation of autonomous systems. At the same time, systematic design procedures for CBFs are currently limited to specific classes of systems and constraints. To provide CBF-based solutions for systems operating in environments where operating conditions and constraints can change rapidly, this research will expand the applicability of CBFs through the development of a novel class of CBFs parameterized by the reference command. The project will establish a rigorous theoretical foundation for such parametric CBFs and their onboard implementation. Methods for enhancing onboard computations to ensure real-time computational feasibility will be developed. The advances will be pursued by integrating techniques from control theory, set invariance, machine learning based on neural networks, and computational optimization algorithms grounded in robust-to-early-termination optimization. The outcomes of this research will include methods, algorithms, and theoretical guarantees that support their application. The proposed methodologies will be validated through both simulations and real-world case studies, such as drone delivery applications, to demonstrate their practical effectiveness and potential for real-world technological impact, ultimately benefiting the U.S. economy and society.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mehdi",
+   "pi_last_name": "Hosseinzadeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mehdi Hosseinzadeh",
+   "pi_email_addr": "mehdi.hosseinzadeh@wsu.edu",
+   "nsf_id": "000901452",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington State University",
+  "inst_street_address": "240 FRENCH ADMINISTRATION BLDG",
+  "inst_street_address_2": "",
+  "inst_city_name": "PULLMAN",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "5093359661",
+  "inst_zip_code": "991640001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "WA05",
+  "org_lgl_bus_name": "WASHINGTON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XRJSGX384TD6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington State University",
+  "perf_str_addr": "405 NE Spokane St.",
+  "perf_city_name": "PULLMAN",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "991640001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "WA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

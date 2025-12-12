@@ -1,0 +1,102 @@
+{
+ "awd_id": "2530471",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: RAPID: Cyberinfratructure Platform LAFireKG: Learning from Los Angeles Fires with Knowledge Graphs, Remote Sensing, and Large Language Models",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 74627.0,
+ "awd_amount": 74627.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "The recent wildfires in Los Angeles County in January 2025, which affected thousands of lives and caused substantial property damage, have underlined the urgent need for new, advanced, data-informed strategies for efficient and proactive management of such devastating events. However, the development of such data-informed solutions is still largely hampered by limited access to multisource, multi-resolution remote sensing imagery, leaving many in the machine learning and computational sciences communities unable to contribute robustly.  This project uses large language models (LLMs) to extract properties and relationships from relevant LA fire data sources, storing them in a comprehensive knowledge database.  By integrating complementary wildfire-related information, the framework facilitates monitoring of key physical parameters, such as real-time evacuation orders, meteorological variables, and air quality indicators.  \r\n\r\nThe project aims to develop an LA Fire Knowledge Graph-Agent (LAFireKG-Agent) platform--an autonomous and end-to-end LLM-based framework designed to meet the diverse data needs of end users, and enhance situational awareness for both safety and timeliness in wildfire risk management. The LAFireKG-Agent framework focuses on three key objectives: rapid decision-making, predictive modeling, and complex reasoning. Beyond these core capabilities, end-users, including computational scientists, environmental scientists, and risk managers, will be able to explore wildfire-specific questions, generate tailored insights, and receive data-driven recommendations. By integrating advanced machine learning and knowledge graph methodologies, this project will not only lead to more effective disaster preparedness and response strategies, but also promote open science and reproducible research in AI-driven environmental studies. The resulting tools and best practices will be shared through publicly accessible platforms, expanding research synergy among scientists, practitioners, and community organizations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yulia",
+   "pi_last_name": "Gel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yulia Gel",
+   "pi_email_addr": "ygl@vt.edu",
+   "nsf_id": "0000A4J29",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute",
+  "perf_str_addr": "",
+  "perf_city_name": "",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240603359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "772600",
+   "pgm_ele_name": "Data Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 74627.0
+  }
+ ],
+ "por": null
+}

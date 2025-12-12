@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451393",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: CSR: Hardware-accelerated Framework for Benchmarking Quantum-Classical Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 149999.0,
+ "awd_amount": 149999.0,
+ "awd_min_amd_letter_date": "2025-07-20",
+ "awd_max_amd_letter_date": "2025-07-20",
+ "awd_abstract_narration": "As quantum technology advances rapidly, the world is on the verge of a computing revolution. Future supercomputers are expected to feature quantum processors in the form of accelerators integrated with classical computers. To gain computational advantage, both classical and quantum processors must efficiently share workloads in an integrated and heterogeneous environment. This project aims to develop a framework that unifies quantum processing units (QPUs) with classical accelerators, e.g., Field Programmable Gate Arrays (FPGAs) and Graphical Processing Units (GPUs). The framework serves as a platform for deploying, testing, and benchmarking algorithms that are hybrid in nature, i.e., algorithms that have both classical and quantum components. This project aligns with the overarching strategic views of the US National Quantum Initiative Act, which are to develop quantum-classical solutions enabling transformative scientific progress and to build a quantum-smart and dynamic workforce to meet the needs of an emergent quantum ecosystem. The proposed project enables wider adoption among users from the quantum and high-performance computing domains, promoting greater understanding and application of quantum-classical systems. The project disseminates research outcomes through symposiums focusing on \u201cHeterogeneous Quantum-Classical Computing\u201d and brings together a wide spectrum of researchers and engineers. The project helps equip potential workers with a hands-on understanding of quantum-classical systems, advances quantum education in the form of graduate courses on quantum-classical accelerators, and benefits K-12 students by providing summer programs and camps on hands-on quantum computing programming. \r\n\r\nThis project addresses the following technical challenges and research gaps: (a) computational bottlenecks in quantum-classical systems, caused due to sequential execution nature of conventional processors, (b) lack of unified heterogeneous platforms facilitating rapid testing, prototyping, and benchmarking of quantum-classical systems, and (c) lack of unified software environments for developing quantum-classical architectures. These challenges previously hindered the investigation of quantum-classical systems capable of demonstrating computational advantage. The project includes three primary research activities. Research Activity 1 involves developing the hardware platform for streamlining workload sharing between quantum and classical computing resources. The use of FPGAs makes the platform highly customizable and transparent by providing a unified view of the system resources to end-users. Research Activity 2 involves investigating hardware acceleration by leveraging heterogeneous high-performance accelerators such as FPGAs and GPUs to execute classical sub-routines while quantum sub-routines are run on QPUs or simulators. The GPUs are integrated into the framework as a quantum circuit simulation backend. Finally, Research Activity 3 involves developing a unified, high-level abstraction layer and run-time software libraries that synchronize tasks and data between quantum and classical resources, providing a user-friendly interface for quantum application development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Naveed",
+   "pi_last_name": "Mahmud",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Naveed Mahmud",
+   "pi_email_addr": "nmahmud@fit.edu",
+   "nsf_id": "000975467",
+   "pi_start_date": "2025-07-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida Institute of Technology",
+  "inst_street_address": "150 W UNIVERSITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "MELBOURNE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3216748000",
+  "inst_zip_code": "329018995",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "FL08",
+  "org_lgl_bus_name": "FLORIDA INSTITUTE OF TECHNOLOGY INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNN6VH618X58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida Institute of Technology",
+  "perf_str_addr": "150 W UNIVERSITY BLVD",
+  "perf_city_name": "MELBOURNE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "329018995",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "FL08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149999.0
+  }
+ ],
+ "por": null
+}

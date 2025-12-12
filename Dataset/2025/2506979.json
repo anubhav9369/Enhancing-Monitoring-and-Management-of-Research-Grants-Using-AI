@@ -1,0 +1,110 @@
+{
+ "awd_id": "2506979",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STTR Phase I: Intelligent Control System for Polymer Injection Molding",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032925041",
+ "po_email": "vinlee@nsf.gov",
+ "po_sign_block_name": "Vincent Lee",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-09-11",
+ "awd_max_amd_letter_date": "2025-09-11",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Technology Transfer (STTR) Phase I project is the development of a smart control system that improves the efficiency and reliability of plastic injection molding, a process used to manufacture millions of parts for medical devices, automobiles, and consumer goods. Today, manufacturers often rely on trial-and-error methods that waste time, energy, and materials, and make it difficult to use recycled plastics due to their variability. The system can predict if a part will meet quality standards before it is finished and can automatically adjust machine settings to reduce mistakes. This saves energy (12\u201315%), lowers scrap rates, and makes it easier to use more recycled materials without losing quality. The technology will first help medical device companies reduce costly production errors and speed up approvals, improving patient safety. It will also help automotive and consumer product companies make strong, reliable products while using more recycled plastics. By cutting waste and energy use, this system supports cleaner manufacturing and helps U.S. companies stay competitive.\r\n\r\nThis Small Business Technology Transfer (STTR) Phase I project develops and validates a hybrid (physics- and artificial intelligence-driven) closed-loop control system for injection molding. The system combines real-time multivariate in-mold sensing (pressure, temperature, shrinkage) with machine-state signals (injection speed, hold pressure, cooling, screw rotation speed, switchover points) to model melt-state dynamics. This approach integrates physics-based models of flow, viscoelasticity, shrinkage, shear, and crystallization with Gaussian Process Regression, Principal Component Analysis, Partial Least Squares, and AI-based algorithms to enable part-quality inference before ejection. Phase I objectives are: (1) demonstrate predictive quality control with decision cycles under 500 milliseconds, (2) optimize cycle time through dynamic control of hold and cooling phases, (3) validate robustness when molding high recycled resin content (targets: 70\u201380% polypropylene, ~70% polyethylene) compared to virgin resins, and (4) establish data integrity protocols consistent with FDA 21 CFR Part 11 and ISO 13485 standards. Data collection will be conducted at the University of Massachusetts Lowell using a pre-instrumented press and molds. Expected outcomes include predictive models with <5% error on quality metrics, energy efficiency gains of 12\u201315%, and proof-of-concept adaptive controls. The results advance understanding of polymer process dynamics and lay the foundation for Phase II commercialization.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rahul",
+   "pi_last_name": "Panchal",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rahul R Panchal",
+   "pi_email_addr": "rahul.panchal@leoninetech.com",
+   "nsf_id": "000708795",
+   "pi_start_date": "2025-09-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Davide",
+   "pi_last_name": "Masato",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Davide Masato",
+   "pi_email_addr": "Davide_Masato@uml.edu",
+   "nsf_id": "000813960",
+   "pi_start_date": "2025-09-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "LEONINE TECHNOLOGIES INC.",
+  "inst_street_address": "8120 PENN AVE S",
+  "inst_street_address_2": "STE 100D",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "9789960440",
+  "inst_zip_code": "554313114",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MN03",
+  "org_lgl_bus_name": "LEONINE TECHNOLOGIES INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GJXFEUYNJM49"
+ },
+ "perf_inst": {
+  "perf_inst_name": "LEONINE TECHNOLOGIES INC.",
+  "perf_str_addr": "8120 PENN AVE S",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554313114",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MN03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150500",
+   "pgm_ele_name": "STTR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

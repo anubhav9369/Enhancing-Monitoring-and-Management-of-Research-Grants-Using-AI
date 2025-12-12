@@ -1,0 +1,105 @@
+{
+ "awd_id": "2419736",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Combining DFT with classical simulations to predict solvation and cation effects on electrocatalytic reaction rates",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927104",
+ "po_email": "bchandle@nsf.gov",
+ "po_sign_block_name": "Bert Chandler",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 561518.0,
+ "awd_amount": 561518.0,
+ "awd_min_amd_letter_date": "2024-12-09",
+ "awd_max_amd_letter_date": "2024-12-09",
+ "awd_abstract_narration": "The project will develop multiscale modeling methods to examine electrocatalytic reactions of importance to clean energy. Specific systems examined will be relevant to hydrogen fuel cells, water electrolysis to generate hydrogen, and electrochemical conversion of carbon dioxide to fuels and chemicals. The research team will develop new tools that integrate quantum chemistry methods with classical molecular dynamics to model this complex interface. These modeling approaches will be applied to predict how changing the metal or ions in the electrolyte alter the rates of chemical conversions, helping to guide the choice of materials for efficient processes.  The computational techniques developed will be shared with the broader research community for their use. Educational modules will be developed for use in courses related to research communication skills, and multiple graduate and undergraduate students will gain training on electrochemical systems and computational simulation during participation in this project.\r\n\r\nElectrocatalyst performance depends on both surface-adsorbate binding and metal-adsorbate-electrolyte interactions within the electrochemical double-layer (EDL). The researchers will combine their specific areas of expertise to develop tools to computationally model the kinetics of elementary electrochemical steps with an integrated set of density functional theory (DFT) and classical force-field molecular dynamics (MD) methods. Constant-potential DFT, using an analytical grand-canonical approach, determines local reaction paths involved in coupled proton-electron transfer reactions. MD, run at different potentials and including a fully developed EDL with charge dynamics, describes the interaction of electrolytes with states along the reaction coordinate. This DFT/MD integrated approach will be validated against experimental activation barriers and EDL properties (capacitance, ion distributions) measured by collaborators. DFT and classical MD simulations will use insertion free energy methods to predict activation barriers for electrochemical reactions at the electrode-electrolyte interface. Additional aims of the proposal include the development of transferable simulation potentials for solvent-metal and ion-metal interactions, and the application of the DFT/MD approach to predict how reaction rates vary with electrode metal and electrolyte composition.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Scott",
+   "pi_last_name": "Milner",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Scott T Milner",
+   "pi_email_addr": "stm9@psu.edu",
+   "nsf_id": "000516313",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Janik",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael J Janik",
+   "pi_email_addr": "mjanik@engr.psu.edu",
+   "nsf_id": "000114937",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140100",
+   "pgm_ele_name": "Catalysis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 561518.0
+  }
+ ],
+ "por": null
+}

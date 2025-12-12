@@ -1,0 +1,102 @@
+{
+ "awd_id": "2417658",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CSR: Small: Full-Stack Compute-In-Memory for FPGAs",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 644035.0,
+ "awd_amount": 644035.0,
+ "awd_min_amd_letter_date": "2025-02-21",
+ "awd_max_amd_letter_date": "2025-02-21",
+ "awd_abstract_narration": "This research project focuses on enhancing the performance and programmability of Field Programmable Gate Arrays(FPGAs), electronic devices whose behavior can be modified after manufacturing. Within the FPGA arena, the project further focuses on Compute-In-Memory (CIM) technology, which allows faster computing by merging memory and computer processing. The project\u2019s novelties are the integration of CIM into specific memory blocks of FPGAs, which significantly increases computing power and energy efficiency. The project's broader significance and importance are in addressing the critical challenge of programmability in FPGAs, making them more accessible to a wider range of users, and in demonstrating the principles of open-source hardware design through prototyping CIM-enabled FPGAs. This research aims to accelerate the adoption of advanced FPGA architectures, ultimately leading to more energy-efficient and high-performance computing solutions, for processing modern workloads such as Machine Learning (ML) which require processing vast amounts of data, traditionally involving significant data movement between memory and processing units.\r\n\r\nTechnically, the project employs a holistic approach that includes applications, programmability, architecture, and prototyping. It integrates CIM support into High-Level Synthesis (HLS) design frameworks, allowing for the use of high-level programming languages like C/C++ to program CIM blocks on FPGAs. Additionally, the project involves the physical design and prototyping of a CIM-enabled FPGA chip using open-source tools and technology, providing a proof-of-concept that can persuade industry vendors of its viability. Architectural enhancements in CIM blocks on FPGAs and additional applications for CIM-enabled FPGAs are also to be explored. The expected advances include a transformative impact on FPGA computing, making it a more viable alternative to accelerators like Application Specific Integrated Circuits (ASICs) for parallel workloads such as ML. The results of this research will be disseminated through educational modules, conference proceedings and journal papers, and with the release of open-source code.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aman",
+   "pi_last_name": "Arora",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aman Arora",
+   "pi_email_addr": "aman.kbm@asu.edu",
+   "nsf_id": "000953730",
+   "pi_start_date": "2025-02-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7354",
+   "pgm_ref_txt": "COMPUTER SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 644035.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,145 @@
+{
+ "awd_id": "2536830",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FIRE-MODEL: Validated Physics-Based Computational Modeling of Firebrand Generation, Properties, and Near-Field Transport",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032927281",
+ "po_email": "hchellia@nsf.gov",
+ "po_sign_block_name": "Harsha Chelliah",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1305489.0,
+ "awd_amount": 1305489.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Wildland fires are expected to increase in prevalence in the coming decades and will have a significant and growing impact on human health, safety, and property. The impacts on air quality can be enormous and extend over very large distances, and human lives and property are affected at the wildland urban interface. An important contributor to the rapid spread of many large fires is the ignition of fresh fuel by firebrands that break away from burning vegetation and structures. Firebrands can rapidly ignite fresh fuel over short distances or can be lofted high into the air and cause spotting ignition many kilometers ahead of the fire front. To accurately predict the spread and impact of large fires, reliable computational models are therefore required for firebrand generation, transport, deposition, and ignition. Of these processes, firebrand generation is generally the least well understood, limiting the accuracy and reliability of computational tools used to predict large fires.\r\n\r\nFirebrand generation depends on physical, chemical, and mechanical processes spanning scales from meters (the size of typical shrubs and trees) to millimeters and below (the scales at which combustion and pyrolysis occur). Due to this complexity, there is currently no physics-based simulation capability that can predict firebrand formation from initial heating to subsequent fracture, through to near-field transport and deposition. In the proposed project, a physics-based predictive capability will be developed for firebrand generation, which will enable more accurate simulations of fire spread in both controlled and catastrophic settings across a range of scales. This is a highly interdisciplinary problem that requires expertise in a wide range of areas, including fluid and solid mechanics, combustion, and computational modeling. The proposed project will involve a coordinated computational and experimental effort to add structural modeling and overset meshing capabilities to a multiphase multi-region adaptive mesh solver, then validate the solver using carefully controlled experiments in a tiltable wind tunnel called the WindCline. The solver will be tested by comparing model results with experimental data on the generation of firebrands from pile burns in Boulder County, CO. Ultimately, the new solver will allow the exploration of a wide range of firebrand generation scenarios, informing the development of models for landscape-scale simulations of fire spread.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Hamlington",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter E Hamlington",
+   "pi_email_addr": "peter.hamlington@colorado.edu",
+   "nsf_id": "000616341",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Hannigan",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael P Hannigan",
+   "pi_email_addr": "hannigan@colorado.edu",
+   "nsf_id": "000422643",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Franck",
+   "pi_last_name": "Vernerey",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Franck J Vernerey",
+   "pi_email_addr": "franck.vernerey@colorado.edu",
+   "nsf_id": "000317340",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Gregory",
+   "pi_last_name": "Rieker",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gregory B Rieker",
+   "pi_email_addr": "greg.rieker@colorado.edu",
+   "nsf_id": "000622727",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Farnsworth",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "John A Farnsworth",
+   "pi_email_addr": "john.farnsworth@colorado.edu",
+   "nsf_id": "000642690",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": null,
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1305489.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2451099",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Effective mathematics and Enumeration degrees",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 180000.0,
+ "awd_amount": 180000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Computability theory emerged in the 1930\u2019s from the need to understand what exactly one means by \u201calgorithm\u201d. Many problems in mathematics can be solved by a person following a set of rules, assuming they have an unlimited amount of time and scratch paper. For example, a person can divide polynomials or determine if a number is prime. Mathematicians have long had an intuitive understanding of what constitutes a valid set of computational rules, i.e., an algorithm. However, to prove that an algorithm cannot solve something, it is needed to formalize that intuition. This problem was addressed by the work of G\u00f6del, Church, and Turing, who took different approaches, yet all managed to identify the same class of \u201ccomputable functions\u201d. (This class captures what can be solved by a programable computer, even though it would be 10 years before the first computer was built.) This early work showed that there are specific problems in elementary number theory that do not have computable solutions. Since then, non-computable problems have been identified in many different subfields of mathematics. Most famously, the solution sets to some Diophantine equations and the word problem for some finitely presented groups are not computable. In computability theory, the goal is not only to show which problems are solvable by an algorithm, but also to study the relative algorithmic complexity of such non-computable problems, which is often connected to the complexity of those problems as measured in other ways. In this project, the focus is on a framework used to measure relative complexity: the enumeration degrees. The motivation then is to study the enumeration degrees because of their nontrivial connections to effective mathematics, where other frameworks prove to be insufficient to measure the effective content of an object. The PIs approach this from various directions, including accumulating new methods, investigating combinatorial properties of the structure, and isolating special classes of degrees that determine the logical character of the structure.\r\n\r\n\r\nEnumeration reducibility captures relative enumerability between sets of natural numbers. The PIs call the induced partial order the enumeration degrees. They can be viewed as a proper extension of the (better studied) partial order of the Turing degrees and a wider context for relative computability. Miller, Soskova, and co-authors proved that the Turing degrees have a first-order definable copy within the enumeration degrees. They also provided many other examples of definable relations, suggesting that the long-standing problem of whether the partial order is rigid might be more approachable in this wider setting. The proposed in-depth study of the enumeration degrees explores a variety of approaches: accumulating an arsenal of identifiable classes of degrees that live within this structure; expanding our methodology; and gaining a better understanding of the algebraic properties of the structure. Effective mathematics has served as a source for identifying non-trivial classes of enumeration degrees. Miller established a connection between topological spaces and the enumeration degrees; other classes that are being investigated arise from symbolic dynamics, from computable structure theory, and from effective algebra. The PIs have many questions about the properties and structure of these classes as well as the interactions between them. Methods form hyperarithmetic theory and more sophisticated notions of forcing have emerged through this work and will be further be extended and analyzed within this project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mariya",
+   "pi_last_name": "Soskova",
+   "pi_mid_init": "I",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mariya I Soskova",
+   "pi_email_addr": "soskova@wisc.edu",
+   "nsf_id": "000751553",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Miller",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph S Miller",
+   "pi_email_addr": "jmiller@math.wisc.edu",
+   "nsf_id": "000230430",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 180000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2443777",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Developing Generalizable ML Models for Diverse Learning Problems in Network Operations",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 698548.0,
+ "awd_amount": 394991.0,
+ "awd_min_amd_letter_date": "2025-04-01",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Modern network applications require high performance and security, yet smaller community and enterprise networks often lack the infrastructure to meet these demands. Machine learning (ML) has shown promise in improving network management, but existing ML models often fail when deployed outside controlled lab environments because they learn patterns that do not generalize well to real-world settings. This project develops a closed-loop ML pipeline that iteratively refines training data collection to improve model generalizability. By analyzing the decision-making process of ML models and identifying statistical biases in training data, the project hopes to ensure that ML-based network solutions are robust, effective, and suitable for deployment in diverse network environments.\r\n\r\nTechnically, the project introduces a new ML framework that continuously improves generalization by iteratively refining training datasets. The research efforts are divided into two main thrusts: (1) designing a programmable data-collection platform that enables flexible and scalable training data acquisition across different network environments, and (2) developing methodologies that use explainable ML techniques to detect and address underspecification issues in network models. The closed-loop approach ensures that ML models adapt over multiple iterations, mitigating learning shortcuts and spurious correlations that degrade performance in real-world settings. This project has significant broader impacts by enabling the development of generalizable ML models for networking, lowering the barrier to collecting high-quality training data, and fostering trust in ML-based network management solutions. By making it easier to curate datasets across diverse network environments, the project supports reproducible research and improves ML adoption in production networks, particularly for research and education (R&E) and last-mile community networks with constrained resources. \r\n\r\nAll project outcomes, including datasets, software, and model implementations, will be made publicly available at https://clml.cs.ucsb.edu/. The repository will be maintained for at least five years, with regular updates based on research progress and community contributions. It will provide documentation, reproducible experiments, and open-source implementations to facilitate further research and practical adoption. This long-term commitment to transparency and accessibility ensures that the project\u2019s contributions benefit researchers, network operators, and educators.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Arpit",
+   "pi_last_name": "Gupta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arpit Gupta",
+   "pi_email_addr": "arpitgupta@cs.ucsb.edu",
+   "nsf_id": "000784374",
+   "pi_start_date": "2025-04-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Barbara",
+  "inst_street_address": "3227 CHEADLE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA BARBARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8058934188",
+  "inst_zip_code": "931060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G9QBQDH39DF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Barbara",
+  "perf_str_addr": "3227 CHEADLE HALL",
+  "perf_city_name": "SANTA BARBARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "931060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 394991.0
+  }
+ ],
+ "por": null
+}

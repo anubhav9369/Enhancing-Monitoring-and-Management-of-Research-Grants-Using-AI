@@ -1,0 +1,126 @@
+{
+ "awd_id": "2442542",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Operationalising Fault-Tolerance in an Uncertain World.",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 760252.0,
+ "awd_amount": 287415.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2024-12-31",
+ "awd_abstract_narration": "Modern applications, be it e-commerce sites, ML serving systems or medical applications place increasingly stringent requirements on the cloud storage systems that underpin them. These systems must offer good performance and scalability, as well as robustness against hardware failures and malicious attacks. Consensus systems, specifically, are used as the root of trust to bootstrap application correctness, and ensure that machines agree on a shared state in spite of failures. Their guarantees rely on the trust model (the set of assumptions about reality) accurately describing the conditions under which the system will operate. This means correctly modeling the network, the types of failures that can arise, as well the number of total possible failures. Unfortunately, existing trust models fail to capture realistic deployment conditions. The project's novelties come from developing new trust models and protocols that explicitly recognise the true, uncertain nature of large scale distributed systems. The project's broader significance and importance are its ability to  significantly improve the performance and robustness of consensus systems, and as such of all the systems that depend on them. \r\n \r\nProduction consensus implementations are deployed over networks that are heterogeneous between LAN and WAN, with blips, and subject to attack, misconfiguration or link failures. Replicas in these systems all have a probability of failure, and this failure rate evolves over time. Yet, engineers do not currently have a good way to precisely express these realistic setups as current abstractions are too coarse-grained. They must either over-insure or under-insure, leading to poor performance and  unnecessarily high replication factors. This project 1) revisits the network model by eschewing the idea that the network is necessarily fully synchronous/asynchronous,  paying particular attention to how protocols recover from blips 2) revisits the failure model and introduces probability-native consensus protocols that view failure rates as dynamically evolving probability distributions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Natacha",
+   "pi_last_name": "Crooks",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Natacha Crooks",
+   "pi_email_addr": "ncrooks@berkeley.edu",
+   "nsf_id": "000840962",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 287415.0
+  }
+ ],
+ "por": null
+}

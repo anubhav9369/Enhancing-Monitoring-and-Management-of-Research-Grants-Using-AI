@@ -1,0 +1,110 @@
+{
+ "awd_id": "2447466",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "REU Site: Combinatorics, Algorithms, and AI applied to Real Problems (CAAR)",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 452506.0,
+ "awd_amount": 452506.0,
+ "awd_min_amd_letter_date": "2025-04-03",
+ "awd_max_amd_letter_date": "2025-04-03",
+ "awd_abstract_narration": "This program will recruit 10 to 20 undergraduates per year to come to the University of Maryland at College Park where they will work for 10 weeks on team research projects with expert mentors. The goal of these projects is to take theoretical results and make progress towards using them in practice. To illustrate our approach, we list four real examples of topics studied in this project and describe how they serve the national interest. \r\n(1) Making programs run faster (e.g., by making them parallel so they can be run using multiple computers or cores). This will benefit all sciences as more and more work in science relies on fast computation. Note that the most recent Nobel prize in Chemistry went to work that used computation in a major way. \r\n(2) Making computer more secure (e.g., by studying secure cryptography and efficient communication schemes). Advancing secure communication is important for both the Military and Financial sectors. \r\n(3) Getting Artificial Intelligence (AI) to make less errors. AI now plays a critical role in healthcare, e.g., in disease diagnosis, selecting treatment, clinical lab testing, drug discovery, and many other tasks. Many such applications are hampered by the fact that AI can make errors and harm people as a result. Practical research on AI aimed at reducing mistakes is important for the health and prosperity of our nation. \r\n(4) Make quantum computers practical. Sometime in the future practical quantum computing may be a reality. We need to both hasten this advance and know how to take advantage of it. Two important applications are simulating quantum mechanics (which will help science) and cryptography (which is important for security). \r\nThis program will give undergraduate students a unique opportunity to do research. This is especially important for students who normally do not have that opportunity, in particular, students from non-research-focused schools and from underrepresented groups. There will be a special effort to recruit such students. This effort will increase the number of researchers which will help science and technology progress faster. This program will give students an idea of what graduate school is like in two ways: \r\n(1) their research projects are scaled down versions of Ph.D. theses; and \r\n(2) there will be interaction with other students in Research Experience for Undergraduates (REU) programs, current graduate students, and faculty. \r\n\r\nThe students will be offered a variety of research projects, and will also be given a strong voice in the creation of their own projects. We list sample projects below: \r\n(1) Parallel Computing: If one computer or core can solve a problem in time T then perhaps p computers (cores) can solve that problem in T/p time. In this project students will study how to design practical and efficient algorithms that can be run on real-world parallel computers and obtain large speedups. \r\n(2) Cryptography and Security: Most current cryptosystems are based on factoring (or other problems in number theory) being hard. Since factoring might become easy due to quantum computers becoming realistic, there has been much work on designing alternative cryptosystems. This project will code up these alternatives to test if they are easy to use, efficient, and secure. \r\n(3) Question-Answering Systems (AI): There are many AI programs that will, given a question, try to answer it. If the question is given as text, they often do very well. If the question is given as an image (e.g., \"is this a dog?\") then they often do poorly. This project will discern which questions they do badly on and strive to make the system better. \r\n(4) Quantum Error Correction: If Alice sends a string of (classical) bits over a noisy line then she can use error-correction techniques that will detect and correct errors. One obstacle to real quantum computers is the lack of good error-correction for qubits. This project will study known quantum error correction  techniques and extend them.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Gasarch",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "William Gasarch",
+   "pi_email_addr": "gasarch@umd.edu",
+   "nsf_id": "000147394",
+   "pi_start_date": "2025-04-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Laxman",
+   "pi_last_name": "Dhulipala",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Laxman Dhulipala",
+   "pi_email_addr": "laxman@umd.edu",
+   "nsf_id": "000870949",
+   "pi_start_date": "2025-04-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "113900",
+   "pgm_ele_name": "RSCH EXPER FOR UNDERGRAD SITES"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9250",
+   "pgm_ref_txt": "REU SITE-Res Exp for Ugrd Site"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 452506.0
+  }
+ ],
+ "por": null
+}

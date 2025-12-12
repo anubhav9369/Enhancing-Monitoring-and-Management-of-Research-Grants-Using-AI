@@ -1,0 +1,102 @@
+{
+ "awd_id": "2442682",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Small: Enabling Dialogue Systems for Non-Functional Requirements",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 309911.0,
+ "awd_amount": 309911.0,
+ "awd_min_amd_letter_date": "2025-06-16",
+ "awd_max_amd_letter_date": "2025-06-16",
+ "awd_abstract_narration": "This project will study policies for interactive dialogue systems to help programmers with non-functional requirements. Interactive dialogue systems are Artificial Intelligence (AI)-based software systems, today largely built on large language models, which communicate with programmers to help them do software engineering tasks. Dialogue policies are the rules, user simulations, and human feedback mechanisms needed to train interactive dialogue systems to handle specific types of conversations. In the context of this project, non-functional requirements capture qualities about software related to legal regulations, contractual obligations, or other characteristics of software that are difficult to describe and yet necessary to implement. The project focuses on privacy and related legal needs. \r\n\r\nThe vision for this project is to achieve a breakthrough in making AI-based dialogue systems capable of helping programmers find and implement non-functional requirements, specifically related to privacy and other legal needs. The basic plan for the proposed work is to: (1) design and conduct experiments about how software engineers interact with dialogue systems to implement non-functional requirements; (2) design models to represent these interactions in terms of dialogue policies; and (3) apply these policies to improve large language models and other AI-based interactive dialogue systems through fine-tuning and modifying training procedures such as custom loss functions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Collin",
+   "pi_last_name": "McMillan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Collin McMillan",
+   "pi_email_addr": "collin.mcmillan@nd.edu",
+   "nsf_id": "000626801",
+   "pi_start_date": "2025-06-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Notre Dame",
+  "inst_street_address": "940 GRACE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "NOTRE DAME",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "5746317432",
+  "inst_zip_code": "465565708",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "IN02",
+  "org_lgl_bus_name": "UNIVERSITY OF NOTRE DAME DU LAC",
+  "org_prnt_uei_num": "FPU6XGFXMBE9",
+  "org_uei_num": "FPU6XGFXMBE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Notre Dame",
+  "perf_str_addr": "836 GRACE HALL",
+  "perf_city_name": "NOTRE DAME",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "465566031",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "IN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 309911.0
+  }
+ ],
+ "por": null
+}

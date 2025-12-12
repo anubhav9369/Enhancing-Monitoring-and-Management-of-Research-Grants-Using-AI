@@ -1,0 +1,142 @@
+{
+ "awd_id": "2504400",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "NeTs: Medium: Energy-Efficient and Reconfigurable Wireless Networks through Hardware-Algorithm Co-Design",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1079968.0,
+ "awd_amount": 1079968.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-09-15",
+ "awd_abstract_narration": "Power consumption is one of the most fundamental constraints in the design of any wireless communication system. Recent trends in wireless technology and its applications have now made power consumption considerations particularly urgent. For example, new cellular systems in the millimeter wave (mmWave) bands offer massive data rates but have come at the cost of staggering power consumption due to the need to support a large number of antennas at a high bandwidth. At the same time, new low-power technologies can now operate in the milli-watts of power but remain limited in data rates. As new embedded systems are increasingly demanding high data rates for sensor and camera data and cloud connectivity, fundamentally novel approaches will be needed to develop high-speed, but energy-efficient wireless networks. This project aims to develop such energy efficient wireless systems through a combination of analog and digital circuits, processing algorithms and communications theory.\r\n\r\nThis project seeks to develop a reliable, energy-efficient high-speed wireless communication system through hardware and algorithm codesign, which allows for very low power digital and radio frequency (RF) hardware with imperfections such as non-linearities and high noise to be compensated by innovative communication algorithms and enables the adaptation of power trade-offs across different components based on channel and network conditions. The work is composed of four interrelated thrusts: Thrust 1 develops new low-power and reconfigurable RF components along with fundamental capacity bounds and signaling methods. Thrust 2 then develops energy-efficient methods to achieve these bounds with co-design of digital hardware and communications algorithms. Thrust 3 extends the methods to multiple antenna systems through novel compact low-power arrays and beamforming processing. Thrust 4 validates the developed methods and techniques with fabricated circuits and a novel low-power emulation platform.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sundeep",
+   "pi_last_name": "Rangan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sundeep Rangan",
+   "pi_email_addr": "srangan@nyu.edu",
+   "nsf_id": "000558888",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Elza",
+   "pi_last_name": "Erkip",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elza Erkip",
+   "pi_email_addr": "elza@nyu.edu",
+   "nsf_id": "000488052",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Brandon",
+   "pi_last_name": "Reagen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brandon Reagen",
+   "pi_email_addr": "bjr5@nyu.edu",
+   "nsf_id": "000838915",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hamed",
+   "pi_last_name": "Rahmani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hamed Rahmani",
+   "pi_email_addr": "hamedrahmani@nyu.edu",
+   "nsf_id": "000937288",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1079968.0
+  }
+ ],
+ "por": null
+}

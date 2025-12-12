@@ -1,0 +1,93 @@
+{
+ "awd_id": "2523421",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Heat Transfer Model for the Assemblage of Firebrands Over Surface Fuels",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927281",
+ "po_email": "hchellia@nsf.gov",
+ "po_sign_block_name": "Harsha Chelliah",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 343370.0,
+ "awd_amount": 219022.0,
+ "awd_min_amd_letter_date": "2025-03-05",
+ "awd_max_amd_letter_date": "2025-03-05",
+ "awd_abstract_narration": "Firebrand shower, also known as ember attack, is the ignition of spot fires due to the generation, transport, and accumulation of embers over vegetation or structural components away from the active fire lines. Although spot fires contribute to rapid wildfire growth and are known to be responsible for significant damages incurred at the Wildland Urban Interface incidents, the current understanding of the heat (energy) transfer mechanisms from firebrands to the exposed surfaces is incomplete. The primary aim of this project is to establish a fundamental knowledge of the heat (energy) transfer from firebrand depositions to the recipient surfaces. The outcomes of this project directly inform wildfire simulators by enabling a physics-based spot fire ignition module leading to more accurate forecasts and estimation of wildfire risk. The project will also encompass educational activities such as mentoring and training undergraduate and graduate students, engagement with stakeholders and practitioners, and creating collaborations between different engineering/scientific disciplines to address challenges in fire science.\r\n\r\nThe main objective of this project is to quantify the heat transfer from the accumulated firebrands to the recipient surface using a systematic, scalable, and accurate quantitative approach. Specifically, the project performs the following tasks: First, conducting numerical simulations using a four-way coupled method to identify the effects of firebrand properties and their interactions within the boundary layer on the deposition patterns over an inert flat surface. Second, incorporating surface fuel morphology into the computational domain, using X-Ray Computed Tomography (XCT), and quantitatively discern its influence on firebrand deposition patterns and heat transfer. Third, leveraging the generated data from high-fidelity simulations, developing a data-driven heat transfer model, and testing its accuracy. The developed model makes the findings applicable for large-scale (operational) wildfire simulators, culminating in the development of a physics-based spot fire ignition module. The results are expected to provide insights into dominant heat transfer mechanisms involved in the spot fire ignition process and establish a computational framework for quantifying the energy transfer from reacting particles to the surrounding walls.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Tohidi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali Tohidi",
+   "pi_email_addr": "atohidi@umd.edu",
+   "nsf_id": "000835667",
+   "pi_start_date": "2025-03-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140700",
+   "pgm_ele_name": "CFS-Combustion & Fire Systems"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 219022.0
+  }
+ ],
+ "por": null
+}

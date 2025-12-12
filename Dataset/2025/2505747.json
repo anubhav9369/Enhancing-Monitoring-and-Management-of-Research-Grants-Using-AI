@@ -1,0 +1,122 @@
+{
+ "awd_id": "2505747",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Medium: Accelerating Privacy-Preserving Machine Learning as a Service: From Algorithm to Hardware",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 399775.0,
+ "awd_amount": 397406.0,
+ "awd_min_amd_letter_date": "2024-11-19",
+ "awd_max_amd_letter_date": "2025-09-10",
+ "awd_abstract_narration": "Machine learning (ML) as a service is being overwhelmingly driven by the ever-increasing clients' intelligent data processing needs through the use of cloud servers, where powerful ML models are hosted. Although pervasive, out-sourced ML processing poses real threats to personal or business providers' data privacy. For example, the clients either need to share their sensitive data, such as healthcare records, financial information, with the server, or the server has to disclose the model to the clients. To guarantee privacy, the rise of cryptographic protocols, such as Homomorphic Encryption (HE), Multi-Party Computation (MPC), enable ML analytics directly on the encrypted data. While enticing, there still exists a big gap between the theory and practice, e.g., long latency due to the prohibitively expensive computation or communication overhead over ciphertext. This project aims to practically accelerate the private ML service by offering a full-fledged development of efficient, scalable and encryption-conscious computing paradigms. The project's novelties lie in new ML-specific cryptographic operators, accuracy-preserving and crypto-friendly neural architectures, and pioneered algorithm-hardware co-design methodologies. The project's broader significance and importance are: (1) to advance trustworthy artificial intelligence (AI), one of the national strategic pillars of the National AI Initiative; (2) to deepen the understanding of interactions among cryptography, machine learning and hardware acceleration; (3) to enrich the computer engineering curriculum, and the training of students from diverse backgrounds through relevant programs at Lehigh University, Northeastern University, and the University of Connecticut.\r\n\r\nThe project will develop a multifaceted design paradigm for efficient, scalable and practical algorithm-hardware co-optimized solutions to significantly accelerate privacy-preserving machine learning on hardware platforms such as FPGA. This project consists of three intervening research thrusts: (1) to orchestrate information representation and model sparsity in the encryption domain to fundamentally decrease the memory and computation footprint in the HE inference; (2) to overcome the ultra-high overhead associated with the MPC-based solution through techniques such as encryption-aware model truncation and partial hardware reconfiguration; (3) to search for crypto-friendly and accuracy-preserving neural architectures via jointly optimizing non-linear operation reduction, and closed loop \"algorithm-hardware\" design space exploration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Caiwen",
+   "pi_last_name": "Ding",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Caiwen Ding",
+   "pi_email_addr": "dingc@umn.edu",
+   "nsf_id": "000806821",
+   "pi_start_date": "2024-11-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 OAK ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554552009",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 189898.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 207508.0
+  }
+ ],
+ "por": null
+}

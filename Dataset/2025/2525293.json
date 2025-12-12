@@ -1,0 +1,122 @@
+{
+ "awd_id": "2525293",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMitF: Track I: Abstraction Refinement-guided Program Synthesis for Verifiable Robot Learning",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922232",
+ "po_email": "sdraghic@nsf.gov",
+ "po_sign_block_name": "Sorin Draghici",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 899109.0,
+ "awd_amount": 899109.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "This project advances science at the intersection of robotics, artificial intelligence, and formal verification to enable reliable and transparent robot behavior in real-world settings. As robots increasingly assist with complex tasks\u2014from warehouse logistics to supporting independent living\u2014ensuring their safe and trustworthy operation is essential. However, state-of-the-art robot learning methods, such as deep reinforcement learning, rely heavily on opaque neural network controllers that are difficult to interpret, verify, and generalize, limiting their use in safety-critical domains. This research addresses these challenges by developing a new class of interpretable control programs, written in domain-specific languages with automatically-inferred domain knowledge. These programs enable robots to reason over long-term goals, adapt to novel environments, and be certified as safe before deployment. Through this approach, the project aims to improve both the efficiency and reliability of real-world robotic systems.\r\n\r\nThe main contributions of this project are new algorithms for the synthesis and verification of robot-control programs, grounded in formal methods, to support transparent and trustworthy robot learning. The proposed approach synthesizes high-level symbolic programs from low-level reward functions or task specifications in continuous, high-dimensional environments. At its core is abstraction refinement, which automatically generates and iteratively improves symbolic representations of environment states and robot capabilities. These abstractions guide the synthesis of recursive, compositional control programs that generalize to long-horizon and multi-object tasks. Verification is achieved through compositional reasoning, enabling the correctness of a control program to be inferred from modular analyses of its components. This significantly reduces the computational burden of verification in complex environments.  The research will be validated on real-world robotic platforms, such as packing and assembly tasks in warehouses, manufacturing, and supply-chain settings, to evaluate the efficiency, scalability, and generality of the proposed synthesis and verification techniques.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "He",
+   "pi_last_name": "Zhu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "He Zhu",
+   "pi_email_addr": "he.zhu.cs@rutgers.edu",
+   "nsf_id": "000814537",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kostas",
+   "pi_last_name": "Bekris",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kostas Bekris",
+   "pi_email_addr": "kostas.bekris@cs.rutgers.edu",
+   "nsf_id": "000520262",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Abdeslam",
+   "pi_last_name": "Boularias",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Abdeslam Boularias",
+   "pi_email_addr": "abdeslam.boularias@rutgers.edu",
+   "nsf_id": "000717794",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "094Y00",
+   "pgm_ele_name": "FMitF: Formal Methods in the F"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "071Z",
+   "pgm_ref_txt": "FMitF-Formal Methods in the Field"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 899109.0
+  }
+ ],
+ "por": null
+}

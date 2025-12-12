@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514459",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Machine Learning and Multi-omics Network Approaches to Predict Protein Functions in Arabidopsis",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032927826",
+ "po_email": "akachroo@nsf.gov",
+ "po_sign_block_name": "Aardra Kachroo",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 1027270.0,
+ "awd_amount": 377732.0,
+ "awd_min_amd_letter_date": "2025-02-11",
+ "awd_max_amd_letter_date": "2025-02-11",
+ "awd_abstract_narration": "Artificial intelligence (AI) is the simulation of intelligence using advanced computer algorithms on diverse large-scale datasets including finance, healthcare, consumer and market science, cybersecurity, and transportation. Recently, AI has been emerging as a prominent tool for biological data analyses including assisting with medical diagnostics as well as the detection of disease-related mutations in genetics and genomics. We aim to employ AI to improve and refine gene functional annotations as well as predict functions for previously unclassified genes in Arabidopsis, a model plant system. Given that biological systems including plant-pathogen interactions are exceedingly complex and genes to phenotype relationships require an understanding of diverse layers of biological information, we will utilize a deep learning- and network-based framework that can integrate multiple heterogeneous datasets to obtain more accurate inferences of gene functions. We will validate our computational findings using experimental approaches. Specifically, we will focus on a set of genes that are related to \u201cSulfur\u201d, which is considered \u201cthe 4th major phytonutrient\u201d using genetics and plant pathology approaches. We expect a variety of deliverables to a wide range of users including researchers both nationally and internationally, educators in high schools, systems biology and bioinformatics specialists, and the plant research community in general. This will provide biological insights, gene prioritization, and testable hypotheses to plant researchers. Moreover, we will discern the molecular mechanisms of newly identified genes in plant defense. This project will also significantly contribute towards local education and outreach priorities through a minority-oriented program, PlantGIFT (Plant Genomics Internship For Teachers. \r\n\r\n  \r\n\r\nNetwork science and deep learning, a subtype of machine learning enable predictive modeling from large and multi-dimensional datasets and elucidate the complex relationships among various layers of \u2013omics to predict the function(s) of the proteins. We aim to apply a hybrid method encompassing network biology and deep learning computational approach to predict gene functions for the unclassified genes as well as refine the Gene Ontology for the inadequately annotated genes. Specifically, we will generate a suite of diverse co-expression networks using transcriptome studies derived from a wide spectrum of biotic and abiotic stress treatments including plant-pathogen interactions. These co-expression networks will be integrated to transcription factor-targets and protein-protein interaction networks. Network topological features will be extracted from the above-described diverse \u2013omics networks and integrated into the predicted function(s) for each node. Moreover, we will predict Arabidopsis genome-wide gene functions using a deep neural networks-based integrative framework that can efficiently perform network embedding on heterogeneous networks. The precision of these computationally derived gene function predictions will be independently validated through genetics- and pathology-based experimental assays. In particular, we will focus on a GO term \u201csulfur\u201d and investigate the biological functions of 60 genes and a pair of regulatory transcription factors in biotic and abiotic stresses including plant defense. We will also establish PlantGIFT (Plant Genomics Internship For Teachers) to integrate research, education, and outreach for minority participation in genomics and plant sciences. In summary, this project will generate resources that will benefit the plant research community and local educators.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shahid",
+   "pi_last_name": "Mukhtar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shahid Mukhtar",
+   "pi_email_addr": "mshahid@clemson.edu",
+   "nsf_id": "000631901",
+   "pi_start_date": "2025-02-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Clemson University",
+  "inst_street_address": "201 SIKES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEMSON",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8646562424",
+  "inst_zip_code": "296340001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "SC03",
+  "org_lgl_bus_name": "CLEMSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2BMNX7DSKU8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Clemson University",
+  "perf_str_addr": "230 Kappa Street",
+  "perf_city_name": "CLEMSON",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "296340001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "SC03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "047Y00",
+   "pgm_ele_name": "Plant-Biotic Interactions"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7218",
+   "pgm_ref_txt": "RET SUPP-Res Exp for Tchr Supp"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9177",
+   "pgm_ref_txt": "ELEMENTARY/SECONDARY EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 377731.0
+  }
+ ],
+ "por": null
+}

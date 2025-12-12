@@ -1,0 +1,98 @@
+{
+ "awd_id": "2442871",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Consistent Immersed Boundary-Modeled Large Eddy Simulations for Flows with Complex and Deforming Surfaces",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927030",
+ "po_email": "rjoslin@nsf.gov",
+ "po_sign_block_name": "Ron Joslin",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 554609.0,
+ "awd_amount": 554609.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Many fluid flows of practical and scientific interest involve fluids flowing past surfaces with complex shapes or with shapes that change in part due to the flow.  Examples include sediment transport in estuaries, biomedical flows such as blood flow in the heart and air flow in lungs, bio-inspired propulsion and flow past moving deformable objects.  Predicting the dynamics of these flows is especially challenging when the flow rates are high, but that is often the case of most interest.  This project will develop a new method, called Immersed Boundary-Modeled Large Eddy Simulations, to compute flow fields in turbulent flows past complex and deforming surfaces.  The method will combine numerical computation with models of turbulence near boundaries to produce accurate predictions of flow dynamics at much lower computational cost than comparable methods.  The models will be formulated to handle arbitrary deformations of immersed objects.  The project will also support educational initiatives to inspire K-12 students to pursue STEM careers, which will help expand the future science and engineering workforce\r\n\r\nThis project will introduce a novel framework that incorporates Immersed Boundaries and turbulence closures consistently. This framework is formulated using volume-filtering and differs from regular Large Eddy Simulation filtering in the treatment of the solid-fluid interface, which is key to incorporating Immersed Boundaries and turbulence closures consistently. The proposed work includes a priori analyses, modeling, and a posteriori analysis of unclosed terms resulting from volume-filtering the solid-fluid interface. A novel closure of the Immersed Boundary-shear stress with a dynamic-slip model specially formulated for moving and deforming Immersed Boundaries will be developed and characterized. This framework will be demonstrated in a prototypal high Reynolds number Fluid Structure Interaction problem that involves significant topology change: the dispersion of large deformable particles in wall-bounded turbulence. Rich datasets from this project will be leveraged to integrate research and education via two initiatives aimed at improving students\u2019 academic attainment. First, undergraduate researchers will build a digital learning environment for fluid dynamics using Augmented and Virtual Reality. This platform will allow lay users to engage with simulation data from this project intuitively and will be used to inspire K-12 students to pursue STEM careers during an annual outreach event. Second, research will be weaved into modernized undergraduate fluid mechanics teaching using engaging Entrepreneurial Mindset pedagogy. This approach will be tested at Arizona State University, then shared with thousands of educators online.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohamed",
+   "pi_last_name": "Kasbaoui",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohamed H Kasbaoui",
+   "pi_email_addr": "mkasbaou@asu.edu",
+   "nsf_id": "000799184",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144300",
+   "pgm_ele_name": "FD-Fluid Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 554609.0
+  }
+ ],
+ "por": null
+}

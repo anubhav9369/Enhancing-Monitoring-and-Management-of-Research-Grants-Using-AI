@@ -1,0 +1,106 @@
+{
+ "awd_id": "2501929",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Modeling the Loosening of Bolted Joints due to Nonlinear Dynamics of Structural Assemblies",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922576",
+ "po_email": "mcanova@nsf.gov",
+ "po_sign_block_name": "Marcello Canova",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 727410.0,
+ "awd_amount": 631070.0,
+ "awd_min_amd_letter_date": "2024-11-19",
+ "awd_max_amd_letter_date": "2024-11-19",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant will fund research that clarifies how loss of integrity of bolted joints affects the resilience and progression to failure of safety- and reliability-critical mechanical structures, with application to vehicles, industrial equipment, biomedical implants, space telescopes, and playground equipment, thereby promoting the progress of science, and advancing the national prosperity and welfare. Loose bolts and screws are a common problem in US infrastructure. Structural failures often have catastrophic consequences, for example, resulting in vehicle crashes or train derailments that lead to casualties, economic loss, and environmental damage. Little is known about how a structure\u2019s dynamics influences the loosening of bolted joints over long periods of operation. Models calibrated using data from the time of assembly fail to enable optimized preventative maintenance over a structure\u2019s lifetime. This project overcomes these challenges by developing predictive modeling approaches that capture the coupling between structural dynamics and the integrity of bolted joints over timespans consistent with the structure\u2019s service life, leading to improved health monitoring of aging infrastructure, toughened designs against the impacts of extreme weather, and more reliable energy generation from renewable sources. The project advances STEM learning and enhances diversity through a \u201cTeach for Discovery\u201d approach that engages students\u2019 natural curiosity through game-based learning and virtual reality experiences. Advise from, and outreach to, industry and national labs ensures that the research activities are informed by industry needs and that results are accessible and effectively assessed.\r\n\r\nThis research aims to develop the foundations of a modeling and validation framework for predicting the long-term nonlinear dynamics of assembled structures with loosening bolted joints. It achieves this aim partly by combining new experimental and modeling techniques to map the strains around a tightened bolt head to the underlying contact conditions inside the interface as the joint evolves dynamically, for example, to test the hypothesis that the rate of loosening is independent of the relative displacement across the interface. Models relating bolt tension to joint stiffness and damping and differential equations governing the evolution of the tensions are then derived from experimental measurements. Finally, the theory of nonlinear normal modes is expanded to incorporate bolt tension as a dependent variable and used to characterize the influence of internal resonances on the progression of local damage.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Keegan",
+   "pi_last_name": "Moore",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Keegan J Moore",
+   "pi_email_addr": "kmoore@gatech.edu",
+   "nsf_id": "000786661",
+   "pi_start_date": "2024-11-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  },
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 631070.0
+  }
+ ],
+ "por": null
+}

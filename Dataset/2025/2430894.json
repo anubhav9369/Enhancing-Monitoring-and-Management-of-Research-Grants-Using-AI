@@ -1,0 +1,93 @@
+{
+ "awd_id": "2430894",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Large-Scale and Accurate Simulation of Heterogeneous Electrocatalysis: Methods, Activation Energies, pH and Cation effects",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927104",
+ "po_email": "bchandle@nsf.gov",
+ "po_sign_block_name": "Bert Chandler",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2028-01-31",
+ "tot_intn_awd_amt": 346593.0,
+ "awd_amount": 346593.0,
+ "awd_min_amd_letter_date": "2025-03-04",
+ "awd_max_amd_letter_date": "2025-03-04",
+ "awd_abstract_narration": "The research path to clean energy technology and sustainable manufacturing of chemicals is increasingly turning to electrochemistry.  Electrochemical approaches open the door to the use of electrical energy derived from sustainable sources such as wind and solar energy.  Although significant advances have been made in electrochemical reactions promoted by catalysts (i.e., electrocatalysis), many challenges remain.  Experimental studies alone often cannot unravel the complex chemical and physical processes underlying electrocatalytic reactions.  The present project addresses this \u201ccomplexity challenge\u201d by adding theoretical and mathematics-based analysis of electrocatalytic reactions of importance to fuel cell technology and sustainable manufacturing of chemicals.\r\n  \r\nUntil recently, atomistic simulation methods, primarily rooted in density functional theory (DFT), have been used to provide insights regarding catalysis at the electrochemical interface.  However, the complexity of chemistry, physics and transport mechanisms at the interface limits the models to small scales and special atomic configurations, which are often not realistic enough to accurately describe the interfacial processes.  With regard to catalysis, DFT based models alone are challenged in providing information about reaction activation energies, thus preventing direct assessment of reaction rates.  The project addresses these limitations by developing an accurate and efficient method to enable large-scale simulations for heterogeneous electrocatalysis.  Machine learning force field (ML FF) is a promising approach to realize such simulations.  The project will further enhance MLFF capability by adding features that describe the behavior of electrons under the grand canonical ensemble (GCE) in the catalyst.  The expanded ML FF model (called \u201ce-GCE-FF\u201d) will be enabled by leveraging 'global state' features of graph neural networks developed previously by the research team.  The integrated e-GCE-FF approach will be used to study pH and cation effects in heterogeneous electrocatalysis.  Specifically, the project will address two long-standing questions: 1) why oxygen reduction on Au (100) proceeds through a two-electron pathway under acidic conditions, while changing to a four-electron pathway under alkaline conditions; and 2) why larger electrolyte cations promote the hydrogen evolution on Au while suppressing it on Pt?  More broadly, the  expanded MLFF code will be made open-source, and can be extended to other electrochemical systems (e.g. battery, corrosion).  From the educational and outreach perspectives, the project will provide an excellent training opportunity for students interested in computational chemistry and data science. The research results will be integrated into the course curriculum, and the project leader will actively engage the general public through the university\u2019s outreach programs such as \u201cExplore UT\u201d.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuanyue",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuanyue Liu",
+   "pi_email_addr": "yuanyue.liu@austin.utexas.edu",
+   "nsf_id": "000759740",
+   "pi_start_date": "2025-03-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140100",
+   "pgm_ele_name": "Catalysis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 346593.0
+  }
+ ],
+ "por": null
+}

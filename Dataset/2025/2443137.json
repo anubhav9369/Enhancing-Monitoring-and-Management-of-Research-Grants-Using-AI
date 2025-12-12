@@ -1,0 +1,114 @@
+{
+ "awd_id": "2443137",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Toward Efficient and Scalable Mobile Fronthaul Empowered by Analog Radio-over-Fiber",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 482166.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "Over 100 trillion megabytes of data are currently consumed per year by mobile users in the U.S. alone. All this traffic is transported to users\u2019 devices through cell sites (base stations) from the cloud. In a traditional cellular network, both the radio head and the baseband processing unit are located together at the cell site. In future radio access networks (RANs), the radio unit (RU) is located at the cell site while the processing unit is located at the distributed/centralized unit (DU/CU), which could be located in a metropolitan area. Fronthaul is a critical component of radio access networks (RANs), supporting the data transport between the RU and the DU/CU over a fiber optic network. Current mobile fronthaul employs digital radio-over-fiber (DRoF) technology based on digital interfaces such as the enhanced Common Public Radio Interface (eCPRI), which has a limited capacity and inefficient utilization of the underlying fiber networks. In contrast, analog radio-over-fiber (ARoF), which directly modulates radio frequency (RF) signals onto light for transmission over low-loss fibers at low latency, presents a promising approach for mobile fronthaul due to its high capacity and spectral efficiency, and the support of significantly simplified RU architecture. This project aims to enhance the efficiency and scalability of next-generation mobile networks by employing ARoF-based fronthaul. By moving away from the DRoF-based fronthaul approaches, ARoF-based fronthaul can facilitate more flexible network deployment, seamless integration with virtualized RANs, and efficient resource allocation across the wireless and optical domains.\r\n\r\nThe research tasks proposed in this project target the following scientific directions over three interrelated research thrusts: (i) Development of a unified framework for efficient transmission of multi-band and coherent RF signals over ARoF-based mobile fronthaul; (ii) Design of an efficient control architecture for reconfigurable mobile fronthaul networks supporting the coexistence of heterogeneous signals, incorporating dynamic resource allocation across the wireless and optical domains while ensuring seamless and adaptive network operations; (iii) Development of and experimentation with novel communication, spectrum sensing, and resource allocation paradigms that can be uniquely enabled by ARoF signals traversing the mobile fronthaul network.\r\n\r\nThis project plans to enhance the efficiency and scalability of next-generation mobile fronthaul. Specifically, this is expected to lead to expediting the adoption of ARoF technology in mobile networks and unleash the bandwidth capabilities of the fronthaul fiber, resulting in improved resource utilization in both the last-mile wireless access networks and the underlying fronthaul fiber infrastructure. By jointly optimizing the network performance across the wireless and optical domains, this project provides a meeting ground for wireless communication and optical networking research, and a platform to engage graduate, undergraduate, and high-school students in networking and communications research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tingjun",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tingjun Chen",
+   "pi_email_addr": "tingjun.chen@duke.edu",
+   "nsf_id": "000842584",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 482166.0
+  }
+ ],
+ "por": null
+}

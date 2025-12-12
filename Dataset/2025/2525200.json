@@ -1,0 +1,98 @@
+{
+ "awd_id": "2525200",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Operator-Automation Shared Protection for Security and Safety Assured Industrial Control Systems: Learning, Detection, and Recovery Control",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2024-11-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 108510.0,
+ "awd_min_amd_letter_date": "2025-03-05",
+ "awd_max_amd_letter_date": "2025-03-05",
+ "awd_abstract_narration": "Industrial control systems (ICSs) are commonly utilized in critical infrastructures, including power, water treatment and distribution, and transportation. However, the increasing digitization of ICSs, involving sensing, communication, and control, brings advanced features but also exposes vulnerabilities to malicious cyber-attacks. Protecting ICSs from such attacks is crucial due to the potential catastrophic physical damages they can cause. The project aims to develop a comprehensive solution, integrating human-on-the-loop explainable machine learning (ML), detection, and recovery control in an operator-automation shared protection framework, to provide security and safety-assured ICSs against malicious cyber-attacks. Moreover, the project will incorporate engineering research and education to train students, particularly those from Under-Represented Minorities (URM), and cultivate a diverse, globally competitive cybersecurity workforce. With the goal of lowering barriers to ICSs security research and education, this project aims to have a significant impact by providing accessible testbeds for a diverse population of beginning and expert cybersecurity students and engineers to learn and practice.\r\n\r\nThe underlying concept of process anomaly detection, which is used for detecting cyber-attacks, involves comparing observed and expected behaviors based on physical invariants. The data-driven approach has the advantage of automatically discovering these physical invariants without requiring domain expertise. However, existing approaches based on black-box Machine Learning (ML) often overlook the role of system operators in safety-critical ICSs. The lack of insightful explanations in detection results hinders system operators from conducting troubleshooting and isolating anomalous sensors and actuators under attack, which is necessary for scheduling online recovery. To address this issue, the PI's team proposes to develop an operator-automation shared protection framework that unifies human-on-the-loop explainable ML, detection, and recovery control. This framework aims to enable real-time decision-making using cutting-edge ML and control techniques while valuing the feedback of human operators to prevent over-trust in autonomy in a safety-critical system. The research project has three major objectives: 1) The PI's team will develop insightful hybrid automata learning that captures physical invariants in a way that system operators can understand the model and the detection results, verify and correct the model, and localize anomalies; 2) A real-time provably safe control under uncertainty will be designed to restore the system to normal operation without violating safety constraints; and 3) the PI\u2019s team will evaluate, demonstrate, and disseminate best practices of the proposed framework on 3D simulated and real testbeds with portability across a wide range of ICSs for lowering the barriers to ICSs security research and education.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qin",
+   "pi_last_name": "Lin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qin Lin",
+   "pi_email_addr": "qlin21@central.uh.edu",
+   "nsf_id": "000891219",
+   "pi_start_date": "2025-03-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Houston",
+  "inst_street_address": "4300 MARTIN LUTHER KING BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7137435773",
+  "inst_zip_code": "772043067",
+  "inst_country_name": "United States",
+  "cong_dist_code": "18",
+  "st_cong_dist_code": "TX18",
+  "org_lgl_bus_name": "UNIVERSITY OF HOUSTON SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QKWEF8XLMTT3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Houston",
+  "perf_str_addr": "4300 MARTIN LUTHER KING BLVD",
+  "perf_city_name": "HOUSTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "772043067",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "18",
+  "perf_st_cong_dist": "TX18",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 108510.0
+  }
+ ],
+ "por": null
+}

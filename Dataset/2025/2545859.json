@@ -1,0 +1,146 @@
+{
+ "awd_id": "2545859",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Learning stochastic spatiotemporal dynamics in single-molecule genetics",
+ "cfda_num": "47.049, 47.074",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2029-06-30",
+ "tot_intn_awd_amt": 499683.0,
+ "awd_amount": 210753.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "The ability to measure which genes are expressed in cells has revolutionized our understanding of biological systems. Discoveries range from pinpointing what makes different cell types unique (e.g., a skin vs. brain cell) to how diseases emerge from genetic mutations. This gene expression data is now a ubiquitously used tool in every cell biologist\u2019s toolbox. However, the mathematical theories for reliably extracting insight from this data have lagged behind the amazing progress of the techniques for harvesting it. This CAREER project will develop key theoretical foundations for analyzing imaging data of gene expression. The advances span theory to practice, including developing mathematical models and machine-learning approaches that will be used with data from experimental collaborators. Altogether, the project aims to create a new gold standard of techniques in studying spatial imaging data of gene expression and enable revelation of new biological and biomedical insights. In addition, this proposed research will incorporate interdisciplinary graduate students and local community college undergraduates to train the next generation of scientists in the ever-evolving intersection of data science, biology, and mathematics.  Alongside research activities, the project will create mentorship networks for supporting first-generation student scientists in pursuit of diversifying the STEM workforce. \r\n\r\nThe supported research is a comprehensive program for studying single-molecule gene expression spatial patterns through the lens of stochastic reaction-diffusion models. The key aim is to generalize mathematical connections between these models and their observation as spatial point processes. The new theory will incorporate factors necessary to describe spatial gene expression at subcellular and multicellular scales including various reactions, spatial movements, and geometric effects. This project will also establish the statistical theory of inference on the resulting inverse problem of inferring stochastic rates from only snapshots of individual particle positions. Investigations into parameter identifiability, optimal experimental design, and model selection will ensure robust and reliable inference. In complement to the developed theory, this project will implement and benchmark cutting-edge approaches for efficiently performing large-scale statistical inference, including variational Bayesian Monte Carlo and physics-informed neural networks.  The culmination of this work will be packaged into open-source software that infers interpretable biophysical parameters from multi-gene tissue-scale datasets.\r\n\r\nThis CAREER Award is co-funded by the Mathematical Biology and Statistics Programs at the Division of Mathematical Sciences and the Cellular Dynamics & Function Cluster in the Division of Molecular & Cellular Biosciences, BIO Directorate.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Miles",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher E Miles",
+   "pi_email_addr": "cemiles@uci.edu",
+   "nsf_id": "000861254",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "111400",
+   "pgm_ele_name": "Cellular Dynamics and Function"
+  },
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  },
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "068Z",
+   "pgm_ref_txt": "URoL-Understanding Rules of Life"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 210752.0
+  }
+ ],
+ "por": null
+}

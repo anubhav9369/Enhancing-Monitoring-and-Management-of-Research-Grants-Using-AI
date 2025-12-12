@@ -1,0 +1,110 @@
+{
+ "awd_id": "2513548",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: NewSpectrum: Enabling Dense and In-Situ Spectrum Monitoring via Analog Correlators and Circuits-System Co-Design",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 199997.0,
+ "awd_amount": 199997.0,
+ "awd_min_amd_letter_date": "2024-12-18",
+ "awd_max_amd_letter_date": "2024-12-18",
+ "awd_abstract_narration": "Ushering in a new era of spectrum sharing requires dynamic spectrum access (DSA) that natively supports both primary and legacy users, while creating new opportunities for spectrum utilization. A comprehensive blend of technical, economic, and policy-based solutions is required to realize this vision, including potential modification to existing cellular standards to ensure that future 6G standards are inherently \u201csharing native\u201d. Precise, low-latency, and localized spectrum usage monitoring that is aware of and integrated with the cellular Physical (PHY) and upper layers in the networking stack is essential for facilitating effective spectrum utilization and sharing in Spectrum Era 4. However, existing spectrum sharing systems typically rely on a separate monitoring network comprising dedicated, costly, and sparsely deployed spectrum sensors, e.g., the Citizens Broadband Radio Service (CBRS) networks rely on an environmental sensing capability (ESC) sensor network deployed in coastal areas to detect transmissions from Navy vessels and radars. This project aims to realize a transformative vision for spectrum sensing in Spectrum Era 4, which supports dense and in-situ spectrum sensing with significantly enhanced sensing resolution across the temporal and spatial domains, improved energy efficiency, and cooperative sensing strategies that are aware of the cellular protocols. As such, it has the potential to revolutionize the next generation of cellular technologies (e.g., 6G and beyond) to be sharing native with significantly enhanced spectrum awareness and sensing resolution.\r\n\r\nThis project targets the following scientific contributions from three interdisciplinary and interrelated research thrusts. (i) Development of ultra-efficient, single-shot, analog cross-correlators (X-Corr) capable of computing the cross-correlations between input signals and template waveforms across varying lags, enabling spectrum sensing with ultra-low latency. Using the margin computing paradigm, analog X-Corr with superior energy efficiency and (>1,000 TOPS/W) can be designed and realized in integrated circuit (IC) implementations without compromising the computing speed or precision. (ii) Design of protocol-aware configuration and adaption for X-Corr to enable fine-grained, in-band spectrum sensing. This allows for detailed sensing of spectrum occupancy and detection of interference signals at the symbol or slot level (a few to 10s of microseconds) with both known and unknown features (e.g., for airborne and ground radars) and employ diverse PHY layers (e.g., 5G New Radio and Wi-Fi). (iii) Optimized deployment and configuration of a network of densely deployed X-Corr sensors to facilitate cooperative, in-situ spectrum sensing that is aware of the communication standards. Such a network also enhances the ability to localize and track interference sources with significantly lower latency and cost. Evaluation of the proposed research includes analysis, simulations, IC implementations, circuits-system co-design and integration, as well as field experiments using local and community wireless testbeds.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aravind",
+   "pi_last_name": "Nagulu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aravind Nagulu",
+   "pi_email_addr": "a.nagulu@northeastern.edu",
+   "nsf_id": "000931210",
+   "pi_start_date": "2024-12-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140Y00",
+   "pgm_ele_name": "SWIFT-Spectrum Innov Futr Tech"
+  },
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 199997.0
+  }
+ ],
+ "por": null
+}

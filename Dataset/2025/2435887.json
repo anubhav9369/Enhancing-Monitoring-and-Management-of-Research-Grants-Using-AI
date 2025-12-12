@@ -1,0 +1,93 @@
+{
+ "awd_id": "2435887",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: ACED: Track 1: PanAX: Accelerating Epidemic Science through Causally-Informed Domain Generalization and Knowledge Transfer",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 167000.0,
+ "awd_amount": 167000.0,
+ "awd_min_amd_letter_date": "2025-06-04",
+ "awd_max_amd_letter_date": "2025-06-04",
+ "awd_abstract_narration": "The understanding and containment of epidemics involves many factors, such as how people behave and interact, how they move around, and the decisions made by governments and organizations to control the spread. Because of this complexity, building accurate and timely models to predict and manage outbreaks in near real time is challenging and time consuming. It also requires copious data, which are often unavailable when it is urgently needed. To address these challenges, this project develops PanAX, a new computational system to improve how we prepare for and respond to evolving epidemics. The core idea is to use existing data and models in smarter ways and based on situational awareness, so we do not have to start from scratch every time. The focus is on identifying and leveraging the key underlying patterns and relationships that drive the spread of diseases, allowing models and data to be adapted to new situations more easily. Bringing together experts from computational and data sciences with epidemiologists,  PanAX explores the deeper causes of how epidemics spread in different contexts, helping to create models that are more adaptable, accurate and reliable based on real-time conditions. The project develops methods to reuse parts of existing data and models, applying them to new outbreaks in different locations or circumstances. Consequently, new tools will be created to better plan, inform, prepare the public, and respond to outbreaks. The project also trains students and researchers in advanced techniques in data and model driven response to epidemics, equipping them to tackle real-world challenges. In short, the aim of this project is to make epidemic response faster, more efficient, and more effective, using advanced data and machine learning technologies to benefit the society.\r\n\r\n\r\nEpidemics represent complex systems where the dynamics of disease spreading emerge from an interplay of time-dependent factors, including spatially distributed populations, mobility networks, and intervention policies. Modeling these systems accurately is challenging due to their multi-layered, causally interdependent structure and the lack of sufficient, high-quality data during critical early stages of an outbreak. The project develops an innovative framework, PanAX, that addresses these challenges by leveraging a data-driven, causally-informed approach to improve model reuse, generalization, and transferability across epidemic contexts. PanAX aims to disentangle and isolate domain-specific and domain-agnostic components from data and models, enabling efficient knowledge transfer and adaptive modeling. PanAX incorporates multi-layer, multi-scale causal relationships to better capture uncertainties in models derived from observational data and uses causality-based de-biasing techniques to eliminate statistical artifacts, enhancing model robustness and accuracy. It identifies transferable features and models between contexts, facilitating knowledge transfer from data-rich scenarios to emerging outbreaks with limited data. The framework focuses on scalable and effective spatio-temporal modeling, leveraging causal discovery and data management techniques to support counterfactual \"what-if\" analyses for outbreak preparedness and enhance prediction and intervention modeling by repurposing existing data and models. The project will deliver an open-source software system supporting researchers, public health officials, and policymakers in planning and managing epidemics. It aims to accelerate research, catalyze the development of innovative tools, and train the next generation of computer scientists to tackle cross-disciplinary challenges in causal learning, data integration, and computational epidemiology. By advancing the state of the art in causally-informed domain generalization and knowledge transfer, PanAX will transform how data and computer scientists contribute to epidemic science, offering scalable and generalizable solutions with real-world impact.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gerardo",
+   "pi_last_name": "Chowell-Puente",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gerardo Chowell-Puente",
+   "pi_email_addr": "gchowell@gsu.edu",
+   "nsf_id": "000693185",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia State University Research Foundation, Inc.",
+  "inst_street_address": "58 EDGEWOOD AVE NE",
+  "inst_street_address_2": "FL 3",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4044133570",
+  "inst_zip_code": "303032921",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MNS7B9CVKDN7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia State University Research Foundation, Inc.",
+  "perf_str_addr": "58 EDGEWOOD AVE NE",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303032921",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 167000.0
+  }
+ ],
+ "por": null
+}

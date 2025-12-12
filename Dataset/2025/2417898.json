@@ -1,0 +1,110 @@
+{
+ "awd_id": "2417898",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CCF:SHF:Small: Some new classes of codes for computer and memory systems.",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-02-19",
+ "awd_max_amd_letter_date": "2025-02-19",
+ "awd_abstract_narration": "Flash memory systems are currently among the leading non-volatile memory technologies. To increase storage density, each memory cell in these systems is programmed to hold multiple bits . Errors in these systems tend to be of limited magnitude. This project aims to design efficient codes capable of correcting such limited magnitude errors, thereby enhancing the reliability of these systems. Additionally, in communication and magnetic recording systems, synchronization errors can occur in two forms. The first type is a deletion error, where a transmitted symbol is not received. The second type is an insertion error, where an unexpected spurious symbol is received. The propagation of these errors can greatly reduce the performance of these systems. This project plans to design efficient codes capable of correcting these types of errors, thereby improving the overall performance and robustness of these systems. The proposed research will also serve to advance graduate education through graduate research assistantships and undergraduate education via the Research Experience for Undergraduates (REU) program. Involving students in the proposed research will give them valuable experience transferable to many industry and career paths. \r\n\r\nAt present, most known codes are designed using the power sums of index sets over a Galois field GF(q). This project proposes a unified approach to designing several new families of efficient error-correcting codes based on the theory of Elementary Symmetric Functions (ESF). The goal is to develop efficient linear and cyclic codes over Zm (integers modulo m) for both L1 and Lee distances using the ESF framework. Additionally, the project will explore the design of insertion/deletion error-correcting codes grounded in ESF theory. A specific focus will be on developing codes capable of handling the insertion or deletion of t zeros in each run (or bucket) of zeros. This problem is closely related to the zero-error capacity codes introduced by Shannon in 1956.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bella",
+   "pi_last_name": "Bose",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bella Bose",
+   "pi_email_addr": "bose@eecs.orst.edu",
+   "nsf_id": "000372267",
+   "pi_start_date": "2025-02-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  },
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7935",
+   "pgm_ref_txt": "COMM & INFORMATION THEORY"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

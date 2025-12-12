@@ -1,0 +1,98 @@
+{
+ "awd_id": "2434008",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Track 2: Market and Protocol design for Multi-operator Radio Resource Sharing",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 192000.0,
+ "awd_amount": 192000.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Despite the growing need for spectrum resources, spectrum licensed for commercial use remains largely underutilized due to lack of established market mechanisms for dynamic trading of the spectrum between cellular operators. Further, there are no protocols that implement such sharing and exchange on short time scales. Multi-operator spectrum sharing is therefore necessary not only to make best use of this critical resource (spectrum), but also to improve the profitability of spectrum service providers and reduce the cost to customers. Towards this goal, the project aims to develop new market mechanisms and protocol support for dynamic and automated spectrum sharing between cellular providers. Deriving motivation from electricity markets, the project analyzes a two-step design for spectrum markets, involving trading of both forward and spot spectrum contracts between cellular operators. Building upon the Open Radio Access Network (O-RAN) software framework, the project also analyzes designs that provide logical connectivity from different radio access networks (that might belong to different operators) to the cellular core networks of one or more of the chosen operators. \r\n\r\nThis project explores a design of a two-timescale market involving a forward spectrum market (FSM) and a spot spectrum market (SSM) through which forward and spot spectrum contracts are traded between cellular providers, in addition to any bilateral settlements that may exist over longer timescales. This enables flexible sharing of radio resources between cellular operators. Further, this project utilizes network slicing within the framework of the O-RAN architecture and protocols to realize the forward and spot contracts in a secure and efficient manner. Different from traditional roaming, network slices seek to provide users of the slice an assured amount of bandwidth and latency through service-level agreements (SLAs). The project also seeks to implement prototypes of the market solution and the network slice implementation over cellular networks, where the market clearing solutions are fed to the 5G core network that supports network slicing. The broader impacts of the project are realized through continued collaboration with cellular network operators and device vendors, incorporating research insights into courses and capstone projects, and involving undergraduate student researchers in developing a Spectrum Trading Game aimed at motivating high-school students towards science and technology careers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Koushik",
+   "pi_last_name": "Kar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Koushik Kar",
+   "pi_email_addr": "koushik@ecse.rpi.edu",
+   "nsf_id": "000227805",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 192000.0
+  }
+ ],
+ "por": null
+}

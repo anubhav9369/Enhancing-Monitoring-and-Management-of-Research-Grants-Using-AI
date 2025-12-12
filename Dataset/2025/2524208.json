@@ -1,0 +1,142 @@
+{
+ "awd_id": "2524208",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: CNS Core: Medium: Secure, Reliable, and Efficient Long-Term Storage",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 466503.0,
+ "awd_amount": 328017.0,
+ "awd_min_amd_letter_date": "2025-03-20",
+ "awd_max_amd_letter_date": "2025-04-16",
+ "awd_abstract_narration": "The world produces more digital data annually that\u2019s growing exponentially.  Storing data for decades is challenging and securing it for so long is even more challenging.  This project develops secure, efficient, long-term archival storage systems for digital information that endures beyond a single human lifetime.  The project uses a long-term security model that is safe against faster computers and even quantum computers and can protect against malicious \"insiders\" who abuse their access to secretly steal data slowly over years.  Lastly, the project explores how to maintain long-term data securely and efficiently, even if individual storage providers cease to exist.\r\n\r\nThis project develops techniques to store archival data securely and reliably for a long-time using information theoretic security and combinatorial security.  The project explores techniques to allow data to survive errors ranging from corruptions of a few bytes to large-scale cloud failures.  It then explores the trade-off between additional storage requirements, data security and reliability, and system performance.  Empirical evaluation of a prototype system provides insights into real-world issues in implementing these techniques over the project\u2019s lifespan, and a simulator embodying these techniques allows projection of the techniques\u2019 effectiveness over much longer time frames.\r\n\r\nThis project fosters collaborations across systems, theory, and security researchers to develop practical techniques to both secure data for many years and ensure that the data endures unchanged.  Storage must meet both criteria for a society based on digital data to rely on it.  All source code for a prototype system and simulator is maintained and released publicly.  Material from this project is integrated into graduate level courses and a new \u201cSecure Storage Systems\u201d course.  The project recruits and co-advises several under/graduate students, with a focus on female and Hispanic students, both traditionally underrepresented in computer systems research.\r\n\r\nThe project's artifacts\u2014software, source code, data sets, secure archive simulator, traces, and results\u2014are all embodied in a system called \"SecArch: Secure Archives\".  Results will be disseminated using peer-reviewed publications and arxiv.org.  All artifacts will be made public through the project Website: https://www.filesystems.org/secarch.  The project plans to maintain the site for at least ten years following the end of the project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Former Principal Investigator",
+   "pi_first_name": "Ethan",
+   "pi_last_name": "Miller",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ethan L Miller",
+   "pi_email_addr": "elm@ucsc.edu",
+   "nsf_id": "000230226",
+   "pi_start_date": "2025-03-20",
+   "pi_end_date": "2025-04-16"
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Erez",
+   "pi_last_name": "Zadok",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erez Zadok",
+   "pi_email_addr": "ezk@cs.stonybrook.edu",
+   "nsf_id": "000182603",
+   "pi_start_date": "2025-04-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Stony Brook",
+  "inst_street_address": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STONY BROOK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6316329949",
+  "inst_zip_code": "11794",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NY01",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "M746VC6XMNH9",
+  "org_uei_num": "M746VC6XMNH9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Stony Brook",
+  "perf_str_addr": "W5510 FRANKS MELVILLE MEMORIAL L",
+  "perf_city_name": "STONY BROOK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "117940001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NY01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 94453.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 114502.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 119062.0
+  }
+ ],
+ "por": null
+}

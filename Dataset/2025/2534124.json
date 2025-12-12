@@ -1,0 +1,98 @@
+{
+ "awd_id": "2534124",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Making Single-Cell Proteomics data FAIR",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032927799",
+ "po_email": "kdittmar@nsf.gov",
+ "po_sign_block_name": "Katharina Dittmar",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 498240.0,
+ "awd_amount": 498240.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "An award is made to Northeastern University to enable the development of advanced cyberinfrastructure that will support the FAIR (Findable, Accessible, Interoperable, Reusable) use of single-cell proteomics (SCP) data. SCP is a rapidly emerging field that allows scientists to directly measure proteins in individual cells, offering insights into biology that cannot be obtained by measuring RNA alone. The project will develop open data standards, bioinformatics tools, and data-sharing platforms that ensure SCP data can be easily reused by researchers worldwide. This work will also provide educational opportunities for students through hands-on training in data science and computational biology, promote open science practices, and deliver outreach programs aimed at improving public scientific literacy. By fostering data sharing and reproducibility, the project contributes to a robust scientific workforce and broader societal goals such as improving human health, protecting the environment, and advancing biological understanding through collaborative research.\r\n\r\nThe research addresses urgent needs in the scientific community by enabling rigorous and transparent analysis of single-cell proteomics data. As this technology matures, large volumes of complex data are being generated, yet the current infrastructure limits researchers' ability to standardize, share, and interpret these datasets effectively. The project will formalize open metadata standards, extend open-source pipelines for quality control and analysis, and integrate reanalyzed public datasets into widely used resources such as the PRIDE database, the Single Cell Expression Atlas, and the Chan Zuckerberg Initiative\u2019s CellxGene portal. By supporting reproducible reanalysis and downstream meta-analysis, the project will unlock new biological insights, such as identifying protein covariation patterns that may reveal mechanisms of cellular regulation. This work will empower the scientific community to advance discovery through more transparent, interoperable, and accessible use of proteomics data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nikolai",
+   "pi_last_name": "Slavov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nikolai Slavov",
+   "pi_email_addr": "nslavov@northeastern.edu",
+   "nsf_id": "000837537",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "168Y00",
+   "pgm_ele_name": "Capacity: Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 498240.0
+  }
+ ],
+ "por": null
+}

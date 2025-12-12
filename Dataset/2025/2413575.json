@@ -1,0 +1,126 @@
+{
+ "awd_id": "2413575",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Bioionics: Probing Cellular Ionic Attributes Enabled by a Novel Soft Bio-Ionic Transistors",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 479716.0,
+ "awd_amount": 479716.0,
+ "awd_min_amd_letter_date": "2025-05-29",
+ "awd_max_amd_letter_date": "2025-05-29",
+ "awd_abstract_narration": "Biological cells utilize ions to signal and communicate with neighboring cells and their environment. Despite the critical role of ionic signaling in biological systems, our understanding of such phenomena remains limited. Ionic kinetics, crucial for cellular functions and signaling, are only understood qualitatively due to the lack of near-real-time monitoring technologies. Studying and manipulating these ionic signals not only helps in understanding how microorganisms communicate, evolve, and develop, but also enables the probing and controlling of cellular activities. This proposal aims to develop innovative soft ionic transistors to measure and analyze the ionic characteristics of biological cells and their environments. This project seeks to bridge the gap between rigid electronic devices and soft ionic biological systems by designing soft ionic transistors that use cellular ions to trigger their gating mechanism. This advancement would enable the study and could significantly enhance the understanding of cellular functions, stress responses, and the role of ions and ionic signals in biological systems, thereby providing deeper insights into biological mechanisms. The outcomes of this project are expected to have broad societal impacts, including significant effects on drug discovery and testing, personalized medicine, aging studies, and novel therapeutic strategies such as pain management and rehabilitation.\r\n\r\nIonic kinetics and the resultant intracellular-extracellular ion concentration gradients control cellular functions and intercellular signaling and communications. These ion concentration gradients indicate the health and functionality of cells and organs. Despite its critical role, the current understanding of cellular ionic kinetics remains largely qualitative, and the capacity to evaluate cellular functions based on their ionic activities is very limited. These limitations stem from the absence of technologies that can monitor ionic activities at the cellular level in near-real-time and continuously. This proposal aims to advance the understanding of cellular ionic kinetics by developing soft ionic transistors capable of continuously monitoring ionic activities at the cellular level. These transistors feature a novel gating mechanism triggered by ions secreted during cellular activities, allowing for near-real-time, quantitative evaluation of cellular ionic functions and addressing the current technological gap in monitoring ionic activities in biological systems. The central hypothesis of this research is that ion concentration gradients can polarize the ionic environment inside a transistor, forming electron-conductive ionic double layers at the bioenvironment-transistor interface. This hypothesis will be tested through in-vitro cell studies facilitated by soft ionic transistors. The project will involve designing, fabricating, and characterizing soft ionic transistors, followed by in-vitro cell studies to test the central hypothesis. Machine learning algorithms will be employed to develop a comprehensive model of the ionic attributes of biological systems, establishing relationships involving multiple interrelated physical, chemical, and biological variables. The anticipated outcome is a significant enhancement in the quantitative evaluation of cellular ionic activities and understanding of the correlations between ionic kinetics and cellular functions, thus bridging a critical gap in current knowledge of cellular ionics and their role in biological systems. The project outcomes are expected to have broad scientific and societal impacts. The ability to chronically study developing and growing biological systems will significantly impact various scientific fields, including drug discovery, aging research, personalized medicine, and novel therapeutic strategies such as pain management, all of which have broad societal impacts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Reza",
+   "pi_last_name": "Montazami",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Reza Montazami",
+   "pi_email_addr": "rmontazami@missouri.edu",
+   "nsf_id": "000083013",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nicole",
+   "pi_last_name": "Hashemi",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicole N Hashemi",
+   "pi_email_addr": "nhashemi@missouri.edu",
+   "nsf_id": "000247469",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  },
+  {
+   "pgm_ref_code": "100E",
+   "pgm_ref_txt": "Novel devices & vacuum electronics"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "108E",
+   "pgm_ref_txt": "Bioelectronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 479716.0
+  }
+ ],
+ "por": null
+}

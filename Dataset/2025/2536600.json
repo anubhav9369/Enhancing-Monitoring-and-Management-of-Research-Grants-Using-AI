@@ -1,0 +1,106 @@
+{
+ "awd_id": "2536600",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: FIRE-WUI: A Convergent Framework for Learning-Based Simulation of Collective Human Behavior in Wildfires",
+ "cfda_num": "47.041, 47.050",
+ "org_code": "06010000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2025-12-01",
+ "awd_exp_date": "2028-11-30",
+ "tot_intn_awd_amt": 418401.0,
+ "awd_amount": 418401.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Strengthening wildfire resilience requires accurate modeling and a deep understanding of collective human behavior during wildfire evacuations. In particular, there is a critical need for simulation models that can realistically capture how civilians, incident commanders, and public safety officials make protective action decisions during wildfires. However, existing simulation models face fundamental limitations that often cause low prediction accuracy and insufficient capacity to support effective decision-making during wildfire response. Therefore, this project aims to develop a convergent framework for next-generation wildfire evacuation simulation that features realistic Artificial Intelligence (AI) agents powered by psychological theory-informed large language models (LLMs), reinforcement learning, and multi-modal datasets. This research seeks to be a transformative step toward improving the behavioral realism, prediction accuracy, and decision-support capability of wildfire evacuation simulation models. This project intends to lead to generalizable simulation methods, promote teaching, training, and learning, strengthen partnerships, and support wildfire resilience through broad dissemination and open-access tools.\r\n\r\nDespite progress in wildfire evacuation simulation models, key challenges remain in accurately modeling and understanding the decision-making processes by incident commanders and public safety officials, realistically modeling human behavior in wildfire evacuations, and adequately representing diverse populations and their dynamic, complex interactions. LLM-based agents could help address some of these limitations, though they bring their own issues with hallucination and generalizability. To tackle the above research challenges, this project looks to develop a novel convergent framework for learning-based simulation of collective human behavior during wildfires. Specifically, the objectives of this research are to: 1) extend and enrich the Protective Action Decision Model (PADM) for civilians as well as incident commanders and public safety officials; 2) develop psychological theory-informed LLM agents for protective action modeling; 3) generate a realistic, context-aware synthetic population to serve as the critical input for the simulation platform; 4) develop the learning-based simulation platform to integrate complex interactions among various agents and predict collective human behavior at the community level under various scenarios (e.g., fire spread, warning, infrastructure damage); and 5) test and validate the convergent simulation framework with various case studies across the U.S. The research outcomes intend to enable wildland-urban interface (WUI) communities to better predict wildfire impacts, manage risks, and develop life-saving strategies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xilei",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xilei Zhao",
+   "pi_email_addr": "xilei.zhao@essie.ufl.edu",
+   "nsf_id": "000809743",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "345Y00",
+   "pgm_ele_name": "Fire Science Innovations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 418401.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2528997",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Adaptive and Resilient Communication-Aware Multi-Robot Coordination",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07030000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 100076.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) grant will support fundamental research that aims to improve reliable coordination for a team of autonomous mobile robots operating in realistic and possibly adversarial environments. Robots that can collaborate have shown great potential in many applications from search and rescue missions to precision agriculture. Due to limited sensing, communication, and processing capabilities, autonomous robots in a collaborating group often need to make collective decisions through communications in proximity. For example, exchanging sensing data or control commands with neighboring robots through range-constrained wireless communications. The integral role of wireless communications requires robots to coordinate and react to the changing environment for reliable information sharing in addition to their original tasks. However, existing research paradigm often assumes that the communication environment is well modeled and can be pre-programmed into robotic systems for effective coordination without disruptions. This significantly limits the capabilities of robot teams and makes them vulnerable in real-world environments that can often be unpredictable. To address the challenges, this project seeks to create a set of methods and tools that may augment many multi-robot coordination tasks, by enabling robots to learn the environment on the fly, adapt their motion to environmental changes, and maintain communications when unexpected robot failures happen. The project will also support education and outreach activities such as curriculum development, broadening participation of students from underrepresented groups, and local community engagement in the Charlotte metropolitan area.\r\n\r\nThe objective of this project is to create novel methods and algorithms that enable the co-design of learning, communication, and motion control for mobile robot teams. This may allow for robust operation of robots with provable assurances on communication capabilities and multi-robot network resilience adaptive to uncertain environments, positively supporting the primary task execution. In pursuit of this goal, the project will make two main contributions: (i) Developing data-driven methods for robots to collaboratively learn the spatially varying realistic communication performance online, and (ii) Developing new approaches that specify the impact of realistic communication constraints and network resilience on the task-related robots\u2019 motion, to enable joint optimization for more efficient multi-robot coordination with performance guarantees. The work will be evaluated in simulations and experiments on physical robotic platforms. \r\n\r\nThis project is supported by the cross-directorate Foundational Research in Robotics program, jointly managed and funded by the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wenhao",
+   "pi_last_name": "Luo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wenhao Luo",
+   "pi_email_addr": "wenhao@uic.edu",
+   "nsf_id": "000873906",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 100076.0
+  }
+ ],
+ "por": null
+}

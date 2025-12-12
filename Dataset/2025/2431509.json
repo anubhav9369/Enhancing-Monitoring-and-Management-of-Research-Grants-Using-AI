@@ -1,0 +1,106 @@
+{
+ "awd_id": "2431509",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Incorporating Human Behavior in the Control and Design of Service Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 319727.0,
+ "awd_amount": 319727.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "This grant will fund research that contributes to the advancement of national prosperity and economic welfare by working to develop quantitative methods to support the design and control of service systems such as healthcare systems, customer contact centers and online service platforms by considering the impacts of human-related phenomena on their operations. Specifically, the existing service-operations literature mostly ignores the fact that in many situations the service requirements of customers (or patients) depend on their patience for waiting for service, or on the delay they experienced in queue. Hence service systems should be designed and controlled with these dependencies in mind, with transparent policies that can be easily understood by the layperson, and are simple to implement in practice.\r\n\r\nService systems with the aforementioned dependencies cannot be approached with \u2018standard\u2019 queueing techniques assuming independence because their queueing processes do not admit a finite-dimensional Markov representation, regardless of distributional assumptions. Asymptotic approximations, such as functional central limits and functional weak laws of large numbers, are also non-Markov, and hence difficult to obtain and analyze. Finally, the issues that a controller must address, such as multi-stability, congestion collapse and extreme (\u201cfluid-scaled\u201d) stochastic fluctuations, are entirely different than those arising in the \u201cstandard\u201d models which assume independence. These issues require sophisticated control mechanisms exploiting the special features of the queueing processes, such as rejecting equilibria points for the fluid models. Finally, optimal-design problems are non-standard, because the subdivision of customers into classes, and of the server pool into separate pools dedicated to specific customer classes contradict well-established results for the independent models, such as the benefits of server pooling.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ohad",
+   "pi_last_name": "Perry",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ohad Perry",
+   "pi_email_addr": "operry@smu.edu",
+   "nsf_id": "000642502",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Methodist University",
+  "inst_street_address": "6425 BOAZ ST RM 130",
+  "inst_street_address_2": "",
+  "inst_city_name": "DALLAS",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2147684708",
+  "inst_zip_code": "752051902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "SOUTHERN METHODIST UNIVERSITY",
+  "org_prnt_uei_num": "S88YPE3BLV66",
+  "org_uei_num": "D33QGS3Q3DJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Methodist University",
+  "perf_str_addr": "6425 BOAZ ST RM 130",
+  "perf_city_name": "DALLAS",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "752051902",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8023",
+   "pgm_ref_txt": "Health Care Enterprise Systems"
+  },
+  {
+   "pgm_ref_code": "072E",
+   "pgm_ref_txt": "NETWORKS & QUEUING SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "5514",
+   "pgm_ref_txt": "OPERATIONS RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 319727.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2512943",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Deep Learning-Based Multiscale Target Detection for Medical Device Manufacturing Quality Control",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-04-15",
+ "awd_max_amd_letter_date": "2025-04-15",
+ "awd_abstract_narration": "This I-Corps project is based on the development of a system that uses advanced artificial intelligence (AI) to improve quality control in medical device manufacturing. Traditional inspection methods frequently fail to identify small or subtle defects in medical devices, resulting in increased costs from product returns, repairs, and operational inefficiencies. This technology uses a more accurate and efficient defect detection system that is designed to minimize waste, lower rework costs, and optimize production processes. Ultimately, the goal is to improve reliability of medical devices, which may directly enhance patient safety, reduce the risk of recalls, and support better healthcare outcomes. In addition, this technology may decrease production costs, increase competitiveness, and help to ensure compliance with industry standards.\r\n\r\nThis I-Corps project utilizes experimental learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of a technology to identify, localize, and categorize visual anomalies in the medical manufacturing process. This technology is based on deep-learning and machine vision techniques using a semi-supervised, multi-scale, hierarchical convolutional neural network paired with traditional computer vision engineering to produce a low-latency, highly accurate machine vision system capable of anomaly detection. The system relies on an orchestrated set of vision and image morphology passes to construct a consistent, highly accurate classification and identification mask. The primary goal is to make a substantive improvement to visual anomaly detection for highly consistent objects without requiring an overly large dataset. Adoption of this technology may allow for improved defect detection in the manufacture of critical medical devices in a more streamlined fashion than is possible with human operators alone.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jenn-Ming",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jenn-Ming Yang",
+   "pi_email_addr": "jyang@seas.ucla.edu",
+   "nsf_id": "000238566",
+   "pi_start_date": "2025-04-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Los Angeles",
+  "inst_street_address": "10889 WILSHIRE BLVD STE 700",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3107940102",
+  "inst_zip_code": "900244200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "36",
+  "st_cong_dist_code": "CA36",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RN64EPNH8JC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Los Angeles",
+  "perf_str_addr": "410 Westwood Plaza",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900951595",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "36",
+  "perf_st_cong_dist": "CA36",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7453",
+   "pgm_ref_txt": "GRAPHICS & VISUALIZATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

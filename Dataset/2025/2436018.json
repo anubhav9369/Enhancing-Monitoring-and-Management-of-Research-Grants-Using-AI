@@ -1,0 +1,109 @@
+{
+ "awd_id": "2436018",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: Integrating Wide and Deep: Foundational AI Models for Accelerating Microbiome Science",
+ "cfda_num": "47.070, 47.074",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "Microbiomes, the diverse communities of microorganisms found in environments like soil, water, and the human body, are fundamental to many natural processes, including carbon cycling, nutrient cycling, and ecosystem health. To better understand microbiomes, the scientific community has heavily invested in sequencing and multi-omics technologies, generating vast amounts of microbiome-derived data that offer valuable insights into microbial diversity and function. Despite these advances, studying soil microbiomes remains particularly challenging because soils host the most diverse microbial communities on Earth, leading to sparse and fragmented coverage. This coverage challenge is further exacerbated by small sample sizes and an inconsistent approach to collecting the different data types, making it difficult to develop comprehensive models that generalize across environments. This project aims to develop an Artificial Intelligence foundation model for soil microbiomes that leverages all existing public data sets in order to provide a more comprehensive framework representing soil microbiomes. \r\n\r\nThis project aims to address the challenges of soil metagenomic data sparsity by developing the Multi-Modality Microbiome Foundation Model (M3FM), an artificial intelligence model that integrates microbiome data across various studies and of several data types. M3FM will use a self-supervised learning approach to leverage the large number of public data sets from diverse sources without requiring extensive manual annotations. To test and refine this model, we will apply it to two key case studies: (1) linking soil microbial profiles to soil organic carbon content across a large-scale global dataset, and (2) mapping microbial shifts in response to climate change in a controlled, long-term field experiment. These case studies will deepen our understanding of how soil microbes influence carbon storage and nutrient cycling, as well as how they respond to environmental changes, such as climate shifts. While the focus is on soil microbiomes, this research will provide a powerful tool for accelerating microbiome science, with potential applications in sustainable agriculture, ecosystem management, and environmental conservation, ultimately contributing to efforts aimed at sustaining ecosystems and enhancing resilience to environmental change.\r\n\r\nThis award is co-funded by the Directorate for Computer and Information Science and Engineering and by the Directorate for Biological Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaoli",
+   "pi_last_name": "Fern",
+   "pi_mid_init": "Z",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaoli Z Fern",
+   "pi_email_addr": "xfern@eecs.oregonstate.edu",
+   "nsf_id": "000288466",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Maude",
+   "pi_last_name": "David",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maude David",
+   "pi_email_addr": "maude.david@oregonstate.edu",
+   "nsf_id": "000822689",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  },
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

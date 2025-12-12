@@ -1,0 +1,98 @@
+{
+ "awd_id": "2527960",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR FastTrack:  Generative AI-Driven Simulation to Address the Long-Tail Problem in Autonomous Vehicle Safety Validation",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928772",
+ "po_email": "patherto@nsf.gov",
+ "po_sign_block_name": "Peter Atherton",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1554922.0,
+ "awd_amount": 1554922.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Technology Transfer Fast-Track Pilot project will be the creation of a tool that helps make self-driving cars safer before they go on public roads. These vehicles will need to be tested in rare but risky situations, like a person crossing suddenly or a car turning without warning. Such events are hard to find in real life. This project will use artificial intelligence to build thousands of virtual test scenes that show how vehicles react. This will help engineers spot problems and fix them before anyone gets hurt. It will also save time and money by reducing the need for road testing. The project will support national goals by making roads safer, helping new technology grow faster, and keeping the United States a leader in global transportation. This open-source tool will also help researchers and safety officials create more trusted systems for everyone.\r\n\r\nThis Small Business Technology Transfer Fast-Track Pilot project will develop a generative simulation framework for validating autonomous vehicle safety under rare, high-risk conditions. The core technical innovation is a hybrid methodology that combines statistical realism through reconstruction of real-world traffic distributions and adversarial scenario generation to stress-test autonomous vehicle behavior. This project addresses several high-risk challenges, including modeling heterogeneous interactions among vehicles, pedestrians, and cyclists using generative models trained on naturalistic crash data; creating novel, previously unseen high-risk scenarios using adversarial techniques guided by real-world accident statistics; and enabling scalable, natural language-based scenario specification via large language models to automate test environment setup. These capabilities will allow developers and regulators to probe long-tail distributions of safety-critical events that traditional methods often miss. Evaluation will include alignment with historical crash distributions and expert review of realism and novelty. The simulation framework will integrate with industry-standard tools that support real-time co-simulation. By embedding quantifiable safety metrics, such as estimated crash rates and failure mode diversity, directly into scenario generation, this project supports technical validation and compliance with emerging international standards. The outcome will be a scalable, reproducible, standards-aligned platform that reduces the cost of autonomous vehicle validation while improving safety assurance.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Haowei",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Haowei Sun",
+   "pi_email_addr": "howie@saferdrive.ai",
+   "nsf_id": "0000A1L63",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SAFERDRIVE AI LLC",
+  "inst_street_address": "2120 ARBOR CIR W APT 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "YPSILANTI",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "8108248617",
+  "inst_zip_code": "481973439",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "SAFERDRIVE AI LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XRT2JKFKLG66"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SAFERDRIVE AI LLC",
+  "perf_str_addr": "2120 ARBOR CIR W",
+  "perf_city_name": "YPSILANTI",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481973439",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "287Y00",
+   "pgm_ele_name": "SBIR Fast-Track"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1554922.0
+  }
+ ],
+ "por": null
+}

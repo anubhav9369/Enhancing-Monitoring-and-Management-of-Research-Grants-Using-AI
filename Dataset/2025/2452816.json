@@ -1,0 +1,101 @@
+{
+ "awd_id": "2452816",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Structure and regularity in continuous model theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 219595.0,
+ "awd_amount": 145144.0,
+ "awd_min_amd_letter_date": "2024-10-16",
+ "awd_max_amd_letter_date": "2024-11-29",
+ "awd_abstract_narration": "This project focuses on research connecting multiple fields of mathematics, namely, analysis, combinatorics, and model theory. Analysis and combinatorics can be seen as two different approaches toward using mathematics to study the physical world. In analysis, which evolved from calculus, the approach is based on continuous and dynamical methods of an infinite nature. By contrast, combinatorics seeks to understand complicated and subtle patterns in discrete (and often finite) systems. The proposed research centers on using model theory, a branch of mathematical logic, to bridge these two different perspectives. Model theory is the abstract study of mathematical objects using properties that can be described with formal language and semantics. The leverage provided by model theory stems from the fact that two mathematical objects can appear substantially different in nature, but share enough semantic properties so that an understanding of one object leads to understanding of the other. This approach has led to significant breakthroughs in mathematical research, which will be further developed in this project. The interdisciplinary nature of this project will also allow for collaboration between researchers and students from a variety of mathematical backgrounds and levels.\r\n\r\nThe broad theme of the research proposed is the use of continuous logic (model theory for metric structures) to develop a stronger foundation for the interaction between analysis and combinatorics described above, with a focus on arithmetic combinatorics in noncommutative groups. There are two main goals. The first is to prove a fully general arithmetic regularity lemma valid for arbitrary groups using a Radon-Nikodym-type strategy (similar to the nonstandard proof of Szemeredi's regularity lemma for graphs). Previous attempts toward such a theorem have been impeded by fundamental drawbacks of classical (discrete) logic, and this project proposes a new strategy based on continuous logic. This theorem is envisioned as a necessary step in the ongoing development of a model-theoretic framework for arithmetic combinatorics. The second main goal is based on recent work on the structure of stable functions on groups, which establishes a connection to existing results in arithmetic combinatorics (e.g., on approximate groups). A majority of these results are only currently understood at a qualitative level, and thus a quantitative understanding of stable functions on groups should lead to quantitative breakthroughs in these other areas. Moreover, model theoretic ideas were previously successful in obtaining a quantitative analysis of stable sets in groups. This project will pursue an analogous quantitative analysis of stable functions, motivated by applications to arithmetic combinatorics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gabriel",
+   "pi_last_name": "Conant",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gabriel Conant",
+   "pi_email_addr": "gconant@uic.edu",
+   "nsf_id": "000731735",
+   "pi_start_date": "2024-10-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "5809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 145144.0
+  }
+ ],
+ "por": null
+}

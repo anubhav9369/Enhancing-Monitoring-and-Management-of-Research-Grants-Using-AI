@@ -1,0 +1,114 @@
+{
+ "awd_id": "2503570",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Postdoctoral Fellowship: MPS-Ascend: Non-equilibrium excitonic physics from real-time evolution of the two-body Green's function",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924942",
+ "po_email": "dhess@nsf.gov",
+ "po_sign_block_name": "Daryl Hess",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "Non-technical Description\r\n\r\nThis award was made on an NSF Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship (NSF MPS-Ascend) proposal. Modern experiments increasingly probe quantum materials under extreme conditions, such as intense laser pulses. To keep pace, researchers need advanced simulation tools that can describe how these materials respond in real time. This project will develop new computational methods to understand excitons\u2014bound pairs of electrons and holes\u2014that govern how materials absorb and emit light when pushed far from equilibrium. By modeling excitons through a novel and efficient approach, this work will help explain experimental results and accelerate the design of future optoelectronic and quantum technologies. The project will also produce open-source software to support the broader research community and includes dedicated efforts to mentor students through UCSB\u2019s Quantum Foundry program.\r\n\r\n\r\nTechnical Description\r\n\r\nThis award was made on an NSF Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship (NSF MPS-Ascend) proposal. This project develops a novel computational framework for simulating non-equilibrium excitonic phenomena using the real-time evolution of the two-body Green\u2019s function (2GF). Building on the real-time Dyson expansion (RT-DE), which has been successfully applied to one-body Green\u2019s functions, this work extends the method to capture electron-hole correlations beyond the GW approximation. The proposed approach maintains favorable computational scaling while incorporating higher-order interactions and non-equilibrium effects inaccessible to standard GW-BSE or Kadanoff-Baym approaches. Benchmarking will focus on model systems that exhibit rich excitonic physics and are relevant to current experimental efforts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Steven",
+   "pi_last_name": "Crisostomo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Steven Crisostomo",
+   "pi_email_addr": "",
+   "nsf_id": "0000A1G7F",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Crisostomo, Steven",
+  "inst_street_address": "",
+  "inst_street_address_2": "",
+  "inst_city_name": "Irvine",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "",
+  "inst_zip_code": "92617",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "",
+  "org_prnt_uei_num": "",
+  "org_uei_num": ""
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of California, Santa Barbara",
+  "perf_str_addr": null,
+  "perf_city_name": "Santa Barbara",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "931069510",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "7137",
+   "pgm_ref_txt": "POSTDOCTORAL FELLOWSHIPS"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

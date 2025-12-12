@@ -1,0 +1,134 @@
+{
+ "awd_id": "2435964",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: Graph Representations of Atomistic Simulations for Solvent Design",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "This project seeks to transform our understanding of how liquids, such as water and complex solutions, behave at the molecular level by developing innovative computational tools based on the emerging computer science field of graph representation learning. These tools will treat liquids as dynamic networks, where molecules and their interactions are represented as nodes and edges, enabling unprecedented insights into their structure, dynamics, and properties. This approach addresses a critical gap in current methods, which struggle to predict liquid behavior accurately, especially in complex or extreme environments. By uncovering the connections between molecular interactions and large-scale properties, this research will advance fields ranging from energy storage to drug design to environmental science. The project\u2019s integration of state-of-the-art algorithms with experimental validation has the potential to accelerate the discovery of new materials and processes, benefiting biochemical and technological innovation.\r\n\r\nThis project aims to develop a novel framework combining graph representation learning (GRL) with molecular simulations and experiments to characterize and predict the behavior of liquids and solutions at the molecular level. By representing liquids as spatiotemporal graphs, where molecules and their interactions are nodes and edges, the project seeks to identify structural and dynamic patterns that connect intermolecular interactions to macroscopic properties such as solubility, transport, and dielectric behavior. The work involves three key components: (1) the development of advanced GRL algorithms that are invariant to time, rotation, and translation, and capable of capturing dynamic molecular networks; (2) the generation of comprehensive datasets using state-of-the-art molecular dynamics simulations and experiments focused on water and aqueous solutions; and (3) the application of these tools to understand solvation effects, network anomalies, and phase transitions. The outcomes of this project will provide new methodologies for solvent-by-design applications, enabling efficient and targeted optimization of materials for energy, environmental, and biomedical technologies, and advancing the intersection of computational chemistry, machine learning, and experimental science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Oliviero",
+   "pi_last_name": "Andreussi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Oliviero Andreussi",
+   "pi_email_addr": "olivieroandreuss@boisestate.edu",
+   "nsf_id": "000788750",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Edoardo",
+   "pi_last_name": "Serra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Edoardo Serra",
+   "pi_email_addr": "edoardoserra@boisestate.edu",
+   "nsf_id": "000716889",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Konrad",
+   "pi_last_name": "Meister",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Konrad K Meister",
+   "pi_email_addr": "konradmeister@boisestate.edu",
+   "nsf_id": "000822516",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jenee",
+   "pi_last_name": "Cyran",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jenee D Cyran",
+   "pi_email_addr": "jeneecyran@boisestate.edu",
+   "nsf_id": "000824161",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Boise State University",
+  "inst_street_address": "1910 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOISE",
+  "inst_state_code": "ID",
+  "inst_state_name": "Idaho",
+  "inst_phone_num": "2084261574",
+  "inst_zip_code": "837250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "ID02",
+  "org_lgl_bus_name": "BOISE STATE UNIVERSITY",
+  "org_prnt_uei_num": "HYWTVM5HNFM3",
+  "org_uei_num": "HYWTVM5HNFM3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Boise State University",
+  "perf_str_addr": "1910 UNIVERSITY DR",
+  "perf_city_name": "BOISE",
+  "perf_st_code": "ID",
+  "perf_st_name": "Idaho",
+  "perf_zip_code": "837250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "ID02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

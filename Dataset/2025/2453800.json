@@ -1,0 +1,113 @@
+{
+ "awd_id": "2453800",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "Collaborative Research: Ideas Lab: Breaking Low: End-to-End Delivery Technology for Interactive Multi-person XR Rehabilitation Activities",
+ "cfda_num": "47.084",
+ "org_code": "15020000",
+ "po_phone": "7032922828",
+ "po_email": "sjayawee@nsf.gov",
+ "po_sign_block_name": "SUDHARMAN KANKANAMGE JAYAWEERA",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 1691000.0,
+ "awd_amount": 845500.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Extended reality (XR) technologies have shown significant promise in increasing user engagement and skill acquisition in a variety of domains. The goal of this project is to accelerate adoption of innovative XR applications for rehabilitation, for example, to enhance user experiences in treatments to improve motor function for diseases with motor disabilities. This project develops immersive XR exercise environments that enable users to move and interact in 3D space with each other and with virtual elements. A key goal is to make the experience of rehabilitation more enjoyable and effective by incorporating social interactions between remote users that can boost engagement and skill acquisition. The technology also allows clinicians to guide and interact with their patients remotely. To create a virtual environment that users experience as fast and seamless, this project develops novel approaches to the underlying networking infrastructure needed to run the application.  Collaboration with industry partners will support technology adoption for XR-enabled rehabilitation technology and for the XR industry. \r\n\r\nRealizing multi-user, geo-distributed XR technology is challenging due to stringent motion-to-photon latency requirements for good user experience. Current wide-area Internet routing and cellular wireless management are one-size-fits-all across applications, hurting latency. A key insight of this project is that not all types of XR traffic require uniformly low latency; instead, the project enables prioritization of delivery of important XR traffic while intelligently managing lower-priority XR traffic. The project\u2019s core technical contributions are an adaptive XR application with new delivery mechanisms, leveraging Internet path selection on the testbed, and programmable wireless resources using Open Radio Access Networks (Open RAN) and xApps. Performance of the XR environment will be assessed via user experience and key network performance indicators. The expected outcome is achieving key performance targets currently deemed impossible on today\u2019s Internet by demonstrations of network-supported, multi-user XR technology for rehabilitation at different sites.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "ITE",
+ "org_div_long_name": "Innovation and Technology Ecosystems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiasi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiasi Chen",
+   "pi_email_addr": "jiasi@umich.edu",
+   "nsf_id": "000702623",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nakjung",
+   "pi_last_name": "Choi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nakjung Choi",
+   "pi_email_addr": "nakjung.choi@nokia-bell-labs.com",
+   "nsf_id": "000934646",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "272Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-6 Communications"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 845500.0
+  }
+ ],
+ "por": null
+}

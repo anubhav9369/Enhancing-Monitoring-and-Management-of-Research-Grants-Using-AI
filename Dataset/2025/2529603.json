@@ -1,0 +1,102 @@
+{
+ "awd_id": "2529603",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Effect of Molecular Confinement and Solvation on Diffusion and Reaction Kinetics in Zeolite Nanopores",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927258",
+ "po_email": "rramacha@nsf.gov",
+ "po_sign_block_name": "Rohit Ramachandran",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 299697.0,
+ "awd_amount": 299697.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Zeolites are special crystal-like materials used to speed up chemical reactions. They are useful because they are stable and can be adjusted to work in different ways. Scientists are interested in using them to help turn plant-based materials (called biomass) into fuels and useful chemicals. This project focuses on studying how chemical reactions happen inside the tiny pores of zeolites\u2014pores that are less than 2 nanometers wide. These reactions take place in liquids and in constantly changing environments, which makes them hard to study using traditional methods based on quantum mechanics. To solve this, the project will create new machine learning models that can predict how atoms interact with each other. These models will still be accurate like quantum methods but much faster and easier to use. This will help scientists study bigger and more realistic systems and better understand how molecules move and react inside the small pores of zeolites. In the end, this project will give scientists a deeper understanding of how zeolites work and how to use them more effectively to turn biomass into valuable products. It will also train college and graduate students in advanced computer modeling, helping prepare them for careers in science and engineering.\r\n\r\nThe goal of this project is to elucidate the role of solvent and confinement on diffusion and chemical transformations within the nanopores of zeolites. This goal will be accomplished by developing accurate machine-learned interatomic potentials based on the potential energy surface obtained from first principles molecular dynamics (FPMD) simulations to model the reaction-diffusion process in microporous zeolites with pores smaller than 2 nm. The multi-atomic cluster expansion framework will be used to develop machine-learned interatomic potentials (ML-IAPs) using FPMD simulation trajectories. Zeolites will be selected based on the topologies with increasing pore diameter, allowing a systematic investigation of the effect of pore size and confinement on diffusion, kinetics, and local solvation environment within the pore. Model chemical transformations considered include Carbon-Oxygen, Carbon-Carbon, and Carbon-Hydrogen bond activation, such as dehydration and isomerization of monosaccharides to initial platform chemicals. The central hypothesis of the project is that the development of computationally efficient machine-learned interatomic potentials with quantum mechanical accuracy will allow modeling systems that closely mimic the experimental conditions, thereby elucidating thermodynamic factors that underpin selectivity and reactivity in the liquid phase heterogeneous catalysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Neeraj",
+   "pi_last_name": "Rai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Neeraj Rai",
+   "pi_email_addr": "neerajrai@che.msstate.edu",
+   "nsf_id": "000625938",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Mississippi State University",
+  "inst_street_address": "245 BARR AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "MISSISSIPPI STATE",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6623257404",
+  "inst_zip_code": "39762",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MS03",
+  "org_lgl_bus_name": "MISSISSIPPI STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTXJM52SHKS7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Mississippi State University",
+  "perf_str_addr": "245 BARR AVE",
+  "perf_city_name": "MISSISSIPPI STATE",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "39762",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MS03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140300",
+   "pgm_ele_name": "Proc Sys, Reac Eng & Mol Therm"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1403",
+   "pgm_ref_txt": "PROCESS & REACTION ENGINEERING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299697.0
+  }
+ ],
+ "por": null
+}

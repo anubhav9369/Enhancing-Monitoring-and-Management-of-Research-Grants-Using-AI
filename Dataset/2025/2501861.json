@@ -1,0 +1,93 @@
+{
+ "awd_id": "2501861",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Advanced Wavelet Transform for Comprehensive Real-Time Fault Diagnosis in Next-Generation Sustainable Power Grids",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 199998.0,
+ "awd_amount": 199998.0,
+ "awd_min_amd_letter_date": "2025-06-12",
+ "awd_max_amd_letter_date": "2025-06-12",
+ "awd_abstract_narration": "This NSF ERI project aims to develop real-time short-circuit (fault) diagnosis tools to enhance the stability, security, and resilience of electric power grids. Modern electric grids face challenges due to the increased number of various kinds of energy resources with added uncertainties. These include low fault currents, bidirectional power flow, and non-linear electrical behaviors that limit the effectiveness of traditional protection systems. Furthermore, the increasing frequency of extreme weather events poses significant threats to the reliability of the power grid. To address these challenges, this NSF ERI project will develop a novel real-time digital signal processing theory, offering a transformative new approach to capturing and analyzing rapid electrical phenomena that conventional techniques cannot resolve. This new theory will result in advanced diagnostic tools capable of identifying and responding to faults in complex power systems with unprecedented speed and accuracy.  The intellectual merit of this project includes:  development of wavelet theory with the ability to eliminate time delays in real-time signal decomposition and reconstruction, as well as sensitivity to small signal changes; integration with machine learning to enable classifying faults with microsecond-level\r\nprecision. Additionally, the proposed framework introduces a unique capability to predict faults and enable early corrective actions, thereby improving system resilience against cascading failures.  The broader impacts of this project include educational and outreach components that engage students and the public through hands-on learning, YouTube-based educational series, and summer youth programs, supporting workforce development in a rapidly evolving energy sector.\r\n\r\nThis project will advance the mathematical foundation of real-time wavelet transform theory to overcome limitations in conventional digital signal processing techniques. Methods based on this new theory will be developed to improve the detection of high-impedance faults, fault-induced transients, and low-frequency harmonic distortion, particularly in inverter-based resource (IBR)-dominated and high-voltage DC systems. The research will span two interrelated thrusts: (1) the development of an innovative real-time wavelet transform theory capable of handling dynamic, multi-scale electrical signals with no time delay, and (2) the design of an integrated fault diagnosis framework that leverages this theory to achieve rapid fault prediction, classification, and location in both AC and DC systems. Algorithms will be tested through simulations, real-world data, and experimental validation using a unique laboratory testbed with renewable integration. The outcomes will include open-source tools and scalable methodologies suitable for real-time deployment in protective relays and control systems. These innovations will advance the state-of-the-art in real-time signal processing and power system protection and contribute to improved grid reliability under extreme operating conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Flavio",
+   "pi_last_name": "Costa",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Flavio B Costa",
+   "pi_email_addr": "fbcosta@mtu.edu",
+   "nsf_id": "000877725",
+   "pi_start_date": "2025-06-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan Technological University",
+  "inst_street_address": "1400 TOWNSEND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUGHTON",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "9064871885",
+  "inst_zip_code": "499311200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "GKMSN3DA6P91",
+  "org_uei_num": "GKMSN3DA6P91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan Technological University",
+  "perf_str_addr": "1400 TOWNSEND DR",
+  "perf_city_name": "HOUGHTON",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "499311200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199998.0
+  }
+ ],
+ "por": null
+}

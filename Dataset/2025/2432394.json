@@ -1,0 +1,118 @@
+{
+ "awd_id": "2432394",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Koopman in the Field: Feedback, Teaching, and Adaptation for Real World Mechanical Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922576",
+ "po_email": "mcanova@nsf.gov",
+ "po_sign_block_name": "Marcello Canova",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 522592.0,
+ "awd_amount": 522592.0,
+ "awd_min_amd_letter_date": "2024-12-23",
+ "awd_max_amd_letter_date": "2024-12-23",
+ "awd_abstract_narration": "Teaching autonomous machines to perform complex tasks currently requires advanced expertise in mechanical systems and specialized algorithms, making these technologies inaccessible to many. This limits who can use them, where they can be deployed, and how effectively they operate over time. Emerging technologies such as soft robots are inexpensive, easy to deploy, and hold great promise. However, without a proper way to interact with non-technical users, these systems can be misused, possibly leading to coarse mistakes, self-damage, or declining performance. Research funded by this award aims to create a data-driven autonomy framework that enables everyday workers to teach robots safely and effectively. This framework will also ensure that the robots respect operational limits and adapt to changes like shifts in weather or temperature. By advancing these capabilities, this research has the potential to transform sectors like agriculture, fostering a more resilient and adaptable supply chain equipped to handle future challenges.\r\n\r\nThe research objective of this project will advance the state of the art in dynamical systems and control through three interconnected research thrusts. The first thrust focuses on creating a novel framework for data-driven control of complex, hard-to-model systems, with emphasis on stability and safety. Central to this effort is a novel Koopman Control Factorization theory, which enables efficient learning and control synthesis via Quadratic Programming. The same theory also yields a systematic method for optimizing the physical design and sensor placement in a mechanical system. The second thrust introduces methods for teaching robots through imitation of user demonstrations, utilizing stable feedback-feedforward controllers that replicate user-taught behaviors while safeguarding against hardware limitations, undesirable states, and faults. The final thrust addresses long-term adaptability to time-varying environmental conditions by incorporating online system identification through recursive least squares, and active learning through information-maximization control. The theoretical advancements will be validated through practical outdoor tests to demonstrate robustness and applicability to real-world environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Roberto",
+   "pi_last_name": "Tron",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Roberto Tron",
+   "pi_email_addr": "tronroberto@gmail.com",
+   "nsf_id": "000705272",
+   "pi_start_date": "2024-12-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Sabelhaus",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew P Sabelhaus",
+   "pi_email_addr": "asabelha@bu.edu",
+   "nsf_id": "000867590",
+   "pi_start_date": "2024-12-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 522592.0
+  }
+ ],
+ "por": null
+}

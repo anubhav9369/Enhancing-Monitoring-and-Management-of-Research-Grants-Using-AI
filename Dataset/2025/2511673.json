@@ -1,0 +1,98 @@
+{
+ "awd_id": "2511673",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Ab Aurigae as a testbed for the earliest stages of planet formation",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032927597",
+ "po_email": "loedward@nsf.gov",
+ "po_sign_block_name": "Louise O. V. Edwards",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 85964.0,
+ "awd_amount": 85964.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Recent molecular line observations of the young AB Aurigae star system have revealed intriguing velocity structures that may offer direct evidence for a long-hypothesized mode of planet formation known as gravitational instability, where planets form rapidly through direct gravitational collapse. In addition, optical, infrared, and millimeter images show a planet-sized clump at roughly twice the scale of the Solar System, roughly 90 astronomical units (AU, the average distance between the Earth and the Sun), surrounded by a ring of pebbles at ~150 AU and marked by striking spiral arms in the surrounding disk. This team of researchers will generate computer simulations that integrate multiple physical processes, including gas and dust dynamics, heating and cooling from starlight, and the system\u2019s own gravity. They will train a graduate student and will also communicate with the public through regular astronomy columns and podcasts. The column reaches a readership of 30,000, and is contributed to by faculty and students, aiming to become a sustained effort by the New Mexico State University Department of Astronomy to promote public science literacy. A science outreach program and observatory tour for the public will be regularly scheduled at the University of Georgia.\r\n\r\nThe team will determine whether the AB Aurigae system can be modeled self-consistently via gravitational instability in a protoplanetary disk. The team will employ dusty smoothed-particle hydrodynamics (SPH) using the Phantom code, with 25 million particles incorporating pebbles, self-gravity, and on-the-fly radiative transfer. The simulations aim to reproduce three major features seen in the observations: the spiral arms, the extended clump-like protoplanet, and the outer pebble ring. While spiral arms and clumps are relatively common outcomes of gravitational instability, the origin of the ring is more challenging. The working hypothesis is that the pebble ring forms near the boundary where the disk transitions between gravitationally unstable and stable states\u2014specifically at ~150 AU. This transition is expected to result in a change in turbulent viscosity and create conditions ripe for the Rossby wave instability, a shear-driven instability analogous to the Kelvin-Helmholtz instability, which can trap dust and create ring-like structures. Post-processing will be carried out using the radiative transfer code RADMC-3D to produce synthetic images comparable to those observed by CHARIS in scattered light and ALMA in the midplane. The results will provide a stringent test of whether gravitational instability can account for the complex morphology of AB Aurigae, potentially validating or refuting a major planet formation mechanism.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cassandra",
+   "pi_last_name": "Hall",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cassandra Hall",
+   "pi_email_addr": "cassandra.hall@uga.edu",
+   "nsf_id": "000857388",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Georgia Research Foundation Inc",
+  "inst_street_address": "310 E CAMPUS RD RM 409",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATHENS",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "7065425939",
+  "inst_zip_code": "306021589",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "GA10",
+  "org_lgl_bus_name": "UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NMJHD63STRC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Georgia",
+  "perf_str_addr": "310 E CAMPUS RD RM 409",
+  "perf_city_name": "ATHENS",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "306021589",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "GA10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121400",
+   "pgm_ele_name": "PLANETARY ASTRONOMY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 85964.0
+  }
+ ],
+ "por": null
+}

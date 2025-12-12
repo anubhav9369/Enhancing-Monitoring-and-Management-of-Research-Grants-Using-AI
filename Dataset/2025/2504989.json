@@ -1,0 +1,102 @@
+{
+ "awd_id": "2504989",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: III: Medium: Incentives and interventions for robust networked data exchange",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 575000.0,
+ "awd_amount": 575000.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Algorithmic and machine learning tools are increasingly central to high-stakes decision-making across domains such as healthcare, finance, and digital services. These tools depend on data that are often incomplete, unbalanced, or poorly aligned with the populations they impact. While existing methods typically treat datasets as externally fixed and data imbalances as externally-determined, this project views data as the outcome of a strategic production process that is shaped by the incentives of individuals, platforms, and institutions. By leveraging these incentives, the project aims to design data ecosystems that yield more representative and reliable datasets, better reflecting the needs of all Americans. The research will develop new theoretical foundations and algorithmic methods that improve data quality through incentives rather than constraints. It will also support education on data economics in the context of AI and foster early-career development through workshops and mentoring activities.\r\n\r\nThe project integrates ideas from computer science, economics, and operations research to analyze incentive-driven data production and exchange. It investigates three key dimensions: (1) how individual data providers can shape outcomes through strategic data sharing; (2) how platforms can build robust data markets by aligning incentives between producers and consumers; and, (3) how large-scale effects such as platform competition and user interactions influence data quality and decision performance. These efforts will advance the scientific understanding of dynamic data environments and inform the design of more effective data-driven systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Augustin",
+   "pi_last_name": "Chaintreau",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Augustin Chaintreau",
+   "pi_email_addr": "ac3318@columbia.edu",
+   "nsf_id": "000575992",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 575000.0
+  }
+ ],
+ "por": null
+}

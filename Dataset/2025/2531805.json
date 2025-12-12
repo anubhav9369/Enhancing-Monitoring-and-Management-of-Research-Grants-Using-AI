@@ -1,0 +1,110 @@
+{
+ "awd_id": "2531805",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Innovative Time Integrators for Stiff and Highly Oscillatory Systems",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 226073.0,
+ "awd_amount": 172450.0,
+ "awd_min_amd_letter_date": "2025-05-21",
+ "awd_max_amd_letter_date": "2025-05-21",
+ "awd_abstract_narration": "Advancements in science and engineering increasingly require fast and accurate computational methods for simulating complex multi-physical processes and their interactions occurring at a wide range of temporal scales or high frequencies. Numerical weather prediction and climate modeling are notable examples of such applications that rely on the computational solution of primitive equations, which are used to predict the behavior of the atmosphere, oceans, land surface, ice, etc., as well as the complex interactions among them. Numerical solutions of such multiphysics problems remain a challenging task due to the presence of multiple time scales in the system where different processes take different amounts of time to complete. As such, developing advanced numerical methods capable of offering fast and reliable solutions is crucial for many applications that rely on large-scale simulations of complex systems. The overall goal of this project is to develop novel time integration methods for stiff and highly oscillatory systems and demonstrate their performance on applications such as numerical weather prediction, ocean modeling, and molecular dynamics simulations. Additionally, the project aims to train one doctoral student and offer opportunities to undergraduate and graduate students in mathematics at Mississippi State University. Training of at least one graduate student on the topics of the proposed work is expected. \r\n\r\nThe project has four primary aims. First, the investigator will derive novel mixed exponential integrators and preconditioned rational exponential integrators for stiff systems and implement them. Second, the investigator will develop stiffly-accurate embedded multirate exponential methods for additively partitioned systems. Third, the investigator will develop stiffly-accurate exponential Nystr\u00f6m methods. Fourth, the investigator will investigate the performance of the newly developed methods on applications in numerical weather prediction, ocean modeling, and molecular dynamics simulations. The investigator will build off of his previous expertise in constructing, analyzing, and implementing exponential and multirate time integration methods to achieve these aims. Ongoing collaborations with numerical analysts, meteorologists, and computer scientists will also contribute to the success of the project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vu Thai",
+   "pi_last_name": "Luan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vu Thai Luan",
+   "pi_email_addr": "vu.luan@ttu.edu",
+   "nsf_id": "000810064",
+   "pi_start_date": "2025-05-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas Tech University",
+  "inst_street_address": "2500 BROADWAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "LUBBOCK",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8067423884",
+  "inst_zip_code": "79409",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "TX19",
+  "org_lgl_bus_name": "TEXAS TECH UNIVERSITY SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EGLKRQ5JBCZ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas Tech University",
+  "perf_str_addr": "2500 BROADWAY",
+  "perf_city_name": "LUBBOCK",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "79409",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "TX19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1303",
+   "pgm_ref_txt": "CLIMATE MODELING & PREDICTION"
+  },
+  {
+   "pgm_ref_code": "5294",
+   "pgm_ref_txt": "USGCRP"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 172450.0
+  }
+ ],
+ "por": null
+}

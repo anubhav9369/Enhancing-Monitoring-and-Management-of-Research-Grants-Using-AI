@@ -1,0 +1,110 @@
+{
+ "awd_id": "2523660",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CISE Core Small: AF: Sheaf Laplacian on Hypergraphs: From Theory to Applications",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922451",
+ "po_email": "acharyas@nsf.gov",
+ "po_sign_block_name": "Subrata Acharya",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 149644.0,
+ "awd_amount": 149644.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Hypergraphs provide a powerful mathematical framework for representing complex systems in which interactions occur not just between pairs of entities, but among groups. This advanced representation is particularly valuable for modeling diffusion, the spread of information or behaviors, through complex systems. Diffusion models play a key role in diverse fields such as biology, social science, and finance. On the other hand, diffusion on networks is a complex process where, for example, user characteristics may have a strong effect on how they shape and share their opinion. These factors play crucial roles in shaping diffusion patterns and need to be considered in modeling. The goal of this proposal is to design and explore a new mathematical tool, called the sheaf Laplacian, to better capture diffusion dynamics in hypergraphs by incorporating different factors like individual opinions, communication styles, and group roles. This will enable more flexible and accurate analysis of group interactions, with broad applications in areas such as expert detection, community decision-making, and collaborative information flow.\r\n\r\nThis project develops and applies the theory of sheaf Laplacians on hypergraphs to address critical challenges in diffusion modeling, influence maximization, and representation learning. The investigators will first define generalized sheaf Laplacians for non-uniform hypergraphs and establish their key properties, including spectral characteristics, harmonic states, and curvature. These tools will then be used to model complex, multi-vector diffusion processes that account for diverse opinion bases and communication pathways, such as in expert detection on blog forums and influencer selection in marketing. Finally, the project will design new hypergraph neural network architectures that integrate sheaf-based diffusion and curvature-aware aggregation. By advancing both theoretical foundations and practical algorithms, this work contributes to the growing body of research at the intersection of algebraic topology, differential geometry, network science, and machine learning and opens new directions for analyzing high-dimensional relational data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mehmet",
+   "pi_last_name": "Aktas",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mehmet E Aktas",
+   "pi_email_addr": "maktas1@kennesaw.edu",
+   "nsf_id": "000764699",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kennesaw State University Research and Service Foundation",
+  "inst_street_address": "1000 CHASTAIN RD NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "KENNESAW",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4705786381",
+  "inst_zip_code": "301445588",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "GA11",
+  "org_lgl_bus_name": "KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G8DZHNRKWTN3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kennesaw State University Research and Service Foundation",
+  "perf_str_addr": "1000 CHASTAIN RD NW",
+  "perf_city_name": "KENNESAW",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "301445588",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "GA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149644.0
+  }
+ ],
+ "por": null
+}

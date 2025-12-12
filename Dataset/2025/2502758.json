@@ -1,0 +1,114 @@
+{
+ "awd_id": "2502758",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Computational Polariton Chemistry Beyond the Single-mode Approximation",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 449457.0,
+ "awd_amount": 449457.0,
+ "awd_min_amd_letter_date": "2025-03-27",
+ "awd_max_amd_letter_date": "2025-03-27",
+ "awd_abstract_narration": "Tao Li of University of Delaware is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop new computational methods for modeling molecular polaritons\u2014hybrid states arising from the interaction between molecules and confined light inside optical cavities. These hybrid states have shown promise for controlling chemical reactions and energy transfer in unconventional ways. However, current theoretical models fail to capture the complexity of real-world experiments, which involve millions of molecules interacting with a complicated photonic environment. To bridge this gap, this project will develop innovative simulation tools by integrating molecular dynamics, first-principles electronic structure methods, and computational electrodynamics. These tools will enable more accurate modeling of polariton chemistry in realistic experimental conditions, ultimately deepening our understanding of how strong light-matter interactions influence molecular processes. In addition to scientific advancements, the team will make their computational tools openly available to the general public. \r\n\r\n\r\nDr. Li\u2019s research will focus on developing three theoretical frameworks for modeling collective strong coupling in molecular ensembles. First, the team will implement the mesoscale molecular dynamics simulation approach to describe vibrational strong coupling in Fabry\u2013P\u00e9rot cavities by explicitly accounting for multimode photonic environments. Second, this project will develop a first-principles simulation approach to study electronic excited-state dynamics under both vibrational and electronic strong couplings, thus enabling a unified description of nonadiabatic processes under strong coupling. In addition, a semiclassical computational electrodynamics approach will be developed which treats the bulk molecular ensemble as a dielectric medium while explicitly simulating the quantum dynamics of impurity molecules. By combining these approaches, the aim is to advance the theoretical modeling of polariton chemistry and provide powerful computational tools for understanding strong light-matter interactions at experimentally relevant scales. Beyond the polariton study, the developed computational tools can also advance research in fields such as plasmonic catalysis and plasmon-enhanced spectroscopy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tao",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tao Li",
+   "pi_email_addr": "taoeli@udel.edu",
+   "nsf_id": "0000A1GYG",
+   "pi_start_date": "2025-03-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "220 HULLIHEN HALL",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197160099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 449457.0
+  }
+ ],
+ "por": null
+}

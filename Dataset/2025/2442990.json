@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442990",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Career: Example-Enhanced Intelligent Tutoring",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 670000.0,
+ "awd_amount": 413700.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "The rapidly evolving workplace landscape calls for the development of scalable upskilling and reskilling programs for maintaining a competent and competitive workforce. According to the World Economic Forum\u2019s 2023 future of jobs report, six in ten workers will require training before 2027, but about half of the workforce does not have access to adequate training opportunities today. From what we know about human learning, it is clear that deliberate practice, appropriate scaffolding, and timely feedback are needed for learning to be effective. Practical implementation of such features requires substantial investment from domain experts or instructors, which makes it difficult to provide these opportunities at scale. The overarching goal of this project is to make expertise sharing more efficient through helping experts create example-based intelligent tutors. The research team will partner with other universities, local community colleges, and public schools to test the developed tools, which will then be made publicly available. Through this work, the project will make it easier to develop effective training programs that scale well to millions of workers, improving both their own opportunities and the U.S. economy as a whole. \r\n\r\nThis project focuses on the teaching and learning of complex problem-solving tasks, e.g. \u201cIdentify a recent economic phenomenon that involves market failure, explain which type of market failure it is, and propose a solution.\u201d To capture the expertise behind such tasks, the project introduces a \u201cChecklist with Examples\u201d approach, which outlines the key criteria a solution must meet. Four main activities guide this project. Thrust 1 involves creating example-based intelligent tutors for task domains that already have detailed checklists. This will produce human-AI collaborative techniques, and a platform (\u201cExemplify\u201d) for instructors to gather examples that meet specific criteria. Instructors can find these examples from prior students\u2019 homework submissions using retrieval-augmented generation (RAG)-based methods or generate them directly with Large Language Models (LLM). Exemplify also helps instructors create scaffolding exercises such as multiple-choice questions or example-annotation tasks with automated feedback. Thrust 2 involves performing randomized controlled classroom experiments to evaluate the resulting example-based intelligent tutors. Thrust 3 involves developing a feedback engine using the checklists and the examples collected earlier. The engine provides students with automated formative feedback as they work on open-ended problem-solving tasks. Thrust 4 develops a low-cost proxy method for cognitive task analysis by having LLM agents simulate novice learners and generate solutions. Experts review these solutions and their feedback is summarized into a checklist, making it easier to capture expertise in any domain.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xu",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xu Wang",
+   "pi_email_addr": "xwanghci@umich.edu",
+   "nsf_id": "000839066",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 413700.0
+  }
+ ],
+ "por": null
+}

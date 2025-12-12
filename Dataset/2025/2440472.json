@@ -1,0 +1,106 @@
+{
+ "awd_id": "2440472",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Small: A unified representation of shape and appearance",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922533",
+ "po_email": "hshen@nsf.gov",
+ "po_sign_block_name": "Han-Wei Shen",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 490402.0,
+ "awd_amount": 490402.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Many real-world scenes contain both well-defined solid surfaces (like the trunk, branches, and leaves of a tree) and volumetric materials (like clouds or fog). The distinction between surfaces and volumes, however, depends on the scale at which we observe these materials. For example, if we examine a cloud up close, we see that it is made of countless water droplets with their own tiny surfaces, even though from a distance it may appear as a hazy volume. Similarly, when viewing a forest from far away, we cannot make out fine details, but zooming in reveals a tangle of individual branches and leaves. These details cannot simply be discarded when modeling appearance from afar, however, because variations in shape and structure at all scales influence how materials look. For computational reasons, current methods in computer graphics and related fields typically treat surfaces and volumes as fundamentally different: efficient techniques exist for rendering surface-like or volume-like materials, but having to choose one or the other makes it difficult to accurately represent how light interacts with these materials across scales. This project will develop new ways to model and simulate the interaction of light with such materials, regardless of scale. The outcomes will have broad impact within computer graphics for applications like moviemaking, industrial design, and architecture, as well as scientific domains like remote sensing, medical imaging, and nuclear engineering, which require accurate simulations of how light or particles scatter within complex or disordered materials.\r\n\r\nThis project will introduce a fundamentally different approach by treating shape and appearance together, as a unified problem. Using Gaussian processes to describe the geometry of materials will allow the model to determine, at any viewing scale, which features should be considered part of the main shape and which should be treated as finer-scale variations that are only preserved in the statistical sense. This will enable accurate simulations and visualizations of complex materials at any scale, and will more generally provide a rigorous mathematical way to incorporate correlated uncertainty in transport modeling. To remain competitive with specialized techniques, the project will consider how to simplify to existing, faster methods at either extreme of the surface-volume continuum, and how to develop efficient Monte Carlo light transport simulation techniques that leverage this framework. This will have broad impact in any discipline that requires simulating the transport of neutral particles in correlated disorder across arbitrary scales.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wojciech",
+   "pi_last_name": "Jarosz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wojciech Jarosz",
+   "pi_email_addr": "wojciech.k.jarosz@dartmouth.edu",
+   "nsf_id": "000703281",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Dartmouth College",
+  "inst_street_address": "7 LEBANON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HANOVER",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6036463007",
+  "inst_zip_code": "037552170",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NH02",
+  "org_lgl_bus_name": "TRUSTEES OF DARTMOUTH COLLEGE",
+  "org_prnt_uei_num": "T4MWFG59C6R3",
+  "org_uei_num": "EB8ASJBCFER9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Dartmouth College",
+  "perf_str_addr": "7 LEBANON ST",
+  "perf_city_name": "HANOVER",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "037552170",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NH02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 490402.0
+  }
+ ],
+ "por": null
+}

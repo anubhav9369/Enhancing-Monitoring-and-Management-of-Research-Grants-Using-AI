@@ -1,0 +1,122 @@
+{
+ "awd_id": "2443138",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Security as a First-Class Design Constraint in Computer Architecture",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032920000",
+ "po_email": "qyu@nsf.gov",
+ "po_sign_block_name": "Qiaoyan Yu",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 615792.0,
+ "awd_amount": 353258.0,
+ "awd_min_amd_letter_date": "2025-02-24",
+ "awd_max_amd_letter_date": "2025-02-24",
+ "awd_abstract_narration": "Computers are part of our everyday lives yet the hardware we use is subject to complex security vulnerabilities. Current vulnerability detection approaches at the hardware level focus on post-hoc patches applied after hardware is deployed, but to date these solutions have been short-lived and inadequate for long term protection. Furthermore, standard methods to evaluate security at the computer hardware level are basically non-existent, leading to ad-hoc custom solutions. As a result, industry stakeholders do not have the tools they need to compare the security of different architectural designs and cannot make informed decisions about the trade-offs between performance and security. This project proposes new abstract methods for reasoning about hardware vulnerabilities and builds an evaluation infrastructure that can be easily integrated into commonly used hardware design tools to incorporate security metrics. In addition, this project investigates a new angle for reasoning about vulnerabilities at the computer architecture (or microarchitectural) \r\nlevel resulting in more robust hardware designs. This project introduces a new programming interface for programs to state the desired memory region to be used and an abstract model to represent vulnerable microarchitectural structures. The outcomes of this project have the potential to help industry identify security challenges at hardware design time and make informed decisions about security tradeoffs. The microarchitectural attacks and defenses topics are introduced to computer engineering education as standard modules in both undergraduate and graduate level courses. The developed computer engineering course within the Precollegiate Development Program brings computer engineering concepts to a diverse population of high-school students.\r\n\r\nThe project addresses modern vulnerabilities in the microarchitecture by introducing a new interface to represent expected regions of memory. This new interface helps address the root of most microarchitectural vulnerabilities: the unauthorized access to sensitive data. The project further explores a method to differentiate \u201cnormal\u201d from \u201cabnormal\u201d memory access patterns and then uses the normal memory region to establish protection mechanisms. In addition, it expands gem5, a commonly used performance evaluation tool, with abstract-based models that represent microarchitectural attacks to enable computer experts to reason about security challenges. The project includes several case studies in which the proposed security evaluation methods can shed light of the security or insecurity of microarchitectural designs. The novelty of this work lays in exploring a new angle for mitigating microarchitectural vulnerabilities and for exploring security metrics that can be incorporated into the existing hardware design cycle.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tamara",
+   "pi_last_name": "Lehman",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tamara S Lehman",
+   "pi_email_addr": "tamara.lehman@colorado.edu",
+   "nsf_id": "000824627",
+   "pi_start_date": "2025-02-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 353258.0
+  }
+ ],
+ "por": null
+}

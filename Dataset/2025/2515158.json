@@ -1,0 +1,102 @@
+{
+ "awd_id": "2515158",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Active Sequential Change-Point Detection for High-dimensional Streaming Data",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927299",
+ "po_email": "yzeng@nsf.gov",
+ "po_sign_block_name": "Yong Zeng",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "This research project focuses on active sequential change-point detection for high-dimensional streaming data under sampling or resource constraints, with numerous important real-world applications, including biosurveillance, environmental monitoring, epidemiology, disaster management, homeland security, quality control in manufacturing engineering, and threat detection. The project aims to develop simple yet effective algorithms that are able to quickly detect undesired anomalies or events, subject to false alarm rates and sampling control constraints, when monitoring large-scale streaming data from complex systems. The results of the research are expected to advance the understanding of real-time anomaly detection and online monitoring of high-dimensional streaming data. Graduate students will also receive training through their involvement in the project's research. \r\n\r\nThis project aims to develop new mathematical, computational, and statistical theories and tools for active sequential change-point detection for high-dimensional streaming data under sampling or resource constraints.  Our specific research aims are to develop computationally scalable and statistically efficient algorithms to detect sparse changes in the high-dimensions under two settings of sample control constraints: (i) the sequential design setting where sampling matrices can be sequentially or adaptively chose based on past observed data, and (ii) the random design setting where the sampling matrices are random as in the modern statistics or machine learning literature. Moreover, real-world case studies in anomaly detection or online monitoring will be investigated. Results of the project are expected to significantly advance the state of the art in sequential analysis, change-point detection, multi-armed bandit problems, streaming data analysis, and large-scale inference.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yajun",
+   "pi_last_name": "Mei",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yajun Mei",
+   "pi_email_addr": "ym3377@nyu.edu",
+   "nsf_id": "000073627",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2442592",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Performance Verification of Machine Learning Models Used in Power and Energy System Applications",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-03",
+ "awd_max_amd_letter_date": "2025-07-03",
+ "awd_abstract_narration": "This NSF CAREER project aims to design algorithms and computational tools which rigorously verify the performance of Machine Learning (ML) models built for use in electric power systems. The project will bring transformative change by giving power system engineers the next-generational computational tools they will need to guarantee that ML models cannot have disastrous impacts on the grid. This will be achieved by fusing recent advances from the fields of ML verification and power system optimization, thus capturing the organic connection between the scalable verification approaches emerging from the ML community, and the secure and optimal operation of large-scale power systems. The intellectual merits of the project include a synergized modeling framework capable of verifying over physics-based grid models fused with ML-based control technologies, custom tree search algorithms which search for elusive adversarial inputs, and self-supervised learning routines which accelerate verification. The broader impacts of the project aim at training and engaging the next generation of data scientists and engineers who will be responsible deploying safe ML technologies across the US power grid. This will be achieved through (1) the release of an open-source modeling toolbox, GridVerification.jl, which provides access to the algorithms developed in this project, (2) a verification competition which will entice students and young researchers into the exciting field, and (3) a new course, titled \"Safe ML for Engineering\", which will give engineering students the tools they need to ensure that ML technologies deployed in safety-critical engineering applications can be safely verified.\r\n\r\nThe computational challenge of verifying large-scale ML models constrained by nonlinear power flow physics is immense and growing. However, state-of-the-art ML verification tools are orders of magnitude behind oncoming industry needs. Using dual cone projections, this framework will exploit a suite of convex relaxation tightening advances that the power flow community has designed over decades and port them directly into the ML verification problem. Tunable bounding hyperplanes will smoothly rotate about nonlinear manifolds of the dual space, enabling optimally tight relaxations. Concurrently, Monte Carlo Tree Search algorithms will sequentially look for increasingly damaging adversarial inputs, and self-supervised learning agents will learn how to accelerate hard verification problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Samuel",
+   "pi_last_name": "Chevalier",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Samuel C Chevalier",
+   "pi_email_addr": "schevali@uvm.edu",
+   "nsf_id": "000932215",
+   "pi_start_date": "2025-07-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Vermont & State Agricultural College",
+  "inst_street_address": "85 S PROSPECT STREET",
+  "inst_street_address_2": "",
+  "inst_city_name": "BURLINGTON",
+  "inst_state_code": "VT",
+  "inst_state_name": "Vermont",
+  "inst_phone_num": "8026563660",
+  "inst_zip_code": "054051704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "VT00",
+  "org_lgl_bus_name": "UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z94KLERAG5V9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Vermont & State Agricultural College",
+  "perf_str_addr": "85 S PROSPECT STREET",
+  "perf_city_name": "BURLINGTON",
+  "perf_st_code": "VT",
+  "perf_st_name": "Vermont",
+  "perf_zip_code": "054051704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "VT00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

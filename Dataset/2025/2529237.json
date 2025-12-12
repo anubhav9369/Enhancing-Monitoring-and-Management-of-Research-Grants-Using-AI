@@ -1,0 +1,118 @@
+{
+ "awd_id": "2529237",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "FuSe2 Topic 1: One-Shot PetaOps/W Analog Margin-Propagation Compute Paradigm Advancing RF-MIMO Radar Processing and Classification",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 1900000.0,
+ "awd_amount": 1136746.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-09-05",
+ "awd_abstract_narration": "This project is co-developing Radio Frequency (RF) architectures, analog computing algorithms, and compute-in-memory architectures for code-domain, Multiple-Input / Multiple-Output (MIMO) radar systems. This cross-layer project reimagines the boundary between analog and digital signal processing by moving code-domain radar processing operations closer to the RF frontend. This enables low-power and ADC-free architectures, supporting scaling to large MIMO arrays. The code-domain radar signals will be processed at Gigahertz rates in the analog domain using cross-correlators that operate using a margin-propagation paradigm, resulting in lower power and compute latency. A compute-in-memory (CIM) architecture reduces the data transfer between the high-speed memory and the correlator sub-systems. The proposed approach is expected to achieve a 10-100x reduction in power consumption, and 5x lower compute-time per frame compared to conventional radar systems. The project also aims to prototype a low-power, high-performance radar system-on-chip using commercial Complementary Metal-Oxide-Semiconductor (CMOS) technologies to demonstrate both the cost-effectiveness and the scalability of the proposed approach. \r\n\r\nThe advancements in MIMO radar technology can significantly enhance detection range and target discrimination, improving safety and efficiency in various applications, such as autonomous vehicles, drone navigation, aviation, and security systems. The reduction in power consumption makes these systems more environmentally friendly, reduces the cost of thermal management, and enables their deployment in power and cost-constrained environments, such as in situ sensing and portable devices. Furthermore, the project\u2019s success in demonstrating highly efficient cross-correlations can pave the way for broader adoption of analog computing in edge devices, addressing critical power and latency constraints in real-time applications. Ultimately, this research promises to make technology more accessible, reliable, and sustainable, contributing to public safety advancements and environmental monitoring. The education and workforce development activities within the project will focus on widespread dissemination, broadening the STEM workforce and deepening cross-domain expertise in software-hardware codesign.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aravind",
+   "pi_last_name": "Nagulu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aravind Nagulu",
+   "pi_email_addr": "a.nagulu@northeastern.edu",
+   "nsf_id": "000931210",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "216Y00",
+   "pgm_ele_name": "FuSe-Future of Semiconductors"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106Z",
+   "pgm_ref_txt": "Microelectronics and Semiconductors"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 497157.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 639589.0
+  }
+ ],
+ "por": null
+}

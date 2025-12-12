@@ -1,0 +1,138 @@
+{
+ "awd_id": "2533634",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Transforming Machine Learning Models Developed in Labs to Manufacturing Plants for In-Process Quality Prediction",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032928136",
+ "po_email": "lbian@nsf.gov",
+ "po_sign_block_name": "Linkan Bian",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 567930.0,
+ "awd_amount": 283965.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "Recent advances in areas such as automation, data science, and artificial intelligence, are creating new opportunities for advanced manufacturing.  However, most machine learning-based solutions are developed in lab environments, which require extensive model tuning and expensive data labeling to be implemented in manufacturing plants. The technical barrier arises from the major discrepancies in the amount, distributions, veracity, and modality between lab and plant data. This Faculty Early Career Development (CAREER) award will investigate new machine learning methodology to make machine learning generalizable and deployable. If successful, the project will accelerate the deployment of artificial intelligence in manufacturing plants and lower the entrance barrier to Industry 4.0 for small and medium manufacturers. This project is also expected to contribute to the development of new manufacturing workforce by engaging middle/high school students and local industries. \r\n\r\nThis project aims to develop a machine learning architecture with expandable modules to learn from massive unlabeled data streaming and adapt to dynamically changing manufacturing conditions in plants. The lab-to-plant transformation will be realized upon testing two scientific hypotheses: (1) a generic model for characterizing massive unlabeled data can effectively learn the similarities of plant data; (2) an established model can be fully adapted to unseen but related scenarios with limited tuning. A transformer architecture-based novel machine learning framework will be configured to simultaneously realize: i) task-agnostic self-supervised contrastive learning from massive plant data for multi-level data characterization; ii) normalizing flow for building one-to-one mapping between sensing data toward virtual sensing data generation in plants for improved quality prediction; and iii) prompt model turning for effectively and efficiently adapting models between different manufacturing conditions. If successful, this project will enable generalizable, deployment-ready machine learning solutions that will be readily scalable for a broad scope of manufacturing applications and help U.S. manufacturers adopt smart manufacturing technologies at an accelerated pace.\r\n\r\nThis project is jointly funded by the Advanced Manufacturing Program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peng",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peng Wang",
+   "pi_email_addr": "pxw206@case.edu",
+   "nsf_id": "000808062",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Case Western Reserve University",
+  "inst_street_address": "10900 EUCLID AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEVELAND",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "2163684510",
+  "inst_zip_code": "44106",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "OH11",
+  "org_lgl_bus_name": "CASE WESTERN RESERVE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJMKEF7EJW69"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Case Western Reserve University",
+  "perf_str_addr": "10900 EUCLID AVE",
+  "perf_city_name": "CLEVELAND",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "441064901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "OH11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  },
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "062Z",
+   "pgm_ref_txt": "Harnessing the Data Revolution"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  },
+  {
+   "pgm_ref_code": "016Z",
+   "pgm_ref_txt": "Cybermanufacturing Systems"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 283965.0
+  }
+ ],
+ "por": null
+}

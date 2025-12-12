@@ -1,0 +1,130 @@
+{
+ "awd_id": "2533498",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Embodied Intelligence in Smart Workspaces: Bidirectional Sensorimotor Interactions for Stress Reduction",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927557",
+ "po_email": "amedinab@nsf.gov",
+ "po_sign_block_name": "Alexandra Medina-Borja",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 540000.0,
+ "awd_amount": 540000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This research project looks to introduce a new class of intelligent engineered systems: dynamic built environments that engage in continuous, bidirectional interaction with occupants to monitor, interpret, and respond to their mental states. Modern workplaces frequently influence how individuals feel and react, impacting their cognitive and emotional well-being \u2014 manifesting as stress, cognitive overload, and distraction \u2014 which can detract from personal well-being, productivity, and long-term health. A key adaptive feature of these environments is movable partitions, allowing for on-demand reconfiguration of physical workspaces to minimize distractions and enhance sustained focus. These interactive, dynamic responses replace the static nature of traditional workplaces, fostering intuitive and responsive settings that alleviate mental strain while promoting cognitive recovery and processing. Over time, the building develops personalized patterns of response through human-environment co-adaptation, creating a feedback loop that encourages long-term improvements in attention, cognitive capacity, and emotional well-being. This initiative contributes to national priorities concerning health and productivity, while also advancing broader educational and public engagement in human-centered design.\r\n\r\nThis project intends to enhance foundational knowledge in adaptive collaboration between humans and intelligent engineered systems by facilitating real-time, bidirectional interaction within dynamic, physics-based environments. Utilizing wearable and environmental sensors, the system looks to detect indicators of mental strain and dynamically adjusts the indoor environment by modifying factors such as lighting, acoustics, and spatial configuration. In the field of building science, the project seeks to contribute to the development of a novel control architecture that integrates physiological and environmental sensing to drive personalized, multi-modal adaptations aimed at improving mental well-being. These adaptations include altering lighting characteristics, such as correlated color temperature and illuminance, delivering targeted acoustic masking via white noise, and reconfiguring spatial layouts with movable partitions. In the realm of computer science, the project looks to propel advancement of embodied artificial intelligence by enabling low-latency, on-device inference of mental states through a cutting-edge wearable platform. The experimental design investigates how occupants perceive, interpret, and react to feedback from adaptive environments, bearing implications for behavioral science and human factors engineering research, as well as practical insights for designing intuitive and reliable systems. Through experimental testbeds and continuous co-adaptation models, this project intends to establish a foundation for intelligent environments that enhance well-being, productivity, and safety in complex, real-world settings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Burcin",
+   "pi_last_name": "Becerik-Gerber",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Burcin Becerik-Gerber",
+   "pi_email_addr": "becerik@usc.edu",
+   "nsf_id": "000520878",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Gale",
+   "pi_last_name": "Lucas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gale Lucas",
+   "pi_email_addr": "lucas@ict.usc.edu",
+   "nsf_id": "000661527",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yasser",
+   "pi_last_name": "Khan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yasser Khan",
+   "pi_email_addr": "yasser.khan@usc.edu",
+   "nsf_id": "000877434",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3620 S. Vermont Ave Kap 210",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900892531",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "058Y00",
+   "pgm_ele_name": "M3X - Mind, Machine, and Motor"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7632",
+   "pgm_ref_txt": "HUMAN-ROBOT INTERACTION"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "033E",
+   "pgm_ref_txt": "Smart and responsive structures"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 540000.0
+  }
+ ],
+ "por": null
+}

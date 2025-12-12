@@ -1,0 +1,113 @@
+{
+ "awd_id": "2453815",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "Collaborative Research: Ideas Lab: Breaking Low: DRIVE-SAFE: Remote and Cooperative Autonomous Driving in Dynamic Environments using 5G/NextG Technology",
+ "cfda_num": "47.084",
+ "org_code": "15020000",
+ "po_phone": "7032922828",
+ "po_email": "sjayawee@nsf.gov",
+ "po_sign_block_name": "SUDHARMAN KANKANAMGE JAYAWEERA",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 5061769.0,
+ "awd_amount": 2544626.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This project aims to break the low latency performance barrier in today\u2019s fifth generation (5G) networks that hinders progress and adoption of remote driving industry (the \u201cvertical\u201d application). It advances an innovative \u201cvertical-aware\u201d framework to optimize both 5G networks and the vertical application. Despite tremendous progress, today\u2019s \u201cself-driving\u201d cars may encounter many situations where they cannot drive themselves safely. Examples include construction zones and traffic accidents on the road. By ensuring low latency needed for remote driving, the developed solutions will allow a human teleoperator to remotely steer a \u201cconnected and autonomous\u201d vehicle (CAV) through complex situations as if sitting in the driver seat. Technological advances enabled by this project will help (re-)establish the U.S.\u2019s leadership in next-generation (NextG) wireless telecommunications and major vertical industries such as automotive and robotic automation. This project also provides a unique educational platform to train students and expand the STEM (Science, Technology, Engineering & Mathematics) workforce. \r\n\r\nTwo major hurdles in ensuring low latency over 5G networks are i) high mobility of vehicles leads to poor radio channel conditions, causing data delivery errors; ii) frequent handovers among radio base stations further prolong data delivery. The project will develop a novel Open Radio Access Network (O-RAN) enabled, vertical-driven framework with mobility-aware, proactive mechanisms to reduce impacts of high mobility and handovers on the tail latency performance of the target vertical application. This is achieved by enabling 5G networks to utilize information (e.g., vehicle trajectory and speed) provided by remote driving applications to make intelligent decisions to speed up the delivery of sensor and command-and-control data that are critical to remote driving, whereas CAVs can also take advantage of vertical-aware predictions made by 5G networks to decide when and how to transmit data. Additional innovations include incorporation of integrated 5G and cellular vehicle-to-everything (C-V2X) technologies for cooperative situation awareness to further ensure safe remote driving operations. The phased approach to developing the proposed solutions and demonstrating their capabilities will ensure a high chance of successful execution, truly moving the needle with transformative impacts on relevant industrial sectors. The project represents close collaboration across three academic institutions and two industry leaders in key relevant sectors providing an accelerated pathway to technology transition. By demonstrating the value of vertical-aware advanced 5G/NextG networks in support of remote and cooperative driving and other industrial use cases, this project will help create new opportunities and business models for both mobile network operators and network equipment vendors for sustained investments in network innovations. It will also help accelerate adoption of autonomous driving with teleoperation capabilities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "ITE",
+ "org_div_long_name": "Innovation and Technology Ecosystems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhi-Li",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhi-Li Zhang",
+   "pi_email_addr": "zhzhang@cs.umn.edu",
+   "nsf_id": "000096921",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Fan",
+   "pi_last_name": "Bai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fan Bai",
+   "pi_email_addr": "fan.bai@gm.com",
+   "nsf_id": "000502815",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 Union St. SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554550159",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "272Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-6 Communications"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2544626.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,126 @@
+{
+ "awd_id": "2536814",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: FIRE-WUI: Improved understanding and models of fire spread, including small-scale to large-scale interactions",
+ "cfda_num": "47.041, 47.050",
+ "org_code": "06010000",
+ "po_phone": "7032922217",
+ "po_email": "kmclauch@nsf.gov",
+ "po_sign_block_name": "Kendra McLauchlan",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1059167.0,
+ "awd_amount": 1059167.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Wildfire is happening more often near cities and towns, putting people, homes, and communities at greater risk. Since wildfires are growing larger and more intense it is even more important to take steps to protect these communities. One helpful way to prepare and respond to wildfires is by using computer modeling and simulation. This powerful tool helps predict how fires might spread in areas where forests and natural areas meet cities and towns. These areas are called the wildland-urban interface (WUI). However, creating accurate models is challenging because how a fire spreads in an urban area is affected by many complex processes that occur in both small areas (like a building) and large areas (like a whole neighborhood). This project aims to understand these processes better and build more reliable models that can predict how fires will act in WUI areas, whether at small or large scales. The team also plans to create an easy-to-use computer program that will help emergency planners and local leaders use these tools to make better decisions about evacuations, managing fires, and keeping communities safer.\r\n\r\nThe technical aspects of the proposed research are organized around four primary objectives identified as: (i) to develop a fundamental physical understanding of how fire interacts with individual structures and materials in urban environments at the local scale; (ii) to investigate how these localized interactions influence fire dynamics at intermediate scales\u2014such as neighborhoods and communities\u2014thereby bridging the gap between structure-level physics and community-scale outcomes; (iii) use insights from items (i) and (ii) to construct a computationally efficient, large-scale reduced-order model that accurately predicts fire spread in wildland-urban interface (WUI) scenarios, while capturing the essential underlying physics;  (iv) to integrate models developed into a user-friendly, operational platform designed to enable real-time prediction and support decision-making for fire preparedness, response, and mitigation in WUI regions. The project outcome is expected to have a significant societal impact, addressing the increasing wildfire risks driven by shifting hydro-meteorological patterns, drought, and urban sprawl. It will produce predictive tools and decision-support platforms to aid real-time evacuation and firefighting strategies. Additionally, it will inform land-use planning, building codes, and zoning regulations to reduce future risk. Notably, the project promotes broad applicability by guiding policies that ensure all populations receive adequate support during disaster preparedness and recovery efforts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Abhishek",
+   "pi_last_name": "Saha",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Abhishek Saha",
+   "pi_email_addr": "asaha@eng.ucsd.edu",
+   "nsf_id": "000684330",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ilkay",
+   "pi_last_name": "Altintas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ilkay Altintas",
+   "pi_email_addr": "altintas@sdsc.edu",
+   "nsf_id": "000487407",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Antonio",
+   "pi_last_name": "Sanchez",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Antonio L Sanchez",
+   "pi_email_addr": "alsp@eng.ucsd.edu",
+   "nsf_id": "000683194",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "345Y00",
+   "pgm_ele_name": "Fire Science Innovations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1059167.0
+  }
+ ],
+ "por": null
+}

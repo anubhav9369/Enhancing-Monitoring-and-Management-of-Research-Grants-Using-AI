@@ -1,0 +1,98 @@
+{
+ "awd_id": "2443633",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: A Time-Sensitive Large Model Training Platform for Dynamic Data Analytics",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 549999.0,
+ "awd_amount": 549999.0,
+ "awd_min_amd_letter_date": "2024-12-16",
+ "awd_max_amd_letter_date": "2024-12-16",
+ "awd_abstract_narration": "Large-scale deep learning models are widely used and are critical across many fields. However, the need to adapt and refine these models to changing conditions is becoming increasingly important. Achieving real-time adaptation poses a significant challenge due to its resource-intensive nature. This research focuses on developing methods to dynamically refine and adapt existing models, enabling real-time updates and reducing the reliance on time-consuming retraining. Such advancements are critical for scenarios where static pre-trained models often underperform, including cases with incomplete data, dynamic environments, or evolving research objectives. These methods support a wide range of applications requiring real-time adaptability in large-scale models, such as climate modeling, real-time traffic management, digital twins of fusion energy in plasma physics, and virtual infrastructure twins of supercomputer networks. By addressing this challenge, the project not only promotes innovation but also boosts scientific research and practical applications. This project contributes to the U.S. national goal of broadening participation in science and engineering, developing the research workforce for advanced cyberinfrastructure, promoting the innovation economy, and maintaining a leading position in international technology competitions. The developed software as a foundational tool is shared with researchers and engineers in academia, national laboratories, and industry for broader societal impacts. Also, this project promotes K-12, undergraduate, female, and underrepresented minority populations in the science, technology, engineering, and mathematics (STEM) fields and strengthens collaboration between academia and national laboratories/industries.\r\n\r\nThe primary objective of this project is to pioneer the effort of developing a time-sensitive large model training platform for dynamic data analytics in practice by taking advantage of the world-class accelerator computing infrastructure to fine-tune trillion-parameter large models cost-efficiently. Towards this end, this project has three research thrusts and one educational thrust. First, this research automatically generates a parallelization plan at an affordable cost to minimize training iteration latency. Second, this project progressively grows models from pre-trained small models during fine-tuning to reduce the number of training iterations. Third, this project validates the practicality of the developed platform using realistic applications in weather forecasting, fusion energy experiment control, resilient streaming event prediction in virtual infrastructure twins, and scooter-sharing demand prediction. Fourth, this project designs integrated research and education activities, including broadening the adoption of the time-sensitive training platform, undergraduate student research advising, curriculum development, and outreach for professional development and K-12 education.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tong",
+   "pi_last_name": "Shu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tong Shu",
+   "pi_email_addr": "tong.shu@unt.edu",
+   "nsf_id": "000840408",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Texas",
+  "inst_street_address": "1112 DALLAS DR STE 4000",
+  "inst_street_address_2": "",
+  "inst_city_name": "DENTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9405653940",
+  "inst_zip_code": "762051132",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "TX13",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH TEXAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G47WN1XZNWX9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Texas",
+  "perf_str_addr": "1112 DALLAS DR STE 4000",
+  "perf_city_name": "DENTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "762051132",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "TX13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 549999.0
+  }
+ ],
+ "por": null
+}

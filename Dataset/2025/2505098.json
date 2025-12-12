@@ -1,0 +1,106 @@
+{
+ "awd_id": "2505098",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: III: Medium: Interpretable Scientific Discovery with Foundation Model Programs",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 333333.0,
+ "awd_amount": 333333.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Generating nuanced yet interpretable hypotheses from noisy and high-dimensional observations is a core activity across numerous scientific disciplines. For example, across neuroscience, genomics, biomechanics, and ecology, researchers analyze images and videos to study phenomena ranging from the genetic expression of lab mice to global species distributions of birds. Useful scientific hypotheses are typically instantiated on symbolically interpretable concepts and attributes (such as stride periods and center of mass oscillations when studying kinematics of walking).  A key challenge is to extract such symbolically interpretable hypotheses from raw high-dimensional observational data.  To address this challenge, this project aims to develop a novel neurosymbolic programming framework, called foundation model programming, for generating symbolically interpretable scientific hypotheses from high dimensional observational data. The main idea is to represent interpretable hypotheses as neurosymbolic programs that use symbolic primitives as well as neural modules, including foundation models. The use of neural and foundation models allows the hypotheses to be  full-stack,  modeling both the extraction of relevant patterns and motifs from high-dimensional raw data and reasoning over those patterns.\r\n\r\nThe core technical benefit of this approach is that it inherits both the contextual flexibility of modern foundation models given high-dimensional inputs, and the rigorous reasoning abilities offered by neurosymbolic approaches. The proposal is backed by a substantial amount of prior work on both neurosymbolic learning and applying foundational models in scientific domains, including foundation model-enabled hypothesis generation for low-dimensional data, self-supervised symbolic feature extraction from high-dimensional data, data-efficient expert-in-the-loop training approaches, and deep deployment into real scientific workflows. Importantly, the use of foundation models enables building methods that are more autonomous, and require fewer manual annotations by the expert.  This project will develop algorithms that can jointly reason over what are the most useful symbolically interpretable concepts or motifs that can be extracted from the raw data, as well as how to compose those concepts into coherent hypotheses. This paradigm mirrors how humans develop hypotheses, by jointly establishing a discrete vocabulary of concepts (from continuous high dimensional descriptions) and reasoning over those concepts, thus enabling interpretability. This project will benchmark the developed methods on several scientific tasks and domains and collaborations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jennifer",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jennifer J Sun",
+   "pi_email_addr": "jjs533@cornell.edu",
+   "nsf_id": "000960029",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 333333.0
+  }
+ ],
+ "por": null
+}

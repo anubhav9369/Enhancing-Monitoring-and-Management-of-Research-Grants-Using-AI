@@ -1,0 +1,114 @@
+{
+ "awd_id": "2502569",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "IIBR RoL:  Collaborative Research:  A Rules Of Life Engine (RoLE) Model to Uncover Fundamental Processes Governing Biodiversity",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-08-31",
+ "tot_intn_awd_amt": 398109.0,
+ "awd_amount": 95670.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "An unprecedented opportunity to advance understanding of the biological rules that govern the diversity and dynamics of life now exists thanks to the large quantity and variety of data that are becoming increasingly available.  This goal of understanding biodiversity dynamics is enabled at a critical moment when human systems are disrupting those very dynamics. However, the scientific and computational tools needed to derive understanding from data are still missing.  Such tools need to be accessible to a broad community of users, thereby catalyzing involvement and innovation.  This project will (1) build a computational model for multiple aspects of biodiversity-species abundance, genetic, functional, and phylogenetic; (2) use and refine this model by testing major hypotheses about the generation and maintenance of biodiversity in three exemplar systems; (3) make the model accessible to the scientific community by building an open-source platform to prepare diverse data sources and run the model; and (4) create pedagogically effective courses and workshops to enable students, researchers, and stakeholders from many backgrounds to understand biodiversity theory and the data science tools needed to test those theories with data.\r\n\r\nThe Rules of Life Engine (RoLE) model will be a mechanistic, simulation-based hypothesis-testing and data synthesis framework enabling scientists with multi-dimensional biodiversity data to generate and test hypotheses about the processes driving biodiversity patterns. The RoLE model will apply new techniques in machine learning to fit models to high dimensional, cross-scale data. The model will simulate eco-evolutionary community assembly building from individual-based ecological and genetic neutral models with added non-neutral, trait-based competition and environmental filtering. New species and traits will arise through long time scale evolution in the meta-community and rapid evolution in the local community. Population genetics and species abundances in the local community will be modeled through birth, death, immigration, and mutation. The project research team will refine and illustrate the use of the RoLE model by testing four hypothesized rules of life across three bio-geographic systems for which multi-scale biodiversity data are now available. The hypotheses address the relative roles of immigration versus speciation in community assembly, how species interactions influence diversity, how different assembly histories determine the strength of species interactions, and whether/how systems come to equilibrium. The project leaders have established a network of 14 collaborators, including the National Ecological Observatory Network, who will use the RoLE model in their diverse systems and propagate wider adoption. In order to further reduce barriers to use, the RoLE model framework will be made available as open source software, including an R language Shiny App interface with standardized metadata outputs to promote reproducibility and sharing. The insights gained from the RoLE model are of direct relevance to conservation, e.g., whether or not communities are assembled primarily by speciation or immigration strongly determines their response to anthropogenic pressures and optimal conservation management. To encourage participation in quantitative biodiversity research, the project leaders will develop a massively open online course through the Santa Fe Institute?s Complexity Explorer program using the RoLE model as an interactive teaching tool. In conjunction with Data Carpentry and Software Carpentry, the research team will also provide an in-person data science training workshop. Results from the RoLE project can be found at https://role-model.github.io.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Rominger",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew J Rominger",
+   "pi_email_addr": "rominger@hawaii.edu",
+   "nsf_id": "000709254",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Hawaii",
+  "inst_street_address": "2425 CAMPUS RD SINCLAIR RM 1",
+  "inst_street_address_2": "",
+  "inst_city_name": "HONOLULU",
+  "inst_state_code": "HI",
+  "inst_state_name": "Hawaii",
+  "inst_phone_num": "8089567800",
+  "inst_zip_code": "968222247",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "HI01",
+  "org_lgl_bus_name": "UNIVERSITY OF HAWAII",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NSCKLFSSABF2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Hawaii",
+  "perf_str_addr": "2425 CAMPUS RD SINCLAIR RM 1",
+  "perf_city_name": "HONOLULU",
+  "perf_st_code": "HI",
+  "perf_st_name": "Hawaii",
+  "perf_zip_code": "968222247",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "HI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "084Y00",
+   "pgm_ele_name": "Infrastructure Innovation for"
+  },
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  },
+  {
+   "pgm_ele_code": "737400",
+   "pgm_ele_name": "Systematics & Biodiversity Sci"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "068Z",
+   "pgm_ref_txt": "URoL-Understanding Rules of Life"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01001920DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2019,
+   "fund_oblg_amt": 95669.0
+  }
+ ],
+ "por": null
+}

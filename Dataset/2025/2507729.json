@@ -1,0 +1,98 @@
+{
+ "awd_id": "2507729",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I:  Adaptive Multi-Targeted Priming for Host-Pathogen Transcriptomics: Leveraging Graph Representation Learning for High-Resolution Pathogenesis and Immune Profiling",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924392",
+ "po_email": "amonk@nsf.gov",
+ "po_sign_block_name": "Alastair Monk",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 304995.0,
+ "awd_amount": 304995.0,
+ "awd_min_amd_letter_date": "2025-05-21",
+ "awd_max_amd_letter_date": "2025-05-21",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project lies in advancing infectious disease research and diagnostics through improved genetic sequencing. The effectiveness of current Ribonucleic acid (RNA) sequencing assays is limited by an inability to detect low-abundance RNA of pathogens amidst host background RNA. This project produces infection-specific reagent products that could enhance sensitivity and specificity in transcript detection. The novel capabilities of this approach will enable researchers and healthcare professionals to possibly gain insights into host-pathogen interactions, support applications in disease surveillance, diagnostics, immune profiling, personalized medicine, and/or enhanced public health responses. The commercial potential of this project is driven by a critical market need within infectious-disease research and clinical diagnostics by providing a new primitive for any multi-organismal sample. The technology\u2019s scalable nature ensures broad applicability, including potential extensions into microbiome research and environmental monitoring.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project will provide the means to overcome limitations within current transcriptomic assays in detecting low-abundance pathogen transcripts within complex host-pathogen samples. These problems will be addressed by the development of the Host-Pathogen Enrichment Platform (HostPathEP), which adaptively computes a synthetic multi-targeted priming reagent for each specific host-pathogen system. This reagent is developed to identify conserved motifs that differentiate target from off-target sequences within the combined genomic data of the host and pathogen and tailored to the context-specific research or diagnostic goal of the assay. The first objective is the development of the informatics infrastructure and graph representation learning algorithm behind HostPathEP. Next is the design and evaluation of custom reagents for multiple infection models and for bulk RNA-seq, scRNA-seq, and viral genome sequencing. Addressing a fundamental gap in pathogen transcript detection, this project will enable more effective transcriptomics applications for both research and clinical spheres. Anticipated technical results include improved transcriptomic profiling, facilitating new experimental capabilities and driving advancements in infectious disease research. Successful execution of this project will contribute to the broader adoption of targeted biomolecular assays in healthcare and research, ultimately advancing knowledge in disease pathogenesis and immune-response mechanisms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Evan",
+   "pi_last_name": "Cudone",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Evan Cudone",
+   "pi_email_addr": "evan.cudone@multitarga.com",
+   "nsf_id": "000995563",
+   "pi_start_date": "2025-05-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "MULTITARGA LLC",
+  "inst_street_address": "49 GROUSE LN",
+  "inst_street_address_2": "",
+  "inst_city_name": "WOODBRIDGE",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "6303032801",
+  "inst_zip_code": "065251452",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "CT03",
+  "org_lgl_bus_name": "MULTITARGA LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TRLFSW7MK1J1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "MULTITARGA LLC",
+  "perf_str_addr": "516 CHAPEL ST APT 4",
+  "perf_city_name": "NEW HAVEN",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "065117402",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "CT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1718",
+   "pgm_ref_txt": "BIOINFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304995.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,122 @@
+{
+ "awd_id": "2533077",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "BioMADE: Development of genomic language models to predict optimal genomes for commercial protein production",
+ "cfda_num": "47.041, 47.074",
+ "org_code": "07020000",
+ "po_phone": "7032924201",
+ "po_email": "speretti@nsf.gov",
+ "po_sign_block_name": "Steven Peretti",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 449999.0,
+ "awd_amount": 449999.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Microbes are being used to produce a range of products. Some of those products are proteins, such as insulin or blood-clotting factors. In many cases, fungal strains are used because they have protein secretion systems. However, the secretion systems are not optimized for throughput, so strain improvement is needed. To facilitate this process, AI methods will be employed to develop a digital model that emulates most of the behaviors of the original fungal cells. This is commonly referred to as a digital twin. The digital twin will be used to identify genetic edits that will improve protein synthesis and secretion. This will be accomplished for many fungal strains and behaviors. The models will be made publicly available using open-source software. \r\n\r\nA hierarchical genome-to-phenotype model (G2PM) for fungal systems will be developed. The focus will be on Pichia strains. This model will link DNA sequence to gene expression and, ultimately, to strain-level protein secretion performance. More than 8,000 diverse fungal genomes will be curated to train genomic language models (gLMs). These are deep neural networks that learn complex probability distributions over nucleotide sequences. These pretrained fungal gLMs and their learned embeddings will then be integrated into a sequence-to-expression model that predicts high-resolution RNA-seq profiles directly from genomic sequence, across multiple fungal species and environmental contexts. In parallel, the team will generate and publicly release a comprehensive multimodal dataset of engineered Pichia strains. Each will be annotated with whole-genome sequence, transcriptome profiles, and single-cell secretion measurements. Leveraging this resource, the G2PM will combine the pretrained sequence-to-expression module with protein representations in a phenotype-prediction module to predict secretion titers for target proteins from genomic sequence alone. Together, these efforts could yield an AI framework capable of recommending genomic edits that enhance protein secretion, thereby accelerating fungal strain engineering and enabling more efficient, lower cost biomanufacturing.\r\n\r\nThis project is being jointly supported by ENG/CBET/CBE, BIO/MCB/SSB, and the BioMADE Manufacturing Innovation Institute.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yun",
+   "pi_last_name": "Song",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yun S Song",
+   "pi_email_addr": "yss@berkeley.edu",
+   "nsf_id": "000508248",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jeremy",
+   "pi_last_name": "Agresti",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeremy J Agresti",
+   "pi_email_addr": "jeremy@triplebar.com",
+   "nsf_id": "0000A0CV6",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "149100",
+   "pgm_ele_name": "Cellular & Biochem Engineering"
+  },
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  },
+  {
+   "pgm_ele_code": "801100",
+   "pgm_ele_name": "Systems and Synthetic Biology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "1757",
+   "pgm_ref_txt": "Quantitative sys bio and biotech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 449999.0
+  }
+ ],
+ "por": null
+}

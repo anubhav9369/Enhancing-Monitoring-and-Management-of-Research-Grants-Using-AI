@@ -1,0 +1,102 @@
+{
+ "awd_id": "2512423",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Probing Gravity and Matter with Gravitational Waves",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927372",
+ "po_email": "pmarrone@nsf.gov",
+ "po_sign_block_name": "Pedro Marronetti",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 280000.0,
+ "awd_amount": 280000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Gravitational wave astrophysics has entered a new era of discovery and exploration. In 2015, advanced LIGO detected gravitational waves for the first time, earning the pioneers of gravitational-wave physics a Nobel prize, and the collaboration several other prestigious prizes. Since then, advanced LIGO and its European partner, Virgo, and its Japanese partner, KAGRA, have detected over 300 additional events. All of these gravitational waves were emitted by black holes and/or neutron stars that spiraled into each other and collided at velocities close to half the speed of light. The neutron star events revealed important astrophysical information about matter in extreme environments, such as the fact that most of the gold in the universe is produced in these cosmic collisions. The black hole events validated the predictions of Einstein's theory of general relativity in a regime that had never been explored before: where the gravitational force is enormous and violently changing. The extraction and the interpretation of all this physical information required the accurate construction of gravitational wave models and data analysis techniques with which to pull the signal out of the detector noise. The main objective of this award is to develop ready-to-use models and artificial-intelligence-enhanced data analysis algorithms to trigger strong progress in science through the more detailed and robust extraction of information about matter and gravity in extreme environments. The award integrates this scientific research with educational activities, aimed at educating high-school students and the general public about physics and science, through activities at the Illinois Center for Advanced Studies of the University at the University of Illinois Urbana-Champaign, a fertile training ground for the next generation of gravitational scientists.\r\n\r\nThis award is aimed at developing and implementing ready-to-use models and data analysis algorithms in two focus areas. Focus Area I is centered on the extraction of new, nuclear physics information from the gravitational waves emitted in the late quasi-circular inspiral of neutron star binaries. In particular, the models and algorithms this award develops enable inferences (robust to systematic uncertainties) on (i) non-trivial features in the speed of sound of the neutron-star fluid, (ii) (the principal-directions of the) nuclear physics parameter space of realistic equation-of-state families, and (iii) out-of-equilibrium processes that induce an effective viscosity in the neutron-star fluid. Focus Area II concentrates on carrying out new, model-agnostic tests of general relativity using current and future gravitational-wave data. In particular, this award (i) develops and implements a neural-network-enhanced, parameterized-post-Einsteinian framework to search for and to detect or constrain (post-Newtonian and non-post-Newtonian) deviations from general relativity in gravitational-wave data produced by inspiraling black hole binaries, and (ii) carries out model-specific tests of general relativity with ringdown-only gravitational-wave data. This award also implements broader impact activities aimed at educating and increasing the interest of high-school students and the general public in gravitational physics. In The Art of Physics/The Physics of Art, undergraduate and graduate students are educated in cutting-edge physics to create art that conveys gravitational physics concepts. The textbook \"A Theorist\u2019s Guide to the Physics of Neutron Stars\" introduces junior graduate students to the gravitational and nuclear physics relevant to the study of neutron stars, which is then used in graduate classes and group meetings to train the next generation of multi-messenger physicists.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nicolas",
+   "pi_last_name": "Yunes",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicolas Yunes",
+   "pi_email_addr": "nyunes@illinois.edu",
+   "nsf_id": "000569735",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124400",
+   "pgm_ele_name": "Gravity Theory"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  },
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 280000.0
+  }
+ ],
+ "por": null
+}

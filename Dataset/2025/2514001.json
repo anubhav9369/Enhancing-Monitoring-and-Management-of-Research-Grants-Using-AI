@@ -1,0 +1,118 @@
+{
+ "awd_id": "2514001",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Computation of Non-symmetric Tensor Decomposition: Theory, Algorithms and Applications",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 239806.0,
+ "awd_amount": 239806.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "With the surge of artificial intelligence (AI) and data science, increasing data and parameters of machine learning models come with high-order structures, also known as tensors. Tensor decomposition (TD) is commonly used to compress the data and analyze the underlying information. This project aims to develop both theoretically justified and practically efficient TD algorithms, as well as algorithms for low-rank tensor approximations and tensor completions. Such tools have wide applications in data science, statistics, engineering, and industry, including multi-view learning, convolutional neural networks (CNNs), and large language models (LLMs). The project also includes training of undergraduate and graduate students studying in scientific computing and data science.\r\n\r\nThis project studies a range of challenging research tasks centered on the computation and analysis of tensor decompositions. A major goal is to overcome limitations of existing algebraic-based and optimization-based methods, which are either computationally expensive or theoretically insufficient.  The tensor decomposition algorithms utilized in this project are based on generating polynomials to reformulate and understand the non-symmetric TD. The developed TD algorithms will have the following advantages: computationally efficient in terms of speed and memory, easy to implement in linear algebra friendly software, have theoretical guarantees, can be used to detect certain tensor ranks, and support higher tensor ranks. For generic tensors satisfying certain rank bounds, the approach in this project is to construct the TD by solving linear equations. When the tensor rank is higher, the problem is reformulated as a nonlinear optimization with linear constraints and can be solved using modern optimization methods. The generating polynomial-based framework can also be utilized to reformulate and solve low-rank tensor approximation and tensor completion problems, which are widely used in data science applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zequn",
+   "pi_last_name": "Zheng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zequn Zheng",
+   "pi_email_addr": "zzheng@lsu.edu",
+   "nsf_id": "0000A29XZ",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hongchao",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hongchao Zhang",
+   "pi_email_addr": "hozhang@math.lsu.edu",
+   "nsf_id": "000518125",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Louisiana State University",
+  "inst_street_address": "202 HIMES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "BATON ROUGE",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "2255782760",
+  "inst_zip_code": "708030001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "LA06",
+  "org_lgl_bus_name": "LOUISIANA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ECQEYCHRNKJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Louisiana State University",
+  "perf_str_addr": "202 HIMES HALL",
+  "perf_city_name": "BATON ROUGE",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "708030001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "LA06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 239806.0
+  }
+ ],
+ "por": null
+}

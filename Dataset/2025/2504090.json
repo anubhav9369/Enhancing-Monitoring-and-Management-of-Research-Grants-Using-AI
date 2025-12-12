@@ -1,0 +1,102 @@
+{
+ "awd_id": "2504090",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: III: Medium: Empowering Graph Neural Networks from a Data Perspective",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Graph Neural Networks (GNNs) are a powerful class of artificial intelligence models that help analyze complex relationships within data, from understanding how our brains function to predicting molecular interactions or identifying financial anomalies. While these models have shown remarkable promise, their widespread application in the real world faces significant hurdles: they often struggle to process extremely large datasets, adapt to unseen data, and maintain reliability when faced with intentional disruptions or faulty information. This project aims to overcome these limitations by focusing directly on the data itself, rather than solely on refining the GNN models. By making graph data more compact, cleaner, and better aligned with learning objectives, this project will enable more efficient, accurate, and robust AI systems across critical domains such as healthcare, finance, and national security.\r\n\r\nThe project will address core challenges of GNNs related to data scale, distribution, and quality through three research tasks. The first task will tackle scalability by identifying key structural properties necessary for effective learning and developing graph condensation methods that significantly reduce data size while automatically preserving critical information. The second task will investigate how distribution shifts relate to graph properties and will introduce new data augmentation and test-time adaptation strategies to enhance generalization under out-of-distribution conditions. The third task will focus on data quality by creating unsupervised graph purification techniques to remove adversarial perturbations and by designing detection mechanisms to identify and mitigate various types of attacks. This project will include comprehensive evaluations using publicly available datasets and real-world applications, supported by collaborations with academic institutions and industry partners. The project outcomes will complement existing model-centric approaches and promote more efficient, robust, and generalizable GNN solutions across domains such as finance, neuroscience, and cybersecurity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Danai",
+   "pi_last_name": "Koutra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Danai Koutra",
+   "pi_email_addr": "dkoutra@umich.edu",
+   "nsf_id": "000702565",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

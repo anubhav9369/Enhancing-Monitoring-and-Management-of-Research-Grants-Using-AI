@@ -1,0 +1,98 @@
+{
+ "awd_id": "2448268",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Risk-Sensitive Reinforcement Learning via Coherent Risk Measures: Framework and Algorithms",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 360000.0,
+ "awd_amount": 360000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "Reinforcement learning (RL) is an area of machine learning where agents learn from interacting with environment to determine actions. RL tools have been widely used in many different engineering systems such as power grid, wireless communications, and autonomous driving etc. A common goal in these decision-making tasks is to determine an optimal policy that minimizes the expected total discounted cost, which is also named risk-neutral approach. Although the risk-neutral approach is quite popular, it does not take the tail of the distributions of the cost into consideration. In the tail of the distribution, the cost may be prohibitively high, even though the probability of happening is low. In safety-critical applications, it is important to consider these rare but consequential events. Given the potential drawbacks of risk-neutral approach in safety critical applications, there is a pressing need to systematically study the risk-sensitive approach, in which one designs decision policies that take the risk into consideration. \r\n\r\nThe goal of this project is to develop a unified framework for the design of efficient algorithms for risk-sensitive RL by systematically employing a class of risk measure named coherent risk measures and develop efficient algorithms that could be implemented in engineering systems. Even though a multitude of risk measures have been extensively studied in the literature and successfully applied to RL, existing work face the following challenges: 1) Most of these applied risk measures are not coherent; 2) While there is an increasing demand for a broader range of choices in risk measures to better align with individual risk preferences in complex scenarios, there is a lack of unified framework that enables efficient design of risk-sensitive RL algorithms tailoring to users\u2019 different choices of risk measures suitable for their applications; and 3) There may be model uncertainties and model shifting in practical applications, but existing risk-sensitive RL algorithms are not robust to such scenarios. To address these challenges, this project is focusing on two interconnected thrusts. In the first thrust, the research team aims to develop a unified framework for the efficient design of risk-sensitive RL using coherent measures tailoring to users\u2019 different choices of risk measures suitable for their applications. In the second thrust, based on the developed framework, the team aims to design robust risk sensitive RL algorithms that are robust to model uncertainties and model misspecifications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lifeng",
+   "pi_last_name": "Lai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lifeng Lai",
+   "pi_email_addr": "lflai@ucdavis.edu",
+   "nsf_id": "000541215",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "1850 RESEARCH PARK DR STE 300",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956186153",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 360000.0
+  }
+ ],
+ "por": null
+}

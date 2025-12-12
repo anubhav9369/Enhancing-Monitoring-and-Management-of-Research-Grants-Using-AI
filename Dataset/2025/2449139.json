@@ -1,0 +1,105 @@
+{
+ "awd_id": "2449139",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: An Open-Source Ecosystem for Interactive Mathematics Curricula",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 299917.0,
+ "awd_amount": 319885.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project focuses on the development of the Distributed Open Education Network (Doenet), an open-source ecosystem (OSE) designed to facilitate the development, sharing, and classroom use of richly interactive mathematics activities. Through a data-driven education technology platform, Doenet assists educator4s in creating instructional tools for engaged learning and supports educators and researchers in generating new knowledge about the effectiveness of interactive mathematics applications. The research on how Doenet and its freely available tools can deepen a student\u2019s understanding of mathematics will inform the design of future math curricula while increasing access for all students to online activities and curricula.\r\n\r\nThis POSE project allows researchers to run learning experiments on Doenet, while also developing a sustainable model for the Doenet OSE and its growing community of users. The foundation of Doenet is its platform-agnostic semantic markup language DoenetML, which allows authors to express mathematical ideas using an easily learned syntax similar to HTML. Unlike educational Java and Flash applets that were written a decade ago and are no longer supported by modern browsers, content written in DoenetML is not locked into a particular implementing programming language contributing to the potential longevity of the OSE. The expansion of Doenet has four primary components: 1) developing complete course offerings that can be easily adopted, extended and shared; 2) developing a robust technical infrastructure that meets the security, privacy and availability requirements of adopting institutions; 3) developing comprehensive documentation to facilitate entry into the ecosystem; and 4) developing a community of practice that will build and maintain a mature and healthy ecosystem.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Duane",
+   "pi_last_name": "Nykamp",
+   "pi_mid_init": "Q",
+   "pi_sufx_name": "",
+   "pi_full_name": "Duane Q Nykamp",
+   "pi_email_addr": "nykamp@umn.edu",
+   "nsf_id": "000053570",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Weimerskirch",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Weimerskirch",
+   "pi_email_addr": "weim0024@umn.edu",
+   "nsf_id": "000794342",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "206 Church St. SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554550488",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 319885.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2513365",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Solution-processed electrically-pumped laser diodes utilizing colloidal quantum shells",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922980",
+ "po_email": "ddagenai@nsf.gov",
+ "po_sign_block_name": "Dominique Dagenais",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 370210.0,
+ "awd_amount": 370210.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "The ability to fabricate laser diodes from solution-based nanoparticle inks represents a potentially transformative innovation in photonics, with far-reaching applications in medical imaging, optical communications, and flexible electronic devices. In contrast to conventional epitaxial lasers, solution-processed devices offer substantial advantages in terms of manufacturing cost, spectral tunability, and compatibility with a wide range of substrates, including flexible and unconventional platforms. Presently, the performance of solution-processed lasers has been hindered by intrinsic optical losses and thermal instabilities in conventional semiconductor nanoparticles. This project addresses these limitations by developing a new class of layered nanomaterials, called colloidal quantum shells, specifically designed to maintain high efficiency under intense lasing conditions. The spherical-shell geometry of quantum shells is aimed at suppressing main energy loss mechanisms and enhancing thermal stability of the emissive layer, thereby enabling brighter and longer-lasting laser emission. The research will explore how to interface these colloidal materials with electrical contacts and optimize light propagation within the laser cavity. The successful demonstration of quantum shell-based laser diodes could result in low-cost, color-tunable, and flexible photonic circuits with wide-ranging technological impact. The project also integrates a strong educational mission, including undergraduate research opportunities, enhanced with the development of an upper level nanophotonics course and a summer research experience program for undergraduates.\r\n\r\nTECHNICAL DESCRIPTION: \r\nThe goal of this project is to realize electrically pumped laser diodes from a novel class of colloidal semiconductor nanocrystals, called quantum shells, which structure is designed to withstand the anticipated high energy-density conditions in these devices. The geometry of quantum shells benefits from an effective suppression of the non-radiative Auger recombination processes, which typically cause energy losses in nanoparticles, thus extending both the lifetime and the spectral bandwidth of optical amplification. The research will involve colloidal synthesis of quantum shells, characterization of their excited-state dynamics using ultrafast and single-particle spectroscopies, and their integration into electrically pumped laser architectures. To achieve a low-threshold stimulated emission from solution-processed layers of light-emitting quantum shells, the engineering effort will focus on achieving an efficient charge injection at interfaces and fabrication of resonant cavities that provide strong mode confinement and overlap with the emissive layer. The anticipated suppression of Auger processes is expected to significantly reduce the current density needed to achieve population inversion, while the unique geometry of quantum shells will enable broadband tunability of the emission across both visible and near-infrared spectral regions, including telecommunications-relevant wavelengths. The ultimate goal is to demonstrate high-performance, electrically driven, solution-processable laser diodes suitable for integration into flexible and scalable photonic circuits.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mikhail",
+   "pi_last_name": "Zamkov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mikhail Zamkov",
+   "pi_email_addr": "zamkovm@bgsu.edu",
+   "nsf_id": "000409428",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Bowling Green State University",
+  "inst_street_address": "1851 N RESEARCH DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOWLING GREEN",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "4193722481",
+  "inst_zip_code": "434034401",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "OH05",
+  "org_lgl_bus_name": "BOWLING GREEN STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SLT3EB6G3FA9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Bowling Green State University",
+  "perf_str_addr": "1851 N RESEARCH DR",
+  "perf_city_name": "BOWLING GREEN",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "434034401",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "OH05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "094E",
+   "pgm_ref_txt": "Optoelectronic devices"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 370210.0
+  }
+ ],
+ "por": null
+}

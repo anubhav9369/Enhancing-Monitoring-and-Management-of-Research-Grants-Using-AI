@@ -1,0 +1,102 @@
+{
+ "awd_id": "2501703",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Ultrasonic Guided Wave-based Battery Monitoring Algorithms and Remaining Useful Life Prediction",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "This NSF ERI project aims to utilize ultrasonic guided waves to study lithium-ion battery degradation and to develop robust algorithms for accurate predictions of state of charge (SoC), state of health (SoH) and remaining useful life in real-time. The degradation or aging of battery is a natural process as the battery undergoes continuous charge and discharge process during service, limiting the battery\u2019s capability of delivering rated energy and power. This natural degradation may also lead to a poor estimate of state of charge and state of health of the battery, posing safety concerns for demanding applications such as electric vehicles (EV), electric vertical take-off and landing vehicles (e-VTOL), drones, unmanned aerial vehicles (UAV) etc. This project intends to address these challenges by utilizing high-frequency ultrasonic waves, which interact with anode, cathode and separator during propagation, and may provide meaningful information about battery degradation in real-time and in service conditions. This project will aid in formulating robust algorithms for battery health management systems, facilitating longer range and enhanced capabilities for mission critical systems.  The intellectual merit of the proposed research project includes advancing the current understanding of how ultrasonic guided wave signals propagate in lithium-ion pouch cell batteries, and how the information contained in the signal is affected by the evolution of anode and cathode mechanical property variation due to the transfer of lithium ions.  Using this understanding, and employing novel signal processing techniques, it will develop algorithms for monitoring the battery health and predicting the remaining useful life in a more robust and accurate way.  The broader impacts of the project include allowing the society to reap the benefits associated with all battery powered vehicles, increasing the safety and reliability of the associated systems by providing critical insights and methodology for developing a robust battery management system using ultrasonic waves.  It will also provide hands-on demos and training on battery cycling and stress wave propagation to secondary education teachers to augment existing curricula to inspire the rising generation into STEM careers.\r\n\r\nUltrasonic guided waves are stress waves propagating in solid materials, and their group velocity and phase velocity are functions of elastic modulus and density. Lithium-ion batteries undergo modulus and density evolution during the aging process, which can directly be inferred from the guided wave signals. This proposal hypothesizes that the lithium-ion battery is a time-varying system whose mechanical properties are functions of charge, discharge and aging process. Successive collections of ultrasonic signals from the battery can be thought of as response signals being collected at different frozen-time snapshots from the time-varying systems. Autoregressive model based modal analysis techniques can be invoked to extract physically meaningful parameters from the ultrasonic signals, that can subsequently be correlated with battery state of charge and battery aging and can be used as real-time measurements for the prediction of remaining useful life. Motivated by this transformative concept, this proposal aims at testing this hypothesis by answering the following questions. How ultrasonic guided wave signals (1) interact with anode, cathode and ion-transfer; (2) respond to battery aging and which parameters are most affected by battery aging; (3) how the extracted parameters can be used to develop real-time battery monitoring algorithms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shabbir",
+   "pi_last_name": "Ahmed",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shabbir Ahmed",
+   "pi_email_addr": "shabbir.ahmed@sdstate.edu",
+   "nsf_id": "0000A12XK",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "South Dakota State University",
+  "inst_street_address": "1015 CAMPANILE AVENUE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BROOKINGS",
+  "inst_state_code": "SD",
+  "inst_state_name": "South Dakota",
+  "inst_phone_num": "6056886696",
+  "inst_zip_code": "570070001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "SD00",
+  "org_lgl_bus_name": "SOUTH DAKOTA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "DNZNC466DGR7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "South Dakota State University",
+  "perf_str_addr": "1015 Campanile Ave.",
+  "perf_city_name": "BROOKINGS",
+  "perf_st_code": "SD",
+  "perf_st_name": "South Dakota",
+  "perf_zip_code": "570070001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "SD00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7423",
+   "pgm_ref_txt": "Energy collection & storage"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

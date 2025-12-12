@@ -1,0 +1,102 @@
+{
+ "awd_id": "2439345",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Intelligent Biomarker Analysis based on Wearable Distributed Computing",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 503930.0,
+ "awd_amount": 503930.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-01-14",
+ "awd_abstract_narration": "Some of the challenges associated with wearable technologies are the limitation on computational power, battery capacity, data privacy, user interface design, and the need for seamless integration into user lifestyles without causing discomfort. These challenges limit the on-device implementation of machine learning methods, which are suitable for classifying and estimating medical conditions based on the biomarkers sensed by the wearable devices. This research addresses these problems by developing a scheme that distributes the computational load of machine-learning models across wearable devices. Results from this research contribute to deploying advanced health monitoring tools for in-home care of frail populations, such as post-COVID patients. This is aligned with the NSF mission to promote the progress of science and advance national health. The development of this project involves multidisciplinary efforts from computer science, bioengineering, and electrical engineering, as well as educational activities with the participation of students from underrepresented groups.\r\n\r\nThis project focuses on developing a wearable sensor network scheme with distributed and interconnected computing capabilities. As an application case, the wearable computing sensor network is aimed at biomechanics analysis for frail populations. The research plan is geared toward creating an advanced scheme of wearable devices to improve power consumption, data privacy, and computational performance for advanced health monitoring and analysis. To fulfill the strict requirements of size, computational load, and energy consumption, a novel distributed machine learning architecture is designed and deployed on each wearable sensor using field programmable gate arrays. The deployed architecture is a simplified version of the parallel-computing architecture found in commercial graphics processing units, which have been demonstrated to be suitable for machine-learning applications. In addition, this architecture contains additional hardware components for estimating missing data, synchronization, and addressing communication errors between the devices. This project addresses realistic challenges in biomedical and wearable technologies research, including (i) segmenting and training machine learning models considering the nature of biomechanical data and wearable inertial sensors without affecting accuracy, (ii) modeling a lightweight computer architecture for performing distributed machine learning inference in real time, (iii) estimating detailed body motion dynamics using a reduced amount of inertial sensors, and (iv) integrating reliable and state-of-the-art data analytics environments for efficient real-time analysis and visualization. The education plan tackles three major areas: (i) research training and competitive experiences for graduate and undergraduate students in the areas of computer science, computer architecture, and health-related areas, (ii) course development in topics related to edge computing, real-time systems, and machine learning applications to healthcare, and (iii) outreach to K-12 students and professionals by the introduction of competitive activities. Most of the students and contributors for this project are Hispanic, and this project supports broader access to and training in cutting-edge research in computational applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Juan",
+   "pi_last_name": "Patarroyo",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juan F Patarroyo",
+   "pi_email_addr": "juan.patarroyo@upr.edu",
+   "nsf_id": "000967142",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Puerto Rico Mayaguez",
+  "inst_street_address": "259 BLVD ALFONSO VALDES",
+  "inst_street_address_2": "",
+  "inst_city_name": "MAYAGUEZ",
+  "inst_state_code": "PR",
+  "inst_state_name": "Puerto Rico",
+  "inst_phone_num": "7878312065",
+  "inst_zip_code": "006806475",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "PR00",
+  "org_lgl_bus_name": "UNIVERSITY OF PUERTO RICO",
+  "org_prnt_uei_num": "RD8QJEHNYLJ7",
+  "org_uei_num": "GZRNJ1GZDBM1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Puerto Rico Mayaguez",
+  "perf_str_addr": "259 BLVD ALFONSO VALDES",
+  "perf_city_name": "MAYAGUEZ",
+  "perf_st_code": "PR",
+  "perf_st_name": "Puerto Rico",
+  "perf_zip_code": "006806475",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "PR00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 503930.0
+  }
+ ],
+ "por": null
+}

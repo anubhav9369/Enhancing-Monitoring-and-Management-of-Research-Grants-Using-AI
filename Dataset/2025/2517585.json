@@ -1,0 +1,102 @@
+{
+ "awd_id": "2517585",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Bayesian Inversion Approaches to Partial Differential Equations: Theory, Algorithm Development, and Applications",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2025-07-31",
+ "tot_intn_awd_amt": 141000.0,
+ "awd_amount": 29495.0,
+ "awd_min_amd_letter_date": "2025-02-05",
+ "awd_max_amd_letter_date": "2025-02-05",
+ "awd_abstract_narration": "The project will contribute to a new and rapidly developing area of applied mathematics rich with applications for modeling and challenges for rigorous mathematical analysis. This research will yield important new methods for modeling chemical mixing, biologically active fluids, and geophysical systems. Improving methods for these domain settings will provide more effective tools to address important problems such as the spread of pathogens or pollutants or to quantify the degree and type of climate hazards. The investigators will develop new methodologies for calibrating and designing effective measurement strategies of these various fluid systems, which simultaneously resolve degrees of the inherent uncertainty in these measurements. This project involves the training and active participation of a number of graduate students and other earlier career scientists. The cross institutional and cross disciplinary nature of this project will provide unique opportunities for the participants.\r\n \r\nRecent advances in computational infrastructure combined with novel mathematical formulations and newly discovered algorithms have allowed the extension of the Bayesian approach to new classes of physics-constrained inverse problems. Solutions typically take many times the computational power of a single solve of a nonlinear forward map based on a partial differential equations (PDEs) where the estimation concerns a function rather than a finite collection of numerical values, namely where we are interested in estimating an infinite-dimensional unknown parameter. The investigators will undertake a research program at the intersection of stochastic and functional analysis, high-performance computing, nonlinear PDEs, and fluid dynamics. Specifically, the investigators will (1) consider a series of physically motivated PDE inverse problems with infinite-dimensional unknowns; (2) develop novel algorithms adapted to efficiently sample from infinite-dimensional measures; (3) develop the ergodic theory for certain classes of infinite-dimensional Markov Chain Monte Carlo (MCMC) algorithms to rigorously assess rates of convergence in sampling target posterior measures; and (4) analyze consistency in the large data observation limit for infinite dimensional models. The project contributes effective frameworks for the measurement of turbulent fluid flows from sparse, irregular data while developing sampling methods of broader interest across computational statistics and data science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nathan",
+   "pi_last_name": "Glatt-Holtz",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nathan E Glatt-Holtz",
+   "pi_email_addr": "negh@iu.edu",
+   "nsf_id": "000079661",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Indiana University",
+  "inst_street_address": "107 S INDIANA AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BLOOMINGTON",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "3172783473",
+  "inst_zip_code": "474057000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IN09",
+  "org_lgl_bus_name": "TRUSTEES OF INDIANA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YH86RTW2YVJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Indiana University",
+  "perf_str_addr": "831 E. 3rd Street",
+  "perf_city_name": "BLOOMINGTON",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "474057000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 29495.0
+  }
+ ],
+ "por": null
+}

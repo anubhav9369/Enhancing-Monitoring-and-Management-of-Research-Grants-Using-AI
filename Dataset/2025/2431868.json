@@ -1,0 +1,102 @@
+{
+ "awd_id": "2431868",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "PFI-TT: Low-Power, High-Voltage Drive Electronics for Multi-Scale Human Tactile Interface Systems",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924506",
+ "po_email": "marschin@nsf.gov",
+ "po_sign_block_name": "Mara E. Schindelholz",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2024-12-31",
+ "awd_abstract_narration": "The broader impact of this Partnerships for Innovation \u2013 Technology Translation (PFI-TT) project is in addressing the needs of current and next-generation human-electronic tactile feedback systems. Tactile feedback systems, also known as haptic systems, provide physical sensations to users to simulate the feeling of touch. The haptic systems have been severely constrained by the need for small size, low cost, and effective electronics. Such systems can provide new dimensions of human control, feedback, and interaction, benefitting a range of consumer, medical, military, industrial and automotive applications, but require very high voltage drive electronics that have historically limited adoption and commercial viability. This research addresses the power electronics platform, reducing size and cost while improving efficiency and exploring application-specific feature sets. Activities include the design and fabrication of a custom integrated circuit and assembled platform, further exploration of pre-commercialization needs through dialog with industry and commercialization expert(s), training of students in technical, leadership, and entrepreneurial areas, as well as broader dissemination of technical and research findings through publication and outreach. \r\n\r\nThis project explores new power electronics architectures that use high energy density switched capacitor-based switching amplifiers to provide high driving voltages while efficiently providing and recovering reactive drive energy. This project includes the design of a novel hybrid-switched-capacitor circuit, reducing quantized hard-switching loss, improving digital-analog waveform synthesis, and reducing auditory and electromagnetic interference. The hybrid architecture helps reduce passive component size and volume by an order of magnitude compared to conventional boost converters by using a stacked/hierarchical design in Silicon-On-Insulator (SOI) Complementary Metal-Oxide-Semiconductor (CMOS). The design will use low-voltage semiconductor devices (which are smaller and more efficient) to generate up to 400 Volts from a low-voltage CMOS-compatible supply or battery, while using networked communication for closed loop control. The switched-capacitor approach enables order-of-magnitude size reduction compared to conventional boost converters, thus is more scalable to high voltages, easier to integrate, and can efficiently recycle energy stored in the actuator, helping address technical bottlenecks and support a path to commercialization.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jason",
+   "pi_last_name": "Stauth",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jason T Stauth",
+   "pi_email_addr": "jason.t.stauth@dartmouth.edu",
+   "nsf_id": "000615619",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Dartmouth College",
+  "inst_street_address": "7 LEBANON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HANOVER",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6036463007",
+  "inst_zip_code": "037552170",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NH02",
+  "org_lgl_bus_name": "TRUSTEES OF DARTMOUTH COLLEGE",
+  "org_prnt_uei_num": "T4MWFG59C6R3",
+  "org_uei_num": "EB8ASJBCFER9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Dartmouth College",
+  "perf_str_addr": "15 Thayer Drive",
+  "perf_city_name": "Hanover",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "037554404",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NH02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "166200",
+   "pgm_ele_name": "PFI-Partnrships for Innovation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

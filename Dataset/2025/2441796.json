@@ -1,0 +1,110 @@
+{
+ "awd_id": "2441796",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Game-theoretic Foundations for Incentive-aware Data Sharing and Collaborative Machine Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "eplaku@nsf.gov",
+ "po_sign_block_name": "Erion Plaku",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 470670.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "With recent advances in artificial intelligence, organizations increasingly recognize data as a vital resource for advancing scientific, economic, and societal progress. Many modern machine learning systems rely on large and complex datasets to learn patterns, generate insights, create new content, and support intelligent decision-making. However, the data needed to develop these models is often scattered across different organizations, with each holding only a portion of the necessary information. By sharing data with each other, instead of relying only on their own data, organizations can unlock new opportunities for discovery and innovation. Despite this potential, organizations often hesitate to share data unless there are clear incentives to do so. This raises important questions: Is it always beneficial for an organization to share data? Do participants receive benefits that reflect their contributions? What mechanisms can encourage data sharing while preventing participants from benefiting without contributing? When several parties collaborate to train a shared model, how should the benefits be allocated? This project addresses these questions by investigating the incentives that influence participation in data sharing and collaborative machine learning. The project aims to create environments where data sharing supports collaboration and innovation, ultimately enabling breakthroughs in areas such as health care, public policy, and education. \r\n \r\nThis project will develop new theoretical foundations for the design of protocols that govern data sharing and collaborative machine learning, focusing on two central incentive-related challenges: the balanced allocation of responsibilities and benefits, and reducing the potential for strategic behavior. The research will design protocols that assign data collection responsibilities in a balanced way, allocate shared data in line with contributions, and ensure that exchanges among competing participants are mutually beneficial. These protocols will also be designed to prevent strategic behaviors to exploit the system, such as avoiding data collection, withholding contributions, or providing incorrect data. The project will further explore multi-round collaborations, where participants exchange data over time, adapt their strategies, and operate under uncertainty about the value of others\u2019 data. The proposed methods will be evaluated through simulations and partnerships with Alzheimer\u2019s disease research consortia. The project is expected to contribute broadly to the fields of machine learning and game theory. Education efforts will focus on the development of new courses, workshops, and research opportunities for undergraduate and high-school students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kirthevasan",
+   "pi_last_name": "Kandasamy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kirthevasan Kandasamy",
+   "pi_email_addr": "kandasamy@cs.wisc.edu",
+   "nsf_id": "000901366",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 470670.0
+  }
+ ],
+ "por": null
+}

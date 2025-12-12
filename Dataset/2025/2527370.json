@@ -1,0 +1,106 @@
+{
+ "awd_id": "2527370",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SEALing the mold: systems analysis of the fungal response to cell wall damage",
+ "cfda_num": "47.074",
+ "org_code": "08070000",
+ "po_phone": "7032927123",
+ "po_email": "drockcli@nsf.gov",
+ "po_sign_block_name": "David Rockcliffe",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 474469.0,
+ "awd_amount": 474469.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "Filamentous fungi have a dramatic impact on the global economy (by one estimate, trillions of dollars annually) through both beneficial applications, such as pharmaceutical production and sustainable biomaterials, as well as harmful effects including crop destruction and human disease. In all these cases, fungi depend critically on their protective cell wall for success. Despite this importance, it is not fully understood how fungi respond to, and recover from, cell wall damage. This research investigates the fundamental biological question of how fungi detect wall stress, survive initial damage, and eventually restore normal growth. The research uses advanced microscopy, genetic tools, and computational modeling to uncover the molecular mechanisms that coordinate these responses in a model fungus. Understanding these processes will eventually enable \"tuning\" of fungal cell-wall properties for diverse applications, including: increasing productivity in bioprocess manufacturing, improving the physical properties of renewable mycelium-based materials that could replace petroleum-based products, and identifying new targets for antifungal drugs to protect crops and improve human health. The research also provides significant educational opportunities, training both undergraduate and graduate students in interdisciplinary approaches that combine biology, engineering, and computational sciences through collaborative teams across three universities.\r\n\r\nThis project investigates how filamentous fungi respond to cell-wall stress, focusing on the model fungus Aspergillus nidulans. The molecular mechanisms involved in both immediate survival responses and subsequent recovery from wall damage are characterized using (i) advanced microscopy to visualize actin localization and dynamics during stress, (ii) genetic manipulation to identify key regulatory proteins, (iii) systems biology approaches to discover novel components, and (iv) mathematical modeling to integrate these findings into a cohesive network model. Specifically, the fungal response to inhibition of \u03b2-glucan biosynthesis is being characterized by testing the hypothesis that a two-phase response is involved. This includes an initial \"survival phase,\" with rapid actin redistribution to form protective septa, which is followed by a \"recovery phase\" involving expression of specific proteins enabling growth resumption. In addition, a core set of stress regulators is being identified from proteomic analysis by comparing responses across multiple wall stressors, distinguishing universal responses from stressor-specific reactions. Finally, a hybrid modeling approach is being developed which integrates both mechanistic and machine-learning methods to infer the topology of regulatory pathways and their interconnections.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Steven",
+   "pi_last_name": "Harris",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Steven D Harris",
+   "pi_email_addr": "stevenh1@iastate.edu",
+   "nsf_id": "000320093",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  },
+  {
+   "pgm_ele_code": "801100",
+   "pgm_ele_name": "Systems and Synthetic Biology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 474469.0
+  }
+ ],
+ "por": null
+}

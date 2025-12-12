@@ -1,0 +1,98 @@
+{
+ "awd_id": "2504083",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps:  Translation Potential of a Fully Autonomous Robot using Virtual Roads",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-03-26",
+ "awd_max_amd_letter_date": "2025-03-26",
+ "awd_abstract_narration": "This I-Corps project is based on the development of autonomous robots that use virtual roads or paths to move. Currently, many real-world applications such as radiation detection, chemical and gas leak detection, and substation inspection, required inspections that put highly skilled people at risk for injury or death. The aim of this technology is to replace people with robots to perform these tasks. However, for a robot to function, a travel path must exist even though travel path infrastructure is not economical to develop. As an alternative, this technology replaces physical roads with virtual roads. The robot will use virtual roads created from an architectural drawing or satellite imagery that will be automatically generated to allow the robot to accomplish its mission. This technology may prevent injuries and save lives as well as allow for more frequent substation and other inspections to avoid equipment failure and premature equipment replacement.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of fully autonomous robots using virtual roads. Currently, the use of fully autonomous robots requires predefined roads or paths to operate. This technology eliminates the need for a pre-established travel path by using virtual roads that do not require landmarks and are independent of environmental changes. The fully autonomous robot using virtual roads navigates using a digital map that is extracted from an architectural drawing or satellite imagery. The virtual roads consist of interconnected nodes on the robot environment map.  These nodes accommodate all the possible destinations required by the robot. Based on the selected destination, a virtual path is automatically generated out of the set of virtual roads allowing the robot to accomplish its mission. In addition, as this approach automatically generates a virtual travel path, it will not require training of the robot.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tarek",
+   "pi_last_name": "Elfouly",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tarek Elfouly",
+   "pi_email_addr": "telfouly@tntech.edu",
+   "nsf_id": "000838015",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tennessee Technological University",
+  "inst_street_address": "1 WILLIAM L JONES DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "COOKEVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "9313723374",
+  "inst_zip_code": "385050001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "TN06",
+  "org_lgl_bus_name": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KZNHNMDUTJA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tennessee Technological University",
+  "perf_str_addr": "1 WILLIAM L JONES DR",
+  "perf_city_name": "COOKEVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "385050001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "TN06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

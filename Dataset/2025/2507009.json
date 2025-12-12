@@ -1,0 +1,134 @@
+{
+ "awd_id": "2507009",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Using Generative AI to Create Illustrative Diagrams to Support Mathematical Problem-Solving",
+ "cfda_num": "47.076",
+ "org_code": "11090000",
+ "po_phone": "7032925126",
+ "po_email": "abaylor@nsf.gov",
+ "po_sign_block_name": "Amy Baylor",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 899988.0,
+ "awd_amount": 899988.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "Finding ways to make school math instruction more effective and relevant is important for supporting student pathways in STEM (Science, Technology, Engineering, and Mathematics). Mathematical tasks that describe real life situations represent an area of struggle for many K-12 students. This project uses a novel approach where free, high-quality illustrative diagrams are automatically generated for math problems using recent advances in generative AI. Illustrative diagrams are images that are visually compelling and artistic, while also containing mathematical information such as accurate measurements of geometric figures or the precise number of objects in a collection. Such images have typically been costly and time-consuming to produce; however, in this project, they will be created in a free and scalable way using cutting-edge AI approaches. The research will involve interviewing math teachers and Open Educational Resource developers (who produce free curriculum materials) about their needs and piloting methods for developing AI-enhanced illustrative diagrams in collaboration with these stakeholders. An experiment will then be conducted using the ASSISTments online homework platform to examine the effect of AI-generated illustrative diagrams on middle school students' mathematical learning.\r\n\r\nUsing effective math visuals during instruction is an important way to impact students' interest and performance. The technical approach used in this project involves ControlNets, which allow for rich illustrative features to be layered over mathematical diagrams that are rendered by Generative AI from natural language prompts. ControlNets can generate images that would be impossible to create through traditional prompting, and learning more about how to apply them in contexts where image composition and spatial positioning and measurements need to be precise will have far-reaching implications across many use cases in image generation. The educational research questions are as follows: (1) What needs do teachers and open education resource developers express related to mathematics visuals in their curriculum materials? (2) What practices do teachers and developers engage in when generating their own math visuals, with and without AI? (3) How does the presence of AI-generated illustrative diagrams affect middle school students' interest, performance, and learning? This project will advance computer science, as ControlNets are a new approach and there is limited research on how they can be leveraged. The computer science research questions are: (1) Which types of ControlNet pre-processing models work best for different image types? (2) How can ControlNets be implemented to preserve key properties of mathematical diagrams? (3) How can the process for using ControlNets to generate illustrative diagrams be optimized, and what is the role of autonomous AI agents?\r\n\r\nThis project is funded by the Research on Innovative Technologies for Enhanced Learning (RITEL) program that supports early-stage exploratory research in emerging technologies for teaching and learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Candace",
+   "pi_last_name": "Walkington",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Candace Walkington",
+   "pi_email_addr": "cwalkington@smu.edu",
+   "nsf_id": "000699782",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cristina",
+   "pi_last_name": "Heffernan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cristina Heffernan",
+   "pi_email_addr": "cristina.heffernan@assistments.org",
+   "nsf_id": "000666701",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Virginia",
+   "pi_last_name": "Clinton-Lisell",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Virginia Clinton-Lisell",
+   "pi_email_addr": "virginia.clinton@und.edu",
+   "nsf_id": "000902520",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jiunyu",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiunyu Wu",
+   "pi_email_addr": "jiunyuwu@smu.edu",
+   "nsf_id": "0000A1772",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Methodist University",
+  "inst_street_address": "6425 BOAZ ST RM 130",
+  "inst_street_address_2": "",
+  "inst_city_name": "DALLAS",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2147684708",
+  "inst_zip_code": "752051902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "SOUTHERN METHODIST UNIVERSITY",
+  "org_prnt_uei_num": "S88YPE3BLV66",
+  "org_uei_num": "D33QGS3Q3DJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Methodist University",
+  "perf_str_addr": "6425 BOAZ ST RM 130",
+  "perf_city_name": "DALLAS",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "752051902",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "722700",
+   "pgm_ele_name": "ITEST-Inov Tech Exp Stu & Teac"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "1300PYXXDB",
+   "fund_name": "H-1B FUND, EDU, NSF",
+   "fund_symb_id": "045176"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 899988.0
+  }
+ ],
+ "por": null
+}

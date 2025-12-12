@@ -1,0 +1,93 @@
+{
+ "awd_id": "2521078",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Proposal: Facility: Magnetics Information Consortium Catalyzes Enhanced Cyberinfrastructure and FAIR Data Access Enabling Science Across Community Subdomains",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032927199",
+ "po_email": "ramartin@nsf.gov",
+ "po_sign_block_name": "Raleigh Martin",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 259428.0,
+ "awd_amount": 182281.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "The Magnetics Information Consortium (MagIC) provides a web-based research facility that allows researchers and other users free access to archive, search, visualize, manipulate, download, and reuse data that address many grand challenges in the geosciences. Over the past six years, the number of contributors uploading data more than tripled and MagIC usage and dataset downloads increased more than sixfold. These large increases in contributors, contributions, and data usage are possible because of a community-driven unified MagIC data model and because the MagIC Facility deploys highly scalable databases and a highly adaptable web interface. Although there is still a noticeable sparsity of data on the internet that can be characterized as being easily findable, accessible, interoperable, and reusable\u2014these FAIR data principles lie at the heart of MagIC. In addition, training of the next generation of researchers and members of underrepresented groups in the development and use of modern data analysis methods form another central component in the MagIC Facility. In the next three years, the MagIC Facility will focus its efforts on making enhancements to ensure efficient access to data in a wide range of subdomain science disciplines, transparency in data processing, and reliable documentation\u2014altogether to allow questions of reproducibility and standardization to be readily addressed by researcher and student users. \r\n\r\nThe MagIC Facility will develop several novel geoinformatics products including an Integrated Contribution Development Environment using template notebooks on https://jupyterhub.earthref.org with guided steps for programmatically editing, visualizing, reproducing data analysis results, and updating user contributions without leaving the browser; two specialized Subdomain Views with featured filters, relevant data summaries, and subdomain-specific calculations and visualizations; a Dataset Enrichment tool to further reduce efforts to prepare an online data contribution for publication; and Superuser Private Workspaces to support large facility and laboratory data management needs within MagIC. In particular, the new team from Oregon State University, the Institute for Rock Magnetism (IRM) at the University of Minnesota, University of California, Berkeley, and the Scripps Institution of Oceanography at University of California, San Diego, will work collaboratively to integrate PmagPy (an open-source and cross-platform software package for curating and analyzing paleomagnetic data) and preexisting IRM rock magnetic computational tools into the MagIC back-end server to allow for advanced online calculations, interactive visualizations, and integration on JupyterHub and EarthCube\u2019s Pangeo; to make MagIC interoperable with other online data repositories that also follow FAIR principles; and to keep strengthening MagIC as a community facility by engaging researchers from historically underrepresented groups and varied institution types. Over the next three years, the MagIC Facility will be transferred to FIESTA (Framework for Integrated Earth Science and Technology Applications) technology that is being finalized under funding from EarthCube.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nicholas",
+   "pi_last_name": "Swanson-Hysell",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicholas L Swanson-Hysell",
+   "pi_email_addr": "nicks-h@umn.edu",
+   "nsf_id": "000566336",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 OAK ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554552009",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "725500",
+   "pgm_ele_name": "GEOINFORMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 182281.0
+  }
+ ],
+ "por": null
+}

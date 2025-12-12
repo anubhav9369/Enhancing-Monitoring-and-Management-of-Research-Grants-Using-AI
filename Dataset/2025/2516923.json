@@ -1,0 +1,93 @@
+{
+ "awd_id": "2516923",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Bridging the Quantum Computing Divide through qBraid Cross-Platform Open Source Software (OSS) Runtime Framework",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 299965.0,
+ "awd_amount": 299965.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project centers on opening access to quantum computing through the development and formalization of the qBraid-SDK\u2014a hardware-agnostic, open-source runtime and middleware framework. In an industry fragmented by proprietary software and siloed development stacks, the qBraid-SDK introduces a unifying layer that simplifies and standardizes how developers interface with quantum devices. By reducing technical barriers and promoting interoperability across vendor platforms, the project addresses a critical gap in the quantum software ecosystem, providing the foundation for experimentation, reproducibility, and accelerated innovation. The open-source model promotes transparency and community ownership, empowering its contributors\u2014particularly from academic, startup and others, to participate in shaping the field\u2019s trajectory. Rather than aligning with any single hardware standard, the SDK is designed to adapt alongside a heterogeneous quantum landscape. This project positions the U.S. to maintain leadership in quantum technologies by enabling sustainable, collaborative infrastructure. This initiative will not only support a quantum ecosystem but also accelerate the development of robust software infrastructure, enabling faster innovation cycles, and more agile responses to advances in quantum hardware.\r\n\r\nThis POSE project will formalize the governance, community practices, and technical roadmap for the qBraid-SDK, positioning it as a scalable open-source initiative in quantum computing. The project addresses a core challenge \u2014 interoperability \u2014 by developing a graph-based transpiler that enables seamless conversion between quantum program types, supporting a unified runtime interface that standardizes integration across varied hardware platforms. The SDK currently supports 25 quantum backends \u2014 including gate-based, annealing, and neutral-atom systems \u2014 and integrates with more than 10 major frameworks such as Qiskit, Cirq, and PyQuil, as well as low-level representations like OpenQASM and QIR. While compatibility with these formats ensures broad hardware support, a key goal is to expand capabilities at the application layer\u2014supporting quantum algorithms that leverage parameterized circuits, batch execution, and hybrid jobs using classical high performance computing (HPC) resources. These enhancements aim to improve usability and accelerate development of useful applications. Additional objectives include reinforcing client-side infrastructure, enhancing Continuous Integration and Continuous Delivery/Deployment (CI/CD) pipelines, streamlining contributor onboarding, and promoting adoption across the ecosystem. As quantum computing advances toward practical deployment, the need for an open-source model that unifies software and hardware ecosystems becomes essential. This project lays the foundation for that integration, enabling a more cohesive and scalable quantum future.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ryan",
+   "pi_last_name": "Hill",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ryan J Hill",
+   "pi_email_addr": "ryanhill@qbraid.com",
+   "nsf_id": "000952168",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "qBraid Co.",
+  "inst_street_address": "111 S WACKER DR STE 1200",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2035246267",
+  "inst_zip_code": "606064303",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "QBRAID CO.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YKJ5LGN55H25"
+ },
+ "perf_inst": {
+  "perf_inst_name": "qBraid Co.",
+  "perf_str_addr": "111 S WACKER DR STE 1200",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606064303",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299965.0
+  }
+ ],
+ "por": null
+}

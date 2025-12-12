@@ -1,0 +1,93 @@
+{
+ "awd_id": "2533541",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-QUANT: Advancing Magneto-Optical Traps with Compact Designs Using Planar Optics",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Cold atom technologies lie at the heart of the emerging quantum revolution, enabling applications in sensing, navigation, timing, and fundamental physics. However, the conventional setups used to trap and cool atoms, known as magneto-optical traps (MOTs), are bulky, power-hungry, and require complex optical alignments, limiting their use to laboratory environments. The proposed research aims to miniaturize MOTs by replacing traditional free-space optics with chip-scale nanophotonic components. Using advanced metasurfaces and planar diffraction gratings, the project will realize a compact MOT that uses only a single input laser beam to trap millions of atoms. The resulting platform will dramatically reduce size, weight, and power consumption, paving the way towards portable cold-atom systems.\r\nThe miniaturized MOT developed in this project will support new capabilities in quantum sensing, including portable electromagnetic field sensors based on highly sensitive Rydberg atoms. The compact and scalable nature of the platform opens opportunities for integration into photonic and electronic systems, pushing forward the development of quantum technologies at the chip scale. Educational efforts will include an undergraduate summer research program targeting community college transfer students, curriculum development in quantum photonics, and public outreach through school programs and museum exhibitions. This integrated research and education effort will help grow a diverse, quantum-ready engineering workforce and support U.S. leadership in the quantum and photonic technologies of the future.\r\n\r\nThis research will demonstrate a compact nanophotonic-atomic platform for laser cooling and trapping of neutral atoms using multifunctional metasurfaces and high-efficiency 2D diffraction gratings. The system eliminates bulky optics by integrating a metasurface that performs beam expansion, polarization control, and flat-top shaping in a single planar element. A co-designed 2D grating chip then diffracts the shaped beam into the multiple paths required for magneto-optical trapping. Together, these components form a chip-scale MOT architecture capable of trapping ~10\u2076 \u2078\u2077Rb atoms at Doppler-limited temperatures, with future compatibility for sub-Doppler cooling. Metasurface development will follow a two-stage approach. Stage I will validate a proof-of-concept metasurface that replaces multiple bulk components by demonstrating all necessary beam transformations for MOT operation. Stage II will optimize the design for tighter integration. To complement the metasurface, a planar dielectric diffraction grating with a metallic back reflector will be designed to achieve high diffraction efficiency, correct circular polarization handedness, and balanced power distribution across multiple output beams. Its chip-scale form supports seamless integration and enables self-aligned MOT configurations that reduce system complexity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qing",
+   "pi_last_name": "Gu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qing Gu",
+   "pi_email_addr": "qgu3@ncsu.edu",
+   "nsf_id": "000730165",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

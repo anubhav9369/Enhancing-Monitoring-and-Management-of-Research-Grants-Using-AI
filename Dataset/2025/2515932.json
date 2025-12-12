@@ -1,0 +1,118 @@
+{
+ "awd_id": "2515932",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Building a platform for high-throughput discovery and prediction of RNA modification enzyme function",
+ "cfda_num": "47.049, 47.074",
+ "org_code": "08070000",
+ "po_phone": "7032922357",
+ "po_email": "mnewcome@nsf.gov",
+ "po_sign_block_name": "Marcia Newcomer",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 1200000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "This project aims to dramatically expand our understanding of RNA modification enzymes (RMEs), a broad class of proteins that chemically alter RNA molecules and influence their function, stability, and therapeutic potential. RNA modifications are increasingly recognized as essential regulators of gene expression and have already been harnessed to improve the stability and efficacy of mRNA-based therapeutics. However, the variety of RMEs and their target specificities remain poorly characterized, limiting their use in basic research, biotechnology, and medicine. By systematically identifying and assaying over 750 RMEs from nearly 100 microbial organisms, this project will establish foundational knowledge and resources to support a new generation of RNA-based tools. It will also foster research and educational opportunities for students and provide a freely accessible database and enzyme library to the broader scientific community.\r\n\r\nThe research team will use an innovative high-throughput platform that combines recombinant protein expression, in vitro RNA modification assays, and advanced sequencing technologies -- specifically, Ordered Two-Template Relay sequencing (OTTR-seq) and Oxford Nanopore direct RNA sequencing -- to characterize enzyme activity across collections of 800 different tRNAs and libraries of many hundreds of other small RNA substrates. A pooling and deconvolution strategy will identify specific enzyme-substrate interactions, revealing both conserved and novel recognition motifs. Enzymes will be selected to span varied phylogenetic sources and chemical modification types, with cloning and expression carried out in a scalable format that enables rapid downstream activity screening. Follow-up validation and biochemical analyses will clarify the evolutionary plasticity and engineering potential of RMEs. The results will be integrated into an interactive web-based resource, MODKIT, which will include searchable enzyme profiles, RNA target data, and downloadable RME expression constructs. This integrated computational and molecular biology resource will broadly catalyze basic RNA modification research and promote the development of RNA-based biotechnologies enabled by a much larger toolbox of readily accessible RMEs.\r\n\r\nThis project is supported by the Division of Molecular and Cellular Biosciences in the Biological Sciences Directorate and by the Division of Chemistry in the Mathematical and Physical Sciences Directorate.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Todd",
+   "pi_last_name": "Lowe",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Todd M Lowe",
+   "pi_email_addr": "tmjlowe@ucsc.edu",
+   "nsf_id": "000477013",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jane",
+   "pi_last_name": "Jackman",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jane E Jackman",
+   "pi_email_addr": "jackman.14@osu.edu",
+   "nsf_id": "000307723",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Cruz",
+  "inst_street_address": "1156 HIGH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CRUZ",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8314595278",
+  "inst_zip_code": "950641077",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "CA19",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "VXUFPE4MCZH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Cruz",
+  "perf_str_addr": "1156 HIGH ST",
+  "perf_city_name": "SANTA CRUZ",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950641077",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "CA19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "199100",
+   "pgm_ele_name": "CHEMISTRY PROJECTS"
+  },
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1200000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2528099",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Efficient 3D Body Reconstruction and Physics-Based Garment Simulation for Consumer-Facing Virtual Try-On",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928848",
+ "po_email": "lportnoy@nsf.gov",
+ "po_sign_block_name": "Lindsay Portnoy",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 304888.0,
+ "awd_amount": 304888.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to reduce the high volume of clothing returns in online shopping, a costly and inefficient outcome driven largely by poor fit. In 2024, about 43 percent of Americans shopped for apparel online, and nearly one in four items were returned\u2014mostly due to size or fit issues. This project addresses that problem by creating a virtual fitting room experience that allows users to preview garments on a realistic 3D model of themselves, generated from smartphone photos. By offering a more accurate, personalized preview of clothing, the technology helps consumers make better purchasing decisions and reduces avoidable returns. The innovation applies advancements in computer vision and human modeling to improve how 3D avatars are created and displayed in real time. This solution sits at the intersection of retail technology and computational imaging. The first market segment will be online apparel retailers looking to reduce return costs and improve customer experience. The competitive edge comes from improved accuracy and ease of use compared to existing tools. Within three years of deployment, the platform could support millions of users, with measurable impact seen in lower return rates and increased consumer satisfaction.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project aims to develop a virtual try-on system by advancing techniques in human body shape estimation and garment retargeting. The technical challenge lies in recovering accurate 3D body models from a minimal number of smartphone images and simulating garment fit without collisions between the clothing and body mesh. The research will implement a machine learning pipeline trained on a synthetic dataset of clothed human models to predict parametric body shape representations aligned with real-world clothing measurements. Garments will be registered to the predicted body geometry and simulated using a physics-based engine to model dynamic interactions. A key innovation is a collision mitigation strategy that uses an expanded proxy body during simulation to prevent garment-body interpenetration. The system will be demonstrated through a lightweight web application supporting real-time performance at over 30 frames per second. The anticipated outcome is a prototype capable of accurate body measurements within manufacturing tolerances for selected garment categories and reliable simulation of single-layer clothing. This work contributes to the scientific understanding of 3D human modeling, computer vision, and physics-based animation, with potential applications in retail technology, digital fashion, and personalized virtual experiences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shawn",
+   "pi_last_name": "Rigdon",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shawn Rigdon",
+   "pi_email_addr": "shawn.patrick.rigdon@gmail.com",
+   "nsf_id": "0000A4CML",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "DIGI-CLONE LTD",
+  "inst_street_address": "3310 OAK HAMPTON WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "DULUTH",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "8283428091",
+  "inst_zip_code": "300968601",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "GA04",
+  "org_lgl_bus_name": "DIGI-CLONE LTD",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GYJ3HBNGQG46"
+ },
+ "perf_inst": {
+  "perf_inst_name": "DIGI-CLONE LTD",
+  "perf_str_addr": "3310 OAK HAMPTON WAY",
+  "perf_city_name": "DULUTH",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "300968601",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "GA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079E",
+   "pgm_ref_txt": "VISUALIZATION & VIRTUAL DESIGN"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304888.0
+  }
+ ],
+ "por": null
+}

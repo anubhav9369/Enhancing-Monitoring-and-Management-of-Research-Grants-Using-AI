@@ -1,0 +1,106 @@
+{
+ "awd_id": "2506170",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Millimeter-Scale Flying Robots by Magnetic Actuation",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "This award will support research towards the development of millimeter-scale flying robots capable of controlled operation without a physical connection for power or data. The robots will be powered and controlled remotely by a single-axis alternating magnetic field. Careful design of the flying structures provides passive aerodynamic and gyroscopic stability. This project will focus on providing extended range and enhanced maneuverability toward successful deployment in various applications. This project draws upon disciplines including aerodynamics, control, microelectromechanical systems, and 3D printing to advance the state of the art in remote power transmission and flight control for small rotorcraft. Results from this research will benefit the US economy and society by significantly reducing the size and weight of untethered flying robots. The multi-disciplinary approach will help increase participation and positively impact engineering education.\r\n\r\nThis project plans two key technical innovations for millimeter-scale, untethered, remotely powered flying rotorcraft. The first innovation is utilizing the gradient of magnetic fields to regulate lateral flight motions. The second innovation is beamforming of the magnetic field for extending the range of operations. Flying insects have been the inspiration of miniature flying robots toward innovations and breakthroughs that are potentially applicable beyond the field of robotics. However, the tradeoff between mass and power becomes problematic for engineered systems at these scales. Specifically, the low energy densities of current options such as batteries or supercapacitors make them impractical for on-board power storage. Oscillating magnetic fields have been demonstrated to remotely power millimeter-scale rotorcraft. Because magnetic field strength attenuates with distance following an inverse square law, a simple point source will not deliver sufficient power to a flying robot at a practical operating distance. The purpose of the beamforming task is to use an array of emitters with controllable phases and amplitudes to project the field only to points where it is needed. To carry out useful functions the robots must be steerable. To this end, the research team will investigate flight control and maneuverability through control of the magnetic field gradient.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Liwei",
+   "pi_last_name": "Lin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Liwei Lin",
+   "pi_email_addr": "lwlin@newton.berkeley.edu",
+   "nsf_id": "000491120",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

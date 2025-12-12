@@ -1,0 +1,142 @@
+{
+ "awd_id": "2522897",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DMREF: NSF-DFG: Atoms-to-Device Closed-Loop Predictive Design of Electro-Optic Materials for Quantum Photonic Circuits",
+ "cfda_num": "47.049, 47.079",
+ "org_code": "03070000",
+ "po_phone": "7032927766",
+ "po_email": "jschluet@nsf.gov",
+ "po_sign_block_name": "John Schlueter",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 1492128.0,
+ "awd_amount": 1492128.0,
+ "awd_min_amd_letter_date": "2025-09-05",
+ "awd_max_amd_letter_date": "2025-09-05",
+ "awd_abstract_narration": "Non-technical Description: A central goal of Materials Genome Initiative is to predict superior intrinsic material properties on the atomic scale and translate them to superior technologies we can touch and hold. However, most such material discoveries are lost in translation due to the \u201cmesoscale cliff.\u201d Materials promising on the nanoscale may fail in devices where microstructures up to hundreds of micrometer in size dominate device performance. This team addresses this materials challenge to develop a fundamental knowledge base to deploy the next generation of cryogenic electro-optic materials integrated on silicon for chip-scale quantum integrated circuits. The electro-optic effect describes a material\u2019s optical refractive index change upon the application of an electric field. Electro-modulators power our internet today by converting electrical to optical signals. They are also fundamental building blocks for the emerging scalable optical quantum computing hardware, on-chip trapped ion quantum computing schemes and developments in low temperature science. With these, new materials\u2019 challenges arise, in that, electro-optic modulators must now respond in the gigahertz frequency range, be operated at cryogenic temperatures with low energy budget and must be integrated directly on silicon. This requires materials with cryogenic electro-optic coefficients that are many orders of magnitude higher than the current industry standard. In addition, they require large index and low optical loss at the telecom wavelength with low microwave dielectric constant and loss for low power, low loss operation. A lack of fundamental understanding on the mesoscale is undermining this effort with severely degraded performances in going from atoms to devices. This research team aims to make an impact here with a new theory approach informing experimental breakthroughs.\r\n\r\nTechnical Description: The research team plans an Atoms-to-Devices design approach that is firmly rooted in the materials genome framework. It has three interlocking thrusts: (1) Density Functional Theory informed Thermodynamic Theory of Electro-Optics builds the foundational bridge between the atomic scale and the mesoscale using a modern thermodynamic theory of electro-optics to predict and validate new materials with superior intrinsic electro-optic properties. (2) Thermodynamics integrated Phase-Field Simulation implements the thermodynamic electro-optic theory using phase-field modeling to predict and experimentally validate complex mesoscale microstructures and their effective electro-optic properties. (3) An Open-source Phase-Field-integrated Electrodynamics simulation software package integrates phase-field modeling and electrodynamics simulations to design a digital twin of the physical modulator devices and their performances. A robust experimental testing and validation is built into each Thrust. Graduate and undergraduate students along with postdoctoral researchers and principal investigators will train together in an iterative closed-loop materials design crucible. Undergraduate, graduate and post-doctoral mentoring of personnel will ensure a robust pipeline for the next generation of workforce in quantum science. A website will be developed that will serve as a medium for disseminating the team\u2019s work. Research breakthroughs with potential for technology translation potential will be communicated through Industry outreach that would also benefit student career development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Venkatraman",
+   "pi_last_name": "Gopalan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Venkatraman Gopalan",
+   "pi_email_addr": "vgopalan@psu.edu",
+   "nsf_id": "000149405",
+   "pi_start_date": "2025-09-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Long-Qing",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Long-Qing Chen",
+   "pi_email_addr": "lqc3@psu.edu",
+   "nsf_id": "000136522",
+   "pi_start_date": "2025-09-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "054Y00",
+   "pgm_ele_name": "GVF - Global Venture Fund"
+  },
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "1253",
+   "pgm_ref_txt": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "5936",
+   "pgm_ref_txt": "GERMANY (F.R.G.)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1492128.0
+  }
+ ],
+ "por": null
+}

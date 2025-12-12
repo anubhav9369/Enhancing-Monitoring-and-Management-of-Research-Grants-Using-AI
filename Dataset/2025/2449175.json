@@ -1,0 +1,130 @@
+{
+ "awd_id": "2449175",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Understanding Low-rise Building Aerodynamics by Leveraging Machine Learning",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927732",
+ "po_email": "lsneed@nsf.gov",
+ "po_sign_block_name": "Lesley Sneed",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 599219.0,
+ "awd_amount": 599219.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "Recent major structural damage, economic losses, and societal disruptions due to hurricane, tornado and downburst wind hazards highlight the need for improved resiliency of low-rise structures in coastal communities. This research will look to estimate wind loads on a variety of low-rise structures by establishing a machine learning (ML) framework to complement physical wind tunnel testing. Due to high costs of physical experiments in laboratories, peak wind loading on buildings are difficult to quantify using wind tunnel tests alone. Uncertainties in the estimation of peak wind effects on cladding elements can render design provisions unrealistic and cause building envelope failure and water intrusion. The ML framework looks to generate the necessary information for advancing wind design for low-rise building communities. Contributions of the research will provide new knowledge on wind effects at the building level which can help to enhance community resilience and national welfare. These contributions are important for the natural hazards engineering community to develop improved designs for new buildings and innovative retrofitting approaches for existing buildings, thus benefiting society through future damage reduction during windstorms. This award will contribute to the NSF's statutory role in the National Windstorm Impact Reduction Program (NWIRP).\r\n\r\nThe overall goal of this research project is to utilize ML methods informed by large-scale model wind tunnel testing to: (1) provide a quantitative, robust, and cost-effective ML methodology that will enable a deeper understanding of building aerodynamics; and (2) address a major challenge regarding scaling effects on bluff body aerodynamics by predicting wind loads on full-scale real buildings based on data obtained for scaled wind tunnel models via an advanced data-driven technique, known as few-shot learning. The scientific objective of this project is to create, verify, and validate a data-driven framework to accurately predict wind loads on low-rise structures and associated uncertainties, while considering inflow turbulence, geometry, and scaling errors due to Reynolds number violation. This data-driven framework seeks to enable professionals to predict full-scale pressures more reliably on buildings, leading to improved design. The central hypothesis is that with a data-driven ML approach, low-rise building aerodynamics and the associated sensitivity to critical parameters can be better understood, while the need for expensive physical testing or numerical simulations can be substantially reduced. The outcomes of this study will provide an extensive data repository for wind effects on low-rise structures. Wind tunnel testing will be conducted at the Natural Hazards Engineering Research Infrastructure (NHERI) Wall of Wind at Florida International University. Project data will be archived in the NHERI Data Depot (https://www.DesignSafe-ci.org).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stephanie",
+   "pi_last_name": "Paal",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stephanie G Paal",
+   "pi_email_addr": "spaal@civil.tamu.edu",
+   "nsf_id": "000737672",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Arindam",
+   "pi_last_name": "Gan Chowdhury",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arindam Gan Chowdhury",
+   "pi_email_addr": "chowdhur@fiu.edu",
+   "nsf_id": "000392790",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M Engineering Experiment Station",
+  "inst_street_address": "3124 TAMU",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778433124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A&M ENGINEERING EXPERIMENT STATION",
+  "org_prnt_uei_num": "QD1MX6N5YTN4",
+  "org_uei_num": "QD1MX6N5YTN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M Engineering Experiment Station",
+  "perf_str_addr": "3136 TAMU",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778430001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "040E",
+   "pgm_ref_txt": "Haz mitigation of structural sys"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "041E",
+   "pgm_ref_txt": "HAZARD AND DISASTER REDUCTION"
+  },
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "7231",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "039E",
+   "pgm_ref_txt": "STRUCTURAL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599219.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2506946",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Building AI Models to Help Middle School Students Interpret Science Diagrams",
+ "cfda_num": "47.076",
+ "org_code": "11090000",
+ "po_phone": "7032927076",
+ "po_email": "llipsmey@nsf.gov",
+ "po_sign_block_name": "Lin Lipsmeyer",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 299990.0,
+ "awd_amount": 299990.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Representations such as diagrams, graphs, and charts are central to science and science education. However, learners often struggle with how to interpret science representations. The goal of this project is to develop, implement, and test a new AI assistant, the Representational Reasoning Assistant (RRA), to help middle school students interpret representations in their science classrooms. The AI assistant will draw on cutting edge Generative AI technologies to engage learners in conversations about the representations assigned by their teachers, ask the learners guiding questions, and offer suggestions about where to look in order to make sense of the representations. A key component of the design is to enable teachers to modify the AI assistant easily based on knowledge of their students and on the tasks which they set as priorities for their students. The project will help advance interdisciplinary research and practices in AI, computer science, learning sciences, and STEM learning. \r\n\r\nThroughout the three years of the project, teachers and students will be recruited from urban, suburban, and rural schools. The sequence of research and development activities reflects an integrated effort between the learning sciences and computer science teams. The project consists of iterative cycles of exploration, development, pilot and model refinements of the AI assistant, focusing on the types of representations teachers use in science activities and the types of feedback they give to students. Multimodal Large Language Models (MLLMs) will be adapted to be visually focused, supportive of pedagogical intent for young learners, and include innovations in rapid training to support a wide range of classroom topics and contexts. Early rounds of the piloting will gather teacher feedback on initial models and versions of the AI assistant. The AI assistant interface will then be fine-tuned based on teachers and students' feedback as well as measurements of students' engagement and learning. \r\n\r\nThis project is funded by the Research on Innovative Technologies for Enhanced Learning (RITEL) program that supports early-stage exploratory research in emerging technologies for teaching and learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adriana",
+   "pi_last_name": "Kovashka",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adriana Kovashka",
+   "pi_email_addr": "kovashka@cs.pitt.edu",
+   "nsf_id": "000690095",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pittsburgh",
+  "inst_street_address": "4200 FIFTH AVENUE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4126247400",
+  "inst_zip_code": "152600001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MKAGLD59JRL1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pittsburgh",
+  "perf_str_addr": "4200 FIFTH AVENUE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152600001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "722700",
+   "pgm_ele_name": "ITEST-Inov Tech Exp Stu & Teac"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "1300PYXXDB",
+   "fund_name": "H-1B FUND, EDU, NSF",
+   "fund_symb_id": "045176"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299990.0
+  }
+ ],
+ "por": null
+}

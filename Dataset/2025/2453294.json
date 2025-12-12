@@ -1,0 +1,102 @@
+{
+ "awd_id": "2453294",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: A Continuum Framework of Active Mechanical Metamaterials for Efficient Design",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7022924526",
+ "po_email": "ksolanki@nsf.gov",
+ "po_sign_block_name": "Kiran Solanki",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 253022.0,
+ "awd_amount": 253022.0,
+ "awd_min_amd_letter_date": "2025-08-03",
+ "awd_max_amd_letter_date": "2025-08-03",
+ "awd_abstract_narration": "Mechanical metamaterial, i.e., engineering materials whose properties arise from geometry rather than chemical composition, hold great promise for applications in aerospace, biomedical engineering, robotics, and beyond. By integrating active elements, these materials can respond dynamically to environmental stimuli such as heat or light, enabling adaptive and programmable behavior. Despite their potential, the practical design of such materials remains constrained by computationally expensive and highly specialized modeling tools. This award supports fundamental research to establish a general, experimentally validated continuum modeling framework for active mechanical metamaterials. This framework will enable efficient prediction of material behavior and systematic design across a wide range of geometries and actuation mechanisms. The project advances fundamental understanding while supporting technological innovation in advanced manufacturing, adaptive devices, and reconfigurable structures. It also leverages interdisciplinary collaboration and integrated fabrication-modeling workflows to train students across educational levels and to engage the public through outreach initiatives.\r\n\r\nThe research integrates theoretical, experimental, and computational approaches. A continuum modeling framework will be constructed to connect unit-cell geometry with macroscopic deformation, including both planar and three-dimensional behaviors. The models will incorporate internal variables and compatibility conditions to capture soft deformation modes and the effects of actuation. Experimental work will validate the framework through fabrication, including direct ink writing, molding, and conventional 3D printing, and mechanical testing of passive and active metamaterials, making use of digital image correlation to quantify deformation. A systematic scaling study will define the limits of continuum applicability. The final phase will implement the models into finite element simulations to enable inverse design, allowing metamaterials to be tailored for specific responses. Collectively, these efforts will yield general design principles and computational tools to accelerate the adoption of mechanical metamaterials in advanced engineering applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jordan",
+   "pi_last_name": "Raney",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jordan R Raney",
+   "pi_email_addr": "raney@seas.upenn.edu",
+   "nsf_id": "000658466",
+   "pi_start_date": "2025-08-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "Towne 274 220 S. 33rd Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046205",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "024E",
+   "pgm_ref_txt": "MATERIALS DESIGN"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 253022.0
+  }
+ ],
+ "por": null
+}

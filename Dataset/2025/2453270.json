@@ -1,0 +1,93 @@
+{
+ "awd_id": "2453270",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Hydrodynamic Stability and Regularity for the Incompressible Euler and Navier Stokes Equations",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 304779.0,
+ "awd_amount": 304779.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "This project is focused on the study of incompressible Navier-Stokes and Euler equations, which are the fundamental equations modeling the flow of air (at subsonic speeds) and water, among other fluids. Due to the inherent complexity of fluid dynamics, many questions about these equations are still open. For example, whether the fluid velocity at a small volume could become uncontrollably large, even when the average fluid motion is mild, remains a central open question. In nature, we often observe coherent structures in fluid flows such as vortices (eddies) generated behind an obstacle in a stream of fluid flow, and vortex rings (such as smoke rings) and vortex columns trailing airplanes. Mathematically, these coherent structures represent large (approximate) solutions to the Euler and Navier Stokes equations. A natural question is how stable these solutions are, and what are the precise dynamics of nearby solutions. The main goal of the project is to address these important questions. Theoretical understanding of the Navier Stokes and Euler equations are useful in precise computations of the solutions and in the design of efficient numerical algorithms, which are essential for many scientific and engineering applications. The project provides training opportunities for graduate students, who will learn to use tools from spectral analysis, Fourier analysis, dynamical systems, nonlinear partial differential equations, and numerical simulations in the study of physically significant problems.\r\n\r\nThe investigator aims to extend the precise linearized analysis for the Euler equations around shear flows and vortices to more general steady states. The essential new difficulties are the complicated Hamiltonian dynamics associated with the steady velocity field, including the presence of elliptic and hyperbolic critical points, and the genuine two-dimensional nature of the problem. The project develops new and robust methods to treat these difficulties. A second important goal is to establish sharp nonlinear stability results for both the inviscid Euler equations and slightly viscous Navier-Stokes equations around monotonic vortices. Another important goal of the project is to study the regularity of solutions to the three-dimensional Navier-Stokes equations under various symmetry or critical bounds assumptions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hao",
+   "pi_last_name": "Jia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hao Jia",
+   "pi_email_addr": "jiaxx034@umn.edu",
+   "nsf_id": "000679909",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "206 Church ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554550488",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304779.0
+  }
+ ],
+ "por": null
+}

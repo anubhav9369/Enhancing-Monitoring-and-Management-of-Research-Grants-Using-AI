@@ -1,0 +1,98 @@
+{
+ "awd_id": "2513096",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Towards Data-driven Learning and Control of Building HVAC Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 199530.0,
+ "awd_amount": 93777.0,
+ "awd_min_amd_letter_date": "2024-12-09",
+ "awd_max_amd_letter_date": "2024-12-09",
+ "awd_abstract_narration": "Buildings account for about 40% of the total annual energy consumption in the U.S., of which about 44% is for heating, ventilation, and air conditioning (HVAC) systems. Indirectly through their energy use, buildings contribute about 35% of the total annual carbon dioxide emissions from energy consumption in the U.S. There is a significant potential for reducing energy use of buildings and their associated environmental impact by using advanced control of HVAC systems. Moreover, the U.S. Department of Energy has initiated a national strategy on grid-interactive efficient buildings, that will help triple the energy efficiency and demand flexibility of buildings and improve the power grid efficiency and reliability. Model Predictive Control (MPC) has emerged as a potential advanced building control technology to attain these goals. However, its transition to practice has been hampered by fundamental challenges, including the difficulty and high cost of developing accurate building models for control and the high engineering effort to implement MPC in buildings. This project will lay the scientific foundation for overcoming these fundamental challenges of MPC for buildings, integrating machine learning, control theory, optimization theory, and building science. It will develop novel methods and algorithms for data-driven learning and control of HVAC systems, and demonstrate them in experiments with real buildings. More broadly, this research will advance scientific knowledge in learning and control of complex physical systems, which will have far-reaching impacts in many other applications. It will integrate research efforts into education and outreach, including new research opportunities for undergraduate students and outreach activities to K-12 school students and the public to enrich public understanding of building energy efficiency and its technologies. These efforts are complemented by extensive recruitment and mentorship of underrepresented minorities in STEM.\r\n\r\nThe goal of this project is to develop a new framework, theory, and methods for effective and efficient data-driven modeling, learning, and control of building HVAC systems by bridging machine learning, dynamics, control, and optimization. To this end, the specific objectives of this project are to develop (1) a physics-informed data-driven modeling approach for building HVAC systems that effectively incorporates appropriate domain insights into machine learning models; (2) active learning methods to obtain the most informative experimental data for improving model accuracy and sample efficiency; and (3) effective formulations and efficient optimization algorithms for learning-based MPC (LB-MPC) with the physics-informed data-driven models. The feasibility and merits of these methods will be validated through extensive experimental verification on a variety of real buildings. This project provides a path towards autonomous, performant, and practical LB-MPC for buildings by establishing a holistic physics-informed data-driven modeling foundation and a suite of learning, control, and optimization methods for building HVAC systems. It will bridge the gap between black-box and gray-box modeling approaches to advance the state of the art on control-oriented building modeling by effectively incorporating appropriate domain insights into data-driven models, enabling reliable, sample-efficient, and accurate data-driven models. It also has the potential to transform the collection of training data for data-driven building modeling through active learning methods that find the optimal excitation trajectory for learning. Finally, it will overcome the computational challenges of data-driven control by formulating effective and tractable LB-MPC optimization problems and tailoring algorithms for solving these problems efficiently.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Truong",
+   "pi_last_name": "Nghiem",
+   "pi_mid_init": "X",
+   "pi_sufx_name": "",
+   "pi_full_name": "Truong X Nghiem",
+   "pi_email_addr": "truong.nghiem@ucf.edu",
+   "nsf_id": "000788223",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 93777.0
+  }
+ ],
+ "por": null
+}

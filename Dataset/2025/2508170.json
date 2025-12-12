@@ -1,0 +1,114 @@
+{
+ "awd_id": "2508170",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Fellowship Award",
+ "awd_titl_txt": "Postdoctoral Fellowship: PRFB: Dynamics of k-mers in Low-coverage Population Genetics Data",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032924594",
+ "po_email": "pjaiswal@nsf.gov",
+ "po_sign_block_name": "Pankaj Jaiswal",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 279000.0,
+ "awd_amount": 279000.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "This action funds an NSF Plant Genome Postdoctoral Research Fellowship in Biology for FY 2024. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Dr. Miles Roberts is \u201cDynamics of k-mers in low coverage population genetics data.\u201d The host institutions for the fellowship are the University of California, Berkeley, and the University of Minnesota and the sponsoring scientists are Dr. Mois\u00e9s Exp\u00f3sito-Alonso and Dr. Yaniv Brandvain. \r\n\r\nGenetic investigations of plant populations have advanced American agriculture and applications in biotechnology. These investigations commonly begin by carefully choosing one individual plant whose DNA will serve as the reference representative for an entire species. Although this approach is useful in coordinating research activities, recent studies show that one individual\u2019s DNA cannot fully represent the complete genetic variation found in an entire species. For plants including crops, that leads to a bottleneck in finding new and novel additional target genes or their variant forms that may help in improving the crop varieties via plant breeding efforts. To overcome this, one may want to sequence the DNA of a lot more varieties, but it is costly and needs a lot of resource management investments. The proposed research fellowship will focus on an inexpensive study of frequencies and patterns of small DNA patterns called k-mers estimated in DNA samples pooled across many individuals. The study will develop a pilot by studying a fledgling American crop, Silphium integrifolium (a.k.a. wild sunflower).\r\n\r\nMuch of the genomic variation within plant species remains unexplored. Counting k-mers and het-mers is an accessible approach to summarizing genomic information because it does not require alignment to a reference genome or genome assembly. As sequencing costs continue to fall, it is expected pangenomes will continue to be the new standard for population genetic analyses and help decode the genetic basis of agriculturally relevant traits in many plant species. Developing approaches for analyzing k-mer in lower coverage datasets could potentially accelerate agricultural studies, without the need to invest in additional sequencing resources. The project is expected to greatly benefit investigations of large and complex plant genomes. It plans to leverage the properties of k-mers within pooled datasets to interrogate pangenomes. The fellow will develop methods and theory to analyze k-mers in pooled datasets and test their application in an original study on Silphium, a wild relative of sunflowers. They will also develop tools and course material to teach and train students and researchers enabling them to leverage k-mer-based analyses for their studies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Miles",
+   "pi_last_name": "Roberts",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Miles D Roberts",
+   "pi_email_addr": "",
+   "nsf_id": "0000A24LK",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Roberts, Miles David",
+  "inst_street_address": "",
+  "inst_street_address_2": "",
+  "inst_city_name": "Lansing",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "",
+  "inst_zip_code": "48910",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "",
+  "org_prnt_uei_num": "",
+  "org_uei_num": ""
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California Berkeley",
+  "perf_str_addr": null,
+  "perf_city_name": "Berkeley",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947205400",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "810500",
+   "pgm_ele_name": "NPGI PostDoc Rsrch Fellowship"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7174",
+   "pgm_ref_txt": "POSTDOC FELLOW IN SCI, MATH EN"
+  },
+  {
+   "pgm_ref_code": "7137",
+   "pgm_ref_txt": "POSTDOCTORAL FELLOWSHIPS"
+  },
+  {
+   "pgm_ref_code": "1329",
+   "pgm_ref_txt": "PLANT GENOME RESEARCH PROJECT"
+  },
+  {
+   "pgm_ref_code": "9109",
+   "pgm_ref_txt": "AGRICULTURAL BIOTECHNOLOGY"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 279000.0
+  }
+ ],
+ "por": null
+}

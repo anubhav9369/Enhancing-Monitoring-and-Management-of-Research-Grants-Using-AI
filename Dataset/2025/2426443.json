@@ -1,0 +1,102 @@
+{
+ "awd_id": "2426443",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CISE-ANR: CCF: Retrofit: Bringing Esterel out of its Shell",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 453903.0,
+ "awd_amount": 453903.0,
+ "awd_min_amd_letter_date": "2025-01-02",
+ "awd_max_amd_letter_date": "2025-01-02",
+ "awd_abstract_narration": "Synchronous programming languages offer order-of-magnitude improvements in reliability and responsiveness in software systems. They have been used in safety-critical systems such as the virtual display systems of civilian and military aircraft at Dassault Aviation, the control software of the N4 nuclear power plants, and the Airbus A320 fly-by-wire system, among others. The success is largely due to the radically different way these programming languages work. As one example, built into these programming languages is the notion of a \"reaction\" that is completely isolated from the environment, which makes reasoning about the correctness of the program significantly easier than it is in conventional programming languages. Despite the significant success in these safety-critical domains, most programmers remain unaware of and unable to use these programming languages because the languages are deeply tied to specific environments, requiring specialized tools that do not work in every context. In this project, the investigators plan to bring the power of synchronous programming to general-purpose programming systems by solving technical challenges that currently limit the adoption of these important languages.\r\n\r\nThe major technical challenge stems from the radically different semantics that synchronous languages have. This different semantics has led to an entirely different compiler and tool-chain for programs using these languages. The investigators have two different implementation strategies, specifically for Esterel-inspired programming languages that both offer the opportunity of a connection to conventional programming languages. These techniques allow reuse of the tool-chain and existing libraries in the conventional languages' ecosystem while still offering the advantages of the synchronous programming model. One implementation relies on existing ideas for compiling Esterel, but views Esterel programs as data structures in the conventional language, in a shallow embedding manner, invoking the Esterel compiler at the hosts\u2019 runtime to interpret and execute Esterel code. The other implementation is novel and based on a deep embedding, relying on multi-shot continuations. The project's novelties are a new semantics for the continuation-based approach to Esterel as well as novel debugging techniques. The project's impacts are to bring Esterel to a modern generation of programmers, hopefully eventually leading to more reliable and robust software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Findler",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robert B Findler",
+   "pi_email_addr": "robby@cs.northwestern.edu",
+   "nsf_id": "000150535",
+   "pi_start_date": "2025-01-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EXZVPWZBLUE8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "2233 Tech Dr, FL 3",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5918",
+   "pgm_ref_txt": "FRANCE"
+  },
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 453903.0
+  }
+ ],
+ "por": null
+}

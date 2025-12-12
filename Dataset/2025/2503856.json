@@ -1,0 +1,126 @@
+{
+ "awd_id": "2503856",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Exact Optimal and Data-Adaptive Algorithms and Tools for Differential Privacy",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 499238.0,
+ "awd_amount": 191421.0,
+ "awd_min_amd_letter_date": "2025-04-04",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "This project is motivated by the increasing public concerns on privacy issues, new legislations and the high demand for privacy enhancing technologies such as differential privacy (DP) in applications from both private and public sectors. The overarching theme of the project is to address the pressing new challenges that arise as differential privacy transforms from a theoretical construct into a practical technology. The project advances the state-of-the-art of research in the area of DP, and contributes to privacy education. On the research front, the project develops new algorithms and analytical tools that enable more precise privacy accounting and higher utility in DP. On the education front, the project involves training future leaders in DP areas, creating educational materials and expanding an open-source software library called autodp that makes state-of-the-art differentially private computation more accessible. Collectively, the integrated research and educational activities contribute to ongoing collaborative efforts in building innovative applications of differential privacy.\r\n \r\nThe project has three main components in use-inspired fundamental research. The first component unifies the recent breakthroughs in DP, such as, Renyi DP, moments accountant, f-DP and produce an intermediate functional representation that allows lossless conversions among these representations. The second component focuses on investigating the stronger privacy properties permitted by the structures of the actual data, and addressing the dilemma of interpreting  worst-case privacy on average-case data. The third component focuses on using a public dataset to ``denoise'' the private data releases or to facilitate private machine learning. The outputs of the research will be broadly shared through integration in autodp library, and will be integrated in courses.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yu-Xiang",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yu-Xiang Wang",
+   "pi_email_addr": "yuxiangw@ucsd.edu",
+   "nsf_id": "000785032",
+   "pi_start_date": "2025-04-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930934",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 10392.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 88645.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 92384.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451771",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: CSR: Designing a Memory-Adaptive Query Execution Framework for Optimizing Resource Utilization and Cost Efficiency in Cloud Databases",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 149988.0,
+ "awd_amount": 149988.0,
+ "awd_min_amd_letter_date": "2025-07-20",
+ "awd_max_amd_letter_date": "2025-07-20",
+ "awd_abstract_narration": "Cloud-based data systems are central to modern applications, but they often rely on static resource allocation, such as reserving memory and compute power based on peak needs. This leads to underutilized resources, high costs, and inefficient performance. While cloud platforms offer scalability, most database systems cannot adjust resource usage during query execution. As workloads become more dynamic and data volumes grow, improving resource adaptability is essential. This project explores real-time, query-level resource adaptation to improve efficiency and reduce costs, helping to enhance national economic competitiveness. The project also creates educational and research opportunities for students through hands-on open-source development and mentorship programs. \r\n\r\nIn this project, the researchers implement DynEx, a fully dynamic, memory-adaptive query execution engine for cloud database management systems (DBMSs) that aims to improve resource efficiency, cost-effectiveness, and performance. The research addresses three core questions: (1) how to design join and sort operators that adapt to memory fluctuations without overspilling or degrading performance; (2) how to coordinate a performance-aware resource broker and scheduler to reallocate memory based on query priorities and runtime demands; and (3) how to trigger auto-scaling to maintain performance targets while reducing cost and delay. DynEx builds on a shared-process architecture with disaggregated storage, integrated into the open-source AsterixDB system. The engine performance benchmarks include dynamic workloads using synthetic and real datasets to evaluate adaptability, throughput, and resource use. The release of all resulting code and artifact helps support reproducibility and future research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shiva",
+   "pi_last_name": "Jahangiri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shiva Jahangiri",
+   "pi_email_addr": "sjahangiri@scu.edu",
+   "nsf_id": "000925009",
+   "pi_start_date": "2025-07-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Santa Clara University",
+  "inst_street_address": "500 EL CAMINO REAL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CLARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4085544764",
+  "inst_zip_code": "950504776",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "CA17",
+  "org_lgl_bus_name": "PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YE8LRJWSY3K9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Santa Clara University",
+  "perf_str_addr": "500 EL CAMINO REAL",
+  "perf_city_name": "SANTA CLARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950504776",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149988.0
+  }
+ ],
+ "por": null
+}

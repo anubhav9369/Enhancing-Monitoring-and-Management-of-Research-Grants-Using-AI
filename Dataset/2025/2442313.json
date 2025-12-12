@@ -1,0 +1,102 @@
+{
+ "awd_id": "2442313",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Bayesian Symmetry-Respecting Machine Learning Framework for Predicting Electronic Structures in Materials Design",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 669490.0,
+ "awd_amount": 669490.0,
+ "awd_min_amd_letter_date": "2024-12-23",
+ "awd_max_amd_letter_date": "2024-12-23",
+ "awd_abstract_narration": "Electronic-structure methods have a profound impact on several disciplines, especially materials research, as demonstrated by extensive studies in this field and the discovery of numerous advanced materials and devices with widespread applications. However, large-scale electronic structure calculations are prohibitively expensive. Machine learning models can accelerate these simulations, but current models often lack one or more of the following: uncertainty quantification, preservation of symmetries, incorporation of physics, generalizability, accuracy, efficiency, or scalability. This research aims to address all these challenges within a single machine-learning framework. To achieve this goal, this project focuses on gaining fundamental insights into atomic configurations and corresponding electronic structures by developing a machine-learning model to predict electron density for a wide range of materials. The machine learning model facilitates the design of complex materials, which require simulations of larger systems. This fundamental research is expected to have broad applicability beyond materials science in areas where both quantifying uncertainty and respecting rotational-translational symmetry are crucial, such as biomedical imaging and continuum physics problems.\r\n\r\nThe goal of this project is to enable machine learning-based electron density prediction for ultra-large systems and diverse compositions, thereby accelerating materials design. This will be achieved by developing a machine learning framework and data pruning schemes and gaining insights into atomic configurations and electron density. To accomplish this, a Bayesian convolutional neural network model will be developed that is rotational-translational symmetry-equivariant, physics-informed, chemically accurate, generalized, efficient, and scalable. Therefore, the machine learning model will achieve greater generalization and uncertainty quantification capabilities through a Bayesian approach while ensuring rotational and translational symmetrical equivariance. The physics-based volumetric input and output of the model will simultaneously improve both accuracy and efficiency, addressing a key gap in the field. To overcome the lack of generalization in data, a novel technique will be developed to explore the space of thermo-mechanical variables during data generation effectively. Additionally, data pruning techniques will be developed to enhance efficiency in data generation and training.  The broad applicability of the machine learning model will be demonstrated for various metals, alloys (with and without defects), and molecules. Ultimately, it will be extended to a wide range of transition metals and their alloys. The uncertainty quantification capability of the machine learning model will be leveraged in a Bayesian Optimization framework for the design of high-entropy alloys. The project also involves various educational and outreach activities aimed at promoting machine learning-based materials design and increasing participation from underrepresented groups. These activities include developing a cyberinfrastructure tool for the machine learning model, releasing code through public repositories, providing education through a summer youth program and cyberinfrastructure, curriculum development, engaging underrepresented students in undergraduate research, conducting seminars at historically Black colleges and universities, and collaborating with industries.\r\n\r\nThis project is jointly funded by the Office of Advanced Cyberinfrastructure and the Division of Civil, Mechanical and Manufacturing Innovation (CMMI).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Susanta",
+   "pi_last_name": "Ghosh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Susanta Ghosh",
+   "pi_email_addr": "susantag@mtu.edu",
+   "nsf_id": "000755781",
+   "pi_start_date": "2024-12-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan Technological University",
+  "inst_street_address": "1400 TOWNSEND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUGHTON",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "9064871885",
+  "inst_zip_code": "499311200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "GKMSN3DA6P91",
+  "org_uei_num": "GKMSN3DA6P91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan Technological University",
+  "perf_str_addr": "1400 TOWNSEND DR",
+  "perf_city_name": "HOUGHTON",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "499311200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  },
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 669490.0
+  }
+ ],
+ "por": null
+}

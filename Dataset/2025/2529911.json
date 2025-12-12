@@ -1,0 +1,110 @@
+{
+ "awd_id": "2529911",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: PPoSS: Large: A Full-stack Approach to Declarative Analytics at Scale",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 2632812.0,
+ "awd_amount": 1164216.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "The project investigates full-stack implementation methodologies for expressive programming systems that effectively bridge the gap between human-level specification and high-performance implementation of complex reasoning tasks at scale. Declarative languages permit a programmer to provide high-level rules and declarations that define some sought-after solution as a latent implication to be materialized automatically by the computer. The project's novelties are to scale this vision of high-performance declarative reasoning both to structured, higher-order, and probabilistic formulations and to the next generation of supercomputers and cloud-based clusters. The project's impacts are on application designers and programmers in key application areas, including precision medicine, stochastic modeling, software verification, graph analytics, and security. The project is developing open-source tools, programming languages, and frameworks capable of enabling truly scalable reasoning for users across disciplines.\r\n\r\nThe complexities of next-generation exascale systems pose key challenges: managing increased parallelism, heterogeneity, graphic processing units (GPUs), deep memory hierarchies, and performance tuning across the full software stack. With this increasing complexity and diversity in the hardware configuration of upcoming high-performance computing systems, it becomes difficult to write maintainable and scalable applications by hand. Modern chain-forward reasoning systems are being extended with structured, higher-order data, probabilistic semantics, lattice orderings, recursive aggregation, and first-order theories, posing key implementation challenges - especially in a parallel setting. In this project, the investigators are developing a unified, and tunable, full-stack foundation for highly expressive chain-forward programming to be deployed at scale.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Gilray",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Gilray",
+   "pi_email_addr": "thomas.gilray@wsu.edu",
+   "nsf_id": "000810632",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington State University",
+  "inst_street_address": "240 FRENCH ADMINISTRATION BLDG",
+  "inst_street_address_2": "",
+  "inst_city_name": "PULLMAN",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "5093359661",
+  "inst_zip_code": "991640001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "WA05",
+  "org_lgl_bus_name": "WASHINGTON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XRJSGX384TD6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington State University",
+  "perf_str_addr": "240 FRENCH ADMINISTRATION BLDG",
+  "perf_city_name": "PULLMAN",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "991640001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "WA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "042Y00",
+   "pgm_ele_name": "PPoSS-PP of Scalable Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7925",
+   "pgm_ref_txt": "LARGE PROJECT"
+  },
+  {
+   "pgm_ref_code": "026Z",
+   "pgm_ref_txt": "NSCI: National Strategic Computing Initi"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 1164216.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2530896",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: IPAAI: REPAIRT: Securing xApps in Open RANs with Reliable and Principled AI Red-Teaming",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 900000.0,
+ "awd_amount": 900000.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "The Open Radio Access Network framework (O-RAN) is enabling open marketplaces where extensible radio-control applications (\u201cxApps\u201d) powered by artificial intelligence can be shared and deployed across multi-vendor cellular networks. Although this openness accelerates innovation, it also opens the door to security vulnerability. Indeed, malicious developers could hide software \u201cbackdoors\u201d that silently degrade or manipulate the performance of competing networks. Currently, no testbed or certification pipeline verifies the security of these AI-driven applications before they enter the marketplace. The REPAIRT project addresses this pressing need by establishing the scientific and engineering foundations required to detect, neutralize, and ultimately prevent adversarial AI in O-RAN networks.\r\n\r\nREPAIRT couples the programmable wireless infrastructure of Saint Louis University and Northeastern University with new algorithms for systematic \"red teaming\" of AI algorithms in O-RAN networks. The project develops algorithms to flag adversarial AI behavior both before and after deployment, and introduces techniques that remove poisoned data and logic without costly retraining. A heterogeneous testbed supports reproducible experiments at scale and delivers an open framework that lets researchers and industry stress-test their own xApps under realistic traffic and threat conditions. These tools, data sets, and educational activities are enabling trustworthy xApp marketplaces, seeding advances in AI security applied to other dynamic cyber-physical systems, and prepare the future workforce in securing next-generation AI-driven wireless communication systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Francesco",
+   "pi_last_name": "Restuccia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Francesco Restuccia",
+   "pi_email_addr": "frestuc@northeastern.edu",
+   "nsf_id": "000835944",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Flavio",
+   "pi_last_name": "Esposito",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Flavio Esposito",
+   "pi_email_addr": "flavio.esposito@slu.edu",
+   "nsf_id": "000724838",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 900000.0
+  }
+ ],
+ "por": null
+}

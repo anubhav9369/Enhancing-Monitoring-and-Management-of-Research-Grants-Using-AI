@@ -1,0 +1,110 @@
+{
+ "awd_id": "2525055",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Characterizing the Energetics and Anisotropy of Upper Ocean Turbulence",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032924557",
+ "po_email": "bmuz@nsf.gov",
+ "po_sign_block_name": "Baris Uz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 580031.0,
+ "awd_amount": 580031.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "The primary goal of this project is to develop new methods for identifying various types of turbulence and mixing regimes in the upper ocean that result from different forcings at the ocean surface. The forcings include heating/cooling, wind-driven shear, and wave-wind interactions. They produce upper ocean mixing that facilitates ocean-atmosphere exchange of properties and that is anisotropic, meaning non-uniform in the three spatial directions, in distinct ways. This project will employ novel statistical techniques to identify this anisotropy and thus the different mixing types, advancing previous methods not able to resolve this kind of detail. The approach involves testing the methods in a model that simulates upper ocean turbulence and applying them then to available ocean velocity data from ADCPs (Acoustic Doppler Current Profilers) that are commonly collected on research cruises. The outcomes of the project will help advance physical oceanography and other fields by shedding new light onto what type of mixing is occurring and by providing open-source software that will enable other researchers to employ the same advanced methods.  \r\n\r\nThe strength and depth of mixing in the upper ocean mediates the transfer of properties between the ocean and atmosphere, but direct measurements of this mixing are challenging to collect and only provide information about specific aspects of the dynamics. This project will develop novel methods that characterize and distinguish different 3-d mixing regimes in the upper ocean. These methods will also enable unique measurements of flow energetics, including the inter-scale transfers of energy and the directional variations (anisotropy) of these transfers and other flow properties. Together, the proposed work will provide a unique view of the structure and energetic mechanisms at play within upper ocean turbulence. The project goals will be enabled through the synthesis of three complementary and timely developments. First, recent advancements in 2-d turbulence analysis techniques, which demonstrate an exceptional ability to diagnose energetics without Fourier transforms, will be extended to diagnose important flow physics in 3-d turbulence. Second, cutting-edge computational hardware will be leveraged to enable both the computationally demanding proposed 3-d turbulence analyses and the numerical simulations that will provide synthetic data to validate methods and evaluate different flow regimes. Finally, ADCP instrumentation that measures upper ocean turbulence at high-resolution in time and space will enable application of these novel methods, identification of optimal methods, validation of upper ocean simulations, and diagnosis of distinct turbulent regimes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brodie",
+   "pi_last_name": "Pearson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brodie Pearson",
+   "pi_email_addr": "pearsbro@oregonstate.edu",
+   "nsf_id": "000717431",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Seth",
+   "pi_last_name": "Zippel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seth Zippel",
+   "pi_email_addr": "zippels@oregonstate.edu",
+   "nsf_id": "000798205",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "161000",
+   "pgm_ele_name": "PHYSICAL OCEANOGRAPHY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1610",
+   "pgm_ref_txt": "PHYSICAL OCEANOGRAPHY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 580031.0
+  }
+ ],
+ "por": null
+}

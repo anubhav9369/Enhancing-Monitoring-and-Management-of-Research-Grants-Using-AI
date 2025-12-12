@@ -1,0 +1,118 @@
+{
+ "awd_id": "2440781",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Synergistic Co-Design of Hardware and Control Systems for Over-Actuated Motion Stages in High-Throughput Chip Manufacturing",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 607412.0,
+ "awd_amount": 607412.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant will fund research that strives to address an acceleration-bandwidth trade-off in precision motion systems to enable future integrated circuit manufacturing equipment with enhanced throughput, thereby promoting the progress of science, and advancing the national prosperity and welfare. In today\u2019s chip manufacturing equipment where precision motion stations exist, there exists a fundamental trade-off between control bandwidth and achievable acceleration due to structural material stiffness-to-weight ratio limits. This trade-off severely limits the throughput of photolithography machines and wafer inspection systems for integrated circuit manufacturing, which directly depend on acceleration and control performance during wafer and photomask positioning stages. This research project attempts to solve this challenge by developing a new mechatronic hardware and control co-design paradigm that overcomes the acceleration-bandwidth trade-off and enables motion systems with substantially improved acceleration without sacrificing control performance, which has the potential to improve productivity in chip manufacturing and thus benefit society at large. Other applications that could benefit from this research include, but are not limited to, laser-based machining and the manufacture of high-power-density electric machines and aerospace structures. Tightly integrated with the research activities, this CAREER project\u2019s education and outreach plans focus on enhancing the authenticity of engineering training, which will foster system-level synergistic thinking through curriculum development, open-source educational content creation, undergraduate research, and outreach efforts. \r\n\r\nThis research aims to develop theoretical methods and practical tools to transcend an acceleration-bandwidth trade-off in today\u2019s mechatronic systems, thereby tackling key technical barriers toward future chip manufacturing equipment with enhanced throughput. It strives to achieve this goal by creating a new mechatronic hardware and control co-design paradigm that enables systematic utilization of over-actuation and selected compliance. The project will work to (1) stiffen the component\u2019s flexible dynamics through over-actuation, i.e., controlling the structure\u2019s flexible dynamics using distributed actuation and sensing to introduce \u201cservo-stiffness\u201d, and (2) smartly introduce structural compliance in the actively controlled flexible modes to reduce weight and facilitate controller design. In particular, this project intends to create a structure topology exploration framework to facilitate over-actuation, conduct model-based analysis for over-actuated continuum dynamic systems, develop new robust bandwidth optimal control algorithms, and formulate robust control co-design frameworks for continuum dynamic systems. The effectiveness of the approach will be evaluated through experiments using over-actuated magnetically levitated precision stage prototypes and an in-depth life cycle analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Zhou",
+   "pi_email_addr": "lei.zhou@wisc.edu",
+   "nsf_id": "000848607",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 607412.0
+  }
+ ],
+ "por": null
+}

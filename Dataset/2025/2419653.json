@@ -1,0 +1,106 @@
+{
+ "awd_id": "2419653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RUI: Simulations of MS Spectra: Examining Post-Translational Modifications and Nucleosides",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927416",
+ "po_email": "selshall@nsf.gov",
+ "po_sign_block_name": "Samy El-Shall",
+ "awd_eff_date": "2025-03-15",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 396000.0,
+ "awd_amount": 396000.0,
+ "awd_min_amd_letter_date": "2025-03-03",
+ "awd_max_amd_letter_date": "2025-03-03",
+ "awd_abstract_narration": "With support from the Chemical Structure and Dynamics (CSD) program in the Division of Chemistry, Professor George L. Barnes of Illinois State University is investigating the reaction dynamics taking place during the collision-induced dissociation (CID) of post-translationally modified peptides and nucleosides. Investigating the reaction dynamics taking place during the CID of post-translationally modified peptides and nucleosides is challenging because these modifications enable new chemical reactions to take place that cannot occur in their unmodified counterparts. In addition, these modifications can prevent common chemical reactions that take place in unmodified peptides and nucleosides. Professor Barnes and his students will employ sophisticated simulation techniques that are analyzed using graph theory and ab initio calculations to study chemically diverse model systems where tandem mass spectrometry data is already available. A modernized simulation software package will be released to the community that can utilize artificial intelligence (AI) based potential energy surfaces. Their studies could result in reports of the first simulations of the CID of nucleosides and a user-friendly CID simulation software package made available to the community. Throughout this project, multiple high school, undergraduate, and graduate students will be trained in computational chemistry and high-performance computing. They will have the opportunity to present their work at regional and national venues.\r\n\r\nA combined computational and experimental approach is taken to elucidate reaction dynamics relevant to tandem mass spectrometry. Professor Barnes will select model systems that increase the chemical diversity of the systems studied through computational means and target the most commonly observed post-translational modifications seen in the dbPTM databank. Direct dynamics simulations provide an abundance of atomic-level information, allowing for the elucidation of the most relevant mechanistic steps involved in CID reactions. Advanced analysis techniques that rely on graph theory allow for chemical insight to be easily extracted from this data. Once relevant reaction pathways are identified through direct dynamics simulation, electronic structure calculations will be employed to provide reliable energetics. A comparison to experimental data will be made when possible. The data obtained will provide the community with information regarding preferred reaction mechanics in a broad range of CID systems. The importance of AI-based potential energy surfaces cannot be ignored. The software currently employed to perform direct dynamics simulations on CID systems cannot utilize such potential energy surfaces. Professor Barnes and his students will develop and release a CID software package incorporating user-specified potential energy surfaces, including AI-based surfaces.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "George",
+   "pi_last_name": "Barnes",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "George L Barnes",
+   "pi_email_addr": "glbarn3@ilstu.edu",
+   "nsf_id": "000656378",
+   "pi_start_date": "2025-03-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Board of Trustees of Illinois State University",
+  "inst_street_address": "CAMPUS BOX 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORMAL",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3094382528",
+  "inst_zip_code": "617901100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "IL17",
+  "org_lgl_bus_name": "BOARD OF TRUSTEES OF ILLINOIS STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6WTL4T5FFJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Board of Trustees of Illinois State University",
+  "perf_str_addr": "CAMPUS BOX 1100",
+  "perf_city_name": "NORMAL",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "617901100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "IL17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "910100",
+   "pgm_ele_name": "CSD-Chem Strcture and Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "068Z",
+   "pgm_ref_txt": "URoL-Understanding Rules of Life"
+  },
+  {
+   "pgm_ref_code": "9229",
+   "pgm_ref_txt": "RES IN UNDERGRAD INST-RESEARCH"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 396000.0
+  }
+ ],
+ "por": null
+}

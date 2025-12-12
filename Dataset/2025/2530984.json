@@ -1,0 +1,110 @@
+{
+ "awd_id": "2530984",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: Foundation Models for Analyzing Images of Rock Cross-Sections using Procedural Synthetic Data",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032924938",
+ "po_email": "azaffos@nsf.gov",
+ "po_sign_block_name": "Andrew Zaffos",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 899999.0,
+ "awd_amount": 899999.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Rocks are the primary recorder of more than 99% of Earth\u2019s History. Whether a rock chronicles processes deep in Earth\u2019s interior, or on the wave agitated shores of a barrier island, rocks contain the clues that help geoscientists reconstruct ancient environments and piece together the history of life on Earth. Such study involves collecting hundreds or thousands of rock samples, photographing their cross-sections, sometimes reconstructing three-dimensional volumes, and ultimately creating a detailed catalogue of the contents of each rock, which can consist of hundreds or thousands of different objects and textures. For each embedded element, a geologist must identify its type (for example, fossil or crystal or bedform) and measure its shape, size, and abundance. Such cataloguing is traditionally done by hand and is very labor intensive, limiting scientific progress. This project seeks to develop new AI technologies that can automatically perform this cataloguing under the guidance of geoscientists, accelerating discovery and improving reproducibility. This research also is integrated with undergraduate and graduate education, and K12 outreach activities. \r\n\r\nThis project aims to develop new AI capabilities to enable reliable automated analysis of images of rock cross-sections. The key idea is to address the bottleneck of training data, by creating a large amount of labeled synthetic data of rock cross-sections through computer graphics and physics-based simulation. In particular, the project employs a technique called \u201cprocedural generation\", creating 3D objects and their simulations based on mathematical rules that allow precise control and unlimited variation.  The synthetic data then are used to pretrain foundation models that can be further fine-tuned with a small number of real images to perform various visual analysis tasks on rock images. As a case study of advancing geoscience with the new AI capabilities, this project uses an extensive field collection from South Australia to test the hypothesis that the rise of metazoan reefs played a role in the coevolution of animals and their environments during the Cambrian radiation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jia",
+   "pi_last_name": "Deng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jia Deng",
+   "pi_email_addr": "jiadeng@princeton.edu",
+   "nsf_id": "000662553",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Adam",
+   "pi_last_name": "Maloof",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adam Maloof",
+   "pi_email_addr": "maloof@princeton.edu",
+   "nsf_id": "000103202",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Princeton University",
+  "perf_str_addr": "1 NASSAU HALL",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085442001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 899999.0
+  }
+ ],
+ "por": null
+}

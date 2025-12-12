@@ -1,0 +1,110 @@
+{
+ "awd_id": "2524135",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Decision Support Software for Design Data Center Cooling Systems",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "This I-Corps project focuses on the development of a software platform that assists in the design of cooling systems for data centers. Data centers serve as the core infrastructure supporting communication networks, online services such as cloud storage and data processing, and high-performance computing. As demand for these facilities rises due to applications such as artificial intelligence, the power required to operate them is skyrocketing, with nearly half of this power being used for cooling. This digital twin software, which provides a virtual online representation of a data center\u2019s cooling system, offers significant advantages to the data center industry, by aiding in more energy efficient operations, longer equipment lifespan, and lower operational costs \u2013 all of which are crucial in such a competitive and energy-intensive industry. The technology can also improve the reliability of services that use these data centers, benefiting government and commercial users as well as the general public by ensuring better, more consistent access to digital services and applications.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a modular simulation framework for analyzing and optimizing the thermal performance, energy efficiency, durability, and cost of electronic cooling networks. The framework integrates several scientific techniques into a unified workflow. A reduced-order thermal model is used to approximate three-dimensional temperature distributions across components, servers, racks, and rooms based on high-fidelity simulation data, enabling rapid assessment of new design configurations. This model is dynamically coupled with a flow solver that computes pressure, temperature, and mass flow rate across interconnected cooling components, including channels with phase-change behavior. The solver supports both single- and two-phase working fluids, making it applicable to traditional air and liquid cooling systems as well as more advanced boiling/evaporation-based techniques. Reliability prediction is incorporated using statistical degradation models and system-level availability metrics. The platform also includes cost estimation routines that compute key financial indicators, such as operational expenses, capital investment requirements, and investment returns, based on modeled performance. This integrated approach enables users to compare cooling strategies not only based on technical performance, but also in terms of long-term cost-effectiveness and system reliability, thus enabling more informed decision-making in the design of data center infrastructure.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Francis",
+   "pi_last_name": "McCluskey",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Francis P McCluskey",
+   "pi_email_addr": "mcclupa@umd.edu",
+   "nsf_id": "000875171",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Sandborn",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter A Sandborn",
+   "pi_email_addr": "sandborn@umd.edu",
+   "nsf_id": "000417079",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8609",
+   "pgm_ref_txt": "Other Energy Research"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

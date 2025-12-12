@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442593",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Context-aware framework to enable effective selection and delivery of digital health interventions",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": null,
+ "po_email": "",
+ "po_sign_block_name": "Thomas Martin",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 679997.0,
+ "awd_amount": 393392.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Personal computing devices, such as smartphones and wearable technology, are transforming care for mental and behavioral health. These devices can track various aspects of daily life, including activity, sleep patterns, location, and physiological signals such as heart rate. This tracking enables the design and development of intervention systems that can deliver timely, personalized support. The systems will help a person to better manage their health outcomes, for example, reducing stress or improving physical activity. However, knowing when a person can receive, process, and use the support in their daily lives to enable long-term sustainable engagement is a major challenge. Factors such as a person's current activity, location, emotions, motivation, and even how much effort they think it will take to engage can influence how willing they are to interact with an intervention. This project aims to address these challenges by creating smart systems that optimize how interventions are delivered and by determining the best time, type, and device for providing support. The project will thus improve engagement and promote sustainable behavior change. The project proposes new approaches to understanding a person's behavioral states using smartphones and wearable technology. The project will also evaluate how these states impact how a person interacts with interventions. The findings and tools from this project will enable behavioral scientists and intervention designers to create new types of personalized digital health interventions. Research activities will include training graduate students, integrating findings into courses on data science and personal health informatics, and hosting hands-on workshops for intervention designers.\r\n\r\nThis project advances the field of digital health by combining human-centered computing, machine learning, and mobile sensing to enhance just-in-time adaptive interventions (JITAIs). The project includes three key thrusts: The first part focuses on developing a comprehensive framework to represent the context of a person as a multivariate state that includes both physical (for example, location and activity) and emotional states (for example, arousal or stress). The project will also develop a hybrid approach of Dynamic Bayesian Networks and Hidden Semi-Markov Models to model current context and predict expected future contextual states. The second thrust of the project seeks to understand and predict the impact of contextual states on receptivity to interventions and develop a multi-objective reinforcement learning algorithm to leverage the context, receptivity, intervention burdens, and expected effectiveness of the intervention to determine \"what,\" \"when,\" and \"how\" to deliver interventions to maximize intervention engagement and effectiveness. Finally, the project will develop an extensible state-of-receptivity framework that enables behavior scientists to design and implement effective adaptive interventions by leveraging the optimization algorithms and balancing intervention burden and effectiveness across diverse platforms. The project will evaluate the performance, efficacy, and usability of all tools, methods, and algorithms through human subject studies and release them as open-source resources to contribute to the broader digital health, ubiquitous computing, and human-centered computing communities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Varun",
+   "pi_last_name": "Mishra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Varun Mishra",
+   "pi_email_addr": "v.mishra@northeastern.edu",
+   "nsf_id": "000941099",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 393392.0
+  }
+ ],
+ "por": null
+}

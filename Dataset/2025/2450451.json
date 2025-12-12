@@ -1,0 +1,106 @@
+{
+ "awd_id": "2450451",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Variable Stiffness Robotic Hands with Intrinsic Force and Slip Sensing based on Event Vision and Machine Learning for Dexterous Grasping and Manipulation",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 473091.0,
+ "awd_amount": 473091.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "This project advances the design and functionality of robotic hands by developing an integrated framework that enables more dexterous and intelligent grasping. Robotic hands are essential for enabling robots to interact with the world across industries such as manufacturing, healthcare, and service robotics. However, most current designs are limited in functionality, often focusing on a single capability such as flexibility or sensing. This award supports research activity that introduces a new approach that combines mechanically intelligent finger structures with embedded force, slip, and vision sensing based on event-driven cameras. The resulting technology will enable robotic hands to perform both delicate and power grasps while adapting to changing environments. The research will have broad impacts on industry through the development of smart robotic grippers and will promote STEM education through hands-on outreach activities with K\u201312 students, as well as integration into university-level robotics design curricula. These efforts aim to inspire the next generation of engineers and support the US workforce in high-tech sectors.\r\n\r\nTechnically, the project introduces a novel design methodology for variable-stiffness robotic hands using a double-layered compliant mechanism structure that supports dynamic stiffness control and integrated sensing. The research team will use event-based vision and machine learning to extract force and slip information from finger deformations without the need for traditional tactile sensors. Key outcomes include (1) analytical and learning-based models for mechanism design, (2) vision-based force and slip detection algorithms, and (3) closed-loop control methods for stable, adaptive grasping. The system will be validated through hardware implementation and simulation. The integrated platform\u2014including hardware prototypes, control software, and experimental data\u2014will be shared with the broader research community. This work contributes to the field of compliant robotics and intelligent manipulation and lays the foundation for future developments in human-level robotic hand systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dongming",
+   "pi_last_name": "Gan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dongming Gan",
+   "pi_email_addr": "dgan@purdue.edu",
+   "nsf_id": "000822440",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 473091.0
+  }
+ ],
+ "por": null
+}

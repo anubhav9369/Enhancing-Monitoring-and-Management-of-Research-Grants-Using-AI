@@ -1,0 +1,110 @@
+{
+ "awd_id": "2429973",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CMMI-EPSRC: A Unified Polynomial Optimization Framework for the Analysis and Control of Nonlinear Partial Differential Equations",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922576",
+ "po_email": "mcanova@nsf.gov",
+ "po_sign_block_name": "Marcello Canova",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 397375.0,
+ "awd_amount": 397375.0,
+ "awd_min_amd_letter_date": "2025-05-30",
+ "awd_max_amd_letter_date": "2025-05-30",
+ "awd_abstract_narration": "Partial differential equations (PDEs) form the foundation of mathematical models that describe the complex physical processes driving technological developments in energy, transportation, and manufacturing. These equations govern everything from fluid flow in pipelines and aerodynamics in high-speed transportation to plasma control in nuclear fusion and material behavior in advanced manufacturing. However, processes described by nonlinear PDEs are notoriously difficult to analyze and control using existing methods, requiring deep mathematical expertise and significant computational resources. This CMMI-UKRI Engineering and Physical Sciences Research Council (EPSRC) project combines the efforts and expertise of UK and US collaborating investigators to attempt to overcome these challenges by developing new computational methods and algorithms that enable the solution, analysis and control of nonlinear PDEs. The key focus of this collaborative project is ensuring that developed tools are accessible to researchers and engineers without requiring extensive mathematical expertise. By making these techniques more practical and widely available, this project looks to enhance the ability of data-based models to drive improvements in reliability, efficiency, and safety across sectors including energy, industry, and defense.\r\n\r\nThe sum-of-squares polynomial optimization framework allows one to computationally verify stability properties of nonlinear ordinary differential equations (ODEs) by searching for positive polynomial Lyapunov functions. This research project aims to develop an equivalent of the sum-of-squares framework for analyzing nonlinear partial differential equations (PDEs). The first step seeks to construct a suitable parameterization of polynomials on the spatially distributed Hilbert space of Lebesgue-integrable functions. The next steps seeks to reformulate the nonlinear PDE using this distributed polynomial parameterization. This step is anticipated to involve applying a state transformation and the partial integral equation (PIE) framework to eliminate partial derivatives and boundary conditions, ensuring a well-posed representation of the system. Once reformulated, the next step seeks to parameterize positive polynomial Lyapunov functions in a distributed space using positive partial integral operators, enforcing a sum-of-squares-type condition. It is expected that the Lyapunov stability conditions will be expressed as a convex optimization problem, allowing for an efficient computational solution. To support broad applicability, specialized software intends to be be developed to automate each step of this process, enabling analysis across broad classes of nonlinear PDEs. This software looks to feature user-friendly interfaces to facilitate adoption by non-specialists for rapid prototyping of complex data-based models. Finally, resulting algorithms will be applied to problems of fluid flow with transition to turbulence, as well as to data-based models of magnetohydrodynamic plasma in Tokamak nuclear fusion reactors.\r\n\r\nThis research is a collaborative effort under the NSF Directorate for Engineering - UKRI Engineering and Physical Sciences Research Council Lead Agency Opportunity (ENG-EPSRC), NSF 20-510.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Peet",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew Peet",
+   "pi_email_addr": "mpeet@asu.edu",
+   "nsf_id": "000511753",
+   "pi_start_date": "2025-05-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "5946",
+   "pgm_ref_txt": "UNITED KINGDOM"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 397375.0
+  }
+ ],
+ "por": null
+}

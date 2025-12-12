@@ -1,0 +1,126 @@
+{
+ "awd_id": "2440984",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Progressive Collapse Analysis and Stochastic Wind Pattern Modeling for Transmission Tower-Line System Design",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927732",
+ "po_email": "lsneed@nsf.gov",
+ "po_sign_block_name": "Lesley Sneed",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599290.0,
+ "awd_amount": 599290.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) award will support research aimed to address critical needs for designing safer high-voltage transmission tower-line (TTL) systems that sustain power delivery during extreme wind events, such as hurricanes and tropical storms. Current industry standards rely on static, averaged wind load assumptions that oversimplify the unpredictable and complex nature of wind loads. This research project will challenge these assumptions by introducing innovative random wind load models that capture distinctive collapse mechanisms of TTL systems. By integrating these wind load models into advanced computational simulations of how tower failures propagate under wind-induced collapse, the research intends to advance the design and risk assessment of TTL systems. The outcomes of this work intend to provide safer, more robust power grid infrastructure, enhancing energy security and reducing blackout risks during hurricanes. Broader impacts will include the development of educational resources that promote hands-on, experiential learning in wind engineering design. By advancing the technical design of transmission towers and integrating the research with educational and outreach activities, this project will promote the national welfare in energy security, infrastructure resilience, and workforce development. This project will contribute to NSF's role in the National Windstorm Impact Reduction Program (NWIRP).\r\n\r\nThe specific goal of the research is to model the progressive collapse of high-voltage TTL systems under extreme wind loads with high accuracy and low computational cost. Since the progressive failure path of TTL systems has been proven to be sensitive to stochastic wind loads, this research will first develop multivariate statistical models to capture stochastic wind load patterns along the height of transmission towers. To support this effort, novel panel-wise high-frequency base balance experiments will be conducted at the NSF-supported Natural Hazards Engineering Research Infrastructure (NHERI) Boundary Layer Wind Tunnel at the University of Florida to calibrate wind load models and validate the feasibility of using nodal force representations for wind loads on individual tower panels. Building on these models, the project will introduce three new progressive collapse modeling procedures for wind engineering: (1) static collapse analysis with normative wind load, (2) static collapse analysis with stochastic wind load, and (3) dynamic collapse analysis with temporal wind loads. These procedures will enable the modeling of cascading failures as forces redistribute in real time after localized damage. By addressing the entire spectrum of collapse pathways, from initial localized element failures to large-scale system collapse, this project will advance the accuracy, robustness, and efficiency of risk assessment methods for power grid infrastructure. The expected outcomes include (1) the development of stochastic wind load models that support performance-based design, (2) the creation of progressive collapse analysis procedures that enable real-time force redistribution modeling under wind loads, (3) the introduction of new damage measures that link tower collapse to power delivery functionality, and (4) the production of systems-level fragility models that quantify regional blackout risk for large-scale power grids. These contributions will challenge the reliance on normative wind load assumptions in transmission tower design, paving the way for performance-based wind engineering practices. The impact of the research will extend to power grid resilience, as the integration of stochastic wind loads and progressive collapse modeling will reduce uncertainty in risk assessments, improve infrastructure safety, and support the development of next-generation transmission towers designed for hurricane resilience. Project data will be archived and made publicly available in the NHERI Data Depot (https://www.DesignSafe-ci.org).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ge",
+   "pi_last_name": "Ou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ge Ou",
+   "pi_email_addr": "gou@ufl.edu",
+   "nsf_id": "000743435",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "041E",
+   "pgm_ref_txt": "HAZARD AND DISASTER REDUCTION"
+  },
+  {
+   "pgm_ref_code": "040E",
+   "pgm_ref_txt": "Haz mitigation of structural sys"
+  },
+  {
+   "pgm_ref_code": "7231",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "1057",
+   "pgm_ref_txt": "CIS BASE RESEARCH"
+  },
+  {
+   "pgm_ref_code": "039E",
+   "pgm_ref_txt": "STRUCTURAL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599290.0
+  }
+ ],
+ "por": null
+}

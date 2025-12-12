@@ -1,0 +1,110 @@
+{
+ "awd_id": "2531517",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CDS&E/Collaborative Research: Physics-Informed Machine Learning for Tailoring the Multidirectional Mechanical Properties of Composite Materials",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 200453.0,
+ "awd_amount": 200453.0,
+ "awd_min_amd_letter_date": "2025-05-21",
+ "awd_max_amd_letter_date": "2025-05-21",
+ "awd_abstract_narration": "This Computational and Data-Enabled Science and Engineering (CDS&E) collaborative research project will contribute to the progress of science and the advancement of national prosperity by developing a framework for the inverse design and fabrication of multiphase composite materials with tailored mechanical properties. Despite recent advances in the deployment of machine learning techniques to materials science, the creation of materials with desired mechanical properties in multiple loading directions remains a significant challenge. This research plans a new data-driven framework to understand the relationship between material architecture and mechanical behavior, facilitating the design of nonlinear materials for a wide range of applications such as lightweight structures, shock absorbers, and aerospace components. This research will be integrated with educational and outreach programs aimed at attracting underrepresented groups to engineering and improving undergraduate and graduate learning in data-driven science and engineering. High school students and the public will be introduced to data-driven material design and applications in collaboration with a local museum and science center.\r\n\r\nThis collaborative research will create and test a new physics-informed deep learning (PIDL) framework to tailor the multidirectional or multi-objective mechanical properties of exotic composite materials. It will utilize the principles of PIDL to build a data-efficient and physically interpretable surrogate model of structure-property relationships for multiphase composite materials. This research will formulate constitutive equations for constituents in voxel-based composite materials and incorporate them into a forward physics-informed convolutional neural network model. A novel multi-objective inverse physics-informed conditional diffusion model will be developed to reveal the property-structure correlation between a multiphase composite material\u2019s bulk mechanical properties and its architecture, combining macroscopic and microscopic data to enhance model accuracy and robustness. Finally, the designed materials will be additively manufactured and tested, with validation through advanced additive manufacturing, X-ray imaging, and multiaxial testing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yanyu",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanyu Chen",
+   "pi_email_addr": "yanyu.chen@fsu.edu",
+   "nsf_id": "000827588",
+   "pi_start_date": "2025-05-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "TALLAHASSEE, FL 323060001",
+  "perf_city_name": "TALLAHASSEE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323064166",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808400",
+   "pgm_ele_name": "CDS&E"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "024E",
+   "pgm_ref_txt": "MATERIALS DESIGN"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 200453.0
+  }
+ ],
+ "por": null
+}

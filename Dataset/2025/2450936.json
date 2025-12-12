@@ -1,0 +1,102 @@
+{
+ "awd_id": "2450936",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Medium: Securing LLMs against Prompt Injection Attacks",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Large Language Models (LLMs) are increasingly deployed as the backbone of real-world applications such as Google Search with AI Overviews and Microsoft Bing Copilot. When data and code are not properly separated within an application, the latter (including AI applications) is vulnerable to cyber-attacks. This project's novelties are twofold: (1) conducting a systematic study to deepen the understanding of such threats, and (2) developing new defenses to mitigate such attacks. Its broader significance and importance lie in establishing foundational security principles for the rapidly growing ecosystem of AI applications, which are now widely deployed across diverse societal domains. Moreover, the released code and materials produced by this project will not only help secure real-world LLM-integrated applications but also serve as valuable educational resources for undergraduate and graduate courses, fostering the next generation of researchers and practitioners in this emerging security area.\r\n\r\nSecurity history shows that when data and instructions are not properly separated within a system, injection attacks can emerge\u2014for example, SQL injection attacks in traditional software. Similarly, due to the lack of a clear boundary between instructions and data in prompts, LLM-integrated applications are inherently vulnerable to prompt injection attacks. To understand and mitigate such threats this project adopts a holistic approach comprising three interconnected research thrusts to systematically investigate the security vulnerabilities of LLM-integrated applications to prompt injection attacks and to develop new methods to prevent, detect, and attribute such attacks. The project will also open-source a platform that integrates our developed algorithms along with a comprehensive tutorial on prompt injection attacks and defenses.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dawn",
+   "pi_last_name": "Song",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dawn Song",
+   "pi_email_addr": "dawnsong@cs.berkeley.edu",
+   "nsf_id": "000079467",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

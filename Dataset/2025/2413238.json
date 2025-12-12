@@ -1,0 +1,98 @@
+{
+ "awd_id": "2413238",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Variational Quantum Technology for Seamless Transition Between Grid-Following and Grid-Forming Controls for Inverter-Based Resources",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 275000.0,
+ "awd_amount": 275000.0,
+ "awd_min_amd_letter_date": "2024-12-18",
+ "awd_max_amd_letter_date": "2024-12-18",
+ "awd_abstract_narration": "This NSF project aims to enable faster and more efficient computational methods in renewable-integrated power systems using quantum computing. The project will bring transformative changes in optimizing the efficiency, reliability, and resilience of renewable energy systems, leading to better energy management, increased integration of renewable sources, and a reduced carbon footprint. This will be achieved by designing variational quantum algorithms that address complex computational challenges, particularly leveraging the capabilities of the Noisy Intermediate-Scale Quantum (NISQ) regime. The intellectual merits of the project include developing a systematic quantum computing framework tailored for the energy sector and paving the way for more autonomous and self-sufficient energy systems. The broader impacts of the project include demonstrating the practical benefits of quantum technology for solving real-world challenges and equipping the power industry to transition into advanced system analysis in the quantum era. Students will be trained in these emerging technologies with applications to the power and energy industry.\r\n\r\nThis project aims to develop quantum technology to enable a seamless transition between grid-following and grid-forming controls for inverter-based resources (IBRs). It will address critical operational tasks, including intentional partitioning, islanded operation, and subsequent restoration and resynchronization, which pose significant real-time challenges due to the system\u2019s intrinsic complexity, nonconvexity, high computational demands, increased dimensionality, and operational unpredictability. Specifically, the project will (1) develop a quantum approximate optimization algorithm, incorporating insights from the renewable energy domain, to address the non-convexity and complexity of optimally partitioning interconnected microgrids under heterogeneous disturbances and IBR operations; (2) design a variational quantum eigen-solver approach for effective coordination of IBR controllers using approximate dynamic programming and reinforcement learning techniques to enhance dynamic resilience; and (3) develop a bottom-up approach for power restoration by utilizing dispatchable IBRs and designing a quantum-augmented algorithm to achieve seamless synchronization across microgrids. It is anticipated that these outcomes will strengthen the resilience of both islanded and connected microgrids, demonstrate practical quantum computing applications, and pave the way for real-world deployment of quantum technologies in next-generation power grids.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ganesh",
+   "pi_last_name": "Venayagamoorthy",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ganesh K Venayagamoorthy",
+   "pi_email_addr": "gkumar@ieee.org",
+   "nsf_id": "000492539",
+   "pi_start_date": "2024-12-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Clemson University",
+  "inst_street_address": "201 SIKES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEMSON",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8646562424",
+  "inst_zip_code": "296340001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "SC03",
+  "org_lgl_bus_name": "CLEMSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2BMNX7DSKU8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Clemson University",
+  "perf_str_addr": "201 SIKES HALL",
+  "perf_city_name": "CLEMSON",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "296340001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "SC03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 275000.0
+  }
+ ],
+ "por": null
+}

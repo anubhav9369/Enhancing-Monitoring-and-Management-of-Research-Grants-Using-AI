@@ -1,0 +1,110 @@
+{
+ "awd_id": "2453320",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Developing an Implicit Adlayer Model for Studying Catalytic Reactions at High Surface Coverage in Density Functional Theory",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032928441",
+ "po_email": "kmoloy@nsf.gov",
+ "po_sign_block_name": "Kenneth Moloy",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 288120.0,
+ "awd_amount": 288120.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "With the support of the Chemical Catalysis program in the Division of Chemistry, Professor Hibbitts of Purdue University and Professor Plaisance of Louisiana State University are developing new computational models to study how chemical reactions on catalyst surfaces are influenced by the presence of other species on the surface. Reactions on solid catalysts occur on surfaces that range from being nearly empty to very crowded, depending on the reaction conditions such as temperature and pressure. Adsorbed species on crowded surfaces form a layer that can influence reaction rates, thus impacting the reactivity, selectivity, and stability of a catalyst. Currently, theoretical methods to interrogate the effects of these layers are cumbersome and time consuming, and the federal funds provided through this project will establish new models that will greatly facilitate including these layer effects. This model will describe the layer using an \u201cimplicit\u201d model whereby it is treated in a continuum approach rather than through a more complex and costly \u201cexplicit\u201d model that treats the layer using more expensive quantum chemical methods. This project will further our fundamental understanding and ability to control catalytic reactions, which is key to chemical transformations in all industries. In addition to these research impacts, educational research opportunities will be extended to high school and undergraduate students through merit-based outreach programs at both Purdue and LSU that train students in theoretical chemistry methods. \r\n\r\nWith the support of the Chemical Catalysis program in the Division of Chemistry, Professor Hibbitts of Purdue University and Professor Plaisance of Louisiana State University are developing an implicit model to study the effects of adlayers on heterogeneous catalyst surfaces within density functional theory (DFT) calculations. Catalyzed reactions often occur on crowded surfaces, particularly at high pressures or in condensed phases. These adlayers behave similarly to a two-dimensional liquid in which the interactions with co-adsorbed intermediates and transition states are analogous to interactions between solutes and the surrounding solvent in liquid-phase reactions. Quantum chemical methods like DFT have long modeled solvent effects using two strategies: explicit models where the solvent molecules are treated at the same quantum chemical level as the solute, and implicit models in which the solvent is represented as a continuum field. Here, we will develop a novel implicit adlayer model that will account for (1) the influence of the adlayer on the binding properties of the catalyst surface, (2) the interaction of intermediates and transition states with the surrounding adlayer, and (3) thermodynamic effects associated with the displacement of the adlayer from the catalyst surface by such intermediates and transition states. These models will be parameterized by DFT calculations of co-adsorbate effects on both single-crystal and nanoparticle catalyst surfaces. Four catalytic reactions, previously studied using explicit adlayer models, will be re-examined using the implicit adlayer models to check for their accuracy: alkane hydrogenolysis on H-covered surfaces, CO hydrogenation on CO-covered surfaces, methane activation on O-covered surfaces, and hydrodechlorination on Cl-covered surfaces. These reactions are relevant to many traditional and emergent catalyst applications and are chosen as each adlayer offers unique challenges to be overcome. This project will further our understanding of how adlayers influence catalytic reactions and develop an implicit adlayer model that will enable researchers to rapidly establish these effects using a tunable approach.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Craig",
+   "pi_last_name": "Plaisance",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Craig Plaisance",
+   "pi_email_addr": "plaisance@lsu.edu",
+   "nsf_id": "000811021",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Louisiana State University",
+  "inst_street_address": "202 HIMES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "BATON ROUGE",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "2255782760",
+  "inst_zip_code": "708030001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "LA06",
+  "org_lgl_bus_name": "LOUISIANA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ECQEYCHRNKJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Louisiana State University",
+  "perf_str_addr": "202 HIMES HALL",
+  "perf_city_name": "BATON ROUGE",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "708030001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "LA06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "688400",
+   "pgm_ele_name": "Chemical Catalysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 288120.0
+  }
+ ],
+ "por": null
+}

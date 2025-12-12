@@ -1,0 +1,102 @@
+{
+ "awd_id": "2524951",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Development of a high-performance dissolved oxygen sensor for implementation on 6000 m Deep Argo floats",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032927577",
+ "po_email": "kbinkley@nsf.gov",
+ "po_sign_block_name": "Kandace Binkley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1203412.0,
+ "awd_amount": 1203412.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "The global ocean oxygen inventory (total amount of oxygen stored within the entire ocean volume) has declined by over two percent over the past six decades. Although changes in the dissolved oxygen inventory appear small, they have profound and long-lasting impacts on marine organism resilience. Ocean deoxygenation has altered the viability of marine ecosystems. The ability to sustain healthy marine life and ecosystems is dependent on species-specific vulnerability to deoxygenation. The sampling density in the deep ocean (below 2000m) is significantly lower than in the upper ocean, and this presents a major obstacle to accurately monitoring dissolved oxygen fluctuations in these depths. The dearth in global ocean oxygen makes it difficult to accurately understand and predict ocean deoxygenation. Increased dissolved oxygen sampling, particularly in the deep ocean, would be instrumental in providing much needed data for assimilation into numerical models, improving model predictions, and advancing our understanding of the mechanisms affecting oceanic dissolved oxygen variability. This award will fund the development of a new dissolved oxygen sensor for integration on Deep Argo floats, with multiple benefits. The new sensor will simplify usage and improve the quality and scientific value of dissolved oxygen measurements collected in the deep ocean. This technology will help to resolve top-to-bottom regional to global ocean oxygen fluctuations at subseasonal-to-decadal time scales. The investigators will also test the capacity of machine learning algorithms to predict the vertical distribution of ocean carbon in the deep ocean using temperature, salinity and oxygen measurements. This project will support a collaboration between academia, and a US based commercial company who develops and sells oceanographic sensors and instrumentation. The team will work with teachers from NSF\u2019s Science Teacher and Researcher (STAR) program at local charter schools to integrate an Argo-based class in their physics course. STAR directly addresses the science, technology, engineering, and math (STEM) teacher recruitment and retention crisis by creating a dual \u201cteacher-researcher\u201d role, immersing teachers in cutting-edge research environments.\r\n\r\nThe Deep Argo Program is the deep component of the OneArgo design to extend Argo float sampling to the sea floor. While the main objectives of Deep Argo are to reduce errors in global decadal trends of deep-ocean heat content and thermal expansion, a new application under evaluation is to address ocean deoxygenation over the full-ocean depth using Deep Argo floats. All Deep Argo dissolved oxygen sensors, including operational and prototype models, have similar performance, but none of them reach the <1 \u00b5mol/kg accuracy level needed to resolve the structure and variability of deep-ocean oxygen ventilation and overturning circulation. The aim of this project is to increase the accuracy of the Deep Oxygen sensor prototype to \u22641 \u00b5mol/kg and advance stability and precision to \u22640.25 \u00b5mol/kg per 100,000 samples and \u2264\u00b10.1 \u00b5mol/kg values compatible with the accuracy objective. Deep Argo temperature and salinity profiles combined with dissolved oxygen measurements, would transform our understanding of the characteristics and history of water masses, and leading physical and biological mechanisms driving fluctuations of oxygen distribution. The use of temperature, salinity, and oxygen data collected from Deep Argo floats in neural network methodologies would provide a new means to investigate carbon dioxide uptake from the atmosphere, penetration into the deep ocean, and spatio-temporal evolution of carbon pathways and storage in the ocean reservoir.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nathalie",
+   "pi_last_name": "Zilberman",
+   "pi_mid_init": "V",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nathalie V Zilberman",
+   "pi_email_addr": "nzilberman@ucsd.edu",
+   "nsf_id": "000678078",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "inst_street_address": "8622 DISCOVERY WAY # 116",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585341293",
+  "inst_zip_code": "920931500",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+  "org_prnt_uei_num": "QJ8HMDK7MRM3",
+  "org_uei_num": "QJ8HMDK7MRM3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "perf_str_addr": "8622 DISCOVERY WAY # 116",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920931500",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "168000",
+   "pgm_ele_name": "OCEAN TECH & INTERDISC COORDIN"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1382",
+   "pgm_ref_txt": "OCEAN ACIDIFICATION"
+  },
+  {
+   "pgm_ref_code": "1389",
+   "pgm_ref_txt": "CARBON CYCLE RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1203412.0
+  }
+ ],
+ "por": null
+}

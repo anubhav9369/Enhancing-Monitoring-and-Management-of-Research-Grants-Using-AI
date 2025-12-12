@@ -1,0 +1,110 @@
+{
+ "awd_id": "2511507",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "A Foundational Model for Extragalactic Spectroscopy: Combining Transformer-Based Deep Learning and Citizen Science",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032927203",
+ "po_email": "sschuler@nsf.gov",
+ "po_sign_block_name": "Simon Schuler",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 394869.0,
+ "awd_amount": 394869.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "Spectroscopic observations of galaxies contain critical information about their physical properties, and modern large spectroscopic surveys of galaxies are producing a plethora of data. Given the size of these datasets, traditional data analysis methods are prohibitively time consuming. The Principal Investigator (PI) will develop an artificial intelligence (AI) model called Spectroscopy Pre-trained Transformer (SpecPT) that will make use of recent advances in machine learning (ML) architectures, along with citizen science measurements, to create a general analysis package for extragalactic astronomy. The key feature of the model will be its ability to generalize across diverse spectroscopic datasets, providing rapid, accurate measurements of redshift and other physical properties of galaxies and enabling new insights into galaxy evolution. Measurements from the Redshift Wrangler citizen science project, which allows the general public to participate in measuring redshifts from extragalactic spectra, will be used as a major component of the training set for the model. The project will involve undergraduate and graduate students in the research.\r\n\r\nSpecPT is a foundational model that has been preliminarily trained using the Early Data Release (EDR) of the Dark Energy Spectroscopic Instrument (DESI), with early results showing the model can measure redshifts directly from spectroscopy with a high level of accuracy and low outlier fraction. The PI will extend SpecPT training to include the DESI EDR+DR1 dataset of over 7 million galaxies to improve the precision and accuracy of redshift measurements and use existing line fluxes to train SpecPT to measure properties of the galaxies\u2019 interstellar medium, find active galactic nuclei, and identify outliers. She will then use transfer learning to extend SpecPT to existing ground-based spectroscopy for fainter and higher redshift galaxies, using existing redshifts and line flux measurements plus citizen science measurements to expand the training set. She will also use citizen science measurements to fine-tune an object detection algorithm to find emission lines in the spectra and integrate an interpretability mechanism into the model. The end product will be a modern, AI-powered generalized cloud-based spectroscopic analysis package that can be used by any astronomer to analyze any extragalactic spectroscopic dataset.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jeyhan",
+   "pi_last_name": "Kartaltepe",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeyhan S Kartaltepe",
+   "pi_email_addr": "jeyhan@astro.rit.edu",
+   "nsf_id": "000513961",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rochester Institute of Tech",
+  "inst_street_address": "1 LOMB MEMORIAL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5854757987",
+  "inst_zip_code": "146235603",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J6TWTRKC1X14"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rochester Institute of Tech",
+  "perf_str_addr": "1 LOMB MEMORIAL DR",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146235603",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  },
+  {
+   "pgm_ref_code": "043Z",
+   "pgm_ref_txt": "PPSR- Public Participation in Scientific"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 394869.0
+  }
+ ],
+ "por": null
+}

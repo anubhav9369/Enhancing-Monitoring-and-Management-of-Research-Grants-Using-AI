@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451460",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: RI: Uncertainty-Aware Visual Representation-Learning via Multicalibration",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 173777.0,
+ "awd_amount": 173777.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Many advanced technologies, from self-driving cars to processing medical images, rely on machine-learning to succeed. Technologies based on deep learning or deep neural networks have proven to be especially effective at learning from vast quantities of data, and yet our theoretical understanding of these tools has lagged behind. As we rely more on neural-network systems in our daily lives, it becomes even more important that we can guarantee their safety and reliability. One failure mode of current systems is that they can be confidently incorrect, and this can cause real-world harm. It would be better if our systems \"know what they don't know\" by maintaining an internal representation of their own uncertainty. In recent years, progress has been made in the mathematical study of \"calibration\" and \"multicalibration,\" which establish a mathematical framework for uncertainty, probability, and fairness in problems having to do with categorical prediction such as classifiers and recommender systems. The goal of this project is to port these ideas into perceptual domains such as image or video processing. This project will result in the creation of new general-purpose neural networks for image-processing based on a new mathematical principle of learning \"calibrated representations\" of images, resulting in general-purpose systems that effectively \"know what they don't know.\" This will enable more robust and reliable image-processing applications across wide sectors of research and technology.\r\n\r\nRepresentation-learning is a challenging area of machine learning (ML) in which the goal is not to solve any particular task, but to learn \u2013 from unlabeled and minimally-structured data \u2013 to form a representation or embedding vector of the data that will turn out to be useful, robust, and generalizeable in a variety of downstream tasks. Recent progress in Self-Supervised Learning (SSL) has produced embedding models that begin to rival task-specific models in areas like vision and language-processing. However, SSL is an area where empirical results have consistently outpaced theoretical understanding, making some SSL models susceptible to surprising failure-modes. The next generation of representation-learning methods must build on the success of current methods while establishing firmer theoretical foundations. This project advances such a foundation in terms of probability and uncertainty quantification. The key idea is to draw on the recent development of \"multicalibration,\" which provides theoretical guarantees for trustworthy and fair classifiers. However, multicalibration in its existing form is only applicable to supervised learning tasks where labels or regression targets are known. First, this project extends multicalibration to weakly-structured but unlabeled data, where it gives rise to a constrained optimization objective. This then naturally leads to a set of self-consistency constraints on the outputs of a representation-learning or embedding model. These self-consistency constraints closely resemble the kinds of heuristic learning objectives that have been empirically successful in SSL. This project therefore aims to design and train embedding models with new self-consistency constraints derived from (multi)calibration. The theoretical contribution will be to place SSL methods on more solid theoretical footing, namely by establishing a connection to probabilistic inference and representations of uncertainty. The practical contribution will be to create and release more trustworthy and robust embedding models to serve as a foundation for general downstream visual tasks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Richard",
+   "pi_last_name": "Lange",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Richard D Lange",
+   "pi_email_addr": "rdlvcs@rit.edu",
+   "nsf_id": "0000A0K12",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rochester Institute of Tech",
+  "inst_street_address": "1 LOMB MEMORIAL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5854757987",
+  "inst_zip_code": "146235603",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J6TWTRKC1X14"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rochester Institute of Tech",
+  "perf_str_addr": "1 LOMB MEMORIAL DR",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146235603",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 173777.0
+  }
+ ],
+ "por": null
+}

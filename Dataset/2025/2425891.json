@@ -1,0 +1,118 @@
+{
+ "awd_id": "2425891",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Medium: Transforming Intrusion Detection Through Automated Cross-Organization Queries",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 599766.0,
+ "awd_amount": 267970.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "The groundswell of available data and computation power to learn from data has produced advanced automation across many domains, but cybersecurity has lagged these trends. Cybersecurity data sharing comes primarily in the form of indicators of compromise (IoCs) that describe patterns or artifacts that have already been classified as associated with malicious activity.  Identifying malicious activity and distilling one or more IoCs from it, however, is often a manual process that is slowed and/or decayed by the siloed viewpoints of different organizations.  This project's broader significance and importance are in pioneering a new approach to organizational data sharing that prioritizes support for targeted queries on the operational states of other organizations to overcome these siloed viewpoints.  This project's novelties are in identifying opportunities for organizations to diagnose events by posing and responding to such queries and in developing technologies to do so, while simultaneously protecting operational privacy for the organizations.\r\n\r\nThe technical core of this project is a new approach to intrusion detection enabled by cross-organization queries, supported by specialized cryptographic protocols to pose queries and receive responses in a way that minimizes collateral leakage.  The project also contributes novel mechanisms to motivate participation in these data exchanges, and to prioritize the partners to which queries should be posed to receive the highest-quality answers.  This project couples these technical advances with engagement with the operational cybersecurity community via the Workshop on Security Operations Center (SOC) Operations and Construction (WOSOC) and with foci on integrating this research into educational efforts at the investigators' institutions and in engaging students in research.  In doing so, the project strives to align its technical vision with the needs of the operational community and to produce students who can effect this vision within it.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Reiter",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Reiter",
+   "pi_email_addr": "michael.reiter@duke.edu",
+   "nsf_id": "000161868",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 267970.0
+  }
+ ],
+ "por": null
+}

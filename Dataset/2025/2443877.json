@@ -1,0 +1,102 @@
+{
+ "awd_id": "2443877",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Trustworthy, Robust, and Efficient Multimodal Framework for Video Analytics.",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 499556.0,
+ "awd_amount": 499556.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Artificial intelligence (AI) technologies are revolutionizing fields such as healthcare, robotics, agriculture, public safety, and many more. However, the increasing reliance on AI also brings concerns about trust, reliability, and real-world conditions that pose significant risks to the long-term value of AI. This project tackles these challenges by developing a human-inspired AI framework that processes data in ways similar to human perception - drawing information from multiple sensory inputs, providing transparent and explainable decisions, performing reliably even with noisy or missing inputs, and operating efficiently with reduced energy use. These innovations will help ensure that AI technologies are safe, and accountable, aligning with national priorities for secure, ethical, and responsible AI development. It will offer hands-on experiences to K\u201312 students, mentoring to undergraduate and graduate students, and developing new college courses on trustworthy machine learning, thereby cultivating a next generation of scientific leaders.\r\n\r\nDespite significant advances in AI, current systems remain limited by key challenges: they are often task-specific, brittle to real-world disruptions, computationally intensive, constrained to single modalities, and lack interpretability. To address these limitations, this project develops a unified multimodal analytics framework centered on three core research goals: interpretability, robustness, and efficiency. First, it introduces a trustworthy spatiotemporal perception model that leverages dynamic semantic graph composition to represent scene entities, their attributes, and interactions across multiple levels of granularity, thereby enhancing transparency and interpretability in decision-making. Second, it proposes a robust multimodal learning architecture that fuses diverse sensory inputs, including visual modalities (RGB, depth, infrared, motion) and non-visual modalities (audio, text), through a collaborative expert-agent architecture combining Sparse Multimodal-aware Experts (SMaE) and a Unified Multi-Agent (UMA) system. This design is specifically engineered to maintain performance under real-world conditions involving noisy or missing data. Third, to reduce the computational and energy demands of AI deployment, the project presents a spectrum-preserving energy minimization approach for token merging, inspired by spectral graph theory, which compresses models while preserving critical information. The effectiveness of these innovations will be demonstrated through applications in unified multimodal understanding tasks such as robotic perception, video analytics (including recognition, captioning, and retrieval), and animal behavior analysis, using a wide range of benchmark datasets and real-world deployment scenarios.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ngan",
+   "pi_last_name": "Le",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ngan H Le",
+   "pi_email_addr": "thile@uark.edu",
+   "nsf_id": "000817081",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arkansas",
+  "inst_street_address": "1125 W MAPLE ST STE 316",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAYETTEVILLE",
+  "inst_state_code": "AR",
+  "inst_state_name": "Arkansas",
+  "inst_phone_num": "4795753845",
+  "inst_zip_code": "727013124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "AR03",
+  "org_lgl_bus_name": "UNIVERSITY OF ARKANSAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MECEHTM8DB17"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arkansas",
+  "perf_str_addr": "1125 W MAPLE ST STE 316",
+  "perf_city_name": "FAYETTEVILLE",
+  "perf_st_code": "AR",
+  "perf_st_name": "Arkansas",
+  "perf_zip_code": "727013124",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "AR03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499556.0
+  }
+ ],
+ "por": null
+}

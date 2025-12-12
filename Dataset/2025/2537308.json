@@ -1,0 +1,110 @@
+{
+ "awd_id": "2537308",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Planning: CROSS: Building a Community aROund Securing the Research Software Supply Chain",
+ "cfda_num": "47.083",
+ "org_code": "01130000",
+ "po_phone": "7032927352",
+ "po_email": "devasius@nsf.gov",
+ "po_sign_block_name": "Dean Evasius",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 105113.0,
+ "awd_amount": 105113.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "The conduct of nearly all modern scientific research depends on software, yet the systems through which research software is developed, shared, and deployed\u2014its supply chain\u2014remain vulnerable to cyber threats. These Research Software Supply Chains (RSSCs) are complex networks of tools, libraries, collaborators, and institutional processes, and they form a critical foundation for the U.S. research enterprise. However, there is no shared understanding of what these supply chains look like or how to protect them. This project will initiate a coordinated planning effort, called CROSS (Community around Securing the Research Software Supply Chain), to bring together researchers, research software engineers, and government stakeholders to identify and mitigate risks to RSSC security. Through community workshops, empirical studies, and a comprehensive review of existing knowledge, this effort will produce a roadmap for securing the RSSC\u2014helping to safeguard the integrity of scientific knowledge, promote national security, and support the development of a resilient research ecosystem. The project will also engage undergraduate students at Purdue and Loyola, supporting workforce development in cybersecurity and research software engineering.\r\n\r\n\r\nThis planning project will develop foundational knowledge to guide future efforts in securing the research software supply chain. The research team will (1) conduct a systematic literature review to synthesize current knowledge into a conceptual model of the RSSC and its security threats; (2) empirically measure the security posture of real-world research software projects and their dependencies, using datasets provided by national laboratory collaborators and applying a range of software and security metrics; and (3) convene workshops with research software engineers and scientific collaborators to capture practitioner insights and build community consensus. The findings will be integrated into a unified system model and threat model, guided by the STAMP (System-Theoretic Accident Model and Process) and TOE (Technology\u2013Organization\u2013Environment) frameworks, and will culminate in a strategic report for the NSF\u2019s Research on Research Security (RoRS) program. This work will support the development of new security interventions and lay the groundwork for future collaborative research to protect the software that underpins scientific innovation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "O/D",
+ "org_dir_long_name": "Office Of The Director",
+ "div_abbr": "CRSP",
+ "org_div_long_name": "Office of the Chief of Research Security Strategy and Policy (CRSP)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Davis",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "James C Davis",
+   "pi_email_addr": "davisjam@purdue.edu",
+   "nsf_id": "000838381",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexandra",
+   "pi_last_name": "Harris-Watson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexandra Harris-Watson",
+   "pi_email_addr": "aharrisw@purdue.edu",
+   "nsf_id": "000840681",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "275Y00",
+   "pgm_ele_name": "Research on Research Security"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 105113.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2450039",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Interdisciplinary Research and Education through the Development of AI-assisted Home Health Monitoring Systems",
+ "cfda_num": "47.076",
+ "org_code": "11040100",
+ "po_phone": "7032922635",
+ "po_email": "mferrara@nsf.gov",
+ "po_sign_block_name": "Mike Ferrara",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 199930.0,
+ "awd_amount": 199930.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-01-14",
+ "awd_abstract_narration": "With support from the Improving Undergraduate STEM Education: Hispanic-Serving Institutions (HSI Program), this Emerging Faculty Research Track project at San Francisco State University (SFSU) aims to enhance STEM education while addressing critical healthcare challenges faced by the aging population in the United States. This project aims to develop the fundamental knowledge necessary for an AI-driven, non-intrusive, real-time health monitoring system. The system will use floor vibration sensing technology to extract information about gait, enabling early detection of physical changes that might not otherwise be immediately noticed. By integrating advanced technologies, the system will deliver continuous, personalized monitoring while protecting the privacy of users. In addition to its technical contributions, the project's intellectual merit is rooted in its commitment to strengthening student engagement through both STEM education and research. By engaging students in cutting-edge research, this project creates an environment where students' skills and experiences are recognized as strengths within their research teams. The multidisciplinary nature of this project offers students the opportunity to collaborate, share ideas, and develop solutions to research challenges.\r\n\r\nThe project will employ advanced machine learning techniques to address fundamental engineering challenges, supported by a robust mathematical foundation. Leveraging floor vibration sensing technologies will facilitate several key project outcomes: a robust, data-driven classification model to detect walking events; a deep learning-based model for gait parameter estimation; and general and personalized walker models for real-time monitoring. These advancements could lead to earlier detection of health declines, reduce hospital stays and readmissions, and improve the overall quality of life for aging populations. Complementing these research objectives, the project will impact STEM education by developing learning modules integrated into engineering and math courses at SFSU, providing students with hands-on experience in interdisciplinary problem-solving. Mentorship and professional development programs embedded in the project will provide key support for participating undergraduate researchers. Dissemination efforts will include academic publications, conference presentations, and outreach events to ensure broad impact. This project is funded by the HSI Program, which aims to enhance undergraduate STEM education, broaden participation in STEM, and increase capacity to implement innovations that improve STEM teaching and learning at HSIs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DUE",
+ "org_div_long_name": "Division Of Undergraduate Education",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhaoshuo",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhaoshuo Jiang",
+   "pi_email_addr": "zsjiang@sfsu.edu",
+   "nsf_id": "000701016",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tao",
+   "pi_last_name": "He",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tao He",
+   "pi_email_addr": "hetao@sfsu.edu",
+   "nsf_id": "000797248",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Zhuwei",
+   "pi_last_name": "Qin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhuwei Qin",
+   "pi_email_addr": "zwqin@sfsu.edu",
+   "nsf_id": "000846986",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Francisco State University",
+  "inst_street_address": "1600 HOLLOWAY AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN FRANCISCO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4153387090",
+  "inst_zip_code": "941321740",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "CA11",
+  "org_lgl_bus_name": "SAN FRANCISCO STATE UNIVERSITY",
+  "org_prnt_uei_num": "JW7YN4NDAHC1",
+  "org_uei_num": "F4SLJ5WF59F6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Francisco State University",
+  "perf_str_addr": "1600 HOLLOWAY AVE",
+  "perf_city_name": "SAN FRANCISCO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "941321740",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "CA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "077Y00",
+   "pgm_ele_name": "HSI-Hispanic Serving Instituti"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8209",
+   "pgm_ref_txt": "Improv Undergrad STEM Ed(IUSE)"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199930.0
+  }
+ ],
+ "por": null
+}

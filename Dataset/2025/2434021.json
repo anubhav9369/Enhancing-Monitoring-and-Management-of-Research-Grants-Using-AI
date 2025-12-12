@@ -1,0 +1,93 @@
+{
+ "awd_id": "2434021",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Unleashing the Power of Spectrum Sharing in Multi-Operator Settings Through Privacy-Preserving Competition and Cooperation",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 380000.0,
+ "awd_amount": 380000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "The overarching goal of this project is to lay out a theoretical foundation for the economics of multi-operator spectrum sharing (SS) over both licensed and unlicensed frequency bands considering market uncertainties. Despite intensive efforts to assign more of the electromagnetic spectrum for mobile broadband, it is now widely believed that the traditional exclusive spectrum assignment approach is too limiting to meet the high demands of next-generation (NextG) wireless networks. SS remains critical at all frequency bands, including sub-6 GHz, millimeter-wave bands, and bands in between (7.125 to 24.25 GHz). To usher a new era of SS of licensed and unlicensed bands between (bilateral) and among (multilateral) wireless operators, new sharing models are needed. At their core, these models should incorporate proper incentivization mechanisms, as profit is ultimately the primary factor that motivates operators to share their spectrum. This project focuses on novel privacy-preserving game theoretic models for SS that are particularly suited for exploitation of the short-term spatiotemporal variations in traffic demands between operators.\r\n\r\nThe research agenda is organized into three thrusts. Thrust A: Non-collaborative SS Between Operators. In this thrust, inter-operator SS is investigated in a non-collaborative setting, where operators view each other competitively and do not wish to reveal private information. Several game-theoretic models, including a repeated double-sided Bayesian spectrum auction game with transferable seller and buyer, an incentivized oligopoly game, and a repeated single-sided spectrum auction game with unknown and private valuation will be analyzed. Thrust B: Collaborative SS between Operators. Collaboration between operators can potentially bring mutual benefits, but it may also harm their interests if not carefully managed. Understanding these complex interactions requires new game theoretic models for both licensed and unlicensed spectrum. The project will explore coalitional game theory to model these interactions. For inter-operator SS on unlicensed bands, the concept of value-of-right will be utilized to characterize the benefit obtained by each operator. Thrust C: Collaborative SS between Heterogeneous Wireless Systems. Cellular operators can lease part of their underutilized licensed bands to other non-cellular systems. To analyze the economic implications of these interactions, the project will study a hierarchical game framework consisting of a multi-leader multi-follower Stackelberg game. \r\n\r\nThe project will have broad technical, societal, industry, and educational impacts. If successful, the project will provide a much-needed understanding of which SS models are economically justifiable and under what conditions. It will drive operators to experiment with SS models deemed appropriate for their systems. The outcomes of the project will be shared with industry through various venues, including industry forums, NSF-funded wireless research centers, and others. The project also involves a comprehensive educational plan to broaden its impact, including research integration into curricula and training of students.\r\n\r\nA website for the project will be created at wireless.ece.arizona.edu, and will be maintained throughout the course of the project. Measurements, datasets, and produced software will be provided to the public on that website.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Marwan",
+   "pi_last_name": "Krunz",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marwan M Krunz",
+   "pi_email_addr": "krunz@arizona.edu",
+   "nsf_id": "000326897",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "1230 E. Speedway Blvd.",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "857210104",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 380000.0
+  }
+ ],
+ "por": null
+}

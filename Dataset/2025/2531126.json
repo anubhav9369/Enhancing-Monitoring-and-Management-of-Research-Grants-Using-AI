@@ -1,0 +1,129 @@
+{
+ "awd_id": "2531126",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Enabling a Safe and Directive Multi-modal Foundation Model Ecosystem for Food Science Research",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 599721.0,
+ "awd_amount": 599721.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Rapid progress in Artificial Intelligence (AI) makes it possible to unify images, text, and sensor readings inside powerful multi-modal large language models (MLLMs). Yet researchers in areas such as food science struggle to identify which open-source models to trust and how to deploy them safely in high-stakes settings such as pathogen detection and nutrient-delivery design. This project establishes a secure, easy-to-use ecosystem that (i) profiles MLLMs on their effectiveness, robustness, efficiency, and security, (ii) recommends the best candidates for a given scientific task, and (iii) embeds automated safeguards so discoveries remain reproducible and trustworthy. By lowering the expertise barrier and hardening model behavior, the work enables scientists, educators, and regulators to harness cutting-edge AI while protecting public health and accelerating innovation.\r\n\r\nThis project advances the reliability and usability of foundational AI models such as MLLMs for the scientific ecosystem by addressing key challenges in model selection, threat discovery and safeguard, as well as food science research applications. It introduces principled methods for profiling and recommendation that encodes both scientific tasks and candidate MLLMs into a shared space and ranks models that best meet domain objectives, enabling rigorous and task-relevant model recommendation. The project also pioneers a novel evolutionary red teaming and guardrail framework to systematically identify and mitigate critical food safety issues in the scientific models' operation. By applying these methods to real-world problems in food science\u2014such as microbial detection from images and micro-nutrient formulation, the project establishes a concrete pathway for AI to support scientific reasoning in high-stakes, data-intensive domains. The resulting frameworks and technologies are broadly applicable, offering reusable methodologies that will benefit a wide range of scientific fields, including agriculture, biomedical discovery, and environmental monitoring, fostering broader participation and more reliable AI-driven breakthroughs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhe",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhe Zhao",
+   "pi_email_addr": "zao@ucdavis.edu",
+   "nsf_id": "0000A0HRS",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Xin",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xin Liu",
+   "pi_email_addr": "liu@cs.ucdavis.edu",
+   "nsf_id": "000289050",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nitin",
+   "pi_last_name": "Nitin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nitin Nitin",
+   "pi_email_addr": "nnitin@ucdavis.edu",
+   "nsf_id": "000542290",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Muhao",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Muhao Chen",
+   "pi_email_addr": "muhchen@ucdavis.edu",
+   "nsf_id": "000840801",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "1850 RESEARCH PARK DR STE 300",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956186153",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599721.0
+  }
+ ],
+ "por": null
+}

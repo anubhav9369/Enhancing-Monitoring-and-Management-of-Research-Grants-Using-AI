@@ -1,0 +1,102 @@
+{
+ "awd_id": "2453936",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Distortion Growth",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924630",
+ "po_email": "winli@nsf.gov",
+ "po_sign_block_name": "Wing Suet Li",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 350000.0,
+ "awd_amount": 350000.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "Understanding the structure of massive collections of objects in terms of pairwise distances among their members is fundamentally important to human activities and interests throughout science, industry, and beyond. Here, the notion of \u201cdistance\u201d is varied and hence highly expressive: It can include familiar settings such as the 3-dimensional world in which we live and the geometry of curved surfaces, and it covers important notions of proximity within, for examples, social networks, collections of proteins or images, the Internet, and many more; such geometries typically reside in high dimensions and seem nonintuitive or strange in comparison to our Euclidean surroundings. A paradigm that has proven to be ubiquitously powerful and useful to a rich variety of pure and applied investigations is embedding a geometric space of interest into a \u201cnicer\u201d space in which one knows how to perform important tasks (e.g., discovering clusters, efficient storage, compression and optimization, and many more). Typically, this goal cannot be achieved without distorting distances, so the pertinent issue is determining the rate of growth of the smallest possible distortion. This is the overarching theme of the project, which is devoted to resolving central issues and longstanding mysteries of the field. For example, it is not even known how much distances must be distorted, in terms of the total number of objects, when one wishes to represent them in the 3-dimesnional space in which we reside. As another example, while famous and very important work in the 1980s and 1990s determined the largest possible rate of growth of the distortion required to embed a finite metric into Euclidean space (without restricting the target dimension as done above), it remains a longstanding conundrum whether this worst-case scenario can occur when the collection that we wish to embed is a subset of a classical space of vectors (e.g. when distances are measured in terms of the sum of powers of the differences of coordinates, or collections of matrices with natural notions of distance such as the so-called nuclear norm, which occurs in settings ranging from pure mathematics to machine learning and signal processing). When the distortion is shown to grow slowly, as it often does (this entails devising a meaningful geometric embedding), the project harnesses it to devise efficient algorithms for a range of scientific tasks. On the flip side, demonstrating that there is no embedding with small distortion entails obtaining insights and devising tools that are useful and interesting in their own right (e.g., meaningful ways to decompose geometries). The project is devoted to addressing specific open questions in the above directions, as well as deriving unforeseen applications and developing overarching methodologies. The project will include a major effort to train and mentor graduate students and early career researchers through the PI\u2019s advising role and his leadership roles in the mathematics research community. \r\n\r\nIt is common in analysis and geometry that solutions to natural questions about representing objects using other simpler objects cannot be done without incurring large errors. For example, Bourgain\u2019s famous embedding theorem states that any finite metric space can be embedded into a Hilbert space with bi-Lipschitz distortion of order the logarithm of the number of points, and subsequent work showed that this cannot be improved. However, if the given metric space is a subset of a classical space such as a Lebesgue space, a Schatten-von Neumann trace class, or a subset of a discrete group such as the Heisenberg group or the lamplighter group, can one say anything about its embeddability properties other than merely that it is a metric space? It also remains a longstanding open question to determine the growth rate of the largest possible distortion that is required to embed a finite metric space of a given size in 3-dimensional Euclidean space. As a final example, suppose that we are given a 1-Lipschitz mapping from a subset of a finite dimensional normed space to a Banach and we wish to extend it to a Lipschitz function that is defined on the entire ambient space and whose Lipschitz constant is as small as possible: How must this Lipschitz constant grow with the dimension? This is open even for Euclidean space. The project studies the above questions, and many more along those lines. When low distortion is possible, it yields structural insights that are impactful elsewhere, including algorithm design; such applications are pursued in this project after embedding theorems are proved. The project also studies impossibility results showing that large distortion must be incurred; this involves developing new geometric structural insights and tools in harmonic analysis, probability, isoperimetry, etc.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Assaf",
+   "pi_last_name": "Naor",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Assaf Naor",
+   "pi_email_addr": "naor@math.princeton.edu",
+   "nsf_id": "000432490",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Princeton University",
+  "perf_str_addr": "1 NASSAU HALL",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085442001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  },
+  {
+   "pgm_ele_code": "797000",
+   "pgm_ele_name": "Combinatorics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 350000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2426658",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: A Machine Intelligence Assessing Motivation, Adapting Challenge, and Fostering Compliance with Cued Therapeutic Activity After Stroke",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927557",
+ "po_email": "amedinab@nsf.gov",
+ "po_sign_block_name": "Alexandra Medina-Borja",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 179053.0,
+ "awd_amount": 179053.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "This project performs research that looks to leverage recent advances in behavioral medicine, computational modeling, and physical medicine and rehabilitation to develop a computable theory of human motivation and behavioral change. It explores its physical realization through an intelligent wearable exercise \"reminder\" system called \"Souvenir\" and an adaptive machine intelligence that optimizes personalized interventions. The system looks to deliver physical and textual smartphone \"nudges\" to motivate therapeutic exercise after a stroke. This work looks to address a significant problem: many stroke survivors habitually refrain from using their hemiparetic limbs despite retaining sufficient ability to move them, a phenomenon known as \"learned non-use\". Learned non-use limits a person's ability to perform activities essential for independent living. The project will conduct fundamental research needed to develop an explainable machine intelligence capable of assessing patient motivation in real time, adapting the challenge level of therapeutic activities based on those assessments and the patient's current ability, and cueing activities in an unobtrusive manner. By leveraging the behavioral science of motivation to increase compliance with prescribed exercise, the project looks to advance the mission of the National Science Foundation by promoting scientific progress and enhancing national health, prosperity, and welfare. The project also includes public outreach and educational activities designed to promote science literacy among students and the general public.\r\n\r\nThe current state-of-the-art treatment for addressing learned non-use after stroke is a two-week intensive intervention known as constraint-induced movement therapy, designed to engage a virtuous cycle of functional recovery. While this approach can lead to clinically meaningful improvements in paretic arm function that may persist for up to two years, most clinicians do not adopt it due to its high demands on time and lack of specialized training. A low-cost, low-burden alternative is urgently needed, one that both clinicians and patients will actually use. This project looks to advance the goals of the M3X program by conducting fundamental research in embodied reasoning (patient modeling and state estimation) as mediated by bidirectional sensorimotor interactions. This involves motion monitoring and the exchange of physical and textual cues between a human patient and a synthetic actor (Souvenir). The project will follow a user-centric design approach, iterating through computational modeling, software engineering, user focus groups, pilot testing, and assessment to develop and refine an explainable machine intelligence. This system seeks to assess patient motivation in real time and adapt the challenge level of therapeutic activities based on those assessments and the patient's current ability. The project concludes with a feasibility demonstration through human subject experiments, testing how an intelligent machine can influence individual human behaviors to optimize sensorimotor performance and recovery after stroke.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Scheidt",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robert A Scheidt",
+   "pi_email_addr": "Robert.Scheidt@marquette.edu",
+   "nsf_id": "000338800",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kimberly",
+   "pi_last_name": "Bassindale",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kimberly D Bassindale",
+   "pi_email_addr": "kimberly.bassindale@marquette.edu",
+   "nsf_id": "0000A020K",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Marquette University",
+  "inst_street_address": "313 N 13TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MILWAUKEE",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "4142887200",
+  "inst_zip_code": "532332244",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "WI04",
+  "org_lgl_bus_name": "MARQUETTE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HKJCKTFJNBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Marquette University",
+  "perf_str_addr": "915 W WISCONSIN AVE RM 175",
+  "perf_city_name": "MILWAUKEE",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "532332310",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "WI04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "058Y00",
+   "pgm_ele_name": "M3X - Mind, Machine, and Motor"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7632",
+   "pgm_ref_txt": "HUMAN-ROBOT INTERACTION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 179053.0
+  }
+ ],
+ "por": null
+}

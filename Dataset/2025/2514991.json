@@ -1,0 +1,98 @@
+{
+ "awd_id": "2514991",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Neutron Beta Decay Measurements for High Sensitivity Tests of the Standard Model of Particle Physics",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032925183",
+ "po_email": "segreene@nsf.gov",
+ "po_sign_block_name": "Senta (Vicki) Greene",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "This award supports contributions to two experiments designed to provide high precision measurements of neutron decay: Nab, at the Spallation Neutron Source in Oak Ridge, Tennessee, and UCN\u03c4+ at the Los Alamos Neutron Science Center.  These measurements should define the most precise characterization to date of the weak nuclear force, one of the four fundamental forces. This force causes neutron decay, which can be used in sensitive searches for new interactions or particles. The Nab experiment relies on two state-of-the-art silicon detectors to detect neutron decay products (protons and electrons). The NCSU group will continue their work characterizing the electron response and analysis of the wave-form data from these detectors, concentrating on event reconstruction using detailed detector models together with algorithms developed using recent data.  The UCN\u03c4+ experiment is designed to store and count ultracold neutrons in a magnetic trap to determine the neutron lifetime. The NCSU group will contribute to an improved understanding of experimental effects associated with ultracold neutron energy spectra and neutron transport, as well as the analysis of lifetime data.  The broader impact of this work stems from the impact the experimental data has on particle physics and astrophysics, and the training we provide for undergraduates, graduate students and postdoctoral research associates.\r\n\r\nFor the Nab experiment, a wave-form model was developed during the previous funding period, together with a procedure to determine the impurity density profile for the Nab silicon detectors.  A waveform template library is now being developed which can be applied to noisy experimental data to permit efficient event topology reconstruction.  A specific target of interest for the Nab collaboration will be to explore machine-learning algorithms for the event reconstruction process.  This effort will be coupled with our on-going effort to provide high precision calibration of the electron response function and bremsstrahlung losses for the Nab detectors.  For UCN\u03c4+, our group has established simulations of a new \u201celevator\u201d adiabatic loading system and multiple instruments to determine the impact of variations in the loaded ultracold neutron spectrum to the trapped populations used to measure the lifetime.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Albert",
+   "pi_last_name": "Young",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Albert R Young",
+   "pi_email_addr": "aryoung@ncsu.edu",
+   "nsf_id": "000413874",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "123400",
+   "pgm_ele_name": "NUCLEAR PRECISION MEASUREMENTS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1289",
+   "pgm_ref_txt": "PRECISION MEASUREMENTS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

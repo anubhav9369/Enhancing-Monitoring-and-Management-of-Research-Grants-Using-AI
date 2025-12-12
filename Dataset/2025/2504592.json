@@ -1,0 +1,98 @@
+{
+ "awd_id": "2504592",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: OAC: Core: Cross-layered Data Management to Reduce Data Movement in HPC Workflows",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "This project addresses the growing challenge of data movement in high-performance computing systems with diverse processors, memory, storage, and networks. These systems are critical for national-scale efforts in drug discovery, materials science, energy research, and large-scale artificial intelligence and machine learning. Applications such as molecular dynamics, graph neural networks, and particle-in-cell simulations generate large data volumes that must be moved efficiently. Data transfers often limit performance rather than computation. This project develops tools to reduce data movement time and energy, improving throughput, efficiency, and scientific productivity. It empowers researchers and developers to scale workflows on complex HPC systems while fostering collaboration among academia, industry, and national laboratories to transition ideas into practical solutions for exascale platforms. The project also advances national interests by enabling scalable AI and simulation workflows and engaging students in systems research for next-generation infrastructure.   \r\n\r\nThe project develops a unified framework to reduce data movement overheads in heterogeneous high-performance computing systems. It integrates three core components: a cross-layer monitoring and learning framework that characterizes data transfer patterns and predicts contention; a heterogeneity-aware data movement scheduler that coordinates bandwidth usage across computation, memory, storage, and interconnect resources; and a collaborative caching and prefetching architecture that anticipates future data needs across workflows. The framework treats data movement as a first-class task, parallel to computation, and uses analytical and machine learning techniques to reduce interference and improve overall throughput. The research is validated through representative workloads on petascale and exascale systems, including simulations and machine learning pipelines. Results will provide generalizable strategies for optimizing data movement in next-generation scientific computing environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Manish",
+   "pi_last_name": "Parashar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Manish Parashar",
+   "pi_email_addr": "manish.parashar@utah.edu",
+   "nsf_id": "000148826",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "772600",
+   "pgm_ele_name": "Data Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

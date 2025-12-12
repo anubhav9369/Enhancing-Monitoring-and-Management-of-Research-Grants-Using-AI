@@ -1,0 +1,102 @@
+{
+ "awd_id": "2516523",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: EAGER: Loss and dispersion management for photonic integrated circuit two photon (PIC-2P) microscopy",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927014",
+ "po_email": "szehnder@nsf.gov",
+ "po_sign_block_name": "Steve Zehnder",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 174112.0,
+ "awd_amount": 174112.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Imaging cells deep within living things is challenging because light is scattered as it travels through tissues. Two-photon (2P) microscopy is a technique that uses longer wavelengths which are less prone to scattering to allow for deeper penetration into the tissue while maintaining the ability to visualize single cells. However, the depth of penetration is limited.  This project uses an ultra-compact chip-scale device based on optical nanostructures to overcome the depth limits of 2P microscopy. This technology could enable tissue imaging at faster speeds over larger volumes using a chip-scale microscope. This technology will enable new observations of cell behavior to improve our fundamental understanding of biology, leading to improved diagnostics and therapeutics.\r\n\r\nThis project focuses on the development of photonic-integrated-circuit two-photon microscopy (PIC-2P), whereby light is delivered from a minimally-invasive nanophotonic chip with cellular-scale thickness (<50 \u00b5m). This technique overcomes the fundamental imaging depth of 2P imaging by delivering light orthogonally with respect to the image collection, obviating the effects of scattering and absorption from superficial layers, and leading to a signal-to-background (SBR) many orders of magnitude higher than traditional 2P imaging. This project aims to demonstrate feasibility of PIC-2P imaging in scattering and absorbing specimens and to characterize the anticipated imaging depth improvements. The team combines expertise in nanophotonic devices and multiphoton label-free tissue microscopy. Goal 1 develops a low-loss, packaged biocompatible fiber-to-chip coupler that can efficiently deliver multiphoton pulses to the PIC using co-design of micro-optics and a PIC coupler. Goal 2 develops a dispersion-compensated, low-loss PIC-2P waveguide platform for 2P pulsed light delivery through fundamental investigations of dispersion and power handling properties of dispersion-engineered waveguide systems. Dispersion management techniques based on waveguide and cladding cross-section optimization and transverse and longitudinal nanostructuring of the waveguide will be used to tune the dispersion throughout the system. Goal 3 integrates the PIC with a free-space 2P microscope to characterize the image depth improvements of PIC-2P vs 2P imaging in phantoms with varying physiologically relevant scattering and absorption properties.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aseema",
+   "pi_last_name": "Mohanty",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aseema Mohanty",
+   "pi_email_addr": "aseema.mohanty@tufts.edu",
+   "nsf_id": "000835131",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tufts University",
+  "inst_street_address": "80 GEORGE ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MEDFORD",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6176273696",
+  "inst_zip_code": "021555519",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "TRUSTEES OF TUFTS COLLEGE",
+  "org_prnt_uei_num": "WL9FLBRVPJJ7",
+  "org_uei_num": "WL9FLBRVPJJ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tufts University",
+  "perf_str_addr": "169 HOLLAND ST",
+  "perf_city_name": "SOMERVILLE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021442401",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "723600",
+   "pgm_ele_name": "BioP-Biophotonics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7236",
+   "pgm_ref_txt": "BIOPHOTONICS, IMAGING &SENSING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174112.0
+  }
+ ],
+ "por": null
+}

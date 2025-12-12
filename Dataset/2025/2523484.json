@@ -1,0 +1,114 @@
+{
+ "awd_id": "2523484",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Planning: FIRE-PLAN: Advancing Wildland Fire Analytics for Actuarial Applications and Beyond",
+ "cfda_num": "47.041, 47.049, 47.070, 47.074, 47.075",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 129949.0,
+ "awd_amount": 102687.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2025-02-13",
+ "awd_abstract_narration": "The impacts of uncontrolled wildland fires range from the destruction of native vegetation to property damages to long-term health effects and losses of human lives. Increasing accuracy in projections of wildland fire activity, fire behavior, and wildland fire weather is the key toward developing more efficient fire control strategies and reducing the risks of wildfires. Recent studies have demonstrated that the tools of artificial intelligence (AI) can help in planning for upcoming prescribed burns by providing higher spatial and temporal fire weather forecasts and can also assist in developing more efficient strategies for wildfire risk mitigation. However, the modeling tools that are currently used to predict fire activity are largely subject to a number of temporal or spatial constraints. For instance, most deep learning (DL) approaches for wildfire risk analytics tend to be restricted in their capabilities to systematically capture the multidimensional information recorded at disparate spatio-temporal resolutions. Furthermore, such DL architectures are inherently static and do not explicitly account for complex dynamic phenomena, which is often the key behind the accurate assessment of wildfire driving factors. Finally, these models primarily rely on supervised learning approaches where a large number of task-specific labels (e.g., fire or no fire) are needed. To address these challenges in wildfire risk analytics, this project will leverage inherently interdisciplinary approaches at the interface of Earth system sciences, DL, computational topology, statistics, and actuarial sciences. \r\n\r\nThe project aims to introduce the concepts of topological data analysis (TDA) to wildfire predictive modeling, coupling them with such emerging AI machinery as time-aware graph neural networks. The resulting new methods are expected to better capture the shape patterns in the wildland fire processes with respect both to time and space and to assist in a more reliable statistical assessment of wildfire risks. The new high-fidelity predictive approaches will have the potential to deliver forecasts of fire behavior, fire activity, and fire weather at multiple spatial and temporal scales under scenarios of limited, noisy, or nonexistent labeled information. To enhance the utility of the research solutions in wildfire analytics, the researchers in this project will work in close collaboration with stakeholders, particularly, focusing on the insurance sector. The project will provide multiple interdisciplinary training opportunities at the nexus of wildfire sciences, AI, and mathematical sciences at all educational levels, from undergraduate students to practicing actuaries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuzhou",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuzhou Chen",
+   "pi_email_addr": "yuzhou.chen@ucr.edu",
+   "nsf_id": "000919067",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Riverside",
+  "inst_street_address": "200 UNIVERSTY OFC BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "RIVERSIDE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9518275535",
+  "inst_zip_code": "92521",
+  "inst_country_name": "United States",
+  "cong_dist_code": "39",
+  "st_cong_dist_code": "CA39",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MR5QC5FCAVH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Riverside",
+  "perf_str_addr": "200 UNIVERSTY OFC BUILDING",
+  "perf_city_name": "RIVERSIDE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "925210001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "39",
+  "perf_st_cong_dist": "CA39",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  },
+  {
+   "pgm_ele_code": "141Y00",
+   "pgm_ele_name": "Human-Envi & Geographical Scis"
+  },
+  {
+   "pgm_ele_code": "163800",
+   "pgm_ele_name": "HDBE-Humans, Disasters, and th"
+  },
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  },
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 102683.0
+  }
+ ],
+ "por": null
+}

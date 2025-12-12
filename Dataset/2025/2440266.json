@@ -1,0 +1,110 @@
+{
+ "awd_id": "2440266",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Foundations of Interactive Machine Learning with Rich Feedback",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 477128.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Distinct from conventional learning paradigms, interactive machine learning captures many real-world settings where learning agents adaptively acquire information and learn to make decisions or gain insights. This paradigm is beneficial in domains where experiments are expensive (e.g., biological imaging and material discovery), as well as in human-safeguarded artificial intelligence (AI) systems (e.g., autonomous driving and chatbots). Despite impressive successes, many critical challenges remain in deploying responsible and resource-efficient interactive learning agents, including a lack of data efficiency, safety, and reusability. The overarching goal of this project is to design principled and practical interactive machine learning algorithms with various feedback modalities that address these challenges, focusing on both single-step and sequential decision-making settings. To this end, the research team will establish theoretical guarantees for the algorithms and release their practical implementations. Integrated with this research project is an education plan that includes an intramural lecture series with the University of Arizona DataLab, a middle school outreach event series in collaboration with the University of Arizona Computer Science Ambassadors Program, as well as undergraduate research projects and curriculum development.\r\n\r\nThe project consists of three interrelated research thrusts. The first thrust studies interactive learning for supervised learning, a single-step decision-making setting. Specifically, the project will focus on designing label-efficient active learning algorithms for nonlinear model classes, including moderately parameterized classes and overparameterized neural networks. The second thrust explores interactive learning for sequential decision-making. It focuses on safe imitation learning from interactive expert demonstrations and interventions, as well as robust reward inference from expert demonstrations. The third thrust aims to address the data reusability challenge in current interactive learning systems by bridging interactive learning and conventional offline learning. Specifically, this thrust will tackle two research questions: first, how to warm-start interactive learners using offline data, and second, how to design interactive learners that collect data amenable to future reuse.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chicheng",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chicheng Zhang",
+   "pi_email_addr": "chichengz@cs.arizona.edu",
+   "nsf_id": "000812113",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "1040 4th St",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "857210001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 477128.0
+  }
+ ],
+ "por": null
+}

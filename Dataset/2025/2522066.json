@@ -1,0 +1,110 @@
+{
+ "awd_id": "2522066",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Investigating the role of perceptual uncertainty in behavioral error",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032924886",
+ "po_email": "sfischer@nsf.gov",
+ "po_sign_block_name": "Simon Fischer-Baum",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 259552.0,
+ "awd_amount": 259552.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "Humans can perform complex actions even when based on degraded visual information, as when walking along a path at dusk or reaching for a water bottle that is partly hidden by other objects. A generally accepted explanation is that the brain creates the \u201cbest guess\u201d given the available visual information and this best guess is usually good enough. For example, when you reach for a water bottle multiple times, your hand might fall sometimes short and sometimes overreach in an unpredictable way. On average, however, your hand will land in an appropriate location. Theoretically, when feedback is available \u2014like touching the bottle\u2014this situation is easier to correct than when errors are random and unpredictable. Understanding the computational strategies the brain uses to allow humans to interact with their environment despite degraded visual information could directly inform the design of more robust AI-robotic systems. This has vital implications for national security and public safety, where autonomous systems must operate reliably under poor visibility to detect potentially dangerous objects or agents, or find survivors in enclosed spaces after disasters such as flood or earthquakes.  In addition, this research can translate into development of bio-inspired sensory technologies, such as advanced vision-based prosthetics and contribute to designing living environments for individuals with low vision.\r\n\r\nThis project aims to challenge long-held theoretical assumptions about the role of perceptual uncertainty in behavioral errors and to redefine their theoretical and methodological foundations. The prevailing view, grounded in probabilistic inference, is instantiated in the Maximum a Posteriori (MAP) model of sensory processing. It suggests that both random variability and systematic bias in behavior are due to early-stage uncertainty in sensory estimation arising from inferential ambiguity and neural noise. Despite the presence of sensory uncertainty, the model assumes that sensory estimates are unbiased (on average accurate) and that biases only arise when uncertainty is high due to the default action of Bayesian priors (prior assumptions about visual structure) on early sensory estimates. It proposes that the overarching goal of sensory systems is the reduction of sensory uncertainty\u2013which has the effect of reducing both perceptual variability and bias. The investigators propose an alternative model based on the Intrinsic Constraint (IC) theory, which offers a more parsimonious account of behavioral error. It claims that ambiguity and noise are attenuated early in sensory processing leading to more stable sensory estimates (low uncertainty) but that this attenuation leads to intrinsic systematic biases in the estimates. The project systematically tests the validity of these two theories for a range of visual domains. First, it builds on preliminary results supportive of the IC model in 3D vision by testing more robustly a range of 3D visual cues and refining the methodological approach. It then aims to replicate these findings more generally by applying these methods to other standard domains beyond 3D vision, such as orientation and speed perception.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fulvio",
+   "pi_last_name": "Domini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fulvio Domini",
+   "pi_email_addr": "Fulvio_Domini@Brown.edu",
+   "nsf_id": "000487044",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "725200",
+   "pgm_ele_name": "Perception, Action & Cognition"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  },
+  {
+   "pgm_ref_code": "158Z",
+   "pgm_ref_txt": "Translational Research"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 259552.0
+  }
+ ],
+ "por": null
+}

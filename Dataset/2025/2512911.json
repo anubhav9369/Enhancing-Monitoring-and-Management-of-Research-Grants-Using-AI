@@ -1,0 +1,126 @@
+{
+ "awd_id": "2512911",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Convergence of Optics and Radio Frequency in Large-Scale Integrated Air-Ground-Underwater Networks: Theoretical Framework and Experimental Validations",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 525000.0,
+ "awd_amount": 525000.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "As global connectivity becomes central to several critical societal functions ranging from disaster relief and climate monitoring to defense and underwater exploration, today\u2019s wireless infrastructure must evolve beyond isolated domains. Specifically, traditional wireless networks, confined to a specific terrestrial, aerial, or underwater environment, fall short in supporting coordinated and resilient operations across these heterogeneous domains. Addressing this challenge and motivated by the need for a unified high-performance communication architecture that spans land, air, and sea/ocean, this project aims to lay the foundation for an integrated network that leverages optical, radio-frequency (RF), and acoustic wireless technologies to connect aerial nodes (e.g., drones and high-altitude platforms), terrestrial wireless devices (e.g., mobile phones), and underwater nodes (e.g., autonomous underwater vehicles) into a cohesive system, referred to as Integrated Air-Ground-Underwater Network (IAGUN). The hybrid use of optical and RF communication modes (or optical and acoustic communication modes in underwater scenarios) offers complementary advantages, enabling faster, more secure, and more reliable communications than either alone can achieve. The project also features an educational and outreach component that supports interdisciplinary training at the intersection of optical communications, wireless networking, and machine learning. Students will gain hands-on experience in testbed development, simulation, and system-level optimization, contributing to the development of next-generation engineering workforce. Publicly released datasets and benchmarks acquired during the execution of the project will further empower the broader research community to explore and build on the project's results. Ultimately, by advancing the design of hybrid wireless systems and fostering applied research in real-world scenarios, this work aims to push the boundaries of networking technologies while training future engineers and innovators.\r\n\r\nThis research pioneers in addressing the core technical challenge of developing high-performance and resilient communication infrastructures that merge RF, acoustic, and optical wireless technologies within hybrid RF/acoustic/optical IAGUNs. To this end, the project introduces six strategic pillars for enabling convergence in RF/acoustic/optical technologies: (1) modeling and optimizing communication across networks with multiple relays and source-destination pairs, (2) co-usage of RF and optical as well as acoustic communication modes, (3) incorporating link establishment overhead, (4) accounting for heterogeneity and mobility, (5) cross-layer network optimization, and (6) embedding and enabling intelligence across hybrid RF/acoustic/optical IAGUNs using distributed learning. The research is organized into three thrusts. Thrust 1 focuses on optimizing communication performance through novel system model and problem formulations that jointly improve underlying performance metrics of interest (e.g., minimizing end-to-end delay) and network establishment/configuration overhead in hybrid RF/acoustic/optical IAGUNs. These formulations are then solved using advanced optimization techniques, such as mixed-integer programming, non-convex optimization, and reinforcement learning, as well as graph-theoretic approaches that are rooted in network flow optimization. Thrust 2 addresses network resiliency of IAGUNs through redundant transmission strategies, robust optimization under adversarial attacks, and signal- and network-level defense mechanisms. Thrust 3 creates one of the first public datasets and benchmarks for hybrid IAGUNs. The interdisciplinary methods of this project, spanning wireless communications, optics, optimization, graph theory, and machine learning, address open gaps in the existing literature and promise impactful solutions for future intelligent, secure, and ubiquitous wireless networks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Seyyedali",
+   "pi_last_name": "Hosseinalipour",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seyyedali Hosseinalipour",
+   "pi_email_addr": "alipour@buffalo.edu",
+   "nsf_id": "000919555",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nicholas",
+   "pi_last_name": "Mastronarde",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicholas H Mastronarde",
+   "pi_email_addr": "nmastron@buffalo.edu",
+   "nsf_id": "000614623",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Rui",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rui Zhang",
+   "pi_email_addr": "rzhang45@buffalo.edu",
+   "nsf_id": "0000A07NF",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Buffalo",
+  "inst_street_address": "520 LEE ENTRANCE STE 211",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "7166452634",
+  "inst_zip_code": "142282577",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "NY26",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "GMZUKXFDJMA9",
+  "org_uei_num": "LMCJKRFW5R81"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Buffalo",
+  "perf_str_addr": "Davis Hall, 1 White Rd",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "142602500",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "NY26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 525000.0
+  }
+ ],
+ "por": null
+}

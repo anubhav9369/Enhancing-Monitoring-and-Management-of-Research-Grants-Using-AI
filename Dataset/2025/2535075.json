@@ -1,0 +1,98 @@
+{
+ "awd_id": "2535075",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of a Contextual Robotic Artificial Intelligence (AI) Agent for Field Tasks in Construction and Project-Based Industries",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "This I-Corps project is based on the development of a software system to enable intelligent and autonomous robots. Currently, industries such as construction, shipbuilding, aerospace, and energy often face inefficiencies, costly rework, and skilled labor shortages resulting in billions of dollars in annual losses and project delays. This technology introduces a mobile robotic platform equipped with laser-based augmented reality and artificial intelligence (AI)-driven task planning that may be used to transform digital blueprints into actionable on-site guidance. Workers may be able to follow millimeter-accurate projections rendered directly onto physical surfaces, reducing errors and eliminating the need for manual plan interpretation. The solution has the potential to provide substantial labor savings, faster project delivery, and improved safety compliance. Commercially, the system provides value across a range of industries by automating critical workflows and enabling less experienced workers with the ability to perform complex tasks with confidence. \r\n\r\nThis I-Corps project utilizes experiential learning coupled with first-hand investigation of the industry ecosystem to assess the translation potential of a robotic AI agent designed to support precision layout, task execution, and in-situ inspection in dynamic, unstructured field environments. The system integrates four core innovations: a laser-ink spatial augmented reality (AR) module for millimeter-accurate, building information model (BIM)-aligned task and work-plan projection; a mobile robotic platform equipped with simultaneous localization and mapping (SLAM)-based autonomous navigation and adaptive projection control; a transformer-based Vision\u2013Language\u2013Action (VLA) model capable of grounding natural language commands, multimodal perception, and structured BIM data into context-aware action policies; and a closed-loop digital twin framework that enables real-time synchronization between physical execution and virtual design. The VLA model is trained on domain-specific multimodal datasets, enabling it to semantically interpret and execute construction-relevant tasks beyond the capabilities of general-purpose large language models. The goal is to enhance task accuracy, reduce execution errors, and embed continuous quality assurance and quality control into field operations. This technology has the potential to provide savings on labor, faster project delivery, and improved safety compliance in a wide range of industries including construction, shipbuilding, aerospace, and energy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shuai",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shuai Li",
+   "pi_email_addr": "shuai.li@essie.ufl.edu",
+   "nsf_id": "000755036",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

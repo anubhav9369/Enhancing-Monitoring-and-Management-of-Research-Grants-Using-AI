@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514240",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Statistical Problems in Quantum Learning",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "03040000",
+ "po_phone": "7032927299",
+ "po_email": "yzeng@nsf.gov",
+ "po_sign_block_name": "Yong Zeng",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 344228.0,
+ "awd_amount": 344228.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "The rapid growth in data generation and collection has led to a significant proliferation of large-scale datasets in recent years. Big data has profoundly transformed scientific research and knowledge discovery. Data science integrates statistical analysis, computational algorithms, and domain-specific knowledge to extract insights from big data, enabling solutions to complex real-world problems. The increasing scale and complexity of data have driven a growing demand for more advanced computational and statistical methods\u2014ranging from hardware to software systems\u2014particularly for machine learning applications. Quantum computing holds the potential to revolutionize data science, especially in computational statistics and machine learning, by enabling quantum learning to meet the emerging demand. This research project aims to investigate statistical challenges in quantum learning. The investigator will develop novel statistical techniques to demonstrate the advantage of quantum approaches over classical methods for tackling difficult machine learning tasks. Additionally, the investigator will actively engage in initiatives that integrate research with workforce development (including graduate students) and apply these advancements to address complex real-world problems.\r\n\r\nA central issue in data science is the interplay between statistics and computation, with computational power being essential for developing effective methods to tackle increasingly complex challenges. Quantum computation, which involves preparing and manipulating quantum states of physical systems, offers the potential to revolutionize data science\u2014particularly in computational statistics and machine learning\u2014by enabling a new paradigm known as quantum learning. However, the intrinsic randomness of quantum mechanics introduces stochasticity into quantum computation, posing unique challenges. Data science, through its foundations in statistics and machine learning, is well-positioned to address these challenges by contributing to the development of quantum computing devices, algorithms, and learning techniques. This research project aims to develop statistical methodologies and theoretical foundations to address key problems in quantum learning. Specifically, it will study (i) statistical inference for the Boson sampling model, and (ii) statistical analysis for quantum state and process learning in both classical and quantum settings. The investigator will tackle emerging scientific problems through novel statistical and computational approaches and address the challenges that arise in solving complex learning tasks. The project seeks to establish rigorous, theoretically grounded statistical methodologies and computational procedures that will substantially advance our understanding of quantum learning from both statistical and computational perspectives.\r\n\r\nThis award by the Division of Mathematical Sciences is jointly supported by the NSF Office of Advanced Cyberinfrastructure.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yazhen",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yazhen Wang",
+   "pi_email_addr": "yzwang@stat.wisc.edu",
+   "nsf_id": "000486531",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "090Y00",
+   "pgm_ele_name": "OAC-Advanced Cyberinfrast Core"
+  },
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 344228.0
+  }
+ ],
+ "por": null
+}

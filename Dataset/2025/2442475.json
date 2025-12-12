@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442475",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Bending and Manipulating Objects in Midair Using Cooperative Robots",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599992.0,
+ "awd_amount": 599992.0,
+ "awd_min_amd_letter_date": "2025-04-15",
+ "awd_max_amd_letter_date": "2025-09-05",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant will fund research that looks to advance the capabilities of aerial robots by enabling aerial manipulation and transportation of flexible objects such as cables, rods, hoses, and plastic sheets, thereby promoting the progress of science, advancing prosperity and welfare, and securing the national defense. Current aerial robotic systems are mainly limited to the manipulation of rigid objects since aerial manipulation and transportation of flexible materials present unique challenges due to the dynamic and unpredictable forces involved, which remains an under-explored field. This research project will strive to solve these challenges by providing a novel methodology that integrates control systems and reinforcement learning to maintain stability, enabling fast learning, and ensuring time-critical recovery. The outcomes of this work intend to unlock transformative applications in construction, disaster response, and industrial automation. For instance, aerial robots could autonomously deliver and position cables and rods in construction projects, manipulate fire hoses in emergency scenarios, or deploy temporary plastic covers for roof protection during natural disasters. This project can promote scientific progress in robotics and benefits society through safety, efficiency, and cost-effectiveness. It has the potential to reduce human risks in hazardous environments and provide automated solutions to labor-intensive tasks. The educational and outreach components include the development of an open-source platform for aerial transportation \u2013 a collective effort with students from all levels \u2013 and collaborations with K-12 schools, supporting the next generation of scientists by encouraging early interest in programming and engineering.\r\n\r\nThis research aims to make fundamental contributions to the field of aerial manipulation of flexible objects by developing a modular control architecture that progresses from stable behaviors to optimal performance. This framework enables aerial robots to continuously adapt and improve their manipulation capabilities, enhancing performance over time. The project begins with the design of an adaptive controller that ensures stability and provides real-time compensation for external forces without prior knowledge of an object's material properties. This controller establishes a robust baseline for reinforcement learning, which enables aerial robots to explore and optimize control strategies through interaction. By integrating adaptive control with reinforcement learning, the framework combines the reliability of baseline stability with the agility and efficiency of learned strategies. To address challenges associated with high-speed maneuvers and the inherent risks of real-world operation, the framework incorporates contingency strategies that allow the system to detect and recover rapidly from unstable states. The research progresses systematically, beginning with the manipulation of linear objects, such as rods and cables, and advancing to two-dimensional surfaces, including plastic sheets. These advancements will be evaluated in a construction-inspired testbed, where actual drones must repetitively transport objects.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Saldana",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Saldana",
+   "pi_email_addr": "saldana@lehigh.edu",
+   "nsf_id": "000822363",
+   "pi_start_date": "2025-04-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lehigh University",
+  "inst_street_address": "526 BRODHEAD AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BETHLEHEM",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "6107583021",
+  "inst_zip_code": "180153008",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "PA07",
+  "org_lgl_bus_name": "LEHIGH UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E13MDBKHLDB5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lehigh University",
+  "perf_str_addr": "526 BRODHEAD AVE",
+  "perf_city_name": "BETHLEHEM",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "180153008",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "PA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599992.0
+  }
+ ],
+ "por": null
+}

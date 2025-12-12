@@ -1,0 +1,117 @@
+{
+ "awd_id": "2530911",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI:TCR:Software Supply Chain Security in High-Performance Computing: Understanding, Evaluation and Transition",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 1199875.0,
+ "awd_amount": 1199875.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Computational infrastructures have become a foundational enabler of scientific discovery across a range of critical domains, including seismic imaging, air quality monitoring, epidemiology, drug discovery, and nuclear engineering. As a result, ensuring the security of these infrastructures is paramount. Scientific computing ecosystems rely heavily on open-source software to develop, port, deploy, schedule, and manage computational codes. However, the open-source model inherently exposes projects to software supply chain threats. Real-world incidents have shown that adversaries can exploit this model by injecting malicious code into compromised repositories, thereby affecting downstream users. Even in the absence of malicious actors, open-source components may contain latent vulnerabilities that introduce significant security risks. Although extensive research has been conducted on understanding and mitigating software supply chain risks, their implications in the high-performance computing (HPC) context remain largely understudied. HPC environments\u2014including their infrastructures, applications, and operational models\u2014present distinct characteristics and challenges that may render conventional security approaches ineffective.\r\n\r\nThis award, HPCSafeChain, addresses a pressing question: How can current security techniques be applied or adapted to confront software supply chain threats in the HPC domain? To this end, this project undertakes the following three key tasks. (1) Risk Characterization and Taxonomy Development: the HPCSafeChain project systematically identifies security risks specific to HPC software supply chains, analyzes the underlying challenges in mitigating them, and constructs a comprehensive taxonomy tailored to HPC. (2) Testbeds and Benchmarks: leveraging the constructed taxonomy, HPCSafeChain develops realistic testbeds and an attack benchmark to rigorously assess the effectiveness and limitations of existing security tools within HPC settings. (3) Technique Adaptation and Enhancement: HPCSafeChain investigates how existing software supply chain security techniques can be refined or extended to address the unique requirements and operational constraints of HPC environments. This project offers valuable insights into the security challenges faced by real-world HPC systems and creates distinctive research and educational opportunities for both undergraduate and graduate students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mu",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mu Zhang",
+   "pi_email_addr": "muzhang@cs.utah.edu",
+   "nsf_id": "000814070",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Heng",
+   "pi_last_name": "Yin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Heng Yin",
+   "pi_email_addr": "heng@cs.ucr.edu",
+   "nsf_id": "000546221",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Xunchao",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xunchao Hu",
+   "pi_email_addr": "xchu@deepbitstech.com",
+   "nsf_id": "000750332",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1199875.0
+  }
+ ],
+ "por": null
+}

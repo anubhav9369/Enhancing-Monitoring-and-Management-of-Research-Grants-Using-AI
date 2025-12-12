@@ -1,0 +1,118 @@
+{
+ "awd_id": "2524483",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Tunable and Reconfigurable THz Filter Architectures and Platforms Using Integrated Optical Control of Switching Elements",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 540000.0,
+ "awd_amount": 540000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "This project aims to investigate and develop a novel approach for realizing tunable and reconfigurable terahertz (THz) filters using optical control signals instead of electrical control wires which cause performance degradation in THz integrated circuits. The new approach enables high performance adaptive THz filters and more advanced communication circuits for 6G-and-beyond wireless communications, which is an emerging technological area with a wide range of applications that will generate significant benefits to American society. In addition to future wireless communications, the research of this project will benefit a wide range of other science disciplines using THz spectrum for sensing and imaging, such as radio astronomy, geoscience, chemistry, biology, and medicine. THz imaging can also be used for detecting concealed objects at various security screening checkpoints. The key results and concepts from this research will be incorporated into related courses taught by the principal investigators (PIs), and the graduate students working on this project will be trained with interdisciplinary knowledge in semiconductor physics and THz engineering, covering both devices and systems. Undergraduate students will be involved through summer and honors thesis research. Through the project's outreach plan, the PIs will promote science and engineering education with hands-on STEM activities among local middle- and high-schools through the NSF Research Experiences for Teachers (RET) program and several lab tours.\r\n\r\nThe objective of this research is to investigate and develop a novel approach enabled by optically controlled switching technology to realize high-performance tunable and reconfigurable THz filters that are urgently needed in advanced sensing and imaging as well as next generation (6G and beyond) communications. The new approach is to seamlessly integrate the switching elements into planar THz circuits such as resonators (e.g., split-ring resonators, waveguide-cavity resonators and slot resonators) for optical control without any electrical control wires. This eliminates performance degradation due to parasitic effects from electrical control circuit networks, thus offering far more design flexibility and frequency scalability than the existing state-of-the-art technologies. Three waveguide filter prototypes including a probe-based microstrip configuration, an E-plane-coupled in-line chip design with cavity-based structure, as well as a free-space quasi-optical frequency-selective surface (FSS) architecture will be systematically studied and demonstrated. These prototypes are expected to achieve advanced THz frequency control and selection capability with superior performance and unique functionalities. The research team anticipates that the filter technologies developed in this project will have significant impacts on the designs of future adaptive THz communication and sensing systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Liu",
+   "pi_email_addr": "Liu_Lei@nd.edu",
+   "nsf_id": "000544913",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Patrick",
+   "pi_last_name": "Fay",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Patrick J Fay",
+   "pi_email_addr": "patrick.j.fay.9@nd.edu",
+   "nsf_id": "000273906",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Notre Dame",
+  "inst_street_address": "940 GRACE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "NOTRE DAME",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "5746317432",
+  "inst_zip_code": "465565708",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "IN02",
+  "org_lgl_bus_name": "UNIVERSITY OF NOTRE DAME DU LAC",
+  "org_prnt_uei_num": "FPU6XGFXMBE9",
+  "org_uei_num": "FPU6XGFXMBE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Notre Dame",
+  "perf_str_addr": "940 GRACE HALL",
+  "perf_city_name": "NOTRE DAME",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "465565708",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "IN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 540000.0
+  }
+ ],
+ "por": null
+}

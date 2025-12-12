@@ -1,0 +1,138 @@
+{
+ "awd_id": "2443763",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Enhancing Software Testing and Debugging for Autonomous Driving",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 716851.0,
+ "awd_amount": 566404.0,
+ "awd_min_amd_letter_date": "2025-01-08",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Companies, governmental entities, and the general population are increasingly adopting autonomous driving vehicles, often called self-driving cars, to support their everyday activities. This research project aims to reduce the safety-critical errors that may occur in the software that powers such vehicles. Specifically, this project will produce techniques to efficiently and effectively detect and remove defects in autonomous vehicle software through simulations, which can result in immense savings of capital, time, and effort by reducing the need to conduct similar testing and quality assurance in the physical world. Through collaborators in the autonomous driving system (ADS) industry, the proposed testing and debugging techniques will be designed to ease the transition of the developed technology into industry. The project will also produce teaching modules on ADS testing and debugging at the graduate, undergraduate, and high school levels, helping students to develop skills necessary in the workforce of a transforming auto industry. \r\n\r\nTo tackle the aforementioned challenges in testing and debugging ADSes, this project will develop methods focusing on several key areas. First, it will produce techniques that automatically generate driving scenarios that are likely to reveal errors when the ADS is responsible for a traffic violation, especially in the case of collisions. Second, this project will produce mechanisms that accurately and efficiently consider the context of the driving scenario and the precedence of traffic laws and guidelines to identify ADS defects. Third, this project will produce techniques to determine whether a collision an ADS is involved in is avoidable and, thus, defective through the transfer of collision scenarios across combinations of ADSes and simulators. Fourth, this project will use machine learning to predict if the ADS can avoid a collision, reducing the need for costly testing in simulation. Fifth, this project aims to cover as much of the ADS code as possible by generating tests that target untested parts of the code. Sixth, this project will extract deterministic module-level tests from non-deterministic system-level tests to further increase testing and debugging efficiency, aiding engineers in finding faulty code in ADSes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "Garcia",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua N Garcia",
+   "pi_email_addr": "joshug4@uci.edu",
+   "nsf_id": "000709620",
+   "pi_start_date": "2025-01-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "160 ALDRICH HALL",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 566404.0
+  }
+ ],
+ "por": null
+}

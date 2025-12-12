@@ -1,0 +1,98 @@
+{
+ "awd_id": "2515902",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Novel Bayesian Frameworks for Measurement Error Problems in Complex Multivariate Data",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "This project develops new statistical tools to address a common and important challenge in scientific research: drawing reliable conclusions from data in which observations on variables of interest are imprecise and contaminated by measurement errors. In many real-world studies, from nutrition and health research to astronomy, neuroimaging, and social science, measurements are often noisy, making it difficult to identify meaningful patterns or relationships. Existing statistical methods typically handle such problems under overly simplistic conditions, limiting their usefulness in complex, real-world, multivariate settings. By developing more flexible, principled methods that address realistic measurement error scenarios, this project aims to promote the national interest by supporting more accurate, data-driven decision-making in health, policy, and other applied fields. The project also contributes to workforce development in statistics and data science through graduate training, ensuring that students gain experience with modern data-driven research approaches.\r\n\r\nTechnically, the project develops novel Bayesian hierarchical frameworks for multivariate density deconvolution and related regression-with-errors-in-variables problems. It introduces covariate-informed density deconvolution methods that flexibly allow both the variables of interest and their measurement errors to vary with associated predictors. These methods incorporate automatic covariate selection and permit different sets of predictors for different coordinates of multivariate outcomes, enhancing both flexibility and interpretability. In addition, the project addresses the largely unexplored area of median density deconvolution, developing tools for modeling measurement errors centered around a median rather than a mean. Both topics are important yet overlooked scenarios in current research. While the proposed methods are demonstrated in nutrition epidemiology contexts, they are broadly generalizable to a wide range of scientific fields where measurement error poses a challenge.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Abhra",
+   "pi_last_name": "Sarkar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Abhra Sarkar",
+   "pi_email_addr": "abhra.sarkar@utexas.edu",
+   "nsf_id": "000810419",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

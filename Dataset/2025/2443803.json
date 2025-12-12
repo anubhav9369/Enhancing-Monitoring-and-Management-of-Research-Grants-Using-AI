@@ -1,0 +1,126 @@
+{
+ "awd_id": "2443803",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Explainability for Integrated Cyber-Physical Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924760",
+ "po_email": "osokolsk@nsf.gov",
+ "po_sign_block_name": "Oleg Sokolsky",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 599989.0,
+ "awd_amount": 599989.0,
+ "awd_min_amd_letter_date": "2025-03-20",
+ "awd_max_amd_letter_date": "2025-09-15",
+ "awd_abstract_narration": "Integrated Cyber-Physical Systems (i-CPS) have transformed industries like manufacturing, transportation, healthcare, and energy management. I-CPS is characterized by multiple CPS services functioning concurrently within the same environment, high involvement of domain experts and everyday users in decision-making processes, real-time interactions with other systems, and operation within uncertain and constantly changing physical environments. Examples of such systems include smart cities, smart agriculture, and intelligent transportation, among others. However, stakeholders often hesitate to trust these systems due to a lack of explainability, which raises concerns about reliability, especially in safety-critical areas. Additionally, while advancements in deep learning have enabled powerful CPS capabilities, understanding of these systems is declining. Despite the significance and urgency of enabling explainability for i-CPS, research in explainable CPS with AI-driven components is still in its infancy. This research aims to develop explainable and trustworthy i-CPS capable of justifying their decisions and incorporating field operators\u2019 queries and domain knowledge to adapt to evolving environments.\r\n\r\nThe technical contributions to CPS research and education encompass four thrusts. Thrust I develops a new explainable architecture with formal explainers that interpret individual components of i-CPS and their interactions. Innovations include the first explainable CPS architecture, novel formal methods-based approaches addressing five layers of i-CPS, and explainable online decision support for \u201cwhat if\u201d scenarios. Thrust II formalizes and incorporates user domain knowledge, specifications, and feedback to enhance the learning-enabled components of CPS. Key advances include developing new formal knowledge distillation and unlearning approaches with uncertainty quantification that quickly adapt the system to shifting distributions in a lifelong evolving deployment. Thrust III evaluates the proposed methods through a real-world emergency response deployment in Nashville, TN, involving multiple CPS-based city services and stakeholders from different departments. Innovations include a logic-based LLM-enabled system that connects our proposed explainers to field operators, real-world deployment principles, and qualitative and quantitative metrics to assess explainability and impact. Thrust IV develops an interdisciplinary education plan. The key innovation is to bring rigorousness and explainability to CPS classes in Computer Science and create a new course, CPS in the field, for multi-disciplinary students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Meiyi",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Meiyi Ma",
+   "pi_email_addr": "meiyi.ma@vanderbilt.edu",
+   "nsf_id": "000873783",
+   "pi_start_date": "2025-03-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Vanderbilt University",
+  "inst_street_address": "110 21ST AVE S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NASHVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6153222631",
+  "inst_zip_code": "372032416",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "TN05",
+  "org_lgl_bus_name": "VANDERBILT UNIVERSITY",
+  "org_prnt_uei_num": "K9AHBDTKCB55",
+  "org_uei_num": "GTNBNWXJ12D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Vanderbilt University",
+  "perf_str_addr": "110 21ST AVE S",
+  "perf_city_name": "NASHVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "372032416",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "TN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599989.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2437030",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AF:Small: Improved Algorithms for Topological Data Analysis",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 593125.0,
+ "awd_amount": 593125.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "In recent years, topological data analysis (TDA) has evolved as an emerging area in data science. The technique works by extracting hidden connectivity among the data points dictated by topology. This information is more global in nature and thus become a robust signature for data. Over the last two decades, this technique has been studied from various angles and has been used to learn from data in a wide variety of applications. However, commonly used algorithms in TDA have been limited to data that vary by a single parameter. To handle more complex and diverse data, extensions of the original notions have started to appear in the TDA literature. Although a great deal of mathematical theory behind these extensions got developed, the same cannot be said about the algorithmic advances. The main thrust of this project is to address this gap. The resulting TDA methodologies can complement and augment traditional data analysis approaches in fields such as machine learning and statistical data analysis. The educational aspect of the project will be enriched by the synergy between mathematics and computer science. Graduate students supported by the project will be trained to develop skills in mathematics and theoretical computer science, most notably in algorithms and topology, write efficient and usable software, and analyze real-world data sets. It is planned to provide best practice in recruiting and mentoring students from underrepresented groups. The research engagement will be broadened via workshops or tutorials. Software tools will be developed for prototypical uses by the research and industrial community. This will not only equip the participants in the project with the twin skill at developing theories alongside coding but also enhance the use of TDA in applications. \r\n\r\nAlthough traditional topological data analysis (TDA) techniques involving 1-parameter persistence is well understood from both mathematical and algorithmic point of view at the moment, the same is not true for its higher order or more general extensions. We propose to study three such extensions in this project, namely, (I) Zigzag persistence which allows not only additions but also deletions in the simplicial filtrations, (II) Multi-parameter persistence which allows more than one parameter akin to multivariate analysis, and (III) Combinatorial dynamical systems persistence which allows merging the theory of persistence with the theory of discretized vector fields. Each of these three areas is in a stage where mathematics has advanced to a point where more algorithmic ideas are required to bring the mathematical theory to practice. The investigator has actively worked on the algorithmic aspect of TDA and has made significant contributions in that direction. Time is ripe to strengthen this effort to the three extensions mentioned with the overarching goal of developing actionable and practical tools. \r\nThe geometric and topological ideas behind the proposed work represent novel directions and inject new ideas and perspectives to the important field of computational data analysis. In particular, the effort is likely to inspire novel mathematical concepts alongside algorithm designs to address various challenges appearing in the aforementioned topics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tamal",
+   "pi_last_name": "Dey",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tamal K Dey",
+   "pi_email_addr": "tamaldey@purdue.edu",
+   "nsf_id": "000290200",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7929",
+   "pgm_ref_txt": "COMPUTATIONAL GEOMETRY"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 593125.0
+  }
+ ],
+ "por": null
+}

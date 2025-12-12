@@ -1,0 +1,134 @@
+{
+ "awd_id": "2530406",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-SNSF: Fast and Scalable Framework for Next-Generation Very-Large-Scale Silicon Photonic Design",
+ "cfda_num": "47.041, 47.079",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "This U.S.\u2013Swiss project tackles a major barrier in the development of silicon photonic chips \u2014 a key technology for faster, energy-efficient data movement in computing, communications, and sensing. Current design methods are slow, expensive, and hard to scale. This project introduces Fusion Network (FusNet), a novel approach that combines simulation and design optimization into a single, fast process. By using advanced computing hardware and AI-guided techniques, FusNet drastically reduces the time and effort required to create complex photonic circuits. Beyond technical innovation, the project builds a global training pipeline in semiconductor design, featuring U.S.\u2013Swiss student exchanges, curriculum integration, and industry-aligned programs with Cadence Design Systems. The results \u2014 including software tools and design methods \u2014 will be shared openly to benefit the broader research and engineering communities.\r\n\r\nFusNet is a hardware-accelerated framework that unifies electromagnetic simulation and optimization in a real-time loop, enabling one-shot photonic device design. It leverages structural similarities between forward and adjoint methods to merge the simulation and optimization processes, improving efficiency while maintaining accuracy. FusNet\u2019s streaming architecture is implemented on high-throughput dataflow hardware, such as CGRAs and FPGAs, overcoming traditional bottlenecks in memory access and parallelization. The project includes algorithmic innovation, scalable hardware design, and experimental validation through chip fabrication. The work addresses fundamental challenges in computational photonics, optimization theory, and hardware-software co-design, with strong applications in AI systems, HPC interconnects, and optical sensing.\r\n\r\nThis collaborative US-Swiss project is supported by the US National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the US investigator and SNSF funds the partners in Switzerland.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tao",
+   "pi_last_name": "Wei",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tao Wei",
+   "pi_email_addr": "twei2@clemson.edu",
+   "nsf_id": "000628804",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Judson",
+   "pi_last_name": "Ryckman",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Judson D Ryckman",
+   "pi_email_addr": "jryckma@clemson.edu",
+   "nsf_id": "000733600",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Clemson University",
+  "inst_street_address": "201 SIKES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEMSON",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8646562424",
+  "inst_zip_code": "296340001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "SC03",
+  "org_lgl_bus_name": "CLEMSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2BMNX7DSKU8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Clemson University",
+  "perf_str_addr": "201 SIKES HALL",
+  "perf_city_name": "CLEMSON",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "296340001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "SC03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "054Y00",
+   "pgm_ele_name": "GVF - Global Venture Fund"
+  },
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1253",
+   "pgm_ref_txt": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "5950",
+   "pgm_ref_txt": "SWITZERLAND"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "129Z",
+   "pgm_ref_txt": "U.S. NSF-Swiss Resrch Corp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

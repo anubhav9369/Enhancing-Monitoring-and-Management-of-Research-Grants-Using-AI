@@ -1,0 +1,130 @@
+{
+ "awd_id": "2500339",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: An intraoral device for multimodal data integration and risk modification connects the oral microbiome to systemic health",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Your mouth holds a surprising amount of information about current and future health, not just for teeth and gums, but also for serious conditions like neurological problems, heart disease, and cancer. This project will develop a new way to predict your risk for these diseases using a new handheld robotic device to carefully and quickly collect samples of plaque bacteria from hard-to-reach places in the mouth. Then, artificial intelligence will be used to analyze these samples. The system will automate plaque sample collection and detection of harmful bacteria. This information will feed into a computer model designed to predict your likelihood of developing issues like gum disease, displaying your risk on an easy-to-understand dashboard. Ultimately, because the health of the mouth is so closely linked to overall well-being, this innovative approach will pave the way for early detection and treatment for a wide range of diseases, leading to better health outcomes for all.\r\n\r\n\r\nThe oral cavity holds a wealth of information related to current and future health status. This information is naturally related to oral health status, but is also increasingly related to systemic health status with implications for neurological disease, cardiovascular diseases, and cancer. The overall objective in this project is to create an approach for identifying disease risk by sampling microbial plaque (biofilm) with micro-robotic techniques and analyzing the state of the oral microbiome using artificial intelligence. This will combine a collection method and data workflow, integrating micro-robotics with bioinformatics. Sampling will be enabled by using micro-robotics for precise and rapid biofilm removal from hard-to-reach surfaces at risk for periodontal (gum) diseases. This platform will provide automated collection and real-time pathogen detection while minimizing the need for laborious sample removal and processing steps. The multimodal data generated from the device will be used to develop a temporal graph neural network model, which will assist in identifying the likelihood of periodontal disease with predicted outcomes represented in an interactive risk-assessment dashboard. Moreover, given the strong connection between the oral microbiome and systemic health, the platform will lay the groundwork for monitoring and identifying risks associated with a host of diseases, leading to early interventions and improving long-term health outcomes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Edward",
+   "pi_last_name": "Steager",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Edward R Steager",
+   "pi_email_addr": "esteager@seas.upenn.edu",
+   "nsf_id": "000763156",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hyun",
+   "pi_last_name": "Koo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hyun Koo",
+   "pi_email_addr": "koohy@dental.upenn.edu",
+   "nsf_id": "000682741",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Romano",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph D Romano",
+   "pi_email_addr": "joseph.romano@pennmedicine.upenn.edu",
+   "nsf_id": "0000A1C56",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3330 Walnut Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046228",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  },
+  {
+   "pgm_ref_code": "9184",
+   "pgm_ref_txt": "BIOTECHNOLOGY - INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

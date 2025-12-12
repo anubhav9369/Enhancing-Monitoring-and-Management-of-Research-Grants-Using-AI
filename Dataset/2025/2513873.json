@@ -1,0 +1,102 @@
+{
+ "awd_id": "2513873",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Frameworks: Advanced Simulation of Multiphase Electrochemical Systems (FASTEST)",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928104",
+ "po_email": "shabagch@nsf.gov",
+ "po_sign_block_name": "Sharmistha Bagchi-Sen",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Processes that involve the transport of electrically charged species in fluids consisting of multiple phases, such as liquids and gases, are fundamental in energy production, energy storage, healthcare, and manufacturing. Important examples include energy storage systems such as batteries, hydrogen production, medical diagnostic devices, and manufacturing processes. Despite their importance, accurately modeling these processes remains challenging due to their complex interactions and varied scales ranging from microscopic interfaces to large-scale systems. Addressing these challenges can significantly enhance the performance, efficiency, and affordability of critical technologies, particularly in energy production and storage. This project develops an accessible, advanced simulation framework that enables scientists and engineers to effectively model and optimize these vital electrochemical processes. By simplifying complex computational challenges, the project accelerates innovations across several crucial sectors, benefiting society through improved energy technologies, healthcare applications, and industrial processes. Educational activities and community training are integral components, aimed at increasing STEM participation and training a workforce skilled in cutting-edge technologies.\r\n\r\nThis project develops an architecture-agnostic computational framework called FASTEST (Framework for Advanced Simulation of multiphaSe ElecTrochemical Systems). FASTEST provides scalable, robust, and accurate simulation capabilities for the complex, multiscale dynamics of multiphase electrochemical systems. FASTEST employs a domain-specific language (DSL) to enable domain experts to focus on scientific modeling while computational experts optimize performance and scalability. The framework combines scalable adaptive meshing, implicit numerical methods, and architecture-aware portability, leveraging modern computing resources such as multicore CPUs and GPUs. It addresses longstanding computational challenges in the modeling of electrochemical systems, such as stiff equations, multiscale adaptivity, and implicit solvers, with optimized numerical algorithms and iterative solvers. FASTEST improves computational speed and accuracy compared to current commercial and open-source solutions. The project emphasizes the development of robust numerical methods, scalable parallel algorithms, and a user-friendly interface to facilitate widespread adoption and application. Comprehensive validation, verification, and benchmarking efforts ensure accuracy and reliability, supporting broad applications in energy production, energy storage, manufacturing, and bioengineering. The outcomes advance simulation-based understanding and optimization of multiphase electrochemical systems, fostering innovation across multiple critical technological domains.\r\n\r\n This project is co-funded by the Office of Advanced Cyberinfrastructure (OAC) and the Division of Civil, Mechanical, and Manufacturing Innovation (CMMI).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Mani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali Mani",
+   "pi_email_addr": "alimani@stanford.edu",
+   "nsf_id": "000623817",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

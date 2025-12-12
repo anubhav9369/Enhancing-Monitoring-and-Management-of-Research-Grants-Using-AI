@@ -1,0 +1,134 @@
+{
+ "awd_id": "2442421",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Certified Explanations for Trustworthy Artificial Intelligence",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 675000.0,
+ "awd_amount": 246639.0,
+ "awd_min_amd_letter_date": "2025-01-03",
+ "awd_max_amd_letter_date": "2025-09-16",
+ "awd_abstract_narration": "Artificial Intelligence (AI) systems can take advantage of complex patterns hidden within vast pools of data to make inferences about the world. However, modern systems are too large and complex to manually analyze, and come with little to no guarantees on how they work. A key challenge that remains is how to explain the reasoning behind an AI system, and answer the question: why did a model make a prediction? Such explanations are necessary for doctors and scientists to trust AI systems in high-stakes applications. However, existing explanations can result in highly misleading conclusions, resulting in injury and harm when deployed in downstream applications. This project aims to bridge the gap from formal verification to explainability, to create a new paradigm of explanations with provable assurances that can be relied upon in practice. The project's novelties are formal specifications for explanability, a verification framework for certifying explanations, and a class of AI systems with certified explanations. The project's impacts are heightened trust in AI systems when deployed, trusted scientific discovery, and translation of trustworthy AI to scientific domains. The outcomes of this project are being integrated into both undergraduate and graduate courses in artificial intelligence to bolster and motivate the technical course material.\r\n\r\nThe project aims to develop certificates for AI explanations, to build trust in AI systems via formally verified guarantees. The investigator is investigating two core research thrusts. The first thrust builds a verification framework for feature attributions, including developing specifications for explanations, computing lower-bounds for verification, and estimating probabilistic certificates. The second thrust designs architectures that are well-suited for verification of explanations. These architectures differ in the varying degrees of assumed access to the base AI model being explained, including differentiable certificates for full access, explainable wrappers for gradient access, and gray-box techniques for application programming interface (API) access. The project aims to assess verified explanations in scientific domains including cosmology, surgery, and psychology to assess real-world practicality. The team is sharing project results through open-source software packages, and creating new tools for broader access.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eric",
+   "pi_last_name": "Wong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eric Wong",
+   "pi_email_addr": "exwong@cis.upenn.edu",
+   "nsf_id": "000903241",
+   "pi_start_date": "2025-01-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "Levine Hall 506 3330 Walnut Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046205",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8206",
+   "pgm_ref_txt": "Formal Methods and Verification"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 246639.0
+  }
+ ],
+ "por": null
+}

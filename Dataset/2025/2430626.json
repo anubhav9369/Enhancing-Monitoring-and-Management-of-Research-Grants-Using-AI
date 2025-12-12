@@ -1,0 +1,102 @@
+{
+ "awd_id": "2430626",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "A continuous monitoring system for therapeutic antibody using in situ regenerable aptamer sensor",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032922191",
+ "po_email": "asimonia@nsf.gov",
+ "po_sign_block_name": "Aleksandr Simonian",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 379730.0,
+ "awd_amount": 379730.0,
+ "awd_min_amd_letter_date": "2024-11-25",
+ "awd_max_amd_letter_date": "2024-11-25",
+ "awd_abstract_narration": "Therapeutic monoclonal antibodies (mAbs) are emerging as an encouraging therapy for many chronic conditions such as cancer, autoimmune conditions, and infectious diseases. While these are an incredibly promising treatment, there exists a need to measure the bodily concentration of these mAbs in real-time, as this would enable clinicians to appropriately dose patients according to their needs. A specific example of this is the use of bevacizumab, an FDA approved mAb used to treat several types of cancers, each requiring specific active amounts of bevacizumab. This research aims to develop foundational technology for the continuous monitoring for mAbs using bevacizumab as an example. This interdisciplinary research will train students in biomolecular engineering, biochemistry, biosensors, and electrochemistry - all key fields in the future of biosensing technology development. The findings of this work will be intergraded into both graduate and undergraduate course work, thereby disseminating the fundamental findings to a larger audience.\r\n\r\nTherapeutic humanized monoclonal antibodies (mAbs) are used to treat chronic conditions such as cancer, autoimmune and infectious diseases. Effective titration of these therapies relies on providing clinicians with feedback regarding patient-specific pharmacokinetics. This project aims to develop a continuous electrochemical sensor for an FDA-approved mAb, bevacizumab. Bevacizumab is a humanized IgG1 mAb that binds to vascular endothelial growth factor-A (VEGF) for use in the treatment of several types of cancers. However, a challenge with monitoring therapeutic humanized mAbs is their discrimination between human IgG in biological fluid. This initial challenge was overcome through the development of an anti-idiotype bevacizumab aptamer. The second challenge in realizing in vivo and continuous monitoring systems is the in situ regeneration of the aptamer binding site. Due to the low dissociation constant of this aptamer, binding site regeneration is only possible by denaturing both the target protein and/or aptamer structures using chaotropic reagents, limiting the in vivo application of these systems. To accomplish this, anti-idiotype bevacizumab aptamers will be designed with azobenzene, a molecule that undergoes reversible structural changes through cis/trans photoisomerization. Upon UV light exposure, conformational shifts from trans to cis in the aptamers will consequently lead to target dissociation. The central hypothesis of this research is that azobenzene engineered bevacizumab aptamers will exhibit light-sensitive, reversible conformational changes, allowing continuous monitoring of mAbs. In this study, anti-idiotype bevacizumab aptamers incorporating azobenzene will be designed and evaluated electrochemically, validating their ability to regenerate a binding signal in a controlled manner.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Koji",
+   "pi_last_name": "Sode",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Koji Sode",
+   "pi_email_addr": "ksode@email.unc.edu",
+   "nsf_id": "000835907",
+   "pi_start_date": "2024-11-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Carolina at Chapel Hill",
+  "inst_street_address": "104 AIRPORT DR STE 2200",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHAPEL HILL",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9199663411",
+  "inst_zip_code": "275995023",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+  "org_prnt_uei_num": "D3LHU66KBLD5",
+  "org_uei_num": "D3LHU66KBLD5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Carolina at Chapel Hill",
+  "perf_str_addr": "116 Manning Dr; 10202B Mary Ellen Jones Bldg",
+  "perf_city_name": "Chapel Hill",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "275997575",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "790900",
+   "pgm_ele_name": "BIOSENS-Biosensing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1639",
+   "pgm_ref_txt": "SENSORS AND SENSING SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 379730.0
+  }
+ ],
+ "por": null
+}

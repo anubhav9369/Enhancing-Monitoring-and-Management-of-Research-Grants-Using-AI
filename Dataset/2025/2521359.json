@@ -1,0 +1,93 @@
+{
+ "awd_id": "2521359",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Origin and mechanisms of cancer blood flow anomalies: Linking blood cell dynamics and vascular structural abnormalities",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032928045",
+ "po_email": "sshojaei@nsf.gov",
+ "po_sign_block_name": "Shahab Shojaei-Zadeh",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Cancer is the second leading cause of mortality, accounting for more than two million diagnosed cases annually in the US. Blood flow plays a crucial role in cancer progression and treatment. To survive and proliferate, cancer cells require oxygen which is supplied by the red blood cells as they flow through the capillary blood vessels, the narrowest vessels in the body. In a healthy tissue, the capillary vessels are well-organized in a hierarchical network. In contrast, in a cancerous tissue the capillary network is not well-organized, and the vessels are structurally abnormal, resulting in significant changes in blood flow pattern compared to healthy tissues. While the altered blood flow may trigger further proliferation of cancer cells, it is also a major bottleneck for effective treatment of the disease. The goal of this award is to develop highly accurate computer simulations using images of cancerous vessel networks to predict the altered blood flow pattern and to elucidate new mechanisms of blood flow anomalies as mediated by the coupling of red cell dynamics and vascular structural abnormalities. The proposed study could lead to identification of specific mechanisms that could be targeted to improve some treatment modalities. In addition to gaining new knowledge, the project will provide broader impacts through the translational aspect and societal benefit of the proposed research, and through integrated K-12 outreach activities, and mentored undergraduate and graduate student research.\r\n\r\nThe proposed research will provide new knowledge about the physics of red blood cell (RBC) suspension altered by the vascular abnormalities of cancer. Angiogenic periphery and tumor core will be considered. Specific activities to be considered are: (i) building in silico models from high-resolution, 3D in vivo images of vascular networks, followed by high-fidelity, first-of-its-kind fluid-structure interaction simulations of deformable RBC suspension with coupled finite-element, finite-volume and immersed-boundary methods, and creating a data bank of tumor microvascular hemodynamics; (ii) elucidating diverse RBC and microcirculatory flow dynamics that have not been previously addressed for cancerous vasculature, such as RBC flux partitioning, 3D nature of hemodynamic forces and cell-free layer, alteration in blood viscosity as illustrated by the Fahraeus-Lindqvist effect; (iii) isolating the vascular and cellular metrics that could potentially be targeted to mitigate the blood flow anomalies. The influence of hypoxia- and acidosis-induced changes in RBC dynamics and their impact on flow anomalies will also be addressed.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prosenjit",
+   "pi_last_name": "Bagchi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prosenjit Bagchi",
+   "pi_email_addr": "pbagchi@jove.rutgers.edu",
+   "nsf_id": "000259867",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "141500",
+   "pgm_ele_name": "PMP-Particul&MultiphaseProcess"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

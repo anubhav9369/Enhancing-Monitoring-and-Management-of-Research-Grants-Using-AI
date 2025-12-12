@@ -1,0 +1,130 @@
+{
+ "awd_id": "2440215",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Homogenization and Free Boundary Problems",
+ "cfda_num": "47.049, 47.083",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 437140.0,
+ "awd_amount": 232525.0,
+ "awd_min_amd_letter_date": "2025-02-07",
+ "awd_max_amd_letter_date": "2025-02-07",
+ "awd_abstract_narration": "Partial Differential Equations (PDE) of parabolic type are central to mathematical analysis, with extensive applications in physics, finance, biology, and other fields. The research in this project focuses on three types of PDEs: reaction-diffusion equations, Hele-Shaw type flows, and chemotaxis systems. These equations capture the evolution of diffusive processes, such as tumor growth, forest fire propagation, chemical diffusion, and crowd motion. The project aims to advance understanding of these equations and their underlying phenomena, with potential societal benefits such as enhanced strategies for managing forest fires and improving understanding of biological processes, including tumor cell behavior. The educational component is a cornerstone of this project, tightly integrated with its research objectives. In collaboration with Auburn University\u2019s outreach programs, the Principal Investigator will engage K-12 students in interactive workshops and science fairs, inspiring curiosity and enthusiasm for science. A key focus of the educational efforts is increasing participation and retention of women and underrepresented groups in mathematics and science. This project will also provide interdisciplinary training opportunities for students and early-career researchers through workshops and summer schools directly tied to the research themes. These programs will offer hands-on experiences, bridging theoretical knowledge with practical applications to prepare the next generation of scientists and mathematicians. This project integrates innovative research with impactful education and outreach, strengthening the link between scientific discovery and learning for the benefit of society.\r\n\r\n\r\nReaction-diffusion equations are central to modeling phenomena such as front propagation and interface motion in fields like chemical kinetics, combustion, and population genetics. In sufficiently random media, the long-term, large-scale dynamics of these equations are expected to converge to a deterministic propagation process (called stochastic homogenization). While previous research in the area in general dimensions is limited, this proposed research brings new methods and technical tools to study such problems. For example, it will extend several fundamental probability tools that were widely used in PDE problems, including Kingman's subadditive theorem and Azuma's lemma. Furthermore, the methodologies developed here will have applications to other equations. Hele-Shaw flows with source and advection terms are widely used to model tumor growth, where the region occupied by tumor cells corresponds to the positive set of the solution, and the boundary of this region forms the free boundary. The presence of drift and source terms brings significant difficulties and so there are few results in this direction. This project focuses on developing new PDE techniques to address the regularity and the homogenization of the free boundary. The outcomes are expected to provide a deeper understanding of free boundary dynamics and illuminate the effects of stochastic fluctuations on interface motion. Chemotaxis, the directed movement of organisms in response to chemical gradients, is a crucial phenomenon in biology. While chemotaxis models have been extensively studied, most work focuses on bounded domains. This project aims to first establish the global well-posedness of chemotaxis systems on unbounded domains and then investigate the asymptotic spreading properties of solutions, a key characteristic of these systems. These studies will employ tools from various areas of mathematics, including semigroup theory, viscosity solutions and parabolic regularity theory, to explore new aspects of chemotaxis models, with potential contributions to both mathematics and biological sciences.\r\n\r\nThis project is jointly funded by the Analysis Program in the Division of Mathematical Sciences and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuming",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuming P Zhang",
+   "pi_email_addr": "yzz0226@auburn.edu",
+   "nsf_id": "000838156",
+   "pi_start_date": "2025-02-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Auburn University",
+  "inst_street_address": "321-A INGRAM HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUBURN",
+  "inst_state_code": "AL",
+  "inst_state_name": "Alabama",
+  "inst_phone_num": "3348444438",
+  "inst_zip_code": "36849",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "AL03",
+  "org_lgl_bus_name": "AUBURN UNIVERSITY",
+  "org_prnt_uei_num": "DMQNDJDHTDG4",
+  "org_uei_num": "DMQNDJDHTDG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Auburn University",
+  "perf_str_addr": "321-A INGRAM HALL",
+  "perf_city_name": "AUBURN",
+  "perf_st_code": "AL",
+  "perf_st_name": "Alabama",
+  "perf_zip_code": "368490001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "AL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 232525.0
+  }
+ ],
+ "por": null
+}

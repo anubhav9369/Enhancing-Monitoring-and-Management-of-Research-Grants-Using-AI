@@ -1,0 +1,106 @@
+{
+ "awd_id": "2519824",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Closed-Loop kT/C Noise Cancellation for Sampling Circuits with Unprecedented Sensitivity",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 447363.0,
+ "awd_amount": 447363.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Thermal noise presents the most fundamental limit to the achievable signal-to-noise ratio (SNR) in analog electronic circuits. To suppress thermal noise, many scientific instruments used in fields such as radio astronomy, high-energy particle colliders, and emerging superconducting quantum computers require cryogenic cooling, which significantly increases their cost and consumes more energy. For most commercial and industrial applications where cryogenic cooling is too expensive to employ, the only solution for reducing sampled thermal noise in discrete-time electronic circuits is to use a larger sampling capacitor, which significantly increases the size and cost of electronic components and is impractical for integrated semiconductor chips. This underscores the need to search for a new game-changing circuit design solution, which is the focus of the proposed thermal noise cancellation research in this project. The intriguing challenges and intellectual allure surrounding the noise-cancellation analog electronic circuit design have the potential to motivate undergraduate and graduate students toward this electrical engineering discipline, igniting interest not only in analog electronics but also in the broader spectra of science and engineering. Building upon this initiative, the outreach plan involving both the University of Texas at Dallas and the University of Texas Rio Grande Valley holds the potential to impact both institutions and the broader communities in the North and South Texas regions, thereby fostering a strong educational component that will contribute to the future workforce development in the semiconductor industry. \r\n\r\nIn this project, the principal investigator (PI) introduces a closed-loop noise-cancellation technique to suppress thermal noise in signal-sampling circuits (a.k.a. kT/C noise, where k is the Boltzmann\u2019s constant, T is the absolute temperature, and C is the sampling capacitance) while improving the linearity of the sample-and-hold (S/H) circuit over a prior open-loop noise-cancellation technique. The insight of the closed-loop technique is based on and derived from an accurate analysis of the existing open-loop counterpart\u2019s limitations, primarily its signal-feedthrough nonlinearity problem associated with the delayed secondary sampling operation. The necessity of employing a large ac-coupling capacitor for noise storage and a two-stage operational amplifier presents several design challenges, including higher power, larger area, and compromised analog performance. The project will develop a new closed-loop architecture to eliminate signal-feedthrough distortion without a large noise-storage capacitor and a two-stage amplifier. Additionally, the research team will incorporate a digital predictive amplifier-swing neutralization technique to further enhance the noise-cancellation performance of and improve signal linearity in the closed-loop architecture. The project will demonstrate the new closed-loop architecture using a semiconductor chip prototype implemented in a 16-nm silicon CMOS technology, with a targeted size reduction of front-end sampling capacitance by 20 times as compared to a state-of-the-art commercial product. To facilitate benchmarking the high dynamic range of the S/H circuit achieved by the new noise cancellation technique, a 16-bit pipelined successive-approximation-register (SAR) analog-to-digital converter (ADC) will be integrated on the same prototype chip.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yun",
+   "pi_last_name": "Chiu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yun Chiu",
+   "pi_email_addr": "chiu.yun@utdallas.edu",
+   "nsf_id": "000619657",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Dallas",
+  "inst_street_address": "800 WEST CAMPBELL RD.",
+  "inst_street_address_2": "SP2.25",
+  "inst_city_name": "RICHARDSON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9728832313",
+  "inst_zip_code": "750803021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT DALLAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EJCVPNN1WFS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Dallas",
+  "perf_str_addr": "800 WEST CAMPBELL RD.",
+  "perf_city_name": "RICHARDSON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "750803021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  },
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  },
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 447363.0
+  }
+ ],
+ "por": null
+}

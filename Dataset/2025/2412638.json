@@ -1,0 +1,126 @@
+{
+ "awd_id": "2412638",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "DMRG Studies of Strongly Correlated Systems",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924942",
+ "po_email": "dhess@nsf.gov",
+ "po_sign_block_name": "Daryl Hess",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 587494.0,
+ "awd_amount": 388397.0,
+ "awd_min_amd_letter_date": "2024-11-15",
+ "awd_max_amd_letter_date": "2024-11-15",
+ "awd_abstract_narration": "NONTECHNICAL SUMMARY\r\nThis award supports theoretical and computational research and education to advance the understanding of materials in which strong interactions among electrons lead to interesting and useful properties. Among these is superconductivity, a quantum state of many electrons in a metal that is characterized by the absence of all electrical resistance. Understanding how superconductivity arises in a family of materials called the cuprates, which are composed of stacked planes containing copper and oxygen atoms, is particularly important because the superconductivity occurs at relatively high temperatures, accessible with inexpensive types of refrigeration. Physicists try to understand such strongly correlated materials using simplified models, where if the model is correct, the solution of the model matches the experimental properties.  For the cuprates, since their discovery in 1987, most of the attention has focused on one model, the Hubbard model. Unfortunately, the Hubbard model can only be solved approximately through numerical simulation on supercomputers, and even that is extremely challenging. Conflicting results have been obtained by different groups and simulation approaches for decades. In the last few years, this situation has changed; now, by combining different simulation approaches, consensus on this problem is emerging. In work supported by the previous award, the PI in collaboration with several other groups worldwide has numerically solved the Hubbard model accurately enough to answer the question: Can the model give a correct but simplified description of cuprate superconductivity?  The answer turns out to be yes, it does:  the simulations obtained superconductivity of the right type with stronger superconductivity for the materials where it should be stronger.   This current renewal grant will continue this project, investigating other microscopic properties in addition to superconductivity, and relating all the properties in more detail to what experiments show for specific cuprate materials.\r\n\r\nOne of the most challenging difficulties in programming either a quantum computer or a supercomputer to solve the quantum mechanical equations of molecules, for applications such as drug design, is the complexity of the equivalent of the Hubbard model, called the \"molecular Hamiltonian\", which has millions or billions of terms.  The investigator and his group have been working on unconventional \u201cdiagonal\" models with orders of magnitude fewer terms.  Previous work has demonstrated the effectiveness of this on very simple molecules, and the current project will generalize this to arbitrary molecules, with the goal of improving both quantum and ordinary computer simulations substantially.\r\n\r\nWith previous NSF support, the PI and his group created the ITensor software library, the most widely used library for tensor network calculations, used in the calculations described above.  ITensor continues to grow in its use worldwide, and the team continues to aid its development and plan its future development.\r\n\r\nTECHNICAL SUMMARY\r\nThis award supports theoretical and computational research and education in the exciting area of condensed matter physics focused on the study of strong correlation effects in low dimensional systems.  These systems exhibit a wide range of behavior, such as high temperature superconductivity, antiferromagnetism, and striped and spin liquid phases.  Simulation techniques are increasingly necessary to understand these systems, as they have strong coupling and competing types of order. The PI is the inventor of the density matrix renormalization group(DMRG),  one of the most powerful techniques for studying these systems.  The PI's group will apply DMRG and related tensor network techniques to a variety of strongly correlated systems.  One focus during this period will be studies of stripe order, pairing, and pseudogap behavior in models describing the cuprates.\r\n\r\nAnother focus will be applying time dependent DMRG techniques to study dynamical and finite temperature properties of two-dimensional Hubbard and t-J models, and frustrated spin liquid systems.  A third will be developing our Gausslet basis sets for chemically more realistic descriptions of strongly correlated systems.\r\n\r\nThe use of 2D DMRG on cylinders with finite but increasingly wide circumferences has contributed to major recent progress that has been made in the ability to simulate 2D quantum systems. The PI and his group have pioneered these methods, which can produce accurate results on 2D doped or frustrated systems with 200-400 sites.  They will increasingly focus on finite temperature and dynamical properties of these systems in order to better connect with experiments. These studies will utilize the minimally entangled typical thermal states algorithm, developed by the PI, to study the relationship between pseudogap behavior, Fermi surface reconstruction, and stripes in Hubbard models, while generating spectral functions for close comparison to experiments. Similar techniques will be applied to study new frustrated magnetic systems with the potential for spin liquid behavior.\r\n\r\nFor the study of the electronic structure of strongly correlated solids and molecules, the nested-Gausslet basis sets developed by the group allow an efficient diagonal approximation for the molecular Hamiltonian. This greatly reduces Hamiltonian complexity, potentially speeding up a wide variety of calculations both on classical and quantum computers.  Previous work could only treat simple, linear molecules. The team will continue to  develop these methods to apply to any molecule or solid.\r\n\r\nThe algorithms and software developed by PI and his group have had a very broad impact on a variety of fields, including chemistry, computer science, numerical analysis, and machine learning.  Under previous NSF support, a notable success was the development of the Intelligent Tensor (ITensor, available at ITensor.org) library, now broadly used for DMRG, matrix product state, and related tensor network methods.  The project will continue to support the development of ITensor, particularly to utilize continuing advances in the software field.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Steven",
+   "pi_last_name": "White",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Steven R White",
+   "pi_email_addr": "srwhite@uci.edu",
+   "nsf_id": "000459332",
+   "pi_start_date": "2024-11-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "4129 Reines Hall",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926974575",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "8396",
+   "pgm_ref_txt": "Clean Energy Technology"
+  },
+  {
+   "pgm_ref_code": "8399",
+   "pgm_ref_txt": "Energy Storage or Transmission"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 388397.0
+  }
+ ],
+ "por": null
+}

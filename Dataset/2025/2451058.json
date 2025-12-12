@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451058",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SHF: Advancing Sustainable Software Engineering Practices with Energy-Efficient Large Language Models for Code",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-04-15",
+ "awd_max_amd_letter_date": "2025-04-15",
+ "awd_abstract_narration": "In recent years, software engineering has undergone a significant transformation with the integration of artificial intelligence into software development workflows. As part of this evolution, large language models have proven to be powerful assets, enabling the automation of various software engineering tasks. Collectively known as Large Language Models for Code (LLMc), these models have been effectively utilized to assist developers in fixing bugs, code generation, software documentation, software testing, and code review, among other practices. The success of LLMc is largely attributed to advancements in computational hardware and the growing availability of large-scale training datasets. However, the increasing reliance on LLMc has also brought to light significant concerns regarding sustainability and environmental impact. Training and deploying LLMc demands extensive computational resources, resulting in significant energy consumption, high costs, and substantial carbon emissions, posing challenges to their long-term sustainability. To address these challenges, this project aims to lay the groundwork for developing sustainable and cost-effective artificial intelligence methods in software engineering automation by enhancing the efficiency of LLMc. The project will integrate its research findings into computer science academic courses, which will help equip future software engineers with the knowledge and tools necessary for sustainable adoption of LLMc in software engineering practices.\r\n\r\nThe proposal focuses on two key strategies: (i) optimizing training data by filtering out low-quality instances using software engineering task-specific metrics, thus reducing computational costs while preserving learning capabilities, and (ii) applying model compression techniques, particularly quantization, to significantly decrease model size and resource consumption without compromising performance. Preliminary research has shown the effectiveness of these methods in improving efficiency for code-related tasks such as code generation and summarization. Building on these insights, this project will expand such optimizations to a wider range of software engineering automation tasks, ensuring their applicability across various scenarios. By establishing a structured methodology to improve LLMc efficiency, this research will offer practical implementation strategies, technical recommendations, and a comprehensive assessment of sustainability-focused optimizations for artificial intelligence-driven software engineering tools.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Antonio",
+   "pi_last_name": "Mastropaolo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Antonio Mastropaolo",
+   "pi_email_addr": "amastropaolo@wm.edu",
+   "nsf_id": "0000A0WGW",
+   "pi_start_date": "2025-04-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "College of William and Mary",
+  "inst_street_address": "1314 S MOUNT VERNON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "WILLIAMSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7572213965",
+  "inst_zip_code": "23185",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "VA01",
+  "org_lgl_bus_name": "COLLEGE OF WILLIAM AND MARY",
+  "org_prnt_uei_num": "EVWJPCY6AD97",
+  "org_uei_num": "EVWJPCY6AD97"
+ },
+ "perf_inst": {
+  "perf_inst_name": "College of William and Mary",
+  "perf_str_addr": "1314 S MOUNT VERNON AVE",
+  "perf_city_name": "WILLIAMSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "231852817",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "VA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

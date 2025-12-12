@@ -1,0 +1,102 @@
+{
+ "awd_id": "2504263",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: III: Medium: Advancing Large Language Model Unlearning: Foundations and Applications",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 268000.0,
+ "awd_amount": 268000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Large language models (LLMs) are increasingly integrated into daily life, powering applications in education, healthcare, code generation, and more. However, these models can inadvertently memorize and reproduce sensitive or harmful content, including private user data, copyrighted material, and unsafe instructions. Retraining LLMs from scratch to remove such content is often impractical due to high cost and complexity. This project charts a new course toward more controllable, debuggable, and secure artificial intelligence (AI) through LLM unlearning, a paradigm that enables the targeted removal of harmful data influences and behaviors from pretrained models without compromising their overall performance. The research advances national priorities by promoting trustworthy AI, strengthening data privacy, ensuring safe deployment across sectors such as cybersecurity, healthcare, and education, and enabling contextually-adaptive systems aligned with a wide range of social norms. The project also offers strong educational and outreach opportunities, including curriculum development, research dissemination through workshops, tutorials, publications, and open-source software, as well as the creation of inclusive mentoring programs.\r\n\r\nThis project aims to establish a comprehensive foundation for LLM unlearning by addressing challenges across four interconnected areas: optimization, model, data, and application. On the optimization front, it develops new algorithmic frameworks to enhance the effectiveness, robustness, and efficiency of LLM unlearning. At the model level, it investigates how internal components of LLMs contribute to memorization, introducing interpretability-driven approaches to identify and adjust influential weights without compromising essential capabilities such as LLMs' \"emergent\" abilities. On the data side, the project examines the role of watermarking and coreset selection in shaping unlearning outcomes, advancing methods for handling imperfect or proxy forget sets. These innovations are applied to privacy-sensitive scenarios such as conversational risk assessment in online dating, enabling LLMs to evaluate behavioral risks while erasing personal information. Conducted by a multidisciplinary team with a strong track record in trustworthy machine learning, the project is expected to deliver principled algorithms, practical tools, and rigorous benchmarks that advance responsible, adaptable, and secure AI systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sijia",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sijia Liu",
+   "pi_email_addr": "liusiji5@msu.edu",
+   "nsf_id": "000831735",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan State University",
+  "inst_street_address": "426 AUDITORIUM RD RM 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST LANSING",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "5173555040",
+  "inst_zip_code": "488242600",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "MICHIGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "VJKZC4D1JN36",
+  "org_uei_num": "R28EKN92ZTZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan State University",
+  "perf_str_addr": "426 AUDITORIUM RD RM 2",
+  "perf_city_name": "EAST LANSING",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "488242600",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 268000.0
+  }
+ ],
+ "por": null
+}

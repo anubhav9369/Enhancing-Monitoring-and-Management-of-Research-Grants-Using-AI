@@ -1,0 +1,141 @@
+{
+ "awd_id": "2515214",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EFRI BEGIN OI: Improving Learning of Embodied Organoid Intelligence Through Reward-Based Training",
+ "cfda_num": "47.041",
+ "org_code": "07040000",
+ "po_phone": "7032928367",
+ "po_email": "alismith@nsf.gov",
+ "po_sign_block_name": "Alias Smith",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1999508.0,
+ "awd_amount": 1999508.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Organoid intelligence (OI) is an emerging field that aims to harness the computational power of brain organoids for biocomputing and biomedical research, seeking to generate computing devices with substantially lower energy requirements than conventional digital electronics. Brain organoids are lab-grown brain tissues, each about the size of a small grain of sand, that can naturally form networks. This project seeks to incorporate reward-based learning mechanisms into brain organoids to enable more complex and adaptive behaviors and increase training efficiency. By connecting the organoids to tiny electronic shells and using chemical signals, the research team will teach them to play simple video games and guide small robots. Throughout the project, bioethicists will monitor every step to ensure responsible and ethical conduct of research and to keep the public informed about both benefits and concerns. The work will train multiple students, create open-source hardware and software, and launch community courses that invite citizen scientists to learn about biological computing. Success of this project could pave the way for computers that use a million times less energy than today\u2019s artificial-intelligence (AI) systems and open fresh paths for studying disorders such as Alzheimer\u2019s disease.\r\n\r\nThis project seeks to advance organoid intelligence through engineering three-tier brain assembloids that couple cortical, dopaminergic, and striatal regions inside self-folded shell micro-electro-fluidic arrays (SMEFAs). These interfaces can deliver millisecond-precision electrical stimulation and micromolar-resolution neuromodulator gradients while recording three-dimensional neural activity. The central hypothesis of this research is that reward-modulated spike-time-dependent plasticity (R-STDP) will enable data-efficient, continual reinforcement learning in biological networks. The goal of Thread 1 is to develop standardized culture protocols and validate long-term SMEFA stability. Under Thread 2, real-time closed-loop software will be created that maps environment observations to stimulation codes and decodes action signals from high-density recordings, benchmarking OI against deep-reinforcement learning baselines on curricula of Atari-like tasks and embodied robot control. In Thread 3, an experimental neuroethics program will be embedded that defines measurable capacities (sentience, agency, evaluative cognition) and implements tiered safeguards in any case of evidence of consciousness. This project will explore the fundamental mechanisms of biological learning and is expected to develop new biocomputing architectures and to create a framework for experimental neuroethics. The work should position OI as a transformative, sustainable architecture for next-generation adaptive systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "EFMA",
+ "org_div_long_name": "Office of Emerging Frontiers in Research and Innovation (EFRI)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Hartung",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Hartung",
+   "pi_email_addr": "thartun1@jhu.edu",
+   "nsf_id": "000769902",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Gracias",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Gracias",
+   "pi_email_addr": "dgracias@jhu.edu",
+   "nsf_id": "000490383",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lena",
+   "pi_last_name": "Smirnova",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lena Smirnova",
+   "pi_email_addr": "lena.smirnova@jhu.edu",
+   "nsf_id": "000828132",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Erik",
+   "pi_last_name": "Johnson",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erik C Johnson",
+   "pi_email_addr": "erik.c.johnson@jhuapl.edu",
+   "nsf_id": "000899289",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jonathan",
+   "pi_last_name": "Boyd",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jonathan L Boyd",
+   "pi_email_addr": "jboyd43@jh.edu",
+   "nsf_id": "0000A052B",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "763300",
+   "pgm_ele_name": "EFRI Research Projects"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1999508.0
+  }
+ ],
+ "por": null
+}

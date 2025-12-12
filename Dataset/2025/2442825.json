@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442825",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Privacy Auditing Frameworks and Defenses for Machine Learning Models Trained on Tabular Data",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 632430.0,
+ "awd_amount": 379224.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "This project's goal is to build better methods for assessing privacy risks in machine learning (ML) models trained using data in table-based formats. ML models trained on tabular data (e.g., patient records, loan application records) are commonly used in privacy-sensitive domains such as health or finance. This makes them valuable targets for attackers who want to steal private data. One critical threat to privacy in ML models is model inversion attacks, in which adversaries strategically query the model to infer attributes of the data used to build it. Model inversion attacks have been well-studied in image datasets, but are much less understood in table-based datasets. Further, attribute inference risks are often studied as a global property of the model; however, because training data may be unbalanced in terms of what it captures about the world, specific groups or individuals may be at much higher risk of attribute inference than others. Finally, models in sensitive domains are often trained using a technique called \"federated learning\", where multiple participants who each have some private data (but not enough to train a model) can jointly train a model without having to share the sensitive data directly. Federated learning has the potential to protect privacy, but it also poses new risks if some of the participants are adversaries. To address these questions, the project team will develop methods for auditing attribute inference risks and disparities in both centralized and federated learning ML models, along with defenses aimed at mitigating these risks. Together, the work will increase the privacy of people whose data is used in machine learning models, allowing them to be used more safely in important applications.\r\n\r\nThe technical aims of the project will be accomplished through three interconnected thrusts. First, the team will develop a framework to systematically audit attribute inference vulnerabilities by introducing an adaptable adversary model, designing novel attack algorithms, and developing an automated ML privacy auditing tool for comparative analysis across a wide spectrum of adversaries. Second, the team will develop the first-ever mathematical formalization to characterize disparity in attribute inference risks, along with novel attack techniques that exploit attribute inference disparity and target more vulnerable groups and nested groups by analyzing the ML model behaviors. Third, the project team will develop robust defenses for different phases of the ML pipeline, including data pre-processing, training, and inference, to mitigate attribute inference attacks and disparity in both centralized and federated settings. The novel defenses will balance privacy and utility by focusing on high-risk records and will also ensure privacy and utility fairness by designing novel selective and adaptive differential privacy-based and subspace learning-based solutions. The team will also leverage the research to create security competitions aimed at model inversion and public dashboards of privacy vulnerabilities in machine learning models in order to increase the impact of the project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shagufta",
+   "pi_last_name": "Mehnaz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shagufta Mehnaz",
+   "pi_email_addr": "sjm7535@psu.edu",
+   "nsf_id": "000934817",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 379224.0
+  }
+ ],
+ "por": null
+}

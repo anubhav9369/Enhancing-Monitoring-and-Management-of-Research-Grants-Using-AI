@@ -1,0 +1,98 @@
+{
+ "awd_id": "2531102",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Weakly Supervised Learning to Address Label-Data Irregularities in Sea-Ice Classification",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032927575",
+ "po_email": "skennan@nsf.gov",
+ "po_sign_block_name": "Sean Kennan",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 317922.0,
+ "awd_amount": 317922.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Arctic sea ice plays a crucial role in regulating global climate. Accordingly, monitoring sea ice conditions and mapping its properties, such as type, extent, and concentration, are important for climate monitoring as well as marine navigation and near- or off-shore operations. This project will address data availability and bottlenecks in manually producing maps of sea ice by applying artificial intelligence (AI) methods to the problem. The project will introduce novel AI driven methods to effectively learn from existing label data, despite its irregularities, in order to automate sea ice classification.\r\n\r\nThe intellectual merits of the proposed project are novel weakly supervised techniques that are aware of irregularities with existing label data for sea ice classification and provide methodological solutions to address these irregularities for improved sea ice classification performance. For Ill-formed Labels (i.e., coarse polygon-level annotations that fail to reflect spatial detail at the pixel-level required for typical methods) the sea ice classification problem will be reformulated and addressed with polygon-level data as a multi-instance, multi-label proportion learning problem. For Inaccurate Labels (i.e., uncertain annotations due to human subjectivity, ambiguous concentration ranges, or class trimming protocols) confidence-aware sample selection and uncertainty quantification will be embedded directly into model training via a hybrid strategy that combines loss correction. For Inadequate Labels (i.e., lack of sufficient pixel-level annotations needed to train supervised models effectively) a spatiotemporal multi-teacher knowledge distillation framework will be introduced that uniquely integrates foundation models and task-specific models to guide a task-specific student model for sea ice classification through meta-learned teacher weighting.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Barrett",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew P Barrett",
+   "pi_email_addr": "apbarret@kryos.colorado.edu",
+   "nsf_id": "000493616",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 317922.0
+  }
+ ],
+ "por": null
+}

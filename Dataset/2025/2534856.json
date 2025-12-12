@@ -1,0 +1,118 @@
+{
+ "awd_id": "2534856",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Risk Methodology for Supply Chain Networks",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 299999.0,
+ "awd_amount": 299999.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "This EArly-concept Grant for Exploratory Research (EAGER) award aims to enhance the resilience of the national supply chain network by developing forward-looking risk assessment and mitigation tools. These tools will improve preparedness for supply chain disruptions by developing systemic risk measures that will help identify threats to reliability in the national supply chain and inform appropriate strategic inventory levels needed to mitigate disruptions. The project will validate its results using the United States input-output network constructed from the Bureau of Economic Analysis data. It will focus on key subsectors, including semiconductor manufacturing, agricultural chemical production, logistics infrastructure, digital services, data centers, and industrial production services. The grant will contribute to the training of the STEM workforce in supply chain risk management.\r\n\r\nThis research plans to utilize a transformative supply chain risk management framework, grounded in perturbation theory and stochastic analysis. It introduces novel risk indicators and reliability metrics both at the subsector and system-wide levels, and captures how productivity shocks and latencies propagate through the input-output network. This research addresses a key gap in the supply chain literature, which is mainly based on static input-output models. Instead, the framework is dynamic and accounts for uncertainty in the input-output network and for inter-temporal dependencies within supply chain networks. It models cascading effects originating from stochastic productivity shock sequences and potentially extreme latencies using a sequence of Leontief-type models that are linked inter-temporally by a stochastic process with heavy-tailed inter-arrival times. The methodology will inform decision-makers about strategic changes to the input-output network that enhance reliability and reduce systemic risk in the supply chain. It will also support strategies for inventory management.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Leo Hamed",
+   "pi_last_name": "Amini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Leo Hamed Amini",
+   "pi_email_addr": "aminil@ufl.edu",
+   "nsf_id": "000925547",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Andreea",
+   "pi_last_name": "Minca",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andreea C Minca",
+   "pi_email_addr": "acm299@cornell.edu",
+   "nsf_id": "000649460",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "072E",
+   "pgm_ref_txt": "NETWORKS & QUEUING SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "071E",
+   "pgm_ref_txt": "MFG ENTERPRISE OPERATIONS"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299999.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2430816",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SCH: Multimodal Algorithms for Motor Imitation Assessment in Children with Autism",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 659107.0,
+ "awd_amount": 614957.0,
+ "awd_min_amd_letter_date": "2025-02-12",
+ "awd_max_amd_letter_date": "2025-02-12",
+ "awd_abstract_narration": "Approximately 1 in 54 children in the US is diagnosed with autism spectrum disorder (ASD). Given its high prevalence, there is a need for an automatic and scalable method to inform diagnosis and behavioral therapies. While prior work on finding early-emerging and reliable quantitative biomarkers of ASD has focused on non-motor features, abundant research evidence has revealed patterns of impaired motor imitation in a wide range of children with ASD, making motor imitation deficits a promising avenue to find a phenotypic biomarker. However, traditional imitation assessment methods often rely on expert-based observation, which is costly, time-consuming and error-prone, and lacks objectivity and scalability. Recent advances in computer vision and machine learning make artificial intelligence a promising technology to design an objective, reproducible and highly-scalable multimodal system functioning not only in well-equipped clinical setups but also at home for assessing imitation performance in children with ASD. However, critical challenges such as the design of specific imitation tasks for ASD assessment, the collection and labeling of multimodal data for training machine learning algorithms, and the development of novel fine-grained representations human movements and metrics for comparing such movements need to be addressed to test the validity, scalability and reproducibility of automatic motor imitation assessment algorithms to inform ASD diagnosis.\r\n\r\nThe overall goal of this project is to design, develop and test an objective, reproducible and highly-scalable multimodal system to observe children performing a brief video game-like motor imitation task, quantitatively assess their motor imitation performance, and investigate its validity as a phenotypic biomarker for autism. Accomplishing this goal will require an interdisciplinary approach which combines expertise in autism, child development, computer vision and machine learning. Specifically, this project will: (1) design motor imitation tasks that are relevant for ASD assessment, (2) design, test and validate a scalable and flexible system to collect and label multimodal data of children imitating a sequence of movements; (3) design a novel fine-grained representation of human movements that can be learned efficiently and is suitable for comparing the children's movements to the movements they need to imitate; (4) develop novel computer vision and metric learning algorithms for learning and comparing multimodal representations of human movements, and (5) use such metrics to generate candidate imitations scores that can be used as potential quantitative biomarkers for ASD. The motor imitation assessment methods to be developed in this project could be used in a wide variety of applications beyond assessing children with ASD, such as providing imitation performance scores for video-based rehabilitation therapy, surgical skill assessment, athletic activities and other movement-based instructional activities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rene",
+   "pi_last_name": "Vidal",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rene Vidal",
+   "pi_email_addr": "vidalr@upenn.edu",
+   "nsf_id": "000486258",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3451 WALNUT ST STE 440A",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046205",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 614957.0
+  }
+ ],
+ "por": null
+}

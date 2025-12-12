@@ -1,0 +1,102 @@
+{
+ "awd_id": "2500638",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Predictive Neural Dynamics for Latency Mitigation in Autonomous Driving",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Autonomous vehicles are regarded as a transformative technology with the potential to enhance safety, efficiency, and accessibility in transportation systems. However, a critical challenge, preventing their widespread adoption, is the delay between when sensors detect environmental changes and when the vehicle responds with appropriate actions. This latency, frequently quantified in milliseconds, can determine the difference between navigating safely around a suddenly appearing obstacle and experiencing a collision. The prevailing solutions utilize costly, high-performance hardware to mitigate these delays, rendering autonomous vehicles expensive and inaccessible to the general public. This project aims to address this fundamental challenge by developing intelligent systems that can predict what sensors will detect in the immediate future and prepare appropriate responses in advance, thereby effectively eliminating the negative effects of processing delays. The research has the potential to enhance the safety, reliability, and cost-effectiveness of autonomous vehicles, thereby facilitating their integration into society's transportation infrastructure. Beyond the realm of autonomous driving, this technology has the potential to enhance various applications, including remotely operated vehicles, delivery robots, and search-and-rescue systems. These domains necessitate rapid and precise responses to environmental changes, which are critical for ensuring safety and optimal performance.\r\n\r\nThis project aims at development of innovative neural predictive dynamics models that integrate two complementary approaches: sensory prediction and motor action modulation. The research team will develop sophisticated machine learning algorithms that can predict sensory inputs in dynamic driving environments. This will enable the system to anticipate changes before they are fully processed by traditional sensors. Concurrently, the project will develop adaptive neural networks for motor control that optimize vehicle responses based on both historical action patterns and predicted future sensory information. This bidirectional approach integrates insights from neuroscience, machine learning, control theory, and automotive engineering, thereby establishing a novel paradigm for bio-inspired autonomous control systems. The methodology will entail the development of state-of-the-art predictive models, their subsequent testing in simulated driving environments, and the validation of their performance against traditional reactive control systems. The project's interdisciplinary nature, conducted at the University of Michigan-Dearborn in the heart of the automotive industry, will provide unique opportunities for industry collaboration and student training in the fields of engineering and artificial intelligence.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jaerock",
+   "pi_last_name": "Kwon",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jaerock Kwon",
+   "pi_email_addr": "jrkwon@umich.edu",
+   "nsf_id": "000851765",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Dearborn",
+  "inst_street_address": "4901 EVERGREEN RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "Dearborn",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481282406",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "MI12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RY78VSF6P4G3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Dearborn",
+  "perf_str_addr": "4901 EVERGREEN RD",
+  "perf_city_name": "Dearborn",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481282406",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "MI12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

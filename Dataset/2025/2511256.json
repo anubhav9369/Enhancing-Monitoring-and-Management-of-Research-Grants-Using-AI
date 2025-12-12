@@ -1,0 +1,110 @@
+{
+ "awd_id": "2511256",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Advanced Digital Calibrators for 21cm Cosmology",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032925012",
+ "po_email": "mejohnso@nsf.gov",
+ "po_sign_block_name": "Megan C. Johnson",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 321340.0,
+ "awd_amount": 321340.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Measurements of neutral hydrogen in the Universe with radio telescopes can inform our understanding of dark energy, a mysterious component in our Universe causing its expansion to accelerate today. To make these measurements, astronomers must understand the radio telescopes very precisely. In a previous grant, researchers from Yale University and West Virginia University, in collaboration with Canadian astronomers, developed a radio calibrator source using a new, fast chip that can be flown on a drone with signal to noise good enough for this precise calibration. Previously, the researchers focused mainly on development and testing in the lab.  They will now upgrade the source, expand its capabilities, and focus on using it to calibrate radio telescopes by deploying it on the telescopes and drones. They will also develop a more robust lab version of a radio receiver outreach lab, used primarily for high school teachers and students.    \r\n\r\nNew 21cm interferometers targeting measurements of dark energy, reionization, and the dark ages require precise calibration, particularly of the instrument beam and gain, to remove bright foregrounds and extract the cosmological signal of interest. Currently, the incoherent (power only) calibrators developed to address this challenge limit the dynamic range of the measurement and also have no direct sensitivity to instrument phase. This research team has developed, tested, and validated a digital calibration source that addresses these critical gaps to make full-sky, high signal-to-noise measurements of the instrument beam. The researchers propose to use newly available versions of a Xilinx RFSoC board to update this source for wider bandwidth, improved stability, develop the ability to use multiple such sources simultaneously, deploy these sources on drones to calibrate new telescope arrays particularly well suited to drone beam mapping, and explore gain stabilization with this source.  They also propose to leverage efforts already underway in an NSF-funded radio instrumentation outreach program (DSPIRA program) to continue developing education-oriented radio receivers, which can be used in STEM programs at WVU and Yale. Graduate students supported by this ATI grant will use the DSPIRA receivers as a prototype to make a more robust lab version appropriate for outreach activities, based on their experiences building a week-long outreach module for the Pathways to Science program at Yale.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kevin",
+   "pi_last_name": "Bandura",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kevin Bandura",
+   "pi_email_addr": "kevin.bandura@mail.wvu.edu",
+   "nsf_id": "000685681",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "West Virginia University Research Corporation",
+  "inst_street_address": "886 CHESTNUT RIDGE ROAD",
+  "inst_street_address_2": "",
+  "inst_city_name": "MORGANTOWN",
+  "inst_state_code": "WV",
+  "inst_state_name": "West Virginia",
+  "inst_phone_num": "3042933998",
+  "inst_zip_code": "265052742",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WV02",
+  "org_lgl_bus_name": "WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M7PNRH24BBM8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "West Virginia University",
+  "perf_str_addr": "1220 Evansdale Drive",
+  "perf_city_name": "MORGANTOWN",
+  "perf_st_code": "WV",
+  "perf_st_name": "West Virginia",
+  "perf_zip_code": "265066070",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WV02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121800",
+   "pgm_ele_name": "ADVANCED TECHNOLOGIES & INSTRM"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7697",
+   "pgm_ref_txt": "INSTRUMENTATION"
+  },
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 321340.0
+  }
+ ],
+ "por": null
+}

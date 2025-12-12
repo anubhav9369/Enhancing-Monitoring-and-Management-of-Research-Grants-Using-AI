@@ -1,0 +1,114 @@
+{
+ "awd_id": "2442042",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Advancing Modeling and Control of Li-ion Batteries with Composite Electrodes via Distributed Parameter Systems",
+ "cfda_num": "47.041, 47.083",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 556504.0,
+ "awd_amount": 556504.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant will fund research that promotes creating new knowledge that intends to enable high-performance and long-lasting lithium-ion battery energy storage solutions, thereby promoting the progress of science, and advancing prosperity and welfare. Composite materials for battery electrodes offer higher energy and power densities compared to single-material electrodes. One compelling example is represented by silicon/graphite (Si/C) composite anodes due to silicon\u2019s exceptionally high theoretical specific capacity \u2013 nearly 10 times greater than that of commercially dominant graphite anodes. However, the inclusion of silicon presents complications caused by significant volume expansion during battery charging and rapid capacity fade, leading to safety risks, environmental concerns, and economic loss. A significant knowledge gap persists in understanding the fundamental physical interplay within battery composite anodes necessary to mitigate long-term battery degradation. This project will fund research that attempts to address these challenges by developing a holistic modeling and control framework to unveil how changes in the composite material structure, both during charging/discharging and over extended usage, affect battery performance, safety, and degradation. Shedding light on the nature of these challenges will help accelerate transition to a more sustainable energy storage landscape. The research is integrated with educational and outreach activities to inspire and train the next generation of engineers and leaders to address emerging battery challenges and support sustainable energy system transitions.\r\n\r\nThis research aims to make fundamental contributions towards developing a computational modeling framework to elucidate interactions within Si/C composite anodes and to devise novel analytical techniques to monitor and regulate safety-critical states in batteries. It intends to achieve this goal via three research tasks: (i) Developing a comprehensive multiphysics-based dynamic model to understand stress generation and volume change in silicon and graphite particles and how interactions would drive battery degradation; (ii) Creating a novel adaptive data-enabled predictive control framework for systems governed by partial differential equations to strategically reduce battery degradation while incorporating the unique moving boundary dynamics of silicon and graphite particles during charge and discharge cycles; and (iii) Developing an optimization-based scheme to investigate optimal placement of thermal sensors for spatio-temporal temperature estimation in large-scale battery packs. The algorithms will be rigorously validated on commercially available batteries and prototype cells by performing extensive hardware-in-the-loop experimental testing.\r\n\r\nThis project is jointly funded by the Dynamics, Control and Systems Diagnostics (DCSD) program, and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dong",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dong Zhang",
+   "pi_email_addr": "dzhang@ou.edu",
+   "nsf_id": "000870335",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Oklahoma Norman Campus",
+  "inst_street_address": "660 PARRINGTON OVAL RM 301",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORMAN",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4053254757",
+  "inst_zip_code": "730193003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OK04",
+  "org_lgl_bus_name": "UNIVERSITY OF OKLAHOMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EVTSTTLCEWS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Oklahoma Norman Campus",
+  "perf_str_addr": "660 PARRINGTON OVAL RM 301",
+  "perf_city_name": "NORMAN",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "730193003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OK04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 556504.0
+  }
+ ],
+ "por": null
+}

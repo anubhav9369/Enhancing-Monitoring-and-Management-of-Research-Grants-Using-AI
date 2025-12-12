@@ -1,0 +1,126 @@
+{
+ "awd_id": "2442410",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Symmetries in noisy multipartite quantum systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927049",
+ "po_email": "ebehrman@nsf.gov",
+ "po_sign_block_name": "Elizabeth Behrman",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 633770.0,
+ "awd_amount": 243726.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-01-14",
+ "awd_abstract_narration": "Multipartite entanglement is a crucial resource for quantum communication and computation, enabling exciting applications of quantum information science such as efficient algorithms to factor large integers or simulate complex physical systems. However, the exponential scaling of the dimension of multipartite quantum systems and the presence of environmental noise make a precise mathematical characterization of entanglement challenging. The goal of this project is to study the behavior of multipartite quantum correlations under the influence of environmental noise through the lens of symmetries. Understanding the interplay of correlations and noise is crucial to analyzing the performance of quantum communication protocols and informs the design of error-correcting codes that protect quantum information from decoherence. This project will develop versatile methods to tightly characterize the fundamental limits of faithful quantum communication and provide tools to analyze the asymptotic behavior of multipartite entanglement in large systems undergoing noisy quantum evolution. The research efforts of this project are complemented by the development of an online summer course at the undergraduate level teaching advanced concepts in linear algebra that are needed to start research in quantum information theory. The publicly available course will be specifically aimed at undergraduate students transferring from community colleges to research-active institutions and students interested in undergraduate research, in order to broaden the participation in quantum information science.\r\n\r\nIn this project, the effects of noise on multipartite quantum correlations are studied from an information-theoretic point of view in which environmental noise is modeled as a quantum channel. The task of protecting correlations from noise is cast as a communication task using this channel, with the optimal rates of faithful information transmission characterized by quantum channel capacities. Coding theorems express these capacities as the solutions of optimization problems of entropic quantities, which measure the amount of information that can be stored in or processed by a system. These entropic optimization problems are typically hard to solve due to the exponential scaling of the state space of multipartite quantum systems, and the resulting complicated structure of quantum correlations. However, the natural symmetries in this information-theoretic framework can be used to simplify the corresponding optimization problems using tools from representation theory. The first thrust of this project proposes a general framework for leveraging the structure implied by these symmetries to obtain efficient methods of approximating quantum channel capacities. This approach includes and generalizes many known examples of tight channel capacity characterizations and will lead to both new bounds on capacities and a better understanding of their fundamental behavior. The second thrust exploits symmetries in relevant noise models to analyze the asymptotic behavior of quantum correlations in large systems, shedding new light on the noise robustness of multipartite entanglement in such systems. The methods developed in this project will likely find applications in other parts of quantum information theory, entanglement theory, and learning theory.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Felix",
+   "pi_last_name": "Leditzky",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Felix Leditzky",
+   "pi_email_addr": "leditzky@illinois.edu",
+   "nsf_id": "000771014",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7928",
+   "pgm_ref_txt": "QUANTUM COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 243726.0
+  }
+ ],
+ "por": null
+}

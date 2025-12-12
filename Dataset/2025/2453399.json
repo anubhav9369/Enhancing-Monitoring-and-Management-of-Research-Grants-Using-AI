@@ -1,0 +1,98 @@
+{
+ "awd_id": "2453399",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Aspects of Benjamini-Schramm Convergence",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 311780.0,
+ "awd_amount": 311780.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "Classical dynamics studies how systems change in time. Ergodic theory, a subfield of dynamics, focuses on the statistical behavior of dynamical systems. Applications of ergodic theory are widespread: from traffic modeling to aerospace engineering and population dynamics. It is natural and of practical importance to generalize the role of time in a dynamical system to more complicated groups of symmetries. This generalized notion of dynamics leads to applications in statistical physics, number theory and geometry. However, new tools are needed when the group of symmetries is non-amenable which means that boundary phenomena are too significant to be safely ignored. One such tool is the weak local (or Benjamini-Schramm) limit. These limits formalize the asymptotic local behavior of large, possibly random, mathematical objects. This project is concerned with fundamental questions: when do these limits exist (for natural families of low-dimensional geometric objects) and given an infinite mathematical object (such as a manifold or network), can it be identified as the weak local limit of finite objects? \r\n\r\nThis research project has three main objectives.\r\n\r\n1) In recent work with M. Chapman, A. Lubotzky and T. Vidick, the primary investigator (PI) settled the Aldous-Lyons Conjecture in the negative: there exist non-sofic unimodular random graphs. These are random rooted graphs which cannot be approximated by finite graphs in the Benjamini-Schramm sense despite satisfying the Mass Transport Principle. One goal of this project is to find explicit non-sofic unimodular random graphs which are either hyperbolic, the 1-skeleton of a CAT(0) cubical complex, falsify the analog of Gottschalk\u2019s Conjecture regarding cellular automata or which have isomorphic Bernoulli shift spaces with different entropies. These may all be useful in finding non-sofic groups, a long-sought-after goal.\r\n\r\n2) In recent work with K. Rafi and H. Vallejos, the PI proved that Masur-Veech random translation surfaces have a weak local (Benjamini-Schramm) limit as genus tends to infinity. The main tool is an elaboration on the surgery techniques of Eskin-Masur-Zorich. The PI intends to build on this by developing multi-parameter Siegel-Veech Theory and proving weak local limits of hyperbolic surfaces decorated with measured laminations, abelian differentials, quasi-Fuchsian embeddings and so on.  The PI will investigate connections between these objects and Gaussian analytic functions, SLE curves, and the Curien-Warner Markovian triangulation. \r\n\r\n3) In celebrated work, J. Friedman proved that random d-regular graphs admit an almost maximal spectral gap with high probability as the number of vertices tends to infinity. Recent work of the PI and student A. Embry generalize this to the degree-regular block model (DRBM). A third objective of this project to extend this to generalize the Bordenave-Collins Theorem (proving strong convergence of random permutation representations of free groups) to strong convergence of a related block model version. If successful, this may show that Koopman representations of measure-preserving actions of free groups determine C*-algebras that are matricial field: they can be strongly approximated through maps to finite-dimensional algebras. It should also determine precise spectral properties of this large and varied class of sparse random graphs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lewis",
+   "pi_last_name": "Bowen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lewis Bowen",
+   "pi_email_addr": "lpbowen@math.utexas.edu",
+   "nsf_id": "000511625",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 311780.0
+  }
+ ],
+ "por": null
+}

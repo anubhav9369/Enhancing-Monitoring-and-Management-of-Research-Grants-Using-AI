@@ -1,0 +1,102 @@
+{
+ "awd_id": "2503883",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-BSF: DREAM Sentinels: Detecting emerging flaviviruses using cross reactive antibodies",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032922191",
+ "po_email": "asimonia@nsf.gov",
+ "po_sign_block_name": "Aleksandr Simonian",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 420625.0,
+ "awd_amount": 420625.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "Rapid paper diagnostics are convenient for testing whether a patient is infected by a disease. A biological fluid, like blood or saliva, is added to the paper, which then absorbs it and carries it to the test. Two red lines means the result is positive. However, these tests cannot detect whether the patient has been infected with a new emerging disease. This project will discover whether these rapid tests can be adapted for new diseases.  A new test will use nanoparticles of different colors and antibodies that bind to many different disease targets. This will create multicolored patterns that will be read using pattern recognition. To test this principle, a test will be created for flaviviruses, a family of viruses spread by mosquitos, ticks, and other vectors. Then, the performance of the rest will be verified using samples from patients infected with these viruses. The project will engage and train students who are new to research.\r\n\r\nTraditional paper immunoassays have proven to be powerful tools given that they can rapidly diagnose a patient within minutes. These rely on antibodies specific to a given target biomarker, which are immobilized onto a paper substrate and also linked to gold nanoparticles that produce a strong visual signal. One of the biggest challenges in infectious disease control is easy detection of unknown diseases when they first emerge, especially in a fieldable format.  This project will investigate a route to make adaptive diagnostics with the power to detect antigens of unknown viruses and classify them based on their similarity to known viruses. Traditional paper assays will be redesigned as multiplexed arrays. The set of target antigens will be five flaviviruses (Dengue, West Nile, Yellow Fever, Zika, and Japanese Encephalitis). The cross-reactivity of antibodies will be leveraged by exploiting their ability to bind to multiple targets. Additionally, these antibodies will be combined with gold nanoparticles of different colors to provide a multicolored pattern. The test readout will rely on pattern recognition of the colorimetric signal, using multidimensional analysis techniques such as principal component analysis (PCA) and hierarchical cluster analysis (HCA), as well as machine learning methods including linear discriminant analysis (LDA). The assay will be validated on patient samples infected with flaviviruses from collaborators, and compare its performance with a high sensitivity technique, optical modulation biosensing (OMB). The outcomes of this work will be a paradigm shift in how antibodies are used, demonstrating how cross-reactivity can be leveraged to develop broader and more versatile sensors and diagnostics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kimberly",
+   "pi_last_name": "Hamad-Schifferli",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kimberly Hamad-Schifferli",
+   "pi_email_addr": "kim.hamad@umb.edu",
+   "nsf_id": "000129269",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Boston",
+  "inst_street_address": "100 WILLIAM T MORRISSEY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "DORCHESTER",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172875370",
+  "inst_zip_code": "021253300",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MA08",
+  "org_lgl_bus_name": "UNIVERSITY OF MASS AT BOSTON",
+  "org_prnt_uei_num": "CGCDJ24JJLZ1",
+  "org_uei_num": "CGCDJ24JJLZ1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Boston",
+  "perf_str_addr": "100 WILLIAM T MORRISSEY BLVD",
+  "perf_city_name": "DORCHESTER",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021253300",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MA08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "790900",
+   "pgm_ele_name": "BIOSENS-Biosensing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  },
+  {
+   "pgm_ref_code": "1639",
+   "pgm_ref_txt": "SENSORS AND SENSING SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 420625.0
+  }
+ ],
+ "por": null
+}

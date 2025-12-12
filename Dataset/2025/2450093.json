@@ -1,0 +1,93 @@
+{
+ "awd_id": "2450093",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CIRC: New: Next Generation Message-Passing Parallel Programming for Heterogeneous Architectures",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 826099.0,
+ "awd_amount": 826099.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Each generation of emerging supercomputers advances available compute power, enabling new scientific discoveries.  However, parallel solvers and simulations often achieve only a small fraction of peak performance of the underlying supercomputer system because of inter-process communication overheads and complexities. In these applications, communication is handled by the Message Passing Interface (MPI) application programmer interface, provided through-standards-based implementations (via libraries and header files).  The achieved performance associated with the numerous possible types of inter-process communication vary greatly, depending not only on the underlying architecture but also the version of MPI that has been hand-tuned for the given system. Typically, a proprietary vendor-dependent implementation is available on the largest systems, with open-source versions available on cluster systems.  While multiple open-source versions of MPI exist, installing an appropriately tuned version requires significant expertise in both the MPI framework and the hardware of the system.  The gap between both the performance and modern feature coverage of production MPI's on large-scale systems can present challenges for application developers seeking to reach higher achievable performance and manage the complexities of modern architectures. \r\n\r\nThis project will therefore develop an open-source cyberinfrastructure, MPI Advance, which utilizes low-level communication routines, such as send and receive methods, from the hand-tuned system MPI installation to publish new and improved application programmer interfaces (APIs) to drive higher achievable performance without the need to supplant the built-in MPI implementations on large-scale systems.  MPI Advance uses the MPI-eXtension framework to provide optimizations within existing MPI APIs, extensions to these standard APIs, and entirely new routines that do not conform to the current standard but can lead to significant performance optimizations within existing parallel applications.  This cyberinfrastructure will be integrated within widely used solver frameworks, such as PETSc, hypre, and Trilinos, enabling straightforward integration into any application relying on these code bases.  Further, MPI Advance will provide a framework for research within MPI, allowing researchers to test new extensions across a range of applications and achieve new community best practices before these new features and APIs are proposed adoption within future editions of the MPI standard. MPI Advance will be made broadly available under BSD-3 license and be published via GitHub, in addition to documentation and supporting infrastructure on web pages dedicated to its user base.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anthony",
+   "pi_last_name": "Skjellum",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anthony Skjellum",
+   "pi_email_addr": "askjellum@tntech.edu",
+   "nsf_id": "000446874",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tennessee Technological University",
+  "inst_street_address": "1 WILLIAM L JONES DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "COOKEVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "9313723374",
+  "inst_zip_code": "385050001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "TN06",
+  "org_lgl_bus_name": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KZNHNMDUTJA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tennessee Technological University",
+  "perf_str_addr": "1 WILLIAM L JONES DR",
+  "perf_city_name": "COOKEVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "385050001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "TN06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 826099.0
+  }
+ ],
+ "por": null
+}

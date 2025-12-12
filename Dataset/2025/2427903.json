@@ -1,0 +1,122 @@
+{
+ "awd_id": "2427903",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: Optimally designed exchange-correlation functionals for solids using machine learning",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924920",
+ "po_email": "aklirono@nsf.gov",
+ "po_sign_block_name": "Alexios Klironomos",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 332739.0,
+ "awd_amount": 220991.0,
+ "awd_min_amd_letter_date": "2024-11-13",
+ "awd_max_amd_letter_date": "2024-11-13",
+ "awd_abstract_narration": "Non-Technical Summary\r\n\r\nThis award supports theoretical and computational research and education to enhance the accuracy and efficiency of first-principles quantum mechanical simulations, which are essential for understanding the electronic structure of materials at the atomic level. In today's rapidly evolving technological landscape, developing new materials with superior properties is crucial for advancing modern technologies and industries vital to the US economy, such as electronics, energy, and healthcare.\r\n\r\nThese simulations rely on approximate theories, creating a challenging tradeoff between accuracy and computational cost. Finding a way to make this tradeoff more favorable for accuracy without significantly increasing computational cost is critical. By leveraging advanced machine learning and artificial intelligence techniques, the research team seeks to create innovative methods that refine these approximations, potentially leading to the discovery of novel materials tailored for specific applications.\r\n\r\nThis initiative not only contributes to materials science but also underscores the importance of education and mentorship in fostering the next generation of scientists. The research team is dedicated to preparing students for successful careers in both academia and industry by equipping them with essential skills in artificial intelligence and innovative research practices. By actively engaging with students, the project aims to nurture new talent within the scientific community, paving the way for breakthroughs that can address pressing real-world challenges. Additionally, the new methodologies developed from this project will be incorporated into libraries used by standard electronic structure software packages, which will be made freely available to the research community.\r\n\r\n\r\nTechnical Summary\r\n\r\nThis award supports theoretical and computational research and education towards enhancing the accuracy and efficiency of Density Functional Theory (DFT) simulations, a standard method for studying the electronic structure of materials at the atomic scale. While DFT offers a balance between accuracy and computational cost, it relies on approximations that can limit reliability. This project aims to develop innovative approximations to the exact functional using advanced machine learning techniques.\r\n\r\nThe key developments include: 1) Database Optimization: Compiling a comprehensive database of solid materials to inform the development of new approximations. 2) Machine-Learned exchange and correlation models: Implementing new functionals within the established Jacob's ladder approach to ensure compatibility with standard electronic structure codes. 3) New Functional Design: Utilizing non-conventional descriptors to optimize the modeling of strong correlations in solid-state systems. The project addresses the urgent need for improved materials design, with significant implications for industries relying on DFT calculations. By applying machine learning to develop more accurate approximations, the research will contribute to the discovery of new materials.\r\n\r\nThis initiative not only contributes to materials science but also underscores the importance of education and mentorship in fostering the next generation of scientists. The research team is dedicated to preparing students for successful careers in both academia and industry by equipping them with essential skills in artificial intelligence and innovative research practices. By actively engaging with students, the project aims to nurture new talent within the scientific community, paving the way for breakthroughs that can address pressing real-world challenges. Additionally, the new methodologies developed from this project will be incorporated into libraries used by standard electronic structure software packages, which will be made freely available to the research community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kieron",
+   "pi_last_name": "Burke",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kieron J Burke",
+   "pi_email_addr": "kieron@uci.edu",
+   "nsf_id": "000441023",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "1102 Natural Sciences II",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926972025",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 220991.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504787",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "III: Medium: SMARTCAT: Developing Smart Data Catalogs for Data Science and AI",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922232",
+ "po_email": "sdraghic@nsf.gov",
+ "po_sign_block_name": "Sorin Draghici",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2029-06-30",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "The world has become data driven. Organizations, such as companies, domain sciences, and government agencies, increasingly have numerous datasets, scattered in many locations. When starting a data science or AI project, users often must find a specific datasets, then analyze them to extract insights. However, finding the needed datasets among a \u201csea of datasets\u201d is often very difficult. So organizations increasingly use data catalogs for this purpose. A data catalog stores the names, descriptions, and other characteristics of datasets, as well the relationships among them. Users can then query the catalog to find desired datasets. As such, data catalogs have become a critical enabler for data science and AI projects. Yet the state of the art in catalog development has remained quite limited, leading to underwhelming performance that falls short of the users\u2019 needs. In particular, not enough attention is devoted to the \u201cpain points\u201d of catalog users, and there is very little interaction among the research, vendor, user, and open-source tool communities. This has negatively impacted users, especially in domain sciences, with anecdotal evidence of intensive manual work to construct catalogs. This project seeks to address these limitations by first developing innovative and practical solutions for several pain points of catalog users, thereby accelerating research on these critical topics. Second, the project will combine these solutions to build SmartCat, a catalog software, and open-source SmartCat for educational and research purposes, and to serve domain science users. These technologies will facilitate the widespread deployment of data catalogs, resulting in better data science and AI for society, especially for domain sciences.  Findings from the project will be incorporated into a new course, a new textbook, and a proposed computing-oriented (CS+X) major for environmental sciences. This will help improve STEM education. Finally, the project will build on the above activities to promote bridges among stakeholder communities that work on data catalogs, thereby increasing partnership between academia, industry, and others. \r\n\r\nToward the above goals, this project considers a long-term agenda that spans the stakeholder communities (research, vendor, user, open-source tool) and applies Generative AI, especially large language models (LLMs), to solve catalog problems. The project will develop solutions to (1) enrich datasets with many types of metadata, such as table and column name expansions, textual descriptions, and tags, (2) discover relationships among the datasets, such as unionable, joinable, and lineage relationships, and (3) help users find desired datasets via browsing, keyword search, and natural language querying. These solutions will significantly advance the state of the art in data catalog, data discovery, and data integration, as well as the application of Generative AI to data management. The project introduces new core problems that are serious \u201cpain points\u201d for catalog users, but have received little attention from the research community. It considers problems that have been extensively studied, but points out the limitations of existing approaches, and proposes novel solutions. Like many current works, it also considers LLMs, but does so in the context of a real-world data management problem, namely data catalog. This uncovers serious novel challenges that studying LLMs in isolation does not. Finally, the project studies how to combine LLMs with a variety of other techniques, such as human-centric data management, traditional machine learning (ML), and big data scaling techniques, to build practical data catalog solutions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "AnHai",
+   "pi_last_name": "Doan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "AnHai Doan",
+   "pi_email_addr": "anhai@cs.wisc.edu",
+   "nsf_id": "000338392",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Paul",
+   "pi_last_name": "Hanson",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Paul C Hanson",
+   "pi_email_addr": "pchanson@wisc.edu",
+   "nsf_id": "000339700",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

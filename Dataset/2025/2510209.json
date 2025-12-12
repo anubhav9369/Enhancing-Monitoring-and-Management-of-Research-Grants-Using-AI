@@ -1,0 +1,98 @@
+{
+ "awd_id": "2510209",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Nonlinear oscillator chains: stochastic stability, thermodynamics, and data-driven computation",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 225000.0,
+ "awd_amount": 225000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Understanding how energy moves through nonlinear systems is essential for progress in many areas of science and engineering, including fluid dynamics, neuroscience, and the design of advanced materials. This project studies a mathematical model known as a nonlinear oscillator chain, where interactions between neighboring components can create complex, cascading flows of energy between different scales. Such systems serve as simplified yet powerful representations of more complicated physical processes, such as ocean turbulence or signal propagation in the brain. This project supports fundamental research in probability and applied dynamical systems, as well as the development of new computational tools for analyzing high-dimensional stochastic systems that also inform coupled neuronal oscillators and machine learning algorithms. Through student training activities, this work will help build a capable STEM workforce, contributing to national priorities in scientific advancement and education.\r\n\r\nRecent breakthroughs have drawn new connections between nonlinear dispersive equations and wave kinetic equations (WKE), with particular interest in understanding how energy cascades through scales in weakly nonlinear regimes. A central object in this theory is the Kolmogorov\u2013Zakharov (KZ) spectrum, a formal steady-state solution of the WKE that reflects how energy transfers across modes. This project investigates a class of nonlinear oscillator chains\u2014called energy cascade systems\u2014that are derived from nonlinear dispersive equations and serve as finite-dimensional approximations to wave turbulence. The principal goal is to rigorously study the nonequilibrium steady states (NESS) of these systems and their connection to the KZ spectrum. Building on recent success of proving the stochastic stability of NESS in short cascade chains using a newly developed Feynman-Kac-Lyapunov method, this work will extend these results to longer chains, addressing a key open problem in the field. Complementing this analytical work, the project will extend the principal investigator's earlier development of deep learning-based Fokker-Planck solver to genuinely high-dimensional systems and to Fokker\u2013Planck eigenfunction problems. The numerical work will support the study of oscillator chains and enable broader applications in coupled neuronal systems and machine learning. These combined efforts will advance the mathematical understanding of energy cascades, nonequilibrium phenomena, and high-dimensional stochastic dynamics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yao",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yao Li",
+   "pi_email_addr": "yaoli@math.umass.edu",
+   "nsf_id": "000653925",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 225000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,122 @@
+{
+ "awd_id": "2527532",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: eMB: Weak Form Scientific Machine Learning of Mechanisms in Disease Ecology",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 240000.0,
+ "awd_amount": 240000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "The Douglas-fir tussock moth and the spongy moth are insect pests that defoliate forests in North America, causing millions of dollars of damage every year, but damage would be far worse if not for the mortality caused by insect-killing viruses. Models that could predict how and when insect viruses will protect forests from defoliating insects would be invaluable for protecting forests. The creation of accurate models is hampered by the computational difficulties of using data to create realistic models, and by the logistic difficulties of collecting sufficient data to determine the best models. The investigators have recently developed a new class of interpretable machine learning algorithms that can discover the best mathematical models directly from data, even if the data are sparse and noisy, as ecological data usually are. In this project, the investigators will advance these methods to work with insect host-pathogen data. The ultimate goal is to rapidly provide robust, evidence-based models for guiding the management of pests of American forests. This project will foster a variety of inter-disciplinary mathematical biology and quantitative ecology research experiences for graduate and undergraduate students. Students in high school and university communities will be trained through the project outreach activities. \r\n\r\nThe goal of this work is to advance Weak form Scientific Machine Learning (WSciML) theory and methodology, expanding its capabilities in model discovery and parameter inference to answer critical questions in disease ecology, with applications in the use of pathogens to control pest insects. The central premise of the research is that faster and more robust parameter estimation algorithms and automated model discovery methods will dramatically enhance the usefulness of general models of host-pathogen dynamics for guiding the microbial control of forest pests, as well as enabling accelerated scientific discovery more broadly. This project builds on a close collaboration between the investigators, whose collective research expertise spans applied mathematics, computational statistics, disease ecology, and forestry. The project aims to transform parameter inference and equation discovery from forward-solver discretizations, which take months of computing time, to data-driven weak form computations, which take seconds to minutes of computing time. Modern weak-form methods are superior in accuracy, robustness, and computational efficiency, but have not been sufficiently developed to be of practical use in ecology. The WSciML methods that are developed will be tested by using them to understand how host and pathogen variation drive the spread of insect pathogens, thereby testing whether WSciML can handle the sparse observations, non-Gaussian errors, and other problems that have prevented the effective use of insect pathogens for protecting forest health.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Bortz",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "David M Bortz",
+   "pi_email_addr": "dmbortz@colorado.edu",
+   "nsf_id": "000303252",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vanja",
+   "pi_last_name": "Dukic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vanja Dukic",
+   "pi_email_addr": "Vanja.Dukic@Colorado.edu",
+   "nsf_id": "000109120",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 240000.0
+  }
+ ],
+ "por": null
+}

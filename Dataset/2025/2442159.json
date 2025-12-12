@@ -1,0 +1,106 @@
+{
+ "awd_id": "2442159",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Online Algorithms for Real-time Interventions against Healthcare Associated Infections",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 599783.0,
+ "awd_amount": 599783.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "Patients admitted to healthcare facilities are routinely exposed to dangerous pathogens and antimicrobial-resistant organisms, leading to secondary infections unrelated to the primary reason for hospital admission. These infections, broadly termed healthcare-associated infections (HAIs), impose a significant health and economic burden, with an estimated 4.5 HAIs per 100 hospital admissions and annual costs ranging from $28 to $45 billion dollars. The health and economic burden of HAIs can be mitigated by deploying timely and effective interventions. This project aims to develop novel computational approaches to identify effective intervention strategies by leveraging electronic medical records data. The proposed intervention strategies will also incorporate predictions about potential future infections and the previously unobserved missing/asymptomatic infections inferred by machine learning algorithms. The algorithms developed will lead to practical resource recommendations before and during an HAI outbreak and help mitigate a wide range of secondary effects (e.g., the development of antimicrobial resistance organisms). \r\n\r\nA significant outcome of the project will be the formulation of a novel class of online optimization problems and the resulting suite of online resource algorithms with worst-case approximation and hardness guarantees. The project paves the way for the principled incorporation of machine learning-based epidemic forecasting models with intervention algorithms; it does so by developing learning-augmented online algorithms whose performance demonstrably improve with forecasting accuracy. It also tackles the problem of inferring unobserved infection events (e.g., asymptomatic cases and surface contamination) and incorporates them into the online intervention algorithms. Advances will be made in the evaluation of data-driven algorithms in HAI intervention, inference, and forecasting tasks by setting standardized benchmarks. The real-time recommendations made by the online algorithms developed as part of this project will lead to near-optimal resource strategies to reduce the risk of HAI and secondary outbreaks. High-school, undergraduate, and graduate student training at the intersection of computer science and public health will produce workforce with exceptional computational skills and the ability to solve critical public health problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bijaya",
+   "pi_last_name": "Adhikari",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bijaya Adhikari",
+   "pi_email_addr": "bijaya-adhikari@uiowa.edu",
+   "nsf_id": "000833358",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Iowa",
+  "inst_street_address": "105 JESSUP HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IOWA CITY",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "3193352123",
+  "inst_zip_code": "522421316",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IA01",
+  "org_lgl_bus_name": "THE UNIVERSITY OF IOWA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z1H9VJS8NG16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Iowa",
+  "perf_str_addr": "105 JESSUP HALL",
+  "perf_city_name": "IOWA CITY",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "522421316",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "IA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599783.0
+  }
+ ],
+ "por": null
+}

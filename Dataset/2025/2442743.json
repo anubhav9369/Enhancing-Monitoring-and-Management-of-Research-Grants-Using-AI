@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442743",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Magneto-electric Microrobots",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 515591.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) award will create nimble, smart robots no larger than a hair\u2019s width in size that, using on-board electronics, can carry out medical procedures deep in the human body. If realized, these tiny robots would broadly impact minimally invasive medicine, providing a unique way to deliver drugs, execute surgery, or monitor the body with cell-scale precision. In addition to improving national health, building autonomous systems comparable in size to microorganisms will help shed light on how microscale physics shapes and constrains living systems. Finally, due to a series of scalable manufacturing steps, each of these robots will cost fractions of a penny per machine. This award will leverage the low cost to realize broad public engagement with microrobotics including through museum exhibits, high-school outreach programs, lab-based coursework, and a startup dedicated to making microrobots commercially available to the American public.\r\n\r\nThe core technological focus of this award is developing a new propulsion system called magnetoelectric actuators (MEAs). Each MEA consists of a layer of magnetostrictive and piezoelectric material bonded together. The former allows magnetic energy to be converted into mechanical work while the latter facilitates electronic control. Since magnetic fields easily penetrate tissue, this scheme provides a path to transferring large amounts of mechanical energy to tiny robots operating in vivo without sacrificing the capacity for on-robot electronic control. Specific goals of this project include realizing hundred-micron robots that travel at speeds of up to mm/s, operate cm deep in the body, and consume minimal electrical power (\u223c 1pJ) to switch swimming on and off with on-board semiconductor electronics. These goals are explored over three main thrusts. The first develops MEAs at a device level, building fabrication protocols, integrating the necessary materials, and characterizing the actuator's capacity to drive and control fast fluid flows. The second thrust builds prototype microrobots with optoelectronic control circuits and develops control laws that robots can use to execute prescribed motions. The final thrust implements a fully autonomous microrobot that uses MEAs and on-board computation to climb a temperature gradient at high-speed.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Marc",
+   "pi_last_name": "Miskin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marc Miskin",
+   "pi_email_addr": "mmiskin@seas.upenn.edu",
+   "nsf_id": "000797593",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "Levine Hall",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046228",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 515591.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2448380",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Amortized Bayesian Inference for Computational Models of Cognition and Behavior",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 375000.0,
+ "awd_amount": 375000.0,
+ "awd_min_amd_letter_date": "2025-03-18",
+ "awd_max_amd_letter_date": "2025-03-18",
+ "awd_abstract_narration": "This research advances Bayesian inference for the analysis of complex and large-scale human data. Computational models are highly influential across the behavioral sciences. Many complex models, however, are beyond the reach of traditional statistical methods or demand unreasonably high computational costs. This project provides researchers with a widely applicable framework for efficient Bayesian inference. The framework enables researchers across the social and behavioral sciences to quickly develop, fit, criticize, and adapt complex mechanistic models, overcoming the constraints imposed by traditional statistical methods. Furthermore, the project makes important contributions to open science and reproducibility by providing a freely accessible and transparent interface for researchers to benchmark Bayesian methods systematically and communicate results. Finally, the project supports and trains junior researchers who will drive key methodological developments.\r\n\r\nThis research upscales Bayesian methods by building on recent progress in amortized Bayesian inference (ABI). ABI repays users with instant inference of latent parameters following a lengthier training phase that relies on model simulations as training data. It can be viewed as a factory for pre-trained statistical models, akin to generative pre-trained transformers (GPTs). Building on these ideas, the project introduces qualitatively new developments that (1) generalize the scope of amortized inference by supporting multiple model families, new experimental designs, and real-time adaptation to changes in models or data; (2) ensure robustness and reliability by developing novel semi-supervised methods to mitigate model misspecification and increase accuracy on unseen real data; and (3) establish benchmarking standards by creating a comprehensive open-source framework with metrics, models, and benchmarks to evaluate and continuously improve computational tools for Bayesian inference.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stefan",
+   "pi_last_name": "Radev",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stefan T Radev",
+   "pi_email_addr": "radevs@rpi.edu",
+   "nsf_id": "0000A0S9K",
+   "pi_start_date": "2025-03-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133300",
+   "pgm_ele_name": "Methodology, Measuremt & Stats"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 375000.0
+  }
+ ],
+ "por": null
+}

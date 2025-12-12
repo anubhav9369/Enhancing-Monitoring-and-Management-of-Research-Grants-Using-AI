@@ -1,0 +1,114 @@
+{
+ "awd_id": "2517645",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Improving Zero-Shot Learning of Manufacturing Anomalies by Leveraging Textual Sources",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 315000.0,
+ "awd_amount": 315000.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "In advanced manufacturing systems, anomalies such as unexpected deviations from normal process behavior can lead to defective products or production disruptions. Detecting these anomalies early is essential for maintaining product quality and reducing waste. However, identifying such faults is challenging, especially when their occurrence is rare and thus there is a lack of labeled data for conventional machine learning methods to recognize. This award supports research looking to address this gap by developing an intelligent system that learns from existing engineering knowledge embedded in texts and images in professional documents to detect new and unforeseen anomalies. The proposed process does not rely solely on expensive or exhaustive measurements needed for traditional fault diagnostic methods. Thus, this project looks to strengthen domestic production capabilities and reduce dependence on manual inspection and expert-only knowledge. Furthermore, the project will engage STEM students in cutting-edge research at the intersection of artificial intelligence, natural language processing and manufacturing engineering. Through engagement with industry partners, students will gain hands-on experience with real-world challenges, preparing them for the advanced manufacturing workforce. Results will be shared broadly with the manufacturing community. In addition, industry seminars with 3D printer suppliers and automakers will support long-term technology transfer. \r\n\r\nThe goal of this project is to establish a scalable and automated approach that combines technical documents with machine learning to detect manufacturing anomalies in zero-shot settings. The documents include publications, experiment reports, and simulation data. A key innovation is the automatic creation of hierarchical knowledge graphs (HKG) that extract and organize domain-specific attributes from texts and images in diverse document sources. These attributes provide context-aware supervision to connect real-world measurements with descriptions of previously unseen faults. Unlike conventional zero-shot learning methods that rely on generic embedding or black-box foundation models, this approach builds a structured, engineering-specific knowledge base. The model uses this base to reason about new failure modes by comparing them to known cases. This approach seeks to enable explainable and accurate anomaly detection without labeled data for each failure type. The method looks to support automatic generation of graph-based model architectures, helping overcome challenges in designing model architectures for physics-informed machine learning. The framework will be demonstrated in two powder bed manufacturing settings - lithium-ion battery electrode coating and metal binder jetting - to identify unseen subsurface anomalies from surface-level data. This research seeks to advance zero- or few-shot learning methodology and supports generalizable, interpretable anomaly detection in diverse manufacturing environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hui",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hui Wang",
+   "pi_email_addr": "hwang10@fsu.edu",
+   "nsf_id": "000713481",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "2005 Levy Avenue",
+  "perf_city_name": "TALLAHASSEE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323105754",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "229Y00",
+   "pgm_ele_name": "MSI-Manufacturing Systms Integ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "118E",
+   "pgm_ref_txt": "GRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "016Z",
+   "pgm_ref_txt": "Cybermanufacturing Systems"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 315000.0
+  }
+ ],
+ "por": null
+}

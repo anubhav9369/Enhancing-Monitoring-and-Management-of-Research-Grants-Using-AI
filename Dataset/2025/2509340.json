@@ -1,0 +1,126 @@
+{
+ "awd_id": "2509340",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CDS&E: Finding the Physics that Matters: A New Framework for Interpretable and Robust Predictive Models for Astrophysics and Cosmology",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "03020000",
+ "po_phone": "7032927203",
+ "po_email": "sschuler@nsf.gov",
+ "po_sign_block_name": "Simon Schuler",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 582954.0,
+ "awd_amount": 582954.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "The Cosmic Microwave Background (CMB) is the relic radiation leftover from the explosive beginning of the Universe, known as the Big Bang. Analysis of the CMB suggests that the early Universe was smooth and homogeneous; whereas observations reveal that today it is mostly empty space filled with galaxies of different shapes and sizes. One of the most promising observational probes is 21 cm radiation from neutral hydrogen that was present in the early Universe. Researchers at Brown University will develop novel machine learning (ML) and artificial intelligence (AI) methods to model and interpret this cosmological 21 cm emission, providing insights into the nature of the first stars, galaxies, and the growth of cosmic structure. These ML/AI methods will have significant impact on any field where key information is encoded in image-wide patterns. The project will also provide training for a graduate student who will be deeply involved in the project and three undergraduate students as part of a continuing research experience program that provides flexible scheduling to accommodate familial, military, or other commitments.\r\n\r\nMeasurements of highly redshifted cosmological 21 cm emission from neutral hydrogen during the epoch of reionization present the best way to study star and galaxy formation in the early Universe, because the cosmological 21 cm signal traces the neutral intergalactic medium and encodes the detailed properties of all the sources producing the ionizing radiation (i.e., stars and galaxies). The proposed ML/AI techniques will incorporate new interpretability and generalization methods that will make use of counterfactual data, which are inputs that produce significantly different outputs in the predictive models that are being explained. A framework to leverage the results to make predictive models more robust and generalize better across different physical simulations will then be developed. This work will provide an advanced tool to 21 cm cosmologists that is expected to improve robustness and trustworthiness of their predictive models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Stephen",
+   "pi_last_name": "Bach",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stephen H Bach",
+   "pi_email_addr": "stephen_bach@brown.edu",
+   "nsf_id": "000799726",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jonathan",
+   "pi_last_name": "Pober",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jonathan Pober",
+   "pi_email_addr": "Jonathan_Pober@brown.edu",
+   "nsf_id": "000629848",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "808400",
+   "pgm_ele_name": "CDS&E"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 582954.0
+  }
+ ],
+ "por": null
+}

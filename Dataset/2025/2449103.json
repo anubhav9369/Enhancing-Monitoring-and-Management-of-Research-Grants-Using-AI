@@ -1,0 +1,117 @@
+{
+ "awd_id": "2449103",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Towards an Open-Source Ecosystem for Accelerating High-Resolution Terrain Parameter Computation in Earth Science Applications",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924938",
+ "po_email": "azaffos@nsf.gov",
+ "po_sign_block_name": "Andrew Zaffos",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 219376.0,
+ "awd_amount": 239376.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project creates a software ecosystem to support terrain parameter analysis. Terrain parameter analysis provides numerical descriptors of the shape and form of land surfaces, which are indispensable data used in the study of agriculture, wildfires, irrigation, and other geosciences-related domains. Terrain parameters provide significant insights into soil moisture distribution, fire behavior, and hydrological processes. This project directly addresses the need for robust, open-source terrain parameter analysis tools through the development of an open-source software ecosystem centered around the GeoTiled software. This software empowers users to engage in swift computation of terrain parameters, thereby making data analysis both accessible and practical. The development of an open-science ecosystem to support GeoTiled will lower technical and computational barriers faced by the scientific community, and will facilitate data-driven decision-making that can enhance agricultural productivity and reduce environmental risks. The open-source nature of the project fosters innovation and transparency, providing the United States with a long-lasting edge in geospatial science and environmental modeling. \r\n\r\nThis project establishes a sustainable open-source software ecosystem centered on high-performance tools for computing terrain parameters. The project is based on a software platform that partitions digital elevation models into manageable sections to compute landscape features at scale while efficiently preserving accuracy. Project activities include identifying community needs through surveys and research discussions and enhancing reproducibility through improved data management and documentation. The team builds and supports a community of developers, scientists, and educators through governance structures, automated testing, user support, and training workshops. These outcomes build on a robust user-driven software platform and increase participation from contributors as well as broader adoption in Earth science workflows, supporting scientific discovery in areas such as wildfire prediction and agricultural planning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jack",
+   "pi_last_name": "Marquez",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jack D Marquez",
+   "pi_email_addr": "jmarque4@utk.edu",
+   "nsf_id": "000930631",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michela",
+   "pi_last_name": "Taufer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michela Taufer",
+   "pi_email_addr": "taufer@utk.edu",
+   "nsf_id": "000486752",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kin",
+   "pi_last_name": "NG",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kin W NG",
+   "pi_email_addr": "kng2@utk.edu",
+   "nsf_id": "0000A0TT8",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 239376.0
+  }
+ ],
+ "por": null
+}

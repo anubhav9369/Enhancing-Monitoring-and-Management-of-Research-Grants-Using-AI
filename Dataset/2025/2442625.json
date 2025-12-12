@@ -1,0 +1,130 @@
+{
+ "awd_id": "2442625",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Contextual Robustness for ML-powered Network-based Functions",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 679500.0,
+ "awd_amount": 395842.0,
+ "awd_min_amd_letter_date": "2025-04-01",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "This project focuses on making Machine Learning (ML) more reliable for important communication networking functions, such as managing the resources of a computer network or fixing network problems. While ML can be powerful, it sometimes fails in unexpected ways and does not provide any guarantees, making it risky for critical network operations, especially due to temporal (time-sensitive) contexts. This project will investigate ML-based approaches to networking functions, identify realistic failure cases, and develop methods to make ML systems more dependable for networking. The goal is to develop NETFORTIFY, an open-source framework that helps researchers and engineers test and improve ML-powered approaches to ensure they work well in real-world conditions.\r\n\r\nThe proposed research advances ML-based networking through three key thrusts: (1) Contextual Robustness Definition: this includes formal semantics to define robustness in ML-powered approaches to certain networking functions, ensuring they meet required properties under operational constraints, alongside a catalog of transformations for specifying realistic conditions; (2) Robustness Assessment: this task integrates formal methods with adversarial ML to generate failure-directed and realistic scenarios for diverse implementations; and (3) Robustness Enhancement: Leveraging failure-directed scenarios and domain knowledge, this thrust enables logic and adversarial retraining, and robustness certification.\r\n\r\nThis project will enhance the reliability of ML-powered networking allowing for further automation. By developing NETFORTIFY, an open-source framework for testing and strengthening ML-powered networking, it will set new testing standards for robustness, benefiting researchers, industry, and network operators. Additionally, the project integrates research with education by introducing hands-on learning experiences, such as an interactive NETFORTIFY game, to teach students about ML in networking, and seminars for high school teachers on how to integrate networking technology and ML into STEM education. \r\n\r\nThe NETFORTIFY project will be hosted in an open-access repository at [https://netsyn.princeton.edu/projects/netfortify], providing researchers, practitioners, and industry stakeholders with NETFORTIFY\u2019s code and scripts for data processing, training, and inference, as well as secondary artifacts, including parameters and configurations used for training. The repository will be actively maintained for at least five years, ensuring that updates reflect new research findings, optimizations, and community-driven improvements. To support long-term usability, we will provide comprehensive documentation, tutorials, and benchmarks, allowing users to effectively leverage and extend the framework.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Maria",
+   "pi_last_name": "Apostolaki",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maria Apostolaki",
+   "pi_email_addr": "apostolaki@princeton.edu",
+   "nsf_id": "000874784",
+   "pi_start_date": "2025-04-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Princeton University",
+  "perf_str_addr": "1 NASSAU HALL",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085442001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 395842.0
+  }
+ ],
+ "por": null
+}

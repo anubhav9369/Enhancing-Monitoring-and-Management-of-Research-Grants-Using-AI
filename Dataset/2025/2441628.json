@@ -1,0 +1,114 @@
+{
+ "awd_id": "2441628",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Limited-Communication Control of Teams of Autonomous Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 603000.0,
+ "awd_amount": 603000.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-09-10",
+ "awd_abstract_narration": "In an increasingly smart and connected society, teams of autonomous systems will often need to share information to make coordinated decisions. Such networks of connected devices arise in many areas such as power systems, transportation networks and sensing, and surveillance systems where a team of autonomous robots may be deployed in remote, unfamiliar environments. These teams often need to cooperate leveraging information from other agents to make decisions that impact the system. Communication infrastructure and bandwidth to support the operation of such systems is often constrained and can negatively affect the speed coordination leading to performance loss and possibly inaccurate decisions. How to leverage computation to limit communication in constrained environments becomes an even more important problem. The goal of the proposed CAREER proposal is to discover communication-efficient distributed computation methods for decision and control of teams of autonomous agents. The impact of the proposed research will include development of new theoretical tools for control and decision-making in limited communication environments that will affect several applications and industries including energy grid, robotics, remote and underwater sensing systems and other cyber-physical systems (CPS). The educational impact of the project will be realized through the training of students, enhancing K-12 student excitement and engagement using sub-scale physical systems, and enhancing recruitment of students in cooperation with external partners to pursue advanced degrees.\r\n\r\nThis project develops new theoretical framework and applicable algorithms for coordinated and distributed control of cyber-physical systems in limited communication environments. It addresses fundamental questions on communication-efficient distributed computation, estimation and control including computation over wireless channels for efficiency. Specifically, the research will i) study more communication-efficient techniques and novel adaptive compression technique to manage communication resources in CPS, ii) develop techniques that allows for information aggregation and function computation to be done via the wireless communication channel with theoretical guarantees, and iii) discover ways to address the negative impact associated with information compression in low bandwidth environment, leading to improved accuracy and performance of distributed algorithms for CPS. Outcomes of the research will result in a deeper understanding of the tight coupling between communication and decision-making/control in teams of autonomous systems, particularly the degree of control performance achievable as communication bandwidth degrades.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chinwendu",
+   "pi_last_name": "Enyioha",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chinwendu Enyioha",
+   "pi_email_addr": "cenyioha@ucf.edu",
+   "nsf_id": "000776178",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 603000.0
+  }
+ ],
+ "por": null
+}

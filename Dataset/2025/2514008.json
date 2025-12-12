@@ -1,0 +1,142 @@
+{
+ "awd_id": "2514008",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Frameworks: A Comprehensive Event Generator for Chromodynamics with a Statistically and Computationally Advanced Program Envelope (C-SCAPE)",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 1999572.0,
+ "awd_amount": 1999572.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "The Strong Nuclear Force, one of the four fundamental forces in the universe, is being studied at particle collider facilities around the world, such as the Large Hadron Collider (LHC) at the European Center for Nuclear Research (CERN), the Relativistic Heavy-Ion Collider (RHIC) at Brookhaven National Laboratory (BNL), and the planned Electron Ion Collider (EIC) at BNL. In these facilities, protons, nuclei, or electrons collide at high energies to investigate the structure of protons and the behavior of nuclear matter in extreme conditions. A full theoretical understanding of the Strong Force, by solving Quantum Chromodynamics (QCD), has still not been achieved. To connect such theoretical calculations to experimental data from collider facilities, large scale computer simulations are needed. Utilizing advanced statistical methods, it is then possible to extract fundamental properties of QCD from data. This team, a multi-disciplinary collaboration of physicists, computer scientists, and statisticians, is developing a software framework, the Comprehensive Event Generator for Chromodynamics with a Statistically and Computationally Advanced Program Envelope (C-SCAPE), to bridge theory and experiment. As a software framework, C-SCAPE utilizes a strategy of breaking complicated processes into subprocesses with their own simulation codes, or modules, that can work together seamlessly. C-SCAPE builds on the success of previous frameworks with more limited capabilities. C-SCAPE can simulate more collision systems and more observable processes than its predecessors, with more flexibility for the user. The project will also provide training for a workforce of young scientists in modern computational, statistical, and physics methods. \r\n\r\nC-SCAPE will expand the scope of previous task-based frameworks to support the increasing complexity of the relevant physics questions. It will allow physics to be steered in a modular and transparent approach, through more fine-grained sub-task entities. Key physics modules and part of the framework will be optimized to support parallel execution, which will allow the use of GPUs and multicore CPUs on exascale computing resources. The framework enhancements will allow the inclusion of numerous new physics modules, e.g. for processes induced by photons and electrons, and processes in which the spin of quarks and gluons is traced. In addition, existing capabilities for proton-nucleus and nucleus-nucleus simulations will be expanded, in particular those with cross-relevance for the EIC. The unique strength of C-SCAPE will be in the connections it offers when unifying computational schemes between different branches of QCD, thus enabling bridges between communities in high energy nuclear physics.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Physics at the Information Frontier (PIF) Program in the Division of Physics within the Directorate for Mathematical and Physical Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rainer",
+   "pi_last_name": "Fries",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rainer J Fries",
+   "pi_email_addr": "rjfries@comp.tamu.edu",
+   "nsf_id": "000254695",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Loren",
+   "pi_last_name": "Schwiebert",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Loren J Schwiebert",
+   "pi_email_addr": "loren@wayne.edu",
+   "nsf_id": "000310239",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Simon",
+   "pi_last_name": "Mak",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Simon Mak",
+   "pi_email_addr": "sm769@duke.edu",
+   "nsf_id": "000817220",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yi Chen",
+   "pi_email_addr": "yi.chen@vanderbilt.edu",
+   "nsf_id": "000936773",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M University",
+  "inst_street_address": "400 HARVEY MITCHELL PKY S STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778454375",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A & M UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF6XLNB4CDJ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M University",
+  "perf_str_addr": "578 University Dr",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778434242",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "755300",
+   "pgm_ele_name": "PHYSICS AT THE INFO FRONTIER"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1999572.0
+  }
+ ],
+ "por": null
+}

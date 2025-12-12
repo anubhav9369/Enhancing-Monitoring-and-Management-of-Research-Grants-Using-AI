@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442759",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: A Game Theory Framework for Decentralized Decisions in Large-Scale Discrete Optimization Problems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 558786.0,
+ "awd_amount": 558786.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant supports research that intends to enhance decision making in decentralized systems. Decentralized decision-making naturally arises in many scenarios, notably in supply chains and transportation and logistics, where multiple self-interested agents share a finite collection of common resources and influence each other's behavior.  One crucial challenge arising in decentralized systems is the lack of coordination among interdependent decisions, which are made locally but have broader system-wide implications. This research project will approach decentralized decision-making through a game theoretic framework.  For systems where the decisions are chosen from a discrete set, this project explores a computational approach that exploits the discrete nature of the individual optimization problems.  The models and algorithms developed will be evaluated on a problem involving multiple loosely coordinated agents providing logistic support for post-disaster operations, with the goal to improve resource utilization and coordination among responding organizations. The educational component of the project aims to engage undergraduates and K-12 students in science through a community-building series and a structured portfolio of outreach activities.\r\n\r\nThis project will integrate techniques from integer optimization and algorithmic game theory to establish new theoretical foundations and practical algorithms for resource-sharing games. In these games, multiple decision-makers, each solving their own integer optimization problem, interact while sharing a common set of resources. The methodology will leverage polyhedral characterizations, sparsity structures and decomposition methods beyond optimization, to provide certificates for existence of equilibrium solutions, algorithms for computing exact or approximate equilibria, bounds on equilibria inefficiency, and strategies to reduce such inefficiency. By exploiting polyhedral and combinatorial structures, the project looks to isolate key sources of complexity and identify broad classes of tractable games, both theoretically and computationally.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carla",
+   "pi_last_name": "Michini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carla Michini",
+   "pi_email_addr": "michini@wisc.edu",
+   "nsf_id": "000797908",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "078E",
+   "pgm_ref_txt": "ENTERPRISE DESIGN & LOGISTICS"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "5514",
+   "pgm_ref_txt": "OPERATIONS RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 558786.0
+  }
+ ],
+ "por": null
+}

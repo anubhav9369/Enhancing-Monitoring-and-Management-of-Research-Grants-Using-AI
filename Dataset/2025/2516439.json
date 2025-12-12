@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516439",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Sound Navigation: Enabling Tiny Robots to Find Their Way Through Smoke, Dust, and Darkness",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 704908.0,
+ "awd_amount": 704908.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "This award will support fundamental research to enable aerial robots smaller than 100 millimeters and weighing less than 100 grams to navigate through cluttered surroundings in the presence of smoke, darkness, dust, fog, and snow. To accomplish this in a completely self-contained way, the robots in this project will use sound waves instead of light to sense nearby objects. Sound waves penetrate much farther than light through airborne particles, but are easily confused by propellor noise and are unable to reliably distinguish small features. Through advances in mathematical modeling, neural network design, and sensor characterization, this project will greatly improve the quality of sound-based images, without exceeding size, weight, and power constraints imposed by the limitations of the small aerial platform. The research will result in inexpensive and easily transported drones with the potential to save lives in forest fires, cave rescue, wildlife management, and natural disasters, thereby contributing to the health, well-being, and economic strength of the Nation. The research brings together multiple fields including robot perception, bio-inspired artificial intelligence, sensor fusion, and signal processing, thus germinating new research questions and creating research training opportunities across traditional disciplinary silos. \r\n\r\nAerial robot navigation built on multi-modal visual-sonic-inertial (VSI) sensing can overcome challenges in visually degraded and challenging scenes that may confound current sensing systems such as may arise due to darkness, snow, smoke, dust, or fog. This project addresses scientific barriers to widespread deployment of VSI-based systems, through the advancement of representations, mathematical models, and neural architectures. These advances will allow effective extraction and fusion of information from VSI systems, without reliance on any external infrastructure or prior information about the environment, while respecting practical constraints on on-board computation and information processing. The project builds on the following three key ideas:  (1) enhancing ultrasonic depth estimation through bio-inspired passive structures, active noise reduction techniques, and physics-informed neural networks that leverage robot motion to overcome the ill-posed nature of sparse sensor trilateration; (2) fusing multi-modal sensor data using uncertainty-aware deep learning models and factor graph optimization to achieve robust depth estimation across varying environmental conditions; and (3) implementing a hierarchical reinforcement learning navigation stack with compositional policies for perception-action synergy, obstacle avoidance, and goal-directed movement. The approach combines mathematical modeling of wave physics with deep declarative networks, employs sim2real2sim methodologies for robust generalization, and utilizes factor graph formulations for temporal consistency. The results will be extensively tested in controlled physical experiments simulating autonomous operations in (1) dense forest with low light and heavy fog, (2) forest fires with corresponding thick smoke, and (3) caves, mines, and collapsed structures subject to high dust and low light.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nitin",
+   "pi_last_name": "Sanket",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nitin J Sanket",
+   "pi_email_addr": "nsanket@wpi.edu",
+   "nsf_id": "000911137",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Worcester Polytechnic Institute",
+  "inst_street_address": "100 INSTITUTE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "WORCESTER",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "5088315000",
+  "inst_zip_code": "016092280",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "WORCESTER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJNQME41NBU4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Worcester Polytechnic Institute",
+  "perf_str_addr": "100 INSTITUTE RD",
+  "perf_city_name": "WORCESTER",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "016092280",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 704908.0
+  }
+ ],
+ "por": null
+}

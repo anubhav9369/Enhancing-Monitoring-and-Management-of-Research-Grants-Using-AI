@@ -1,0 +1,106 @@
+{
+ "awd_id": "2454027",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: NAIRR Pilot: Demonstrating a Compact Foundation Model for Planning-Like(PL) Tasks for Next Generation Trusted Applications",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2027-01-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-01-17",
+ "awd_max_amd_letter_date": "2025-01-17",
+ "awd_abstract_narration": "The current generation of Artificial Intelligence (AI) models has not only revolutionized real-world applications like conversations. These models have also transformed AI itself, as they can serve as the basis, or foundation, for more specialized AI tasks if given sufficient additional training.  However, building and training these models and specializing them for challenging tasks like planning is hard due to barriers including limited computing resources, limited non-proprietary knowledge, and even limitations on the basic assumptions used to build the models. This effort investigate an alternative path: it creates and trains a specialized AI model, using innovations on current methods, that can be applied to problems involving planning and chains of tasks. The resulting model has the potential to outperform and be more efficient and more understandable at these types of tasks than the current generation of general-purpose Large Language Models. The project offers a unique demonstration opportunity to overcome resource barriers and democratize knowledge, especially for underserved communities. The model development process, resulting AI infrastructure, and accompanying outreach activities will engage research communities from a wide array of academic disciplines at multiple universities including minority-serving institutions.  \r\n\r\nAI foundation models, optimized primarily for next-token prediction, excel in generating coherent and contextually relevant text, making them effective for natural language and conversational agents. However, these models exhibit significant limitations when applied to tasks from real-world applications requiring sequential decision making, reasoning, and other planning-like tasks. Examples include business processes, guidelines, instructions, programs, and workflows. Previous work on this topic using foundation models has primarily focused on using or fine-tuning pre-trained, off-the-shelf models with limited success. This project will instead investigate a different approach, creating a comprehensive, yet compact, foundation model for planning-like tasks from scratch. This model will be based on innovative approaches for tokenization, training, and other steps that will enable the model to specialize in advanced planning.  The project will follow a transparent, bottom-up methodology for building this new model that will open new avenues for research, education, and real-world applications.\r\n\r\nThis project is jointly funded by the Office of Advanced Cyberinfrastructure and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Biplav",
+   "pi_last_name": "Srivastava",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Biplav Srivastava",
+   "pi_email_addr": "biplav.s@sc.edu",
+   "nsf_id": "000831796",
+   "pi_start_date": "2025-01-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Carolina at Columbia",
+  "inst_street_address": "1600 HAMPTON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8037777093",
+  "inst_zip_code": "292083403",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "SC06",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH CAROLINA",
+  "org_prnt_uei_num": "Q93ZDA59ZAR5",
+  "org_uei_num": "J22LNTMEDP73"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of South Carolina at Columbia",
+  "perf_str_addr": "1600 HAMPTON ST",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "292083403",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "SC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "296Y00",
+   "pgm_ele_name": "NAIRR-Nat AI Research Resource"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

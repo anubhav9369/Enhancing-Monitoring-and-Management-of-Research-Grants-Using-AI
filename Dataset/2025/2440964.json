@@ -1,0 +1,126 @@
+{
+ "awd_id": "2440964",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Computational infrastructure for building causal models of molecular biology",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 639214.0,
+ "awd_amount": 243764.0,
+ "awd_min_amd_letter_date": "2025-07-17",
+ "awd_max_amd_letter_date": "2025-07-17",
+ "awd_abstract_narration": "This project will create a computational framework to help scientists understand the complex network of events inside living cells. Researchers can now measure thousands of different molecules at once, generating massive datasets. However, a major bottleneck is making sense of this data to uncover cause-and-effect relationships. Building these \"causal models\" is currently a slow, manual process that limits the pace of discovery. This research will automate the construction of these models, allowing for large-scale analysis of biological processes. The project will expand these automated methods to analyze data from individual cells and across different organisms. It will also integrate these causal models with advanced artificial intelligence techniques to improve biological predictions. By transforming how researchers analyze complex biological data, this work will accelerate discoveries across many fields. The project also contributes to education by developing two new university courses and training the next generation of data scientists to use cutting-edge methods for analyzing complex systems.\r\n\r\nThe research will develop a computational infrastructure for interpreting high-throughput, multi-omic profiles through the lens of causal biological networks. The project will extend the CausalPath modeling framework to new domains, including the interpretation of single-cell omics trajectories and its application to model organisms through homology-based mapping. The explanatory power of the causal models will be enhanced by integrating kinase substrate sequence preference motifs to better account for differential phosphorylation. The functional consequences of protein phosphorylation will be systematically inferred by analyzing large-scale phosphoproteomic and transcriptomic datasets. Finally, this project will develop novel, causality-aware graph neural network architectures. These deep learning models will use the generated causal graphs to make more accurate and generalizable predictions from molecular profiles, creating new convolution and attention mechanisms that consider causal information. The expected outcomes are a suite of methods that overcome key limitations in biological causal modeling.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ozgun",
+   "pi_last_name": "Babur",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ozgun Babur",
+   "pi_email_addr": "ozgun.babur@umb.edu",
+   "nsf_id": "000941123",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Boston",
+  "inst_street_address": "100 WILLIAM T MORRISSEY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "DORCHESTER",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172875370",
+  "inst_zip_code": "021253300",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MA08",
+  "org_lgl_bus_name": "UNIVERSITY OF MASS AT BOSTON",
+  "org_prnt_uei_num": "CGCDJ24JJLZ1",
+  "org_uei_num": "CGCDJ24JJLZ1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Boston",
+  "perf_str_addr": "100 WILLIAM T MORRISSEY BLVD",
+  "perf_city_name": "DORCHESTER",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021253300",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MA08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 243764.0
+  }
+ ],
+ "por": null
+}

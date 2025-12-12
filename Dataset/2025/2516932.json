@@ -1,0 +1,114 @@
+{
+ "awd_id": "2516932",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ECCS-EPSRC: Nano-Embossed Microwave Photonic Sensors",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922980",
+ "po_email": "ddagenai@nsf.gov",
+ "po_sign_block_name": "Dominique Dagenais",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 449996.0,
+ "awd_amount": 449996.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "This project, in collaboration with researchers at the University of Cambridge, aims to investigate a highly sensitive, low-cost sensor platform to detect circulating tumor DNA (ctDNA), a key biomarker for early cancer diagnosis, particularly in non-small cell lung cancer (NSCLC). By combining microwave photonics (MWP) with polymer-based micro-ring resonator technology, the platform addresses current limitations in cancer diagnostics, such as high costs, slow processing times, and the bulky nature of existing systems. This innovation promises to make cancer screening more accessible, offering a portable and affordable solution for point-of-care testing. Beyond healthcare, the sensor's versatility enables applications in environmental monitoring, agriculture, and other fields, delivering significant societal and economic benefits through improved efficiency and global resilience to emerging challenges.\r\n\r\nThis project leverages microwave photonics (MWP) and polymer-based micro-ring resonator technology to create a precise, low-cost sensor platform for detecting ctDNA in human blood. The system is designed to address the limitations of current diagnostic tools by replacing expensive tunable lasers with a microwave frequency sweep modulated on an optical carrier. This approach dramatically reduces costs while enhancing precision and scalability. Polymer micro-ring resonators are ideal for this application due to their low manufacturing cost, compatibility with biomolecule functionalization, and ability to integrate seamlessly with microfluidics for lab-on-a-chip applications. These features make the technology suitable for multiplexed analyses of biological samples. However, achieving the high optical quality factor (Q-factor) required for high sensitivity poses significant challenges due to material imperfections, such as surface roughness and optical losses in the polymer resonators. To address these issues, advanced nano-imprint fabrication techniques are employed to minimize surface roughness, improve light confinement, and enhance light-analyte interactions. Additionally, the project employs co-design methodologies that integrate the MWP readout system with the polymer resonator design, ensuring optimal sensitivity and noise performance. Functionalized resonators with DNA-specific probes will enable selective and accurate detection of ctDNA, while integrated microfluidic channels allow for multiplexed analysis of biological samples. This design can achieve detection limits as low as tens of nanograms per milliliter, enabling reliable identification of ctDNA even in trace amounts. Validation of the platform will be conducted through rigorous testing against commercial ctDNA reference materials to ensure reliability and reproducibility. Collaboration among experts in photonics, polymer manufacturing, and oncology ensures a multidisciplinary approach to addressing both technical and clinical challenges. Beyond healthcare, the versatile platform\u2019s modularity allows for adaptation to other fields, including environmental monitoring of pollutants and detection of pathogens in agriculture. This project advances interdisciplinary research in photonics, nanofabrication, and microfluidics while providing a scalable and cost-effective solution for global challenges. By addressing critical technological barriers, such as optimizing Q-factors and employing innovative nano-imprint methods, this project not only enhances the capabilities of polymer resonator technology but also establishes a robust framework for next-generation sensing platforms.\r\n\r\nThis collaborative U.S.-U.K. project is supported by the U.S. National Science Foundation (NSF) and the Engineering and Physical Sciences Research Council (EPSRC) of United Kingdom Research and Innovation, where NSF funds the U.S. investigator and EPSRC funds the partners in the United Kingdom.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tianhong",
+   "pi_last_name": "Cui",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tianhong Cui",
+   "pi_email_addr": "cuixx006@umn.edu",
+   "nsf_id": "000384245",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "111 Church Street SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554552009",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "135Y00",
+   "pgm_ele_name": "NSF/ENG-UKRI EPSRC Opportunity"
+  },
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "094E",
+   "pgm_ref_txt": "Optoelectronic devices"
+  },
+  {
+   "pgm_ref_code": "5946",
+   "pgm_ref_txt": "UNITED KINGDOM"
+  },
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 449996.0
+  }
+ ],
+ "por": null
+}

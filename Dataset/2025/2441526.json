@@ -1,0 +1,154 @@
+{
+ "awd_id": "2441526",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Polymer-mediated delivery of genome-editing proteins through statistical learning and interfacial engineering",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924644",
+ "po_email": "dsavin@nsf.gov",
+ "po_sign_block_name": "Daniel Savin",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 803495.0,
+ "awd_amount": 150620.0,
+ "awd_min_amd_letter_date": "2025-01-22",
+ "awd_max_amd_letter_date": "2025-01-22",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY:\r\n\r\nGenome editor proteins will change how doctors treat both rare genetic disorders (such as sickle cell disease) and more common diseases like cancer or diabetes. Researchers struggle to deliver these expensive proteins into diseased cells where they are needed. Right now, tiny particles made from polymers, lipids, or gold are used to carry genome editor proteins into cells. Polymers, which are long chained molecules, consume fewer proteins per treatment, which makes it easier to produce these treatments in large amounts at lower costs, benefiting more people. However, polymer chemists do not fully understand how the length of the polymer chain, the chemical makeup, and other properties of the polymer match different genome editor proteins and different cell types. This proposed research will innovate methods to efficiently test different combinations of polymer designs and quickly find the best designs for each cell type and each genome editor protein. The goal is to apply machine learning and advanced polymer science methods to understand why some polymers work well in delivering genome editor proteins to cells while others do not. Polymers discovered in this CAREER project using these cutting-edge methods will advance basic biological research and improve public health. In addition to the research, the principal investigator plans three educational activities that will support this research area. First, a mentoring program will prepare high school students and undergraduate students from under-represented backgrounds to prepare for careers in science, technology, engineering, mathematics, and medicine. Second, the PI and her lab members will continue creating and delivering lesson plans that spark interest in polymers research in high school chemistry classrooms across Colorado. Finally, the PI will design and teach an undergraduate course to impart data science and lab skills that students need to succeed in the gene therapy industry.\r\n\r\nTECHNICAL SUMMARY:\r\n\r\nGenome editing tools such as CRISPR/Cas9 and base editors have revolutionized both basic biological research and the therapeutic landscape for several diseases (e.g., sickle cell anemia). Ribonucleoproteins (RNPs) are biomolecular complexes of genome editor proteins and single guide RNA that perform site-specific genome editing. RNPs are far more precise and efficient than plasmid- and messenger RNA-based genome editors but are also more challenging to deliver. This CAREER project will realize RNPs\u2019 potential in research and in medicine by overcoming intracellular delivery barriers unique to RNPs. The first goal is to reveal how the chemical identity and spatial distribution of hydrophilic, hydrophobic, or charged monomers modulate polymer\u2013RNP binding affinity, RNP loading per polyplex, and polyplex size distribution. Then, the principal investigator and her team will ask whether polymer design criteria overlap or diverge across surface-chemically diverse RNPs: spCas9 nucleases and the more cationic ABE8e base editors. Segmental similarity analysis will tailor polymer composition to accommodate each RNP species\u2019 unique distribution of amino acid residues and surface  chemical features. Bayesian polymer design will simultaneously explore untested chemical domains and exploit high-performing regions in the vast design space. The final goal is to elucidate design principles underlying cell-type-preferential RNP delivery. Brute-force testing of all polymers in all cell types is infeasible, especially if we consider the difficulty of expanding and maintaining some primary cells. Instead, recommender systems (e.g., algorithms that match Netflix users with movies given incomplete information on user preferences) will map polymers\u2019 cell type preferences. This project will innovate biomaterial design frameworks that are generalizable to molecules beyond RNPs (antibodies, probiotics) and materials beyond polymers (lipids, polypeptides). The project will grant new mechanistic insights into polymer-mediated RNP delivery and lower the cost of deploying RNPs in basic biological research and genetic medicine. This project will also diversify the future workforce through a unique educational plan that will engage students from high school all the way to graduate school through near-peer mentoring, high school outreach, and an undergraduate class on data-driven biomaterial design.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ramya",
+   "pi_last_name": "Kumar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ramya Kumar",
+   "pi_email_addr": "ramyakumar@mines.edu",
+   "nsf_id": "000870472",
+   "pi_start_date": "2025-01-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Colorado School of Mines",
+  "inst_street_address": "1500 ILLINOIS ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GOLDEN",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3032733000",
+  "inst_zip_code": "804011887",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "CO07",
+  "org_lgl_bus_name": "TRUSTEES OF THE COLORADO SCHOOL OF MINES",
+  "org_prnt_uei_num": "JW2NGMP4NMA3",
+  "org_uei_num": "JW2NGMP4NMA3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Colorado School of Mines",
+  "perf_str_addr": "1500 ILLINOIS ST",
+  "perf_city_name": "GOLDEN",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "804011887",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "CO07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "762300",
+   "pgm_ele_name": "BIOMATERIALS PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "1711",
+   "pgm_ref_txt": "MATERIALS EDUCATION AND RESEARCH"
+  },
+  {
+   "pgm_ref_code": "9177",
+   "pgm_ref_txt": "ELEMENTARY/SECONDARY EDUCATION"
+  },
+  {
+   "pgm_ref_code": "7573",
+   "pgm_ref_txt": "BIO-RELATED MATERIALS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "8614",
+   "pgm_ref_txt": "Nanomaterials"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150620.0
+  }
+ ],
+ "por": null
+}

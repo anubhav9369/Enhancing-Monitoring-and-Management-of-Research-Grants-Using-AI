@@ -1,0 +1,138 @@
+{
+ "awd_id": "2533961",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FDT-BioTech: VAScTWIN: Multiscale Digital Twin for Predictive Modeling and Genetic Control of Cardiac Vascular Regeneration",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 999745.0,
+ "awd_amount": 999745.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Among cardiovascular diseases, ischemic heart disease remains a leading cause of mortality worldwide.  While revascularization shows promise as an effective therapeutic method, the large patient variability in genetics, comorbidities, and response to growth factors increases the complexity of standardized regenerative therapies. This project focuses on developing a novel digital twin of blood vessel growth after cardiac injury, based on genetic information and live imaging data. This will make it possible to reverse engineer the precise genetic interventions needed to produce the desired vasculature, as well as to safely test and improve gene-editing techniques in silico. The project will have broad societal and educational applications. All software packages will be made open-source, and a web interface will be created to help in clinical settings. Immersive educational tools for students will be developed to visualize 3D simulations of vascular growth in partnership with Iowa State\u2019s Virtual Reality Center. The project\u2019s integration of mathematics, gene editing, and computational modeling will help train a new generation of scientists at the nexus of mathematics and medicine.\r\n\r\nThis project develops a novel multiscale digital twin framework to predict and control blood vessel growth by integrating molecular signaling dynamics, cellular migration behavior, sprouting patterns, and tissue-level growth and remodeling. The research will develop (1) a multiscale molecular-to-cellular modeling framework for vascular sprouting and remodeling that integrates VEGF and Notch signaling cascades to predict the biophysical behaviors of endothelial tip and stalk cells; (2) a novel machine learning architecture for procedural volumetric T-spline models of vascular networks from 2D sprouting prediction and couple elastic deformation of tissues with growth to capture blood vessel growth; (3) a novel applied analysis framework to prevent singularity formation in the chemotaxis equations and steer angiogenesis via PDE-based optimization; and (4) a model to quantify uncertainties at each length-scale. A closed-loop control scheme uses real-time imaging feedback to guide CRISPR-based gene edits, dynamically refining the model and therapeutic interventions. The validated model will be used to recommend gene-edits (to VEGF, Notch, related pathways) that improve vascular regeneration outcomes in clinical settings such as post-infarct cardiac repair.\r\n\r\nThis project is jointly funded by the Division of Mathematical Sciences and the CBET Engineering of Biomedical Systems program.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aishwarya",
+   "pi_last_name": "Pawar",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aishwarya R Pawar",
+   "pi_email_addr": "arpawar@iastate.edu",
+   "nsf_id": "000921747",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jeffrey",
+   "pi_last_name": "Essner",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeffrey J Essner",
+   "pi_email_addr": "jessner@iastate.edu",
+   "nsf_id": "000389572",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Rana",
+   "pi_last_name": "Parshad",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rana Parshad",
+   "pi_email_addr": "rparshad@iastate.edu",
+   "nsf_id": "000651623",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ratul",
+   "pi_last_name": "Chowdhury",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ratul Chowdhury",
+   "pi_email_addr": "ratul@iastate.edu",
+   "nsf_id": "000879734",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 999745.0
+  }
+ ],
+ "por": null
+}

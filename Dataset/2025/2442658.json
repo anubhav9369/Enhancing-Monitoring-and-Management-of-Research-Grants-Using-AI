@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442658",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Improving Data Efficiency in Deep Learning with Relaxed Symmetry Constraints",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 472934.0,
+ "awd_min_amd_letter_date": "2025-07-26",
+ "awd_max_amd_letter_date": "2025-07-26",
+ "awd_abstract_narration": "Artificial intelligence (AI) is rapidly transforming many areas of technology and day-to-day life, yet its success often depends on massive amounts of labeled data, something not readily available in scientific domains like robotics, materials science, and fluid dynamics due to cost and time constraints. This project addresses a critical challenge: how to make machine learning more efficient in real-world scientific and engineering settings where data is sparse or imperfect. The research program focuses on incorporating symmetry, an organizing principle in nature, into machine learning systems in a way that is flexible and adaptable to noisy, real-world data. This flexibility will make models more efficient and applicable across a range of real-world problems. The outcomes will benefit applications such as material discovery, robotics, and climate modeling, and include an online course, an interdisciplinary workshop aimed at creating partnerships across academia and industry and between AI researchers and domain experts, and outreach programs aimed at engaging local high school students in AI research.\r\n\r\nThis project will develop and study relaxed equivariant neural networks, models that learn from data while respecting approximate symmetry in physical systems through relaxed mathematical constraints. The research has four main thrusts. First, it will design new machine learning architectures that enforce symmetry constraints flexibly during training. Second, it will establish mathematical guarantees about the performance and stability of these models. Third, it will explore how relaxing symmetry constraints can make optimization more effective, improving the ability of neural networks to train even when the task is fully symmetric. Finally, the project will apply these methods to problems in robotics and materials science where real-world systems deviate from ideal symmetries. Together, these contributions will lead to a deeper understanding of how geometric structure can be used to make machine learning more efficient and applicable in scientific domains.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robin",
+   "pi_last_name": "Walters",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robin S Walters",
+   "pi_email_addr": "rwalters@northeastern.edu",
+   "nsf_id": "000681323",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 472934.0
+  }
+ ],
+ "por": null
+}

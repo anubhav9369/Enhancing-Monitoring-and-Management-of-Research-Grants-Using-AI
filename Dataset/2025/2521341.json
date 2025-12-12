@@ -1,0 +1,98 @@
+{
+ "awd_id": "2521341",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NeTS: Small: Spectrum Symmetry-Free Optical Network Design",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Planning, deploying, and engineering the networks that make up the Internet infrastructure involves complex problems referred to generically as \u201cnetwork design\u201d problems. Effective and efficient solutions to network design problems are crucial to the operation and economics of the Internet and its ability to support critical and reliable communication services. This is especially true for optical networks that form the foundation of the global network infrastructure. This project develops new capabilities for the design and operation of optical networks that underlie ubiquitous Internet connectivity. Its framework makes it possible to leverage existing high performance computing resources to tackle Internet-scale network design problems. Therefore, the project produces research results that will enable a wide range of 21st century science, education, and commercial applications through the design of networks that are better optimized for user and application requirements and are less expensive to build, engineer, and operate. \r\n\r\nEarlier algorithmic methods for tackling optical network design problems have two crucial limitations. The first relates to spectrum symmetry, i.e., the fact that wavelengths and spectrum slots are interchangeable. Symmetry is particularly challenging for conventional Integer Linear Programming formulations as they encompass an exponential number of symmetric yet equivalent solutions. The second challenge is that network design algorithms have not been developed with parallelism in mind, hence they cannot take advantage of abundant and readily available High Performance Computing or cloud resources to speed up the execution time for large problem instances via multi-threading. This project\u2019s symmetry-free model for spectrum assignment in general topology networks enables, for the first time, the design of a new breed of optimal algorithms that altogether sidestep spectrum symmetry, i.e., eliminate symmetric solutions from consideration. Moreover, parallelism is inherent in this model as the new, smaller solution space may be naturally decomposed into independent subsets. Accordingly, new algorithms are developed to readily admit multithreaded implementations and may be tailored to the computing environment at hand. This work makes contributions that lead to a paradigm shift in how we think about network design problems and develops solutions to tackle them in an efficient and scalable manner. Both computational and architectural approaches that are employed are applicable to a wide range of problems. An important outcome of this research is to lower the barrier to fully exploring the solution space and in implementing and deploying innovative designs. This work will enable large-scale networking to flourish, and indeed, it is required for its sustainability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "George",
+   "pi_last_name": "Rouskas",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "George N Rouskas",
+   "pi_email_addr": "rouskas@ncsu.edu",
+   "nsf_id": "000258707",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "279650001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NC01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

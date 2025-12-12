@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443386",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Computational and statistical methods for studying single cell genomics data in the context of tissue organization",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032924748",
+ "po_email": "sgage@nsf.gov",
+ "po_sign_block_name": "Stephanie Gage",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 553616.0,
+ "awd_amount": 553616.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "New advances in sequencing technologies allow for characterizing individual cells by their gene expression levels or protein abundance while describing simultaneously the cell\u2019s position and spatial location within a tissue sample.  This emerging yet complex field of spatially-resolved cellular molecular profiling has allowed researchers to perform single cell analysis hand in hand with interrogating histological images of diseased or healthy tissue samples. This project aims to promote the progress of this area of science and to advance national health by addressing several computational challenges, including identifying spatial gene patterns that can highlight tumor progression and tissue remodeling in development or disease conditions in various organisms. Additionally, this project involves a strong educational component to further develop the Bioinformatics program in the School of Computer Science at the University of Oklahoma addressing national higher education needs in Science, Technology, Engineering, and Mathematics (STEM).\r\n\r\nTo draw full benefits and meaningful insights from the spatial nature of the data, the overarching goal of this project is to develop novel advanced spatial algorithms to jointly a) identify spatial gene expression patterns via a novel algorithm for two-dimensional statistical testing, b) develop new data-driven knowledge of the changes and interactions within tissue in two-dimensional space occurring in development or disease conditions, and c) develop an interactive comprehensive analysis tool that will be publicly available to help researchers analyze complex datasets in single cell resolution. \r\n\r\nThis project is jointly funded by the Foundations of Emerging Technologies Program, and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Marmar",
+   "pi_last_name": "Moussa",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marmar R Moussa",
+   "pi_email_addr": "marmar.moussa@ou.edu",
+   "nsf_id": "000870338",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Oklahoma Norman Campus",
+  "inst_street_address": "660 PARRINGTON OVAL RM 301",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORMAN",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4053254757",
+  "inst_zip_code": "730193003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OK04",
+  "org_lgl_bus_name": "UNIVERSITY OF OKLAHOMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EVTSTTLCEWS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Oklahoma Norman Campus",
+  "perf_str_addr": "660 PARRINGTON OVAL RM 301",
+  "perf_city_name": "NORMAN",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "730193003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OK04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7931",
+   "pgm_ref_txt": "COMPUTATIONAL BIOLOGY"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 553616.0
+  }
+ ],
+ "por": null
+}

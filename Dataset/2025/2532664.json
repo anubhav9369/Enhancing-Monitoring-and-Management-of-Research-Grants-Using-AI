@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532664",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Geometric and quantitative analysis of nonlinear PDEs",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927465",
+ "po_email": "qli@nsf.gov",
+ "po_sign_block_name": "Qun Li",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 245851.0,
+ "awd_amount": 245851.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "The theoretical and numerical analysis of nonlinear partial differential equations (PDEs) play significant roles in a variety of applications. However, an immediate challenge lies in ascertaining the computational accuracy of numerical schemes required for solving such PDEs, when their solutions lack sufficient regularity. This research project poses a series of fundamental questions together with steps for their resolution, aimed at advancing and developing the regularity theory for systems of hyperbolic conservation laws, using tools from analysis and geometric measure theory. The obtained outcomes will propel this field of research towards more exciting open questions and yield increasingly accurate numerical schemes of practical value for these equations. Furthermore, this project emphasizes several prospects, such as research exposure, specialized mentoring programs and outreach events, to create a training ground in mathematical education and research for undergraduate students at Xavier University of Louisiana and beyond.\r\n\r\nThere are two main parts to this research project. The first part is directed towards providing a geometric description for systems of conservation laws and exploring the regularity of their solutions using approximation theory. Reformulating systems of hyperbolic conservation laws in a Lagrangian form provides an equivalent representation of systems by means of particle paths. This segment will focus on studying the relation between Lagrangian and Eulerian formulations of conservation laws, renewing interest in this topic from a geometric point of view. Here, the goals are to: (i) describe systems of conservation laws using the notion of particle paths that are in the form of weak diffeomorphisms and establish these as extremals of an action functional defined on the corresponding algebra in the Eulerian formulation; and (ii) measure the regularity of solutions to systems of conservation laws, particularly for Temple systems, using approximation spaces characterized in terms of Besov spaces. The second part of the project will focus on performing a quantitative analysis of the two-component Fornberg-Whitham (FW) system in Besov spaces to investigate the possibility of a global in time solution and criteria for wave-breaking. The two-component FW system is a model for studying surface waves in shallow water. Establishing its well-posedness and analyzing conditions for global existence of its strong solutions are challenging problems associated with this system in various function spaces. As part of this project, the FW system will be examined in Besov spaces, which are function spaces receiving increasing attention in the recent years as they generalize Sobolev spaces and are more effective at measuring regularity of functions. This exercise is aimed at breaking new ground by (i) developing a quantitative analysis of global strong solutions and seeking global weak solutions for the FW system in Besov spaces; and (ii) investigating wave breaking for the FW system corresponding to a large class of initial data, while adapting methods used to examine the Fornberg-Whitham equation that remains relevant in several areas of research in physics and is more recently being studied in coastal oceanography.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prerona",
+   "pi_last_name": "Dutta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prerona Dutta",
+   "pi_email_addr": "pdutta@xula.edu",
+   "nsf_id": "0000A4Y3H",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Xavier University of Louisiana",
+  "inst_street_address": "1 DREXEL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW ORLEANS",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "5045205440",
+  "inst_zip_code": "701251056",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "LA02",
+  "org_lgl_bus_name": "XAVIER UNIVERSITY OF LOUISIANA",
+  "org_prnt_uei_num": "HGAAKCE3A7P7",
+  "org_uei_num": "HGAAKCE3A7P7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Xavier University of Louisiana",
+  "perf_str_addr": "1 Drexel Drive",
+  "perf_city_name": "New Orleans",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "701251098",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "LA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 245851.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2442316",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Scalable Megahertz Power Generation",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 549896.0,
+ "awd_amount": 549896.0,
+ "awd_min_amd_letter_date": "2025-06-12",
+ "awd_max_amd_letter_date": "2025-06-12",
+ "awd_abstract_narration": "The efficient use of electric power is the foundation of modern society, underpinning advancements in transportation, industrial manufacturing, and medical technologies. As demand grows for smaller, more efficient, and cost-effective power electronics, high-frequency power conversion has emerged as a critical enabler, driving miniaturization and supporting essential RF applications such as telecommunications, plasma systems, and MRI equipment. However, the widespread adoption of MHz switched-mode power designs in emerging industrial and medical applications is hindered by challenges in scalability and maintaining high efficiency across varying operating conditions. This project addresses these challenges by developing scalable MHz power amplifier modules and innovative control techniques that ensure superior energy efficiency and adaptability. These advancements have the potential to significantly enhance global sustainability efforts by reducing energy losses while enabling transformative innovations in medical and scientific technologies, such as portable MRI systems. Educationally, the project integrates cutting-edge research into new interdisciplinary courses on high-frequency power electronics, engages undergraduate and graduate students in hands-on research projects, and partners with The Franklin Institute, local schools, and STEM programs to inspire and support students pursuing careers in engineering and technology.\r\n\r\nThe research advances scalable MHz power generation technologies through four interrelated thrusts. First, it explores hybrid RF circuit architectures integrating switched-mode power electronics and resonant RF designs to achieve superior energy efficiency and scalability. Second, it investigates high-bandwidth dynamic power control techniques to adaptively modulate power delivery across diverse loads and frequencies, ensuring optimal performance in varying operating conditions. Third, the project focuses on developing computationally efficient, open-access design tools that simplify the modeling and optimization of high-frequency power systems, accelerating their adoption across industries. Lastly, practical demonstrations of these innovations are undertaken, including a high-efficiency RF power amplifier for plasma dry-etching and a portable MRI system, showcasing their potential to transform semiconductor manufacturing and medical diagnostics. By addressing these core research areas, the project not only advances fundamental knowledge but also delivers real-world solutions with transformative impacts on energy and healthcare systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Gu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Gu",
+   "pi_email_addr": "leigu@seas.upenn.edu",
+   "nsf_id": "000933781",
+   "pi_start_date": "2025-06-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "200 South 33rd Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046314",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "103E",
+   "pgm_ref_txt": "Energy efficient electronics"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "5560",
+   "pgm_ref_txt": "ENERGY CONVERSION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 549896.0
+  }
+ ],
+ "por": null
+}

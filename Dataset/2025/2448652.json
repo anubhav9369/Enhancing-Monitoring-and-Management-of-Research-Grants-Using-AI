@@ -1,0 +1,98 @@
+{
+ "awd_id": "2448652",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Next-Generation Kernel Methods for Social Networks",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-03-04",
+ "awd_max_amd_letter_date": "2025-03-04",
+ "awd_abstract_narration": "This research project will develop new techniques for the analysis of network data that combine innovations in machine learning with rigorous statistical theory.  Methods for analysis of social systems with complex relational structure have been and continue to be a critical challenge within both the statistical and the social sciences.  This project will advance methodology for exploratory, comparative, and semiparametric network analysis, with an eye to building on widely used, proven approaches, and developing new tools and techniques that meet the needs of practitioners in the field.  Broader impacts include the development of didactic materials and associated workshops on statistical network analysis, the incorporation of new techniques into undergraduate and graduate coursework, the involvement of undergraduates in research, and the creation of freely available tools for use by government, industry, researchers, and the general public.  The research also will provide foundational techniques of value for business and public decision making applications and directly involves applications to important societal problems ranging from effective communication regarding public safety threats to disaster response.\r\n\r\nThis research project will develop a new generation of kernel-based techniques for social network analysis.  A problem of central concern for both practitioners and methodologists has been the development of techniques for the identification and characterization of the relationships between exogenous covariates; for example, similarity in personal attributes, geographic proximity, or embeddedness in specific social contexts.  One route to this goal is via the use of kernel learning, a data-efficient machine learning strategy based on the use of functions known as \"kernels\" that capture the similarity between complex data objects.  In a network context, kernels have been most heavily exploited in the field of chemometrics, where kernels for features of small unlabeled and partially labeled graphs representing molecular structures have been used for drug discovery and related applications. This project will build on these ideas and traditional methods in network regression and exploratory network analysis to develop new methods for social network analysis. Core aims of the project include advancing network regression methods using kernel learning, developing new families of kernels for comparative analysis of social networks, and kernel-based extensions of the widely used exponential family random graph modeling framework (a highly generalizable approach to network modeling).  Deep connection of methodology with substantive challenges is ensured by focal applications for each aim, each of which leverages data and prior substantive studies carried out by the research team.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carter",
+   "pi_last_name": "Butts",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carter T Butts",
+   "pi_email_addr": "buttsc@uci.edu",
+   "nsf_id": "000254150",
+   "pi_start_date": "2025-03-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "2145 Social Science Plaza A",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133300",
+   "pgm_ele_name": "Methodology, Measuremt & Stats"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

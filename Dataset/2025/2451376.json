@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451376",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: OAC: Deploy-First and Elastic Data Transfer Optimizations for High-Performance Networks",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 174925.0,
+ "awd_amount": 174925.0,
+ "awd_min_amd_letter_date": "2025-01-15",
+ "awd_max_amd_letter_date": "2025-01-15",
+ "awd_abstract_narration": "Scientific applications generate massive volumes of data through extensive simulations and physical experiments, requiring efficient transfer across globally distributed High-Performance-Computing clusters for further processing and collaborative research. These transfers support diverse scientific endeavors, including computational simulations and machine learning modeling. While high-speed networks manage this rapid data growth, current data transfer tools often fail to fully utilize these resources or focus excessively on network utilization using simplified architectures for quick convergence. These approaches frequently result in significant overhead on end systems and fairness issues. This project introduces a novel elastic design that maximizes unused resources without disrupting existing network and computing processes. It also adapts to the dynamic and evolving nature of computing clusters, where storage or network access patterns may shift unexpectedly. \r\n\r\nThe project integrates advanced optimization algorithms that continually adapt to environmental variability, leveraging a comprehensive monitoring framework to capture real-time system dynamics and balance multiple objectives while tuning various transfer parameters. This project makes three key contributions: (i) it implements a robust monitoring framework to enhance system visibility, enabling global optimization and fair resource allocation; (ii) it uses the collected metrics to develop a simulator that replicates complex storage and networking dynamics, supporting offline and model-based training of generalized reinforcement learning agents; and (iii) it deploys pre-trained policies in production networks, continuously refining them to adapt to specific and evolving environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Md",
+   "pi_last_name": "Arifuzzaman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Md Arifuzzaman",
+   "pi_email_addr": "marifuzzaman@mst.edu",
+   "nsf_id": "0000A0CMJ",
+   "pi_start_date": "2025-01-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Missouri University of Science and Technology",
+  "inst_street_address": "300 W. 12TH STREET",
+  "inst_street_address_2": "202 CENTENNIAL HALL",
+  "inst_city_name": "ROLLA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "5733414134",
+  "inst_zip_code": "654091330",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MO08",
+  "org_lgl_bus_name": "UNIVERSITY OF MISSOURI SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Y6MGH342N169"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Missouri University of Science and Technology",
+  "perf_str_addr": "300 W. 12TH STREET",
+  "perf_city_name": "ROLLA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "654091330",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MO08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "026Y00",
+   "pgm_ele_name": "CRII CISE Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174925.0
+  }
+ ],
+ "por": null
+}

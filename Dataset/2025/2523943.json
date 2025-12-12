@@ -1,0 +1,130 @@
+{
+ "awd_id": "2523943",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AMPS - Optimal Transport Algorithms for Power System Analysis and Control",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 349969.0,
+ "awd_amount": 349969.0,
+ "awd_min_amd_letter_date": "2025-08-06",
+ "awd_max_amd_letter_date": "2025-08-06",
+ "awd_abstract_narration": "Power systems are the backbone of a nation's infrastructure. As these systems undergo rapid transformation due to increasing integration of smart grid resources and technologies, they face unprecedented challenges in monitoring and control. This project aims to address these challenges by developing innovative solutions to enhance the safety, reliability, and efficiency of modern power distribution systems. Specifically, this project will develop advanced algorithms built on foundational mathematical and statistical principles to help utility operators make better use of the large volumes of data collected from the grid, leading to more informed decision-making and improved system performance. The ultimate goal is to advance national prosperity and welfare through reduced energy costs, minimum service disruptions, and transition to a smarter, more resilient energy future.  \r\n\r\nThis project tackles the complexity of modern power distribution systems by integrating and analyzing multi-time-scale, heterogenous data from advanced metering infrastructure, supervisory control and data acquisition systems, and micro-Phasor Measurement Units to enhance situational awareness and enable advanced control strategies. Existing data analysis methods, including statistical and machine learning approaches, often rely on overly simplified models that assume linearity, normality, and precisely known inputs. These limitations reduce their effectiveness in dealing with the stochastic, dynamic, and non-Euclidean nature of real-world power systems data. To overcome these challenges, the project proposes a novel framework for power distribution system analysis based on Optimal Transport Theory. This project is among the first to apply optimal transport in this domain, integrating it with semi-parametric Fr\u00e9chet regression to develop new algorithms for state estimation and control that are robust to uncertainty and measurement errors. The research will advance the theoretical foundations of Fr\u00e9chet regression in the presence of noisy, high-dimensional data and produce computationally efficient algorithms suitable for real-time grid operations. The framework will also support critical tasks such as anomaly detection by leveraging properties of correlation matrices and dynamic stability analysis through tracking of distributional barycenters. These contributions are designed to be flexible, allowing for deployment either as enhancements to current tools or as standalone, disruptive alternatives based on operator needs. The project draws on a multidisciplinary team with expertise in non-parametric statistics, power systems engineering, and control theory to deliver practical and theoretically grounded solutions that respond to the urgent needs of today\u2019s evolving electric grid.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bala",
+   "pi_last_name": "Natarajan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bala Natarajan",
+   "pi_email_addr": "bala@ksu.edu",
+   "nsf_id": "000493594",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Weixing",
+   "pi_last_name": "Song",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weixing Song",
+   "pi_email_addr": "weixing@ksu.edu",
+   "nsf_id": "000602929",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Amulya",
+   "pi_last_name": "Sreejith",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amulya Sreejith",
+   "pi_email_addr": "amulya1@ksu.edu",
+   "nsf_id": "0000A3R2H",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kansas State University",
+  "inst_street_address": "1601 VATTIER STREET",
+  "inst_street_address_2": "103 FAIRCHILD HALL",
+  "inst_city_name": "MANHATTAN",
+  "inst_state_code": "KS",
+  "inst_state_name": "Kansas",
+  "inst_phone_num": "7855326804",
+  "inst_zip_code": "66506",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "KS01",
+  "org_lgl_bus_name": "KANSAS STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CFMMM5JM7HJ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kansas State University",
+  "perf_str_addr": "1601 VATTIER STREET",
+  "perf_city_name": "MANHATTAN",
+  "perf_st_code": "KS",
+  "perf_st_name": "Kansas",
+  "perf_zip_code": "665062504",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "KS01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "045Y00",
+   "pgm_ele_name": "AMPS-Algorithms for Modern Pow"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 349969.0
+  }
+ ],
+ "por": null
+}

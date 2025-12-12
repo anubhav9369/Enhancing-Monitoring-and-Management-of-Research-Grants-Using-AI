@@ -1,0 +1,134 @@
+{
+ "awd_id": "2433529",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Developing Integrated Movement Models (IMMs) to combine big-data streams and unravel global-scale patterns in migration ecology",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 848286.0,
+ "awd_amount": 848286.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Understanding animal movement is imperative for the conservation and management of highly threatened species. However, frameworks that leverage existing data sets are currently lacking and needed to improve our knowledge of how animals move across the landscape, and to understand what factors most impact these movements. For example, there is an increasing need to better understand the effect of weather patterns and habitat conditions on annual movements of migratory species. This knowledge is often limited because it requires an understanding of patterns of movement and linkages of populations across large spatial scales for a large number of individuals. Currently, there is ever-increasing data available for wildlife populations, such as long-term, fine-scale GPS-tracking data of individual animals, as well as large-scale observation networks that capture the distribution of wildlife populations. Fine-scale information is usually obtained by fitting individual animals with GPS-units that allow for near continuous location-tracking throughout the year. Citizen science networks include observations collected by members of the public on species that they detect when engaging in various activities (e.g., hiking, birding), which can be used to map the distribution of the species through time. This work is focused on the development of statistical models that will allow, for the first time, the integration of individual movement and species distribution data to learn about large-scale species-level movement behavior. The methods and tools developed will advance society's ability to learn about difficult to observe processes that shape the distribution of migratory populations in space and time.\r\n\r\nDespite extensive work on methods for integrating multiple data sources, previous attempts to integrate tracking data with citizen-science data fail to leverage the statistical advances made in each individual field and fail to formally integrate the two data-sources in a robust and comprehensive framework. Tracking data provides information about individual movements but represents a small subset of the population. Distribution data provides comprehensive information about species distribution, but represents aggregate behavior of individuals that differ in their migratory routes and behavioral response to the landscape. The integrated framework proposed in this research will formally integrate these two data sources using flexible, interpretable parametric statistical models, which will allow researchers to obtain previously unavailable insights into the link between individual variation, subpopulations, and drivers of movement, while accounting for uncertainty and the spatio-temporal dynamics of species distributions. In addition, this research will develop models for the full-annual cycle of an individual, as opposed to just the migratory route, allowing for additional inference regarding migratory connectivity and seasonal behavior. Further, this work will apply the novel statistical models to understand the migratory behavior of species of both conservation and hunting concern, which will help managers understand the spatio-temporal risks to which different proportions of the population are exposed. This information can help prioritize when and where to take management actions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Frances",
+   "pi_last_name": "Buderman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Frances Buderman",
+   "pi_email_addr": "fbuderman@psu.edu",
+   "nsf_id": "000873226",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Viviana",
+   "pi_last_name": "Ruiz-Gutierrez",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Viviana Ruiz-Gutierrez",
+   "pi_email_addr": "vr45@cornell.edu",
+   "nsf_id": "000344113",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ephraim",
+   "pi_last_name": "Hanks",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ephraim M Hanks",
+   "pi_email_addr": "hanks@psu.edu",
+   "nsf_id": "000659544",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Miller",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "David A Miller",
+   "pi_email_addr": "dxm84@psu.edu",
+   "nsf_id": "000665994",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 848286.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2504623",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: NeTS: Medium: Optimized Detection and Localization of Events in Quantum Sensor Networks",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 179996.0,
+ "awd_amount": 134997.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Quantum sensors capitalize on the strong sensitivity of quantum systems to external disturbances to measure various physical phenomena with extreme precision. Quantum sensing is a rapidly emerging field with many applications, including detecting gravitational and magnetic fields, biological measurement, imaging, etc. The full potential of quantum sensing is realized by using a distributed network of quantum sensors to estimate physical phenomena; in particular, when a network of quantum sensors allows the sensors to be in an entangled (correlated) state, its precision is further improved. There has been recent work using multiple quantum sensors, but the use of a distributed network of quantum sensors working collaboratively to estimate complex physical phenomena, as in many classical sensor network applications, has remained largely unexplored. This proposal seeks to fill this gap and investigate many scientific challenges that arise in developing efficient sensing protocols for a quantum sensor network (QSN). In addition, the project helps develop the workforce in this emerging quantum sensing and communication field by designing and offering educational programs targeting a wide variety of students ranging from those in high school to those in graduate school and beyond. \r\n\r\nThe goal of this project is to tackle the main challenges and problems that arise in building QSNs. The research work consists of the following thrusts: (i) Initial State and Measurement Optimization. The initial state of the quantum sensing system can strongly affect the estimation error of the sensed parameter. Thus, the project will investigate the optimization problem of determining the optimal initial state and global measurement that minimizes the estimation error. (ii) Event Localization Schemes via QSNs. The project will design efficient schemes for event localization using QSNs. (iii) Distribution of Quantum Circuits in QSNs. The project will develop techniques for the distributed implementation of quantum sensing circuits in QSNs, with an objective to minimize aggregate quantum error or execution latency of distributed circuits. (iv) Declarative Framework for Specifying QSN Protocols. The project plans to develop a programming framework for specifying, evaluating, and reasoning over QSN protocols. (v) QSN Simulator, System Evaluation, and QSN Testbeds. The project will develop a QSN simulator that can be used to simulate general QSN applications. In addition, the developed techniques will be evaluated over three platforms: large-scale simulations over the QSN simulator, moderate-scale simulations over a cloud quantum computer, and small-scale experiments on two QSN testbeds.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Leibrandt",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Leibrandt",
+   "pi_email_addr": "leibrandt@physics.ucla.edu",
+   "nsf_id": "000918174",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Los Angeles",
+  "inst_street_address": "10889 WILSHIRE BLVD STE 700",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3107940102",
+  "inst_zip_code": "900244200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "36",
+  "st_cong_dist_code": "CA36",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RN64EPNH8JC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Los Angeles",
+  "perf_str_addr": "430 Portola Plaza, PAB",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900951547",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "36",
+  "perf_st_cong_dist": "CA36",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 134997.0
+  }
+ ],
+ "por": null
+}

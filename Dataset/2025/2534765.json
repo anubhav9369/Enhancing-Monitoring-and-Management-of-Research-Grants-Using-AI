@@ -1,0 +1,138 @@
+{
+ "awd_id": "2534765",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Dynamic Cell Patterning in Acoustic Array-Assisted 3D Bioprinting",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924322",
+ "po_email": "psoman@nsf.gov",
+ "po_sign_block_name": "Pranav Soman",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "3D bioprinting is widely recognized as a promising solution to fabricate functional tissues and organs suitable for transplantation. In 3D bioprinting, the bioink containing living cells is precisely deposited to form 3D constructs based on a layer-by-layer manner. Cell patterning arranges cells in specific spatial distributions to resemble the native architecture of tissues and organs, which is crucial for replicating the complex functionality of biological tissues. However, current cell patterning techniques are either extremely challenging to implement into 3D layer-by-layer bioprinting process or constrained to fixed patterns. This EArly-Concept Grant for Exploratory Research (EAGER) award supports fundamental research seeking to develop an innovative acoustic array-assisted 3D bioprinting technology to enable dynamic, layer-by-layer cell patterning within filaments during 3D bioprinting aiming at significantly improving functionality of fabricated tissue and organ models. Results look to advance engineered tissue functionality for various applications across regenerative medicine, drug screening, and personalized drug therapies. Beyond 3D bioprinting, this technology seeks to introduce a new manufacturing paradigm by enabling precise microscale organization of functional materials (such as particles, fibers, and cells), paving the way for advanced applications in healthcare, energy, and electronics.\r\n\r\nThe objective of this research is to understand effects of the acoustic array properties on planar cell patterns during 3D bioprinting and post-printing viability/proliferation and \u03b1 \u2013 smooth muscle actin (\u03b1-SMA) expression of patterned smooth muscle cells. Specifically, the acoustic array-assisted 3D bioprinting system in this project combines acoustic cell patterning and microextrusion-based 3D bioprinting. The key component is a customized acoustic array module consisting of multiple piezoelectric transducers. By exciting specific piezoelectric transducers of the acoustic array, the cells in the bioink are expected to be patterned into the filament center plane. Moreover, by adjusting the array\u2019s operating conditions, mainly the excitation patterns of different transducers and frequencies, real-time change of the pattern orientation is expected to be achieved to meet the dynamic cell patterning requirements for fabrication of tissue models with complex geometry. A physical model based on principles of structural vibration and acoustic wave propagation will be used to simulate formation of 3D acoustic pressure fields and identify the design properties for the acoustic arrays for the desired planar cell patterns for each layer. Experimental cell patterning will be observed using a fluorescence microscope to validate the simulation results. Finally, smooth muscle cells look to be patterned using the proposed technology, and the post-printing assessment focuses on cell viability and proliferation, and \u03b1-SMA expression for contractile function.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Changxue",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Changxue Xu",
+   "pi_email_addr": "changxue.xu@ttu.edu",
+   "nsf_id": "000707868",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jingfei",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jingfei Liu",
+   "pi_email_addr": "jingfei.liu@ttu.edu",
+   "nsf_id": "000877443",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas Tech University",
+  "inst_street_address": "2500 BROADWAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "LUBBOCK",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8067423884",
+  "inst_zip_code": "79409",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "TX19",
+  "org_lgl_bus_name": "TEXAS TECH UNIVERSITY SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EGLKRQ5JBCZ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas Tech University",
+  "perf_str_addr": "2500 BROADWAY",
+  "perf_city_name": "LUBBOCK",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "794091035",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "TX19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "8021",
+   "pgm_ref_txt": "Materials Engineering"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  },
+  {
+   "pgm_ref_code": "1467",
+   "pgm_ref_txt": "MATERIALS PROCESSING AND MANFG"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

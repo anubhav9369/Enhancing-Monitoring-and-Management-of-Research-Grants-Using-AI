@@ -1,0 +1,102 @@
+{
+ "awd_id": "2502174",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Non-Intrusive Electrical Device  Monitoring based on Magnetic Inductive Sensing",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Electrical motors power countless systems in modern life, from electric vehicles and industrial robotics to air conditioners and infusion pumps, and drive the movement behind a wide range of emerging technologies and applications. Given their ubiquity and importance, motor monitoring is vital for ensuring safety, maintaining energy efficiency, and detecting potential mechanical failure early. Yet accurate motor monitoring, especially when motors are enclosed, embedded, or physically inaccessible, remains a significant challenge. Laser-based systems are precise and accessible, yet they require attaching reflective markers, requiring direct physical access and causing system downtime. Camera-based systems eliminate the need for markers but still depend on a clear line of sight to the rotating components. These methods fail when rotating components are obscured, as in washing machines, liquid pumps, or medical devices. Vibration-based tachometers, which infer rotational speed from mechanical oscillations, require rigid coupling and struggle in noisy environments. To overcome these barriers, this project introduces a new type of handheld, non-intrusive tachometers based on magnetic inductive sensing. The system detects the low-frequency magnetic fields naturally emitted by motors during operation that can penetrate walls, metal enclosures, and other obstacles, allowing rotation speed estimation without altering the device under test or requiring visual access. This innovation enables accurate diagnostics in environments where conventional tools fall short. Beyond its technical contributions, the project delivers broad societal benefits. It supports safer, more efficient maintenance practices in industry sectors such as energy, aviation, and healthcare, and contributes to sustainability by enabling early identification of failing equipment. Educationally, the project promotes STEM learning at multiple levels. The principal investigator is incorporating the research into a graduate course on low-frequency communications and creating interactive lab modules and outreach workshops for undergraduate and K-12 students. These efforts aim to inspire and train the next generation of engineers and scientists. This project benefits the nation by enabling more efficient and reliable monitoring of critical electric machinery while fostering STEM education and innovation in sensing technologies.\r\n\r\nThe research of this project addresses three fundamental challenges in estimating the rotational speed of electric motors using the weak low-frequency magnetic fields they emit during operation. First, the magnetic signal strength decreases rapidly versus distance. Second, the emitted signals are complex and non-stationary, varying significantly across motor designs and operating conditions. Third, environmental noise and electromagnetic interference introduce uncertainty in signal detection and frequency estimation. To overcome these challenges, the research activity comprises three technical thrusts: signal enhancement, speed estimation, and embedded system integration. The research team designs a sensing platform that uses an array of custom-built inductive coils, incorporating both ferrite and air cores to capture radiated magnetic fields. A spatial filtering method aligns and sums time-delayed signals from multiple coils to enhance signal quality. A machine learning model based on a U-shaped encoder-decoder neural network detects harmonically related peaks in the power spectrum, while a fuzzy-logic inference engine estimates the motor\u2019s fundamental frequency even when it is obscured by noise. To improve generalization to unseen devices and speeds, the team applies data augmentation by resampling real signals to generate synthetic training samples. All signal processing and estimation algorithms operate on an embedded microcontroller platform with high-resolution analog-to-digital conversion. The team conducts performance evaluations using controlled experiments with brushless motors, real-world appliances such as fans and pumps, and tests with various occlusions, distances, and interference sources. Evaluation metrics include speed estimation accuracy, latency, energy consumption, and robustness to environmental variability. This research integrates sensing physics, signal processing, and embedded machine learning to generate transferable algorithms, curated datasets, and system design principles that advance non-intrusive monitoring of electric machines across industrial and consumer applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hua",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hua Huang",
+   "pi_email_addr": "hhuang80@ucmerced.edu",
+   "nsf_id": "000865451",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California - Merced",
+  "inst_street_address": "5200 N LAKE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "MERCED",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2092012039",
+  "inst_zip_code": "953435001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "CA13",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, MERCED",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "FFM7VPAG8P92"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California - Merced",
+  "perf_str_addr": "5200 N LAKE RD",
+  "perf_city_name": "MERCED",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "953435001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "CA13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  },
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

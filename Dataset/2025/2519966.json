@@ -1,0 +1,122 @@
+{
+ "awd_id": "2519966",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "The Measurement and Production of Quality in Long-Term Care Facilities in the US",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032927280",
+ "po_email": "nlutz@nsf.gov",
+ "po_sign_block_name": "Nancy Lutz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 557504.0,
+ "awd_amount": 557504.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "This research examines why the quality of care delivered in U.S. skilled nursing facilities varies so widely, and whether this variation reflects differences in preferences or capabilities. Skilled nursing facilities -- commonly known as nursing homes -- serve more than one million Americans on any given day, with most care financed by public programs such as Medicare and Medicaid. Despite substantial oversight, care quality remains highly uneven, with many vulnerable patients exposed to ineffective providers. Understanding how facilities combine labor, capital, and organizational practices to produce care -- and why some achieve better outcomes than others -- is essential to informing debates about quality improvement, market regulation, and payment design. This project develops an innovative method using artificial intelligence to analyze large data sets, resulting in novel measures of patient health and facility quality. The team uses these measures to shed light on the economic forces that shape performance in this large and consequential industry. The investigators then estimate whether and how quality depends on nursing home productivity, preferences, capacity, ownership, and possible differential treatment of Medicare and Medicaid patients. The findings improve the evidence base for efforts to promote the health and welfare of older Americans.\r\n\r\nThe project develops and estimates models of quality and production in the nursing home sector to study questions related to preferences and allocation, drawing on rich longitudinal assessment-level data from the Minimum Data Set, Medicare enrollment records, Nursing Home Compare ratings, and other facility-level sources. The researchers first construct a new unidimensional index of patient health status using machine learning methods, predicting short-term mortality conditional on rich clinical assessments. They then estimate facility-level quality as the causal effect of a stay in a particular facility on a patient\u2019s health trajectory, using a model of health evolution and a control-function approach to address selection. Building on these estimates, the project develops a production function that quantifies how facilities transform staffing and capital into quality and quantity of care, and estimates facility-specific preferences over these outputs. The research also examines the role of regulatory constraints, such as certificate-of-need laws, in limiting capacity and hindering patient reallocation to higher-quality providers. Next, the researchers use machine learning tools to build a new dataset containing flags for nursing home ownership, in order to provide new evidence on how ownership influences productivity and preferences. Finally, the investigators extend the framework to account for the multiproduct nature of skilled nursing facilities, which deliver both post-acute care, typically to Medicare patients, and long-term care, typically to Medicaid patients. The analysis yields new insights into the determinants of care quality, the economic tradeoffs inherent in multiproduct provision, and the potential for regulatory or market-based interventions to improve patient outcomes by influencing market capacity and ownership.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ashley",
+   "pi_last_name": "Swanson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ashley Swanson",
+   "pi_email_addr": "ashley.swanson@wisc.edu",
+   "nsf_id": "000701688",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Backus",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew Backus",
+   "pi_email_addr": "backus@berkeley.edu",
+   "nsf_id": "000679417",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Olenski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew Olenski",
+   "pi_email_addr": "ano223@lehigh.edu",
+   "nsf_id": "0000A2NQY",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "National Bureau of Economic Research Inc",
+  "inst_street_address": "1050 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6178683900",
+  "inst_zip_code": "021385359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "NATIONAL BUREAU OF ECONOMIC RESEARCH INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GT28BRBA2Q49"
+ },
+ "perf_inst": {
+  "perf_inst_name": "National Bureau of Economic Research Inc",
+  "perf_str_addr": "1050 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021385359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "132000",
+   "pgm_ele_name": "Economics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 557504.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2434331",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CPS: Small: Lifted Hybridization: A New Representation for Efficient Control and Verification of Cyber-Physical Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924760",
+ "po_email": "osokolsk@nsf.gov",
+ "po_sign_block_name": "Oleg Sokolsky",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-03-20",
+ "awd_max_amd_letter_date": "2025-03-20",
+ "awd_abstract_narration": "Modern cyber-physical systems operate in unpredictable environments, exhibit complex behaviors, and are controlled by sophisticated computer algorithms.  In safety-critical domains such as aviation and automotive systems, behaviors of cyber-physical systems are subject to stringent requirements both on safety and performance.  This project seeks to advance control design and run-time performance assurance of such systems.  Providing guarantees on safety and performance is challenging due to the inherent complexity and uncertainty of their operating environments of these systems, as well as the need for real-time decision making and adaptation.  Traditional approaches to control design often fall short in handling the complexity of such systems.  There is, therefore, a pressing need for developing new theories, algorithms, and tools that can enable more effective and robust control of complex nonlinear cyber-physical systems. Such advances have the potential to significantly benefit design processes of many systems of societal importance, especially those that are safety critical such as airplanes, as well as manned and unmanned ground vehicles. This project will develop theory and algorithms that will enable efficient and assured design of complex nonlinear systems operating under tight constraints which may significantly reduce the high cost of complex system verification.\r\n \r\n \r\nTo achieve these objectives, this project will develop theoretically grounded hybrid hierarchical representations for nonlinear systems that can be used for verification, correct-by-construction control, and learning. The key insight is to lift complex nonlinear dynamics and nonlinear constraints into a hybrid domain with local linearizations, where learning, control design, and monitoring can be done more efficiently. Efficiency will be achieved by 1) defining partial orders among hybrid liftings to enable refinement and improvement of representation accuracy adaptively as needed, 2) developing novel implicit invariant set computation methods for hybrid liftings, 3) developing incremental hybrid lifted model learning techniques that can incorporate physics-based priors and that are complemented with statistical model invalidation methods. The results will be demonstrated with applications in safety critical-control and monitoring of vehicle management systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Necmiye",
+   "pi_last_name": "Ozay",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Necmiye Ozay",
+   "pi_email_addr": "necmiye@umich.edu",
+   "nsf_id": "000599056",
+   "pi_start_date": "2025-03-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "2505 Hayward Street",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481092122",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7918",
+   "pgm_ref_txt": "CYBER-PHYSICAL SYSTEMS (CPS)"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

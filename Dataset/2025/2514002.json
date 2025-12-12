@@ -1,0 +1,146 @@
+{
+ "awd_id": "2514002",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Elements: MISPR: An Open-Source Computational Framework for Electrolyte and Electrode-Electrolyte Interfaces",
+ "cfda_num": "47.041, 47.049, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928104",
+ "po_email": "shabagch@nsf.gov",
+ "po_sign_block_name": "Sharmistha Bagchi-Sen",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 589062.0,
+ "awd_amount": 589062.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Electrolytes and electrode\u2013electrolyte interfaces (EEIs) are critical to the performance, safety, and longevity of next-generation electrochemical technologies, including batteries, fuel cells, and electrochemical reactors. However, the complexity of liquid-phase systems and solid\u2013liquid interactions has outpaced current simulation tools, which are largely designed for crystalline solids. The MISPR project (Materials Informatics for Structure\u2013Property Relationships) addresses this gap by building a robust, open-source computational framework that integrates quantum chemical simulations, classical molecular dynamics, and machine learning to accelerate the discovery and understanding of complex electrolytes and electrode\u2013electrolyte interfaces. This project will serve a growing ecosystem of academic researchers, national laboratories, and industry partners seeking scalable and reproducible tools for electrolyte design. To ensure national impact, MISPR will be openly distributed and supported through hands-on training, tutorials, and course modules accessible to all American institutions and communities across different geographic, socioeconomic, and educational backgrounds.\r\n\r\nThe MISPR platform enables multiscale modeling of electrolyte solutions and electrode\u2013electrolyte interfaces by integrating density functional theory (DFT), classical molecular dynamics (CMD), and machine learning (ML) in a unified and modular framework. This award will expand MISPR in four key directions: (1) automation of high-throughput multiscale simulations for electrolyte and EEI systems; (2) development of hybrid DFT-CMD-DFT workflows for spectroscopic predictions (NMR, IR, Raman); (3) integration of optimization algorithms and ML models to prioritize candidate electrolytes based on key performance metrics; and (4) expanded support for open-source simulation engines and force fields to broaden accessibility. All simulation data and workflows will follow FAIR (Findable, Accessible, Interoperable, Reusable) principles and be made available via open databases and APIs. MISPR will be delivered through conda, PyPI, and GitHub with strong emphasis on documentation, reproducibility, and training. Community adoption will be supported through collaborations with experimentalists, computational scientists, and educators, as well as sustained outreach including workshops, user support, and curriculum development for advanced materials education.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Chemical, Bioengineering, Environmental and Transport Systems in the Engineering Directorate, and the Division of Materials Research in the Directorate for Mathematical and Physical Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nav Nidhi",
+   "pi_last_name": "Rajput",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nav Nidhi Rajput",
+   "pi_email_addr": "navnidhi.rajput@stonybrook.edu",
+   "nsf_id": "000797048",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tengfei",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tengfei Ma",
+   "pi_email_addr": "tengfei.ma@stonybrook.edu",
+   "nsf_id": "000941179",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Stony Brook",
+  "inst_street_address": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STONY BROOK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6316329949",
+  "inst_zip_code": "11794",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NY01",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "M746VC6XMNH9",
+  "org_uei_num": "M746VC6XMNH9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Stony Brook",
+  "perf_str_addr": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "perf_city_name": "STONY BROOK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "117940001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NY01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171200",
+   "pgm_ele_name": "DMR SHORT TERM SUPPORT"
+  },
+  {
+   "pgm_ele_code": "764400",
+   "pgm_ele_name": "EchemS-Electrochemical Systems"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "8399",
+   "pgm_ref_txt": "Energy Storage or Transmission"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 589062.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2440819",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Defending Against Phishing Attacks beyond Reference-Based System",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 597147.0,
+ "awd_amount": 349477.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "Phishing attacks represent a major cybersecurity threat affecting billions of Internet users worldwide. These attacks involve cybercriminals fabricating websites to look like legitimate ones, to trick users into revealing sensitive information such as login credentials. In response to escalating phishing threats, researchers have intensified their efforts to understand and counter these attacks.  Researchers have also turned to machine learning and deep learning for detection solutions, with recent focus on \"reference-based visual similarity models\" that analyze visual elements such as logos and login forms. This approach compares potential phishing sites to legitimate ones. However, this method has two critical flaws. First, it lacks resilience against evolving evasion tactics which can effectively bypass phishing detectors. Second, countering these evolving tactics necessitates substantial human effort, including identifying vulnerabilities, curating ground-truth datasets, retraining models, and evaluating the updated models. This results in vulnerable time periods between the advent of new attack tactics and the deployment of updated models. This project is enhancing Internet user protection against phishing attacks by developing novel detection approaches that enhance resilience and minimize human efforts using forced execution of unexposed program elements and large language models (LLMs).\r\n\r\nThe research aims to strengthen protection against phishing attacks by addressing two critical weaknesses in current detection systems: their vulnerability to evasion and their dependency on extensive human intervention. The project team conducts this through a dual approach. First, the project team conducts a systematic evaluation of state-of-the-art detection models to identify exploitable weaknesses and fundamental flaws. Second, based on these insights, the project team develops two novel detection mechanisms: a JavaScript forced execution technique that reduces dependency on reference-based visual elements, and an advanced system utilizing large language models (LLMs) that both narrows critical temporal gaps between new attack vectors and defensive updates and provides users with contextual semantic information for better threat assessment. This project extends beyond incremental security improvements by establishing more resilient, autonomous systems that minimize human oversight requirements while enhancing protective capabilities -- simultaneously advancing the theoretical understanding of phishing methodologies within the research community and delivering practical solutions that protect users against increasingly sophisticated social engineering threats.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Doowon",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Doowon Kim",
+   "pi_email_addr": "doowon@utk.edu",
+   "nsf_id": "000851685",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 349477.0
+  }
+ ],
+ "por": null
+}

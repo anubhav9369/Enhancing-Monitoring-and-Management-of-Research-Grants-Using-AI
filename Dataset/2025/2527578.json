@@ -1,0 +1,102 @@
+{
+ "awd_id": "2527578",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Silicon photonics tunable laser for analyzing energy content of natural gas",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-03-31",
+ "tot_intn_awd_amt": 304913.0,
+ "awd_amount": 304913.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "The broader impact and commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop photonic chips\u2014tiny devices that use light, instead of electricity, to perform sensing and measurement tasks. At the core of the project is a widely tunable laser, which means a laser whose color (or frequency) of light can be adjusted over a broad range. This flexibility allows it to detect different substances or measure distances with high precision. By using cost-effective manufacturing techniques from the microelectronics industry, the project aims to produce these lasers at scale. The first major application is in measuring the energy content of natural gas, which will support a more efficient and reliable energy infrastructure. The technology is positioned to enter a natural gas analysis market expected to grow from $700 million in 2025 to over $1 billion by 2030, with projected laser sales reaching $10 million annually by the third year of production.\r\n\r\nThis Small Business Innovation Research (SBIR) project aims to develop and validate hybrid silicon photonic tunable lasers, demonstrating key performance metrics such as light-current characteristics, spectral output, and the ability to measure methane concentration with 0.01% accuracy using tunable diode laser absorption spectroscopy. Since the 1960s, the energy content of natural gas\u2014expressed in British thermal units (Btu) per cubic foot\u2014has typically been measured using natural gas chromatographs (NGCs), which require ongoing maintenance and consumables, adding to operational costs. While distributed feedback (DFB) laser-based analyzers have effectively measured light impurities like water and hydrogen sulfide, they fall short in capturing the broad spectral features of heavier hydrocarbons. The widely tunable hybrid silicon photonic laser developed in this project overcomes this limitation, capable of resolving both the sharp rovibrational peaks of methane and the broad absorption features of heavy hydrocarbons. Combined with the scalability and cost-efficiency of silicon photonics manufacturing, this laser enables a new generation of optical Btu analyzers with significant competitive advantages for natural gas analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yi",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yi Zhang",
+   "pi_email_addr": "yi.zhang@coolaimate.com",
+   "nsf_id": "0000A05Q8",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "COOLAIMATE, INC",
+  "inst_street_address": "250 W MONTANA ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PASADENA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2068492798",
+  "inst_zip_code": "911031435",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "COOLAIMATE, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XAJ6JRHVVU69"
+ },
+ "perf_inst": {
+  "perf_inst_name": "COOLAIMATE, INC",
+  "perf_str_addr": "250 W MONTANA ST",
+  "perf_city_name": "PASADENA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "911031435",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8990",
+   "pgm_ref_txt": "Optics and Photonics"
+  },
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304913.0
+  }
+ ],
+ "por": null
+}

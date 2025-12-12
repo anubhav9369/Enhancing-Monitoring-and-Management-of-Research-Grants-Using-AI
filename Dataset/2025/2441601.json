@@ -1,0 +1,122 @@
+{
+ "awd_id": "2441601",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: A Framework to Power Next-Generation AI-based Scientific Models on Hardware with Massive Parallelism",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 761938.0,
+ "awd_amount": 292237.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2024-12-31",
+ "awd_abstract_narration": "Recently, the advancement of Large Language Models has facilitated the development of AI models for scientific discovery. However, many scientists today face two major challenges in building high-quality AI-based scientific models: (i) it is very challenging to fully utilize the compute power offered by modern hardware with massive parallelism because many science-informed model architectures often exhibit high-order computation and memory complexity, and programming such hardware is extremely complex, requiring advanced system technologies to effectively utilize all available hardware resources simultaneously to achieve optimal performance; (ii) the challenge of the humans in the loop -- non-CS scientists. The project's novelties are in addressing these two major challenges: empowering non-CS researchers to harness the power of modern hardware with massive parallelism for training science-informed AI4Science models, and simplifying the complex programming required to achieve optimal performance. The project\u2019s broader significance and importance are in making training advanced AI models more accessible and effective for scientific research, thereby accelerating scientific discovery and innovation.\r\n\r\nThe project includes the following synergistic components. First, it enables capturing unprecedented high-order, extremely long-range, and high-volumetric interactions in scientific data by developing novel memory-efficient and hardware-friendly kernels on a single GPU, effectively changing the state of many advanced models from impossible to possible to train with limited GPU resources. Second, it creates novel hardware and model-conscious 4D parallelism, which further unlocks the performance potential of AI4Science models in multi-node multi-GPU distributed environments. Finally, the project builds an automated pipeline through new techniques in performance adviser, deep learning compilation, and auto-tuner, which lowers the burden on non-CS scientists from dealing with complex parallel hardware. Together, this project paves the path to generalize AI system technologies so they can broadly address major system pain points and promote progress in large-scale scientific discoveries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Minjia",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Minjia Zhang",
+   "pi_email_addr": "minjiaz@illinois.edu",
+   "nsf_id": "000992470",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 292237.0
+  }
+ ],
+ "por": null
+}

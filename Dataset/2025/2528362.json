@@ -1,0 +1,101 @@
+{
+ "awd_id": "2528362",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FRG: Collaborative Research: Trace Methods and Applications for Cut-and-Paste K-Theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924876",
+ "po_email": "snaik@nsf.gov",
+ "po_sign_block_name": "Swatee Naik",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2025-06-30",
+ "tot_intn_awd_amt": 100576.0,
+ "awd_amount": 31705.0,
+ "awd_min_amd_letter_date": "2025-03-10",
+ "awd_max_amd_letter_date": "2025-03-10",
+ "awd_abstract_narration": "This research brings together ideas, techniques, and insights from two long-standing programs in mathematics: scissors congruence and algebraic K-theory.  Scissors congruence originated in Hilbert's 3rd Problem, which asks when two polyhedra in three-dimensional space are \"scissors congruent,\" meaning one can be obtained from the other by cutting it into smaller polyhedra and reassembling in a different way.  This question, together with its solution by Dehn, initiated an extensive program of research. Over the past 120 years these ideas have grown and now connect to almost every branch of geometry. Ground-breaking recent work provides a fundamental link between this program and algebraic K-theory, which is itself a deep and rapidly developing area of research.  Algebraic K-theory intertwines three major fields of mathematics: topology, algebraic geometry, and number theory. Developing the connection between scissors congruence and algebraic K-theory will significantly advance research in both.  This work also provides the platform for striking new research avenues that will bring to bear the tools and techniques of modern algebraic K-theory research on a wide range of geometric questions.  This project additionally includes a number of efforts to support students and new researchers in the field, expanding and broadening access to these innovative ideas.\r\n\r\n\r\nThis broad new program of research develops the foundations of combinatorial, or \"cut-and-paste,\" algebraic K-theory, applies these new tools to resolve outstanding geometric questions, and expands the scope of combinatorial K-theory to new applications.  It brings modern techniques in algebraic K-theory to the emerging K-theoretic approach to cut-and-paste invariants, and applies this approach to a variety of problems in algebraic topology, differential topology, and algebraic geometry. Algebraic K-theory has seen a stunning revolution in the last thirty years due to the invention of trace methods, but these tools have not yet been developed for combinatorial K-theory, a deficiency that this project hopes to remedy. This requires developing the foundations of this new theory and exploiting connections to equivariant homotopy theory.  New computational and analytic tools for combinatorial K-theory will lead to progress on a wide variety of geometric problems, including applications to manifolds and invertible TQFTs, varieties and motivic measures, and fixed point theory.  Many questions in these fields have natural interpretations in terms of cut-and-paste invariants.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Hill",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael A Hill",
+   "pi_email_addr": "mahill@umn.edu",
+   "nsf_id": "000516206",
+   "pi_start_date": "2025-03-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 OAK ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554552009",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126700",
+   "pgm_ele_name": "TOPOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1616",
+   "pgm_ref_txt": "FOCUSED RESEARCH GROUPS IN MATH SCIENCES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 31705.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This grant supported a broad program to fully develop the foundations of combinatorial algebraic K-theory, apply these new tools to resolve outstanding geometric questions, and expand the scope of combinatorial K-theory to new applications.<br /><br />Cut-and-paste invariants are algebraic quantities that do not distinguish between geometric objects that we can identify by cutting up one and pasting it back together into the other. For convex polygons in the plane, the invariant is the area, but in higher dimensions, we have more complicated options. Recent work by Campbell, Zakharevich, and others has shown the efficacy of using higher algebraic K-theory to study questions about cut-and-paste invariants in geometry. The dominant paradigm in computing algebraic \\(K\\)-theory is to approximate it via various kinds of Hochschild homology. The key feature is leveraging a circle group's worth of symmetry of topological Hochschild homology.&nbsp;<br /><br />The PI's primary focus is understanding the mathematical consequences of taking seriously equivariance, with a particular interest in understanding what this means for algebraic structures traditionally studied. This is now packaged in the nascent field of equivariant algebra, where the basic building blocks of Mackey functors and incomplete Tambara functors have been objects of study in topology for decades. Much of the mathematical work supported by this grant was carried out by the PI's graduate students who studied topics as abstract as general constructions in equivariant operads to as concrete as models for particular adjoints and algebraically closed objects.<br /><br />A key part of this grant was community building for people in the homotopy theory community, with a particular focus on early-career researchers. The PI co-organized a summer school on Scissors Congruence at Indiana University, introducing graduate students and postdocs to many of the key ideas and researchers working in the area. Two years later, the PI co-organized a summer conference at the University of Pennsylvania which brought together many of the researchers in the field.<br /><br />A significant contribution was the creation of a second-advisor program for graduate students working with faculty supported by branches of the FRG. This program partnered graduate students with an additional faculty mentor from the FRG. This \"2nd Advisor\" had strong familiarity with the mathematics the student worked on, giving them an additional resource for mathematical support and helping connect them with other researchers in the same community. Additionally, this 2nd Advisor could provide job advice and support.</p><br>\n<p>\n Last Modified: 07/15/2025<br>\nModified by: Michael&nbsp;A&nbsp;Hill</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis grant supported a broad program to fully develop the foundations of combinatorial algebraic K-theory, apply these new tools to resolve outstanding geometric questions, and expand the scope of combinatorial K-theory to new applications.\n\nCut-and-paste invariants are algebraic quantities that do not distinguish between geometric objects that we can identify by cutting up one and pasting it back together into the other. For convex polygons in the plane, the invariant is the area, but in higher dimensions, we have more complicated options. Recent work by Campbell, Zakharevich, and others has shown the efficacy of using higher algebraic K-theory to study questions about cut-and-paste invariants in geometry. The dominant paradigm in computing algebraic \\(K\\)-theory is to approximate it via various kinds of Hochschild homology. The key feature is leveraging a circle group's worth of symmetry of topological Hochschild homology.\n\nThe PI's primary focus is understanding the mathematical consequences of taking seriously equivariance, with a particular interest in understanding what this means for algebraic structures traditionally studied. This is now packaged in the nascent field of equivariant algebra, where the basic building blocks of Mackey functors and incomplete Tambara functors have been objects of study in topology for decades. Much of the mathematical work supported by this grant was carried out by the PI's graduate students who studied topics as abstract as general constructions in equivariant operads to as concrete as models for particular adjoints and algebraically closed objects.\n\nA key part of this grant was community building for people in the homotopy theory community, with a particular focus on early-career researchers. The PI co-organized a summer school on Scissors Congruence at Indiana University, introducing graduate students and postdocs to many of the key ideas and researchers working in the area. Two years later, the PI co-organized a summer conference at the University of Pennsylvania which brought together many of the researchers in the field.\n\nA significant contribution was the creation of a second-advisor program for graduate students working with faculty supported by branches of the FRG. This program partnered graduate students with an additional faculty mentor from the FRG. This \"2nd Advisor\" had strong familiarity with the mathematics the student worked on, giving them an additional resource for mathematical support and helping connect them with other researchers in the same community. Additionally, this 2nd Advisor could provide job advice and support.\t\t\t\t\tLast Modified: 07/15/2025\n\n\t\t\t\t\tSubmitted by: MichaelAHill\n"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2433878",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Wideband Ultra Linear Transceiver Circuits (WULT-C) for New Spectrum",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 380000.0,
+ "awd_amount": 380000.0,
+ "awd_min_amd_letter_date": "2025-03-24",
+ "awd_max_amd_letter_date": "2025-03-24",
+ "awd_abstract_narration": "The next communication standard \u201c6G\u201d will make use of new spectrum between 7-24 GHz.  However, due to incumbent users, the spectrum will need to be shared in a dynamic way, with channels opening up for short durations, requiring agile radios to hop into and out of bands. This motivates the principal investigator to pursue the design of RF front-end radios that can access very large swaths of bandwidth with programmable center frequency and programmable bandwidth, and tunable in a fast and agile fashion using electronic rather than mechanical tuning.  This is in stark contrast to how today\u2019s radios work, as they usually cover much smaller bands (less than 1 GHz) and rely on highly selective filters to minimize interference.  The proposed radio would provide wideband tunable functionality by making the radio receiver robust against interference. The transmitter will be equally agile and generate as little out-of-band emissions as possible, so that other users can also share the spectrum. Without using explicit filters, this is a great challenge and requires much innovation in the transmitter architecture.  Successful realization of the project would enable resilient broadband connectivity for the foreseeable future, thus broadening wireless access, which is a key national priority. The principal investigator plans on training both graduate students and undergraduates who will participate in the project directly and through classroom interactions. The principal investigator will also continue to teach a chip design \u201ctapeout\u201d course giving undergraduates the opportunity to build radios in advanced CMOS technology nodes and also to test their chips in the lab. This will help with workforce training. \r\n\r\nThe principal investigator is proposing a broadband front-end receiver with an electronically tunable filter that automatically tracks the desired channel of operation using mixer-first N-path techniques, up-converting baseband low-pass filtering to a bandpass response.  Linearity is preserved by using voltage feedback in the baseband stages. The principal investigator is also proposing a wideband mixed-signal polar power amplifier that can easily adapt to different bandwidths and modulation schemes due to the flexibility afforded by the digital nature of the architecture. To contend with the high levels of quantization noise and image transmissions, a hybrid PA is proposed that incorporates a low power linear PA that combines with the mixed-signal PA, allowing high efficiency, high linearity, and low spurious transmissions. While N-path filters and digital transmitters have received a lot of interest from the research community, the issue of in-band (rather than out-of-band) linearity of the receiver and out-of-band emissions from a transmitter have been mostly ignored. Also, most of the published work has focused on sub-5 GHz radios. Without addressing these key requirements and new frequency bands, these radio architectures cannot be applied to the envisioned new spectrum ranging from 7-20 GHz. The higher frequency bands necessitate radios without mechanical filters (SAW/BAW/F-BAR) with fast switching between sub-bands. The proposal directly addresses these shortcomings using circuit techniques which allow a new generation of programmable, dynamic, and agile front ends to be used for future spectrum allocations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Niknejad",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali M Niknejad",
+   "pi_email_addr": "niknejad@eecs.berkeley.edu",
+   "nsf_id": "000448979",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 380000.0
+  }
+ ],
+ "por": null
+}

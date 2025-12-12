@@ -1,0 +1,102 @@
+{
+ "awd_id": "2532731",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: III: Visualizing and Tracking Progress in Multimodal CR (Cardiac Rehabilitation) Data",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "While integration of multimodal information has been widely researched, the difficulty in carrying out this integration in a domain-agnostic, generic manner has been problematic. Past results have emphasized the need for addressing multimodal integration in a domain-specific manner. For instance, cardiac rehabilitation is a diverse range of practices for restoring individual's functioning. Unfortunately, only 30% - 40% of patients report regular exercise at six months after discharge and 39%-45% of these patients suffer from at least one readmission within one year. These poor outcomes motivate the need for  using technology for remote monitoring in this multi-modal system.  The overarching goal of this proposal is to understand how multiple cardiac experts view multimodal data, decide on the progress, and the variations/biases among the experts' views and decisions. This understanding would help us design and build a multimodal visualization and progress-tracking system that can provide meaningful information to stakeholders. Though the proposed algorithms for multimodal data analysis are tightly tied to the biomedical domain, the derived knowledge and understanding would be useful to other domains using multimodal sensing. Results, metrics, and algorithms from this research will be published widely in high-quality academic journals and conference proceedings.\r\n\r\nIntegrating, visualizing and tracking progress using multimodal data is highly domain dependent. In this project, cardiac tele-rehabilitation deployed in-home is the target domain, generating multimodal data, with their diverse data characteristics and varied timeframes. Research challenges in domain-specific multimodal integration typically include the characteristics of the multimodal data as well as the domain-specific needs. For multimodal integration for cardiac rehabilitation, the challenges include: (i) Integrating the multimodal data with diverse types of data with varying temporal characteristics to find relationships among potential adverse events; and, (ii) Possibilities for using mobile and wearable sensors to provide opportunities for personalization both in the rehabilitation and in the multimodal data integration. The proposed system, in the form of a mobile app, will democratize data acquisition. This, in turn, could lead to a better understanding of bias among  experts and possible strategies for mitigating the bias and provide appropriate feedback and nudges to  patients.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Balakrishnan",
+   "pi_last_name": "Prabhakaran",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Balakrishnan Prabhakaran",
+   "pi_email_addr": "bprabhakaran@albany.edu",
+   "nsf_id": "000230020",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Albany",
+  "inst_street_address": "1400 WASHINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ALBANY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5184374974",
+  "inst_zip_code": "122220100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE",
+  "org_prnt_uei_num": "NHH3T1Z96H29",
+  "org_uei_num": "NHH3T1Z96H29"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Albany",
+  "perf_str_addr": "1400 WASHINGTON AVE",
+  "perf_city_name": "ALBANY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "122220100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": null
+}

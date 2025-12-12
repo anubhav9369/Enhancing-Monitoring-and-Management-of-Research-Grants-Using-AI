@@ -1,0 +1,106 @@
+{
+ "awd_id": "2501442",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Multiscale Modeling of Thrombus Formation and its Response to External Loads",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924204",
+ "po_email": "shisharm@nsf.gov",
+ "po_sign_block_name": "Shivani Sharma",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2029-10-31",
+ "tot_intn_awd_amt": 506803.0,
+ "awd_amount": 506803.0,
+ "awd_min_amd_letter_date": "2024-11-15",
+ "awd_max_amd_letter_date": "2024-11-15",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) award will fund research that intends to advance our knowledge in modeling and predicting thrombus (or clot) formation and rupture in patient\u2019s blood vessels. Clots, while aiding in stopping bleeding, can also obstruct blood flow in vessels, leading to cardiovascular diseases like hypertension, heart attack, and stroke. In fact, cardiovascular disease is the leading cause of death worldwide. Thus, understanding clot formation and its response in the live blood environment is crucial for predicting and treating clot growth. However, predicting clot growth and rupture is challenging, as blood flow impacts the formation and composition of a clot, which in-return determines the strength of the clot and its response to flow. On the other hand, the growth and composition of the clot changes the flow as well. This award will support research striving to develop multiscale modeling tools that use powerful computers and artificial intelligence to better predict clot growth and its response to pulsatile flows, collision from blood cells, and vessel dilation. Experimental validations will be performed using 3D printed silicon based vascular network replica.  In addition, the project will integrate research and education by developing curriculum, employing innovative teaching tools like interactive notebooks to train the next generation or engineers and scientists, with a focus on underrepresented minorities, in computational thinking, high-performance computing, and machine learning. Outreach activities involve participation in STEM festivals and organizing engineering summer camps to inspire K12 students to enter the STEM field.  \r\n\r\nThe overall objective of this CAREER project is to develop a multiscale model to predict clot growth and response, under different flow conditions. Specifically, it will: 1) identify and investigate the impact of key dimensionless parameters on clot growth and structure considering flow, red blood cells (RBCs), platelets, and other biopolymers such as fibrin and von Willebrand factor; 2) characterize clot response including deformation and rupture due to pulsatile flow and vessel wall deformation with given composition; and 3) predict clot growth, rupture, and quantify its uncertainties in large scale vascular network using physics informed neural network (or PINN) augmented one-dimensional models.\u202fThis project is a critical step toward understanding clot mechanics and providing support for clinical decision-making for surgery and treatment. This project will allow the Principal Investigator to advance the knowledge base in computational science and engineering and establish a long-term career in Biomechanics and Mechanobiology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jifu",
+   "pi_last_name": "Tan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jifu Tan",
+   "pi_email_addr": "jifutan@binghamton.edu",
+   "nsf_id": "000797455",
+   "pi_start_date": "2024-11-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Binghamton",
+  "inst_street_address": "4400 VESTAL PKWY E",
+  "inst_street_address_2": "",
+  "inst_city_name": "BINGHAMTON",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6077776136",
+  "inst_zip_code": "13902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "L9ZDVULCHCV3",
+  "org_uei_num": "NQMVAAQUFU53"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Binghamton",
+  "perf_str_addr": "4400 VESTAL PKWY E",
+  "perf_city_name": "BINGHAMTON",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "139024400",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "747900",
+   "pgm_ele_name": "BMMB-Biomech & Mechanobiology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "028E",
+   "pgm_ref_txt": "BIOMECHANICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 506803.0
+  }
+ ],
+ "por": null
+}

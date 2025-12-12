@@ -1,0 +1,122 @@
+{
+ "awd_id": "2440490",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Decoding and Predicting the Dynamics of Complex Biological Systems through Data-Driven Orbit Network Decomposition",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922576",
+ "po_email": "mcanova@nsf.gov",
+ "po_sign_block_name": "Marcello Canova",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 595000.0,
+ "awd_amount": 595000.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant funds research, education, and outreach activities aimed at developing new methods to understand and forecast the behavior of complex biological systems using data-driven approaches. Observing biological processes directly, such as genetic circuits and neuron activities, is often restricted by the limited capabilities of current experimental technologies. Nonetheless, dynamic systems theory offers mathematical principles that make it possible to glean significant information about these biological processes from limited data sets. The research activities funded by this award intend to create a new analytical framework that merges artificial intelligence with foundational concepts from nonlinear dynamics theory to develop principled algorithms for interpretable modeling of biological time series data. These algorithms use topological methods to overcome noise and errors in data, along with generative machine learning, an emerging approach that utilizes large data sets to construct probabilistic models that can predict future states. These data-driven techniques will be applied to study animal behavior and neuron activity, identifying recurring patterns associated with common behaviors such as navigation. Additionally, this CAREER award supports educational activities that will engage high school students in mathematical research, making complex mathematical concepts more accessible through scientific visualization. Furthermore, it will contribute to the creation of an open-source, online textbook on computational physics and engineering, bridging traditional computational methods with contemporary artificial intelligence techniques to advance science in the digital age.\r\n\r\nA central challenge in systems biology is inferring unseen dynamical systems from limited observations, such as measurements from a small number of genes, neurons, or species. This research introduces a generative machine learning algorithm that maps biological time series to a network of discrete dynamical motifs, that is, estimates of invariant solutions of the unknown dynamical system that governs a biological process. This approach requires no prior knowledge of the governing equations, instead leveraging strong theoretical constraints to enhance accuracy. Initially, topological data analysis is used to detect evidence of these invariant solutions directly from biological time series. This technique is integrated within an end-to-end generative machine learning architecture that maps complex time series to coarse-grained dynamic processes. This method will be applied to large-scale recordings of organismal behavior, addressing challenges posed by low-dimensional and highly heterogeneous measurements that vary widely across different organisms. By mapping various datasets of organismal behavior onto a shared space of latent orbits, this research will demonstrate how nonlinear dynamics can uncover conserved biological motifs across the tree of life.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Gilpin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "William Gilpin",
+   "pi_email_addr": "wgilpin@utexas.edu",
+   "nsf_id": "000786817",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 595000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2516003",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Secure Containers in High-Performance Computing Infrastructure",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 509008.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2025-02-13",
+ "awd_abstract_narration": "Ensuring the security and privacy of high-performance computing (HPC) infrastructures is of utmost importance due to their handling of sensitive data and critical scientific computations. HPC infrastructures commonly employ containers, which provide lightweight and isolated environments for running applications. Nevertheless, containers in HPC infrastructures encounter security challenges, including insecure container images and vulnerabilities related to isolation. Existing container image scanners face a major challenge of low coverage, while current container runtimes struggle to ensure both security and performance for HPC workloads simultaneously. This project addresses these challenges by developing secure containers specifically tailored for HPC infrastructures. The project introduces innovative solutions, including the development of an efficient image vulnerability scanner and a secure container runtime. These systems incorporate various customized optimizations for security and performance targeting HPC workloads. Additionally, educational efforts are made to integrate the research findings into graduate and undergraduate curriculum development. Outreach activities are conducted to encourage participation from underrepresented groups and promote cybersecurity awareness and HPC expertise in the states of Texas and Delaware.\r\n\r\nThe project consists of two primary tasks. The first task focuses on designing an efficient image vulnerability scanner using innovative and feasible techniques. The research team designs a novel method for container image vulnerability detection based on cross-language code similarity detection. This approach combines graph neural networks with a language-agnostic code representation that leverages natural language processing techniques. Furthermore, it designs an efficient and scalable online search solution. The second task involves developing a secure and high-performance container runtime by utilizing a lightweight virtual machine hypervisor. Additionally, the runtime is optimized based on the characteristics of HPC workloads with the goal of improving both security and performance.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuede",
+   "pi_last_name": "Ji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuede Ji",
+   "pi_email_addr": "yuede.ji@uta.edu",
+   "nsf_id": "000870393",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Arlington",
+  "inst_street_address": "701 S NEDDERMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ARLINGTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8172722105",
+  "inst_zip_code": "760199800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT ARLINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LMLUKUPJJ9N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Arlington",
+  "perf_str_addr": "701 S NEDDERMAN DR",
+  "perf_city_name": "ARLINGTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "760199800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 509008.0
+  }
+ ],
+ "por": null
+}

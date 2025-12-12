@@ -1,0 +1,130 @@
+{
+ "awd_id": "2536330",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Workshop on Frontiers in Learning under Data Heterogeneity",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 11000.0,
+ "awd_amount": 11000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "The Workshop on Frontiers in Learning Under Data Heterogeneity will be held at the University of Florida on January 16-17, 2026, and is expected to host approximately 60\u201370 participants. The workshop will address a central challenge in contemporary data science: the development of principled methods for statistical inference and machine learning in the presence of data heterogeneity. In practical settings, data often arise from disparate sources across domains, institutions, or subpopulations, leading to complex distributional shifts that undermine classical modeling assumptions. The workshop will bring together researchers working at the interface of theory and application to discuss recent advances that account for such variability in a principled manner. A core objective of the workshop is to support junior researchers, including graduate students, postdoctoral fellows, and early-career faculty, who will actively participate as speakers and presenters. Through a program of invited talks, poster sessions, and structured discussions, the workshop will foster substantive interactions and stimulate new collaborations across disciplinary boundaries and career stages.\r\n\r\nThe technical focus of the workshop lies in statistical and algorithmic approaches for learning under data heterogeneity, with emphasis on transfer learning, multi-task learning, federated learning, semi-supervised inference, and distributionally robust optimization. Key topics include generalization under distribution shift, adaptation to covariate and label shift, invariant representation learning, and robust aggregation schemes in decentralized settings. Methodological innovations will be discussed alongside recent theoretical developments in minimax optimality, adaptive regularization, and uncertainty quantification under model misspecification. Applications in biomedical sciences, economics, and environmental studies will illustrate the relevance of these approaches to real-world problems. The workshop will bridge theory and practice, connecting statisticians, machine learning researchers, and scientists to identify open problems and future research directions. The conference details are available at: https://stat.ufl.edu/winter-workshop/2026-frontiers-in-learning-under-data-heterogeneity/ .\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Satarupa",
+   "pi_last_name": "Bhattacharjee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Satarupa Bhattacharjee",
+   "pi_email_addr": "bhattacharjee.sa@ufl.edu",
+   "nsf_id": "0000A29BR",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Daniels",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael J Daniels",
+   "pi_email_addr": "mdaniels@stat.ufl.edu",
+   "nsf_id": "000115768",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sohom",
+   "pi_last_name": "Bhattacharya",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sohom Bhattacharya",
+   "pi_email_addr": "bhattacharya.s@ufl.edu",
+   "nsf_id": "000988485",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 11000.0
+  }
+ ],
+ "por": null
+}

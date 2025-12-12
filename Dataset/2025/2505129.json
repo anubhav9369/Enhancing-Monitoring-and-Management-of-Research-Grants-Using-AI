@@ -1,0 +1,114 @@
+{
+ "awd_id": "2505129",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Medium: A hardware accelerator for satisfiability (SAT): Over 100x speedup for combinatorial optimization problems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Boolean satisfiability (SAT) is a core problem in computing with broad, high-impact applications. A wide range of critical problems in industry and defense, e.g., in hardware and software design and verification, artificial intelligence, robotics, and drug discovery, use SAT solvers and often take weeks to complete on modern large-scale computing systems. This project will develop new types of accelerator chips custom-designed for SAT to reduce the time and energy required to solve all such important problems by more than two orders of magnitude compared to the best-known existing approaches. Completely new ways to combine logic circuits and memories will be developed, along with methods and tools to create these chips. The development of this hardware will dramatically benefit organizations across engineering, artificial intelligence, science, business, logistics, and defense. This project will also advance the art and science of custom computing, which will continue to increase in importance in the foreseeable future. Students will be trained in this new art and science. The models, methods, and tools developed will be shared with researchers as well as industry and defense experts to foster a vibrant community. \r\n\r\nThe project will develop an algorithm-to-transistors co-optimization approach to accelerator design for SAT and an extensive set of combinatorial problems, demonstrating significantly higher efficiency than existing solutions. It will also provide new computer-aided design (CAD) tools for the realization of powerful SAT accelerators by mapping SAT algorithms and heuristics to optimized architectures, including combinations of memories, content-addressable memories, near-memory logic, and custom interconnects that enable maximal parallelization. The advantages of the new designs will be demonstrated via chip fabrication, silicon measurements, and the development of chiplet-based architectures enhancing the economics of accelerators for SAT and other problems. The technological advancements pursued by this project, and especially the new methods and tools for the design of hardware accelerators, will contribute to the state of the art in custom computing, which will become increasingly more important in the post-Moore era. The resulting designs will dramatically benefit organizations across engineering, artificial intelligence, science, business, logistics, and defense.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sandeep",
+   "pi_last_name": "Gupta",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sandeep K Gupta",
+   "pi_email_addr": "sandeep@usc.edu",
+   "nsf_id": "000097683",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Anthony",
+   "pi_last_name": "Levi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anthony Levi",
+   "pi_email_addr": "alevi@usc.edu",
+   "nsf_id": "000194444",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3740 McClintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900892563",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

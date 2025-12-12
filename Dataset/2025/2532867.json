@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532867",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Revealing Binary Evolution Pathways with Rubin Observatory and Gaia",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032927203",
+ "po_email": "sschuler@nsf.gov",
+ "po_sign_block_name": "Simon Schuler",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 241496.0,
+ "awd_amount": 241496.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "Stellar evolution theory was one of the major accomplishments of 20th century astrophysics. However, the resulting models generally apply only to single stars. Stars in binary or higher-order stellar systems can evolve completely differently, because the two stars in a binary system can interact as they evolve, often merging or transferring mass between the two components.  A researcher at the Illinois Institute of Technology (IIT) will search for such systems in 47 open star clusters using the Gaia space telescope and the Vera C. Rubin Observatory. Open clusters are ideal for this project, because their stellar constituents share the same age, initial chemical composition, and distance, making post-interaction stars easier to identify. The researcher will determine critical stellar and orbital parameters for these binary systems. The project will provide STEM training for a graduate and summer undergraduate students and also a public outreach program that conducts public daytime observing events on IIT\u2019s campus and at local K-12 schools using a dedicated solar telescope. The graduate and undergraduate students will participate in the outreach activities, providing opportunities for them to develop science communication skills, apply knowledge from their coursework to setting up telescopes and discussing astronomical phenomena, and grow their confidence as developing scientists.\r\n\r\nThe project aims to dramatically expand the sample of star clusters that have well-characterized populations of blue straggler, blue lurker, and yellow straggler stars, all of which are expected to have formed via mass transfer or mergers in binary systems. Blue and yellow stragglers are more massive than typical for the cluster age and can be identified by their anomalous positions in the cluster color-magnitude diagram (CMD), whereas blue lurkers are found on the cluster main sequence and identified by their unusually rapid rotation. The PI will use Gaia photometry to determine membership and construct CMDs of the 47 target open clusters and identify blue and yellow stragglers in each. Blue lurkers will be identified by constructing light curves of FGK stars and Fourier transform them to detect periodic signals indicative of rotation periods. The rotation periods will then be compared to predicted periods from gyrochronology models. The PI and students will use a custom implementation of the Bayesian isochrone fitting software called BASE-9, which allows them to flag blue stragglers, yellow stragglers, or other post-interaction stars in a cluster. These methods will then be applied to Rubin photometry, which will require updating of the BASE-9 code. The project will result in a catalog that is the largest census of post-interaction binaries in clusters to include well-characterized stellar and orbital parameters.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Emily",
+   "pi_last_name": "Leiner",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emily Leiner",
+   "pi_email_addr": "eleiner@iit.edu",
+   "nsf_id": "000738214",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Illinois Institute of Technology",
+  "inst_street_address": "10 W 35TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125673035",
+  "inst_zip_code": "606163717",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IL01",
+  "org_lgl_bus_name": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E2NDENMDUEG8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Illinois Institute of Technology",
+  "perf_str_addr": "3105 South Dearborn Street",
+  "perf_city_name": "Chicago",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606162852",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 241496.0
+  }
+ ],
+ "por": null
+}

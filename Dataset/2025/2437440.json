@@ -1,0 +1,93 @@
+{
+ "awd_id": "2437440",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Mechanisms to explain continental scaling of size spectra in freshwater streams.",
+ "cfda_num": "47.074",
+ "org_code": "08010000",
+ "po_phone": "7032922279",
+ "po_email": "sdudgeon@nsf.gov",
+ "po_sign_block_name": "Steven Dudgeon",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 169540.0,
+ "awd_amount": 169540.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Humans depend on aquatic habitats for numerous ecosystem services including drinking water, food production, and recreation. The provision and maintenance of these services is underpinned by ecological processes that change under different ecological contexts and human uses. Ecosystem energy flow, the movement of energy from basal species such as plants and algae up food webs to top predators, is a crucial ecological process that can influence the number of different species, their biomass, and population persistence across space and time. However, understanding the patterns and drivers of ecosystem energy flow can be a difficult task because different ecosystems have different species with unique ecological and evolutionary histories and the collection of ecological information is labor intensive. This project overcomes these challenges by focusing on a universal trait, body size, that is tied to many biological processes such as individual metabolism, lifespan, movement, and feeding and therefore has an important role in structuring ecosystems. For example, the range of body sizes and the rate of decline of large individuals relative to small individuals represents an ecosystem-level proxy for ecosystem energy flow. Using information on the range of body sizes, their relative abundance, and a suite of additional variables, this project will examine the mechanisms that drive energy flow through ecosystems. This project will accomplish this goal by leveraging crucial, continental-scale infrastructure supported by NSF, the National Ecological Observatory Network (NEON), and the associated stream and river ecosystems across the United States to determine the environmental and ecological drivers of energy flow and their importance in the provision and maintenance of crucial ecological functions in aquatic ecosystems. This project will train a postdoctoral scholar, graduate student, and multiple undergraduate students and will provide publicly available and permanently archived data and code of body size analyses across the United States.\r\n\r\nThe relationship of declining abundance (N) with increasing body mass (M) is among the most consistent patterns in ecology. More formally, the relative rarity of large individuals across all trophic levels reflects not abundance or biomass per se, but the frequency distribution of individual body sizes in an ecosystem known as the individual size distribution (ISD) or community size spectrum. The ISD is described by a power law of the form f(x) ~ (cM)^\ud835\udf06, where c is a constant, M is individual mass, and \u03bb measures the rate of decline in frequency from the smallest to largest individual in an ecosystem. Across ecosystems and environmental gradients, values of \u03bb fall in a remarkably narrow range, from -1 to -2, a consistency that has motivated using the ISD as a universal ecological indicator. A common understanding is that the ISD reflects the efficiency of energy flow from small individuals to large individuals in size-structured food webs. Here, less negative values of \u03bb represent more efficient energy transfer. Further work has attempted to identify the mechanisms behind the ISD and a bottom-up model of energetics proposes the relationship between N and M is tied to individual energetics and metabolic scaling with mass, (M)^\u03b1. Refinements on the energetic perspective have incorporated trophic structure and the loss of energy among trophic levels and propose a trophic level correction on the basic physiological model by including terms for the trophic transfer efficiency (TTE) and the predator-to-prey mass ratio (PPMR). Together, this model suggests the exponent of the power law should be a function of the metabolic mass scaling \u03b1, TTE, and PPMR.\u2001\u2001  \r\nThe research will determine the macroecological patterns of the underlying model variables and its ability to explain the distribution of individual body sizes in ecosystems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DEB",
+ "org_div_long_name": "Division Of Environmental Biology",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Justin",
+   "pi_last_name": "Pomeranz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Justin Pomeranz",
+   "pi_email_addr": "jpomeranz@coloradomesa.edu",
+   "nsf_id": "000920914",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Colorado Mesa University",
+  "inst_street_address": "1100 NORTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "GRAND JUNCTION",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "9702481424",
+  "inst_zip_code": "815013122",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "CO03",
+  "org_lgl_bus_name": "COLORADO MESA UNIVERSITY",
+  "org_prnt_uei_num": "HAL9A8N46NB3",
+  "org_uei_num": "E5RRMPPLNMD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Colorado Mesa University",
+  "perf_str_addr": "1100 NORTH AVE",
+  "perf_city_name": "GRAND JUNCTION",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "815013122",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "CO03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "112800",
+   "pgm_ele_name": "Population & Community Ecology"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 169540.0
+  }
+ ],
+ "por": null
+}

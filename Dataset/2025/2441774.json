@@ -1,0 +1,114 @@
+{
+ "awd_id": "2441774",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Aligning Image Retrieval Systems with Human Notions of Similarity",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599998.0,
+ "awd_amount": 345135.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "Fine-grained visual categorization involves identifying subtle differences between highly similar visual categories, such as distinguishing between two closely related bird species or recognizing different models of a car. While these capabilities are critical in a variety of fields, including biodiversity research, forensic investigations, and e-commerce, the task is challenging because differences between categories can be small, while variations within a category can be large. For example, two different bird species may look very similar, while male and female birds of the same species may look very different. Visual categorization in fine-grained domains is often treated as an image retrieval problem, where the label for a query image is determined based on the labels of the most visually similar images. An image retrieval approach typically performs better than standard classification approaches on fine-grained visual categorization tasks, especially in domains with very large numbers of classes. However, image-retrieval approaches often fail because a retrieved image that is visually similar is not necessarily from the same class, and potential images from the same class may not be retrieved due to low visual similarity. Moreover, the features learned by standard image retrieval models are often biased towards overall visual similarity rather than task-specific or domain-specific notions of importance. This limitation can hinder analysts and domain experts who may want to prioritize specific visual features due to their own expertise or intuitions. This project aims to improve image retrieval systems for fine-grained domains by aligning them more closely with how human experts perceive and prioritize differences, and enabling users to focus on the features most important to their task. While these innovations will be evaluated across a variety of fine-grained domains, they will studied through their integration into an existing real-world image retrieval system developed by the investigator that is used by analysts at the National Center for Missing and Exploited Children to recognize the hotels where victims of child sexual abuse and human trafficking are photographed.\r\n\r\nThis project will address the limitations of traditional image retrieval in fine-grained domains by developing systems that better align with human notions of visual similarity while empowering users to dynamically guide retrieval processes. Ensembles of specialized models, each focused on a single visual notion, offer improved alignment with human judgments but are computationally impractical for real-time use, particularly in resource-constrained settings. To address this, the project will explore the use of knowledge distillation to integrate the varied knowledge of the ensemble models into a single model, while preserving flexibility for users to prioritize specific visual notions learned by individual models in the ensemble at query time.  The project will also develop additional mechanisms for a user to dynamically refine search results. This line of work will have two directions: one where users specify their refinement by identifying visual features to prioritize, and one where the refinement is expressed in natural language. The project will also investigate the utility of subspace projection techniques as a pre-processing step for building task-specific indices from the embedding space of pre-trained vision language models. These innovations will enable both image-based and text-based retrieval systems where users can articulate preferences through natural language or visual cues, creating intuitive and scalable tools for specific fine-grained domains. Complementing these technical advancements, the project\u2019s educational and outreach initiatives will focus on integrating machine learning competitions into undergraduate and graduate curricula to foster hands-on learning and critical thinking about real-world applications. Workshops will be organized to share best practices for using machine learning competitions as an educational tool, engaging educators, researchers, and students from a variety of backgrounds.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Abigail",
+   "pi_last_name": "Stylianou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Abigail Stylianou",
+   "pi_email_addr": "abby.stylianou@slu.edu",
+   "nsf_id": "000805860",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Saint Louis University",
+  "inst_street_address": "221 N GRAND BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3149773925",
+  "inst_zip_code": "631032006",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "SAINT LOUIS UNIVERSITY",
+  "org_prnt_uei_num": "JNBLLTBTLLD8",
+  "org_uei_num": "JNBLLTBTLLD8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Saint Louis University",
+  "perf_str_addr": "221 N GRAND BLVD",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631032006",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 345135.0
+  }
+ ],
+ "por": null
+}

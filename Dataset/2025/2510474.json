@@ -1,0 +1,114 @@
+{
+ "awd_id": "2510474",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Mixed-Pole Multi-phase Synchronous Reluctance Motor Drives",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 296743.0,
+ "awd_amount": 296743.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Electric machines are essential to modern life, powering everything from transportation electrification, shipboard power systems for military applications, industrial equipment, robotics and wind energy systems. However, many high-performance machines that are required today for these highly demanding applications depend on rare-earth magnets - materials that are expensive, challenging to extract, and are vulnerable to global supply chain disruptions.  This research explores a new class of electric machines called mixed-pole, multiphase synchronous reluctance machines. When multiple winding sets with different pole configurations are successfully combined to interact with each other and with the rotor of a different pole number, their associated magnetic fields can be manipulated to great advantage, resulting in improved energy conversion, high torque density, and fault tolerance - all without using magnets. Unlike conventional motors based on fixed number of poles, or harmonic excitations of additional windings, this concept leverages the interaction of magnetomotive forces at different fundamental frequencies, opening new possibilities for efficient, flexible and scalable motor control. This research has the potential to transform the future of electric motor systems across many sectors, particularly electrified transportation and aviation, shipboard systems, and wind energy, by reducing dependence on critical materials in the next generation of motor-drive systems. The outcome of this research will support a broader transition to sustainable, resilient and competitive electrified transportation, industrial high-power drives and wind energy infrastructure.\r\n\r\nThe specific goals of this project are to advance the theory of electric machines with multiple m-phase windings modulated independently within the machine to enable each winding set to operate with unique and permanent pole configurations. Unlike harmonic frequency excitation recently exploited in some machine topologies, the proposed concept employs complex interaction of magnetomotive forces at different fundamental frequencies. The fundamental theory relating to the operation of mixed pole electric machines and the energy conversion principle will be developed to understand the energetic behavior and different mechanisms of pole modulation for this new class of machines. Analytical modeling and finite element design tools will be developed to assist in the computational modeling and design of this class of machines. An innovative power converter and control approach is proposed to harness the full capabilities of this motor-drive topology. The power converter, modulation techniques, fault-tolerant control criteria, and estimation methodologies will be developed to enable the application of mixed-pole synchronous reluctance machines in electrified transportation and energy systems applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Emmanuel",
+   "pi_last_name": "Agamloh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emmanuel Agamloh",
+   "pi_email_addr": "emmanuel_agamloh@baylor.edu",
+   "nsf_id": "0000A1K8V",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Baylor University",
+  "inst_street_address": "700 S UNIVERSITY PARKS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "WACO",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2547103817",
+  "inst_zip_code": "767061003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "TX17",
+  "org_lgl_bus_name": "BAYLOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C6T9BYG5EYX5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Baylor University",
+  "perf_str_addr": "700 S UNIVERSITY PARKS DR",
+  "perf_city_name": "WACO",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "767061003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "TX17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "5560",
+   "pgm_ref_txt": "ENERGY CONVERSION"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 296743.0
+  }
+ ],
+ "por": null
+}

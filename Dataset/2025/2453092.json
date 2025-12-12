@@ -1,0 +1,154 @@
+{
+ "awd_id": "2453092",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "PDaSP: Track 3: TEPPIT: TEstbed for Privacy-PreservIng Technologies for Data Sharing and Analysis",
+ "cfda_num": "47.070, 47.084",
+ "org_code": "15020000",
+ "po_phone": "7032922812",
+ "po_email": "xiawang@nsf.gov",
+ "po_sign_block_name": "Xiaogang (Cliff)  Wang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1025000.0,
+ "awd_amount": 357479.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "Organizations across government, healthcare, finance, and research need to share and analyze data to solve important problems, but current methods for protecting personal privacy while sharing data are inadequate and difficult to evaluate. Researchers and practitioners struggle to determine which privacy protection methods work best for different situations, how much privacy they actually provide, and what trade-offs exist between privacy protection and data usefulness. This creates barriers to safe data sharing that could otherwise enable medical breakthroughs, improve government services, and advance scientific discovery. This project addresses this problem by building and operating a comprehensive testing facility that allows researchers and practitioners to evaluate, compare, and improve privacy protection technologies for data sharing and analysis. This work serves the national interest by strengthening data privacy protections across critical sectors, enabling secure collaboration for national security and public health initiatives, supporting American competitiveness in privacy-preserving artificial intelligence technologies, and accelerating the development of trustworthy data sharing systems that protect individual rights while advancing scientific progress.\r\n\r\nThis project builds and operates the Testbed for Privacy-Preserving Technologies for Data Sharing and Analysis, a comprehensive evaluation infrastructure to support assessment, comparative analysis, vulnerability analysis, privacy risk assessments, privacy-utility trade-off analysis of privacy-preserving data sharing and analysis technologies and their applications. The project extends the existing mid-scale research infrastructure for security and privacy research with diverse evaluation scenarios, specialized software tools and user interfaces, and focused community building for privacy-preserving data analysis research. The research activities include developing a rich, modular, extensible and composable evaluation scenario framework with sample technologies and applications that allow researchers to reuse, combine, and extend evaluation workflows to explore specific research questions. The testbed will provide specialized hardware systems and software tools, including virtual and bare-metal machines with different trusted compute technologies, servers with graphics processing units, and resource-constrained embedded processors and Internet of Things devices, all connected by user-specified emulated networks. The project will grow the research community through workshops, tutorials, and meetings at community events, as well as through support for research artifact storage and reuse to promote sharing, collaboration, and reproducible research. The testbed will improve privacy technologies and applications, accelerate research maturation and transition to practice, support community building, and enhance workforce education in privacy-preserving data analysis methods.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "ITE",
+ "org_div_long_name": "Innovation and Technology Ecosystems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jelena",
+   "pi_last_name": "Mirkovic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jelena Mirkovic",
+   "pi_email_addr": "mirkovic@isi.edu",
+   "nsf_id": "000487322",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Heidemann",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "John S Heidemann",
+   "pi_email_addr": "johnh@isi.edu",
+   "nsf_id": "000403896",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jose Luis",
+   "pi_last_name": "Ambite",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jose Luis Ambite",
+   "pi_email_addr": "ambite@isi.edu",
+   "nsf_id": "000489745",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3720 S FLOWER ST FL 3",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "90033",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "34",
+  "perf_st_cong_dist": "CA34",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "241Y00",
+   "pgm_ele_name": "NSF-Intel Semiconductr Partnrs"
+  },
+  {
+   "pgm_ele_code": "329Y00",
+   "pgm_ele_name": "Privacy Preserving Data Sharin"
+  },
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 357479.0
+  }
+ ],
+ "por": null
+}

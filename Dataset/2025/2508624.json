@@ -1,0 +1,102 @@
+{
+ "awd_id": "2508624",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Small: Brain to Brain Interfacing Achieving Direct Bidirectional Noninvasive Brain-to-Brain Communication",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "vnewhart@nsf.gov",
+ "po_sign_block_name": "Veronica Newhart",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 599707.0,
+ "awd_amount": 599707.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-06-21",
+ "awd_abstract_narration": "Human communication has traditionally been dependent on sensory systems such as seeing, hearing, and/or touch, but words and symbols that are available to senders and are understood by receivers still limit most current communicative methods, even when they include non-verbal content. Brain-to-brain interface (B2BI) is an emerging technology that combines sensing the brain (brain-computer interface, or BCI) and stimulating the brain (computer-brain interface, or CBI) to enable communication between two brains directly through their neural activities. A BCI (for example electroencephalography- or EEG-based motor-imagery or MI BCI) reads a sender\u2019s brain activity and dispatches information to a CBI (for example, via transcranial magnetic stimulation), which activates a receiving brain, thereby facilitating direct brain-to-brain communication. Since its proof of concept in 2013, B2BI has been demonstrated in both animal models and human subjects where the same or different brain regions are recorded and stimulated in a variety of interesting contexts. Despite exciting advances in B2BI, there are still major gaps and barriers that need to be addressed, including but not limited to the lack of B2BI that work directly with neural information instead of indirectly through computer interpretation. The intellectual merit of the project lies in its innovative and integrative approach to developing an emergent neural interface technology that enables an individual\u2019s brain to communicate with another\u2019s by bypassing sensory exchange and language entirely.  Project outcomes will have broad impact in medical applications such as enhanced communication with behaviorally non-responsive or less-responsive patients, neuro-rehabilitation for stroke victims, and ultimately advanced communication for healthy users. The research will help facilitate the adoption of high-accuracy, image-guided, ultrasound technology in B2BI applications, and will produce the first truly bi-directional B2BI thereby laying the groundwork for the next step in human communication.  \r\n\r\nThe overarching goal of this exploratory project is to create a direct bidirectional B2BI using non-invasive technology that combines a contemporary EEG-based MI BCI as the neuro-imaging technology and transcranial focused ultrasound (tFUS) as the neuro-stimulation technology. To this end, two objectives will be pursued:  First, we will determine the optimal parameters (including, duty cycle, inter-stimulus interval, and acoustic intensity) of the proposed excitatory tFUS. These parameters have been used in other studies, but not in a comparative analysis to determine the ideal combination. Furthermore, tFUS has been sparingly used with humans in a B2BI. Experiments will be conducted to develop and test parameters for tFUS modulation of the human brain, especially determining what values of key parameters produce the greatest excitatory response in a participant\u2019s brain. Then, a direct bidirectional B2BI built upon a MI BCI and the tFUS system resulting from the first objective will be assessed, with a focus on healthy human subjects in a more realistic task setting than those used in previous studies. The approach aims to replace the peripheral nervous system device with another BCI and CBI component, allowing brain information to be transmitted in both directions around the loop. Two research questions to be addressed include: Can the MI and tFUS based bidirectional B2BI system allow subjects to perform better than chance in a bidirectional collaborative task? and, Do the more detailed measures of performance (AUROC, bit rate, mutual information, and classifier accuracy) vary with task condition?\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chang",
+   "pi_last_name": "Nam",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chang S Nam",
+   "pi_email_addr": "csnam@niu.edu",
+   "nsf_id": "000149436",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northern Illinois University",
+  "inst_street_address": "1425 W LINCOLN HWY",
+  "inst_street_address_2": "",
+  "inst_city_name": "DEKALB",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "8157531581",
+  "inst_zip_code": "601152828",
+  "inst_country_name": "United States",
+  "cong_dist_code": "14",
+  "st_cong_dist_code": "IL14",
+  "org_lgl_bus_name": "NORTHERN ILLINOIS UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M2EEE68GGCY9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northern Illinois University",
+  "perf_str_addr": "1425 W LINCOLN HWY",
+  "perf_city_name": "DEKALB",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "601152828",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "14",
+  "perf_st_cong_dist": "IL14",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 599707.0
+  }
+ ],
+ "por": null
+}

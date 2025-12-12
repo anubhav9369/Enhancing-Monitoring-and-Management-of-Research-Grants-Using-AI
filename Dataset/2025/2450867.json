@@ -1,0 +1,93 @@
+{
+ "awd_id": "2450867",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Sampling and finding solutions in spin systems and neural networks",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 210000.0,
+ "awd_amount": 210000.0,
+ "awd_min_amd_letter_date": "2025-06-26",
+ "awd_max_amd_letter_date": "2025-06-26",
+ "awd_abstract_narration": "The objective of this project is to analyze the structural and algorithmic characteristics of high-dimensional probability models encountered in statistical inference and physics. Fundamental questions regarding the feasibility of extracting information from noisy data and executing efficient computations on it can be formulated within the framework of spin systems\u2014models comprising a large number of locally interacting variables defined on a graph. The emergent global behavior of such systems provides insights into the statistical and computational limits of inference. Notably, varying the interaction strength can induce phase transitions, leading to significant reconfigurations of the probability mass. These transitions often delineate the boundary between algorithmically tractable and intractable regimes. The project aims to characterize the computational relevance of these transitions, devise efficient algorithms for the tractable phase, and establish lower bounds on algorithmic performance in the intractable phase.\r\n\r\nThis project will focus on a class of canonical probabilistic models such as variants of the Ising model, mean-field spin glasses and perceptron models of neural networks. A primary objective is to design and analyze efficient algorithms for sampling from the associated Gibbs distributions and for finding lowest energy (or ground state) configurations. A second objective is to examine the concentration properties and possibly chaotic behavior under perturbation of the Gibbs measure.  These aspects will be studied in relation to their algorithmic and statistical implications, with the aim of understanding how the geometry of the underlying energy landscape influences computational feasibility and inference performance.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ahmed",
+   "pi_last_name": "El Alaoui",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ahmed El Alaoui",
+   "pi_email_addr": "ae333@cornell.edu",
+   "nsf_id": "000883901",
+   "pi_start_date": "2025-06-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126300",
+   "pgm_ele_name": "PROBABILITY"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 210000.0
+  }
+ ],
+ "por": null
+}

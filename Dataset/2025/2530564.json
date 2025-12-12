@@ -1,0 +1,138 @@
+{
+ "awd_id": "2530564",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: AI-Guided Water Availability Tracking and Twin Systems for Infrastructure Resilience",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032928369",
+ "po_email": "scwhite@nsf.gov",
+ "po_sign_block_name": "Scott M. White",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1016594.0,
+ "awd_amount": 1016594.0,
+ "awd_min_amd_letter_date": "2025-07-17",
+ "awd_max_amd_letter_date": "2025-07-17",
+ "awd_abstract_narration": "The rapid expansion of artificial intelligence (AI) infrastructure across the United States presents challenges for water resource management. AI infrastructure requires a large water supply for cooling. This project will develop three new AI models for water resources. The models will identify where water resources exist that can reliably support the growth of AI infrastructure. The models will use both real-time data and \"what-if\" simulations. First, a large-scale AI model will provide insights for water availability to choose local sites. Second, digital twins will be created to reveal hazards that may disrupt local water supply. Finally, an AI method will help predict environmental impacts such as wastewater and thermal pollution. The broader impacts include practical guidance on water management and sustainability. New graduate courses integrating AI and geoscience will be taught, and the project will support three graduate students.\r\n\r\nThe project\u2019s primary scientific goal is to develop a multi-scale hydrologic modeling framework that integrates physics-informed AI and hierarchical digital twin technologies to inform water management for AI infrastructure development. The project consists of three main technical components for analyzing water resource sustainability and identifying optimal sites for AI infrastructure. First, an AI-driven hydrologic model will analyze geospatial data across the contiguous United States to identify regions with adequate water resources. Second, digital twins will be created for selected sites, enabling scenario analysis to ask, \u201cwhat if?\u201d and understand the potential impacts of natural hazards and water availability fluctuations. Third, a fractional-calculus based modeling framework will be developed to assess environmental impacts associated with pollution resulting from data centers. The outcomes include novel methods for large-scale water resource analysis, new AI algorithms tailored specifically to geoscience applications, and practical guidance on environmental management strategies. The research team includes experts in hydrology, AI, and applied mathematics, supported by collaborations with national labs and water management agencies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jonathan",
+   "pi_last_name": "Frame",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jonathan M Frame",
+   "pi_email_addr": "jmframe@ua.edu",
+   "nsf_id": "0000A28DK",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Fei",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fei Hu",
+   "pi_email_addr": "fei@eng.ua.edu",
+   "nsf_id": "000175175",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yong",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yong Zhang",
+   "pi_email_addr": "yzhang264@ua.edu",
+   "nsf_id": "000487133",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jia",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jia Zhao",
+   "pi_email_addr": "jia.zhao@ua.edu",
+   "nsf_id": "000731175",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Alabama Tuscaloosa",
+  "inst_street_address": "801 UNIVERSITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUSCALOOSA",
+  "inst_state_code": "AL",
+  "inst_state_name": "Alabama",
+  "inst_phone_num": "2053485152",
+  "inst_zip_code": "35401",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ALABAMA",
+  "org_prnt_uei_num": "RCNJEHZ83EV6",
+  "org_uei_num": "RCNJEHZ83EV6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Alabama Tuscaloosa",
+  "perf_str_addr": "801 UNIVERSITY BLVD",
+  "perf_city_name": "TUSCALOOSA",
+  "perf_st_code": "AL",
+  "perf_st_name": "Alabama",
+  "perf_zip_code": "354012029",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1016594.0
+  }
+ ],
+ "por": null
+}

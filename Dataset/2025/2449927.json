@@ -1,0 +1,98 @@
+{
+ "awd_id": "2449927",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: An Integrated Framework for Learning-Enabled and Communication-Aware Hierarchical Distributed Optimization",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-03-31",
+ "tot_intn_awd_amt": 249999.0,
+ "awd_amount": 249999.0,
+ "awd_min_amd_letter_date": "2024-11-14",
+ "awd_max_amd_letter_date": "2024-11-14",
+ "awd_abstract_narration": "Technological advancements have enabled the deployment of large-scale networked systems, such as sensor networks, robotic teams, and smart power grids. These systems aim to collaboratively optimize a shared objective. However, they face challenges due to limited throughput across large-scale wireless networks and restricted computational capabilities at networked devices. This research project will develop a novel communication-efficient hierarchical distributed optimization framework that integrates optimization, communication, and machine learning to overcome these challenges. The core innovation is to sample and learn models of the networked agents' behaviors, then use these models to predict the agents' responses to enable informed decision-making while minimizing unnecessary communication and computation at the edge. Adaptive communication and optimization algorithms guided by the learning algorithms are jointly designed to balance the trade-off between cost and accuracy, while exploiting correlation relationships among agents to further enhance efficiency. Towards this goal, the objectives are to develop (1) a general framework for learning-enabled hierarchical distributed optimization algorithms; (2) methods for learning-assisted adaptive quantization, communication, and query; (3) a unifying machine learning framework to attain further tradeoff between communication savings and computational accuracy; and (4) integration and validation of the framework through real-life applications.\r\n\r\nThe intellectual merit of the project lies in advancing knowledge across three key areas - optimization, communication, and machine learning. New algorithms will be developed for collaborative hierarchical optimization across networked agents. Adaptive communication techniques will be integrated with predictive models to cater lower bandwidth needs. Machine learning methods will be improved to account for uncertainties caused by limited communication and device capabilities. Cohesive fusion of these three areas via exploiting structures of optimization functionals is a notable intellectual outcome of the research.\r\n\r\nThe broader impacts of this research include advancing real-world applications like sensor networks, cooperative robotics, federated learning, and smart grids, which underpin modern engineering infrastructures. The project will provide an enriching education opportunity for undergraduate students to gain research experience through a comprehensive program across two universities and multiple fields. Furthermore, the findings will be publicized for broad accessibility, including dissemination of results through a YouTube channel and outreach to high school students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Truong",
+   "pi_last_name": "Nghiem",
+   "pi_mid_init": "X",
+   "pi_sufx_name": "",
+   "pi_full_name": "Truong X Nghiem",
+   "pi_email_addr": "truong.nghiem@ucf.edu",
+   "nsf_id": "000788223",
+   "pi_start_date": "2024-11-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 249999.0
+  }
+ ],
+ "por": null
+}

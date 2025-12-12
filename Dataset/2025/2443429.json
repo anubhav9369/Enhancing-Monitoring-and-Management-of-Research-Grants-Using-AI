@@ -1,0 +1,106 @@
+{
+ "awd_id": "2443429",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Towards NextGen-AI: Rethinking Deep Generative Models for Engineering Design",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 687382.0,
+ "awd_amount": 687382.0,
+ "awd_min_amd_letter_date": "2025-04-07",
+ "awd_max_amd_letter_date": "2025-04-07",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) award supports research and education focused on the foundations of the next generation artificial intelligence (AI) for engineering design. It focuses on establishing deep generative models (DGMs) that are designed to handle challenges specific to engineering design at different scales, complexity, and disciplinarity. Engineering-focused DGMs hold the potential to quickly generate product designs, impacting quality, cost, and innovation across nearly all major design and manufacturing applications, from automotive and aerospace engineering to sustainable energy solutions and smart infrastructure, while democratizing product creation. The broader impacts of this research include significant advancements in how products are designed and manufactured, leading to reduced production costs, enhanced product customization, and quicker time to-market\u2014factors critical to national economic competitiveness and prosperity. \r\n\r\nThe intellectual merit of this CAREER award advances first-principle theories in DGMs by integrating three key areas: (1) The creation of deep generative modeling frameworks, specifically diffusion models, that utilize historical optimization data. This research advocates a shift from the traditional DGM focus on solely optimized designs to learning from the entire evolutionary trajectory of designs, thereby enhancing the precision in generating designs. (2) The exploration of algorithms to leverage invalid data\u2014designs that fail to meet specified requirements. By establishing DGMs for different types of valid and invalid designs, this strategy allows for training on smaller datasets, addressing one of the fundamental limitations of existing DGMs. (3) The integration of multimodal data, including parametric, graph, and image design representations using multimodal contrastive learning, to synthesize data across diverse modalities, addressing challenges related to fine-grained design differentiation and the absence of labeled data. Education and outreach efforts will include: (1) initiating an industry-academia collaboration group; (2) developing a professional course designed to disseminate cutting-edge research in deep generative models to industry professionals, enhancing their understanding and capabilities in applying these technologies; and (3) comprehensive outreach initiatives targeting high school students and the broader public, aiming to inspire and educate a diverse audience about engineering-focused AI. These efforts are designed to foster a broader understanding and engagement in STEM and inspire and train the next generation of engineers and designers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Faez",
+   "pi_last_name": "Ahmed",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Faez Ahmed",
+   "pi_email_addr": "faez@mit.edu",
+   "nsf_id": "000843736",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "072Y00",
+   "pgm_ele_name": "EDSE-Engineering Design and Sy"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "8043",
+   "pgm_ref_txt": "System Design and Simulation"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 687382.0
+  }
+ ],
+ "por": null
+}

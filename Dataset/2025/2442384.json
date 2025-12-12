@@ -1,0 +1,126 @@
+{
+ "awd_id": "2442384",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: From Enriched Private Set Intersection to Broad Applications of Secure Multi-Party Computation",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 649450.0,
+ "awd_amount": 374291.0,
+ "awd_min_amd_letter_date": "2025-01-12",
+ "awd_max_amd_letter_date": "2025-01-12",
+ "awd_abstract_narration": "Advanced data analytics involves performing computation on data sets to produce useful insights. Data analytics finds application across many fields and has enabled major breakthroughs, however the potential has been constrained by challenges in sharing sensitive, distributed data. Secure multi-party computation (MPC) provides a promising solution, allowing multiple parties who have relevant datasets to perform computations on their combined data while preserving privacy. As a special case of MPC, private set intersection (PSI), which securely computes the data elements in common in the private sets, has shown early success in practice. This project expands the initial success of PSI to a much broader range of applications of MPC. The project's novelties are identifying the fundamental challenges that currently limit the use cases of PSI, and developing new tools that not only enhance PSI but also address common challenges in many other MPC problems. The project's broader significance and importance are accelerating the industrial adoption of PSI and extending the frontiers of practical MPC, enabling large-scale, privacy-preserving data analytics on sensitive data. The project includes educational and outreach activities such as integrating research into curricula, organizing mentoring workshops, developing tutorial resources to guide researchers and developers in the field, and mentoring students at all levels, especially those from underrepresented groups in computing.\r\n\r\nThe project focuses on three main thrusts. First, the project bridges the gap between standard PSI and PSI with enriched functionalities by developing unified frameworks for private join and compute that computes arbitrary functions on the intersection and for fuzzy-matching PSI that identifies fuzzy or noisy matches. Second, the investigator studies large-scale PSI for big data, designing efficient protocols for PSI with unbalanced sets and resources and for streaming data, which are better suited for many real-world scenarios. Finally, the project expands its scope beyond PSI, applying the new techniques to other important MPC problems, including privacy-preserving machine learning, genomic sequence matching, and private information retrieval.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peihan",
+   "pi_last_name": "Miao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peihan Miao",
+   "pi_email_addr": "peihan_miao@brown.edu",
+   "nsf_id": "000838128",
+   "pi_start_date": "2025-01-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 374291.0
+  }
+ ],
+ "por": null
+}

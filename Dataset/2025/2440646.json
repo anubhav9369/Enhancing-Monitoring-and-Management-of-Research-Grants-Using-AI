@@ -1,0 +1,126 @@
+{
+ "awd_id": "2440646",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER:High Performance Code Generation for Irregular Computation via a Graph Structure Descriptor Language",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 543767.0,
+ "awd_amount": 330757.0,
+ "awd_min_amd_letter_date": "2024-12-26",
+ "awd_max_amd_letter_date": "2024-12-26",
+ "awd_abstract_narration": "Many complex phenomena of modern life involve understanding the large scale behavior of many small scale interactions, for example, studying the spread of ideas through friend connections in social media, tracking patterns of fraud through credit card transactions, predicting the spread of disease from airline routes, and understanding a drug's behavior through the body via cellular pathways. These interactions can be modeled as a mathematical object known as a graph that captures the explicit and complex structure of the data. Computations are performed on these graphs to build a predictive understanding of the underlying data. The challenge is that the existing software ecosystem is not optimized for these types of workloads. Performance improvements in software for graph computations would translate into gains in the fields using these tools. This work aims to improve the software for graph computations through improved tooling. Additionally, this project will integrate its research developments into the undergraduate computer science curriculum for high-performance computing.\r\n\r\nMore specifically, the performance improvements for dense and regular computations from the last several decades have not translated to performance gains in sparse and irregular applications, such as graph computations. For example, an optimizing compiler needs very little information about the input data for a dense linear algebra operation -- other than matrix sizes and strides -- to extract performance. This metadata is sufficient for a compiler to determine the control flow of the program and optimize for a given hardware target. This is not the case for the sparse equivalent of the same linear algebra operation, where the contents of the data and its structure are necessary to understand the behavior of the resulting program. This research project aims to bridge this gap through the following objectives. First, the development of a language, the Graph Structure Descriptor Language, to approximate the structure of sparse data. Second, the creation of the compiler infrastructure that uses this language as the metadata needed to optimize code operating on sparse data. Third, the integration of this tooling into mainstream machine learning and graph packages that rely heavily on the performance of sparse computations. \r\n\r\nThis project is jointly funded by Software and Hardware Foundations core Program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Richard",
+   "pi_last_name": "Veras",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Richard M Veras",
+   "pi_email_addr": "richard.m.veras@ou.edu",
+   "nsf_id": "000778753",
+   "pi_start_date": "2024-12-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Oklahoma Norman Campus",
+  "inst_street_address": "660 PARRINGTON OVAL RM 301",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORMAN",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4053254757",
+  "inst_zip_code": "730193003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OK04",
+  "org_lgl_bus_name": "UNIVERSITY OF OKLAHOMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EVTSTTLCEWS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Oklahoma Norman Campus",
+  "perf_str_addr": "660 PARRINGTON OVAL RM 301",
+  "perf_city_name": "NORMAN",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "730193003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OK04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 330757.0
+  }
+ ],
+ "por": null
+}

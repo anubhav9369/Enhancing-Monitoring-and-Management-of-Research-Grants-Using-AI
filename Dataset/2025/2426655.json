@@ -1,0 +1,105 @@
+{
+ "awd_id": "2426655",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Quantifying Vegetation-Climate Interactions and Uncertainties by Combining Process-Based Models with Machine Learning",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032928527",
+ "po_email": "edeweave@nsf.gov",
+ "po_sign_block_name": "Eric DeWeaver",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 530000.0,
+ "awd_amount": 530000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "The aspects of the Earth\u2019s climate that determine the character and extent of vegetation around the globe and the vegetation's subsequent impacts back on the regional and global climate are important issues for Earth system science. Diverse treatment of vegetation and its interaction with the global carbon cycle in Earth System Models (ESMs) is an important source of uncertainty in climate and vegetation projections. This study aims to construct an optimized machine learning model based on select climate state variables to predict vegetation parameters globally for both the historical period and the late 21st century. The project provides a first attempt at quantifying vegetation-climate feedbacks using machine learning on a global scale and has the potential to overcome deficiencies in process-based (physical) models of these feedbacks. The produced vegetation scenarios will be shared with the broader Earth system modeling community, which will facilitate an ongoing dialogue on the use of machine learning for vegetation modeling. The lead investigator is active in communicating scientific issues to local, state, and federal government stake holders, increasing the impact of this research beyond the scientific discipline. In addition, the principal investigators will incorporate the tools and results of this work into term projects and learning modules for their online courses and machine learning summer research and lecture series for high school students, increasing scientific literacy on artificial intelligence tools used to tackle important Earth system science questions.\r\n\r\nThe overarching goal of this research is to quantify and understand the potential contribution of vegetation-climate interactions to projected climate changes, and to characterize and ultimately reduce uncertainties in climate projection related to vegetation feedback. Specific objectives include: 1) to innovate vegetation prediction via machine learning approaches, utilizing both observational datasets and output from the Coupled Model Intercomparison Project Phase 6 (CMIP6) ESMs; 2) to project future vegetation changes and identify sources of uncertainties, employing the newly developed machine learning models in tandem with ESMs\u2019 climate and vegetation output. The team hypothesizes that 1) machine learning models broadly trained on historical data are transferable (spatially and temporally) to future periods outside the training data sets, allowing the models to predict both gradual changes and abrupt shifts of vegetation caused by climate changes; 2) the process-based vegetation model dominates over the ESMs\u2019 climate uncertainty as the primary source of uncertainties for the ESM-projected vegetation changes. The research will harness advances in machine learning and take advantage of high-resolution satellite remote sensing and reanalysis data, as well as existing output from CMIP6 ESMs. Combining machine learning with ESMs, the project will characterize and attribute uncertainties in vegetation and climate projections and examine the realism of the vegetation-climate relationship underlying each ESM vegetation model, and project vegetation using optimal machine learning models. The project will accelerate and improve vegetation prediction by innovating deep learning models, which uniquely enables the attribution of uncertainties to vegetation model structure and ESM climate. Results from this project will help strategize future model development efforts, pave the way for incorporating machine learning vegetation models into ESMs as an alternative to process-based models, and ultimately reduce uncertainties in Earth system projections. More broadly, the spatial hotspots of climate-induced vegetation changes produced in this project will guide the siting of future field experiments and long-term monitoring of ongoing changes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guiling",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guiling Wang",
+   "pi_email_addr": "gwang@engr.uconn.edu",
+   "nsf_id": "000106434",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jinbo",
+   "pi_last_name": "Bi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jinbo Bi",
+   "pi_email_addr": "jinbo.bi@uconn.edu",
+   "nsf_id": "000575658",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut",
+  "inst_street_address": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "inst_street_address_2": "",
+  "inst_city_name": "STORRS",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604863622",
+  "inst_zip_code": "062699018",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNTPS995QBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut",
+  "perf_str_addr": "438 WHITNEY RD EXTENSION UNIT 11",
+  "perf_city_name": "STORRS",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "062699018",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "574000",
+   "pgm_ele_name": "Climate & Large-Scale Dynamics"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 530000.0
+  }
+ ],
+ "por": null
+}

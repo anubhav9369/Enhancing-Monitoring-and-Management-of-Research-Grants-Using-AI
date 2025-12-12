@@ -1,0 +1,110 @@
+{
+ "awd_id": "2420958",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: AMPS: Simplicial-Topological Modeling for Flexible Integration of Ultra-High-Dimensional Distributed Energy Resources",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 111469.0,
+ "awd_amount": 111469.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "The interconnected, interdependent nature of wide-area modern power systems necessitates effective integration of increasingly larger-scale, heterogeneous, and spatially distributed physical assets with a multitude of ubiquitous cyber devices. Conventional admittance-matrix-based power grid topological models have been shown to lack analytical capabilities to effectively model ubiquitous flexibility, capacity, and prosumer profiles and enable granular and accurate controls of the ultra-high-dimensional distributed energy resources. This project aims to transcend the state-of-the-art, and will develop a data adaptive graph generation module, topological data analytical techniques with multiple filtrations, higher-order network models, and input layers for deep neural networks that take topological signatures and higher-order interactions for (dynamic) networks. The project will integrate ubiquitous, high-dimensional information structures on transmission nodes by taking properties of power systems as special directions and designing new perspectives at the intersection of algebraic topology, commutative algebra, and deep learning. Fundamentally, this project will directly benefit local and national interests as well as guide the modeling, operation, and control of wide-area power transmission networks with ultra-high-dimensional penetration of distributed energy resources and energy storage systems. The project framework will serve as a tool to enhance the reliability and resiliency of power grids, improve power systems quality. Developments from this project have the potential to significantly lower energy costs, directly benefit national economic growth, and substantially reduce the frequency and severity of power outages caused by extreme weather events.  In addition, students working on this project research will acquire an excellent orientation of cross-disciplinary work and experience at the interface of computer science, mathematics, data science, and electrical engineering.\r\n\r\nThis project is a first attempt to bring the emerging machinery of adaptive graph structure learning, topological data analysis, simplicial complex-level representation learning, and (geometric) deep learning to power grids. Thus, this project will fundamentally redesign existing power grid topology and uncover the fundamental mechanisms of embedding ubiquitous, local topological information, and high-dimensional structures on transmission nodes via higher-order topological graph models and learning methods. Furthermore, the project techniques will include generalizable capability and so can be applied to many different settings involving dynamic networks. These approaches and newly developed topological and higher-order interactions representations learning modules will pave the way for new research directions in computational topology, machine learning and data science. Moreover, the project will contribute an open-source software library to obtain topological summaries learned from the multifiltration of power system data based on techniques developed within the project. These tools in return will enhance new applications of machine learning and deep learning tools for large-scale power system analysis that are deemed infeasible today due to high computational costs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dorcas",
+   "pi_last_name": "Ofori-Boateng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dorcas Ofori-Boateng",
+   "pi_email_addr": "doforib2@pdx.edu",
+   "nsf_id": "000847816",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Portland State University",
+  "inst_street_address": "1600 SW 4TH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5037259900",
+  "inst_zip_code": "972015508",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OR01",
+  "org_lgl_bus_name": "PORTLAND STATE UNIVERSITY",
+  "org_prnt_uei_num": "WWUJS84WJ647",
+  "org_uei_num": "H4CAHK2RD945"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Portland State University",
+  "perf_str_addr": "1600 SW 4TH AVE",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972015508",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OR01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "045Y00",
+   "pgm_ele_name": "AMPS-Algorithms for Modern Pow"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "8396",
+   "pgm_ref_txt": "Clean Energy Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 111469.0
+  }
+ ],
+ "por": null
+}

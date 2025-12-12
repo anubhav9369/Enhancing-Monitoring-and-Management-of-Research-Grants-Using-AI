@@ -1,0 +1,114 @@
+{
+ "awd_id": "2530753",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Mapping Ore Deposits with Artificial Intelligence (MODAI)",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032924938",
+ "po_email": "azaffos@nsf.gov",
+ "po_sign_block_name": "Andrew Zaffos",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 441467.0,
+ "awd_amount": 441467.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Hyperspectral remote sensing is a data gathering technique that uses advanced sensors - attached to satellites, drones or other devices - to measure the reflection of light off of the Earth's surface. These data can be used to analyze the shape and makeup of a landscape, and can be used to make inferences about the underlying mineral patterns, tectonics, and magmatic processes of a scanned region. This project will develop a new artificial intelligence (AI) framework to analyze hyperspectral data to test critical hypotheses about the formation of ore deposits. By improving the effectiveness of hyperspectral mineral mapping, this project will accelerate the identification of critical mineral resources to improve the nation's economic competitiveness and security. The project will also help develop a modern workforce by training graduate students at the intersection of geosciences and AI. Outreach through workshops, mentorship opportunities, undergraduate internships, and participation of community college students will further broaden the impact.  By demonstrating the power of integrating AI with domain expertise in geosciences, this work will serve as a model for interdisciplinary collaboration that can be applied to other disciplines facing similar data-intensive challenges.\r\n\r\nThe proposed research introduces significant innovations at the intersection of AI and geosciences. First, a novel encoder-decoder architecture will be developed for decomposing hyperspectral data into physically meaningful latent structures, enabling efficient compression while preserving the nonlinear spectral relationships essential for accurate mineral identification. Second, a new hierarchical spectral alignment approach will coherently integrate multi-resolution hyperspectral data while systematically quantifying uncertainties inherent in real-world data. Third, the AI models will be aligned with geological principles to support geoscience. Together, these innovations will yield a unified framework that improves the accuracy, efficiency, and scientific rigor of hyperspectral data analysis. This research will simultaneously test geoscience hypotheses about the spatial relationships between surface mineral assemblages and the underlying tectonic and magmatic processes, enabling quantitative analysis of the geological parameters which coincide with ore deposit formation, regardless of their age or location.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Monecke",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Monecke",
+   "pi_email_addr": "tmonecke@mines.edu",
+   "nsf_id": "000587292",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ben",
+   "pi_last_name": "Frieman",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ben M Frieman",
+   "pi_email_addr": "bfrieman@mines.edu",
+   "nsf_id": "000879208",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Colorado School of Mines",
+  "inst_street_address": "1500 ILLINOIS ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GOLDEN",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3032733000",
+  "inst_zip_code": "804011887",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "CO07",
+  "org_lgl_bus_name": "TRUSTEES OF THE COLORADO SCHOOL OF MINES",
+  "org_prnt_uei_num": "JW2NGMP4NMA3",
+  "org_uei_num": "JW2NGMP4NMA3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Colorado School of Mines",
+  "perf_str_addr": "1500 ILLINOIS ST",
+  "perf_city_name": "GOLDEN",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "804011887",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "CO07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "136Z",
+   "pgm_ref_txt": "Critical Minerals"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 441467.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,122 @@
+{
+ "awd_id": "2442009",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Effective and Efficient Post-Mortem Execution Analysis",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 662368.0,
+ "awd_amount": 256157.0,
+ "awd_min_amd_letter_date": "2025-03-21",
+ "awd_max_amd_letter_date": "2025-03-21",
+ "awd_abstract_narration": "This project will improve the effectiveness and efficiency of post-mortem execution analysis, a technique for debugging software systems. Post-mortem execution analysis involves inspecting an execution's artifacts, a collection of states gathered during the execution (e.g., a software log, memory core dump, etc.). The work's key innovation lies in exploiting relationships across different types of execution artifacts to treat them as complements rather than alternatives. The work will pursue three synergistic thrusts: First, it will develop a technique that increases the efficiency of post-mortem execution analyses over \"high-fidelity\" artifacts (i.e., those containing all of an execution's states) by embedding them as \"low-fidelity\" artifacts (i.e., those containing a sparse subset of an execution's states). Second, the work will improve the effectiveness of analyses over low-fidelity artifacts by extrapolating a low-fidelity artifact into a set of high-fidelity artifacts that could have produced it. The work will support probabilistic analyses over the resulting set. Finally, the work will develop a technique for balancing efficiency and effectiveness by automatically navigating the space of execution artifacts that a given application could produce.\r\n\r\nThe project will enable developers to resolve challenging software issues more quickly, which is increasingly important as society relies upon software in our modern lives. For example, society embeds software into transportation, medicine, finance, and basic human interactions (e.g., dating). In turn, resolving software issues more quickly can save money, limit disruptions, help people find love, and, in some cases, save lives. In addition, the proposed systems and techniques will serve as useful pedagogical tools for teaching students about complex systems and the process of debugging them.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrea",
+   "pi_last_name": "Quinn",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrea Quinn",
+   "pi_email_addr": "aquinn1@ucsc.edu",
+   "nsf_id": "000923053",
+   "pi_start_date": "2025-03-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Cruz",
+  "inst_street_address": "1156 HIGH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CRUZ",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8314595278",
+  "inst_zip_code": "950641077",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "CA19",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "VXUFPE4MCZH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Cruz",
+  "perf_str_addr": "1156 HIGH ST",
+  "perf_city_name": "SANTA CRUZ",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950641077",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "CA19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 256157.0
+  }
+ ],
+ "por": null
+}

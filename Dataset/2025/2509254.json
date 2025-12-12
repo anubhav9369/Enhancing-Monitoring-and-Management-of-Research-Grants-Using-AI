@@ -1,0 +1,114 @@
+{
+ "awd_id": "2509254",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRCNS US-Germany: Testing a task-general model of cognitive control",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032924502",
+ "po_email": "dkravitz@nsf.gov",
+ "po_sign_block_name": "Dwight Kravitz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 750000.0,
+ "awd_amount": 750000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "Unlike artificial intelligence systems, humans are capable of flexibly adapting to their environment, producing novel goal-directed behaviors that are appropriate for a situation. For example, with the goal of doing well on an exam, a student might enact some effective study strategies, while also avoiding distraction from things like social media. Psychologists and neuroscientists have called the set of processes that support this capacity \u201ccognitive control.\u201d This project aims to develop and test a novel computational theory of how cognitive control works in the human brain, built using recurrent neural networks that can learn about the demands of different tasks as well as how to allocate control to rapidly improve performance on a specific task. A deeper understanding of the neural computations that underlying cognitive control has several broader impacts. First, many disorders of the brain have been characterized by failures of cognitive control, and this work helps us understand these disorders better. Second, a computational understanding of how the human brain produces flexible, goal-directed behavior will help to design next generation artificial intelligence systems.  Finally, this project provides extensive outreach about topics related to cognitive control, neuroscience, and computational modeling, from classroom visits to elementary schools to workshops open to a variety of stakeholders in the medical and education communities. \r\n\r\nTechnically, the project relies on an existing large set of electroencephalography (EEG) and behavioral data collected from the flanker task, a classic test of cognitive control. Recurrent neural network (RNN) models are trained to perform the task, using different RNN architectures that allow for the discovery of latent units that can learn task demands and control processes. The RNNs and human participants are tested on untrained tasks to determine whether the model generalizes to unseen human performance, and both the model and the human brain are perturbed \u2013 the model by manipulating the latent units and the human by applying transcranial ultrasound stimulation to the posterior medial frontal cortex, to determine whether the two systems break down in similar ways with damage.  The findings informs the development of next-generation AI systems that could incorporate these latent units, allowing future AI systems to show more flexibility and goal-directed behavior than current systems are capable of doing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Nassar",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew R Nassar",
+   "pi_email_addr": "matthew_nassar@brown.edu",
+   "nsf_id": "000822309",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "350 Eddy St",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "732700",
+   "pgm_ele_name": "CRCNS-Computation Neuroscience"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7327",
+   "pgm_ref_txt": "CRCNS"
+  },
+  {
+   "pgm_ref_code": "8089",
+   "pgm_ref_txt": "Understanding the Brain/Cognitive Scienc"
+  },
+  {
+   "pgm_ref_code": "1699",
+   "pgm_ref_txt": "COGNEURO"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 750000.0
+  }
+ ],
+ "por": null
+}

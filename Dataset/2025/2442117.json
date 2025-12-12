@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442117",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: SaTC: Privacy-Aware Just-in-Time Compilation",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 574990.0,
+ "awd_amount": 347985.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Modern software systems are entrusted with and expected to protect sensitive user data,  making it critical that we have robust and rigorously tested techniques to ensure their security. This goal is complicated by the intricate process of compilation which transforms source code into directly executable machine code and includes optimizations crucial to the performance of software systems. Because of these transformations, a solely source-code level security analysis is not enough to ensure that the executable machine-code satisfies the same security guarantees. In particular, side-channel vulnerabilities allowing an adversary to leverage non-functional observable information such as a program\u2019s execution time can arise during the compilation process even when the corresponding source code is deemed side-channel free. The project\u2019s novelties are the development of a just-in-time compilation framework capable of balancing security and privacy concerns alongside performance optimization. The project\u2019s broader significance and importance are facilitating developers\u2019 ability to focus on writing functionally correct code without concerning themselves with the possible security risks posed by compiler optimizations and improving both security and performance for end users. \r\n\r\nThe project addresses the challenge of developing a security-aware just-in-time compilation framework. The key components of this framework include:  1) a taint-analysis-backed approach to marking compiler optimizations that have the potential to introduce side-channel vulnerabilities, 2)  an information-theoretic metric to quantify the strength of such vulnerabilities using profiling data already collected by the just-in-time compiler, 3) a heuristic framework to answer two core questions: \u201cshould we apply this optimization?\u201d and \u201cshould we revert this optimization?\u201d based on tradeoffs between performance gain and security risk, and 4) augmenting this framework with machine-learning powered strategies for leveraging historic data to better predict the security impact of optimizations. The project\u2019s impact is a just-in-time compilation framework that can manage the complex tradeoffs between security and performance in a way that does not overburden the developer and delivers privacy assurances alongside strong performance to end users.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tegan",
+   "pi_last_name": "Brennan",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tegan S Brennan",
+   "pi_email_addr": "tbrenna5@stevens.edu",
+   "nsf_id": "000901014",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "1 CASTLEPOINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 347985.0
+  }
+ ],
+ "por": null
+}

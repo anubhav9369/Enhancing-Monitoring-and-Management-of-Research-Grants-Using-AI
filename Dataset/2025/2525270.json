@@ -1,0 +1,98 @@
+{
+ "awd_id": "2525270",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: FMitF : Track I: Specifying, Synthesizing, and Verifying Heterogeneous Coherence Protocols",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "xhu@nsf.gov",
+ "po_sign_block_name": "Hu, X. Sharon",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 297000.0,
+ "awd_amount": 297000.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Computers, be it those in mobile phones or servers, are increasingly being designed with heterogeneous processors and memory that is shared across all of these processors. The heterogeneity enables greater performance, with different processors tailored for specific purposes (e.g., graphics), and the shared memory facilitates easier programming. These processors are already being used to support critical computational tasks, including artificial intelligence (AI), robotics, and medical research. While these processors offer great potential, they pose two problems. First, it is difficult to understand how to compose them. Specifically, different types of processors use different communication protocols, and composing these protocols is complicated. Second, it is also challenging to verify that the processors will behave correctly in all situations. The composed protocols have a vast number of possible interactions, and verification techniques do not scale up to meet this challenge. This project addresses both challenges by developing a systematic way to compose processor protocols and a new, scalable technique for verification of these processors. These contributions can offer many benefits, including shorter time to market, confidence that processors will behave as expected, and a lower barrier to entry for startups and researchers seeking to create new processors. By providing a foundation for the correct design of heterogeneous shared memory processors, the project will help to enable the coming generation of high-performance computing systems. These systems will sustain American economic competitiveness, supporting breakthroughs in AI, medicine, science, defense, and many other fields that will enhance the lives of all Americans.\r\n\r\nThis project will make three important contributions to the theory and practice of processor design and verification. First, it will provide, for the first time, a mathematical foundation for defining and reasoning about the interaction of programs sharing memory in a heterogeneous system. This understanding will be crucial for designing the coming wave of heterogeneous systems-on-chip that will drive system performance for consumers and industry in the era of AI. Second, the work will provide an understanding of the large design space of heterogeneous coherence protocols and the first automated tools for correctly synthesizing the protocol converters needed to connect diverse local and global protocols. Third, the project will develop the first compositional approach for verifying heterogeneous coherence protocols and the first application of translation validation to cache coherence protocols. It will integrate verification as part of the protocol design flow, enabling designers to realize cost-effective proofs, and provide an exemplar for making formal methods practical in systems design.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vijay",
+   "pi_last_name": "Nagarajan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vijay Nagarajan",
+   "pi_email_addr": "nvijayanand@gmail.com",
+   "nsf_id": "000918460",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "094Y00",
+   "pgm_ele_name": "FMitF: Formal Methods in the F"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "071Z",
+   "pgm_ref_txt": "FMitF-Formal Methods in the Field"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 297000.0
+  }
+ ],
+ "por": null
+}

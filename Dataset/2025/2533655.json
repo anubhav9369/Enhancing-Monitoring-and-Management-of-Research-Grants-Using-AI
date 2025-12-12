@@ -1,0 +1,98 @@
+{
+ "awd_id": "2533655",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CCSS: Hypothetical Interventions in Large Networked Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 360000.0,
+ "awd_amount": 360000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Large networked systems -- ranging from communication networks and power grids to social and transportation networks -- exhibit intricate interactions and dynamic dependencies among the agents that constitute them. In many domains, decision-makers need to understand how interventions such as policy changes, infrastructural modifications, or emergency responses will impact the system before implementing the interventions. Conducting real-world interventions in complex systems can be prohibitively risky with inadvertent consequences. In such circumstances, hypothetical evaluations allow decision-makers to simulate interventions and assess their potential impacts without exposing the system to real-world risks. This is particularly important when interventions have irreversible or costly consequences, as it enables planning and preparation for adverse outcomes. The overarching goal of this project is to design a theoretically principled framework for performing accurate hypothetical interventions on complex systems and predicting their outcomes, thereby providing a reliable basis for planning and risk assessment. This is especially crucial in environments where erroneous predictions or suboptimal decisions could lead to significant performance, robustness, or safety consequences. The project consists of several educational components aimed at students at different levels (high school, undergraduate, and graduate) as well as contributions to the educational missions of the relevant technical societies.\r\n\r\nThis project introduces new theoretical foundations for causal reasoning in complex systems, aiming to move beyond the limitations of traditional data analysis. Standard observational datasets primarily reveal what \u201cdid\u201d happen, offering little insight into what \u201cmight\u201d have happened under alternative circumstances. In contrast, causal inference empowers us to explore these counterfactual possibilities, the \u201cwhat if\u201d scenarios that are essential for anticipating how systems respond to different interventions. By simulating hypothetical changes, this framework supports systematic comparisons between competing strategies and allows us to estimate their potential outcomes. For example, identifying the most structurally influential components within a network, such as key nodes or links, enables planners to design interventions that maximize resilience, especially in the face of uncertainty or disruption. While machine learning (ML) has proven useful for uncovering statistical patterns in large-scale systems, these patterns typically reflect correlations rather than cause-and-effect relationships. Correlation implies mutual variation but does not clarify directionality or underlying mechanisms \u2014 that is, whether A causes B, B causes A, or a third factor drives both. As a result, ML approaches fall short when it comes to predicting how deliberate changes to one variable will affect others, limiting their utility in policy design or engineering control. Causal inference offers a middle ground between the interpretability of physics-based models and the flexibility of data-driven ML. It retains the ability to model directional influence and system dynamics while leveraging empirical data as ML does.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Tajer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali Tajer",
+   "pi_email_addr": "tajer@ecse.rpi.edu",
+   "nsf_id": "000632430",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 360000.0
+  }
+ ],
+ "por": null
+}

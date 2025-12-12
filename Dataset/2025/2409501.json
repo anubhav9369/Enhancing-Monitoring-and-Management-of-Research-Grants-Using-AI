@@ -1,0 +1,134 @@
+{
+ "awd_id": "2409501",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Engineering High Speed, High Resolution, Multi-Material Vat Polymerization",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924322",
+ "po_email": "psoman@nsf.gov",
+ "po_sign_block_name": "Pranav Soman",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 511664.0,
+ "awd_amount": 511664.0,
+ "awd_min_amd_letter_date": "2024-11-22",
+ "awd_max_amd_letter_date": "2024-11-22",
+ "awd_abstract_narration": "The earliest recording of 3D printing through an additive process was in 1981 by Japanese inventor Hideo Kodama, who developed a method of fabricating 3D models by curing photosensitive polymer resins layer-by-layer with UV light. In additive manufacturing (AM), polymers remain the most commonly used material because early 3D printers used polymers for rapid prototyping and because of their ease of printing, versatile thermomechanical performance, and chemical inertness. There are four main polymer AM process modalities: extrusion-based printing (or injection molding), powder bed fusion, material jetting, and vat photopolymerization (VP). In the latter process, a vat of liquid resin is subjected to UV light and solidified layer-by-layer to form a printed part. While so called 3rd generation VP has recently been used to produce commercial products at high volumes with very high resolution, it is still too slow and too material-limited to compete with injection molding in many applications. This research project attempts to remove these limitations by fundamentally changing the VP process to include injection of material through the printed part during processing. If successful, a two order of magnitude increase in printing speed could be realized such that the process is limited by the fast kinetics of the photopolymerization rather than mass transport. This can only be successfully achieved via computer simulation of the process prior to printing, including determination of the injection network, injection rates, and distribution of multi-material resins injected. The resulting process could result in defect free printing of multi-material parts of essentially arbitrary three-dimensional structures including resolution of \u201cnegative spaces\u201d down to resolutions less than 25 microns. It is envisioned that the production of three-dimensional microfluidic networks with broad health care application (for example) could be cheaply and rapidly printed.\r\n\r\nThus project will engineer a transformative new VAT polymerization process for Advanced Manufacturing, named \u201ciCLIP\u201d, for Direct Injection Continuous Liquid Interface Production. The process builds on the existing CLIP process which relies on resin renewal at the build surface through the creation of a continuous liquid interface\u2014the \u201cdead zone\u201d created by oxygen inhibition of polymerization. The dead zone enables resin to be drawn into the gap through suction forces created as the curing part is gradually pulled away from the window. The resin is then cured by a rapid sequence of UV images that are projected at the build surface from a digital light projection system located underneath the reservoir. The CLIP process, while already used for numerous commercial products, is limited by the mass transport to the thin print zone where photocuring takes place. and is thus, too slow to compete with injection molding in many applications. The iCLIP process removes this limitation by injecting resin through the molded part as it is being produced thus engineering iCLIP. However, to successfully engineer a network of the resin injection channels as well as the injection rates as the part is being printed, research to develop computer simulation and theory connecting physical properties of the appropriate resin (e.g. its rheology), the geometry of the network, the printing speed, and, finally, the footprint of the part in the plane of UV exposure needs to be performed. Moreover, the injection of resins through residucts offers the exciting new opportunity for multi-material, VAT polymerization of arbitrary, complex geometries at high speeds and resolution. Finally, iCLIP has been shown to allow enhanced resolution of so-called \u201cnegative spaces\u201d (channels, ducts, etc.) in the direction of draw owing to removal of overcure. The research also intends to engineer resolution of negative spaces below 50 micron channels, thus accessing fast printing of 3D microfluidic structures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eric Stefan",
+   "pi_last_name": "Shaqfeh",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eric Stefan G Shaqfeh",
+   "pi_email_addr": "esgs@stanford.edu",
+   "nsf_id": "000208548",
+   "pi_start_date": "2024-11-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "DeSimone",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph M DeSimone",
+   "pi_email_addr": "jmdesimone@stanford.edu",
+   "nsf_id": "000219648",
+   "pi_start_date": "2024-11-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1467",
+   "pgm_ref_txt": "MATERIALS PROCESSING AND MANFG"
+  },
+  {
+   "pgm_ref_code": "8021",
+   "pgm_ref_txt": "Materials Engineering"
+  },
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 511664.0
+  }
+ ],
+ "por": null
+}

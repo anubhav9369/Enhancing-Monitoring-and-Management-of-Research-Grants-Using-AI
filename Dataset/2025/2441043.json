@@ -1,0 +1,102 @@
+{
+ "awd_id": "2441043",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Parameter Estimation and Identifiability for Ecological Models with Seasonal Disruption",
+ "cfda_num": "47.049, 47.074",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 494989.0,
+ "awd_amount": 494989.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Many ecosystems change seasonally. Important outcomes may occur during a particular season, such as pests eating crops, but those outcomes are driven by recurring effects between seasons. For example, pests eating during summer affects their hibernation during winter, and survival during winter affects reproduction for the next summer. Accurately quantifying this type of effect is important for understanding long-term outcomes in seasonal ecosystems. This work studies a mathematical description of recurring change, which combines two well-established frameworks into a more complex approach. In particular, this work is concerned with how well the approach can match real-world data. An important factor is whether information obtained from data is accurate and how this affects confidence in mathematical results. The work begins with a simulated test of these problems, before incorporating real data from two studies. The studies concern mosquitoes and bees, highlighting the broad potential applications of this approach. Mosquitoes are common disease vectors that impact human health, and bees provide pollination that impacts agriculture and food security. The project also includes an education component that aims to improve quantitative preparation of biology students alongside interdisciplinary preparation of mathematics students.\r\n\r\nIn this work, feedback between seasonal behaviors is described by hybrid-timescale models. These models couple continuous differential equations (for fast, short-term interactions) with discrete difference equations (for slow, seasonal behaviors). Use of these models may be complicated by intractable analysis and high sensitivity to model inputs. Moreover, their application-level utility depends on the ability to accurately represent true ecosystems. This work will assess parameter estimation and identifiability for these models (or, whether model parameters can be uniquely and reliably recovered from data). Preliminary work will establish appropriate methods and criteria to assess identifiability, using simple models fit to synthetic data. The resulting methods will be applied to empirical data in two applications, under increasingly complex conditions. Taken together, these assessments will establish conditions under which hybrid-timescale models can be practically implemented in seasonal ecosystems. Additionally, the primary educational aim of this work is to revise lower-level math sequences for biology majors. The courses will use a project-based curriculum which builds towards a research experience in mathematics.\r\n\r\nThis project is jointly funded by the Mathematical Biology Program in the Division of Mathematical Sciences and the Population and Ecology Cluster in the Division of Evolutionary Biology in the Directorate for Biological Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Amanda",
+   "pi_last_name": "Laubmeier",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amanda N Laubmeier",
+   "pi_email_addr": "amanda.laubmeier@ttu.edu",
+   "nsf_id": "000858458",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas Tech University",
+  "inst_street_address": "2500 BROADWAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "LUBBOCK",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8067423884",
+  "inst_zip_code": "79409",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "TX19",
+  "org_lgl_bus_name": "TEXAS TECH UNIVERSITY SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EGLKRQ5JBCZ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas Tech University",
+  "perf_str_addr": "2500 BROADWAY",
+  "perf_city_name": "LUBBOCK",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "79409",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "TX19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "112800",
+   "pgm_ele_name": "Population & Community Ecology"
+  },
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 494989.0
+  }
+ ],
+ "por": null
+}

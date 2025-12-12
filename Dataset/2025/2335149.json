@@ -1,0 +1,98 @@
+{
+ "awd_id": "2335149",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Novel Robust Continuous Time-Efficient Biometric Profiling and Authentication Using Multispectral Photoplethysmography",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 254369.0,
+ "awd_amount": 254369.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "This project aims to develop a wearable device capable of continuously sensing a wide range of physiological signals for use in biometric authentication and health monitoring. As the society sees increasing use of digitally interconnected devices and systems, the need for secure and user-friendly authentication methods is more critical than ever. Existing methods, such as passwords, fingerprints, and facial recognition, are incompatible with wearable technologies. This project investigates a new approach using physiological signals to enable a continuous time-efficient authentication method that will facilitate a secure and seamless user experience. The broader impacts of this work are substantial: it will advance cybersecurity, protect user privacy, and support smart healthcare by greatly improving the reliability and accessibility of wearable technologies. Moreover, this project includes a plan of extensive education and workforce development activities. The investigators will create advanced interdisciplinary learning opportunities at both Michigan Technological University (MTU) and Louisiana State University (LSU) to engage undergraduate and graduate students in cutting-edge research across electrical engineering, biomedical engineering, signal processing, machine learning, intelligent systems, and data science. By training students with the interdisciplinary technical skills for high-tech industries, this project will contribute to the development of the nation's future STEM workforce.\r\n\r\nThe research of this project will explore the use of multispectral photoplethysmography (PPG) signals for biometric authentication through custom-designed wearable devices. Unlike prevalent biometrics such as fingerprints and facial images which are not suitable for continuous data acquisition, PPG signals can be collected in real time through tiny skin-contact sensors. This feature enables the development of smart biometric systems for continuous and unobtrusive operations, making them well-suited for wearable applications. The goal of this project is to design novel, accurate, reliable, and secure authentication mechanisms using short-duration transient physiological signals collected from wearable devices. The research will investigate new signal processing and machine learning approaches to overcome key challenges, such as limited training data, time-varying signal quality, and the need for continuous classification with temporally evolving data streams. The research tasks include: (1) modeling and analysis of multispectral transient PPG signals; (2) design of novel algorithms for user identification and authentication in real time; (3) creation of adaptive learning models for continuous user-independent/user-dependent classification, and (4) integration of these models in a wearable prototype platform for evaluation in real-word scenarios. The investigators will also address fundamental challenges in signal processing, such as how to effectively identify, extract, and characterize short-duration transient biological signals and determine the signal qualities of sparse and/or noisy data and how to identify the motion artifacts and process them appropriately. The expected outcomes of this research project include new theoretical insights, algorithms, and system architectures that will advance the state of the arts in biometric authentication, signal analysis and processing, and wearable sensing. These outcomes will contribute to a wide range of applications including cybersecurity, health monitoring, and human-computer interaction.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jin",
+   "pi_last_name": "Choi",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jin W Choi",
+   "pi_email_addr": "choijw@mtu.edu",
+   "nsf_id": "000284720",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan Technological University",
+  "inst_street_address": "1400 TOWNSEND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUGHTON",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "9064871885",
+  "inst_zip_code": "499311200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "GKMSN3DA6P91",
+  "org_uei_num": "GKMSN3DA6P91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan Technological University",
+  "perf_str_addr": "1400 TOWNSEND DR",
+  "perf_city_name": "HOUGHTON",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "499311200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 254369.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2534947",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "DMS/NIGMS 1: Data-driven Ricci curvatures and spectral graph for machine learning and adaptive virtual screening",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 599995.0,
+ "awd_amount": 554265.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-08-30",
+ "awd_abstract_narration": "Computer-aided drug design (CADD), including structure-based virtual screening of a large number of available compounds (ligands) for a given drug target, has become an essential component of modern drug discovery. The actual value of the virtual screening relies on the accuracy of the target-ligand binding affinity prediction. It is recognized as a grand challenge for the virtual screening to accurately predict the target-ligand binding structures (molecular geometries) and binding affinities associated with diverse and massive datasets. This project aims to address the grand challenge in development of machine-learning (ML)-CADD models by introducing new, more effective mathematical representations of molecular geometries with the ability to track molecular geometry changes via Ricci curvatures and their associated spectral information. The outcomes of this project will furnish novel, more reliable computational approaches in essential areas of computational drug design, biomolecular modeling, data analysis, dimensionality reduction, and mathematical biology. Moreover, this project will provide graduate and undergraduate students with training in data analysis, biological modeling, algorithm development, and computational drug design. The enhancement of curricula from this project is planned as a continuation of the investigators' teaching-research practice. The new mathematical framework and deep learning architectures are directly integrated into computer software packages to ensure extensive usage by the community of researchers in drug design, biology, computer science, and mathematics. Additionally, the project will help train the next generation of researchers in advanced mathematics, data science, and molecular biology.\r\n\r\nThis project will develop novel low-dimensional representations for biomolecular data analysis from mathematics-based approaches and robustness training data to revolutionize the current practice in structure-based virtual screening. The main objectives are: 1) to introduce molecular shape guided persistent Ricci curvature and, at the same time, to provide local geometry and spectral information to reduce the structural complexity while still maintaining an adequate description of biomolecular interactions; 2) to develop a target-ligand adaptive deep learning protocol for post-docking pose selection, binding affinity prediction, ranking, and estimation of other molecular properties; 3) to extensively validate the proposed methods on a variety of datasets to optimize the mathematical representations and learning networks. Specifically, this project will focus on the development of the proposed models for the virtual screening of phosphodiesterase-2 (PDE2) inhibitors, providing valuable hits of a promising therapeutic strategy for the treatment of various human diseases. A close loop integrating computational-experimental models will further strengthen the robustness and accuracy of the proposed models.; 4) to develop user-friendly software packages and web servers using parallel and GPU architectures for researchers who are not formally trained in advanced mathematics or sophisticated machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Duc",
+   "pi_last_name": "Nguyen",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Duc D Nguyen",
+   "pi_email_addr": "ducnguyen@utk.edu",
+   "nsf_id": "000786347",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "804700",
+   "pgm_ele_name": "NIGMS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "4075",
+   "pgm_ref_txt": "NSF/NIGMS Initiative-Mathematical Bio"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 306152.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 248113.0
+  }
+ ],
+ "por": null
+}

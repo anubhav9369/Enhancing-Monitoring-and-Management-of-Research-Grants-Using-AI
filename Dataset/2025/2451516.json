@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451516",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SHF: Towards an Automated Distributed Concurrency Testing Framework for Rust",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 174470.0,
+ "awd_amount": 174470.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "Distributed software systems are collections of computer programs that utilize computational resources across multiple computing devices to achieve a common, shared goal. They are used everywhere these days, from banking and reservation systems to online gaming and social media. Finding and fixing bugs in distributed systems is difficult because bugs can spread across multiple computers and cloud environments, making traditional troubleshooting methods ineffective. A particularly common and challenging to manage type of problems are concurrency bugs that occur when multiple software processes within a program try to access and modify shared data simultaneously. This project introduces an automated tool to help developers identify and fix concurrency issues in distributed systems. It uses innovative techniques to simulate real-world scenarios, uncovers hidden communication patterns, and detects common but difficult-to-find problems. Outcomes from this research will be included in college-level computer science courses on distributed systems and software engineering.\r\n\r\nRust has gained popularity for distributed system development due to its memory safety feature. However, current methods to trigger concurrency bugs in Rust code require substantial human effort and expertise, and effective automated testing tools are lacking. This project addresses these challenges in three ways. First, it will conduct an empirical study of real-world modern distributed systems implemented in Rust to identify current trending issues and their root causes. Second, it will develop a static distributed system dependency analysis and a deterministic simulation testing framework driven by system-level scheduling, enabling automated schedule generation to expose concurrency and other emerging bugs. Third, it will provide an open-source testing platform for public access and future integration. The project will produce a benchmark suite of prevalent and emerging bugs in modern distributed systems to facilitate high-quality bug reproduction. It will also serve as a foundation for future research in improving system reliability and enhance the security of distributed software systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bozhen",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bozhen Liu",
+   "pi_email_addr": "bozhen.liu@tamucc.edu",
+   "nsf_id": "000960459",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M University Corpus Christi",
+  "inst_street_address": "6300 OCEAN DR UNIT 5739",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORPUS CHRISTI",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "3618252730",
+  "inst_zip_code": "784125739",
+  "inst_country_name": "United States",
+  "cong_dist_code": "27",
+  "st_cong_dist_code": "TX27",
+  "org_lgl_bus_name": "TEXAS A&M UNIVERSITY-CORPUS CHRISTI",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Y3RET2XN41S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M University Corpus Christi",
+  "perf_str_addr": "6300 OCEAN DR UNIT 5739",
+  "perf_city_name": "CORPUS CHRISTI",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "784125739",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "27",
+  "perf_st_cong_dist": "TX27",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174470.0
+  }
+ ],
+ "por": null
+}

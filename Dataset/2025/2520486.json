@@ -1,0 +1,106 @@
+{
+ "awd_id": "2520486",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Graph-based complex data analysis",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 325000.0,
+ "awd_amount": 325000.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "This project develops powerful new tools for understanding today\u2019s most complex data, leveraging cutting-edge artificial intelligence (AI) techniques to help data analysts across diverse fields make informed, automated decisions. Modern science increasingly depends on massive and intricate datasets. Yet many of these datasets are messy, heterogeneous, and too large or irregular for traditional methods to manage effectively. This research introduces novel approaches to analyze such data -- methods that are fast, flexible, explainable, and AI-powered. These tools help scientists and decision makers identify patterns, quantify uncertainty, and make better data-driven decisions. In parallel, the project advances public education in data science and mathematics by creating learning opportunities for high school and college students and by bringing cutting-edge ideas into classrooms and community events. In this way, the project invests in the next generation of talent and underscores the role of AI-enhanced statistical reasoning in solving urgent challenges across science, health, and industry.\r\n\r\nTechnically, the project develops a unified framework for graph-based statistical and machine learning inference in two fundamental classes of complex data: manifold data, which exhibit hidden geometric structures, and mixture data, which arise from overlapping subpopulations. Three core research aims guide the effort. The first develops methods to estimate causal effects in structured data using stochastic nearest-neighbor graphs. The second advances tools to measure statistical dependence and conditional independence using sophisticated graph-based statistics. The third addresses inference in heterogeneous mixture models, with applications to brain single-cell data related to autism spectrum disorder. The project integrates state-of-the-art concepts from statistics, including distribution-free inference, optimal transport, and generative modeling, all of which are central components of today\u2019s AI toolkit. Collaborations with partners from medical and high tech industries help ensure that the resulting methods translate into tools for researchers and professionals working at the frontiers of data science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fang",
+   "pi_last_name": "Han",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fang Han",
+   "pi_email_addr": "fanghan@uw.edu",
+   "nsf_id": "000730144",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133300",
+   "pgm_ele_name": "Methodology, Measuremt & Stats"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1333",
+   "pgm_ref_txt": "METHOD, MEASURE & STATS"
+  },
+  {
+   "pgm_ref_code": "158Z",
+   "pgm_ref_txt": "Translational Research"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 325000.0
+  }
+ ],
+ "por": null
+}

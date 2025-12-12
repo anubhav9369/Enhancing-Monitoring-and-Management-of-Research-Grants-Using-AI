@@ -1,0 +1,102 @@
+{
+ "awd_id": "2517789",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AF: Small: Novel Topological Descriptors for Topological Data Analysis",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 174507.0,
+ "awd_amount": 174507.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "The purpose of this project is the evaluation of a novel data analysis technique. Specifically, this project studies a \"geometric-topological\" technique, meaning that the technique strives to understand patterns in data which are not fixed shapes, but instead are defined by properties like having a \"hole\" or encompassing a \"void\". This project's techniques discover such voids regardless of their shape in data. In real applications, the data consists of points in high-dimensional abstract spaces, and voids in higher dimensions are less intuitive. High dimensionality of real-world data, and the need to discover only significant features make the task more difficult. Therefore, the project directly helps advance science and public health and welfare by presenting a new data analysis technique, potentially leading to the discovery of new patterns in data, in diverse areas beneficial to the society, from medical sciences to social studies. Moreover, during the project, master students will be hired to write code and perform experiments, educating them with valuable skills. \r\n\r\nThe techniques of data analysis and inference are at the core of today\u2019s Artificial Intelligence (AI)-driven technology. Statistical methods based on extraction of feature vectors out of point cloud data are widespread. In many applications, however, new approaches are required for extracting features and descriptors of data. Topological Data Analysis (TDA) is a data analysis technique that exploits algebraic topological constructs to design data descriptors which can be used for inferring topological properties of the space of data. These properties are global properties of the space of data (the ideal space from which the data are sampled) that are invariant under continuous deformations. These properties form the so-called shape of data, or more precisely, topological shape of data. The prime example of a topological data feature is the well-established persistence barcode. The investigator, in collaboration with colleagues, has recently discovered a new topological data descriptor called harmonic chain barcode. Similar to the persistence barcode, our suggested barcode is based on sound and promising theory. This award is used to study the harmonic chain barcode and perform empirical study and evaluation of this data descriptor on large data sets. The algorithm for computation of the barcode is known and the students in the project will implement and evaluate it. A few data sets from the medical imaging domain are chosen and the barcodes will be computed for these data sets. These will be used to augment a classification method, and the results would be compared with state of the art. This shall provide a new tool in the Topological Data Analysis (TDA) toolbox, one that can open new fronts in applications where existing methods have failed, either in performing the required task, or in the interpretation of the data descriptors obtained. The idea of the harmonic chain barcode is novel, and the theory predicts that it could be applied alongside the persistence barcode as a main tool of TDA. Harmonic chains have been used in the literature, however, no one prior to the investigator's team devised a barcode that is distinct from the persistence barcode, and that is stable. The connections of the new barcode to harmonic chains, and the fact that harmonic chains have desirable geometric features produces optimism for applications of the suggested barcode. In short, the reason for this optimism is that each bar of the harmonic chain barcode maps in a more canonical way to s geometric feature, than a bar in persistence barcode. Moreover, theoretical study of this new tool is a step towards understanding our limitations in designing data descriptors based on special homological chains. The application domains of persistence barcode are indeed very broad, and a new stable topological barcode is a significant achievement that can turn the theory into a technique that can be applied to many data analysis tasks with significant outcome for societal good, like improving AI techniques in medical sciences. The investigator believes that the harmonic chain barcode can be used in all research areas in place or alongside the usual persistence barcode. The results of the studies and experiments of this project, together with the code, will be made public.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Salman",
+   "pi_last_name": "Parsa",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Salman Parsa",
+   "pi_email_addr": "s.parsa@depaul.edu",
+   "nsf_id": "0000A0PFN",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "DePaul University",
+  "inst_street_address": "1 E JACKSON BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3123627388",
+  "inst_zip_code": "606042287",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "DEPAUL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MNZ8KMRWTDB6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "DePaul University",
+  "perf_str_addr": "1 E JACKSON BLVD",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606042287",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174507.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2452203",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: FRR: Towards Energy-optimal Multi-Robot Navigation for Time-critical Field Tasks",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924702",
+ "po_email": "cye@nsf.gov",
+ "po_sign_block_name": "Cang Ye",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 172196.0,
+ "awd_amount": 172196.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Autonomous robots are increasingly deployed in practical applications like agriculture, aquaculture, and environmental monitoring. However, operating in large, remote, and uneven environments presents major challenges due to limited battery life and strict timing requirements. This project develops a new robotic system that enables robots to plan efficient paths while ensuring on-time task completion. The research advances the sustainability, reliability, and cost-effectiveness of mobile robots for these important sectors.\r\n\r\nThis project addresses three interrelated research tasks: (1) developing methodologies for building energy-cost maps for large, uneven terrains using multi-modal learning models that integrate terrain images, elevation data, and robot states collected via aerial-ground collaboration; (2) designing time- and energy-aware path planning algorithms that optimize both navigation energy consumption and task completion timing with theoretical performance guarantees; and (3) integrating these models and planning algorithms into an autonomous robotic system for fish farm operations to validate its practical performance. Together, these efforts aim to enable reliable, energy-efficient, and time-sensitive robot deployments in unstructured environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Minghan",
+   "pi_last_name": "Wei",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Minghan Wei",
+   "pi_email_addr": "weim@fau.edu",
+   "nsf_id": "000946619",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida Atlantic University",
+  "inst_street_address": "777 GLADES RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOCA RATON",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "5612970777",
+  "inst_zip_code": "334316424",
+  "inst_country_name": "United States",
+  "cong_dist_code": "23",
+  "st_cong_dist_code": "FL23",
+  "org_lgl_bus_name": "FLORIDA ATLANTIC UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Q266L2NDAVP1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida Atlantic University",
+  "perf_str_addr": "777 GLADES RD",
+  "perf_city_name": "BOCA RATON",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "334316424",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "23",
+  "perf_st_cong_dist": "FL23",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 172196.0
+  }
+ ],
+ "por": null
+}

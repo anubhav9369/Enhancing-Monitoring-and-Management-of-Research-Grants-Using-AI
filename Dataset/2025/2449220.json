@@ -1,0 +1,129 @@
+{
+ "awd_id": "2449220",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE:  Phase I: FOREST: Fostering an Open-source Runtime Eco-system for the Task-based System PaRSEC",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project establishes a sustainable open-source ecosystem for the PArallel Runtime Scheduler and Execution Controller (PaRSEC) software framework. PaRSEC is an execution environment designed for scientific applications running on advanced, large-scale high-performance computers. It orchestrates the execution of computing tasks, manages data movement, and allocates the resources needed to efficiently run scientific applications on supercomputers. PaRSEC improves the performance and scaling of demanding, large-scale applications in areas that include advanced materials modeling, seismology, and artificial intelligence. It also supports research into novel mathematical algorithms that underlie a wide array of scientific computing problems. This project cultivates a sustainable, openly governed, open-source ecosystem around the PaRSEC software so that it can be supported by a broad community of contributors and users. Ultimately, widespread adoption of the PaRSEC runtime system promotes more efficient use of national computational resources and accelerates scientific and technological progress for the benefit of society.\r\n\r\nThis POSE project will establish a pathway for the PaRSEC project to transition from its current centralized development model to an open-source, distributed community ecosystem. PaRSEC works by describing applications as parameterized task graphs. At runtime, a directed acyclic graph (DAG) of execution tasks is generated, where nodes represent computing tasks and edges represent the flow of data between them. This approach eliminates unnecessary synchronization points and enables full utilization of computing resources, freeing application developers from the burden of explicitly managing communication. The PaRSEC runtime system has been successfully applied in domains ranging from quantum chemistry to seismology. Although PaRSEC was originally developed in a centralized manner at a single institution, its developer and user bases have since expanded to multiple institutions. This project will support further community growth by establishing development standards, best practices, and onboarding materials to better support open community development and governance models and to build a sustainable open-source ecosystem for PaRSEC.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Gates",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark R Gates",
+   "pi_email_addr": "mgates3@icl.utk.edu",
+   "nsf_id": "000816004",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Herault",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Herault",
+   "pi_email_addr": "herault@icl.utk.edu",
+   "nsf_id": "000595689",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Schuchart",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph K Schuchart",
+   "pi_email_addr": "joseph.schuchart@stonybrook.edu",
+   "nsf_id": "000870669",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Qinglei",
+   "pi_last_name": "Cao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qinglei Cao",
+   "pi_email_addr": "qinglei.cao@slu.edu",
+   "nsf_id": "000947279",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

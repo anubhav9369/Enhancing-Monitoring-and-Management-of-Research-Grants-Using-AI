@@ -1,0 +1,146 @@
+{
+ "awd_id": "2440847",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Deciphering how neural circuits extract and preprocess visual features for navigation",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032924611",
+ "po_email": "pforlano@nsf.gov",
+ "po_sign_block_name": "Paul Forlano",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 1500000.0,
+ "awd_amount": 700000.0,
+ "awd_min_amd_letter_date": "2025-02-21",
+ "awd_max_amd_letter_date": "2025-09-19",
+ "awd_abstract_narration": "Many animals use information from vision when they navigate the world, yet we know surprisingly little about even the basic visual features that contribute to spatial and directional senses. For example, fruit flies rely on cues such as vertical stripes and polarized light to determine which direction to move. Yet, these visual features may represent only a fraction of those necessary for navigation. The main goal of this project is to understand the detailed network dynamics underlying visual processing and identify important visual features for navigation by combining anatomical, physiological, and computational approaches. The study will represent a significant step toward mechanistically describing the dynamics of an entire neural circuit, from sensory processing to developing spatial and directional senses\u2013\u2013abstract cognitive entities. In addition, the proposed studies can inspire broader fields in engineering, including designing computer vision algorithms that can analyze task-specific features from the environment and robots that autonomously navigate in hazardous environments where external help signals such as the Global Positioning System (GPS) are unavailable. Based on these advances, the team will develop a new computational neuroscience course focusing on mechanistic models of neural circuits that have been validated in biological brains. The researchers will also reach out to high school students and families to increase awareness in neuroscience with hands-on lab experiences demonstrating advanced neuroscience techniques, such as using optogenetics to alter the mating behaviors in flies. Finally, they will provide a career workshop to undergraduate students to help efficiently advance their careers in biological sciences.\r\n\r\n\r\nThe team will investigate how information is transformed across multiple stages of the pathway from the optic lobe to the compass neurons (also called EPG neurons), which encode the fly's sense of direction and share similarities with mammalian head direction cells. This pathway, called the anterior visual pathway (AVP), has three major types of neurons. MeTu neurons, which receive input in the Medulla (optic lobe) and send axons to the Anterior Optic Tubercle (AOTU), respond to specific visual primitives such as certain wavelengths and light polarization. TuBu neurons integrate the output of MeTu neurons from a specific spatial area, such as vertical or circular areas. Finally, ER neurons, which are postsynaptic to TuBu neurons and serve as the last stage of visual scene processing before the compass neurons, interact with each other to preprocess information about multiple visual features before they are integrated by compass neurons. The team will identify the visual features that two ER types extract along the AVP. To this end, they will tether flies and place them in a custom-built virtual reality arena that spans 360o azimuth and projects full-color stimuli. Using two-photon calcium imaging, they will monitor neurons\u2019 activity in these pathways in response to visual stimuli with various visual features. This project will deliver anatomically and experimentally supported computational models that provide a comprehensive understanding of the visual processing essential for navigation, spanning the entire circuits from the peripheral vision to the sense of direction.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sung Soo",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sung Soo Kim",
+   "pi_email_addr": "sungsoo@ucsb.edu",
+   "nsf_id": "000949542",
+   "pi_start_date": "2025-02-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Barbara",
+  "inst_street_address": "3227 CHEADLE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA BARBARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8058934188",
+  "inst_zip_code": "931060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G9QBQDH39DF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Barbara",
+  "perf_str_addr": "3227 CHEADLE HALL",
+  "perf_city_name": "SANTA BARBARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "931060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  },
+  {
+   "pgm_ele_code": "771300",
+   "pgm_ele_name": "Activation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "2886",
+   "pgm_ref_txt": "MINORITY INSTITUTIONS PROGRAM"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 700000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2523805",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CISE Crosscutting Small: SaTC: SAGE: Secure Accelerators for Next-Generation Foundation Models",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922451",
+ "po_email": "acharyas@nsf.gov",
+ "po_sign_block_name": "Subrata Acharya",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 275000.0,
+ "awd_amount": 275000.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Foundation models are general-purpose technologies that power a wide range of artificial intelligence (AI) applications, including intelligent chatbots, voice assistants, cyber threat detection systems, and autonomous robots. These models can also be adapted to new tasks via fine-tuning techniques. However, the local deployment of foundation models on consumer devices is challenging due to the models\u2019 large size and high computational demands. The models also face significant security risks, such as intellectual property (IP) theft and malicious tampering, when deployed outside of secure platforms. To address these challenges, this project will build modular hardware accelerators that enable secure and efficient deployment of fine-tuned foundation models in consumer devices. These accelerators can be securely integrated into existing AI hardware systems and will play a critical role in enhancing the security and resilience of the United States AI semiconductor supply chain.\r\n\r\nThe project plans the design of a heterogeneous system containing a graphics processing unit (GPU) and a custom accelerator. The GPU will store the open parameters of a foundation model, and the accelerator will support the secure execution of the fine-tuned component. The prototype will be used to evaluate performance bottlenecks and security vulnerabilities of the designed heterogeneous system. Based on the findings, the team will devise advanced acceleration methodologies and implement active locking mechanisms to protect the fine-tuned model. The final phase of the project will produce a secure and modular accelerator realized on a physical platform. Overall, the project aims to address the challenges of deploying foundation models in resource-constrained devices, deliver secure hardware designs to safeguard foundation models, and advance interdisciplinary research between AI acceleration and hardware security. The solutions developed will be disseminated to the public via open-source platforms, encouraging broader industrial adoption of the products.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Md Tanvir",
+   "pi_last_name": "Arafin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Md Tanvir Arafin",
+   "pi_email_addr": "marafin@gmu.edu",
+   "nsf_id": "000830884",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Mason University",
+  "inst_street_address": "4400 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAIRFAX",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7039932295",
+  "inst_zip_code": "220304422",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "VA11",
+  "org_lgl_bus_name": "GEORGE MASON UNIVERSITY",
+  "org_prnt_uei_num": "H4NRWLFCDF43",
+  "org_uei_num": "EADLFP7Z72E5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Mason University",
+  "perf_str_addr": "4400 UNIVERSITY DR",
+  "perf_city_name": "FAIRFAX",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "220304422",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "VA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 275000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2446988",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: The Economics of Wait Times in Health Care Delivery",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032927280",
+ "po_email": "nlutz@nsf.gov",
+ "po_sign_block_name": "Nancy Lutz",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 367914.0,
+ "awd_amount": 367914.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "Waiting for a medical appointment or procedure is a common experience, whether it is a wait to see a medical specialist or waiting for surgery. This research examines whether or not longer waits result in adverse  health outcomes and higher health spending. The research framework will also help us understand whether and how specific interventions (by hospital systems, health insurers, or governments) can minimize harm to patients.  The researchers measure waiting times for more than a dozen distinct medical procedures including cataract surgeries, hip and knee replacements, and cardiac bypass surgeries. They find evidence that patients who face longer wait times experience worse outcomes, as measured by higher rates of returning to the hospital for follow-up care, higher total medical spending in hospitals, and greater use of opioid prescriptions for pain. The results of their data analysis are used to understand the interaction between health care markets and health insurance markets. Broader impacts of this research include helping individuals, businesses, and governments understand these linked markets.\r\n\r\nThe researchers advance our understanding by methodological innovation in data construction and research design. They build a new measure of waiting times using insurance claims data. The researchers apply machine learning tools to detect the likelihood of surgical care based on patients\u2019 diagnoses, on the tests and imaging procedures they undergo, and on prescription drugs they fill. The rich data also allow the researchers to engage with the endogenous nature of wait times. Specifically, they exploit variation in demand for surgeries and surgeons over time within an insurance network. Network congestion serves as an instrumental variable that shifts waiting times, allowing the research team to identify the causal effect of wait times on health and spending outcomes. Importantly, the causal effects appear heterogeneous across patient types, pointing to potential misallocation in surgical wait times: patients who experience the worst treatment effects from waiting do not necessarily experience the shortest waits. The researchers then combine claims data with a structural economic model governing how households choose insurance plans and how patients choose providers given an insurance network. The model estimates can be used simulate the effects of changes in the regulatory or business environment, such as changes to a state\u2019s network adequacy laws. In the researchers\u2019 framework, multiple players in the market can react strategically to a change in the law: patients might re-match to new providers under such a policy, and payers might adjust their insurance premiums to cover added costs from maintaining a larger network. The researchers can thus quantify changes to patient outcomes in a way that accounts for the supply responses of players in the marketplace.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guillaume",
+   "pi_last_name": "Frechette",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guillaume R Frechette",
+   "pi_email_addr": "gf35@nyu.edu",
+   "nsf_id": "000226442",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Dickstein",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael J Dickstein",
+   "pi_email_addr": "mjd19@nyu.edu",
+   "nsf_id": "000977644",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "132000",
+   "pgm_ele_name": "Economics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 367914.0
+  }
+ ],
+ "por": null
+}

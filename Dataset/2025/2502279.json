@@ -1,0 +1,110 @@
+{
+ "awd_id": "2502279",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Adaptive Multi-Fidelity Framework for Modeling Heterogeneous Materials Under Extreme Conditions",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7022924526",
+ "po_email": "ksolanki@nsf.gov",
+ "po_sign_block_name": "Kiran Solanki",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "Understanding material failure under extreme conditions is critical to improving the safety and reliability of infrastructure and engineered systems. This Engineering Research Initiation (ERI) project supports research that looks to develop a computational framework to simulate failure in advanced materials such as metal-ceramic composites. These materials contain complex internal structures where failure is often governed by interactions between embedded particles and the surrounding matrix\u2014phenomena that traditional models struggle to capture accurately. As these materials play essential roles in transportation, energy, and defense sectors, developing robust, efficient methods to simulate damage and fracture is vital. This award will support research investigating the development of a multi-fidelity computational framework that applies high-resolution modeling in regions undergoing damage while using coarse-grained models elsewhere. The research looks to produce open-source simulation tools that can guide the design of safer, more resilient materials and structural components across a range of industries. By training undergraduate and graduate students, hosting workshops on high-performance computing, the project will foster a diverse, skilled workforce equipped to advance the mechanics of complex materials.\r\n\r\nThe objective of this project is to establish a scalable framework for simulating elastic deformation and fracture in materials with rich mesoscale structures, such as particle inclusions within a matrix. The research will focus on high-fidelity modeling of key damage processes\u2014including fracture of particles, matrix cracking, and interfacial debonding while applying continuum-level models in less critical regions. This hybrid approach looks to enable accurate failure predictions at engineering scales without prohibitive computational cost. The study will target metal-ceramic composites as exemplar systems where mesoscale interactions strongly affect bulk performance. Model parameters will be calibrated and validated using published experimental data, ensuring the framework\u2019s relevance and accuracy. By creating a generalized, efficient simulation platform, this work looks to provide a foundation for materials innovation, structural safety, and accelerated deployment of advanced materials across infrastructure, aerospace, and other applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prashant",
+   "pi_last_name": "Jha",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prashant K Jha",
+   "pi_email_addr": "prashant.jha@sdsmt.edu",
+   "nsf_id": "0000A1GDG",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "South Dakota School of Mines and Technology",
+  "inst_street_address": "501 E SAINT JOSEPH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "RAPID CITY",
+  "inst_state_code": "SD",
+  "inst_state_name": "South Dakota",
+  "inst_phone_num": "6053941218",
+  "inst_zip_code": "577013901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "SD00",
+  "org_lgl_bus_name": "SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY",
+  "org_prnt_uei_num": "CJAJYT2KW771",
+  "org_uei_num": "CJAJYT2KW771"
+ },
+ "perf_inst": {
+  "perf_inst_name": "South Dakota School of Mines and Technology",
+  "perf_str_addr": "501 E SAINT JOSEPH ST",
+  "perf_city_name": "RAPID CITY",
+  "perf_st_code": "SD",
+  "perf_st_name": "South Dakota",
+  "perf_zip_code": "577013901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "SD00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "024E",
+   "pgm_ref_txt": "MATERIALS DESIGN"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

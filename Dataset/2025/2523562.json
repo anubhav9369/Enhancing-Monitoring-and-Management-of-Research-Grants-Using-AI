@@ -1,0 +1,138 @@
+{
+ "awd_id": "2523562",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CISE Crosscutting Medium: CPS: Data-Driven Travel-Demand Management Through Integrated Parking and Ridesharing Cyber-Physical Systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 709472.0,
+ "awd_amount": 709472.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Despite recent technological advancements and shifts in work patterns, traffic congestion continues to burden U.S. cities, resulting in the loss of millions of dollars due to wasted fuel and lost productivity. In congested urban areas, these issues are exacerbated by the time and stress associated with searching for parking. The standard strategy toward travel-demand management to tackle traffic congestion is road and parking pricing, but the real-world implementation of pricing approaches has proven to be difficult due to concerns about their fairness. This project proposes an alternative in the form of integrated parking-management and ridesharing systems that reduce traffic congestion through non-pricing mechanisms. In addition to alleviating congestion, the proposed systems aim to expand access to opportunities through collaborative ridesharing solutions that are deployable even in auto-dependent communities with limited transit options.\r\n\r\nThis project aims to develop a data-driven travel-demand management framework for the deployment of an integrated parking-management and ridesharing cyber-physical system (CPS). The CPS will enable the implementation of integrated parking-management and ridesharing schemes to mitigate congestion and enhance mobility by jointly coordinating parking access and collaborative peer-to-peer carpooling programs. The proposed framework advances research on peer-to-peer ridesharing and travel-demand management through optimization models that jointly consider hybrid travel-incentive structures, measures of personal affinity between travelers, and user-specific valuations of these measures in the ride- and parking-matching process. The framework envisions a CPS architecture that dynamically updates users\u2019 affinity measures and accounts for trade-offs they make between travel costs and trust considerations. Beyond new policies, models, and heuristics, the innovation of this project lies in the proposed CPS, which combines traveler digital twins, machine-learning-based predictions of parking-facility states, and internet-of-things technologies to operationalize the proposed travel-demand management schemes. Lastly, the project will establish a living laboratory to evaluate the performance of the integrated parking and ridesharing CPS under real-world conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Rodriguez Roman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel Rodriguez Roman",
+   "pi_email_addr": "daniel.rodriguez6@upr.edu",
+   "nsf_id": "000816694",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nayda",
+   "pi_last_name": "Santiago",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nayda G Santiago",
+   "pi_email_addr": "naydag.santiago@upr.edu",
+   "nsf_id": "000479309",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hector",
+   "pi_last_name": "Carlo",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hector J Carlo",
+   "pi_email_addr": "hector.carlo@upr.edu",
+   "nsf_id": "000484815",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Puerto Rico Mayaguez",
+  "inst_street_address": "259 BLVD ALFONSO VALDES",
+  "inst_street_address_2": "",
+  "inst_city_name": "MAYAGUEZ",
+  "inst_state_code": "PR",
+  "inst_state_name": "Puerto Rico",
+  "inst_phone_num": "7878312065",
+  "inst_zip_code": "006806475",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "PR00",
+  "org_lgl_bus_name": "UNIVERSITY OF PUERTO RICO",
+  "org_prnt_uei_num": "RD8QJEHNYLJ7",
+  "org_uei_num": "GZRNJ1GZDBM1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Puerto Rico Mayaguez",
+  "perf_str_addr": "259 BLVD ALFONSO VALDES",
+  "perf_city_name": "MAYAGUEZ",
+  "perf_st_code": "PR",
+  "perf_st_name": "Puerto Rico",
+  "perf_zip_code": "006806475",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "PR00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 709472.0
+  }
+ ],
+ "por": null
+}

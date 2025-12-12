@@ -1,0 +1,93 @@
+{
+ "awd_id": "2515519",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Deeper Understanding of Mean-field Models",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 240000.0,
+ "awd_amount": 240000.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "This project addresses the critical need to approximate complex statistical models in the era of big data. The investigator aims to develop a comprehensive understanding of when simpler approximations can be effectively used, and to provide rigorous guarantees for their accuracy. The core challenge lies in the trade-off between model complexity (which is often necessary to capture the nuances of large datasets) and computational feasibility. While complex models offer rich descriptions, their computational demands can be prohibitive. The investigator proposes to explore whether simpler, approximated models can retain the essential features of their complex counterparts while significantly reducing computation time. Graduate students will be involved in this research.\r\n\r\n\r\nThe research will concretely examine the validity of naive mean-field variational inference in several key areas where complex models are prevalent, which include (i) High-Dimensional Bayesian Regression (linear and logistic), (ii) Latent Dirichlet Allocation (LDA), (iii) Mixed Membership Models, and (iv) Exponential Random Graph Models (ERGMs). For each of these examples, the investigator plans to develop tailored inference methods, and provide rigorous, quantified bounds on the errors introduced by these approximations. This will offer a clear understanding of the trade-off between simplicity and accuracy. The overarching goal is to equip researchers using naive mean-field based variational inference with concrete guidelines on when and under what circumstances such methods can be reliably applied, and when they might fall short. This will advance the principled application of approximate inference techniques in the context of big data analytics, contributing to more efficient and reliable scientific discovery.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sumit",
+   "pi_last_name": "Mukherjee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sumit Mukherjee",
+   "pi_email_addr": "sm3949@columbia.edu",
+   "nsf_id": "000734734",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 240000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2529696",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Bioinspired Robots for Adaptive Traversal of Wet Flowable Substrates at the Water-Land Interface",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "This project supports research that looks to advance robot mobility in challenging natural environments where land meets water\u2014such as wetlands, mudflats, and tidal zones. Accessing these areas is important for performing search and rescue after hurricanes, geological survey, and ecological/environmental monitoring, but they are often challenging for humans or traditional robots to traverse, because the soft, unstable wet sandy and muddy ground can suddenly shift from solid to fluid-like, causing wheels and legs to slip, sink, or become stuck. This research seeks to create a bio-inspired robot capable of reliably moving across such environments by learning how to sense and respond to these complex terrain conditions, much like animals such as mudskippers do in nature. The outcomes of this work intend to help robots assist humans with disaster response, environmental monitoring, and scientific exploration in water\u2013land transition zones that are currently inaccessible. The project will also provide interdisciplinary training for students from high school through doctoral levels and contribute to public STEM education through outreach and publicly shared datasets, videos, and simulations.\r\n\r\nThe research team looks to create a new robot inspired by mud-dwelling amphibious fishes that can adapt their movement strategies as they encounter different types of wet sandy and muddy terrain. The approach combines the team\u2019s expertise in robotic locomotion, sensing, control, bio-inspiration, and physics modeling of terrain interaction mechanics. The robot seeks to be equipped with direct-drive actuators that can sense ground reaction forces continuously during locomotion and infer the mechanical properties of the terrain on the go. In addition, the team looks to develop terradynamic models to predict how wet sand and mud with varying levels of wetness and clay content respond to locomotion to produce forces and how robot gait must adapt accordingly to attain effective locomotion. By combining these terradynamic models with terrain mechanics sensing capability, this project aims to enable the robot to adjust its gait -- such as changing body undulation or fin movements -- to achieve robust mobility in various wet sandy and muddy terrains. The knowledge from this project intends to deepen scientific understanding of locomotion mechanics and control in cohesive flowable terrain and inform the development of terrain-aware, terrain-adaptive robotic systems. The new methods from this project look to be validated in real-world field testing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Feifei",
+   "pi_last_name": "Qian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Feifei Qian",
+   "pi_email_addr": "feifeiqi@usc.edu",
+   "nsf_id": "000828972",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3740 McClintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900892563",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

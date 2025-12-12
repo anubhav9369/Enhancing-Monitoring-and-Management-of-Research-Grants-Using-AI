@@ -1,0 +1,98 @@
+{
+ "awd_id": "2505180",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Linear and Nonlinear Diffusion and Charge Conductivity of Proteins",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-05-27",
+ "awd_max_amd_letter_date": "2025-05-27",
+ "awd_abstract_narration": "Dmitry Matyushov of Arizona State University is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop theoretical models of polarity of interfaces, linear and nonlinear mobility of colloidal particles, and electrical conductivity of protein complexes.  Electrified interfaces are critical to a vast number of applications in engineering, chemistry, and life sciences.  The response of water to local electric fields at biological interfaces affects how proteins attach to other macromolecules (e.g., DNA) and to lipid membranes. The mobility of proteins critically depends on dynamical correlations of osmotic and electrostatic forces from hydrating waters which are also affected by the properties of cytosol and interfaces.  While their mobility is connected to random forces, how these forces contribute to observable diffusion of macromolecules and colloidal particles remains unclear. Similarly, surface water molecules can impact barriers to charge-transfer relevant to photosynthesis and respiration. Matyushov, with experimental colleagues, will pursue theoretical modeling of mechanisms of colloidal and protein mobility, electrified interfaces, and protein conductivity. The results of this work will be available to the community in the form of predictive computational algorithms and microscopic insights into physical mechanisms which are not possible to infer from direct laboratory measurements. Theoretical results will be disseminated through a planned textbook, conference talks, and review articles targeting broad audiences.\t\r\n\r\nThe proposal seeks to develop formal theories and computational algorithms to address the problem of statistics and dynamics of interfacial fluctuations affecting interfacial screening, colloidal mobility, dynamics of electrolytes, and protein conductivity. Three research goals will be pursued.  First, we will develop formal algorithms and perform simulations to address anisotropic dielectric susceptibility of water in the interface of simple solutes, large protein complexes, and lipid membranes.  Second, we will apply the formalism of memory functions to model strong dynamical cross-correlations between osmotic and electrostatic forces allowing colloidal diffusion. The formalism will be applied to collective dynamics of low-temperature glass-formers. Third, we will carry out molecular dynamics simulations of redox-active proteins and protein-DNA complexes in confinement to mimic laboratory conductivity measurements and natural conditions. We have shown that protein conductivity requires violation of the fluctuation-dissipation relation (FDR) for electrostatics at protein cofactors and we aim to understand the role of interfacial water in reducing protein-water cross-correlations responsible for the FDR violation. Strong connection of the proposed activities to experiment will help graduate students and postdoctoral fellows to gain a broader view of the discipline and learn the culture of collaborative research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dmitry",
+   "pi_last_name": "Matyushov",
+   "pi_mid_init": "V",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dmitry V Matyushov",
+   "pi_email_addr": "dmitrym@asu.edu",
+   "nsf_id": "000417447",
+   "pi_start_date": "2025-05-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

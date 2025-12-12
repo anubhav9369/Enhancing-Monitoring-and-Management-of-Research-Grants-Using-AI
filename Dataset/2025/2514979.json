@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514979",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-BSF: Creating and Detecting 3D Neutral Atom Cluster States",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927421",
+ "po_email": "msbyrd@nsf.gov",
+ "po_sign_block_name": "Mark S. Byrd",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 650000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "This proposal aims to push the boundaries of quantum computing by creating a unique 3D \"cluster state\" of neutral atoms, a form of quantum entanglement that, unlike traditional systems, is highly robust to noise and qubit loss. Cluster states provide unique ways to measure entanglement and could from the basis of future quantum computers.  Using a computational imaging technique called point spread function (PSF) engineering, the researchers will significantly speed up the process of detecting the quantum states of atoms in a 3D array, allowing for the kind of faster measurements that are a prerequisite for quantum computing.  This imaging system will use specially designed optical elements to capture data from all atoms in one shot, eliminating the need for slower, layer-by-layer imaging methods.  The project is a collaboration between Penn State and the Technion, combining expertise in atomic physics and optical engineering.  Beyond advancing quantum computing, this work has the potential to inspire innovations in 3D microscopy and atomic-scale imaging, with applications in diverse areas of science and technology. \r\n\r\nThe proposers plan to create 3D cluster states in a 3D optical lattice of neutral atom qubits.  This maximally entangled state has a range of dramatic features that will be studied, including: stabilizers that can be used to validate large entangled states (like the initial target 5\u00d75\u00d75 state) with very few measurements; extreme robustness to decoherence, including even the loss of a large fraction of the qubits; the ability to remotely entangle distant pairs of qubits by measuring the intervening qubits; the possibility of measuring novel entanglement phase transitions; and a possible use as the core of a measurement-based quantum computer.  Cluster states will be made using state-dependent lattice translations in 3 directions to state-selectively bring atoms together for parallel controlled cold collisions.  Many of the experimental requirements for making and measuring 3D cluster states have already been developed and assembled at Penn State.  The proposed work will add critical new tools, including the implementation of parallel single qubit addressing and a new way to detect all the atoms in the 3D array in a single 2D image.  The new detection technique will be based on point spread function (PSF) engineered phase plates. It will shorten the time it takes to measure the qubit states of all atoms by between a factor of 10 and 100.  Among the payoffs from this dramatic time decrease is the possibility of performing mid-circuit measurements on select qubits, a requirement for using cluster states for quantum computing. Groups at Penn State and the Technion will collaborate in the development of these phase plates using neural-net based learning algorithms and by iterating phase plate designs with data from the 3D atom array.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Weiss",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "David S Weiss",
+   "pi_email_addr": "dsweiss@phys.psu.edu",
+   "nsf_id": "000122851",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "728100",
+   "pgm_ele_name": "QIS - Quantum Information Scie"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "014Z",
+   "pgm_ref_txt": "NSF and US-Israel Binational Science Fou"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 650000.0
+  }
+ ],
+ "por": null
+}

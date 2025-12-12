@@ -1,0 +1,106 @@
+{
+ "awd_id": "2517458",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Exploring Spectral Signatures of Molecular Vibrations",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927416",
+ "po_email": "selshall@nsf.gov",
+ "po_sign_block_name": "Samy El-Shall",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 580000.0,
+ "awd_amount": 580000.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "With support from the Chemical Structure and Dynamics (CSD) program in the Division of Chemistry, Professor Anne B. McCoy of the University of Washington is developing versatile computational approaches to gain new insights into proton transport in aqueous environments, and more specifically solvation of hydroxide and hydronium ions in complexes with water molecules. The origins of the similar frequencies of the ionic hydrogen bonds in complexes of hydronium and hydroxide ions with water molecules as well as spectral signatures of proton migration in these complexes remain poorly understood.  Despite considerable work in studying the solvation of hydronium ions, much less is known about the interactions between hydroxide ions and water.  In this work, Professor McCoy and her students will develop potential surfaces that will enable these studies.  They will also develop strategies for evaluating energies and wave functions for vibrationally excited OH stretching states of these ions.  Their studies could lead to the development of general models to provide insights into the coupling of high and low frequency vibrations in protonated water clusters, obtain the vibrational spectrum of polycyclic aromatic hydrocarbon molecules, and study rotation-vibration coupling in molecules that undergo large amplitude vibrational motions.  Through this work, students working with Dr. McCoy and her collaborators will gain valuable experience in computation science and in coding more broadly, and modules based on this work will be developed for use by other researchers and for classroom instruction.  Dr. McCoy also seeks out opportunities to provide venues to showcase the work of early-career scientists.  \r\n\r\nThe supported work focuses on the development of theoretical and computational tools for studying couplings among molecular vibrations and how they are manifested in vibrational spectra.  The two primary approaches that will be employed are vibrational perturbation theory and diffusion Monte Carlo approaches.  The diffusion Monte Carlo work will focus on developing potential energy surfaces for complexes of hydroxide ions with water, with the goal of understanding the similarity of the spectra for size selected water clusters containing a hydroxide or hydronium ion, and the insights into proton transport in aqueous systems that can be gleaned from these spectra.   The work on perturbation theory will focus on systems, where couplings among the vibrations have a significant impact on the spectra.  This work will focus both on how to identify the most important couplings and the development of general models that can be applied to broader classes of molecular systems.  The tools that are developed will be incorporated into the PyVibDMC and PyVibPTn program packages that have been developed by Dr. McCoy and her students.  In addition, they will continue to develop tutorials for students who wish to learn more about computational studies involving molecular vibrations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anne",
+   "pi_last_name": "McCoy",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anne B McCoy",
+   "pi_email_addr": "abmccoy@uw.edu",
+   "nsf_id": "000113268",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "910100",
+   "pgm_ele_name": "CSD-Chem Strcture and Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 580000.0
+  }
+ ],
+ "por": null
+}

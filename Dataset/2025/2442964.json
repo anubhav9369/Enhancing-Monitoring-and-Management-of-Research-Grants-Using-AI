@@ -1,0 +1,102 @@
+{
+ "awd_id": "2442964",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Demystifying and Mitigating Unfairness in Learning over Graphs",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2025-06-12",
+ "awd_max_amd_letter_date": "2025-06-12",
+ "awd_abstract_narration": "The science of networks has emerged as a major catalyst for understanding the behavior of complex interconnected entities, which can be described using graphs. For example, cyber-physical systems including the Internet of Things involve interactions among devices, and social networks can be modeled as graphs capturing various relationships among people or groups. Other complex networks emerge in diverse engineering fields, such as power grids and transportation systems. Graph-based machine learning (ML) and signal processing algorithms exhibit well-documented performance in learning over graphs (LoG). Despite their success, the impact of these algorithms in real-world systems depends heavily on how \u201csocially responsible\u201d they are. While graph-based ML models effectively integrate the nodal attributes with the topological information encoded by the graph, they also inherit and may even amplify potential unfairness. Using such models may subsequently result in unfair outcomes in decision- and policy-making in the related applications. While fairness issues have attracted increasing attention in general ML tasks, they are largely underexplored in the graph domain, especially in terms of theoretical analysis and fundamental understanding. To bridge this gap, the proposed research program will develop a systematic understanding of unfairness in LoG, leading to the design of efficient and principled algorithms for fair LoG. This project will further integrate an educational plan with the research goals,\r\n\r\n\r\nThe proposed research will provide novel algorithmic as well as theoretical frameworks for fairness-aware Learning over graphs(LoG). The intellectual merit of this research entails transformative advances at the crossroads of machine learning, optimization, and network science to provide a principled means of mitigating potential bias in learning tasks over graphs. From a theoretical perspective, the proposed research provides new ways to systematically analyze the topological and attributive characteristics that result in unfairness, which are missing in existing studies. From an algorithmic perspective, the project offers principled designs of debiasing methods for mitigating unfairness in LoGs, which fill in the gap in existing works. These theoretical and algorithmic innovations have intrinsic intellectual value and create a \u201cvirtuous cycle.\u201d  The following research questions will be addressed: (RQ1) How to provide a theoretical understanding of the factors that lead to unfairness in LoG? (RQ2) How should one augment, compress, or generate fair graph data? (RQ3) How to design principled and fair LoG models?\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yanning",
+   "pi_last_name": "Shen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanning Shen",
+   "pi_email_addr": "yannings@uci.edu",
+   "nsf_id": "000807052",
+   "pi_start_date": "2025-06-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "4215 Engineering Hall",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

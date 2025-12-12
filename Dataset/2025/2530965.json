@@ -1,0 +1,117 @@
+{
+ "awd_id": "2530965",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: RSSD: LLMDaL: LLM-Driven Data Labeling for Training ML Models",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "The LLMDaL project leverages generative Artificial Intelligence (AI) along with data from the AmLight international research and education (R&E) network to provide an essential and previously unavailable building block necessary for automated network defense. The growing complexity and sophistication of modern networks are driving the need for automated cybersecurity and management.  Operators of critical infrastructure must increasingly rely on AI to cope with the sheer scale of information and the growing use of AI by adversaries. However, effective AI defenses depend on both the quantity and quality of data for training.  The lack of high-quality, labeled datasets from production environments presents a significant barrier. Without access to such datasets, advanced models often remain untested in real-world scenarios, limiting their effectiveness, as they fail to learn the complexity and uncertainty of production environments. Without labeled packet-level data from production networks, the AI models essential for critical infrastructure defense will fail.\r\n\r\nThe LLMDaL project utilizes Large Language Models (LLMs) to automatically label packet-level data collected from AmLight maintained at Florida International University. Technical, financial and privacy challenges of providing such data remain substantial. To accurately and quickly label this real-world data, open-source LLMs are fine-tuned using data gathered from AmLight, along with known threat signatures, and expert-annotated cybersecurity events. Validation is performed through a Retrieval-Augmented Self-Refinement process, cross-checking with an ensemble of LLMs, and verification through a human-in-the-loop approach.  LLMDaL fills a critical gap in automating dataset labeling, enabling effective testing of AI models for real-world environments. LLMDaL will release datasets from AmLight in batches to reflect the evolving threat landscape.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kemal",
+   "pi_last_name": "Akkaya",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kemal Akkaya",
+   "pi_email_addr": "akkayak@vcu.edu",
+   "nsf_id": "000671422",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Julio",
+   "pi_last_name": "Ibarra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Julio Ibarra",
+   "pi_email_addr": "julio@fiu.edu",
+   "nsf_id": "000267168",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yanzhao",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanzhao Wu",
+   "pi_email_addr": "yawu@fiu.edu",
+   "nsf_id": "000925347",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida International University",
+  "inst_street_address": "11200 SW 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MIAMI",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3053482494",
+  "inst_zip_code": "331992516",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "FL26",
+  "org_lgl_bus_name": "FLORIDA INTERNATIONAL UNIVERSITY",
+  "org_prnt_uei_num": "Q3KCVK5S9CP1",
+  "org_uei_num": "Q3KCVK5S9CP1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida International University",
+  "perf_str_addr": "11200 SW 8TH ST",
+  "perf_city_name": "MIAMI",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "331992516",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "FL26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

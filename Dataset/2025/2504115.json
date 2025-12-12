@@ -1,0 +1,98 @@
+{
+ "awd_id": "2504115",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Characterizing transposable element contributions to the transcriptome with evidence-based and inferential methods",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 875379.0,
+ "awd_amount": 875379.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Transposable elements (TEs), also known as \u2018jumping genes,\u2019 are DNA sequences that can change or duplicate their position within a genome. Particularly, when a new copy is inserted into a gene by a process called exonization, it creates new genetic material that contributes to new variations and functions within a species and, over time, to the evolution of new species. One class of TEs, called Alu, accounts for thousands of primate- and human-specific proteins, potentially creating \u2018programs\u2019 to control essential cell functions such as tissue type and immune response. However, the extent and role of exonized TEs in humans and other species are largely unknown. The project will produce an innovative entirely computational methodology to predict TE exonization for a variety of species and TE families. It will develop a deep learning model that can predict exonization directly from the genome sequence without the need for extensive gene and tissue surveys. It will utilize the model to identify Alu exonization events in humans and several primates and compare them to identify common and specific traits. Lastly, focusing on genome sequences from a multi-ethnic population cohort will help answer questions about the ongoing contributions of Alu insertions to genetic variation in humans. The knowledge, methods and resources generated, including software tools and educational and science popularization materials, will help support biologists in more comprehensively analyzing genomes, contribute to public awareness of this class of gene plasticity events, and provide new tools to understand the molecular bases of human traits.\r\n\r\n\r\nThe project will develop a flexible deep learning model that biologists can use to annotate and study transposable element (TE) exonization in a wide range of species and for different TE families. Using the model and existing RNA sequencing data, it will create and comparatively analyze an unprecedented collection of annotations of Alu exonization events and regulatory features in the genomes of humans and several primate species, at different evolutionary time points, including very recent polymorphic Alu insertions observed in a large multi-ethnic population cohort. All methods, annotations and software tools will be available free of charge from public repositories. Additionally, the project will create electronic teaching and training modules on how to use the software, as well as educational art videos on the process and functional implications of TE exonization in biology and as a source of variation in the human population. Lastly, it will create opportunities for training and education from high school through graduate levels through research programs and summer internships.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Liliana",
+   "pi_last_name": "Florea",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Liliana D Florea",
+   "pi_email_addr": "florea@jhu.edu",
+   "nsf_id": "000208181",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 875379.0
+  }
+ ],
+ "por": null
+}

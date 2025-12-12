@@ -1,0 +1,118 @@
+{
+ "awd_id": "2441921",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Verifiable Decision Support via Language Models Grounded in Written Guidelines",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05020000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 634658.0,
+ "awd_amount": 404526.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "Pretrained generative language models (LMs) have become popular labor-saving tools in domains like social media, education, business, and medicine. However, while these models have proven useful for generative tasks like programming and writing, it has been difficult to effectively use them as decision-making assistants for tasks like application review or grading. The key problem is verification: these models are opaque and prone to \"hallucination\" (i.e., making up content), logical mistakes, and other errors, making it hard to verify their advice. Existing research in the field of explainable artificial intelligence (XAI) has sought to solve the problem by exposing the underlying model logic for human scrutiny but has struggled to demonstrate improvements in decision-making performance. This project will develop a new approach to the verification problem in LM-supported decision-making by focusing on settings where existing guidelines (such as grading rubrics, job listings, and medical guidelines) describe how decisions should be made. The team will develop methods for using LMs to apply existing written guidelines to decision-making tasks, and present explanations of recommended decisions that can be verified in terms of those guidelines. The idea is that this approach will lead to more useful explanations and better decisions than existing XAI approaches in practical domains, advancing the science of explainable AI while having beneficial impacts on many societal problems.\r\n\r\nThe project will first develop datasets and annotation tools for guideline-driven decision-making, collecting information on how humans draw links between guideline and input task documents, then compose those links into document-level decisions. The dataset will focus on three task types: short essay grading (with respect to a rubric); and resume screening (with respect to a job listing). The project team will then develop prompting and fine-tuning methods for LMs to identify, calibrate, and compose task-guideline links into verifiable decision recommendations. In parallel, the team will conduct experiments with people to study both human-human and human-model teaming in these tasks. Ultimately, this project will work toward safe, reliable, and well-aligned LM decision support by constraining the models to be \"connective tissue\" between humans and authoritative sources in the form of existing guidelines, rather than authoritative sources in themselves.\r\n\r\nThis project is jointly funded by Human-Centered Computing and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Samuel",
+   "pi_last_name": "Carton",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Samuel Carton",
+   "pi_email_addr": "samuel.carton@unh.edu",
+   "nsf_id": "000896921",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of New Hampshire",
+  "inst_street_address": "51 COLLEGE RD",
+  "inst_street_address_2": "BLDG 107",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6038622172",
+  "inst_zip_code": "038242620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NH01",
+  "org_lgl_bus_name": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GBNGC495XA67"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of New Hampshire",
+  "perf_str_addr": "51 COLLEGE RD",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "038242620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NH01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 404526.0
+  }
+ ],
+ "por": null
+}

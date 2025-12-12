@@ -1,0 +1,102 @@
+{
+ "awd_id": "2453432",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SHF: Small: Practical Controlled Concurrency Testing for Managed Code",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "Software testing is the predominant form of validating correctness for large real-world programs. Testing multi-threaded programs, where independent program tasks can execute concurrently and manipulate shared resources, remains challenging in practice since the sequence and ordering of interactions between multiple threads is hard to capture and replicate. This makes concurrency-related software bugs, called race conditions, very hard to detect and diagnose. If not identified proactively, concurrency bugs can manifest in production unexpectedly in disastrous ways, leading to potential human harm or loss of critical infrastructure. This project aims to develop principled techniques and tools for testing multi-threaded programs written in programming languages that depend on run-time management systems, such as, Java. Successful completion of this project will enable software engineers to perform reliable, efficient, and reproducible testing of large-scale concurrent applications to discover and eliminate race conditions. The project also includes synergistic educational activities, such as developing a debugging tool for novice programming classes and incorporating research findings into upper-division undergraduate computing courses.\r\n\r\nThis project will develop a controlled concurrency testing solution for multi-threaded programs running alongside managed runtimes (e.g., Java Virtual Machine code), which will: (a) ensure a correct and efficient mechanism for deterministically controlling the scheduling of thread interactions; (b) provide support for systematically or randomly exploring thread schedules using state-of-the-art search strategies based on probabilistic or partial-order-based algorithms in order to uncover hard-to-find concurrency bugs; and (c) work for arbitrary programs off-the-shelf in a push-button fashion. A key pillar of this project is to focus on general-purpose applicability as a primary objective for research on concurrency testing platforms, alongside the traditional goals of performance and search-space optimization. The project will also enable the large-scale evaluation of modern search algorithms across a wide variety of real-world software that powers production-scale distributed systems and web applications. The project will develop open-source tooling for use by software engineers as well as for educational purposes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rohan",
+   "pi_last_name": "Padhye",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rohan Padhye",
+   "pi_email_addr": "rohanpadhye@cmu.edu",
+   "nsf_id": "000838861",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2448807",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Toward Laboratory-Scale Autonomous Crystal Growth",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924771",
+ "po_email": "bschwenz@nsf.gov",
+ "po_sign_block_name": "Birgit Schwenzer",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 299300.0,
+ "awd_amount": 299300.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Non-technical summary\r\n\r\nCrystal growth is an essential process for developing new materials used in technologies ranging from electronics to renewable energy. However, growing high-quality crystals reliably remains a challenge because small changes in temperature, chemical composition, or other conditions can drastically affect the outcome. With this project, supported by NSF\u2019s Office of Strategic Initiatives in the Directorate for Mathematical and Physical Sciences, Prof. Chamorro and his research group improve the control and predictability of a widely used crystal growth technique by developing new\r\ntools to monitor and adjust the process in real time. At Carnegie Mellon University they develop a new approach to track crystal growth as it happens, using specialized in-situ monitoring techniques and tools. These tools help identify the best conditions for growing crystals with specific properties. In addition, the team develops artificial intelligence models that can analyze data from crystal growth experiments and suggest ways to optimize the process, potentially leading to future systems that can adjust growth conditions automatically. By improving the precision of crystal growth, this research advances the discovery and production of materials with unique properties, including those useful for next generation computing and energy technologies. This project also plays a pivotal role in training the next generation of scientists and engineers in materials science, chemistry, and, more broadly, data science. By integrating contemporary machine learning techniques with traditional materials science methods, students gain valuable interdisciplinary skills that are increasingly important in today\u2019s technological landscape and job market. Furthermore, the project involves hands-on workshops and interactive demonstrations for K-12 students in the greater Pittsburgh area. The workshops highlight the exciting potential of quantum materials and crystal growth with activities designed to be accessible and engaging, as well as showcasing the real-world applications of STEM and its impact on everyday life.\r\n\r\nTechnical summary\r\n\r\nThis project, supported by NSF\u2019s Office of Strategic Initiatives in the Directorate for Mathematical and Physical Sciences, refines the flux growth technique for synthesizing high-quality single crystals by incorporating real-time, in-situ monitoring and adaptive control. Custom experimental apparatuses are developed to track key growth parameters, providing new insights into the crystallization process of heavy fermion quaternary perovskite compounds (ACu3Ru4O12). Additionally, machine learning models are implemented to analyze growth data and optimize conditions dynamically. By improving control and reproducibility, this work advances the fundamental understanding of crystal growth mechanisms and enables the targeted synthesis of\r\nmaterials with tailored properties.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Juan",
+   "pi_last_name": "Chamorro",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juan R Chamorro",
+   "pi_email_addr": "jrchamorro@cmu.edu",
+   "nsf_id": "000857383",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299300.0
+  }
+ ],
+ "por": null
+}

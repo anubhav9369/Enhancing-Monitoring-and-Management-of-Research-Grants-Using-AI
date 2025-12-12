@@ -1,0 +1,114 @@
+{
+ "awd_id": "2512151",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SHF: Small: Open Choreographies via Session Types",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 598636.0,
+ "awd_amount": 598636.0,
+ "awd_min_amd_letter_date": "2025-03-28",
+ "awd_max_amd_letter_date": "2025-03-28",
+ "awd_abstract_narration": "Programming concurrent and distributed systems is notoriously difficult and error prone. Since most concurrent and distributed programs are designed as a set of communicating components, incorrect communication protocols can lead to difficult-to-debug errors. Choreographic programming is a recent programming paradigm which helps developers codesign computations, thereby eliminating the possibility of errors within communication protocols. Unfortunately, choreographic programs require that all components are programmed at the same time, preventing the use of off-the-shelf software. This project develops open choreographies: choreographies that allow codesigned components to communicate with independently designed programs. This project's novelties are the invention of open choreographies and the development of a method for expressing the protocols they expect of the non-codesigned programs. This project\u2019s impacts are allowing the development of correct distributed and concurrent systems that can integrate into standard software development workflows. This project\u2019s educational impacts include the training of PhD researchers as well as experiential learning and research opportunities through the University at Buffalo\u2019s experiential learning and research program for undergraduates.\r\n\r\nIn particular, this project develops a new session typing discipline called scheduled session types which describe the protocols of concurrent software. This session typing discipline is then used to describe how the codesigned components of a choreography interact with other components. By proving that every concurrent program that has a session type cannot have any protocol errors, we can then know that any open choreography can interact with independently designed programs without protocol errors. By synthesizing session types from a choreography, we can make this guarantee without the programmer having to understand session types. Thus, programmers can use choreographies to develop concurrent and distributed programs without fear, and without needing to understand arcane new type-theoretic techniques.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Hirsch",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew K Hirsch",
+   "pi_email_addr": "akhirsch@buffalo.edu",
+   "nsf_id": "000877219",
+   "pi_start_date": "2025-03-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lukasz",
+   "pi_last_name": "Ziarek",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lukasz Ziarek",
+   "pi_email_addr": "lziarek@buffalo.edu",
+   "nsf_id": "000627706",
+   "pi_start_date": "2025-03-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Buffalo",
+  "inst_street_address": "520 LEE ENTRANCE STE 211",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "7166452634",
+  "inst_zip_code": "142282577",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "NY26",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "GMZUKXFDJMA9",
+  "org_uei_num": "LMCJKRFW5R81"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Buffalo",
+  "perf_str_addr": "213 Capen Hall",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "142601609",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "NY26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 598636.0
+  }
+ ],
+ "por": null
+}

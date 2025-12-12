@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451156",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SCH: Deep learning-enhanced geospatial modeling for highlighting active disease transmission hotspots through accurate Human-Vector Contact Zones (HVCZ) prediction",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 174544.0,
+ "awd_amount": 174544.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "Mosquito-borne infectious diseases remains a major threat to health and prosperity across much of the world, causing nearly a quarter-billion illnesses each year. Stopping transmission of mosquito-borne diseases requires knowing exactly where infected mosquitoes and susceptible humans share the same space, yet most maps still only focus on coarser spatial scales like the villages or districts. This award integrates geospatial data like satellite imagery, population count data, and artificial intelligence (AI) to locate those high-risk micro-regions in Southern Africa. By revealing Potential Human-Vector Contact Zones (PHVCZ) that concentrate both human movement and mosquito activity, the work will guide bed-net distribution, indoor insecticide spraying, and community outreach to the places that save the most lives while reducing costs. Open-source software, training workshops, and publicly released risk maps will strengthen disease-control capacity in partner countries and provide a template for confronting other mosquito-borne threats such as dengue and Zika, thereby promoting national and global welfare.\r\n\r\nThis award develops a novel, integrated geospatial framework that applies advanced machine learning techniques to map disease-transmission risk. High-resolution satellite imagery is processed with computer-vision methods and enriched with building information, road networks, land-cover classifications, community points of interest, and population data to generate seasonally stable maps of human activity zones encompassing residential areas, farms, commercial centers, and transportation corridors. These human-activity maps are combined with weather variables and mosquito-surveillance records from research centers in Southern and Central Africa to drive computational models that simulate vector-human contact patterns. A specialized statistical approach links the predicted density of these contact zones to ten years of regional malaria data, iteratively refining model parameters until outputs mirror observed disease patterns across diverse transmission settings. Annual probability maps, open-source software tools, and comprehensive documentation will be released to equip researchers worldwide with resources for detailed mapping of vector-borne disease risk.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yao",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yao Li",
+   "pi_email_addr": "yao.li@charlotte.edu",
+   "nsf_id": "0000A0Z7D",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Carolina at Charlotte",
+  "inst_street_address": "9201 UNIVERSITY CITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTE",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "7046871888",
+  "inst_zip_code": "282230001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NC12",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
+  "org_prnt_uei_num": "NEYCH3CVBTR6",
+  "org_uei_num": "JB33DT84JNA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Carolina at Charlotte",
+  "perf_str_addr": "9201 UNIVERSITY CITY BLVD",
+  "perf_city_name": "CHARLOTTE",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "282230001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NC12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174544.0
+  }
+ ],
+ "por": null
+}

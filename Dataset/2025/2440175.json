@@ -1,0 +1,106 @@
+{
+ "awd_id": "2440175",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Computational Characterization of Reaction Mechanisms and Catalytic Microenvironments in Redox-Mediated Ammonia Electrosynthesis",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927104",
+ "po_email": "bchandle@nsf.gov",
+ "po_sign_block_name": "Bert Chandler",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 618100.0,
+ "awd_amount": 458552.0,
+ "awd_min_amd_letter_date": "2024-12-16",
+ "awd_max_amd_letter_date": "2024-12-16",
+ "awd_abstract_narration": "The manufacture of ammonia (NH3) \u2013 a key chemical used in fertilizer production - is one of the world\u2019s largest chemical processes.  Presently, almost all of the world\u2019s NH3 production is based on the Haber-Bosch (H-B) process.  The H-B process utilizes thermal energy derived from fossil fuel resources and produces carbon dioxide emissions. The project investigates a sustainable, alternative electrochemical approach to NH3 manufacture from nitrogen (N2) gas and hydrogen gas or water. The process is facilitated by a lithium-based electrolyte supported on copper (Cu).  Key mechanistic aspects occur in a layer that forms on the copper. The reactions occur on a short time scale in a complex chemical environment. It is difficult to study this reaction. The project focuses on first-principles calculations and artificial intelligence (AI) to identify key steps in the reaction.  Integration of the research and educational/outreach activities will be achieved through a Computation and Catalysis (ComCatalysis) program, which includes a 5-hour workshop and multiple summer research internship opportunities for high school students in the Greater Boston area.\r\n \r\nThe project focuses on the lithium-mediated nitrogen reduction reaction (Li-NRR) in nonaqueous electrolytes to advance ammonia electrosynthesis using multi-faceted electronic structure theory simulations, including density functional theory (DFT), embedded correlated wavefunction theory (ECW), ab initio molecular dynamics (AIMD), and active machine learning.  Specifically, the study will advance Li-NRR by 1) computationally characterizing microenvironments of the SEI, formed from reductive electrolyte decomposition on the cathode to provide active sites for nitrogen activation and reduction, 2) elucidating reaction mechanisms of Li-NRR in the nonaqueous electrolyte via rigorous kinetics prediction using ECW, and 3) understanding synergy between the electrolyte and electrode in controlling Li-NRR activity towards optimizing ammonia electrosynthesis performance. The emerging theoretical predictions will be validated through collaboration with an experimental partner at the California Institute of Technology. Expected outcomes include: 1) rationalization of morphology, composition, and dynamic formation/evolution of the SEI in Li-NRR, 2) identification of the reaction pathway, active sites, and the rate-limiting step of Li-NRR, and 3) optimization strategies to improve Li-NRR efficiency through tuning electrolytes and electrodes. The computational modeling protocols developed in the project have potential to advance theory development in heterogeneous catalysis and can be extended to understand fundamentals of many electrocatalytic systems, including CO2 mitigation and conversion, water electrolysis, and hydrogen fuel generation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qing",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qing Zhao",
+   "pi_email_addr": "q.zhao@northeastern.edu",
+   "nsf_id": "000892088",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140100",
+   "pgm_ele_name": "Catalysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 458552.0
+  }
+ ],
+ "por": null
+}

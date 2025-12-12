@@ -1,0 +1,102 @@
+{
+ "awd_id": "2450513",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII:III: AI-Driven Modeling of Protein Secondary Structures in Medium-Resolution Cryo-EM Map Combining Structure Fitting Scores with Curriculum Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 174984.0,
+ "awd_amount": 174984.0,
+ "awd_min_amd_letter_date": "2025-06-18",
+ "awd_max_amd_letter_date": "2025-06-18",
+ "awd_abstract_narration": "The geometry of protein structures is crucial for understanding diseases and developing effective treatments. A protein's shape determines how it interacts within the body, and this knowledge is critical for drug development. Recent breakthroughs in cryo-electron microscopy (cryo-EM) have allowed scientists to capture detailed images of proteins in their natural state. These images capture the structure of the sample and facilitate the study of the structures in their natural state. In practice though, many of the obtained protein images are of medium resolution and pose challenges to the study of protein\u2019s secondary structure. To address this weakness in existing microscopy, this research aims to develop a new artificial intelligence (AI)-based computational framework that leverages advanced image processing and deep learning techniques to improve the accuracy of modeling protein structures from medium-resolution images. This novel method will combine static quality information with adaptive learning strategies so that the new model will enhance its ability to fully capture structural features of proteins even when the data are from medium-quality images. \r\n\r\n\r\nStructural inconsistencies in protein secondary structures in cryo-EM images pose challenges for their accurate determination. The project will first focus on characterizing these inconsistencies and variability. It will then integrate this understanding into the design of effective strategies to address variations in structural quality and shape geometry with a machine learning-based semantic segmentation model.  The research will employ curriculum learning strategies where models are trained with increasing levels of difficulty for semi-optimal situations when global optimum is difficult to obtain. The method integrates dynamic curriculum learning strategies into advanced semantic segmentation-based deep learning architectures to enhance the modeling of secondary structures. By combining static quality information with adaptive learning strategies, the model will enhance its ability to capture structural features of varying complexity and geometry.\r\nThis research will enable improved modeling of protein secondary structures by addressing structural inconsistencies observed in medium-resolution cryo-EM data.  The advances in better understanding of protein functions will aid drug design algorithms.  The research will produce a set of open-source tools to facilitate the widespread adoption of these methods.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Salim",
+   "pi_last_name": "Sazzed",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Salim Sazzed",
+   "pi_email_addr": "ssazzed@georgiasouthern.edu",
+   "nsf_id": "0000A0SH1",
+   "pi_start_date": "2025-06-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Southern University Research and Service Foundation, Inc",
+  "inst_street_address": "261 FOREST DR STE 3000",
+  "inst_street_address_2": "",
+  "inst_city_name": "STATESBORO",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "9124785465",
+  "inst_zip_code": "304586724",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "GA12",
+  "org_lgl_bus_name": "GEORGIA SOUTHERN UNIVERSITY RESEARCH & SERVICE FOUNDATION INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "FL4AUYLFP7E8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Southern University Research and Service Foundation, Inc",
+  "perf_str_addr": "261 FOREST DR",
+  "perf_city_name": "STATESBORO",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "304586724",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "GA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174984.0
+  }
+ ],
+ "por": null
+}

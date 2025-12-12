@@ -1,0 +1,105 @@
+{
+ "awd_id": "2434502",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Optimizing Power Distribution Grids on a Data and Computational Budget",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 409927.0,
+ "awd_amount": 409927.0,
+ "awd_min_amd_letter_date": "2025-04-02",
+ "awd_max_amd_letter_date": "2025-04-02",
+ "awd_abstract_narration": "This project aims to develop novel algorithmic solutions to advance the optimal scheduling of distributed energy resources (DERs) in power distribution grids. The project will bring potentially transformative changes in real-time DER orchestration as the proposed solutions waive low-observability challenges in distribution grids and unlock the full potential of DERs controlled by machine learning (ML) models. These two goals are achieved by identifying the most critical data streams for orchestrating DERs in real time and by integrating ML models into grid scheduling. Regarding intellectual merits, this project: i) introduces feature selection into grid optimization, ii) leverages contemporary differentiation tools, iii) develops algorithms for grid optimization using generalized load models; and iv) draws parallels between grid optimization and empirical risk minimization. Regarding broader impacts, this project: i) explores converging ideas at the intersection of power systems, optimization, and ML, which could bring potentially significant technological innovation in the power industry ecosystem; ii) advances knowledge in sensitivity analysis, feature selection for optimization and control, and resilience against data attacks to optimization input parameters; and iii) reaches out to undergraduate students through hands-on activities, seminars, and discussions on career opportunities in STEM.\r\n\r\nOptimally scheduling distributed energy resources (DERs) in distribution grids entails communicating with thousands of customers in near real-time to read load demands and pass them as input data to the optimal power flow (OPF) problem. At the same time, DERs increasingly deviate from traditional constant-power models as their injections are specified by data-driven control rules or policies, which often give rise to dynamics by interacting with the power grid. In this context, this project aspires to develop OPF formulations that are data-frugal and seamlessly accommodate grid-adaptive power injection models for DERs. The particular objectives of the projects are to: 1) Reduce data communication for a grid operator to orchestrate DERs, by strategically identifying subsets of customer or grid meters that are most influential in making effective OPF decisions; 2) Use machine learning tools to transform distilled data so that when fed into the OPF, they yield near-optimal near-feasible decisions; 3) Expedite the calculation of sensitivities (partial derivatives) for the inverse power flow (PF) mapping and equilibrium states under DER-induced grid dynamics; and 4) Devise novel algorithms for solving the OPF under generalized power injection models, when convex relaxations are deemed inadequate.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vassilis",
+   "pi_last_name": "Kekatos",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vassilis Kekatos",
+   "pi_email_addr": "kekatos@purdue.edu",
+   "nsf_id": "000671701",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Junjie",
+   "pi_last_name": "Qin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Junjie Qin",
+   "pi_email_addr": "jq@purdue.edu",
+   "nsf_id": "000923989",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 409927.0
+  }
+ ],
+ "por": null
+}

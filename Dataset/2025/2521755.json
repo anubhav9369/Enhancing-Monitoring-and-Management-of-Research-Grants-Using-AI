@@ -1,0 +1,106 @@
+{
+ "awd_id": "2521755",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NCS-FO: Characterization and Decoding of Cortical Oscillatory Dynamics of Complex Hand Function",
+ "cfda_num": "47.070, 47.075",
+ "org_code": "04040000",
+ "po_phone": "7032924502",
+ "po_email": "dkravitz@nsf.gov",
+ "po_sign_block_name": "Dwight Kravitz",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 983513.0,
+ "awd_amount": 697176.0,
+ "awd_min_amd_letter_date": "2025-04-01",
+ "awd_max_amd_letter_date": "2025-04-01",
+ "awd_abstract_narration": "In daily life, people grasp and hold an object with their hands, such as a hammer or an egg, frequently and dexterously. These tasks require different levels of steady grasp force and exert different sensations on the fingers and palm. This raises questions of how the brain regulates sustained grasp force and processes sensory input from different parts of the hand. This project will investigate cortical oscillations using high-density electrode grids while human subjects perform sustained hand grasp tasks and feel tactile stimuli such as touch and vibration. Novel computational algorithms will be developed and applied to the neural data to predict the produced grasp force and differentiate tactile inputs to the hand. This project will provide novel knowledge regarding the organization of sensorimotor cortex activity in relation to grasp force and tactile sensations. Brain regions that show unique activity in response to touch and vibration will then be stimulated with electrical pulses to elicit artificial sensations. Insights gained from this project will play a critical role in the development of closed-loop neuroprosthetics that can replicate natural hand function.\r\n\r\nDespite considerable progress regarding our understanding of the neural bases of sensorimotor behavior, there is very limited knowledge about the neural dynamics of sensory and motor cortical circuits during the generation of sustained complex hand function, such as grasping and tactile exploration, which are essential for common daily activities. A better understanding of the spatio-temporal neural dynamics associated with sustained complex hand movements and somatosensory processing is a necessary requirement for the construction of more efficient closed-loop neuroprosthetics. Utilizing advanced electrode technology, this project will record cortical activity with high-density electrocorticography (ECoG) grids, then decode multichannel data with computational intelligence for the identification of oscillatory patterns of the sensorimotor cortex during the execution of sustained hand grasp function. The high-density ECoG grids will provide recordings of brain activity across a large cortical space and with sub-centimeter resolution. Simultaneously, tactile sensory inputs--such as vibration and touch--will be delivered to different fingers and palm. The project will examine to what extent the cortical oscillations can be used to predict the produced grasp force and distinguish between different prolonged somatosensory inputs to the hand. The project will also develop a real-time system for the mapping cortical activations online, then stimulate cortical regions using channel suites and temporal patterns mimicking the ECoG modulations using a computer-in-the-loop system. The project will integrate neuroscience, neurosurgery and biomedical engineering expertise, to uncover spatio-spectral dynamics of somatosensory and motor cortical oscillations, and decode these patterns for the control of closed-loop hand neuroprosthetics. Outcomes will enable the design and development of neuroprosthetics more akin to the natural function of the hand.\r\n\r\nThis project is funded by Integrative Strategies for Understanding Neural and Cognitive Systems (NCS), a multidisciplinary program jointly supported by the Directorates for Biology (BIO), Computer and Information Science and Engineering (CISE), Education and Human Resources (EHR), Engineering (ENG), and Social, Behavioral, and Economic Sciences (SBE).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nuri",
+   "pi_last_name": "Ince",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nuri F Ince",
+   "pi_email_addr": "ince.nuri@mayo.edu",
+   "nsf_id": "000643495",
+   "pi_start_date": "2025-04-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Mayo Clinic Rochester",
+  "inst_street_address": "200 1ST ST SW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "5072844715",
+  "inst_zip_code": "559050001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MN01",
+  "org_lgl_bus_name": "MAYO CLINIC",
+  "org_prnt_uei_num": "T2NLSKHGK873",
+  "org_uei_num": "Y2K4F9RPRRG7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Mayo Clinic Rochester",
+  "perf_str_addr": "200 1ST ST SW",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "559050001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MN01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "862400",
+   "pgm_ele_name": "IntgStrat Undst Neurl&Cogn Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8089",
+   "pgm_ref_txt": "Understanding the Brain/Cognitive Scienc"
+  },
+  {
+   "pgm_ref_code": "8091",
+   "pgm_ref_txt": "BRAIN Initiative Res Support"
+  },
+  {
+   "pgm_ref_code": "8551",
+   "pgm_ref_txt": "IntgStrat Undst Neurl&Cogn Sys"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 697175.0
+  }
+ ],
+ "por": null
+}

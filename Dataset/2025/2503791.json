@@ -1,0 +1,98 @@
+{
+ "awd_id": "2503791",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Advanced Technologies to Enhance Aviation Safety in Airports without Air Traffic Control Towers",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928848",
+ "po_email": "lportnoy@nsf.gov",
+ "po_sign_block_name": "Lindsay Portnoy",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 304695.0,
+ "awd_amount": 304695.0,
+ "awd_min_amd_letter_date": "2025-05-23",
+ "awd_max_amd_letter_date": "2025-05-23",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is the reduction of mid-air collisions and near-miss incidents at airports that do not have air traffic control (ATC) services. Of the 20,000 airports in the U.S., only 500 are supported by ATC, leaving over 90% of airports without coordinated traffic separation. Each year, 15 to 25 mid-air collisions occur\u2014most of them fatal\u2014and many more near-misses go unreported. This project addresses that risk by developing a low-cost, tablet-based system that predicts aircraft maneuvers in high-risk airspace near airports. This innovation leverages advances in machine learning and aviation data analytics to enhance predictive accuracy, situating it in the field of aeronautical systems and human-machine interaction. The product will initially serve the general aviation market, targeting the 500,000 U.S. pilots who fly single-pilot aircraft. The value proposition lies in offering real-time, predictive situational awareness without requiring ground infrastructure. This creates a durable competitive advantage by filling a critical safety gap with a standalone, affordable solution. The company\u2019s business model is based on a monthly or annual software subscription. By year three, the system aims to serve over 50,000 pilots, with success measured by adoption rates, incident reduction, and improved safety reporting metrics.\r\n\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project aims to develop and validate predictive algorithms for aircraft maneuvering within the airport environment, where existing traffic avoidance systems are significantly less effective. Current systems rely on ADS-B (Automatic Dependent Surveillance\u2013Broadcast) data, using real-time GPS positions to extrapolate future aircraft trajectories based on current velocity and heading. While sufficient for enroute scenarios, this method fails in the airport environment due to frequent, nonlinear maneuvers required for takeoff, landing, and taxiing. The proposed research will leverage physics-based modeling and path prediction algorithms to generate probabilistic 4D trajectories (longitude, latitude, altitude, and time) independent of adherence to FAA-recommended visual traffic patterns, which are often not followed consistently at the 97% of U.S. airports lacking air traffic control. The research will use historical ADS-B data to train and tune the model, followed by real-time testing using live broadcast data. Performance metrics will include spatial and temporal prediction accuracy, as well as system efficacy in forecasting and mitigating potential mid-air conflicts. The anticipated outcome is a validated predictive model capable of delivering earlier and more accurate alerts to general aviation pilots, increasing safety near uncontrolled airports and advancing state-of-the-art predictive analytics in aviation safety systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "rothschild",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles rothschild",
+   "pi_email_addr": "charles@digitcpilot.com",
+   "nsf_id": "0000A1DV3",
+   "pi_start_date": "2025-05-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "DIGITAL COPILOT, INC.",
+  "inst_street_address": "7 GREEN ACRES LN",
+  "inst_street_address_2": "",
+  "inst_city_name": "WHITE PLAINS",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "4089109684",
+  "inst_zip_code": "106072705",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "NY16",
+  "org_lgl_bus_name": "DIGITAL COPILOT, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Y53LWXRCNAB3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "DIGITAL COPILOT, INC.",
+  "perf_str_addr": "7 GREEN ACRES LN",
+  "perf_city_name": "WHITE PLAINS",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "106072705",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "NY16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1654",
+   "pgm_ref_txt": "HUMAN COMPUTER INTERFACE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304695.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2430717",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAS: A novel machine learning-assisted materials design cycle for bio-based thermosets",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924644",
+ "po_email": "dsavin@nsf.gov",
+ "po_sign_block_name": "Daniel Savin",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 380824.0,
+ "awd_amount": 380824.0,
+ "awd_min_amd_letter_date": "2025-05-23",
+ "awd_max_amd_letter_date": "2025-05-23",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY:\r\n\r\nCreating new materials with designer properties is critical for the advancement of science and our way of life. From a materials perspective, it is challenging to predict how a monomer structure will ultimately yield desirable material properties. On a biological side, it is possible to rewire the metabolism of cells to expand the repertoire of bio-based material building blocks. These new building blocks can unlock new materials that may be otherwise unfeasible. This proposal addresses the challenge of designing novel bio-based materials by enabling high-throughput characterization enhanced by Machine Learning (ML). Integrating ML and mechanistic model data is critical for establishing materials design criteria. Through a unique cycle, we can create, build, characterize, and understand the monomer-polymer function relationship for a specific class of microbial oil-derived polymers. Ultimately, this approach allows for the prediction of ideal starting molecules to produce desired materials properties. The proposed studies are significant since they address an unmet need in the field to develop a sustainable approach for materials production. Major outcomes of this work include: (1) high-throughput monomer production, (2) extensive materials preparation and characterization, and (3) data-driven models for predicting polymer properties. The outcomes of this work will have the broader impact of creating novel, sustainable processes for materials, as well as providing a deep understanding of materials design principles. Additionally, this collaborative research between Georgia Southern University and The University of Texas at Austin allows students to be exposed to a unique cross-over between genetic engineering, organic chemistry, and materials science not traditionally offered at the participating institutions. Student participation will demonstrate to the future generation of young scientists that positive, impactful, scientific advancement requires the combination of efforts from diverse fields. Through the incorporation of undergraduate students, their participation in an intense Summer program, and expansion of our ongoing collaboration with 3 local Schools (including the Deaf population), this work also has the broader impact of increasing interest in STEM fields, especially in underrepresented groups in the sciences.\r\n\r\nTECHNICAL SUMMARY:\r\n\r\nThe proposed research aims to utilize an interlinked set of closed loop biological and material-design cycles whereby the cycle encompasses a Design-Build-Test-Synthesize-Measure-Model-Analyze paradigm. We have selected microbial-produced triglycerides with varied fatty acid chains as ideal candidates to test this approach given the great chemical diversity possible within these molecules. Polyunsaturated triglycerides can undergo free radical co-polymerization to yield thermosets. Chemical diversity is obtained by producing modified cells and allowing for high-producing, parallel bioprocessing to obtain bio-based monomers. Upon polymerization and characterization, data-driven modeling is used to link monomer chemical composition to the materials\u2019 glass transition temperature, crosslink density, and storage modulus. This information is used to train an algorithm via ML. Combining material sciences, synthetic biology, and ML allows for a thorough investigation of combinatorial effects and holds potential for a paradigm shift in bio-based materials design. The proposed approach aims at achieving bio-based materials with crosslink densities higher than 77.7 x 10-4 mol/cm3, Tg higher than 85 \u02daC, and storage moduli in the rubbery plateau higher than 2.2 GPa, as this will allow for unprecedented material performance from triglyceride-based co-polymers. These materials are suitable for applications in thermal insulation for the automotive and aerospace industries. The outcomes of this work will have the broader impact of creating novel, sustainable processes for materials, as well as providing a deep understanding of materials design principles. This collaborative research between Georgia Southern University and the University of Texas at Austin incorporates undergraduate students, offers an intense Professional Development Summer program, and expands ongoing collaborations with 3 local Schools (including the Deaf population). This work also has the broader impact of increasing interest in STEM fields, especially in underrepresented groups in the sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hal",
+   "pi_last_name": "Alper",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hal Alper",
+   "pi_email_addr": "halper@che.utexas.edu",
+   "nsf_id": "000501431",
+   "pi_start_date": "2025-05-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "762300",
+   "pgm_ele_name": "BIOMATERIALS PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "7573",
+   "pgm_ref_txt": "BIO-RELATED MATERIALS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "1711",
+   "pgm_ref_txt": "MATERIALS EDUCATION AND RESEARCH"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "9177",
+   "pgm_ref_txt": "ELEMENTARY/SECONDARY EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 380824.0
+  }
+ ],
+ "por": null
+}

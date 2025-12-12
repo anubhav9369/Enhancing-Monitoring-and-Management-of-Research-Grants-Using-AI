@@ -1,0 +1,110 @@
+{
+ "awd_id": "2441458",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Multi-scale retrophylogenomics -- From theory to practice",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922232",
+ "po_email": "sdraghic@nsf.gov",
+ "po_sign_block_name": "Sorin Draghici",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 599510.0,
+ "awd_amount": 348145.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Information about the evolutionary relationships between species and populations is critical for many biological analyses. For example, evolutionary trees and networks are commonly used to study the evolution and genetic basis of traits, with applications in fields ranging from medicine to agriculture and conservation. Despite significant progress over the past decade, many important parts of evolutionary history remain unresolved or are subject to debate. An opportunity to address these open questions has recently emerged. Technological advances have led to more complete and high quality genome assemblies than was previously possible, even resolving highly repetitive regions, like the 30-50% of vertebrate genomes made up of retrotransposons--DNA sequences that when active can copy-paste themselves to new locations. This development is significant because retrotransposons are major drivers of genome expansion and innovation--and their presence or absence at related positions across the genomes of different species are powerful markers of evolution. However, new computational methods are needed that leverage retrotransposon data for species tree and network reconstruction, an emerging field called retrophylogenomics. Only a few methods have been developed to date, but they are based on simple models that do not reflect retrotransposon dynamics. This project will address such challenges, building the computational infrastructure needed for fast and accurate evolutionary analyses of retrotransposons. This research will be integrated with an education plan to provide hands-on research and training opportunities in interdisciplinary computing and data science for undergraduate and graduate students. The software tools and curated data sets from this project will be incorporated into outreach for middle and high school students, connecting computing fundamentals with scientific discovery.\r\n\r\nThe objective of this project is to address the core algorithmic and statistical barriers to retrophylogenomics, an emerging field concerned with leveraging retrotransposons to understand the evolution of species and populations. This goal will be pursued through the following activities. (1) Development of fast and user-friendly data processing workflows for calling retrotransposon variants from whole genome alignments, alleviating the need for manual curation. (2) Development of realistic models of retrotransposon evolution, integrating knowledge of retrotransposon dynamics with evolutionary models acting on multiple scales from the species/population-level to the molecular level. (3) Data simulations and model validation. (4) Design and analysis of methods for inferring species trees and networks from retrotransposons, blending statistical techniques with discrete algorithms. (5) Implementation of methods in open-source software. (6) Evaluation of method accuracy and scalability on simulated and real data. (7) Application of methods to vertebrate genomes to generate the largest catalog of retrotransposons variants, along with reconstructed species trees or networks. Graduate students will fully participate and be mentored in these activities. This project will create research opportunities for undergraduate students focused on data exploration and error detection via visualization and machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Erin",
+   "pi_last_name": "Molloy",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erin K Molloy",
+   "pi_email_addr": "ekmolloy@umd.edu",
+   "nsf_id": "000860949",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 348145.0
+  }
+ ],
+ "por": null
+}

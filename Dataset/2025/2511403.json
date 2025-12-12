@@ -1,0 +1,98 @@
+{
+ "awd_id": "2511403",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Mathematical Analysis of Identification of Nonlinear Systems",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 149999.0,
+ "awd_amount": 149999.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Complex phenomena, from the seemingly chaotic behavior of turbulent flows and inherent unpredictability in weather forecasting, to the quasi-periodic behavior of circadian rhythms and the exotic motions of fundamental biological entities such as cells and cilia, are ubiquitous. Modelling complex physical phenomena has innate practical challenges, as it is often difficult to identify the full set of mechanisms underlying their behavior. These neglected mechanisms remain latent relative to the model considered in this project, subsequently degrading its predictive capabilities. Even when the most salient mechanisms are identified, model parameters must be tuned to the application of interest, often involving incomplete or noisy observational data which, once again, leads to the presence of systemic errors. In the context of nonlinear, time-evolving systems, the state of the system is often highly sensitive to both model and observation errors. This project aims to develop techniques for identifying hidden or unknown components of models in a large class of nonlinear differential equations in the presence of sparse or noisy data, especially those related to fluid flows, turbulence, and weather prediction. This project will also provide mentorship opportunities for both undergraduate and graduate students in fundamental mathematics and its applications. \r\n \r\nThis project will analyze the efficacy of various algorithms that dynamically identify latent model components through the integration of observational data. These approaches will also be extended to post-processing numerical approximations in the presence of model errors by leveraging modern data-driven methods, including physics-informed neural networks. The algorithms considered in this project typically leverage the availability of observations through linear or nonlinear feedback controllers. These serve to dynamically reconstruct the unobserved state and model components simultaneously, or they exploit the availability of a computationally tractable functional dependence of high-dimensional behavior on low-dimensional dynamics. An overarching goal of the project is then to determine computationally verifiable conditions under which these algorithms are either guaranteed to reconstruct the unknown components of the model or else quantify the extent to which they are able to do so. Ultimately, the project seeks to broaden our theoretical understanding of model identification by providing rigorous, quantitative insight to the manner in which observations can be systematically processed to reconstruct latent model components.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vincent",
+   "pi_last_name": "Martinez",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vincent R Martinez",
+   "pi_email_addr": "vrmartinez@hunter.cuny.edu",
+   "nsf_id": "000678376",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "CUNY Hunter College",
+  "inst_street_address": "695 PARK AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2127724020",
+  "inst_zip_code": "100655024",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NY12",
+  "org_lgl_bus_name": "RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EK93EZLLBSC4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "CUNY Hunter College",
+  "perf_str_addr": "695 PARK AVE",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100655024",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NY12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149999.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2513276",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Formal Verification For Quantum Software: 1,000 Qubits and Beyond",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927049",
+ "po_email": "ebehrman@nsf.gov",
+ "po_sign_block_name": "Elizabeth Behrman",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2027-01-31",
+ "tot_intn_awd_amt": 119159.0,
+ "awd_amount": 119159.0,
+ "awd_min_amd_letter_date": "2024-12-26",
+ "awd_max_amd_letter_date": "2024-12-26",
+ "awd_abstract_narration": "Quantum computing offers the potential for exponential speedup in solving complex problems, such as optimization, cryptography, and simulation, by leveraging quantum superposition and entanglement to process vast amounts of information simultaneously. Many applications of quantum computing are safety-critical and security-critical, i.e., errors or security breaches in quantum software can lead to catastrophic failures and/or harm of human life. The goal of this project is to develop scalable formal verification methods for quantum software. Formal verification provides a rigorous mathematical framework to prove that quantum programs behave as intended under all possible conditions, which is especially important given the difficulty of detecting and correcting quantum errors through traditional testing methods. The significance of this project lies in developing scalable formal verification methods for quantum software to ensure the correctness and reliability of safety-critical and security-critical quantum applications, where errors or vulnerabilities could lead to catastrophic outcomes. Success will be extremely beneficial as it will be an important step towards widespread utility of quantum computers. The project will also benefit students in North Dakota, a geographically underrepresented area in computing and quantum information science and engineering. \r\n\r\nThe significant challenge in verifying quantum software is that quantum operations are modeled in Hilbert space (complex vector space), and existing verification tools are not very scalable for Hilbert space. Our central hypothesis is that abstractions can be used to reduce the verification problem from Hilbert space to bit-vector space, for which verification tools are orders-of-magnitude more efficient and scalable. This hypothesis is based on preliminary investigation with two abstractions: (1) rotational abstraction that exploits the rotational behavior of quantum operations; and (2) superposition abstraction that abstracts the superposition behavior of quantum programs. The goals of the project are to generalize rotational and superposition abstraction, develop a unified abstraction framework that incorporates both, develop algorithms and tooling to apply the abstractions automatically, and study the applicability of the abstractions to implementations of many quantum algorithms that have potential for real-world applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sudarshan",
+   "pi_last_name": "Srinivasan",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sudarshan K Srinivasan",
+   "pi_email_addr": "sudarshan.srinivasan@ndsu.edu",
+   "nsf_id": "000503857",
+   "pi_start_date": "2024-12-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Dakota State University Fargo",
+  "inst_street_address": "1340 ADMINISTRATION AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "FARGO",
+  "inst_state_code": "ND",
+  "inst_state_name": "North Dakota",
+  "inst_phone_num": "7012318045",
+  "inst_zip_code": "58105",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "ND00",
+  "org_lgl_bus_name": "NORTH DAKOTA STATE UNIVERSITY",
+  "org_prnt_uei_num": "EZ4WPGRE1RD5",
+  "org_uei_num": "EZ4WPGRE1RD5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Dakota State University Fargo",
+  "perf_str_addr": "1301 12TH AVE N",
+  "perf_city_name": "FARGO",
+  "perf_st_code": "ND",
+  "perf_st_name": "North Dakota",
+  "perf_zip_code": "58102",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "ND00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7928",
+   "pgm_ref_txt": "QUANTUM COMPUTING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 119159.0
+  }
+ ],
+ "por": null
+}

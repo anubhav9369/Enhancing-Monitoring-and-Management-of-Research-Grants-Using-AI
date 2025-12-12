@@ -1,0 +1,110 @@
+{
+ "awd_id": "2501978",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Effectively Deploying Large AI Models to Edge Systems via Activation Sparsity Compression",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 199324.0,
+ "awd_amount": 199324.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Deploying large AI/ML models on edge devices offers enormous benefits. These benefits include reducing the computational load on supercomputers and data centers, lowering application response time, enhancing data privacy, and elevating device intelligence capabilities. However, due to the limited computing resources of edge devices, running large-scale AI models directly on them presents significant challenges. To tackle these challenges, researchers frequently employ compression techniques to create smaller and more efficient models while preserving accuracy. In contrast to traditional AI compression techniques such as quantization, pruning, and knowledge distillation, this project introduces a novel technique called \"Predictor to Prefetcher\" (P2P), which leverages patterns of activation sparsity within large AI models.  This new P2P approach can be directly integrated with existing techniques to ensure the AI model compression is more effective and efficient. Moreover, our P2P compression approach enhances AI processing capabilities for edge devices, making our existing system infrastructures more scalable and sustainable. This innovation expands the knowledge in AI science and education, which is crucial for supporting the ongoing growth of large AI models and maintaining the United States' leadership in AI technology.\r\n\r\nThis project will design, implement, and verify a novel large AI model compression technique via activation sparsity. We begin by analyzing the predictability of Feed-Forward Networks (FFN) activation patterns within recent large AI models. We will design a lightweight, dictionary-based pattern predictor based on pattern clustering to verify predictability. Next, we design and implement the \"Predictor to Prefetcher\" (P2P) module, which enables the system to prefetch only the activated weights, excluding inactive ones from the main memory, thereby compressing the model from a memory perspective. Additionally, we will investigate the feasibility of building a device-end predictor using a tiny machine learning model, such as a Multilayer Perceptron (MLP), which offers system designers another option to balance different trade-offs. Finally, we will extend our P2P approach to Large Vision Models (LVMs) and Large Multimodal Models (LMMs). As part of this project, we will also create an open-source, architecture-level simulator to assess the effectiveness of the P2P approach in reducing cache/memory pollution and decreasing execution times for cutting-edge large AI models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bobin",
+   "pi_last_name": "Deng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bobin Deng",
+   "pi_email_addr": "bdeng2@kennesaw.edu",
+   "nsf_id": "000887868",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kennesaw State University Research and Service Foundation",
+  "inst_street_address": "1000 CHASTAIN RD NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "KENNESAW",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4705786381",
+  "inst_zip_code": "301445588",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "GA11",
+  "org_lgl_bus_name": "KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G8DZHNRKWTN3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kennesaw State University Research and Service Foundation",
+  "perf_str_addr": "1000 CHASTAIN RD NW",
+  "perf_city_name": "KENNESAW",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "301445588",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "GA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199324.0
+  }
+ ],
+ "por": null
+}

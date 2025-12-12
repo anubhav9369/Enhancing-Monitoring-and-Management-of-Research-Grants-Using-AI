@@ -1,0 +1,114 @@
+{
+ "awd_id": "2503754",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Boosting Radios' ReSilience to Interference by Harnessing Magnon-Phonon Coupling In the First ElectromechanicaL SpinPhonic Devices (SHIELD)",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-04-02",
+ "awd_max_amd_letter_date": "2025-04-02",
+ "awd_abstract_narration": "As 5G wireless services expand and the 6G era approaches, the American society will soon be able to leverage groundbreaking technologies to revolutionize communication, education, research, and decision-making. However, unlocking this potential requires the development of new on-chip radiofrequency (RF) systems allowing wireless transceivers to transmit data at extremely high rates even in highly congested electromagnetic environments. Therefore, new technologies are needed to enhance these wireless transceivers' resilience against electromagnetic interference (EMI). In this context, the rise of artificial intelligence (AI) and machine learning (ML) has led to new computational resources that enable the rapid detection and characterization of EMI in wireless systems. These advancements have paved the way for radio receivers (RXs) capable of suppressing EMI by activating tunable and sharp notches within the passband of their embedded bandpass filters. Among the most widely used filters in RF wireless transceivers are Aluminum Nitride (AlN) and Aluminum Scandium Nitride (AlScN) bandpass filters. Their popularity stems from their low loss, high out-of-band rejection, and compatibility with manufacturing processes used for integrated circuits in consumer electronics. However, current AlN and AlScN filters cannot activate tunable and sharp notches within their passband without suffering severe performance degradation, strong signal distortion, and a significant reduction in spectral efficiency. Additionally, these filters are unable to achieve fractional bandwidths of 10% or higher, which is a major challenge for their application in future 5G and 6G wireless transceivers. This project will leverage our interdisciplinary expertise in micro- and nanofabrication, spintronics, and microwave acoustics to develop SpinPhonic -- the first AlScN microelectromechanical RF bandpass filter capable of activating widely tunable and sharp notches within its passband for effective EMI suppression. \r\n\r\nThe new SpinPhonic technology will achieve the widest fractional bandwidth ever reported for AlScN filters by leveraging the unique acoustic properties of phononic crystals (PnCs). Additionally, it will harness novel dynamical interactions between magnetic and mechanical degrees of freedom to activate exceptionally sharp notches for EMI suppression. These notches will attenuate EMI by more than 40 dB through magnon-phonon coupling in a ferromagnetic film heterogeneously integrated with the AlScN layer. This attenuation will be highly frequency-selective, minimizing disruptions to other RF communication channels at unaffected frequencies. Furthermore, SpinPhonic's notches will be tunable through changes of an external magnetic field, offering a fractional tuning range of their center frequency exceeding 10% and an average magnetic tuning sensitivity two orders of magnitude higher than that of current state-of-the-art magnetically tunable counterparts. Integrating SpinPhonic into future RXs will enable reduction of bit-error rates by two orders of magnitude in EMI-affected RF wireless transceivers, allowing the use of higher data rates for transmitting larger volumes of information. The project team will collaborate with the STEM education and workforce development program at Northeastern University to organize on-campus education activities involving K-12 students, community colleges, and local schools, with a focus on enhancing STEM engagement.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cristian",
+   "pi_last_name": "Cassella",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cristian Cassella",
+   "pi_email_addr": "c.cassella@northeastern.edu",
+   "nsf_id": "000744280",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Xufeng",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xufeng Zhang",
+   "pi_email_addr": "xu.zhang@northeastern.edu",
+   "nsf_id": "000905194",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

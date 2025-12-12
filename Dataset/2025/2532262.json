@@ -1,0 +1,130 @@
+{
+ "awd_id": "2532262",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Bidirectional Consensus-Seeking Human-Automation Interactions in Traffic Environments",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927557",
+ "po_email": "amedinab@nsf.gov",
+ "po_sign_block_name": "Alexandra Medina-Borja",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 700000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "Many vehicles today feature automation to assist or replace human drivers, but fully autonomous systems requiring minimal human input are still years away. As a result, human drivers and automated vehicles (AVs) frequently interact, leading to driver interventions. While most research focuses on over-reliance on AVs, this project supports research that attempts to address a different issue: driver-initiated takeovers, which occur when AV behavior does not match driver preferences. Although these takeovers are rarely safety-critical, they reduce the benefits of AVs in improving traffic flow. This project aims to improve the interaction between human drivers, AVs, and traffic systems by exploring how human preferences shape driving behavior and traffic dynamics. The challenge is understanding how these preferences interact with AVs and the broader traffic system. If AVs align too closely with human preferences, it can lead to inefficiencies, while focusing solely on traffic flow may result in unnecessary interventions. The goal is to find a balance where AVs guide driver behavior to improve traffic outcomes without sacrificing individual needs. The project looks to introduce the concept of bidirectional preference shaping, where AVs influence driver behavior to foster safer and more efficient driving. This approach differs from traditional systems that merely replicate human habits, which can be inefficient and unsafe. The results could improve national mobility, safety, and economic competitiveness.\r\n\r\nThis project looks to investigate bidirectional influence in sensorimotor interactions across human drivers, AVs, and traffic systems. Alignment translates micro-level human preferences into actions that scale up to macro-level traffic outcomes. Complete alignment with human preferences risks traffic inefficiency and instability, while optimizing solely for traffic flow may provoke unnecessary driver intervention. The hypothesis is that this strategic bidirectional alignment can be achieved by exploring which preferences are most malleable and consequential, and enabling AVs to shape human preferences for system-wide benefits. The proposed research comprises three research thrusts: (1) Human preference: understand and model human driver preferences and their dimensionality and malleability, (2) Alignment: align AV driving control and preferences through embodied models of human drivers, and (3) Collaborative consensus: map preferences to traffic outcomes to inform bidirectional alignment and formulate consensus to balance competing interests of human, AV, and traffic system. If successful, this project will advance the understanding of bidirectional interactions between human-automation behavior and traffic dynamics, offering broad applications in aviation, manufacturing, and other domains where individual decisions impact overall system performance. More broadly, it seeks to address the ethical and scientific challenge of aligning AI with human and societal values.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "John D Lee",
+   "pi_email_addr": "jdlee@engr.wisc.edu",
+   "nsf_id": "000592954",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Soyoung",
+   "pi_last_name": "Ahn",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Soyoung Ahn",
+   "pi_email_addr": "sue.ahn@wisc.edu",
+   "nsf_id": "000324555",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Anthony",
+   "pi_last_name": "McDonald",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anthony D McDonald",
+   "pi_email_addr": "admcdonald@wisc.edu",
+   "nsf_id": "000784835",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "058Y00",
+   "pgm_ele_name": "M3X - Mind, Machine, and Motor"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7632",
+   "pgm_ref_txt": "HUMAN-ROBOT INTERACTION"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 700000.0
+  }
+ ],
+ "por": null
+}

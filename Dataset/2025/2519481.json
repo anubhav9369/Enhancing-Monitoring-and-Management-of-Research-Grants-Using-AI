@@ -1,0 +1,102 @@
+{
+ "awd_id": "2519481",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CyberTraining: Pilot: iVirus: Advancing AI-driven Viral Ecology through training in Cyberinfrastructure and High-Performance Computing",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 105635.0,
+ "awd_amount": 105635.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "Viruses are the most abundant biological entities on Earth, infecting all major categories of life. To study viruses, the viral genomics community has generated enormous amounts of scientific data through advanced gene sequencing and other techniques. Exploring and extracting scientific insights from data of this size is challenging and requires accessible training  that can teach the research community how to use the advanced computational tools and infrastructure needed for research. At the same time, the rapid development of novel algorithms and Artificial Intelligence-driven methods for analyzing this data outpaces current training opportunities, both for scientists who use computational infrastructure and for the research computing professionals who design and maintain these systems. A critical gap exists in equipping both groups with practical skills to leverage shared, high-performance computing systems and integrate reproducible scientific processes into the nation's advanced research computing frameworks. By helping scientists use cutting-edge, AI-driven tools to understand viruses better, this project promotes the progress of scientific understanding of viruses, their interactions with their hosts, and their effects on biological systems.  The broader impacts of this research support public health, environmental understanding, and national preparedness. This work also builds a stronger research community by making training accessible to a broad range of scientists and students.\r\n\r\n\r\nThe iVirus Cyberinfrastructure (CI) Training Initiative will develop six modular, self-paced, online training resources to enable effective use and development of scalable pipelines in NSF-supported CI ecosystems. The training modules will be designed around the principles of Findable, Accessible, Interoperable, and Reusable (FAIR) software, emphasizing interactive learning, reproducibility, evolvability, and sustainable design. The modules will be open-source, portable across CI platforms, and designed to meet the diverse needs of researchers and developers working in viral ecology. Training content will be developed through a unified pipeline that includes (1) interactive instructional design, (2) modular training components, (3) expert input and curated test datasets, and (4) community engagement and dissemination. A key feature of this project is the integration of hands-on viral genomics (viromics) CI training into the annual Ohio State University Viromics Workshop, where materials will be piloted and refined through participant feedback. Together, these resources will help close the skills and knowledge gaps in viral ecology CI training, enabling a broad range of researchers and developers to accelerate discovery and innovation using NSF-supported computational resources.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bonnie",
+   "pi_last_name": "Hurwitz",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bonnie L Hurwitz",
+   "pi_email_addr": "bhurwitz@email.arizona.edu",
+   "nsf_id": "000661858",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "1657 E Helen St",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "857190001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "044Y00",
+   "pgm_ele_name": "CyberTraining - Training-based"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "122Z",
+   "pgm_ref_txt": "CI Training and Professionals"
+  },
+  {
+   "pgm_ref_code": "7361",
+   "pgm_ref_txt": "EDUCATION AND WORKFORCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 105635.0
+  }
+ ],
+ "por": null
+}

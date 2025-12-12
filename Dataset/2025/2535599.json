@@ -1,0 +1,114 @@
+{
+ "awd_id": "2535599",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: New Algorithmic Foundations for Online Scheduling",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 190473.0,
+ "awd_min_amd_letter_date": "2025-07-03",
+ "awd_max_amd_letter_date": "2025-07-03",
+ "awd_abstract_narration": "As massive low-cost computing resources become increasingly available, harnessing their power is crucial in modern science and engineering. One particular issue involves scheduling:  what is the most effective way to assign resources, say computing cycles, to tasks in order to ensure good performance?  The scheduling problem is especially acute when little to nothing is known in advance about the tasks, including when they might arrive and how much compute time they may need; in such cases, dynamic allocation of resources is required.  Over the past two decades, exciting advances in approaches for addressing these so-called on-line scheduling problems have emerged, but the field is still struggling to address the increasingly challenging scheduling environments found in modern computing clusters.  This project aims to develop new methods to design and analyze online scheduling algorithms systematically with the aid of widely used optimization techniques, and as a result to potentially resolve some key open questions in online scheduling.  The research findings will likely provide an alternative method of educating students on scheduling in a broad context, which will have a significant impact on the computer science curriculum. This project will also involve mentoring students and disseminating the research outcomes through workshops, writing tutorials, and developing new course materials.\r\n \r\nAt a more technical level, this project intends to investigate the effectiveness of online scheduling techniques for a variety of problems.  The project's first objective is to develop new gradient-descent methods to design and analyze online-scheduling. The second objective is to use bin-packing to study fundamental admission-control problems, and to develop new algorithmic tools when pre-emption is allowed. The third research problem to be studied involves the development of fine-grained scheduling algorithms for low-dimensional scheduling environments. Surprisingly, despite recent advances, many existing algorithms are no match even for the simplest greedy algorithms in the low-dimensional case, which is common in practice. The fourth research goal is to refine the behavior of the online algorithms as the workload approaches the system limit, which is related to fundamental questions regarding the underlying analysis models. The last goal is to explore new models for scheduling jobs with inter-dependencies by taking advantage of large-scale scheduling environments to circumvent the intractability results that are commonly found in the traditional models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sungjin",
+   "pi_last_name": "Im",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sungjin Im",
+   "pi_email_addr": "sim9@ucsc.edu",
+   "nsf_id": "000654367",
+   "pi_start_date": "2025-07-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Cruz",
+  "inst_street_address": "1156 HIGH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CRUZ",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8314595278",
+  "inst_zip_code": "950641077",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "CA19",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "VXUFPE4MCZH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Cruz",
+  "perf_str_addr": "1156 HIGH ST",
+  "perf_city_name": "SANTA CRUZ",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950641077",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "CA19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 93050.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 97423.0
+  }
+ ],
+ "por": null
+}

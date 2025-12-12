@@ -1,0 +1,134 @@
+{
+ "awd_id": "2520268",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: ASCENT: Optimal Thermal Management for Continued Scaling of 3D Heterogeneous Systems",
+ "cfda_num": "47.041, 47.084",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 1069723.0,
+ "awd_amount": 829723.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Recent advancements in Artificial Intelligence (AI) drive unprecedented innovation but face the critical challenge of escalating power consumption. The rapid expansion of AI leads to unsustainable energy use for computation and cooling, threatening its widespread adoption. While three-dimensional heterogeneous integration offers performance and energy efficiency gains through miniaturization for data-intensive AI workloads, this miniaturization simultaneously increases power density and reduces thermal conductivity. This creates severe localized hotspots that significantly degrade system performance, efficiency, and reliability, negating an estimated 40% of potential gains from each technology generation. The research team addresses this crucial barrier in AI and computing. The intellectual merits of this effort lie in an unprecedented, convergent research that integrates expertise in circuits and architectures, optimal control, and thermal transport and modeling. Advances in circuit design, thermal modeling, and control that are enabled by this research converge to realize, for the first time, a comprehensive framework for thermal management. The broader impact of this research extends beyond its potential to alleviate thermal challenges, and thus paving the way for continued technological advances in computing. By capturing the increasingly critical interactions between the computational and physical state of the system, the open-source Crucible simulation tool represents a critical framework for thermal management across a broad range of systems. Both the relevance and impact of this tool are magnified through active and continuous engagement with the semiconductor industry. This research also contributes to broader educational advancement of undergraduate and graduate courses, dissemination of results, and development of an open-source infrastructure for run-time cyber-physical system management for nationwide student use.\r\n\r\nCurrent design-time and run-time techniques for mitigating hotspots do not scale effectively to larger systems and offer limited capabilities for sensing and actuation to maintain thermal compliance. As a result, these methods are ill-suited for modern heterogeneous three-dimensional heterogeneous integration systems. There is currently no existing mechanism that can analyze or simulate these systems in a closed-loop manner, providing accurate digital-physical modeling that precisely reflects the run-time impact of controller actions on system function, performance, and thermal properties. To address this critical gap, the research team proposes run-time optimal thermal management for three-dimensional heterogeneous integration. This approach seeks to maximize a given performance objective while adhering to system-wide thermal constraints. Instead of more traditional millisecond-scale control of voltage and frequency, this project aims to achieve microsecond-scale sensing, actuation, and control circuitry. The research team will achieve this rapid response by combining a fine-grained network of thermal and load current sensors with an accurate reduced-order predictive thermal model and hierarchical model predictive control at runtime. This effort represents a novel confluence of techniques from thermal modeling, circuit design, and control. The proposed approach minimizes the need for conservative thermal margins, thus unlocking and releasing significant performance and efficiency gains with each new technology generation. A significant outcome of this research will be the creation of Crucible, a tool-agnostic simulation framework. Crucible relies on the existing capabilities of widely available switch-level simulators to jointly model both the digital and physical characteristics of the closed-loop control system at user-defined timescales. Crucible is anticipated to facilitate methodical exploration into run-time system optimization that requires integrated digital-physical modeling and control.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Visvesh",
+   "pi_last_name": "Sathe",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Visvesh S Sathe",
+   "pi_email_addr": "sathe@gatech.edu",
+   "nsf_id": "000677327",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Satish",
+   "pi_last_name": "Kumar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Satish Kumar",
+   "pi_email_addr": "satish.kumar@me.gatech.edu",
+   "nsf_id": "000527324",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133Y00",
+   "pgm_ele_name": "ASCENT-Address-Chalg-Eng-Teams"
+  },
+  {
+   "pgm_ele_code": "241Y00",
+   "pgm_ele_name": "NSF-Intel Semiconductr Partnrs"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1406",
+   "pgm_ref_txt": "THERMAL TRANSPORT PROCESSES"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "087E",
+   "pgm_ref_txt": "SENSING & CONTROL"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 829723.0
+  }
+ ],
+ "por": null
+}

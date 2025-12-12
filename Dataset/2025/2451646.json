@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451646",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: CSR: Dynamic Page Allocation for Tiered Memory Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 149832.0,
+ "awd_amount": 149832.0,
+ "awd_min_amd_letter_date": "2025-07-20",
+ "awd_max_amd_letter_date": "2025-07-20",
+ "awd_abstract_narration": "The rapid growth of data-intensive applications from artificial intelligence to real-time analytics has pushed today\u2019s computer systems to their memory limits. To keep up with this growing demand, many computing systems now use a two-tiered memory design. In this setup, a small but fast type of memory is used alongside a slower but larger and more energy-efficient memory. These systems try to improve performance by moving data between the two types of memory depending on how it is being used. However, current systems are not good at deciding where to place data when it is first created. Most use a one-size-fits-all rule that often puts the data in the wrong place to begin with, causing extra delays later when the system has to move it. This project addresses that problem by creating a more intelligent system that decides the best place for new data right from the start. This approach leads to faster and more efficient computing that helps accelerate scientific discoveries, reduces the energy consumption of cloud and edge data centers, and improves the performance of applications such as large language model training and medical imaging. In addition, the project supports the development of the nation\u2019s research workforce by providing open-source tools, integrating research into education, and offering hands-on mentoring to graduate and undergraduate students in building advanced systems using cutting-edge memory technologies.\r\n\r\nThis project develops, implements, and assesses a Dynamic Allocation Policy (DAP) for tiered memory systems. Working in coordination with existing tiering mechanisms, DAP enhances system performance by intelligently assigning each page to the most suitable memory tier at the time of allocation, reducing the need for expensive data migrations. The work proceeds in three integrated thrusts: (1) design of PAAT (Page Allocation and Access Tracing), a Linux kernel instrumentation framework that captures fine-grained page allocation and access patterns to produce detailed workload profiles; (2) development of an adaptive DAP engine that leverages PAAT\u2019s insights to continuously analyze workload behavior and tiered system characteristics, selecting the optimal allocation policy in real time; and (3) systematic evaluation of DAP\u2019s impact on performance, efficiency, and resource utilization, with empirical findings feeding back into policy refinement. Together, these contributions create a novel dynamic page allocation framework and deliver a practical, high-impact solution for emerging tiered memory architectures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adnan",
+   "pi_last_name": "Maruf",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adnan Maruf",
+   "pi_email_addr": "adnanmaruf@missouristate.edu",
+   "nsf_id": "0000A0XBB",
+   "pi_start_date": "2025-07-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Missouri State University",
+  "inst_street_address": "901 S NATIONAL AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SPRINGFIELD",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "4178365972",
+  "inst_zip_code": "658970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MO07",
+  "org_lgl_bus_name": "MISSOURI STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CL7KJX2VFHS9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Missouri State University",
+  "perf_str_addr": "901 S NATIONAL AVE",
+  "perf_city_name": "SPRINGFIELD",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "658970027",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MO07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149832.0
+  }
+ ],
+ "por": null
+}

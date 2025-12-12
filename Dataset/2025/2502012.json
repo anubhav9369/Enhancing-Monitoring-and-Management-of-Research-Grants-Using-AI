@@ -1,0 +1,114 @@
+{
+ "awd_id": "2502012",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Benchmarking the Performance of Thermal Models for Fusion-Based Metal Additive Manufacturing",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924813",
+ "po_email": "sbukkapa@nsf.gov",
+ "po_sign_block_name": "Satish Bukkapatnam",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 125000.0,
+ "awd_amount": 125000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Metal additive manufacturing (also known as 3D printing) excels at creating large and intricately shaped metal parts in small batches that would be too expensive or even infeasible to make with traditional manufacturing methods. A deep understanding of the physics of the process, especially a precise prediction of how temperatures vary over time across a part when it is printed, is needed to assure the quality of the parts and to reliably plan how to build these parts. However, the current thermal models that provide these predictions are too slow to create or too inaccurate for practical usage. While recent research efforts have led to the development of a variety of fast-running models, a systematic comparison and understanding of the tradeoffs among speed, robustness and accuracy of these models does not exist. To address this gap, this Engineering Research Initiation (ERI) project looks to conduct extensive comparison of the available models with a range of complexities and benchmark them relative to each other. While offering significant hands-on training experience to students, this effort will enable future manufacturers and researchers to choose models that are well suited for their application and thereby create better quality parts more quickly and with less wasted material. Consequently, these efforts contribute to improving the advanced manufacturing capabilities of the United States which are critical to economic and national security interests. \r\n\r\nThis work looks to compare extant part-scale thermal models of varying complexity, including semi-analytical models, finite element models, and surrogate models for performance in large-scale metal additive manufacturing applications. Experimental data for benchmarking these models will be generated using a wire arc directed energy deposition system and collected from multiple research groups across the nation. A testing set of geometries will be generated, consisting of both simple shapes such as cubes, walls, and cylinders as well as complex parts incorporating challenging areas such as overhangs. Multiple thermal simulations will be run using a range of simulation approaches to predict thermal histories within the testing geometries, as well as to compare model speed and computational cost. Experimental temperature data from high-temperature pyrometers, an infrared camera, and thermocouples will be used to evaluate model accuracy. The comparisons from this study seek to allow future researchers to understand performance of newer fast-running thermal models in a direct comparison with each other and with experimental data. Manufacturers and other end users look to be able to select models based on their computational capabilities and accuracy and speed requirements. The thermal histories generated work towards a future where part-scale material property modeling for large-scale metal additive manufacturing parts is routine and reliable.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elizabeth",
+   "pi_last_name": "Chang-Davidson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elizabeth Chang-Davidson",
+   "pi_email_addr": "echangdavids@wesleyan.edu",
+   "nsf_id": "000932954",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wesleyan University",
+  "inst_street_address": "237 HIGH ST",
+  "inst_street_address_2": "FL 3",
+  "inst_city_name": "MIDDLETOWN",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8606853683",
+  "inst_zip_code": "064593208",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "CT01",
+  "org_lgl_bus_name": "WESLEYAN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ZETJL6DKF963"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wesleyan University",
+  "perf_str_addr": "237 HIGH ST",
+  "perf_city_name": "MIDDLETOWN",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "064593208",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "CT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "088E",
+   "pgm_ref_txt": "THERMALLY DRIVEN PROCESSES"
+  },
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 125000.0
+  }
+ ],
+ "por": null
+}

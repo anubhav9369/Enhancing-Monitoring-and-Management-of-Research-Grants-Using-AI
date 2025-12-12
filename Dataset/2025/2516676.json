@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516676",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Small matrix path integral methods for quantum dynamics",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Supported by the Chemical Theory, Models and Computational Methods program in the Division of Chemistry, Nancy Makri of the University of Illinois at Urbana-Champaign is to develop accurate and efficient real-time path integral methods for simulating quantum mechanical processes in large environments. Quantum mechanics governs the interactions among electrons and nuclei, giving rise to complex and subtle dynamics that dictate the outcome of processes of immense importance to biology, energy harvest, and quantum computers. Understanding and controlling such phenomena hinges on the availability of accurate and robust simulation tools. Traditional approaches are hindered by the infamous scaling of the quantum mechanical equations, whose solution requires computational effort that increases exponentially with the number of particles. Makri\u2019s approach is based on Feynman\u2019s path integral formulation of quantum mechanics, which circumvents this issue by avoiding the explicit calculation of wave functions. However, the path integral encounters other severe computational obstacles, such as numerical instabilities and astronomical numbers of terms that must be included. Makri has developed a small matrix path integral (SMatPI) methodology that overcomes these problems in many important situations. She will further develop this approach, to increase its efficiency and make it suitable for simulating processes of increased complexity. A broader impact of this work will be the development of powerful simulation code that will enable fully quantum mechanical calculations on complex processes, such as the energy transfer involved in the early steps of photosynthesis.\r\n\r\nFor nearly three decades, the quasi-adiabatic propagator path integral (QuAPI) methodology developed by Makri and coworkers has offered an efficient, fully quantum mechanical tool for calculating the evolution of systems interacting with harmonic bath degrees of freedom. The recent development of the SMatPI algorithm eliminates the tensor storage requirements of QuAPI, extending the capabilities of quantum simulation to systems of unprecedented size interacting with long-memory environments. The proposed work will augment the SMatPI methodology with important components that will extend its applicability to systems and environments of increased complexity. These developments will advance the frontiers of theoretical chemistry, leading to new insights and establishing a closer connection between theory and experiment. This work will lead to new, powerful computer code for quantum dynamics, which will be added to the package PATHSUM recently developed by Makri and coworkers, raising the predictive power of simulation to a new level and aiding in the interpretation of experimental results. The proposed developments will thus have a broad impact spanning chemistry, physics, biology and materials research. Powerful visualization software will aid researchers and enhance the learning experience. Makri\u2019s research group benefits from cross-fertilization by students in chemistry, physics, and chemical engineering.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nancy",
+   "pi_last_name": "Makri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nancy Makri",
+   "pi_email_addr": "nmakri@illinois.edu",
+   "nsf_id": "000462579",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S Wright St",
+  "perf_city_name": "Urbana",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

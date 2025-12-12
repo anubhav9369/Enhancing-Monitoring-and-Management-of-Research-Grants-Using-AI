@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451589",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: High Data-Rate Multiple-Input Multiple-Output (MIMO) Underwater Acoustic Communications",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032925041",
+ "po_email": "vinlee@nsf.gov",
+ "po_sign_block_name": "Vincent Lee",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 304999.0,
+ "awd_amount": 304999.0,
+ "awd_min_amd_letter_date": "2025-04-01",
+ "awd_max_amd_letter_date": "2025-04-01",
+ "awd_abstract_narration": "The broader/commercial impact of this SBIR Phase I project is on ocean technologies and the blue economy. From an environmental and societal perspective, the proposed high-frequency Multiple-Input Multiple-Output (MIMO) acoustic communication technology minimizes noise pollution in marine environments, operating at frequencies outside the range of marine mammal communication, thus reducing the impact on ecosystems. The project will help develop new products that will enhance environmental monitoring capabilities, allowing researchers and agencies to gather real-time data from underwater ecosystems, improving our understanding and management of marine resources. Additionally, it will provide safer and more efficient communication for underwater rescue and military operations, reducing reliance on tethered systems. From a commercial perspective, the successful development and commercialization of this technology will position the U.S. as a leader in the underwater communication market. The innovation is expected to capture significant market share in sectors such as offshore energy, environmental monitoring, and scientific research, providing a robust alternative to existing communication systems. By reducing operational costs and improving efficiency, the product will address a growing market need and drive sustainable business growth with long-term potential for expansion into new applications and industries.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project seeks to address technical hurdles associated with real-time, high-data-rate wireless underwater communication. The current acoustic communication systems face significant limitations due to low data rates, high power consumption, and environmental impacts, particularly interference with marine life. The technical objective of this project is to develop a communication system that operates in frequencies at or above 200 kHz, enabling efficient data transmission while minimizing interference with marine mammals. The proposed acoustic communication system utilizes the MIMO technology and Turbo equalization to achieve high data rates, low power consumption, and scalable transmission over distances of up to 1 km. The research plan includes evaluating the prototypes developed in a lab setting through real-world ocean and lake experiments, reducing the computational complexity of the MIMO Turbo equalization algorithms, and validating their suitability for hardware implementation on Field Programmable Gate Arrays (FPGAs).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Junchen",
+   "pi_last_name": "Bao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Junchen Bao",
+   "pi_email_addr": "info@sea-gal-tech.com",
+   "nsf_id": "0000A0MJT",
+   "pi_start_date": "2025-04-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SEA-GAL TECHNOLOGIES, INC.",
+  "inst_street_address": "4141 ROSS RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "BETHLEHEM",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "5735788103",
+  "inst_zip_code": "180207685",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "PA07",
+  "org_lgl_bus_name": "SEA-GAL TECHNOLOGIES, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W1APQ4NPF183"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SEA-GAL TECHNOLOGIES, INC.",
+  "perf_str_addr": "4141 ROSS RD",
+  "perf_city_name": "BETHLEHEM",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "180207685",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "PA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4097",
+   "pgm_ref_txt": "NETWORKING RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304999.0
+  }
+ ],
+ "por": null
+}

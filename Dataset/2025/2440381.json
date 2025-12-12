@@ -1,0 +1,102 @@
+{
+ "awd_id": "2440381",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Temporal Learning Towards Trustworthy Decision for Healthcare",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "In healthcare machine learning (ML) models, the data characteristics can change over time. These models are trained on existing and historical data but are intended to be applied to future, unseen data for prediction.  Temporal shifts in data, labels, and patient populations may undermine confidence in the use of ML models utilization and raise concerns about their trustworthiness. Importantly, patient patterns can shift implicitly and may require extra inference from clinical notes (e.g., notes on access to insurance or education level). A massive body of research builds state-of-the-art models for healthcare; however, very little work has addressed the time-aware challenge to advance trustworthy ML for health. This project addresses these critical issues by developing novel methods to recognize and adapt to changes over time, which will enhance health decision support for all patient groups. The work will provide valuable educational opportunities for college and K-12 students and train the next-generation workforce in computational healthcare.\r\n\r\nThis project will develop a novel framework for temporal learning by treating different time periods as domains, enabling a better understanding and management of shifts in health data and patient factors (e.g., information documented in notes). The research will involve three independent and complementary threads: 1) Temporal discovery: identifies temporal effects on models and estimates the confidence with which health practitioners can rely on; 2) Temporal modeling: develops time-aware learning schema to enhance model generalizability; and 3) Long-term generalizability: contextualizing generalizability with time and shifting patient factors and thus reduce algorithmic errors. The project will test these methods on real-world clinical text data and broad health decision support, such as mental health and cancer assessment. We will share the project outcomes with broad communities (e.g., ML and health informatics) and integrate into educational activities at multiple levels, including K-12, undergraduate, and graduate programs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaolei",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaolei Huang",
+   "pi_email_addr": "xiaolei.huang@memphis.edu",
+   "nsf_id": "000845551",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Memphis",
+  "inst_street_address": "115 JOHN WILDER TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "MEMPHIS",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "9016783251",
+  "inst_zip_code": "381520001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "TN09",
+  "org_lgl_bus_name": "UNIVERSITY OF MEMPHIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F2VSMAKDH8Z7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Memphis",
+  "perf_str_addr": "115 JOHN WILDER TOWER",
+  "perf_city_name": "MEMPHIS",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "381520001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "TN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

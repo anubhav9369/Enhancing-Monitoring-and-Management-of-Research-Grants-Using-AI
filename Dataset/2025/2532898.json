@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532898",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Radiation-Tolerant and Thermally Managed High-Voltage Gallium Oxide Power Diodes for High-Power Space Electronics",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928012",
+ "po_email": "adodabal@nsf.gov",
+ "po_sign_block_name": "Ananth Dodabalapur",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 300207.0,
+ "awd_amount": 300207.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Collaborative Research: Radiation-Tolerant and Thermally Managed High-Voltage Gallium Oxide Power Diodes for High-Power Space Electronics\r\n\r\nAs modern technologies in space, defense, and energy systems continue to evolve, there is a growing need for high-voltage, compact, and energy-efficient power electronics that can operate reliably in extreme environments, particularly those involving high radiation exposure and elevated temperatures. These demands are especially critical for spacecraft and satellite platforms, where power devices must endure harsh conditions while meeting strict requirements on size, weight, and power efficiency. Conventional semiconductors such as silicon (Si), silicon carbide (SiC), and gallium nitride (GaN) have enabled significant progress in power electronics, yet their performance can be compromised when exposed to intense radiation or high temperatures, often requiring additional shielding to ensure reliability. Beta-gallium oxide (\u03b2-Ga\u2082O\u2083), an emerging ultra-wide bandgap semiconductor, offers unique advantages for such applications, including the ability to sustain high voltages, resist radiation damage, and support compact device designs. However, its broader adoption remains limited by challenges in producing high-quality materials, managing heat effectively, and developing power devices that can maintain stable performance during prolonged exposure to high-radiation and high-temperature conditions. This project aims to address these limitations by advancing the synthesis of high quality \u03b2-Ga\u2082O\u2083 materials, integrating diamond layers to improve thermal performance, and developing high-voltage vertical power diode structures optimized for reliability in harsh environments. The results will support the development of next-generation power systems for space missions, defense platforms, and nuclear energy applications. In addition to its technical contributions, the project will advance national priorities in microelectronics and aerospace, creating hands-on research and training opportunities for students, developing new educational content in radiation-hardened electronics, engaging with K-12 and community college learners, and sharing research outcomes through open-access publications and partnerships with industry and national laboratories.\r\nThe project will deliver a new class of vertical \u03b2-Ga\u2082O\u2083 power diodes that combine thermal management and radiation resilience through integrated innovations in materials synthesis, device design, and performance validation under extreme conditions. First, thick, low-defect \u03b2-Ga\u2082O\u2083 layers will be grown using low-pressure chemical vapor deposition, incorporating n-type dopants to investigate their effects on carrier transport, compensation, and susceptibility to radiation-induced defects. In-situ plasma-free etching technique will be used to define high-aspect-ratio fin or trench geometries without damages. Second, polycrystalline diamond layers will be deposited using microwave plasma chemical vapor deposition to enhance heat dissipation, using engineered interlayers to reduce thermal boundary resistance. Third, vertical diode structures will incorporate p-n heterojunctions and high-permittivity dielectric field-management layers to improve electric field distribution, support high breakdown voltage, and enhance radiation resilience. These devices will be subjected to radiation exposure and high-temperature electrical testing to evaluate their degradation mechanisms and overall reliability under extreme operating conditions. Modeling and device simulations will be used to guide design improvements and evaluate long-term behavior under coupled stress conditions. This work will advance fundamental understanding of dopant-defect interactions, electro-thermal transport, and radiation effects in ultra-wide bandgap \u03b2-Ga\u2082O\u2083, enabling scalable high-performance power electronics for mission-critical applications in harsh environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "AFM Anhar Uddin",
+   "pi_last_name": "Bhuiyan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "AFM Anhar Uddin Bhuiyan",
+   "pi_email_addr": "anhar_bhuiyan@uml.edu",
+   "nsf_id": "000954346",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Lowell",
+  "inst_street_address": "220 PAWTUCKET ST STE 400",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOWELL",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "9789344170",
+  "inst_zip_code": "018543573",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MA03",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS LOWELL",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LTNVSTJ3R6D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Lowell",
+  "perf_str_addr": "220 PAWTUCKET ST STE 400",
+  "perf_city_name": "LOWELL",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "018543573",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "100E",
+   "pgm_ref_txt": "Novel devices & vacuum electronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300207.0
+  }
+ ],
+ "por": null
+}

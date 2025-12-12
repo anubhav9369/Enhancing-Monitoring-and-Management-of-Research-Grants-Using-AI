@@ -1,0 +1,98 @@
+{
+ "awd_id": "2436827",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Configurable, Highly-Articulated, Multi-Purpose Snake Robot",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 599821.0,
+ "awd_amount": 599821.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "This research project looks to enable new capabilities for a type of robot called a \"serial chain\" manipulator, made from multiple segments connected end-to-end by hinged joints. The goal is to create robots up to one hundred segments long, which would more than double the current state of the art. More segments and joints increase the number and complexity of different shapes that the robot can form. This is important, for example, in manufacturing tasks like inspecting the highly contorted and tightly confined space inside of an airplane wing, or in surgical tasks like accessing a location inside the human body without damaging delicate surrounding tissue. In theory, controlling each joint with its own motor allows the most complete control over such a robot but, as the number of joints grows, the weight, space, and power demand of so many motors quickly becomes impractical. This project explores how the robot can operate with only two motors mounted at the base of the robot, using a gear train that transmits power through every joint, and a set of small controllable pins that can lock the segments to the gear train in various configurations. The project seeks to discover control sequences that allow the robot to achieve full functionality despite this reduced control authority. The project includes a study of how key measures of robot performance change as the number of joints and segments increases. This study will guide serial chain robot design for applications including manufacturing, medicine, and search and rescue, thus benefiting the US economy and society. \r\n\r\nThis project will look to create a new underactuated manipulator design using a novel multiplexing mechanism to enable a modularity that reduces mechanical complexity and eases the limitations of actuator strength. This multiplexing also enables kinematic tuning that can be used for complex environment inspection. Products will include a theoretical framework incorporating an array of possible limitations, to understand the upper limit on the number of articulations. The ultimate goal is systems with hundreds or even thousands of articulations, with conforming abilities for whole-body manipulation and grasping. Such systems will be more like \"smart ropes\" than they will resemble today's robot manipulators.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Yim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark Yim",
+   "pi_email_addr": "yim@seas.upenn.edu",
+   "nsf_id": "000230349",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3330 Walnut Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046205",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599821.0
+  }
+ ],
+ "por": null
+}

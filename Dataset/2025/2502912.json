@@ -1,0 +1,126 @@
+{
+ "awd_id": "2502912",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Excellence in Research: Quantum-Enabled Security Framework for the Internet of Things",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 750000.0,
+ "awd_amount": 750000.0,
+ "awd_min_amd_letter_date": "2025-07-26",
+ "awd_max_amd_letter_date": "2025-07-26",
+ "awd_abstract_narration": "The Internet of Things (IoT) is reshaping how people live, work, and interact with technology, with numerous interconnected devices embedded in smart homes, healthcare systems, transportation networks, and other critical infrastructure. However, these devices are often built with limited computational resources and security protections, which makes them highly vulnerable to cyberattacks. As quantum computing advances, existing methods of securing data and generating cryptographic keys in IoT systems become less effective, putting personal privacy, public safety, and national infrastructure at serious risk. This project addresses a critical national need for secure, resilient, and scalable IoT systems by developing quantum-enabled technologies that can protect sensitive data and communications in IoT systems. This project highly supports the national interest by advancing the U.S. mission in quantum technologies, a federally recognized priority, through the development of secure, quantum-resilient technologies that safeguard critical infrastructure, promote scientific innovation, and enhance national defense. \r\n\r\nThis project focuses on developing a lightweight, quantum-enabled security framework for IoT systems to address the challenges posed by quantum computing and the resource constraints of IoT systems. The project is structured into three core tasks. First, a quantum trusted platform module is to be designed and implemented, integrating quantum random-number generators with trusted platform modules to generate quantum-secure keys directly on IoT devices. Second, post-quantum cryptography algorithms are to be applied to ensure secure communication and efficient key distribution across IoT networks, enabling robust authentication and data protection. Third, a quantum entropy-as-a-service framework is to be developed to deliver quantum-generated entropy to legacy IoT devices, enabling them to strengthen cryptographic operations without requiring hardware upgrades. This project contributes to improving cryptographic strength and enhancing IoT security while robust authentication, encryption, and data integrity are ensured, establishing the foundation for the development of next-generation IoT security solutions that are capable of withstanding both current and future cyber threats, including those posed by quantum computing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guobin",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guobin Xu",
+   "pi_email_addr": "guobin.xu@morgan.edu",
+   "nsf_id": "000931493",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Eric",
+   "pi_last_name": "Sakk",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eric Sakk",
+   "pi_email_addr": "eric.sakk@morgan.edu",
+   "nsf_id": "000504610",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shuangbao",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shuangbao Wang",
+   "pi_email_addr": "shuangbao.wang@morgan.edu",
+   "nsf_id": "000729788",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Morgan State University",
+  "inst_street_address": "1700 E COLD SPRING LN",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4438853200",
+  "inst_zip_code": "212510001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "MORGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "KULSKCCZJT27",
+  "org_uei_num": "KULSKCCZJT27"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Morgan State University",
+  "perf_str_addr": "1700 E COLD SPRING LN",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212510001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "070Y00",
+   "pgm_ele_name": "HBCU-EiR - HBCU-Excellence in"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "099Z",
+   "pgm_ref_txt": "CISE MSI Research Expansion"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 750000.0
+  }
+ ],
+ "por": null
+}

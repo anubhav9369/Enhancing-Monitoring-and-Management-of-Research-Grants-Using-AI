@@ -1,0 +1,93 @@
+{
+ "awd_id": "2453770",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Spectral analysis of limiting operators in higher dimensions",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924630",
+ "po_email": "winli@nsf.gov",
+ "po_sign_block_name": "Wing Suet Li",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 227796.0,
+ "awd_amount": 227796.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "This project focuses on developing new mathematical techniques that help us analyze signals more effectively by carefully isolating their distinct parts, whether in time, space, or frequency, without interference. Tackling this challenge enables researchers and engineers to build practical tools that clean up noisy signals and reveal essential details. These improvements directly enhance everyday technologies, such as delivering sharper and clearer MRI scans, boosting the reliability of our wireless communications, and speeding up accurate data reconstruction. By making these technologies better, the project not only pushes the boundaries of science and engineering but also makes real-world differences, improving healthcare diagnostics, ensuring emergency messages get through reliably, and enhancing national defense capabilities. Additionally, the project emphasizes education and community outreach, providing valuable research experience to undergraduate and graduate students in science and technology. Public workshops and outreach activities are planned to inspire broader interest in mathematics, encouraging future generations to pursue scientific careers and ultimately contributing to a stronger scientific workforce.\r\n\r\nThis project aims to improve our understanding of special mathematical tools known as spatio-spectral limiting operators (SSLOs), which help analyze signals precisely in both space (or time) and frequency. Although mathematicians have thoroughly studied these tools in one dimension, the more complex case involving multiple dimensions still has many unanswered questions. Addressing these questions is important because it can significantly improve technologies that impact everyday life, such as MRI machines, wireless communication, and scientific imaging techniques. The research team will develop and study Gaussian wave packet systems, an advanced version of traditional tools like wavelets and Gabor systems. The use of these new systems will effectively manage the challenges of multi-dimensional signals by incorporating translations, modulations, and dilations. They will investigate how the properties of these mathematical tools change, particularly when dealing with regularly shaped domains like balls or other smooth geometric shapes, and how stable these properties are when applied to more complicated shapes, including those with small holes or gaps. To enable practical computation, they will specifically focus on radial wave packets for simple shapes like discs, making it easier and faster to perform analysis essential to signal processing tasks, such as interpolating and integrating data. Finally, the research team will extend these mathematical ideas to discrete-time scenarios, offering valuable insights useful in various applications, from digital signal processing to advanced imaging techniques. Overall, the project\u2019s results will offer significant advances in mathematics while providing practical tools that enhance medical imaging, improve communications technologies, and enable more accurate scientific data analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Arie",
+   "pi_last_name": "Israel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arie Israel",
+   "pi_email_addr": "arie@math.utexas.edu",
+   "nsf_id": "000576895",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 227796.0
+  }
+ ],
+ "por": null
+}

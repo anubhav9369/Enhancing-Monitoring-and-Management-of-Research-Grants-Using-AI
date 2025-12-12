@@ -1,0 +1,93 @@
+{
+ "awd_id": "2502893",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CC* Integration-Small: Harnessing FABRIC for Scalable Language Model Training and Inference",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Generative artificial intelligence (AI) services are becoming ubiquitous and directly impacting the daily activities of citizens. These services build on large AI models that require massive amounts of data and computing resources to be trained. Unfortunately, academic users do not have access to such resources and may leverage smaller AI models for specialized applications with limited data. This project seeks to leverage FABRIC (https://portal.fabric-testbed.net), an NSF-funded national distributed computing/networking research infrastructure, to efficiently and securely train AI models and employ them to accelerate research and advance scientific discovery. \r\n\r\nThis project seeks to empower faculty and students with generative AI capabilities to foster innovations in computing and related scientific disciplines. The research activities will lead to the development of new algorithms and techniques for efficient, scalable, and secure language model (LM) pretraining and inference using FABRIC. Specifically, new approaches will be developed to enable (a) efficient LM training for heterogeneous graphics processing unit (GPU) clusters and high speed networking using model parallelism and network-aware cost models; (b) scalable and secure processing of LM training jobs using combinatorial optimization techniques while ensuring fair-share of cluster resources; and (c) efficient CPU-based LM inference using combinatorial optimization techniques to achieve high cluster utilization. A secure, end-to-end operational prototype will integrate the University of Missouri (MU) research computing with FABRIC. As a result, users can leverage FABRIC for LM training and inference on domain-specific datasets at no charge.\r\n\r\nThe proposed research will foster advances in applications of AI to disciplines such as health informatics, and bioinformatics. It can enable breakthroughs in solving pressing problems (e.g., food safety, disease diagnosis, drug discovery) using generative AI. The research findings will be disseminated in the form of publications, demos, presentations, and tutorials. Open-source software and datasets will be made available to the public. These resources will be of immense value to other universities with pressing need for generative AI technologies. New curriculum will be developed for computer science and informatics students. Students will be involved in research in this project. Software and training materials will be developed for broader use by the education and research community. The project website is hosted at https://github.com/MU-Data-Science/LaMB. This repository will be maintained for 3 years after the completion of the project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Praveen",
+   "pi_last_name": "Rao",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Praveen R Rao",
+   "pi_email_addr": "praveen.rao@missouri.edu",
+   "nsf_id": "000485506",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Missouri-Columbia",
+  "inst_street_address": "121 UNIVERSITY HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "5738827560",
+  "inst_zip_code": "652113020",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MO03",
+  "org_lgl_bus_name": "UNIVERSITY OF MISSOURI SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SZPJL5ZRCLF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The Curators of the University of Missouri",
+  "perf_str_addr": "601 Turner Avenue",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "652110001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MO03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "289000",
+   "pgm_ele_name": "CISE Research Resources"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,122 @@
+{
+ "awd_id": "2440353",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Improving the Scientific Integrity of Human-Centered Threat Modeling Research",
+ "cfda_num": "47.070, 47.075",
+ "org_code": "05050000",
+ "po_phone": "7032924207",
+ "po_email": "jborenst@nsf.gov",
+ "po_sign_block_name": "Jason D. Borenstein",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 549652.0,
+ "awd_amount": 315948.0,
+ "awd_min_amd_letter_date": "2025-03-27",
+ "awd_max_amd_letter_date": "2025-03-27",
+ "awd_abstract_narration": "Ensuring software is secure is a fundamental challenge in today's technology-driven world. To improve software security, software development best practices recommend that developers begin development with security in mind by following a structured process called \"threat modeling\". Threat modeling is a structured brainstorming process where developers review a system's parts, asking what could go wrong and how they could fix it, identifying threats and mitigations, respectively. There are many recommended threat modeling processes, but it is not clear which are best. Developing guidelines and support for this essential process requires understanding relevant human decision-making and collaborative problem solving. There have been some efforts to study threat modeling practice, but these have either been very expensive or the authors have had to make design decisions that reduce study costs but potentially limit result reliability. This project includes experiments comparing experimental design approaches to assess their effects. This approach will help future researchers design reliable threat modeling experiments while minimizing study cost. The resulting best practices will be shared with threat modeling researchers and incorporated into professional education as well as integrated into courses in security and software systems engineering. \r\n\r\nThis project will increase threat modeling research reliability by empirically evaluating best practices and tradeoffs for experiment design. Researchers are undertaking qualitative studies and controlled experiments in four areas: (1) investigations of current threat modeling practices in real-world settings, (2) experiments assessing the impact of task design, such as, the level of system specification detail, (3) experiments assessing the study environment's effect, including participants' security expertise, and (4) comparisons of measures used to assess threat modeling performance. The results are being combined into research guidelines for human-centric threat modeling, which can be used as a reference for future researchers to help them develop more reliable results to improve threat modeling practice and software security generally.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Votipka",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel J Votipka",
+   "pi_email_addr": "dvotipka@cs.tufts.edu",
+   "nsf_id": "000830735",
+   "pi_start_date": "2025-03-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tufts University",
+  "inst_street_address": "80 GEORGE ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MEDFORD",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6176273696",
+  "inst_zip_code": "021555519",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "TRUSTEES OF TUFTS COLLEGE",
+  "org_prnt_uei_num": "WL9FLBRVPJJ7",
+  "org_uei_num": "WL9FLBRVPJJ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tufts University",
+  "perf_str_addr": "169 HOLLAND ST",
+  "perf_city_name": "SOMERVILLE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021442401",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7434",
+   "pgm_ref_txt": "CNCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 315948.0
+  }
+ ],
+ "por": null
+}

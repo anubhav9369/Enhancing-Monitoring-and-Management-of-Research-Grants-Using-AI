@@ -1,0 +1,93 @@
+{
+ "awd_id": "2501286",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Discrete conformal geometry of polyhedral surfaces",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 177900.0,
+ "awd_amount": 177900.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "With the widespread use of 3D scanners, imaging systems, and sensors, digital and polyhedral surfaces are now being generated at an unprecedented rate. This explosion of geometric data creates an urgent demand for mathematical tools to organize, classify, and analyze these surfaces, much like how search engines categorize webpages. This project focuses on discrete conformal geometry, a powerful mathematical tool for addressing this challenge. Rooted in classical conformal geometry of surfaces, discrete conformal geometry aims to bridge theory and computation.  For instance, the classical uniformization theorem, a cornerstone result in conformal geometry, implies that surfaces such as human faces or the surfaces of brains can be flattened conformally (i.e., angle-preserving) onto a disk.  However, it does not provide a constructive method to compute such a flattening. Discrete conformal geometry seeks to fill this gap by developing mathematical structures and practical algorithms that achieve conformal flattening of surfaces. These algorithms will have wide-ranging applications in shape analysis and comparison, texture mapping and remeshing, surface flattening for visualization and analysis in medical imaging, and many others.\r\n \r\nOver the past two decades, the PI and collaborators have developed a discrete Riemann surface theory for polyhedral surfaces and successfully proved a discrete uniformization theorem for all compact polyhedral surfaces. Extending it to non-compact polyhedral surfaces, especially without any topological assumptions, remains a significant open problem. Recently, the PI and his collaborator, Dr. Yanwen Luo, formulated the discrete uniformization problem for all polyhedral surfaces without any topological constraints. The primary objective of this project is to solve the discrete uniformization problem in full generality. This work lies at the intersection of several mathematical domains, including classical convex geometry (e.g., the Cauchy\u2013Alexandrov rigidity theorem and Alexandrov\u2019s realization theorem), the Weyl problem in hyperbolic 3-space, and complex analysis (e.g., the Schwarz lemma and Liouville\u2019s theorem).  The award aims to integrate techniques from discrete and computational geometry, Riemann surface theory, convex geometry, and 3-dimensional hyperbolic geometry to develop a unified framework for addressing this fundamental problem.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Feng",
+   "pi_last_name": "Luo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Feng Luo",
+   "pi_email_addr": "fluo@math.rutgers.edu",
+   "nsf_id": "000463777",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "110 Frelinghuysen Road",
+  "perf_city_name": "Piscataway",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "088548019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "NJ06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 177900.0
+  }
+ ],
+ "por": null
+}

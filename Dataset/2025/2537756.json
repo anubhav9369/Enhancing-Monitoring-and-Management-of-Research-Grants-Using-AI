@@ -1,0 +1,102 @@
+{
+ "awd_id": "2537756",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Small: SOCIAL: System-on-Chip Information Flow Validation under Asynchronous Events",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032920000",
+ "po_email": "qyu@nsf.gov",
+ "po_sign_block_name": "Qiaoyan Yu",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 290443.0,
+ "awd_amount": 82310.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "We live in an era where smart, connected computing devices pervade many critical applications, including transportation systems, industrial automation, health and biomedical systems, etc. Naturally, these devices create, process, and exchange significant sensitive information.  Unauthorized or malicious access to these assets can result in disastrous consequences, including loss of human life in the case of health monitoring systems. The goal of this project is to create a comprehensive infrastructure for information flow validation, i.e., ensuring that sensitive  assets in modern System-on-Chip designs cannot be accessed or corrupted by an unauthorized or untrusted agent. The ove r-arching goal is to develop a scientific foundation and a comprehensive automated framework of integrated tools for systematically addressing the spectrum of challenges in information flow validation. The research objectives are tightly integrated into teaching and outreach activities, in the form of new curriculum development, organizing security competitions in premier conferences, recruitment of female and underrepresented minority students, and involving high-school graduates in research.\r\n \r\nThe project has three technical objectives. The first objective is to develop a core foundation for information flow analysis that accounts for real-world complexities. In particular, many hard-to-detect real-world information flow violations result from interruptions of functional flow by a variety of asynchronous events, to subvert the integrity of hardware assets. The project addresses this critical issue by incorporating new, innovative approaches to specify, analyze, and integrate the role of asynchronous events and hardware-firmware interaction within the foundation.  The second objective is to develop a comprehensive automated framework of integrated tools for systematically addressing the spectrum of challenges in information flow validation. The project addresses this goal through a combination of dynamic and formal analysis techniques that draw inspiration from advances in formal methods, testing, and machine learning. Third, the project targets smooth integration of the analysis infrastructure with industrial validation flows.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kanad",
+   "pi_last_name": "Basu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kanad Basu",
+   "pi_email_addr": "basuk@rpi.edu",
+   "nsf_id": "000806761",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 82310.0
+  }
+ ],
+ "por": null
+}

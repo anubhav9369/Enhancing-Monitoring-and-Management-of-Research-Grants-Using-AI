@@ -1,0 +1,110 @@
+{
+ "awd_id": "2501934",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Advancing Subterranean Navigation by Legged Robots",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 199939.0,
+ "awd_amount": 199939.0,
+ "awd_min_amd_letter_date": "2025-04-23",
+ "awd_max_amd_letter_date": "2025-04-23",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) award supports research that focuses on design and control of legged robots to adeptly navigate unstructured terrains, and especially subterranean environments, thereby promoting the progress of science, and advancing prosperity and welfare. Recently, robotic technologies have enabled the automation of many tasks that were once dangerous for humans. However, robots are still not advanced enough to navigate many natural terrain types that are either unsafe or not reachable by humans, such as rubble at disaster sites, or sandy surfaces on other planets. In particular, current robotic technologies have largely focused on surface locomotion, and few robots are able to navigate vertically underground, which restricts potential applications, such as grain monitoring for agriculture and soil sampling in remote locations. This research project looks to address this critical gap by integrating techniques in mechanical design and controls to uncover strategies for legged robots to navigate under the surface of loose, sandy substrates. This research seeks to generate knowledge of interaction mechanics within granular media and enable novel robotic capability below ground. Furthermore, this work seeks to expand robotics education in the state of Vermont by engaging graduate students in research, developing new undergraduate robotics curriculum, and fostering strong K-12 robotics programming. \r\n\r\nThis research aims to elucidate fundamental principles of legged robotic locomotion in subterranean environments, through mechanism design, terramechanics modeling, motion planning, and feedback controls approaches. The project specifically focuses on legged robots due to their potential for multi-modal locomotion. The research looks to first characterize anisotropy in compliant appendage designs with simple actuation and control schemes, with the goal of understanding principles of mechanism design for granular settings. These designs will be implemented on a self-burrowing robot, which will serve as an experimental platform. Using this platform, high-level motion planning will be implemented to determine desired trajectories of the robot given goal positions within the substrate. The work will then incorporate reduced order models for granular media, such as Resistive Force Theory, to determine optimal sequences of appendage gaits which result in the desired trajectories. These model-informed approaches look to generate strategies for closed-loop control which incorporate state estimation subsurface. This project aims for both the design and control approaches to result in more intelligent navigation in a largely unexplored regime.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Laura",
+   "pi_last_name": "Treers",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Laura K Treers",
+   "pi_email_addr": "laura.treers@uvm.edu",
+   "nsf_id": "0000A16RH",
+   "pi_start_date": "2025-04-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Vermont & State Agricultural College",
+  "inst_street_address": "85 S PROSPECT STREET",
+  "inst_street_address_2": "",
+  "inst_city_name": "BURLINGTON",
+  "inst_state_code": "VT",
+  "inst_state_name": "Vermont",
+  "inst_phone_num": "8026563660",
+  "inst_zip_code": "054051704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "VT00",
+  "org_lgl_bus_name": "UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z94KLERAG5V9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Vermont & State Agricultural College",
+  "perf_str_addr": "85 S PROSPECT STREET",
+  "perf_city_name": "BURLINGTON",
+  "perf_st_code": "VT",
+  "perf_st_name": "Vermont",
+  "perf_zip_code": "054051704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "VT00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199939.0
+  }
+ ],
+ "por": null
+}

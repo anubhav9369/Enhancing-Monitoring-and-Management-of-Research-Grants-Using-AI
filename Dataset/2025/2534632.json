@@ -1,0 +1,106 @@
+{
+ "awd_id": "2534632",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: TANGO@SC25",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "As research workflows become more data-intensive and complex, there is a need for greater acceleration, and GPUs are a popular choice. Federated GPU-heavy systems are fully subscribed, and this practice is costly in terms of energy and hardware. However, innovation that employs next-generation arithmetic, CXL, and RISC-V technologies can produce greater precision with fewer bits, tackling both energy and storage challenges for AI/ML workflows, while paving the way for quantum computing, which will rely on next-generation math and standards. The efforts in this area will support the nation\u2019s leadership in AI and quantum, and strengthen the cyberinfrastructure ecosystem.\r\n\r\nThis project, in collaboration with STEM-Trek Nonprofit and the Conference on Next-Generation Arithmetic (CoNGA), will host the TANGO workshop ahead of the Supercomputing Conference, SC25, in St. Louis, Missouri November 16-22, 2025. Participants will learn how Compute eXpress Link (CXL), RISC-V, and Next-Gen Math drive the revolution toward more energy-efficient supercomputers. With such tools, it is possible to render artificial intelligence and machine learning (AI/ML) workflows with greater precision and fewer bits. A greater understanding of next-gen math is also essential for those who develop embedded systems and quantum arithmetic circuits. This is the 6th workshop in the series and co-funded by industrial support.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elizabeth",
+   "pi_last_name": "Leake",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elizabeth L Leake",
+   "pi_email_addr": "eleake@tamu.edu",
+   "nsf_id": "000776281",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M University",
+  "inst_street_address": "400 HARVEY MITCHELL PKY S STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778454375",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A & M UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF6XLNB4CDJ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M University",
+  "perf_str_addr": "400 HARVEY MITCHELL PKY S STE 300",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778454375",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736100",
+   "pgm_ele_name": "EDUCATION AND WORKFORCE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "026Z",
+   "pgm_ref_txt": "NSCI: National Strategic Computing Initi"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

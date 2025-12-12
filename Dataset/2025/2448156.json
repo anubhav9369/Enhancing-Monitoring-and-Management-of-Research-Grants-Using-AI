@@ -1,0 +1,106 @@
+{
+ "awd_id": "2448156",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SaTC: CORE: Small: U.S.-Ireland R&D Partnership: Securing Machine Learning from Threats Exploiting Unused Model Parameters",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "Machine learning (ML) models are driving an AI revolution that is transforming all areas of human life, with applications including healthcare, self-driving cars, and robotics. Anticipating the security vulnerabilities of ML is essential to improve the safety and trustworthiness of systems that depend on them. The project studies a new threat to ML models that exploits how these models are built and trained. Specifically, when ML models are trained, they configure a number of parameters as they learn patterns in data sets; large models can contain billions of parameters that help them as they learn complex tasks efficiently. However, once the model is trained, it is well known that only a subset of these parameters contribute to the model\u2019s functionality. The remaining, unused, parameters have little effect on the performance of the model, and there are reasons to believe that malicious actors might be able to exploit unused parameters to harm the security and privacy of models. The goal of this research is to understand the security implications of the unused parameters of machine learning models. Since unused parameters do not affect the baseline model, their state can be manipulated by the attacker during training to install potentially malicious additional functionality, without being detected when the model is tested. The project characterizes this threat both experimentally and theoretically for different model types, and develops mitigation approaches against it, helping to secure ML models.\r\n \r\nThe project will explore a number of coordinated research directions around exploiting unused parameters. First, the research empirically studies the capacity of ML models to store data covertly within the unused parameters without affecting the baseline model accuracy. Viewing the problem from an information theoretic perspective allows the project team to use tools from communication to reason about the capacity of the unused parameters to hold unintended functionality (in this case, covertly stored data). This in turn allows the use of ideas from game theory to analyze tradeoffs between optimizing malicious goals and preserving baseline functionality. The project also studies generalizations to emerging ML models including Large Language Models, and to additional attacks including a novel model hijacking attack. Having established the threats and characterized their properties, the project team will explore defenses and mitigations to improve the robustness of machine learning models against this new attack vector. These new attacks, optimizations, theoretical models, and mitigations represent the intellectual merits of the project. The broader impacts include improving the safety and trustworthiness of ML models, training graduate and undergraduate students, and developing new pedagogical material on ML safety.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nael",
+   "pi_last_name": "Abu-Ghazaleh",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nael B Abu-Ghazaleh",
+   "pi_email_addr": "nael@cs.ucr.edu",
+   "nsf_id": "000677069",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Riverside",
+  "inst_street_address": "200 UNIVERSTY OFC BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "RIVERSIDE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9518275535",
+  "inst_zip_code": "92521",
+  "inst_country_name": "United States",
+  "cong_dist_code": "39",
+  "st_cong_dist_code": "CA39",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MR5QC5FCAVH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Riverside",
+  "perf_str_addr": "200 UNIVERSTY OFC BUILDING",
+  "perf_city_name": "RIVERSIDE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "925210001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "39",
+  "perf_st_cong_dist": "CA39",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

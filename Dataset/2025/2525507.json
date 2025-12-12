@@ -1,0 +1,98 @@
+{
+ "awd_id": "2525507",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CCRI: New: A Software Refactoring Community Infrastructure",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 220008.0,
+ "awd_amount": 192715.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Software Refactoring plays a crucial role in maintaining high-quality software by re-structuring existing code and reducing technical debt. Despite more than 5,000 authors publishing refactoring papers in the last two decades, refactoring researchers, students, and new community members lack publicly available refactoring benchmarks, tools, and datasets. They must frequently replicate existing refactoring research from scratch \u2013 this wastes time, effort, and introduces threats to validity. The project's novelties are to create and disseminate a repository of software refactoring-related artifacts and online tools, to enable refactoring as a service, sufficient to support rigorous empirical studies and experiments with the detection, prioritization, repair, testing, and documentation of software quality issues across a broad community of researchers, educators, software engineers, and STEM researchers. The project's impacts relate to issues of great economic impact: large software companies spend millions of dollars yearly to reduce the technical debt through refactoring. The publicly-released infrastructure will support the transition of refactoring research into practice and will enable STEM researchers to better maintain their software prototypes as these inevitably decay. The proposed infrastructure REFCRI will be a catalyst for revamping software engineering courses at many universities to emphasize real-world examples of refactoring and will offer tremendous education resources for practitioners. The investigators will organize workshops on the platform to foster a thriving community.\r\n\r\nThe investigators will curate a repository of refactoring data sets via data pre-processing techniques to (i) clean the data, and (ii) check its coverage and diversity. The team of this project will release an API to allow the refactoring community to easily upload datasets, refactoring teaching examples/tutorials, tools, and publications. The data sets will serve as benchmarks that enable researchers to validate new tools and will enable new empirical studies in the field of software engineering. The data sets will provide realistic training examples and tools to enhance the integration of refactoring into software engineering curricula and will serve as a tremendous educational resource for practitioners. The investigators will integrate and orchestrate (based on Kubernetes) multiple tools covering the whole lifecycle of refactoring by automatically transforming the inputs/outputs of existing tools into generic data processing formats and packaging tools as Docker images. They will make existing refactoring tools easy to configure, execute, and integrate. REFCRI will re-implement several refactoring tools, from papers and repositories, as services in the cloud. The investigators will first automatically mine millions of examples of refactorings that open-source developers applied manually and then they will use them to recommend and synthesize new refactorings-by-example to support Python and other data science languages widely used by the STEM community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohamed Wiem",
+   "pi_last_name": "Mkaouer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohamed Wiem Mkaouer",
+   "pi_email_addr": "mmkaouer@umich.edu",
+   "nsf_id": "000737278",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Flint",
+  "inst_street_address": "303 E KEARSLEY ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "FLINT",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "3137623000",
+  "inst_zip_code": "485021907",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MI08",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L8QSLB2KCRE5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Flint",
+  "perf_str_addr": "303 E KEARSLEY ST",
+  "perf_city_name": "FLINT",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "485021907",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MI08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7359",
+   "pgm_ref_txt": "COMPUTING RES INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 192715.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2524166",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "IRISS-USV: Ocean Skin Temperature Sensor for Uncrewed Surface Vehicles and Buoys",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032927577",
+ "po_email": "kbinkley@nsf.gov",
+ "po_sign_block_name": "Kandace Binkley",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 349299.0,
+ "awd_amount": 349299.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "When the ocean loses heat to the atmosphere, a small but important difference in temperature occurs between the ocean surface and the water about 1 mm below the surface.  This temperature difference of 0.2 to 0.5 \u00b0C plays a significant role in how much carbon dioxide is absorbed by the ocean.  The only way to measure the temperature right at the surface, dubbed the \u201cskin\u201d temperature, is with an infrared radiometer that measures the ocean surface radiation.  Because the ocean surface reflects some infrared radiation, a correction for the sky radiation reflected from the ocean surface into the sensor is required.  Standard infrared measurements of the sea surface use a wavelength band for which the atmosphere is transparent in the infrared.  Using this waveband, an additional measurement of the downwelling radiation from the sky is necessary because of the large difference of sky temperature between clear and cloudy conditions.  This research implements a simplified technique using a special infrared wavelength band that significantly reduces the difference of sky temperature between clear and cloudy conditions and thus eliminates the need to make the sky measurement.  The waveband is in a semi-transparent region, which results in the sky radiance coming from the water vapor in the atmosphere from 3 km above the sensor.  The awardees have shown that the sky radiance in this band can be modeled using the air temperature and relative humidity in the vicinity of the sensor.  The result is that a sky radiance measurement is not necessary.  This also reduces the complexity of the calibration method by using one internal reference target rather than two.  These simplifications make possible routine measurements of infrared sea surface temperatures from buoys and uncrewed surface vehicles. An early career scientist and an undergraduate student will be actively involved in research and gain hands-on experience through mentorship programs\r\n.\r\nOver the past five years, the Principal Investigator (PI) has developed an instrument called IRISS-OPT (InfraRed Instrument for Sea Surface temperature-Optimal Band) for measuring ocean surface skin temperature.  IRISS-OPT combines a simplified one-point in situ calibration with the so-called optimal band technique, which eliminates the need for a sky radiance measurement.  IRISS has demonstrated an accuracy comparable to the proven instrument known as ROSR (Remote Ocean Surface Radiometer) from a research vessel. Modeled profiles of air temperature and water vapor are used to replace the sky radiance measurement. The combination of the simplified calibration and elimination of the sky measurement using IRISS-OPT now makes it practical for deployment on Uncrewed Surface Vehicles (USVs) and buoys. This research will transition the current design to a stand-alone version with internal power and recording and optional external power and output dubbed IRISS-USV. Two existing IRISS-OPT units will be upgraded for use on buoys.  Two new units with a reduced form factor to fit on the saildrone Uncrewed Surface Vehicles will be designed and fabricated. The units will be validated at sea on a research vessel and buoys. The research to develop a stand-alone version of the IRISS sensor to measure the ocean surface skin temperature is timely, innovative, and transformative. The combined simplification of a single ambient temperature calibration and no sky measurement will significantly increase the practicality and accessibility of ocean surface skin temperature measurements. The activity is transformative because it will, for the first time, make it possible to measure skin temperature from USVs and buoys with an accuracy comparable to proven ship-based instruments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Jessup",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew T Jessup",
+   "pi_email_addr": "jessup@apl.washington.edu",
+   "nsf_id": "000323729",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "168000",
+   "pgm_ele_name": "OCEAN TECH & INTERDISC COORDIN"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 349299.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2510804",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CDS&E: A Cosmic Demographics Toolkit",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032927203",
+ "po_email": "sschuler@nsf.gov",
+ "po_sign_block_name": "Simon Schuler",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 556256.0,
+ "awd_amount": 556256.0,
+ "awd_min_amd_letter_date": "2025-08-03",
+ "awd_max_amd_letter_date": "2025-08-03",
+ "awd_abstract_narration": "The astronomical community devotes significant resources to ground-based and space-based astronomical surveys\u2014systematic explorations of vast regions of space and time. The resulting catalogs provide \u201cfamily portraits\u201d of diverse cosmic populations, including asteroids and trans-Neptunian objects in the solar system, nearby stars and their exoplanets, distant galaxies and active galactic nuclei, and transient objects such as gamma-ray bursts, fast radio bursts, or supernovae. A research group at Cornell University will construct a \u201cCosmic Demographics Toolkit\u201d (CDT), a widely applicable suite of conventional and modern computational tools accessible and appealing to the broad community of astronomers analyzing survey data. The project includes astrostatistics research producing methods with new capabilities, and development of software tools in an open-source, well-documented Python package. The resulting toolkit will help astronomers extract the best results from astronomical surveys. The researchers and their students will contribute to the training of the next generation of astronomers and computational scientists by participating in the Summer Schools on Statistics for Astronomy and Physics hosted by Penn State\u2019s Center for Astrostatistics (CASt) and by producing videos communicating key aspects of advanced data analysis to the broader public.\r\n\r\nThe CDT will include several demonstration applications, addressing important prototypical demographics problems such as estimating luminosity functions of galaxies, fast radio bursts, and gamma-ray bursts, and size distributions of trans-Neptunian objects. It will also address discovering correlations and scaling laws among the properties of astronomical objects. The software will be written in Python as new components of an open source package called Inference, which supports a variety of statistical inference tasks arising in astronomy. It will include hierarchical Bayesian modeling, nonparametric techniques, censored data methods, and Bayesian survival analysis methods. The project will take advantage of the Rubin Science Platform to accelerate development and tailor many capabilities to analyses using data from the Legacy Survey of Space and Time being undertaken by the Vera C. Rubin Observatory.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Loredo",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas J Loredo",
+   "pi_email_addr": "loredo@astro.cornell.edu",
+   "nsf_id": "000193142",
+   "pi_start_date": "2025-08-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shami",
+   "pi_last_name": "Chatterjee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shami Chatterjee",
+   "pi_email_addr": "shami@astro.cornell.edu",
+   "nsf_id": "000548637",
+   "pi_start_date": "2025-08-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 556256.0
+  }
+ ],
+ "por": null
+}

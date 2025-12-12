@@ -1,0 +1,133 @@
+{
+ "awd_id": "2449329",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Sustainable Data Interchange for Quantum Chemistry and Beyond",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 245996.0,
+ "awd_amount": 265539.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "The Pathways to Enable Open-Source Ecosystems (POSE) project focuses on making quantum chemistry (QC) easier to use with modern technology. QC helps scientists predict how molecules behave, which is important for things like designing new medicines or understanding chemical reactions. But most QC programs are old and use plain text files, which are difficult to integrate into today\u2019s machine learning (ML) and artificial intelligence (AI) tools \u2014 especially when ML and AI need to run thousands or even millions of calculations. This project supports two tools, QCSchema and cclib, that help organize and read QC data in a way computers can easily use. By bringing the community together around shared data formats, the project will speed up the development of chemistry software and make it much easier for researchers to build fast ML- and AI-based models of molecules. In turn, this will help advance research in drug discovery, materials design, and many other fields.\r\n\r\nThe POSE project brings together developers on the frontlines of connecting software QC tools. The team will develop automated onboarding and testing of QC programs with QCSchema and cclib so that upstream QC program developers and downstream QC data consumers can confidently connect with machine-readable formats. While expanding testing and documenting the interface are prerequisites for expanding QCSchema\u2019s utility, a key component of this project is direct interaction with the community regarding next features, processes for data structure change, and governance. This outreach will include surveys and in-person workshops so that QC data may streamline research and be usable beyond its traditional spheres.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Sherrill",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles D Sherrill",
+   "pi_email_addr": "sherrill@gatech.edu",
+   "nsf_id": "000349219",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Benjamin",
+   "pi_last_name": "Pritchard",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Benjamin P Pritchard",
+   "pi_email_addr": "bpp4@vt.edu",
+   "nsf_id": "000879959",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ryan",
+   "pi_last_name": "Richard",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ryan M Richard",
+   "pi_email_addr": "rrichard@ameslab.gov",
+   "nsf_id": "000917566",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lori",
+   "pi_last_name": "Burns",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lori A Burns",
+   "pi_email_addr": "lori.burns@gatech.edu",
+   "nsf_id": "0000A0HGR",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  },
+  {
+   "pgm_ele_code": "226Y00",
+   "pgm_ele_name": "Special Projects"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 265539.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2545370",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: NRI: INT: Cooperative Underwater Structure Inspection and Mapping",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2025-09-30",
+ "tot_intn_awd_amt": 543726.0,
+ "awd_amount": 22664.0,
+ "awd_min_amd_letter_date": "2025-09-12",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "This project develops a system of co-robots collaborating with a human operator to map underwater structures. Underwater structure mapping is an important capability applicable to multiple domains: marine archaeology, infrastructure maintenance, resource utilization, security, and environmental monitoring. The underwater environment is challenging and dangerous for humans in many aspects, while robotic operations face additional challenges compared to the above-water ones. In particular, both sensing and communications are restricted, and planning is required in three dimensions with limited information. The project will generate a 3D model of the underwater structure providing a high-resolution photo-realistic representation. Autonomous Underwater Vehicles (AUVs)will be operating in close cooperation, generating a dense vision-based reconstruction of the observed surface, and coordinated with remote human operators.. The project integrates research and education through training of undergraduate and graduate students, who will have the opportunity to work in an inclusive, interdisciplinary team across South Carolina, New Jersey, and New Hampshire. The system will be integrated and tested for archaeological mapping at field sites. \r\n \r\nResearch will be conducted along three directions. (1) Robust underwater state estimation based on a deep learning approach and a hybrid representation for 3-D reconstruction that will encode probabilistic occupancy for both navigation and initial inspection from users. (2) Collaborative planning, for the proximal observers based on a local optimization framework that originally considers multiple criteria, including information gain, uncertainty reduction, and loop closure, active positioning of distal observers, and user preference to make joint measurements and inform proximal observers on where to go. (3) Information driven communications, with careful design of efficient data representation of the 3-D reconstruction and of a cross-layer optimization for deciding when and how to share. These three components will contribute towards the overarching goal of enabling a team of co-robots to operate autonomously and produce a realistic map of an underwater structure.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ioannis",
+   "pi_last_name": "Rekleitis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ioannis Rekleitis",
+   "pi_email_addr": "yiannisr@cse.sc.edu",
+   "nsf_id": "000682402",
+   "pi_start_date": "2025-09-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "550 S COLLEGE AVE",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197131324",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801300",
+   "pgm_ele_name": "NRI-National Robotics Initiati"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8086",
+   "pgm_ref_txt": "Natl Robotics Initiative (NRI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 22664.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2528770",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Passive Laminar Flow Control via Phononic Subsurfaces",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927030",
+ "po_email": "rjoslin@nsf.gov",
+ "po_sign_block_name": "Ron Joslin",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 316858.0,
+ "awd_amount": 316858.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "Reducing the fuel consumption of sea and air vehicles by lowering their drag could have significant economic and environmental benefits. One way to reduce drag is to maintain laminar flow of the water or air over the entirety of the vehicle surface, which for modern ships and aircraft is normally turbulent. Laminar flow causes significantly less friction than turbulent flow, which reduces drag. Methods for laminar flow control have had limited success because most either (i) involve an active device that requires energy input, (ii) are effective only in a particular range of flow conditions, or both. This project will apply a new technology to maintain laminar flow called Phononic subsurfaces (PSubs), which are architected material units placed beneath the vehicle surface engineered to passively impede the growth of flow instabilities that lead to turbulence. The project will also sponsor a computational education workshop and an art education component to train visual artists to represent physical phenomena in an engaging way for the public.\r\n\r\nPrevious computation-based studies have demonstrated that properly designed PSubs can locally suppress linear instability. However, current methods lack a unified approach to eliminate the growth of perturbations downstream of the control region while also handling such perturbations over a broad-frequency range and when incident from varying directions. Furthermore, the PSub concept has not yet been experimentally validated. This project will tackle these deficiencies. An array of PSubs will be designed and distributed spatially as a lattice, and using stability theory and direct numerical simulations, the research will demonstrate that such a collective PSub configuration can extend the stabilization effect downstream of the control region while also handling instabilities approaching the control region from different directions. In addition, each PSub in the array will exhibit a novel coiled architecture that will allow it to impede the instabilities over a much broader frequency range than the nominal uncoiled case. A comprehensive experimental investigation will be conducted on the performance of the PSub in a water tunnel facility using phase-locked and time-resolved particle image velocimetry measurements. Thus, the proposed program will advance and integrate fundamental knowledge of flow control and Phononic structural design and manufacturing, experimental characterization, and evaluation of the technology in realistic laboratory conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mahmoud",
+   "pi_last_name": "Hussein",
+   "pi_mid_init": "I",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahmoud I Hussein",
+   "pi_email_addr": "mih@colorado.edu",
+   "nsf_id": "000496748",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST STE 481 572 UCB",
+  "perf_city_name": "BOULDER",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144300",
+   "pgm_ele_name": "FD-Fluid Dynamics"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 316858.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,178 @@
+{
+ "awd_id": "2520192",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AI-ENGAGE: Bridging Global Knowledge and Local Needs through AI for Enhanced Agricultural Production, Sustainability and Resiliency (BRIDGE)",
+ "cfda_num": "47.079",
+ "org_code": "01090000",
+ "po_phone": "7032922707",
+ "po_email": "cflanley@nsf.gov",
+ "po_sign_block_name": "Catherine Flanley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Farmers around the world face growing challenges from crop pests, diseases, and weeds that threaten food production and agricultural economic prosperity. These threats are becoming more severe and traditional methods of identifying and managing them often require specialized knowledge and expensive resources that many farmers cannot access. This project develops AI-based decision support tools, such as smartphone apps and a chatbot, that help farmers quickly identify agricultural problems in real-time. By taking a photo of a pest, disease, or weed, farmers receive instant identification and practical advice on how to manage the problem effectively. Technology works like having an expert crop advisor or extension agent in your pocket, making advanced pest management accessible to farmers everywhere, from small family farms to large agricultural operations. This collaborative effort between the United States and QUAD member countries ensures that the decision support tools work effectively across different crops, environmental conditions, and farming systems in the U.S. and beyond.\r\n\r\nThis project addresses the critical challenge of accurate, real-time identification and management of agricultural pests, diseases, and weeds across a variety of global farming systems. The research develops an end-to-end machine learning-based pipeline with uncertainty quantification, conformal prediction, and federated learning. The artificial intelligence-based models can identify several thousand different agricultural threats, including insect pests, weeds, and crop diseases relevant to major agricultural regions. The project employs a \"global-to-local\" approach that trains comprehensive Artificial Intelligence (AI) models using multi-modal international pest datasets, then fine-tunes these models for specific regional conditions and pest pressures in the United States and QUAD member countries. The technical framework combines advanced computer vision, machine learning, adaptive algorithms, and natural language processing to create smartphone applications that provide real-time pest identification and integrated pest management recommendations using a chatbot for a user-friendly interface for making queries. The system includes offline functionality for areas with limited internet connectivity and incorporates federated learning techniques to protect data privacy while enabling collaborative model improvement. The project also develops multilingual chatbot interfaces that provide farmers with expert-level guidance and creates comprehensive training programs for agricultural extension workers and researchers across multiple geographies. This project also prepares an AI-versed workforce to serve the U.S. agricultural sector.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "O/D",
+ "org_dir_long_name": "Office Of The Director",
+ "div_abbr": "OISE",
+ "org_div_long_name": "Office of International Science and Engineering",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Arti",
+   "pi_last_name": "Singh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arti Singh",
+   "pi_email_addr": "arti@iastate.edu",
+   "nsf_id": "000718965",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Baskar",
+   "pi_last_name": "Ganapathysubramanian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Baskar Ganapathysubramanian",
+   "pi_email_addr": "baskarg@iastate.edu",
+   "nsf_id": "000512459",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "DAREN",
+   "pi_last_name": "MUELLER",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "DAREN S MUELLER",
+   "pi_email_addr": "dsmuelle@iastate.edu",
+   "nsf_id": "000634259",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Asheesh",
+   "pi_last_name": "Singh",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Asheesh K Singh",
+   "pi_email_addr": "singhak@iastate.edu",
+   "nsf_id": "000669845",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Soumik",
+   "pi_last_name": "Sarkar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Soumik Sarkar",
+   "pi_email_addr": "soumiks@iastate.edu",
+   "nsf_id": "000677009",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "336Y00",
+   "pgm_ele_name": "MultiPLEx"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6194",
+   "pgm_ref_txt": "INDIA"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "5921",
+   "pgm_ref_txt": "JAPAN"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "087E",
+   "pgm_ref_txt": "SENSING & CONTROL"
+  },
+  {
+   "pgm_ref_code": "5912",
+   "pgm_ref_txt": "AUSTRALIA"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "9109",
+   "pgm_ref_txt": "AGRICULTURAL BIOTECHNOLOGY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2545567",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Smart Coils for AC Motors",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 249800.0,
+ "awd_amount": 80780.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "AC motor drives are widely utilized in many on-the-move energy technologies (e.g., electric vehicles and industrial or medical robots) to control the speed or position of a mechanical scheme. The industry is constantly seeking lightweight, efficient, and reliable solutions for these high-performance AC motor drives. Recent advancements in semiconductor materials have enabled electrical engineers to design ultrafast switches and motor drive systems with higher efficiency and power density. However, the ultrafast switches can cause severe voltage stress on the motor stator winding insulation, reducing the motor lifetime and eventually leading to unexpected shutdowns. This collaborative research will address such reliability concerns through developing the technology of smart coils. Since the proposed technology avoids the conventional bulky and lossy filters, it will advance the compactness of high-performance motor drive systems. In this project, innovative educational modules will also be collaboratively developed to inspire prospective undergraduate and graduate students to pursue education and careers in applications of control theories in power electronics and motor drives.\r\n\r\nThis project aims to develop the technology of smart coils for AC motor drives. The envisioned smart coil technology will make the surge impedance of the motor windings adaptively vary by the sharpness of the voltage pulses which are produced by a drive, travel along cables, and reach the motor terminals. The evolving technology of ultrafast wide bandgap semiconductor switches enhances the efficiency and power density of AC motor drives by minimizing the size of passive components and cooling apparatuses. However, the sharpness of the generated voltage pulses can induce reflected waves in the cable and overvoltages at the motor terminals. The smart coil technology can mitigate the overvoltage stress caused by the reflected wave phenomena regardless of the length of the power cables. Unlike conventional approaches for mitigating reflected wave phenomena that use bulky and lossy passive filters, the smart coil technology will enable AC motors much more compatible with the emerging wide bandgap-based fast-switching drives. This technology can also lead to more electric powertrains with high efficiency, high power density, and high reliability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "JiangBiao",
+   "pi_last_name": "He",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "JiangBiao He",
+   "pi_email_addr": "jiangbiao.he@utk.edu",
+   "nsf_id": "000849105",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "103E",
+   "pgm_ref_txt": "Energy efficient electronics"
+  },
+  {
+   "pgm_ref_code": "5560",
+   "pgm_ref_txt": "ENERGY CONVERSION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 80780.0
+  }
+ ],
+ "por": null
+}

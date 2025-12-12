@@ -1,0 +1,93 @@
+{
+ "awd_id": "2452757",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Nonlinear Inverse Problems",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "This project is focused on inverse problems, where one seeks to recover the parameters of unknown media from remote measurements. First, the investigator will study the recovery of a Lorentzian metric, up to a gauge group of transformations, from measurements of the way light or positive mass particles propagate as observed on a timelike boundary. In cosmology, this means recovery of spacetime from remote observations. It has applications to probing moving media with acoustic waves as well. The measurements could be either arrival times and directions of rays or more generally, the arriving wave itself. The second problem is to recover the underlying Riemannian geometry in a bounded domain, say in three dimensions, from the area of the minimal surfaces attached at various loops on the boundary. This problem arises in relativity, precisely in the anti-de Sitter/conformal field theory correspondence, sometimes called the holographic duality in physics. The stability of the recovery will be studied as well, i.e., not so sensitive to small errors in the data. The third type of problem to be studied is recovery of the nonlinear parameters of media from the way light or sound, etc., propagate. In particular, the investigator will show that one can achieve a two-wave interaction in nonlinear wave propagation, which does not fit within the conventional framework. Graduate students and postdoctoral researchers will be mentored and trained as part of the project.\r\n\r\nThe project is primarily in the area of inverse problems in Lorentzian geometry, the inverse problem for minimal surfaces, and in nonlinear wave propagation and related inverse problems. More concretely, the investigator studies the recovery of a Lorentzian metric, up to a gauge group of transformations, from measurements of the way light or positive mass particles propagate as observed on a timelike boundary. This is called lens/scattering rigidity. The linearization is a tensorial X-ray transform restricted to lightlike or timelike geodesics. What makes the nonlinear and the linear problems fundamentally different from their Riemannian version is that the linear one loses the ellipticity of the Riemannian case. In particular, stability is lost. A version of this problem when the whole wave is observed, is studied as well using the hyperbolic Dirichlet-to-Neumann map as data. The minimal surfaces inverse problem on a compact Riemannian manifold with boundary asks whether one can recover a Riemannian metric from the knowledge of the areas of the minimal surfaces with prescribed boundary intersections (say, 1D loops in 3D). The investigator plans to investigate stability as well. Finally, it will be shown that one can force a two-wave interaction in nonlinear wave propagation. This interaction is used to recover the nonlinear parameters and the geometry, locally, involved in nonlinear hyperbolic partial differential equations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Plamen",
+   "pi_last_name": "Stefanov",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Plamen D Stefanov",
+   "pi_email_addr": "stefanov@math.purdue.edu",
+   "nsf_id": "000432954",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

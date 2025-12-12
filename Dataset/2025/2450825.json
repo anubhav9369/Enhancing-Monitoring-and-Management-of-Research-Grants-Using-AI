@@ -1,0 +1,93 @@
+{
+ "awd_id": "2450825",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CDS&E: Molecular Modeling of Solute Precipitate Nucleation in Confinement",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927258",
+ "po_email": "rramacha@nsf.gov",
+ "po_sign_block_name": "Rohit Ramachandran",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 312589.0,
+ "awd_amount": 312589.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "This collaborative project will create computer simulations that will help scientists study how organic molecules form crystals when mixed with a liquid and placed inside materials with tiny holes. This is important because the way crystals form can affect how well medicines work and how certain chemicals are used in defense technology. For example, in drug-making, specific crystal shapes of a medicine's active ingredient can make it more effective. The same idea applies to creating special chemicals for other uses, like materials for the military. By learning how tiny spaces (measured in nanometers) affect crystal formation, scientists can control the process better. This could lead to new medicines and stronger materials that help keep people safe. The computer tools and programs created in this project will be shared with other scientists and companies through websites like GitHub and nanoHUB. The project will also train students, from high school to PhD level, in using computer simulations. They will work with industry experts and create fun science comics to get more early career researchers excited about STEM fields. \r\n\r\nThis project will help understand how confinement in nanopores affects crystal nucleation of solutes in solution. Most studies of nucleation in confinement have been experimental, with the results explained using classical theories that break down for nanometer-pore sizes. Molecular simulations in this field require the use of rare event methodologies in the Grand Canonical Ensemble (GCE), as the modeled confined solution is in equilibrium with a bulk phase with experimentally accessible properties. However, most rare events methods are based on molecular dynamics, which is difficult and computationally expensive to extend to the GCE.  Simulations require challenging insertions and deletions of molecules in a dense solution confined inside nanopores. These challenges will be addressed by developing a new simulation method that combines the String Method in Collective Variables (SMCV) and Voronoi Milestoning with the continuous fractional component Monte Carlo method, all in the GCE, to model solute precipitate nucleation in confinement. These computational tools will then be used to determine how surface wall solvophobicity, pore size and pore geometry, and the local structure of the solvent near the pore walls, affect the solute nucleation rate and formation of crystal polymorphs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Erik",
+   "pi_last_name": "Santiso",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erik E Santiso",
+   "pi_email_addr": "eesantis@ncsu.edu",
+   "nsf_id": "000554911",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140300",
+   "pgm_ele_name": "Proc Sys, Reac Eng & Mol Therm"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 312589.0
+  }
+ ],
+ "por": null
+}

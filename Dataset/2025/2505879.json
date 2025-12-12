@@ -1,0 +1,98 @@
+{
+ "awd_id": "2505879",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation potential of a contact lens-based intraocular pressure monitoring device",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2024-12-09",
+ "awd_max_amd_letter_date": "2024-12-09",
+ "awd_abstract_narration": "The broader impact of this I-Corps project is the development of a contact lens-based device to monitor intraocular pressure (IOP). Glaucoma is the leading cause of irreversible blindness. It will affect nearly 5 million Americans and 112 million people worldwide by 2040. However, the emerging contact lens-based IOP monitors lack automation, lack accuracy with poor correlation to IOP, or induce significant tissue damage. This technology is an automated, wearable, IOP monitor capable of accurately assessing physiologic IOP fluctuation over 24 hours. Currently, continuous IOP monitoring is an unmet need in the clinical management of glaucoma. Current home devices designed to measure the pressure inside the eyes are incapable of providing automated measurements of the cornea for applications in IOP determination and surgery to correct vision. This device may be the first to describe the pathophysiology of primary open angle glaucoma as well as improve diagnostic accuracy and clinical outcomes.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of a contact lens-based intraocular pressure (IOP) sensor. The cornea varies significantly with patient demographics, shape, and mechanical properties. This technology utilizes custom microelectromechanical systems (MEMS) self-sensing cantilevers to directly measure IOP-related changes in cornea thickness, radius of curvature, and Young\u2019s modulus of elasticity. In addition, the device considers the demographics of each individual wearer as inputs into a computational model for IOP determination. The cantilevers are optimized to provide \u0394 0.1 mmHg sensitivity without inducing clinically significant epithelial damage. The cantilever array is controlled to provide automated measurements and transmit data wirelessly to the electronic medical record. The contact lens is designed for ease of use, allowing the wearer to place the sensor and initiate the IOP monitoring session in the home setting. The prototype is currently under development to assess the effects of cantilever microindentation on corneal epithelium and the measurement principle. These findings will further refine the prototype for the first in-human clinical trials.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "O'Rese",
+   "pi_last_name": "Knight",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "O'Rese J Knight",
+   "pi_email_addr": "orese.knight@ucsf.edu",
+   "nsf_id": "0000A23H8",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Francisco",
+  "inst_street_address": "1855 FOLSOM ST STE 425",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN FRANCISCO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4154762977",
+  "inst_zip_code": "941034249",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "CA11",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+  "org_prnt_uei_num": "KMH5K9V7S518",
+  "org_uei_num": "KMH5K9V7S518"
+ },
+ "perf_inst": {
+  "perf_inst_name": "OPHTHALMOLOGY",
+  "perf_str_addr": "490 ILLINOIS STREET",
+  "perf_city_name": "SAN FRANCISCO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "941432510",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "CA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5345",
+   "pgm_ref_txt": "BIOMEDICAL ENGINEERING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

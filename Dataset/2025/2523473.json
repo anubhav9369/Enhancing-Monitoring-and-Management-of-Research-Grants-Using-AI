@@ -1,0 +1,110 @@
+{
+ "awd_id": "2523473",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIF:Small: Towards practical gradient coding",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "ahero@nsf.gov",
+ "po_sign_block_name": "Alfred Hero",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 582000.0,
+ "awd_amount": 582000.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "Machine learning systems have made revolutionary advances in several areas, including (but not limited to) automated speech and image recognition, scientific discovery, human health and national security. These advances have been made possible in large part by the training of high-capacity models that are able to capture and infer complex relationships between exhorbitant amounts of data, such as images, video, and speech. Such training is quite resource-intensive and failure-prone and typically requires the deployment of large groups of computers that operate collaboratively to achieve the overall objectives. For instance, by conservative estimates, the training of current state-of-the-art models for language understanding consume enough energy to power over one thousand average US households for a year. Moreover, a rule-of-thumb within distributed computing states: \"failures are the norm, rather than the exception\". This project will investigate resource-efficient and fault-tolerant schemes for distributed model training within machine learning. Specifically, the training time depends on the reliability and speed of the computers and the speed of communication between them. This project will examine techniques for simultaneously increasing both the reliability and speed of the process. If successful, this will result in significant energy and monetary savings across the board in scenarios where machine learning is routinely deployed. The ability to work with large-scale computing clusters is an essential skill for the workforce, and this project will help train undergraduate and graduate students in such techniques. The team of researchers will volunteer for mathematics tutoring activities as part of the CyMath initiative at Iowa State; CyMath offers free and open-to-all, after-school math tutoring for elementary and middle school students in Ames area schools.  Overall, the goals of this project will lead to the acceleration of corresponding machine learning driven advances in a variety of fields, e.g., science and human health, and contribute towards the US economy and society.\r\n\r\nDistributed machine learning model training typically involves minimizing a loss function that depends on the training dataset with respect to a parameter vector. The number of parameters in many problems of real-life interest can range from hundreds of millions to billions. Such training is the driver of key technologies such as deep neural networks and large language models. In these systems, the workers are required to compute gradients on the data points assigned to them. Depending on the underlying architecture, the workers either communicate to-and-from a central server or exchange messages amongst themselves to perform gradient descent over several iterations. In addition to worker-node computation, communication is well recognized as being a significant part of the overall training time. It is well recognized that worker nodes (especially within cloud platforms) are prone to straggling (slow-downs and/or failures). The foundational goal of this project is to investigate failure/slowdown-resilient and communication-efficient schemes for distributed model-training for different classes of learning architectures. This will be achieved by introducing redundancy in the assignment of data points to the worker nodes and using coding-theoretic ideas for the recovery of the gradient, either exactly or approximately. The research team will examine the design of numerically stable and communication-efficient schemes that leverage the work performed by slow (as against failed) workers. They will also research classes of schemes that vary depending on the amount of system knowledge across the workers and the assumed communication between them. A key goal will be to provide rigorous guarantees of the quality of the gradient that is recovered by the system. The successful completion of the goals of this project will result in significant reductions in training times of distributed models and corresponding resource savings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aditya",
+   "pi_last_name": "Ramamoorthy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aditya Ramamoorthy",
+   "pi_email_addr": "adityar@iastate.edu",
+   "nsf_id": "000305890",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7937",
+   "pgm_ref_txt": "NETWORK CODING AND INFO THEORY"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 582000.0
+  }
+ ],
+ "por": null
+}

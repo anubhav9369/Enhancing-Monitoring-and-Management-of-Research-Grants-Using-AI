@@ -1,0 +1,117 @@
+{
+ "awd_id": "2445922",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Direct Numerical Simulations and Statistical Analysis to Guide Turbulent Combustion Closure Modeling",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927281",
+ "po_email": "hchellia@nsf.gov",
+ "po_sign_block_name": "Harsha Chelliah",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 630000.0,
+ "awd_amount": 630000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "This project addresses the turbulent combustion commonly encountered in gas-turbine engines, rocket engines, and industrial furnaces. Critical physical behavior occurs on sub-millimeter length scales, i.e., over length scales much smaller than the engine size. A study of the full range of design parameters to optimize performance requires large and computationally costly models. The project will uncover new relations between the large-scale combustor behavior and small-scale physics, and results will be applied to develop next generation combustion models. Detailed computations with artificial intelligence modeling will be leveraged to create highly efficient and accurate combustion models that can be used in designing new combustion devices.\r\n\r\nThis project will guide sub-grid combustion modeling from direct numerical simulations of turbulent non-premixed combustion in a three-dimensional shear layer between an oxidizer stream and a fuel stream. The simulations will address a high-Reynolds-number shear layer with a planar mean flow. In the post-processing of results, statistical data will be collected concerning relative vector alignments and magnitudes of vorticity, normal strain rates, scalar gradients, and joint-probability density functions of these rates and gradients. Scaling rules for these magnitudes over the turbulent length-scale spectrum will be sought, to provide inputs for Reynolds-averaged Navier-Stokes computations and large-eddy simulations. The results will be filtered by length scale to understand better the turbulence cascade of scalar and vector gradients. Improvements will be made to existing rotational flamelet models with account for vorticity, variable density, and three-dimensional, multi-branched flamelet structure. Missing physics in current sub-grid modelling for turbulent combustion will be emphasized: (i) shear strain (with vorticity) and its major effect on flammability limits; (ii) realistic three-dimensional flame structures (rather than current 2D and axisymmetric structures); (iii) variable density; (iv) self-determination within the analysis of flame structure (i.e., premixed, multi-branched, or diffusion flames) based on local flow configuration; and (v) the strain rates and vorticity applied at the sub-grid level are determined from the resolved-scale strain rates and vorticity without use of a contrived progress variable.\r\n.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Sirignano",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "William A Sirignano",
+   "pi_email_addr": "sirignan@uci.edu",
+   "nsf_id": "000158364",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Athanasios",
+   "pi_last_name": "Sideris",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Athanasios Sideris",
+   "pi_email_addr": "asideris@uci.edu",
+   "nsf_id": "000440612",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Feng",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Feng Liu",
+   "pi_email_addr": "fliu@uci.edu",
+   "nsf_id": "000198729",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "3202 Engineering Gateway",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140700",
+   "pgm_ele_name": "CFS-Combustion & Fire Systems"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 630000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,138 @@
+{
+ "awd_id": "2531369",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCC-IRG: Resilient Sheltering Decision Support for Emergency Evacuations using Explainable AI",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924760",
+ "po_email": "osokolsk@nsf.gov",
+ "po_sign_block_name": "Oleg Sokolsky",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1250000.0,
+ "awd_amount": 1250000.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "Evacuation and public sheltering move people from harm\u2019s way and are common life-saving strategies in response to severe weather such as flooding and hurricanes. However, some citizens may exhibit lower propensities to evacuate and seek public shelter due to transportation challenges, past experiences, risk perceptions, and concerns about the availability of critical services at shelters. From the planning perspective of emergency management, choosing which shelters to open and when based on risks to infrastructure, optimizing resource allocation in operating public shelters, and estimating shelter demand present challenges. Current decision support systems rely primarily on weather forecasts, flood risk assessments, retrospective knowledge of shelter usage, and past public behavior. However, such data inputs are unable to fully account for the dynamic nature of evolving needs and movement behavior of the public, as well as failure risks of infrastructure necessary to run shelter operations due to their uncertain and dynamic interdependencies like transportation and power. This research will fill this gap in current decision support systems to perform continual risk analysis for shelter planning to facilitate optimal decision-making under rapidly evolving events. This project advances the well-being of citizens by reducing risk and helping communities increase resilience to severe emergency events. \r\n  \r\nThis project proposes to design and test an Artificial Intelligence (AI)-assisted adaptive decision support system for shelter planning called PCExplorer (Physical & Citizen Sensing Exploration tool), in collaboration with the Virginia Beach Office of Emergency Management. The project team will first develop a novel dynamic knowledge graph using probabilistic graphical models to represent and integrate heterogeneous, dynamic data. This will enable risk prediction modeling for sheltering-related infrastructure by incorporating physical sensing data, citizen movement behavior, and complex interdependencies and vulnerabilities of infrastructure. It will then develop a novel neurosymbolic AI-based planning framework for adaptive, tractable, and explainable decision-making, with the ability to ingest symbolic safety constraints and instructions from emergency managers and explain decisions in natural language for resource allocation. The personalized, responsive messaging to citizens for available shelters enabled by the resulting PCExplorer system will increase the propensity to seek shelter and facilitate a feedback loop to provide dynamic information on citizen actions back to the system. In addition, the project outcomes and open-sourced PCExplorer will contribute to education and research across multiple disciplines (computing, infrastructure engineering, and emergency management) and teach students to experience the process of developing applications for addressing community-centric challenges.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hemant",
+   "pi_last_name": "Purohit",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hemant Purohit",
+   "pi_email_addr": "hpurohit@gmu.edu",
+   "nsf_id": "000703195",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "Behr",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua G Behr",
+   "pi_email_addr": "Jbehr@odu.edu",
+   "nsf_id": "000664942",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hiba",
+   "pi_last_name": "Baroud",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hiba Baroud",
+   "pi_email_addr": "hiba.baroud@vanderbilt.edu",
+   "nsf_id": "000704405",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ayan",
+   "pi_last_name": "Mukhopadhyay",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ayan Mukhopadhyay",
+   "pi_email_addr": "ayan.mukhopadhyay@vanderbilt.edu",
+   "nsf_id": "000849812",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Mason University",
+  "inst_street_address": "4400 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAIRFAX",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7039932295",
+  "inst_zip_code": "220304422",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "VA11",
+  "org_lgl_bus_name": "GEORGE MASON UNIVERSITY",
+  "org_prnt_uei_num": "H4NRWLFCDF43",
+  "org_uei_num": "EADLFP7Z72E5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Mason University",
+  "perf_str_addr": "4400 UNIVERSITY DR",
+  "perf_city_name": "FAIRFAX",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "220304422",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "VA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "033Y00",
+   "pgm_ele_name": "S&CC: Smart & Connected Commun"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "042Z",
+   "pgm_ref_txt": "S&CC: Smart and Connected Communities"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1250000.0
+  }
+ ],
+ "por": null
+}

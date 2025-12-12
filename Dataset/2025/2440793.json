@@ -1,0 +1,126 @@
+{
+ "awd_id": "2440793",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Versatile RF Electronics for Extremely High-Temperature Sensing and Communications",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2024-12-18",
+ "awd_max_amd_letter_date": "2025-09-18",
+ "awd_abstract_narration": "The swift advancement in new energy sources, industrial automation, automotive controls, and space exploration demands the investigation of harsh-environment electronics, often withstanding temperature ranges from hundreds to several thousands of degrees Celsius (\u00b0C). For instance, space science communities have advanced electronic components to explore Venus\u2019s atmosphere, which can reach temperatures above 500 \u00b0C. Turbine engines in aerospace industries utilize high-temperature sensors for remote pressure transducer interfaces, digitally interconnected actuators, and digital engine controls. The 4th-generation (Generation IV) reactors will function at coolant temperatures higher than light water reactors, reaching around 1000 \u00b0C. Hence, the instrumentation and sensors utilized for real-time health monitoring must function in these harsh conditions. Lastly, hypersonic vehicles reach speeds greater than Mach 5, where aerodynamic heating affects air flow, resulting in temperatures exceeding 1000 \u00b0C on the vehicle\u2019s surface. As a result, surrounding air molecules ionize and create a buildup of plasma that interferes with electromagnetic waves. Despite its importance, technical challenges exist in radio frequency sensing and communications associated with high-temperature environments. This project will establish new research fields in extreme environments, high-frequency sensing, and high-temperature communications. Because enabling sensors and communication systems in extreme conditions is of paramount importance in designing satellites, spacecraft, automobiles, and space-exploring scientific probes, the proposed methods will benefit future applications including massive global satellite communication networks realized by tens of thousands of Earth-orbiting nano-satellites, hypersonic delivery/transportation infrastructure, CubeSat-based planetary sensing, as well as many other possible commercial and industrial applications. This CAREER project will integrate research and education programs and provide excellent opportunities for high school and college undergraduate/graduate students to engage in STEM research.\r\n\r\nThis CAREER project aims to establish foundational high-frequency electronics for extremely high-temperature sensing and communications beyond 1000 \u00b0C, targeting broad industrial applications as well as aerospace and defense applications affected by hypersonic radio blackout. As far back as the 1960s, aerospace communities conducted flight tests to examine radio interference. However, nearly 70 years after the beginning of space exploration, the hypersonic vehicle\u2019s radio interference remains an unsolved problem. In recent years, antennas operating above interference cut-off frequencies and metamaterial-inspired structures have shown new directions, but they lack practical implementations incorporating realistic interference magnitude, effective sensing techniques, system integration and validation, and high-temperature effects. The proposed research rests on the premise that dielectric and ceramic materials exhibit excellent electromagnetic (EM) properties, thermal isolation, and heat tolerance. They are ideal for high-frequency radiating components and for integration with active circuits to build hypersonic transponders and sensors. The project will start with experimental modeling of ceramic materials\u2019 EM properties and thermal expansion in high-temperature conditions and investigate innovative temperature-dependent compensation techniques across extensive temperature ranges, at microwave and millimeter-wave frequencies. The scope and approaches to overcome radio interference challenges include: (1) 3D printed all-ceramic meta-structure, probe, and high-temperature apparatus to compensate for extreme-heat-induced plasma layers, (2) frequency-agile high-temperature/plasma sensing spectroscopic reflectometers with digital compensation for probe\u2019s temperature-dependent EM properties, (3) phase-noise tolerant retrodirective signal trackers with on-chip analog signal processing, (4) artificial-intelligence-assisted temperature-compensating ceramic fiber harnesses. This CAREER project will enable reliable RF signal transmission/reception and signal integrity monitoring with unprecedented dynamic range and sensitivity in continuously and rapidly changing high-temperature environments for hypersonic applications. This CAREER project will also offer new techniques to integrate thermal protection systems and RF electronics, simultaneously achieving thermal isolation and electromagnetic propagation for extremely high-temperature sensing and communications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yanghyo",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanghyo R Kim",
+   "pi_email_addr": "yanghyokim@umass.edu",
+   "nsf_id": "000857772",
+   "pi_start_date": "2024-12-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "1 CASTLEPOINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  },
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

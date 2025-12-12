@@ -1,0 +1,158 @@
+{
+ "awd_id": "2435382",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NQVL:QSTD:Pilot: Accelerating Fault-Tolerant Quantum Logic (FTL)",
+ "cfda_num": "47.049, 47.084",
+ "org_code": "03060000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2024-12-13",
+ "awd_max_amd_letter_date": "2024-12-13",
+ "awd_abstract_narration": "The ability of quantum hardware to outperform classical hardware for tasks like computation, communication, and sensing is known as quantum advantage. Quantum advantage promises society-changing benefits including fundamentally secure communication, improved biomedical sensing, and breakthroughs in material and drug design. To date, useful quantum advantage for computation has not been realized. Though there is reason to be optimistic for near term advances, it is widely accepted that useful quantum advantage in computing will require fault tolerance at scale -- an advance that is still beyond the reach of current devices. This project is aiming to accelerate the development of fault-tolerant quantum computation by co-designing error correcting codes and the hardware that will run them.  Currently, many quantum error-correcting (QEC) codes have been discovered, and their mathematical structures are becoming better understood.  Meanwhile, hardware with a few logical qubits has been demonstrated and, in some cases, a small gain in process fidelity realized. However, the demands on hardware for current QEC codes are severe -- either enormous numbers of qubits are required or native gate fidelities must be extremely high (often, both). By designing QEC codes to utilize the native gates and connectivity of the hardware, while simultaneously optimizing the hardware layout to support the QEC code, fault tolerance can be achieved with the minimum resource cost thereby delivering useful quantum advantage sooner.\r\n\r\nOf the existing hardware platforms, the trapped-ion QCCD architecture shows a special promise to achieve fault tolerance, especially in view of the recent progress where key problems such as qubit shuttling and wiring have been solved. Further, it currently provides the highest state preparation, measurement, and gate fidelities, and has led to commercial systems with the highest quantum volume.  It also natively provides mid-circuit measurement with minimal cross-talk error and has a well understood error model. Finally, it provides all-to-all qubit connectivity. These features are likely to be necessary requirements for realizing fault tolerance in the near term. To accelerate progress in fault-tolerant quantum computing, an interdisciplinary team composed of computer scientists, engineers, physicists, and educators focuses on the identification of the most efficient QEC codes for the hardware and the optimization of their deployment on the QCCD system. Further, they research how to improve gate fidelities while working closely with commercial vendors to realize the assembly of such a fault-tolerant QCCD system. Finally, the team convenes a community of educators, industry and government leaders to chart the optimum route for meeting the workforce needs of the field.\r\n\r\nThis project advances the objectives of Quantum Information Science and Engineering at NSF in response to the National Quantum Initiative Act for the continued leadership of the United States in QIS and its technology applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "OSI",
+ "org_div_long_name": "Office of Strategic Initiatives (OSI)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eric",
+   "pi_last_name": "Hudson",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eric R Hudson",
+   "pi_email_addr": "hudson@physics.ucla.edu",
+   "nsf_id": "000513323",
+   "pi_start_date": "2024-12-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hartmut",
+   "pi_last_name": "Haeffner",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hartmut Haeffner",
+   "pi_email_addr": "hhaeffner@berkeley.edu",
+   "nsf_id": "000523847",
+   "pi_start_date": "2024-12-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexey",
+   "pi_last_name": "Gorshkov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexey Gorshkov",
+   "pi_email_addr": "gorshkov@umd.edu",
+   "nsf_id": "000659374",
+   "pi_start_date": "2024-12-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yufei",
+   "pi_last_name": "Ding",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yufei Ding",
+   "pi_email_addr": "yufeiding@ucsd.edu",
+   "nsf_id": "000760744",
+   "pi_start_date": "2024-12-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Karan",
+   "pi_last_name": "Mehta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Karan Mehta",
+   "pi_email_addr": "kkm65@cornell.edu",
+   "nsf_id": "000888515",
+   "pi_start_date": "2024-12-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Los Angeles",
+  "inst_street_address": "10889 WILSHIRE BLVD STE 700",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3107940102",
+  "inst_zip_code": "900244200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "36",
+  "st_cong_dist_code": "CA36",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RN64EPNH8JC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Los Angeles",
+  "perf_str_addr": "430 Portola Plaza PAB 154705",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900951547",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "36",
+  "perf_st_cong_dist": "CA36",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "315Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-3 Quantum"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

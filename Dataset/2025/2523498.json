@@ -1,0 +1,126 @@
+{
+ "awd_id": "2523498",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HNDS-I: Tools and Resources for Analysis of Early English Books Online (TRACE)",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 798401.0,
+ "awd_amount": 798401.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Despite the dynamic nature of language, current AI/human interaction is limited by a relatively narrow set of training data. This project develops artificial intelligence tools to identify grammatical structures, word meanings, and references to people and places in historical texts, making these materials accessible to scholars across disciplines. This project will create the largest annotated historical English corpus ever assembled, transforming how researchers study language change and early modern culture. By annotating 1.5 billion words of English texts with detailed linguistic information, this work enables discoveries about how English evolved into its modern form and provides novel insights into the dynamics of social networks, ideas, and cultural movements. The resulting resource will be integrated into EarlyPrint, an existing website for exploring these texts, which will provide students and researchers worldwide with powerful new tools for exploring the language, history, and culture of the English language. These resources will also be of great interest to artificial intelligence researchers working on language technology, who will use the corpus to train new and better models that can handle a wide variety of language and to compare performance of systems in open competitions.\r\n \r\nThis project addresses a critical limitation in historical linguistics and digital humanities: the small size of existing annotated historical corpora limits the types and complexity of questions that can be posed. Moreover, these corpora typically lack additional types of annotation such as entity and co-reference, lemmatization, and word sense disambiguation that could enlarge the range of possible research questions. To address these shortcomings, the project uses state-of-the-art natural language processing (NLP) techniques, including neural syntactic parsing and entity linking systems, to automatically annotate Early English Books Online (EEBO-TCP), a comprehensive collection of early English prose that contains more than 60,000 books. The resulting corpus consists of 1.5 billion words of historical English annotated for  (1) part-of-speech (POS) tags, (2) syntactic structure, (3) lemmas and word senses (linked to the Oxford English Dictionary), and (4) coreference/entity linking to a knowledge base (e.g., Wikipedia). To facilitate training and evaluation of these tools, the project is also performing careful, manual annotation of an 800,000 word sample from EEBO-TCP, which will be released to the wider community alongside the automatic annotations and NLP pipelines. In parallel to these annotated corpora and pipeline, the project also develops enhanced software tools for querying the identified syntactic structures and extracting semantic networks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Neville",
+   "pi_last_name": "Ryant",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Neville Ryant",
+   "pi_email_addr": "nryant@ldc.upenn.edu",
+   "nsf_id": "0000A2W7R",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Seth",
+   "pi_last_name": "Kulick",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seth Kulick",
+   "pi_email_addr": "skulick@ldc.upenn.edu",
+   "nsf_id": "000169661",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Loewenstein",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph F Loewenstein",
+   "pi_email_addr": "jfloewen@wustl.edu",
+   "nsf_id": "0000A3VPW",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3600 Market St",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191045302",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "130Y00",
+   "pgm_ele_name": "Human Networks & Data Sci Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "107Z",
+   "pgm_ref_txt": "Human Networks & Data Sci Infrastructure"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 798401.0
+  }
+ ],
+ "por": null
+}

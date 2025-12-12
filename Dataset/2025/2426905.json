@@ -1,0 +1,102 @@
+{
+ "awd_id": "2426905",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SaTC: CORE: Small: New Advances in Blind Signatures and Anonymous Credentials",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "User trust in digital applications has been significantly eroded by growing concerns over the collection of personally identifiable information. A major challenge in limiting such collection is that it often takes place for legitimate reasons that are deeply intertwined with the proper operation of the applications themselves. In particular, many applications require some form of user authentication, which often, as a side effect, enables tracking of the user\u2019s journey. This project aims to develop new privacy-preserving techniques that address this inherent tension by enabling authentication methods that reveal only what is strictly necessary. The planned work will establish new theoretical foundations, produce practical solutions, and inform ongoing standardization efforts in industry. The project will also enhance the undergraduate research experience in cryptography at the University of Washington and introduce a new approach to teaching cryptography at the undergraduate level.\r\n\r\nOn a technical level, the project will advance the theory of blind signatures and anonymous credentials, two cryptographic primitives that underpin most privacy-preserving authentication solutions.  A key focus will be on more efficient and flexible constructions of these primitives, and on proving their security under the weakest possible cryptographic assumptions. Formal security models will support these efforts, and enable rigorous proofs of security.  Two main objectives are to design best-possible constructions from elliptic curves and to develop new techniques to ensure security against quantum attackers. The project will also explore protocols for threshold issuance of blind signatures, distributing the issuance process among multiple parties to eliminate single points of failure. In addition, it will examine the concrete security of the digital signatures behind anonymous credential systems, and investigate the design of larger-scale secure protocols using these primitives.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stefano",
+   "pi_last_name": "Tessaro",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stefano Tessaro",
+   "pi_email_addr": "tessaro@cs.washington.edu",
+   "nsf_id": "000660734",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

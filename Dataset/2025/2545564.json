@@ -1,0 +1,102 @@
+{
+ "awd_id": "2545564",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Digital Twin Predictive Reliability Modeling of Solid-State Transformers",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 239503.0,
+ "awd_amount": 204698.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "Solid state transformer (SST) is deemed as a revolutionary technology for future power systems. It is much more compact than the conventional electromagnetic transformer, with significant advantages of controllability both in power flow control and power quality regulation. However, one major technical barrier that constrains the practicality of SST is the low reliability compared to the conventional transformers. This is due to the large device count including semiconductor transistors, auxiliary circuits, and passive components. Currently, the reliability of SST has received little attention, which constrains their commercialization and adoption by industry. This project will develop data-driven digital twin models for SSTs that will facilitate prediction of component degradation and prevention of catastrophic failures. This is aimed to significantly improve the reliability of SSTs for safety-critical applications, such as future power systems and electrified transportation applications. The proposed modeling and design methods will result in new classes of power electronics design tools and will enable a fully integrated design process that will generate new topologies and save substantial design and implementation time. Further, these approaches will enhance reliability modeling where reliability can be accurately estimated from at design stage even for newly synthesized architectures. Regarding educational impact, this work presents an opportunity to apply artificial intelligence to power electronics engineering. Hence, the outcome of the project will upgrade power electronics teaching curricula and provide students with an effective skillset for future power engineering.\r\n\r\nTo address the challenge of reliability of SSTs, this project will develop a comprehensive systematic framework of online health monitoring for SSTs to significantly improve the reliability in the face of electric faults. The proposed health monitoring framework will include online prognosis and diagnosis of potential electrical faults that SSTs could be subject to, targeting common semiconductor switching faults and health degradation in high-frequency transformers. Specifically, a portfolio of critical SST parameters will be monitored through a smart gate driver that will be integrated with the power electronic building blocks, so degradation in the semiconductor modules can be predicted and diagnosed during the fault inception stage. A novel data-driven digital twin approach is proposed to predict the behavior of the SST converter modules and it will compute health performance indices to make the technique more computationally efficient compared to full physical model computations. Fast online diagnostic algorithm will be developed and embedded in the SST microcontroller, so a fault can be identified and characterized, to minimize downtime cost and avoid cascading failures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "JiangBiao",
+   "pi_last_name": "He",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "JiangBiao He",
+   "pi_email_addr": "jiangbiao.he@utk.edu",
+   "nsf_id": "000849105",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5560",
+   "pgm_ref_txt": "ENERGY CONVERSION"
+  },
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 204698.0
+  }
+ ],
+ "por": null
+}

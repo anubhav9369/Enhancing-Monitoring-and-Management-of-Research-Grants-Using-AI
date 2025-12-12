@@ -1,0 +1,98 @@
+{
+ "awd_id": "2501727",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Optimal Demand Response Strategies Using Biogas from Wastewater Treatment",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "This NSF ERI project aims to develop new algorithms and solution approaches to optimize demand response strategies of wastewater treatment plant operators under uncertainty, focusing on the benefits and barriers of using on-site biogas generators in these programs. Wastewater treatment is an energy-intensive process, and biogas produced through anaerobic digestion is often flared but can be used to provide demand response by reducing or shifting the energy consumption of wastewater treatment plants. This project focuses on the key challenges of managing uncertainties within and the variability across treatment plants and demand response programs. The project will bring transformative change by providing wastewater treatment operators with optimal demand response strategies. Increasing demand flexibility will improve power grid reliability, particularly during periods of network stress. This will be achieved by developing an approach for characterizing the uncertainty in wastewater treatment and introducing novel optimization techniques to manage these uncertainties within a demand response scheduling optimization framework. The intellectual merits of the project include the development of new demand response strategies under uncertainty and quantifying the trade-offs between cost and feasibility for using biogas within wastewater treatment plants to provide demand response. The broader impacts of the project include reducing costs in both the electrical energy and wastewater sectors by demonstrating and applying effective strategies for using biogas. Collaboration with utilities and water quality researchers throughout the project will support the adoption of these strategies by improving stakeholder understanding of demand response program requirements, financial incentives, and operational impacts. This project will also integrate findings into new curriculum materials on industrial and utility-scale demand response and provide research experiences for graduate and undergraduate engineering students. \r\nThis project is structured into two main tasks. The first task will develop system models to accurately capture the necessary timescales, uncertainty, and performance of biogas production and demand response programs. Using utility data, data-driven uncertainty sets will be constructed and refined to maintain robustness but avoid excessively conservative solutions. The second task will focus on solving for optimal demand response strategies for biogas use under uncertainty and evaluating trade-offs in providing demand response in terms of costs and feasibility. Together, these tasks will enable an estimate of the economic flexibility potential of biogas generators for demand response within the United States. Utility data will be leveraged from both small and large wastewater treatment plants to evaluate the proposed approach.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anna",
+   "pi_last_name": "Stuhlmacher",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anna Stuhlmacher",
+   "pi_email_addr": "annastu@mtu.edu",
+   "nsf_id": "000887067",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan Technological University",
+  "inst_street_address": "1400 TOWNSEND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUGHTON",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "9064871885",
+  "inst_zip_code": "499311200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "GKMSN3DA6P91",
+  "org_uei_num": "GKMSN3DA6P91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan Technological University",
+  "perf_str_addr": "1400 TOWNSEND DR",
+  "perf_city_name": "HOUGHTON",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "499311200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8611",
+   "pgm_ref_txt": "Energy Efficiency and End Use"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

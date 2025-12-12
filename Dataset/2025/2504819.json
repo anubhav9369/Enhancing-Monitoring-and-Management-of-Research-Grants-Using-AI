@@ -1,0 +1,130 @@
+{
+ "awd_id": "2504819",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "NeTS: Medium: Self-correcting ML-driven Resource Allocation in Networked Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2029-06-30",
+ "tot_intn_awd_amt": 1080000.0,
+ "awd_amount": 1080000.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Cloud and network providers must allocate and manage their compute and network resources efficiently and fairly to ensure stringent service level objectives are met. Examples include managing Wide Area Network (WAN) bandwidth to meet traffic needs and managing clusters of Graphics Processing Units (GPUs) for running Artificial Intelligence (AI) training jobs. The management of production networks and systems is a black art today, dominated by domain-specific heuristics that require constant fine-tuning as requirements evolve, and which fall short of performance in ways that are not easy to analyze. This project is developing BONSAI (Beyond-Optimization Network System Allocation Intelligence), a principled framework based on Machine Learning (ML) that can enable high decision quality for a wide range of network resource allocation problems in complex network and cloud environments that are hard to model precisely, and where inaccurate predictions about future traffic patterns or workloads is the norm.\r\n\r\nThe project is developing custom neural architectures inspired by network optimization models for multi-criteria resource allocation problems. The neural architectures will be designed to show resilience to scenarios beyond their training data (e.g., flash crowds, hardware failures) by careful alignment with the optimization models they aim to enhance and adopt a framework that reacts to a wide variety of input transformations with awareness. The project is developing techniques by which neural models can learn and adapt to real-world sources of feedback which are non-differentiable, and novel alignment approaches that will enable real-time validation of the solution suggested by the neural architecture. The project is demonstrating these ideas in the context of important and challenging domains such as traffic engineering in Wide Area Networks and scheduling distributed AI training jobs in shared GPU clusters.\r\n\r\nThe team consists of researchers with complementary expertise in networking, machine learning, and optimization, and results will be disseminated to researchers in these communities. The team will also collaborate with and disseminate results to industry and network operators for real-world validations and applications of their research. The research will benefit the networking and IT industry by taking a major step forward towards principled resource allocation for complex real-world tasks. The project will involve Ph.D., master\u2019s and undergraduate students, and will lead to the creation of a new graduate class on ML-Driven Computer Networking.\r\n\r\nProject results will be made publicly available at: https://purdue-isl.github.io/projects_pages/Self-correcting-ML Results will be available throughout the project period and for at least three years after.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sanjay",
+   "pi_last_name": "Rao",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sanjay G Rao",
+   "pi_email_addr": "sanjay@purdue.edu",
+   "nsf_id": "000227316",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mohit",
+   "pi_last_name": "Tawarmalani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohit Tawarmalani",
+   "pi_email_addr": "mtawarma@purdue.edu",
+   "nsf_id": "000295915",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Bruno",
+   "pi_last_name": "Ribeiro",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bruno Ribeiro",
+   "pi_email_addr": "ribeiro@cs.purdue.edu",
+   "nsf_id": "000572779",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "465 Northwestern Ave",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479072035",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1080000.0
+  }
+ ],
+ "por": null
+}

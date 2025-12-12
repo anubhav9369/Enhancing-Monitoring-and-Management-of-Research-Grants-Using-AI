@@ -1,0 +1,98 @@
+{
+ "awd_id": "2502269",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Control Algorithm for Active Compensation of Reactive and Unbalanced Currents in Induction Motors Under Voltage Unbalance",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 181856.0,
+ "awd_amount": 181856.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "This NSF ERI project aims to develop a control algorithm that allows Active Power Filters to compensate the unwanted components of currents drawn by three\u2011phase induction motors when their supply voltages are unbalanced - a condition where the constituent voltages of a three-phase supply differ in magnitude or phase displacement. The project will bring transformative changes to how industry and utilities manage energy delivery losses during voltage unbalance, which is an ever-growing challenge due to the rapid increase of single\u2011phase electric vehicle chargers, single\u2011phase solar power inverters, and other unevenly distributed loads. This will be achieved by applying the Currents\u2019 Physical Components (CPC) Power Theory which enables precise identification and compensation of the reactive and unbalanced components of the load current \u2013 components that do not contribute to energy delivery but nevertheless increase energy losses \u2013 otherwise delivered by the source through power lines. The intellectual merits of the project include advancing fundamental understanding of induction motors\u2019 operation during voltage unbalance, delivering the first algorithm that guarantees full compensation under said conditions, and providing a comparative benchmark against established control methods. The broader impacts of the project include lowering energy delivery losses and costs, improving power quality for residential and industrial customers, enhancing grid resiliency, and providing hands-on research training for graduate and undergraduate students to help build a workforce ready to address future energy challenges.\r\n\r\nThe research will proceed through four integrated objectives: (1) developing theoretical foundations and deriving control equations for computing the reference compensation current and the space\u2011vector pulse\u2011width\u2011modulation switching signals that drive an inverter\u2013based compensator; (2) implementing the APF and its controller digitally using the Electromagnetic Transients Program; (3) evaluating performance through simulations on the IEEE 34-Bus model under varied conditions of voltage unbalance and load changes; and (4) validating results and demonstrating real-time adaptability through the construction and testing of a physical prototype. The effectiveness of the CPC-based algorithm will be assessed by comparing its ability to compensate reactive and unbalanced currents, reduce system losses, mitigate current unbalance amplification, and adapt to dynamic loading and operating conditions\u2014relative to other standard active power control strategies. Successful completion will deliver the first experimentally validated algorithm for total compensation of reactive and unbalanced currents drawn by induction motors under voltage unbalance, providing a new tool to improve power quality in industrial, microgrid, and shipboard systems where unbalance is a critical concern.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prashanna",
+   "pi_last_name": "Bhattarai",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prashanna D Bhattarai",
+   "pi_email_addr": "pbhatt@latech.edu",
+   "nsf_id": "000941778",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Louisiana Tech University",
+  "inst_street_address": "RAIL ROAD AVE WYLY TWR 1620",
+  "inst_street_address_2": "",
+  "inst_city_name": "RUSTON",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "3182575075",
+  "inst_zip_code": "71272",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "LA05",
+  "org_lgl_bus_name": "LOUISIANA TECH UNIVERSITY",
+  "org_prnt_uei_num": "PAMDY6DMVVE7",
+  "org_uei_num": "PAMDY6DMVVE7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Louisiana Tech University",
+  "perf_str_addr": "RAIL ROAD AVE WYLY TWR 1620",
+  "perf_city_name": "RUSTON",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "712720001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "LA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 181856.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2532987",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Applied  Data Assimilation in Turbulence Modeling: Bridging Theory and Computation",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-08-08",
+ "awd_max_amd_letter_date": "2025-08-08",
+ "awd_abstract_narration": "Accurately predicting turbulent fluid flows remains one of today\u2019s most socially and scientifically pressing challenges due to their inherently chaotic and multiscale nature. These flows play a critical role in a wide range of applications, including energy security, aerodynamics (such as the development of engines and the design of aircraft), biophysical systems, the safe reentry of spacecraft through Earth\u2019s atmosphere, and the prediction of extreme weather events like hurricanes and tornadoes. For example, improving the accuracy of atmospheric flow predictions could help reduce the economic damage caused by hurricanes, which routinely cost hundreds of billions of dollars. This project employs data assimilation to combine the strengths of two complementary approaches: integrating physical laws (often based on idealized assumptions) with real-world data, which on their own may lack transparency and physical insight. The goal is to improve the accuracy, reliability, and efficiency of predictive models for turbulent systems. Reliability is addressed by developing rigorous mathematical foundations for these methods, while efficiency is pursued by overcoming barriers posed by computational complexity and limited human or technological resources. In addition to advancing scientific understanding, the project will contribute to training a new generation of undergraduate and graduate students equipped to tackle real-world problems at the intersection of theory, computation, and data. Beyond fluid dynamics, the mathematical and computational tools developed in this project will support research and innovation across multiple areas of science and engineering.\r\n\r\nThis project builds on the principal investigator\u2019s (PI) previous work in data assimilation and turbulence modeling, particularly in the context of the Navier\u2013Stokes equations (NSE) and Large Eddy Simulation (LES). The research addresses a range of theoretical and computational challenges, beginning with a rigorous mathematical and numerical study of global data assimilation algorithms that rely solely on localized observations. The Finite Element Method (FEM) will be used to handle geometrically complex domains and realistic boundary conditions in numerical simulations. A key objective is to reduce experimental and computational costs by enabling accurate predictions using data collected from only a subset of the physical domain. The investigator also studies the statistical behavior of turbulent flows under data assimilation, in both two- and three-dimensional space. Another component of the project is to develop new, reliable, physically informed algorithms that operate concurrently to learn the parameters of well-known turbulence models employed in Large Eddy Simulation (such as simulations of storm fronts, hurricanes, and tornadoes in the atmosphere). Finally, the PI will investigate potential mismatches between observational data and model predictions and provide an in-depth analysis of the errors that result from these mismatches, including both theoretical analysis and simulation results.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Pakzad",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali Pakzad",
+   "pi_email_addr": "pakzad@csun.edu",
+   "nsf_id": "000812957",
+   "pi_start_date": "2025-08-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University Corporation, Northridge",
+  "inst_street_address": "18111 NORDHOFF ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORTHRIDGE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8186771403",
+  "inst_zip_code": "913300001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "32",
+  "st_cong_dist_code": "CA32",
+  "org_lgl_bus_name": "THE UNIVERSITY CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LAGNHMC58DF3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California State University, Northridge",
+  "perf_str_addr": "18111 NORDHOFF ST",
+  "perf_city_name": "NORTHRIDGE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "913300001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "32",
+  "perf_st_cong_dist": "CA32",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

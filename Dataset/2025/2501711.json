@@ -1,0 +1,110 @@
+{
+ "awd_id": "2501711",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Hot Cracking and Porosity Detection in Metal Additive Manufacturing using Eddy Current Sensor",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924813",
+ "po_email": "sbukkapa@nsf.gov",
+ "po_sign_block_name": "Satish Bukkapatnam",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 125000.0,
+ "awd_amount": 125000.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Metal parts made through additive manufacturing can suffer from hidden flaws such as cracks and pores that compromise their performance and safety. These defects increase the production cost and limit the use of additive manufacturing in critical applications, such as aerospace, biomedical, and automotive systems. This Engineering Research Initiation (ERI) project aims to develop a real-time, non-destructive method for detecting internal defects using electromagnetic waves during the manufacturing process itself. By doing so, the research enables instant quality assurance without interrupting production or damaging parts. This will make additive manufacturing more reliable, cost-effective, and suitable for widespread use. The project will also contribute to building a skilled workforce through educational outreach, curriculum development, and research training for students. These efforts are aligned with the national goals of advancing science, strengthening domestic manufacturing, and maintaining the nation's global competitiveness. Ultimately, this research aims to transform the way advanced materials and components are inspected, thereby improving safety, reducing waste, enhancing the supply chain, and supporting innovation.\r\n\r\nThe primary goal of this research is to develop a physical framework that links the behavior of electromagnetic signals to the shape, size, and location of defects in metal parts fabricated using laser powder bed fusion. The project will focus specifically on the response of eddy current sensors to subsurface anomalies such as hot cracks, lack of fusion zones, and gas-induced porosities under the elevated temperature and variable conductivity conditions unique to additive manufacturing. The study begins with computational modeling to optimize sensor coil geometry for enhanced defect sensitivity. These simulations will incorporate temperature-dependent material properties and realistic geometrical configurations encountered in metal printing. Following the modeling phase, a laboratory-scale testbed will be constructed to replicate key defect features of the laser powder bed fusion process and to validate the electromagnetic signal predictions. The testbed will enable controlled detection of representative defects, allowing for precise correlation between defect characteristics and sensor responses. The project will deliver three key outcomes: (1) validated sensor design guidelines tailored to additive manufacturing, (2) an electronic circuit for high-resolution eddy current signal acquisition, and (3) robust algorithms for real-time defect classification and dimensional analysis. These contributions will enable practical, scalable in-situ monitoring systems that improve part quality and accelerate certification, thereby facilitating broader adoption of metal additive manufacturing in the industry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Abdullah",
+   "pi_last_name": "Amin",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Abdullah A Amin",
+   "pi_email_addr": "aamin1@udayton.edu",
+   "nsf_id": "000973722",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Dayton",
+  "inst_street_address": "300 COLLEGE PARK AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAYTON",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "9372293232",
+  "inst_zip_code": "454690001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "OH10",
+  "org_lgl_bus_name": "UNIVERSITY OF DAYTON",
+  "org_prnt_uei_num": "V62NC51F7YV1",
+  "org_uei_num": "V62NC51F7YV1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Dayton",
+  "perf_str_addr": "300 COLLEGE PARK AVE",
+  "perf_city_name": "DAYTON",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "454690001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "OH10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  },
+  {
+   "pgm_ref_code": "088E",
+   "pgm_ref_txt": "THERMALLY DRIVEN PROCESSES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 125000.0
+  }
+ ],
+ "por": null
+}

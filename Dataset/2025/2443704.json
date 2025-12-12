@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443704",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Foundations of Dynamic Multi-Agent Learning Under Information Constraints",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 538000.0,
+ "awd_amount": 538000.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Recent years have witnessed significant progress of learning in dynamic environments. Many such success stories, e.g., AlphaGo, autonomous driving, and robot learning, naturally involve \u201cmultiple agents\u201d. Note that these agents usually operate under \u201cInformation Constraints\u201d as the underlying system state is only partially observable, and each agent only has local information that differs across agents. Despite the practical relevance, theoretical foundations for such settings are not well developed. The PI proposes three novel research thrusts (RTs) that bridge the insights from Control Theory and Machine Learning (ML). In RT 1, PI will formally introduce \u201cInformation Structure\u201d, a well-studied notion in Decentralized Stochastic Control, into the theoretical studies of dynamic multi-agent learning. In RT 2, PI will theoretically ground several new empirical paradigms that address Information Constraints in multi-agent dynamic learning, with non-asymptotic complexity analyses. In RT 3, PI will introduce the perspective of \u201cLearning-in-Games\u201d, justifying equilibrium as the \u201cemerging\u201d outcome from agents\u2019 independent learning, into this information-constrained and dynamic setting. The principles and algorithms will be validated on new testbeds both in simulations and on robotic platforms. This program is expected to bring significant changes to the foundations of multi-agent learning in dynamic environments.\r\n\r\nFrom a ML perspective, the introduction of Control principles as Information Structures will help ground many empirical advances systematically. From a Control perspective, the formalization of the new ML regimes will open up new research problems to further understand the \u201cValue of Information\u201d for \u201cLearning\u201d purposes in multi-agent systems, in addition to the well-studied subject of its value for \u201cOptimization\u201d purposes. Instantiating the \u201cLearning-in-Games\u201d perspective necessitates completely new solution concepts and learning dynamics. The proposed research is interdisciplinary, integrating fundamentals from Control Theory, Game Theory, Statistics, Theory of Computation, and Economics.\r\nThis program will advance the fundamental science of principled Large-Scale Autonomy, with broader impacts on socio-technical applications, including transportation systems, power networks, robotics, and supply chains. The program will design new curricula particularly on multi-agent dynamic learning, mentoring undergraduate students for robotic competitions, outreach to K-12 students, and building the community of multi-agent learning through new academic events and industry collaborations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kaiqing",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kaiqing Zhang",
+   "pi_email_addr": "kaiqing@umd.edu",
+   "nsf_id": "000954807",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 538000.0
+  }
+ ],
+ "por": null
+}

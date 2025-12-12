@@ -1,0 +1,102 @@
+{
+ "awd_id": "2514192",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Energy Efficient (sub)mm-Wave Transceiver Phased Array for High Speed and Secure Wireless Communications",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 19126.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "In today's Big Data Era, the relentless exponential increase of data generation, especially of real-time data from personal daily activities coupled with emerging applications, not only offers great and unprecedented opportunities, but also imposes a significant challenge to process and transmit the ever-increasing large volume and varieties of data in timely manner and avoid being drown in the constantly fast-expanding gigantic data sea. One of the key enablers to achieve this goal is an energy-efficient and ultra-high-data-rate wireless communication system that matches and, at the same time, scales with the data generation rate. Moreover, wireless communication systems are vulnerable to data intrusion with the increasing number of access networks and nodes in dynamic and open communication environments. This forms a big challenge to wireless cybersecurity. Therefore, to satisfy the needs in the Big Data Era, the next generation wireless communication systems with improved energy efficiency and ultra-high data rate while achieving enhanced security is demanded. The research will develop a new reconfigurable and scalable transceiver phased array system, operating at mm-wave to sub-mm-wave frequencies, to achieve these three objectives. To overcome the many performance challenges at such high frequencies, this project will develop several key enabling and new techniques at different design levels, including system configuration, transceiver architecture, and circuit design. The success of this research will advance scientific understanding and create a new design methodology to achieve unparalleled data rates and energy efficiency, which will broadly impact the wireless industry and benefit the society. Moreover, this project will train future engineers and scientists for the fast-growing data-driven industries, with special efforts to promote diversity by training more female and minority students. \r\n\r\nThe project will develop a reconfigurable and scalable wireless communication system, operating at mm-wave to sub-mm-wave frequencies, that can be efficiently reconfigured into three operation modes: ultra-high data rate for short distance, high data rate for medium distance, and medium data rate for long distance. The array architecture is based on coupled oscillators for high-efficient frequency tuning and beam forming. The unique tuning scheme allows the array size to be scaled effectively for different operation modes to be deployed in different application scenarios without redesigning the whole system. The new direct antenna modulation scheme enables ultra-high data rates and boosts transmitter energy efficiency by mitigating conventional antenna bandwidth constraints and eliminating linear power amplifiers. And the proposed high gain and low noise mixer structure extracts signal phase information to enable high-order demodulation scheme with enhanced receiver noise and gain performance and reduced power consumption. In addition, the proposed redundancy mapping scheme offers secure wireless communications without extra power and communication overheads. If successful, the system's data rate and energy efficiency will be orders of magnitude higher than existing technologies and therefore the new system will open a new door for secure and ultra-high-speed wireless applications. This project will also investigate the design methodologies on how to achieve the highest frequency/speed with the best energy efficiency systematically, from system and circuit levels down to device level. The transformative design methodologies are expected to benefit other wireless applications, such as radar, imaging, and sensing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qun Jane",
+   "pi_last_name": "Gu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qun Jane Gu",
+   "pi_email_addr": "jane.gu@gatech.edu",
+   "nsf_id": "000630937",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01001920DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2019,
+   "fund_oblg_amt": 19126.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443734",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Ultra-low threshold all-optical nonlinear image processing with high-quality factor metasurfaces",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 559919.0,
+ "awd_amount": 559919.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Non-technical description\r\nThe field of optical engineering has reached such maturity that light scattering through a carefully design medium can replicate almost any function that a digital computer can perform, blurring the boundary between computational imaging and physical optics. However, nonlinearity \u2013 the seed of complexity in weather patterns, ecosystems, the human brain, and of course artificial neural networks \u2013 represents a key missing ingredient in all-optical image processing hardware. Intensity dependent light transport is well known, but it typically requires unreasonably bright light sources that are not found in everyday settings. By developing nanostructured pixels capable of trapping both heat and light, and efficiently generating heat from light, this project will produce nonlinear image processors that respond to the low power levels found in everyday light sources, such as LEDs and cheap laser diodes. This work will provide a big step towards economical object sensors capable of performing medical diagnostics, surveillance, and safety/security monitoring without needing a camera, computer chip, or even a battery. Inspired by creative individuals with no formal education in computer science or electrical engineering that solve interesting and important problems using high level programming languages and microelectronics kits, this project will also produce an \u201coptical devices\u201d apprenticeship. Developed in collaboration with industry experts, the course will train non-science students in the skills and techniques needed to realize useful nanophotonic systems via a guided-play based experience. Devices produced in the research portion of the project will be used within exhibits and workshops on all-optical image processing, targeting high school students to both inspire and empower them to enter the photonics workforce. Beyond science dissemination, these events will break misconceptions about scientific careers, highlighting creative expression and play rather than technical detail and mathematical rigor.\r\n\r\nTechnical description\r\nIn pursuit of nanomaterials that exhibit intensity dependence with exceedingly weak illumination, we will simultaneously optimize the contributions to nonlinear enhancement from both nano-structural resonances and intrinsic nonlinearities. This will allow us to discover and approach the upper-bound on nonlinear refractive index strength. Specifically, we will develop a new class of visible and infrared meta-atoms, referred to as dipolar guided mode resonators, that support extremely long-lived resonances while coupling efficiently to free space. These resonances will be optically and thermally tailored to amplify photothermal effects through a careful balance between radiation loss, thermal decay, and absorption. Addressing a crucial performance metric for any image filter \u2013 resolution \u2013 we will explore the fundamental limit for how densely an array of individually free space addressable high quality factor cavities can be arranged. The project will culminate in prototype demonstrations of one- and two-dimensional image thresholding filters with light sources ranging from picosecond pulses, amplified tunable diode lasers, and cheap fixed wavelength laser diodes and LEDs. As well as being a launch pad for all-optical machine vision research, we expect the devices we build to be directly applicable to low overhead commercial image sensors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Lawrence",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark Lawrence",
+   "pi_email_addr": "markl@wustl.edu",
+   "nsf_id": "000930152",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "ONE BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631304899",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 559919.0
+  }
+ ],
+ "por": null
+}

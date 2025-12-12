@@ -1,0 +1,130 @@
+{
+ "awd_id": "2442884",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Artificial Intelligence-Driven Framework for Efficient and Explainable Immunotherapy Design",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032924748",
+ "po_email": "sgage@nsf.gov",
+ "po_sign_block_name": "Stephanie Gage",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 581503.0,
+ "awd_amount": 224582.0,
+ "awd_min_amd_letter_date": "2025-04-03",
+ "awd_max_amd_letter_date": "2025-04-03",
+ "awd_abstract_narration": "Immunotherapy is a cancer treatment that uses the patient's own immune system to control tumor growth.  Adoptive cell transfer of chimeric antigen receptor (CAR) T cells into cancer patients has revolutionized the treatment of blood cancers, demonstrating the power of synthetic signaling receptors for immunotherapy. Despite this tremendous promise, there is a need for better, highly diverse receptor systems for effective therapies to apply immunotherapy to solid tumors. There is a wide range of potential receptor design directions to engineer more potent immunotherapeutic cells. To address the combinatorial complexity of possible design solutions, computational tools and methods are vital for the continuous innovation and improvement of these therapies to make them safer, more effective, and tailored to individual patient needs. This project aims to develop a computational framework with a novel methodology that integrates knowledge from published scientific papers and databases with experimental data using large language models (LLMs) and graph neural networks (GNNs), to provide a tool that will enable transformative cancer immunotherapy treatment designs. This project includes outreach programs and educational storytelling videos to introduce future generations of engineers and scientists and the broader community to the field of synthetic biology, as well as curriculum development and student mentoring. \r\n\r\nIn this project, a fully automated framework will be created that integrates knowledge-driven and data-driven artificial intelligence approaches to recommend the most effective immunotherapeutic cell designs. Specifically, prompting methods will be developed as part of the framework to enable efficient use of LLMs for reliably extracting knowledge facts and symbolic rules from scientific literature. These facts will be represented in the form of knowledge graphs that capture the knowledge about signaling networks within immunotherapeutic cells, connecting newly designed receptors or pathways with markers of important processes, such as cytotoxicity and stemness. Further, GNN architectures will be utilized when exploring and improving the knowledge graphs, as well as when explaining the dynamic behavior of signaling networks within the tumor microenvironment. This project will also develop methods for reliably identifying and resolving inconsistencies in knowledge graphs when studying intracellular signaling. This work will provide new AI algorithmic approaches that incorporate scientific facts and principles within learning and reasoning to ensure explainable and trustworthy predictions. The developed computational methods will be generalizable to other T cells and immune cells, thus equipping synthetic biologists with a framework to quickly identify and explain receptor or pathway designs that could lead to potent cellular behaviors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Natasa",
+   "pi_last_name": "Miskov-Zivanov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Natasa Miskov-Zivanov",
+   "pi_email_addr": "nmzivanov@pitt.edu",
+   "nsf_id": "000618493",
+   "pi_start_date": "2025-04-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pittsburgh",
+  "inst_street_address": "4200 FIFTH AVENUE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4126247400",
+  "inst_zip_code": "152600001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MKAGLD59JRL1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pittsburgh",
+  "perf_str_addr": "4200 FIFTH AVENUE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152600001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7931",
+   "pgm_ref_txt": "COMPUTATIONAL BIOLOGY"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 224582.0
+  }
+ ],
+ "por": null
+}

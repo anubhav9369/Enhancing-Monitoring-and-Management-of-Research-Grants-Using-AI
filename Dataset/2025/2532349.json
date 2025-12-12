@@ -1,0 +1,114 @@
+{
+ "awd_id": "2532349",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Distributed Intelligence in Future Wireless Networks: From System-Aware Learning to System-Learning Co-designs",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 459202.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "Given the growing sensing and computing power of wireless devices, amplified by increasing concerns on data privacy, a sizeable number of artificial intelligence and machine learning tasks are running at the devices distributed in wireless networks. Unfortunately, most of learning algorithm developments pay little attention to the underlying system constraints; and, most of existing communication and network designs rarely account for the unique characteristics of running learning tasks. To catalyze the synergies between rapid machine learning developments and the wireless network designs, this project aims at a transformative co-design of distributed learning algorithms and wireless networks. This CAREER project will further integrate an educational plan with the research goals by i) revamping the existing sensor network course with distributed learning components; ii) directly involving undergraduate and graduate students in research, especially from under-represented groups; and, iii) outreaching to the general public, in particular K-12 students and teachers.\r\n\r\nTowards this goal, this CAREER project will pursue i) system-aware learning, and ii) system-learning co-designs. For system-aware learning, the project will first develop resource-efficient distributed learning algorithms, whereby learning updates will be executed parsimoniously. Robust implementation of these resource-efficient algorithms will be studied to account for user mobility and adversarial attacks in unreliable wireless channels. Regarding system-learning co-designs, the project will develop new learning-while-managing algorithms that maximize the learning accuracy through joint learning, power control, queueing, and workload management schemes. This project presents an ambitious plan to enable system-learning co-designs of future wireless networks. Its fundamental advances will also impact sociotechnical systems, such as power grids, urban transportation systems and water/gas distribution systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tianyi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tianyi Chen",
+   "pi_email_addr": "chentianyi19@gmail.com",
+   "nsf_id": "000807915",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 352002.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 107200.0
+  }
+ ],
+ "por": null
+}

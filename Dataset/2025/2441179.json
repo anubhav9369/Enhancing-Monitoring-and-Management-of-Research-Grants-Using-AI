@@ -1,0 +1,122 @@
+{
+ "awd_id": "2441179",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: ChronosDrive: Ensuring Timing Correctness in DNN-Driven Autonomous Vehicles with Accelerator-Enhanced Real-Time SoC Integration",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 595611.0,
+ "awd_amount": 470398.0,
+ "awd_min_amd_letter_date": "2025-02-24",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "The rapid advancement of embedded systems, driven by system-on-a-chip (SoC) technologies, is accelerating the deployment of autonomous machines in fields like robotics, drones, and autonomous vehicles. These innovations demand more than correct operation; autonomous machines, particularly those powered by deep neural networks (DNNs) in autonomous vehicles, must meet strict timing requirements that necessitate rigorous real-time safety certifications. Such certifications rely on advanced analytical methods combining worst-case execution time analysis with schedulability analysis to ensure operational safety and reliability. However, significant challenges persist in integrating worst-case execution time and schedulability analysis, especially in evaluating the timing accuracy of systems that use computing accelerators for autonomous driving. The project\u2019s novelties are its development of an integrated architecture that leverages hardware-software co-design to address these complex issues, with the aim of significantly enhancing the safety and reliability of autonomous driving systems and other autonomous machines. The project's broader significance and importance lie in its commitment to integrating this research into educational and outreach activities to encourage diversity in STEM fields and broaden participation in computing and engineering. \r\n\r\nTo achieve these research goals, the project is organized around three core objectives: (1) developing an accelerator-enhanced SoC that enables real-time scheduling decisions directly at the hardware level, supporting efficient task management by the runtime scheduler; (2) designing an accelerator-aware real-time scheduling framework that accurately characterizes and assesses the complex execution behaviors and timing requirements of DNN tasks within the operating system layer; and (3) implementing an outlier management strategy to derive reliable worst-case execution time values for DNN tasks on accelerators at the application layer. Together, these objectives advance system software to reliably manage DNN-intensive applications on customized heterogeneous SoCs and establish precise, temporally accurate resource allocation schemes. This project sets the foundation for certifiable, safety-critical autonomous machines that deliver assured real-time performance and reliability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zheng",
+   "pi_last_name": "Dong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zheng Dong",
+   "pi_email_addr": "dong@wayne.edu",
+   "nsf_id": "000813275",
+   "pi_start_date": "2025-02-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wayne State University",
+  "inst_street_address": "5700 CASS AVE STE 4900",
+  "inst_street_address_2": "",
+  "inst_city_name": "DETROIT",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "3135772424",
+  "inst_zip_code": "482023692",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "MI13",
+  "org_lgl_bus_name": "WAYNE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M6K6NTJ2MNE5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wayne State University",
+  "perf_str_addr": "5700 CASS AVE STE 4900",
+  "perf_city_name": "DETROIT",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "482023692",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "MI13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 470398.0
+  }
+ ],
+ "por": null
+}

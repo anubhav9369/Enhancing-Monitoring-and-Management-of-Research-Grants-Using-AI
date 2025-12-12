@@ -1,0 +1,98 @@
+{
+ "awd_id": "2506667",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Enhancing Global Positioning System (GPS) Precision in Dense Urban Environments for Unmanned Aerial Vehicle Navigation",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2024-12-09",
+ "awd_max_amd_letter_date": "2024-12-09",
+ "awd_abstract_narration": "The broader impact of this I-Corps project is the development, validation, and introduction to market of a correction technology to address gaps in Global Positioning System (GPS) performance in urban areas. This technology has the potential to enhance the accuracy and reliability of autonomous systems such as drones, urban air mobility vehicles, and delivery robots, The solution will help them navigate more safely and efficiently in high-density environments where existing GPS signals are error-prone and offer degraded performance. The societal impact of this project includes safer urban transportation, streamlined emergency response and healthcare logistics, and environmental sustainability through optimized route planning and reduced congestion. Commercially, this technology has the potential to meet the critical need for affordable, modular, and lightweight GPS systems, overcoming the cost, size, and power limitations of the current technologies in critical industries. Low power consumption and flexible design make the solution ideal for seamless integration into various autonomous platforms without requiring additional infrastructure. This adaptability positions this technology to impact a wide range of sectors from logistics to aerospace. \r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a machine learning-powered sensor fusion system that integrates multiple sensing modalities, including inertial measurement units, barometric pressure, and time-of-flight sensors, to enhance real-time GPS accuracy. The system employs deep neural network models, specifically recurrent architectures, to adaptively correct GPS data, especially in challenging environments like dense urban landscapes where GPS signals are often obstructed or reflected. By leveraging cost-effective, low-power sensors, this project introduces a scalable method to provide accurate positioning without relying on extensive infrastructure resources. The research supporting this solution demonstrates significant improvements in localization precision, with a substantial reduction in positioning errors, improving precision and improved adaptability to varying noisy environmental conditions. The technical results show a 30% improvement in positioning accuracy and a fivefold improvement in precision compared to conventional GPS solutions in urban conditions at high speeds (i.e., exceeding 10Hz). The approach, built on foundational advances in sensor fusion and machine learning, offers a robust framework that can dynamically integrate real-time data streams enabling high-precision positioning across multiple fields, including navigation, transportation, and autonomous systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sep",
+   "pi_last_name": "Makhsous",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sep Makhsous",
+   "pi_email_addr": "sosper30@uw.edu",
+   "nsf_id": "0000A253B",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1639",
+   "pgm_ref_txt": "SENSORS AND SENSING SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

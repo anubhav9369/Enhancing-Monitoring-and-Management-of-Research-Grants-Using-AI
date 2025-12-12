@@ -1,0 +1,102 @@
+{
+ "awd_id": "2527905",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Electrical and Optical Control of Cavity-Coupled Single T Center Spins in Silicon",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922980",
+ "po_email": "ddagenai@nsf.gov",
+ "po_sign_block_name": "Dominique Dagenais",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 375000.0,
+ "awd_amount": 375000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Quantum networking represents an enabling technology to build distributed quantum systems through remote entanglement. It offers transformative capabilities in secure communications and constructing large-scale quantum computers. T centers in silicon emerge as a novel type of qubit for quantum networking applications, owing to their preferrable telecom optical transitions and long spin coherence times. This research endeavor seeks to investigate and control the spin-photon interface properties of device-integrated single T centers via externally applied electric fields. The knowledge and methods gained about the electric field control of T center electrical environment will help to tackle the critical spectral diffusion issue for single T centers and boost the advancement of constructing scalable quantum networks based on device-integrated T center qubits. Beyond the scientific objectives, this project is also committed to training the next-generation quantum workforce. We will incorporate interdisciplinary education initiatives \u2013 spanning quantum curriculum development, capstone and REU projects, lab summer internship, and high school outreach \u2013 aimed at engaging students from different academic backgrounds in cutting-edge quantum information science and technology research.\r\n\r\nTechnical Description: \r\nSingle T center spins in silicon are promising candidates for building quantum repeater devices for quantum networking applications. Photonic device-coupled single T centers experience significant spectral diffusion, broadening their optical linewidths far beyond the transform limit and impeding critical quantum networking protocols. This research project will utilize electric fields to control the electrical environment for cavity-coupled single T centers and tune their optical transitions via DC Stark effect. The research aims to narrow down the T center optical linewidth and elucidate how electric field affects the T center spin-photon interface properties. The team will implement microscopic electrodes with tight spacing to enable large electric fields and explore the charge noise depletion and its influence on T center spectral diffusion. The team will further investigate how electric field affects the T center photon indistinguishability and spin coherence. The work will shed light on mitigating T center spectral diffusion issue and accelerate the development of quantum network nodes and repeaters based on cavity-coupled T centers for building scalable quantum networks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Songtao",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Songtao Chen",
+   "pi_email_addr": "songtao.chen@rice.edu",
+   "nsf_id": "000864126",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "William Marsh Rice University",
+  "inst_street_address": "6100 MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7133484820",
+  "inst_zip_code": "77005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "TX07",
+  "org_lgl_bus_name": "WILLIAM MARSH RICE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "K51LECU1G8N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "William Marsh Rice University",
+  "perf_str_addr": "6100 MAIN ST",
+  "perf_city_name": "Houston",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "770051827",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "TX07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 375000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,117 @@
+{
+ "awd_id": "2524740",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: GEO OSE Track 1: Building an Equation-Based Geoscientific Modeling Network",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032928369",
+ "po_email": "scwhite@nsf.gov",
+ "po_sign_block_name": "Scott M. White",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Geoscientific computational models are used to predict a wide range of natural processes such as weather, water supply, air pollution, eruptions, floods, and tsunamis. Progress in geo-modeling is held back by the need for geoscientists to also acquire expertise in computer science. The project will introduce a novel modeling workflow to overcome this hurdle. This project supports the development and community adoption of a symbolic equation-based modeling system. This system separates automates the numerical processing optimization so geoscientists can focus on the equations that describe natural processes. This system also advances the use of artificial intelligence in geosciences for simplifying model reduction and parameterization. The proposed work consists of three thrusts involving 1) community organization, 2) model development, and 3) de-centralized model management and education. A series of workshops at major international geoscientific meetings domestically and abroad will help define project priorities. Models will be documented on a dedicated website, run by a decentralized governance system and supported with interactive educational experiences to transition to a user-supported network for long-term growth.\r\n\r\nGeoscientific computational models simulate natural processes such as weather, water supply, and air pollution; for analyzing risks of volcanoes, floods, and tsunamis. The proposed project will introduce a new process of geoscientific model development, where model components and their interrelationships are specified as a system of equations that a compiler automatically transforms into a computer model. By separating the model design (the equations) from model implementation (the code compiler), geoscientists can focus on building equation systems that represent their areas of expertise, greatly increasing the participation in geoscientific modeling. This system will also provide an ideal base for integrating AI model reduction and parameterization into the geosciences. Project activities are divided into three thrusts. Thrust 1 will convene a series of workshops to create a shared roadmap for model development at major international geoscientific meetings domestically and abroad. Thrust 2 will expand on the types of systems that can be studied with equation-based models by implementing model components and capabilities as prioritized by project members and workshop participants.  Model capabilities will be documented on a dedicated website. Thrust 3 will implement a decentralized governance system and interactive educational experiences to transition to a user-supported network of equation-based modelers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Tessum",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher Tessum",
+   "pi_email_addr": "ctessum@illinois.edu",
+   "nsf_id": "000863163",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Zhao",
+   "pi_email_addr": "leizhao@illinois.edu",
+   "nsf_id": "000800000",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cristian",
+   "pi_last_name": "Proistosescu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cristian Proistosescu",
+   "pi_email_addr": "cristi@illinois.edu",
+   "nsf_id": "000813232",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

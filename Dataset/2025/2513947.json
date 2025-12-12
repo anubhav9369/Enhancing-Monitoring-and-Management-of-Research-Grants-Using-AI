@@ -1,0 +1,158 @@
+{
+ "awd_id": "2513947",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Frameworks: StreamCI: an AI-ready streaming data platform for a wide range of scientific applications",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925184",
+ "po_email": "awapon@nsf.gov",
+ "po_sign_block_name": "Amy Apon",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 3999999.0,
+ "awd_amount": 3999999.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "This project creates StreamCI, an open-source streaming data platform designed to help researchers and users across industries to more effectively harness massive sensor data streams using modern data analysis methods such as artificial intelligence (AI) and machine learning (ML). StreamCI simplifies the collection, management, and analysis of sensor data streams in a user-friendly, cloud-based system accessible to the broad research community. By lowering technical barriers and making data AI-ready, StreamCI empowers domain experts to build intelligent and responsive applications that drive faster discoveries and more effective solutions. The platform also serves as an open educational resource, training the next generation of data- and AI-savvy researchers to create data-driven solutions for critical societal needs.\r\n \r\nStreamCI is designed to streamline the entire workflow for sensor data streams, from capturing raw sensor data to processing it at various levels of fidelity, anonymization, and transformation; and to apply suitable ML methods across different modalities and enable Findable, Accessible, Interoperable, and Reusable (FAIR) data sharing for research reproducibility and cross-domain science. The core innovations of the project include high-level data abstractions that allow researchers to combine data streams across sources; AI-readiness through novel tools for data preparation and canonical and customized data pipelines; low-code application development and integration of powerful tools; and scalable, seamless service deployment and delivery. StreamCI is used across a wide range of domains, including energy, manufacturing, transportation, agriculture, ecology, audiology, and education, demonstrating its broad applicability and versatility. StreamCI is deployed as an open-source, cloud-based software-as-a-service. Its open-source release allows researchers to set up and operate StreamCI on their local computers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ananth",
+   "pi_last_name": "Grama",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ananth Grama",
+   "pi_email_addr": "ayg@cs.purdue.edu",
+   "nsf_id": "000319590",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaohui Carol",
+   "pi_last_name": "Song",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaohui Carol Song",
+   "pi_email_addr": "cxsong@purdue.edu",
+   "nsf_id": "000298986",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ming",
+   "pi_last_name": "Qu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ming Qu",
+   "pi_email_addr": "mqu@purdue.edu",
+   "nsf_id": "000527575",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Heinz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Heinz",
+   "pi_email_addr": "mheinz@purdue.edu",
+   "nsf_id": "000552248",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jian",
+   "pi_last_name": "Jin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jian Jin",
+   "pi_email_addr": "jinjian@purdue.edu",
+   "nsf_id": "000753701",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "772600",
+   "pgm_ele_name": "Data Cyberinfrastructure"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "7396",
+   "pgm_ref_txt": "NEES RESEARCH"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 3999999.0
+  }
+ ],
+ "por": null
+}

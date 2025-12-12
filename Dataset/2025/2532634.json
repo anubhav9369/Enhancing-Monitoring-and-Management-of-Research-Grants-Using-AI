@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532634",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Invariant Solutions in Strongly Nonlinear Thermal Convection: A New Approach to Asymptotic Transport",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 249955.0,
+ "awd_amount": 249955.0,
+ "awd_min_amd_letter_date": "2025-07-17",
+ "awd_max_amd_letter_date": "2025-07-17",
+ "awd_abstract_narration": "Understanding how heat and momentum are transported in thermally driven fluids under extreme conditions is a longstanding scientific challenge with profound implications for geophysical and astrophysical systems, such as deep ocean currents and solar convection. This project investigates fluid behavior in the situation of very strong thermal forcing\u2014where traditional simulations and experiments fail\u2014by focusing on exact solutions of the governing equations. Rather than relying on chaotic, turbulent states, the research centers on identifying and analyzing special, dynamically unstable flow patterns known as invariant solutions. These solutions provide a window into the fundamental physics of convection and a path toward deriving the true asymptotic laws that govern heat transport in extreme conditions. The project promotes the progress of science by advancing fundamental understanding of planetary and solar system dynamics. The project also enhances undergraduate engagement in advanced scientific research at a primarily undergraduate institution and contributes to workforce development in computational science. In addition, a structured outreach plan\u2014featuring undergraduate mentoring, research-based coursework, and public engagement through NYIT's Annual Math Day will connect students from regional colleges and high schools through shared research experiences. \r\n\r\nThe project aims to uncover the asymptotic heat transport behavior of steady-state convective flows governed by the Navier\u2013Stokes and advection-diffusion equations in the large-Rayleigh-number limit. Through a combination of novel computational algorithms and advanced asymptotic analysis, the PI will compute and analyze invariant steady solutions in both two and three dimensions across a broad range of Prandtl numbers. These solutions not only exhibit structural similarities to turbulent flows but also offer improved accessibility for extracting asymptotic transport scalings. Key research tasks include computing steady solutions at Rayleigh numbers beyond the reach of previous studies, constructing asymptotic approximations via matched asymptotic analysis, and extending the methodology to three-dimensional convection. The project will advance the modern dynamical-systems perspective on turbulence and offer new theoretical insights into extreme nonlinear transport in buoyancy-driven convection.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Baole",
+   "pi_last_name": "Wen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Baole Wen",
+   "pi_email_addr": "bwen@nyit.edu",
+   "nsf_id": "000842564",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York Institute of Technology",
+  "inst_street_address": "1855 BROADWAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5166867737",
+  "inst_zip_code": "10023",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NY12",
+  "org_lgl_bus_name": "NEW YORK INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SVZSJHR2A4T6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York Institute of Technology",
+  "perf_str_addr": "1855 BROADWAY",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100237606",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NY12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 249955.0
+  }
+ ],
+ "por": null
+}

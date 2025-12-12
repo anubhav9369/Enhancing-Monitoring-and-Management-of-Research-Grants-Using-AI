@@ -1,0 +1,98 @@
+{
+ "awd_id": "2503828",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI:  Controlling Flow Boiling Instability in Divergent Microchannel Utilizing Secondary Flow",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924736",
+ "po_email": "fcao@nsf.gov",
+ "po_sign_block_name": "Fangyu Cao",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 199999.0,
+ "awd_amount": 199999.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Overheating of electronic equipment often leads to device failure. As electronic devices are made smaller, removing heat becomes a bigger challenge for designers. A microchannel heat sink is a small device containing many narrow tunnels that can be used to remove heat. Cooling liquid flows through the tunnels and efficiently carries away heat from hot electronic parts. Microchannel heat sinks are especially promising because they have a lot of surface area in a small space. Furthermore, they can use two-phase boiling inside the microchannels to increase the rate of heat removal, as it takes a lot of heat to boil the cooling liquid. However, adopting two-phase boiling in microchannel heat sinks has proven difficult because vapor bubbles that form during boiling can disrupt flow through the microchannels.  To address this issue, the team will use both computational and experimental models to understand how flow is disrupted and use the results to design methods to suppress the disruptions.  The results from the project will benefit myriad applications, including electric vehicle batteries, power systems, and space thermal control systems.  The project will also provide STEM outreach, improved heat transfer courses, and hands-on undergraduate research experiences at a primarily undergraduate institution.\r\n\r\nA major challenge for microchannel heat sink boiling is instability due to vapor bubble reversal, which leads to pressure and temperature oscillation. The project will suppress flow boiling instability in a diverging counterflow microchannel heat sink by removing the vapor bubbles along the flow direction using secondary flow through interconnectors. It is hypothesized that the pressure distribution along the flow direction will induce secondary flow in a diverging microchannel heat sink, facilitating the collapse of any trapped elongated vapor bubbles. As a result of vapor bubble clearing, the heated surface will be prevented from dry-out and operate at higher heat flux. The project\u2019s numerical task includes developing a three-dimensional computational fluid dynamics model that will provide a detailed understanding of secondary flow controls through interconnectors and bubble dynamics of flow boiling by pressure, temperature, and flow contour. The experimental framework will consist of a flow loop, a test section, a power supply system, and a data acquisition system, and the parameters tested will include critical heat flux, surface superheat, pressure drop, and boiling images. A high-speed camera will be used for flow visualization and will provide details of bubble dynamics and secondary flow behavior.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "TITAN",
+   "pi_last_name": "PAUL",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "TITAN C PAUL",
+   "pi_email_addr": "titanp@usca.edu",
+   "nsf_id": "000835068",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Carolina at Columbia",
+  "inst_street_address": "1600 HAMPTON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8037777093",
+  "inst_zip_code": "292083403",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "SC06",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH CAROLINA",
+  "org_prnt_uei_num": "Q93ZDA59ZAR5",
+  "org_uei_num": "J22LNTMEDP73"
+ },
+ "perf_inst": {
+  "perf_inst_name": "UNIVERSITY OF SOUTH CAROLINA",
+  "perf_str_addr": "471 UNIVERSITY PKWY",
+  "perf_city_name": "AIKEN",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "298016389",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "SC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199999.0
+  }
+ ],
+ "por": null
+}

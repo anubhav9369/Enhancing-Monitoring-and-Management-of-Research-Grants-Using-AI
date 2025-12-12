@@ -1,0 +1,102 @@
+{
+ "awd_id": "2448312",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Biological rules of analog information storage in the chromatin state",
+ "cfda_num": "47.074",
+ "org_code": "08070000",
+ "po_phone": "7032922890",
+ "po_email": "dklinke@nsf.gov",
+ "po_sign_block_name": "David J. Klinke",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1041774.0,
+ "awd_amount": 1041774.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "The cells of our body store information about their identity, such as blood, lung or brain, by locking gene expression through the chromatin state. Although common knowledge indicates that the chromatin state locks genes only \u201con\u201d or \u201coff\u201d, we propose that it can instead lock genes at a wide range of expression levels, thereby enabling analog information storage.  The possibility of encoding analog memory in the chromatin state opens a wide range of opportunities, including the possibility of differentiating pluripotent stem cells into sophisticated tissues with gradients of cell types. This could unlock the ability to create organoids that were not possible to create with previous binary memory paradigms as well as new tissues for regenerative medicine. Through the activities of this project, graduate and undergraduate students will be trained in mammalian synthetic biology, chromatin regulation, and mathematical modeling. We will develop new modules for courses taught at MIT and UCSD, use the research material to enrich our mammalian synthetic biology boot camp at MIT, and disseminate our findings broadly to technical and non-technical audiences through local community events.\r\n\r\nIn this project, we propose a model-driven built-to-understand approach to dissect the molecular mechanisms that dictate analog versus binary memory of gene expression. Our project is grounded on the hypothesis that the strength of the positive feedback loop between DNA methylation and histone H3 lysine 9 trimethylation (H3K9me3) determines whether memory is binary or analog.  Since the strength of this positive feedback depends on the cellular context, we propose to vary the context by considering different cell lines and promoters and to verify that memory is analog in those instances where the positive feedback is broken. We further propose to engineer analog memory in a cell line where memory is binary by artificially breaking the positive feedback loop through chromatin regulation. This will demonstrate our understanding of the biological rules that make memory analog. We will finally differentiate hiPSCs cell lines engineered with our reporter system to neural stem cells (NSCs) first and then to radial glial cells (RGCs) and monitor gene expression to determine whether and when analog memory emerges. This will validate whether analog memory naturally develops in the neural lineage, where gradients of cell types reminiscent of analog memory have been recently reported. This project is supported by the Systems and Synthetic Biology Cluster of the Division of Molecular and Cellular Biosciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Domitilla",
+   "pi_last_name": "Del Vecchio",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Domitilla Del Vecchio",
+   "pi_email_addr": "ddv@mit.edu",
+   "nsf_id": "000488420",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801100",
+   "pgm_ele_name": "Systems and Synthetic Biology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1041774.0
+  }
+ ],
+ "por": null
+}

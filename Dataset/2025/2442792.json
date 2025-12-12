@@ -1,0 +1,106 @@
+{
+ "awd_id": "2442792",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Advancing Learning-based 3D Vision Systems for Unstructured Environment Exploration",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599945.0,
+ "awd_amount": 599945.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Understanding and interpreting complex environments is crucial for autonomous systems to operate safely and efficiently. A self-driving vehicle must navigate through uneven terrain, a search-and-rescue drone must identify obstacles in disaster-stricken areas, and an environmental monitoring system must accurately reconstruct large-scale off-road scenes. However, existing computer vision algorithms, primarily designed for structured indoor or urban environments, often fail in these scenarios due to the unpredictable nature of off-road terrain, dynamic environmental conditions, and the scarcity of reliable visual features. This project will develop a 3D computer vision framework that fuses multiple sensing modalities, including RGB cameras, depth sensors, LiDAR, and event cameras, to enhance feature extraction, tracking, and large-scale scene reconstruction, thereby improving perception accuracy and adaptability in unstructured environments. The research will provide a foundation for next-generation autonomous perception systems, enabling significant advancements in autonomous navigation, environmental monitoring, and search-and-rescue operations. Additionally, the project will provide valuable educational opportunities by engaging students in hands-on research and promoting interdisciplinary learning in STEM.\r\n\r\nThis project will introduce a framework for learning robust 3D visual representations in unstructured environments by integrating multi-modal sensing, feature extraction, and dynamic scene reconstruction. The project will address four fundamental research challenges: (1) multi-modal imaging systems -- developing and deploying a multi-camera and multi-sensor setup to capture diverse environmental data; (2) multi-modal feature extraction and matching -- integrating short- and long-range sensor data using transformer-based architectures to improve feature robustness and spatial-temporal consistency; (3) robust 3D reconstruction -- developing adaptive reconstruction algorithms capable of handling varying lighting, weather conditions, and large-scale terrain variations, incorporating hierarchical Gaussian Splatting for scalable scene modeling; and (4) adaptive tracking - designing real-time tracking algorithms to manage occlusions, clutter, and dynamic elements, enabling accurate motion estimation and scene understanding. These research aims will be complemented by an extensive evaluation plan, including systematic benchmarking against state-of-the-art methods and real-world validation across diverse unstructured environments. The findings will contribute to advancements in computer vision, robotics, and artificial intelligence while providing publicly available datasets and educational resources.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nianyi",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nianyi Li",
+   "pi_email_addr": "nianyil@clemson.edu",
+   "nsf_id": "000835931",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Clemson University",
+  "inst_street_address": "201 SIKES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEMSON",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8646562424",
+  "inst_zip_code": "296340001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "SC03",
+  "org_lgl_bus_name": "CLEMSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2BMNX7DSKU8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Clemson University",
+  "perf_str_addr": "201 SIKES HALL",
+  "perf_city_name": "CLEMSON",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "296340001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "SC03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599945.0
+  }
+ ],
+ "por": null
+}

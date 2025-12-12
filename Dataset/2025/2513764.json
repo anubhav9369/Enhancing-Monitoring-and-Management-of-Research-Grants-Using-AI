@@ -1,0 +1,102 @@
+{
+ "awd_id": "2513764",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Accurate, Efficient, and Stable Numerical Methods for Reversible-Irreversible Thermodynamically Consistent PDEs",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 199814.0,
+ "awd_amount": 199814.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Complex physical systems, such as those found in material science, fluid dynamics, and life science, often involve intricate interactions between energy-conserving mechanisms and entropy-generating processes. These systems are usually modeled by reversible-irreversible thermodynamically consistent partial differential equations (RITC-PDEs). However, solving these RITC-PDEs accurately and efficiently over a long time period remains computationally challenging due to their non-equilibrium nature and the need to preserve thermodynamic properties at the discrete level. This project will develop a general computational framework to solve RITC-PDEs while maintaining their energy conservation and nonnegative entropy production for long-time dynamic simulations and predictions. The proposed research will lead to a unified computational framework for studying multiscale non-equilibrium phenomena across various scientific disciplines, along with open-source tools for the broader research community. The project will support STEM education through outreach to K-12 students and educators.\r\n\r\nReversible-irreversible thermodynamically consistent (RITC) PDEs arise from the principles of thermodynamics. They are essential for modeling coupled processes involving energy-conserving(reversible, dispersive) and entropy-producing (irreversible, dissipative) dynamics. This project will develop high-order, accurate, efficient, easy-to-implement, and structure-preserving numerical schemes that maintain thermodynamic properties for RITC-PDEs. Specifically, the project will (a) design innovative structure-preserving discretization methods, including decoupled and high-order schemes, to accurately simulate complex RITC systems while maintaining their inherent thermodynamic consistency; (b) develop advanced time-stepping algorithms that ensure efficiency and accuracy for multiscale dynamics, by leveraging system properties such as energy budgets, entropy production, and topological changes to guide adaptive time step sizes; (c) construct a structure-preserving model order reduction framework that can generate reliable surrogate models for large-scale RITC systems; and (d) implement an open-source software package for simulating RITC-PDEs with GPU acceleration, adaptive meshing, and user-defined model inputs. Ultimately, the proposed research will lead to a unified computational framework to study multiscale non-equilibrium phenomena and contribute to the fields of numerical analysis, scientific computing, material science, fluid mechanics, and interdisciplinary modeling.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jia",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jia Zhao",
+   "pi_email_addr": "jia.zhao@ua.edu",
+   "nsf_id": "000731175",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Alabama Tuscaloosa",
+  "inst_street_address": "801 UNIVERSITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUSCALOOSA",
+  "inst_state_code": "AL",
+  "inst_state_name": "Alabama",
+  "inst_phone_num": "2053485152",
+  "inst_zip_code": "35401",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ALABAMA",
+  "org_prnt_uei_num": "RCNJEHZ83EV6",
+  "org_uei_num": "RCNJEHZ83EV6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Alabama",
+  "perf_str_addr": "801 UNIVERSITY BLVD",
+  "perf_city_name": "TUSCALOOSA",
+  "perf_st_code": "AL",
+  "perf_st_name": "Alabama",
+  "perf_zip_code": "354012029",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199814.0
+  }
+ ],
+ "por": null
+}

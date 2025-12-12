@@ -1,0 +1,162 @@
+{
+ "awd_id": "2531569",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "NQVL:QSTD:Design: Quantum Computing Applications of Photonics (QCAP)",
+ "cfda_num": "47.049, 47.084",
+ "org_code": "03060000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 4000000.0,
+ "awd_amount": 2750000.0,
+ "awd_min_amd_letter_date": "2025-09-03",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "Quantum Information Science and Engineering promises to accelerate information processing far beyond classical limits, enabled by the differences in the foundational natural laws of classical and quantum physics. This project is dedicated to developing integrated hardware and software solutions that overcome current limitations in scalability and reliability. It provides a comprehensive technical approach to overcoming the intrinsic challenges of current quantum photonic devices. It is supported by a collaborative network of academic institutions and national laboratories, including the University of New Mexico as lead, along with New Mexico State University, University of Virginia, and University of Maryland, with additional technical expertise from Sandia National Laboratories (SNL), Los Alamos National Laboratory, and National Institute of Standards and Technology. The project is designed to yield significant broader impacts across multiple disciplines. While initially benefiting academic research communities, the project is strategically positioned to expand collaborations with government agencies, national laboratories, and industry partners, thereby addressing critical technology gaps in security, energy, and defense. In addition to advancing quantum research, the project places a strong emphasis on workforce development, creation of a new Quantum Science and Engineering graduate degree program, and educational outreach.\r\n\r\nCurrent quantum devices suffer from noise, insufficient fault tolerance and error correction, and operational constraints such as cryogenic temperatures and small-scale prototypes. This project aims to address these deficiencies by prototyping photonic architectures that include both a non-universal Gaussian boson sampling (GBS) approach that can show speedup beyond classical methods, and a universal, continuous-variable measurement-based quantum computing (CV-MBQC) strategy. The latter leverages high-squeezing parametric amplifier light sources for generating the photonic substrate needed for computation, high efficiency quantum dot light sources for boson sampling, and high efficiency detectors, moving toward universal applicability. This project integrates the development of novel light sources, reconfigurable interferometric processing units, and high-performance photodetectors with near-unity efficiency and low noise, all designed for on-chip integration. By employing co-design algorithms and realistic error models, the team will optimize computing speedup even in the early prototypes. In particular, quantum simulations of quantum field theory and of disorder in condensed matter physics will be performed. The collaboration between universities, national laboratories, and industry partners will leverage SNL's unique quantum foundry capabilities, enabling the design and large-scale manufacturing of the proposed GBS and CV-MBQC implementations of quantum photonic integrated circuits on a single chip.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "OSI",
+ "org_div_long_name": "Office of Strategic Initiatives (OSI)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Marek",
+   "pi_last_name": "Osinski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marek Osinski",
+   "pi_email_addr": "osinski@chtm.unm.edu",
+   "nsf_id": "000420537",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mario",
+   "pi_last_name": "Dagenais",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mario Dagenais",
+   "pi_email_addr": "dage@umd.edu",
+   "nsf_id": "000155195",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Olivier",
+   "pi_last_name": "Pfister",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Olivier R Pfister",
+   "pi_email_addr": "opfister@virginia.edu",
+   "nsf_id": "000418763",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Boris",
+   "pi_last_name": "Kiefer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Boris Kiefer",
+   "pi_email_addr": "bkiefer@nmsu.edu",
+   "nsf_id": "000260867",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tara",
+   "pi_last_name": "Drake",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tara E Drake",
+   "pi_email_addr": "drakete@unm.edu",
+   "nsf_id": "000845477",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of New Mexico",
+  "inst_street_address": "1 UNIVERSITY OF NEW MEXICO",
+  "inst_street_address_2": "",
+  "inst_city_name": "ALBUQUERQUE",
+  "inst_state_code": "NM",
+  "inst_state_name": "New Mexico",
+  "inst_phone_num": "5052774186",
+  "inst_zip_code": "871310001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NM01",
+  "org_lgl_bus_name": "UNIVERSITY OF NEW MEXICO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F6XLTRUQJEN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of New Mexico",
+  "perf_str_addr": "1 UNIVERSITY OF NEW MEXICO",
+  "perf_city_name": "ALBUQUERQUE",
+  "perf_st_code": "NM",
+  "perf_st_name": "New Mexico",
+  "perf_zip_code": "871310001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NM01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "315Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-3 Quantum"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2750000.0
+  }
+ ],
+ "por": null
+}

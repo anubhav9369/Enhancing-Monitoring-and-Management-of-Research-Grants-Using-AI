@@ -1,0 +1,122 @@
+{
+ "awd_id": "2420424",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIF: Small: Quantum LDPC Codes and Low-Complexity Iterative Decoders",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "Quantum computing holds the potential to revolutionize fields such as cryptography, materials science, and artificial intelligence. However, errors in quantum systems pose a significant challenge to the practical realization of large-scale quantum computers. This project seeks to address a fundamental issue in quantum computing: developing error correction techniques that can scale effectively as quantum systems grow. Current error correction methods become inefficient as the number of qubits increases, which limits the scalability of quantum computers. This research aims to overcome these challenges by developing a new class of quantum error correction codes - quantum low-density parity-check (QLDPC) codes, along with novel decoding methods. The results of this project should accelerate the development of fault-tolerant quantum computing, benefiting various industries and national security. Additionally, this project will provide valuable training opportunities for graduate students in advanced science and engineering, contributing to the development of a highly skilled workforce in this critical area of technology.\r\n\r\nThis project seeks to develop practical finite-length quantum low-density parity-check (QLDPC) codes, which are critical for overcoming current limitations in quantum error correction. These codes are designed to address the complex challenges of stabilizer commutativity and the long-range qubit connectivity required in scalable quantum systems. The research will focus on constructing QLDPC codes with minimized trapping sets---configurations within the code structure that hinder error correction---and on developing novel anisotropic iterative decoders. These decoders will leverage the inherent degeneracy of quantum codes to correct multiple errors with the same syndrome, significantly improving decoding performance. By introducing flexible message-passing update rules that adapt based on node positions in the code graph, the project aims to create decoders capable of near-optimal error correction without the latency typically associated with complex post-processing approaches. Furthermore, the project will explore new quantum-specific methods for estimating minimum distance in degenerate codes, such as the quantum impulse method, and optimize code construction with practical hardware constraints in mind. The resulting advances in QLDPC codes and ultra-fast decoders will contribute to the realization of fault-tolerant quantum computing, with significant implications for both theoretical research and practical applications in quantum technology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bane",
+   "pi_last_name": "Vasic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bane Vasic",
+   "pi_email_addr": "vasic@ece.arizona.edu",
+   "nsf_id": "000178000",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nithin",
+   "pi_last_name": "Raveendran",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nithin Raveendran",
+   "pi_email_addr": "nithin@arizona.edu",
+   "nsf_id": "000935565",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "1230 E. Speedway Blvd.",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "857210104",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7928",
+   "pgm_ref_txt": "QUANTUM COMPUTING"
+  },
+  {
+   "pgm_ref_code": "7935",
+   "pgm_ref_txt": "COMM & INFORMATION THEORY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442739",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Towards Proprioceptive Vision Through the Lens of Wearable Cameras",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 597457.0,
+ "awd_amount": 350714.0,
+ "awd_min_amd_letter_date": "2025-06-18",
+ "awd_max_amd_letter_date": "2025-06-18",
+ "awd_abstract_narration": "Understanding how humans interact with the physical world is essential for teaching intelligent systems to perform complex tasks effectively. Everyday activities, such as grasping a coffee mug and taking a sip, often involve the seamless integration of visual perception and motor control, a process that current intelligent systems struggle to replicate. This project aims to bridge the gap by developing a new family of visual sensing and learning approaches to track hand motion and interpret daily interactions, all using wearable cameras. Further, this project will demonstrate a key application in occupational safety and health by adapting the technology to assess injury risks in the workplace. By advancing the sensing and analysis of human interactions, this research will deepen the understanding of human intelligent behavior, drive the development of more capable intelligent systems, and expand practical applications of such systems. The project\u2019s outputs, including open-source algorithms and hardware platforms, will be disseminated through public competitions, online courses, and diverse outreach activities.\r\n\r\nThis project will advocate a new paradigm of proprioceptive vision, where an intelligent system integrates physical awareness with visual perception to understand how its actions relate to its observations. The project\u2019s goal will be achieved through two interconnected research thrusts. Thrust 1 will develop computer vision approaches to harness wrist-mounted, spatially distributed, miniature single-photon cameras for reconstructing hands and in-hand objects. This will create a new solution for wearable hand tracking, supporting long-term recording under various lighting conditions. Thrust 2 will create machine learning techniques to integrate egocentric videos and hand motion for understanding hand-object interactions. This will advance the foundational representation of objects and actions and enable compositional reasoning of interactions. Finally, the outcomes from both thrusts will be integrated to address a significant health challenge: assessing the injury risk of mobile workers engaged in repetitive manual picking tasks in workplaces.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yin",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yin Li",
+   "pi_email_addr": "li968@wisc.edu",
+   "nsf_id": "000784260",
+   "pi_start_date": "2025-06-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 350714.0
+  }
+ ],
+ "por": null
+}

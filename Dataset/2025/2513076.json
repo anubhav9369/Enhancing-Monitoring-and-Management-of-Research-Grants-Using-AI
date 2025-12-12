@@ -1,0 +1,98 @@
+{
+ "awd_id": "2513076",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CPS: Small: Confidently Safe Autonomy Under Anomalies",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927375",
+ "po_email": "adubey@nsf.gov",
+ "po_sign_block_name": "Abhishek Dubey",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 374558.0,
+ "awd_amount": 374558.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "The behavior of cyber-physical systems (CPS) powered by Artificial Intelligence (AI) is becoming increasingly impactful, complex, and potentially dangerous. Therefore, it is critically important to monitor the safety of the deployed AI-enabled CPS. However, this monitoring can be disrupted and rendered ineffective due to anomalous data that arises due to open environments and sophisticated AI behaviors. How much do these anomalies degrade the safety of the CPS? To answer this question, this project will devise an approach to computing the predictive confidence in the safety of a CPS experiencing one or several anomalies.  This approach will be validated on small-scale autonomous racing cars and autonomous underwater vehicles. If successful, this research will result in superior safety monitoring capabilities and, thus, support continued adoption and deployment of advanced AI in automated CPS of great societal importance. \r\n\r\nDespite recent advances in anomaly detection, there is little connection between anomaly severity and safety violations in a CPS, beyond vague statistical correlation. This project seeks to close this gap by designing a general methodology to compute safety confidence in AI-enabled CPS undergoing anomalous behavior. The key insight is that the state-of-the-art anomaly measures can be aligned with the typical CPS components to inform online safety prediction. Leveraging this insight, this project will develop a collection of modular, meaningful, and safety-relevant anomaly scores for perception, dynamics, and control components of a typical closed-loop CPS. These scores will then be used to inject uncertainty into safety monitoring using symbolic functions that provide formal guarantees of calibrated prediction of safety confidence. As a result, this methodology promises to make autonomous CPS aware of how anomalies impact their safety.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ivan",
+   "pi_last_name": "Ruchkin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ivan Ruchkin",
+   "pi_email_addr": "iruchkin@ece.ufl.edu",
+   "nsf_id": "000895895",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 374558.0
+  }
+ ],
+ "por": null
+}

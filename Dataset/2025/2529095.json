@@ -1,0 +1,106 @@
+{
+ "awd_id": "2529095",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CPS: Medium: Calfhealth: An Explainable AI Framework for the Early Detection of Pneumonia in Dairy Calves through Precision Technologies",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 158641.0,
+ "awd_amount": 158641.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Bovine Respiratory Disease (BRD) is an infection of the respiratory tract in cattle that compromises the welfare of the calf. It is estimated that BRD costs the industry $800-$900 million dollars a year. Precision technologies have the potential to monitor calves\u2019 behavioral information to help detect diseases, such as BRD. However, the science of inferring BRD using these technologies is just at its infancy. Existing works often rely on expensive precision technologies, preventing widespread adoption. Furthermore, these approaches adopt simplistic inference solutions,  are trained and tested on individual farms, and cannot provide explainability of model predictions. To address this gap, this project develops CalfHealth, a comprehensive framework that adopts innovative sensing technologies to enable the cost-effective and explainable detection of BRD in dairy calves.  This can have profound implications for improving the profitability of farmers and calf welfare. In addition, this project will have a significant impact on the community through innovative education and outreach activities. These include: (i) field experiments and participatory workshops with relevant stakeholders, including farmers, veterinarians, companies, and consumers; (ii) interdisciplinary research experience for undergraduate and graduate students; (iii) wide dissemination of the project outcomes through high-quality publications; and (iv) demonstrations to future students at the E-Day of the College of Engineering of the University of Kentucky.\r\n\r\nCalfHealth  is based on a novel multimodal learning framework that exploits accelerometer sensors to model calves' behavior using a fine-grained attention mechanism and fuses it with data regarding respiration rate, acquired by a Wi-Fi sensing system, through cross-attention mechanisms. To effectively adapt the detection framework to diverse farms and environmental conditions, the project adopts zero-shot and few-shot active learning approaches. Furthermore, CalfHealth enhances explainability, interaction with technology, and the ability to explore what-if scenarios. To this purpose, CalfHealth exploits language models combined with a feature attribution approach to develop an interactive chatbot for farmers. This project also accelerates the adoption of CalfHealth by using state-of-the-art economic experiments and qualitative methods to assess the behavioral and technological factors influencing farmers\u2019 acceptance of precision technologies aimed at detecting BRD in calves. Additionally, comprehensive behavioral interventions are tested to enhance the farmer-chatbot interaction and increase farmers\u2019 trust in CalfHealth. Finally, extensive validation on several farms is performed, including closing the loop by testing the benefit of early intervention for cattle identified by CalfHealth.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michelle",
+   "pi_last_name": "Segovia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michelle Segovia",
+   "pi_email_addr": "segoviam@udel.edu",
+   "nsf_id": "000715538",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "550 S COLLEGE AVE",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197131324",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 158641.0
+  }
+ ],
+ "por": null
+}

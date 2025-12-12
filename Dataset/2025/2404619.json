@@ -1,0 +1,98 @@
+{
+ "awd_id": "2404619",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Theoretical study of anyons in fractional quantum hall effect",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924942",
+ "po_email": "dhess@nsf.gov",
+ "po_sign_block_name": "Daryl Hess",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 416000.0,
+ "awd_amount": 416000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY\r\n\r\nThis award supports theoretical and computational research, and education to advance fundamental understanding of particles in materials that lie between light and matter. One of the most striking insights from the quantum mechanics is that all fundamental particles in nature fall into two categories: fermions and bosons. This distinction underpins much of modern technology. For example, the fact that electrons behave as fermions is what enables the operation of electronic devices, from smartphones to supercomputers. In contrast, photons, namely the particles of light, are bosons, which is what makes lasers possible.\r\n\r\nIn recent decades, a surprising new chapter has emerged, namely anyons, which are particles that are neither fermions nor bosons, but something in between. First proposed as a theoretical curiosity, anyons have recently been confirmed in several ingenious experiments in a system known as the fractional quantum Hall effect, obtained when two-dimensional electrons are placed in a magnetic field. Moreover, these exotic particles may hold the key to building fault-tolerant quantum computers.\r\n\r\nThis project aims to deepen the understanding of anyons and their unique properties. The Principal Investigator and his students have already developed accurate and reliable theoretical tools to study the fractional quantum Hall effect. With support from this grant, they will explore how different types of anyons behave\u2014examining their spatial profiles, how they tunnel through barriers, how they cluster into molecules, how they reveal themselves in photoluminescence experiments, and how they may appear without a magnetic field in certain twisted bilayer systems.  \r\n\r\nTECHNICAL SUMMARY\r\n\r\nThis award supports theoretical and computational research, and education to advance fundamental understanding of anyons. Two-dimensional systems\u2014such as quantum wells, graphene monolayers and multilayers, topological insulators, and twisted bilayers\u2014form a vibrant subfield of condensed matter physics. Many of the central ideas in this field trace back to the phenomena of the integer and fractional quantum Hall effects, which revealed new states of matter governed by emergent particles.\r\n\r\nA striking feature of the fractional quantum Hall effect is the emergence of anyons\u2014quasiparticles that obey fractional statistics. These are of deep theoretical interest and are also central to certain ideas for fault-tolerant topological quantum computation. Recent discoveries of fractional quantum Hall-like states at zero magnetic field in twisted semiconductor and graphene multilayers mark a major advance, potentially enabling more accessible platforms for realizing anyons.\r\n\r\nThis project aims to undertake a quantitative theoretical study of the properties of anyons in these systems. The goals include: (i) Molecular anyons:  The PI and his team will explore the possibility of whether the abelian and non-Abelian anyons tend to cluster together to form molecules, and if so, how the charge of the molecule depends on the interaction between the electrons. Such molecular anyons may explain the anomalous charge measured in shot noise experiments and will have many implications for future experiments. (ii) Photoluminescence Theory: A framework will be developed to assess whether photoluminescence studies of fractional quantum Hall effect can serve as a probe of anyonic excitations and their bound states. (iii) Composite Fermion Pairing:  Non-Abelian anyons are excitations of paired states of composite fermions. PI and his collaborators have shown that pairing of composite fermions can be induced by going to a higher Landau level, by increasing the width, or by enhancing Landau level mixing. They will investigate whether pairing of composite fermions can also be induced by proximity coupling to a superconductor or by screening the interaction by nearby metallic layer.  Implementation of a Bardeen-Cooper-Schrieffer type superconductivity of composite fermions in the spherical geometry will be sought.  (iv) Wave Functions for Twisted Bilayers: Variational wave functions for composite fermions will be constructed to describe fractional quantum Hall states in twisted bilayer systems. \r\n\r\nThe project will use a combination of exact diagonalization, variational methods, quantum Monte Carlo (including fixed-phase diffusion Monte Carlo), and field theoretical and mean-field approaches.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jainendra",
+   "pi_last_name": "Jain",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jainendra K Jain",
+   "pi_email_addr": "jkj2@psu.edu",
+   "nsf_id": "000123474",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "104 Davey Laboratory",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 416000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2538527",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: HNDS-R: A Longitudinal Foundation Grants Database: Analyzing Philanthropic Changes through Network Analysis and Large Language Models",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 299847.0,
+ "awd_amount": 299847.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "This project makes foundation grantmaking data more accessible and understandable to scientists and the public by building an open access database tracking foundation grants to nonprofit organizations in five U.S. metropolitan areas over time. Philanthropic foundations play a vital role in supporting essential programs in areas such as human services, health, education, and the arts, yet the low amount of research on foundation grantmaking is largely due to limited access to reliable, structured grants data. By showing where foundation dollars go, who benefits, and what issues receive support over time, this project enables interdisciplinary research and advances public understanding of philanthropic behavior and its societal impact.\r\n\r\nThe project addresses a notable gap in the scientific understanding of foundation grantmaking through two activities. First, it curates a Longitudinal Foundation Grants Database (LFGD) by extracting and structuring data from foundation tax filings, focusing on grantmaking in five major U.S. metropolitan areas from 2020 to 2023. While the release of Form 990 makes foundation tax data publicly available, its nested XML format and the complexity of funder-nonprofit grants render it difficult to parse and access for research. This project stands out not only for the scale and longitudinal depth of its dataset, but also for its novel use of large language models (LLMs) to classify unstructured grant descriptions into structured variables such as purpose, issue area, and target population. Second, this project applies both descriptive and inferential network models, respectively, to map and analyze the structure and evolution of funder-nonprofit grants networks over time. Drawing on theoretical frameworks from organizational science, the project investigates how factors like organizational status, organizational attributes, and institutional environments shape grantmaking networks and how foundations respond differently to institutional pressures. The resulting comprehensive open-access database will include detailed grant-level data, LLM-generated insights from grant descriptions, organizational characteristics of foundation funders and nonprofit grantees, and network data capturing relational dynamics in grantmaking over time. This project creates a publicly accessible database that serves as a resource for examining the role foundations play in advancing the public good.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Viviana",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Viviana C Wu",
+   "pi_email_addr": "vivianachius@umass.edu",
+   "nsf_id": "000881236",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Anthony",
+   "pi_last_name": "Paik",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anthony Paik",
+   "pi_email_addr": "apaik@soc.umass.edu",
+   "nsf_id": "000668218",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Heather",
+   "pi_last_name": "MacIndoe",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Heather MacIndoe",
+   "pi_email_addr": "heather.macindoe@umb.edu",
+   "nsf_id": "000817379",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "147Y00",
+   "pgm_ele_name": "Human Networks & Data Sci Res"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "104Z",
+   "pgm_ref_txt": "HNDS-R: Human Networks & Data Sci Resrch"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299847.0
+  }
+ ],
+ "por": null
+}

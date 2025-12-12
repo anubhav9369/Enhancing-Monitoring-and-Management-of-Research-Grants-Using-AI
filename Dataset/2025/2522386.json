@@ -1,0 +1,114 @@
+{
+ "awd_id": "2522386",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER:Ontology-powered Named Entity Recognition and Robust Semantic Similarity Metrics",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 500478.0,
+ "awd_amount": 151677.0,
+ "awd_min_amd_letter_date": "2025-02-19",
+ "awd_max_amd_letter_date": "2025-02-19",
+ "awd_abstract_narration": "The goal of this project is to develop novel methods (i.e. natural language processing methods) for recognizing groups of terms (i.e. ontology concepts) in published biology research. Ontologies are a system to organize information (e.g. biology terms and relationships of those terms).  Ontologies can be easily analyzed by computers, making large scale biological analyses possible. Currently, the translation of knowledge from scientific publications to an ontology-powered format still relies largely on manual curation of literature; this process is unscalable and tedious. Advances pioneered by this new project will enable knowledge discovery from scientific literature and will power computational analyses to answer complex biological questions. Educational impacts of this project will involve the development of new courses on cutting edge natural language processing methods to train the next generation of interdisciplinary computer scientists. \r\n\r\nThe research will advance the state of art in development of machine learning models in the domain of automated curation and knowledge discovery in scientific literature. The research aims to advance and establish new paradigms in the area of deep learning methods/techniques for biological literature, towards two specific research outcomes- 1) development of novel deep learning models for ontology-based named entity recognition, and 2) development of robust semantic similarity metrics for evaluating the above deep learning models. Robust semantic similarity metrics are essential to accurately evaluate the performance of the deep learning models that will be developed here. These similarity metrics will be broadly applicable in several areas of biology such as hypothesizing candidate genes for evolutionary transitions, rare human disease diagnosis, etc. For further information visit the project website at https://prashanti.github.io/deeplearningNER/.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prashanti",
+   "pi_last_name": "Manda",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prashanti Manda",
+   "pi_email_addr": "pmanda@unomaha.edu",
+   "nsf_id": "000757363",
+   "pi_start_date": "2025-02-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Nebraska at Omaha",
+  "inst_street_address": "6001 DODGE ST EAB 209",
+  "inst_street_address_2": "",
+  "inst_city_name": "OMAHA",
+  "inst_state_code": "NE",
+  "inst_state_name": "Nebraska",
+  "inst_phone_num": "4025542286",
+  "inst_zip_code": "681820001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NE02",
+  "org_lgl_bus_name": "UNIVERSITY OF NEBRASKA",
+  "org_prnt_uei_num": "FZRNFQTKADH1",
+  "org_uei_num": "FZRNFQTKADH1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Nebraska at Omaha",
+  "perf_str_addr": "6001 DODGE ST EAB 209",
+  "perf_city_name": "OMAHA",
+  "perf_st_code": "NE",
+  "perf_st_name": "Nebraska",
+  "perf_zip_code": "681820001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NE02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "084Y00",
+   "pgm_ele_name": "Infrastructure Innovation for"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 49687.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 101990.0
+  }
+ ],
+ "por": null
+}

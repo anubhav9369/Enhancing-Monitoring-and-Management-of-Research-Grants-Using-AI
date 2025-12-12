@@ -1,0 +1,138 @@
+{
+ "awd_id": "2533416",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Exploring the Top Three Rungs of a Ladder of Density Functional Approximations",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 750000.0,
+ "awd_amount": 750000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Adrienn Ruzsinszky, John P. Perdew, and Jianwei Sun of Tulane University are supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop density functionals on higher levels of a hierarchy of approximations. Density functional theory is very widely used in chemistry, physics, materials science and engineering, and even geology and pharmaceutical design. It enables practical computer calculations predicting the existence and properties of systems of many interacting electrons. The five rungs of the ladder of approximations to the exact density functional for the exchange-correlation energy of a many-electron system provide a range of options for electronic structure calculations for molecules and materials, from the more affordable first three rungs (local spin density approximation or LSDA, generalized gradient approximation or GGA, and meta-GGA) to the more expensive but often more accurate fourth and fifth rungs (hybrids and self-interaction corrections and random phase approximation RPA-like functionals). While the first two rungs of the ladder of approximations have been broadly explored, the third, fourth, and fifth rungs harbor numerous opportunities for improvement. The proposed plan is a comprehensive effort to make higher levels of the ladder of density functional approximations more accurate but still computationally feasible. The broader impacts of the proposed project will include more-accurate reaction paths (including those for catalysis) and more-accurate excited states, and will provide training and validation for machine learning approaches to chemistry. The proposed work will help to retain or expand a cohort of talented graduate students and postdoctoral fellows. It will also support the research of interested undergraduate physics majors. The PIs and some group members will participate in outreach to New Orleans public schools organized by Tulane University\u2019s School of Science and Engineering.\r\n\r\nThis award supports theoretical and computational research and education to advance density functionals on the higher rungs of a ladder of approximations. The approach is based on satisfying exact mathematical properties (constraints) of the exact but incomputable density functional for the exchange-correlation energy. The proposed research targets systems where self-interaction correction or spatial nonlocality is needed. Many systems of interest of chemistry are strongly affected by self-interaction error, which can be reduced by expensive hybrid density functionals. As an inexpensive third-rung alternative, the researchers will explore further degrees of freedom in the recently developed LAK meta-GGA that reduces self-interaction error and delivers good quality band gaps of semiconductors. They propose to exploit this degree of freedom by adding more ingredients so that the resulting meta-GGA can be simultaneously accurate for charge-transfer systems, molecules adsorbed on metal surfaces, polaronic effects and conical interactions and other scenarios of interest for chemistry. On the fourth rung, this team will design a constraint-satisfying hybrid functional that is exact for all one-electron and slowly-varying densities. They will also explore a local hybrid functional with the meta-GGA part constructed in the Hartree gauge. On the fifth rung, the researchers will develop a more accurate self-interaction correction to the random phase approximation (RPA). The broader impacts will include more-accurate reaction paths (including those for catalysis) and more-accurate excited states, and will provide training and validation for machine learning approaches to chemistry. The proposed work will also support the research of interested undergraduate physics majors, graduate students, and postdoctoral fellows. The PIs and group members will participate in outreach to New Orleans public schools.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adrienn",
+   "pi_last_name": "Ruzsinszky",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adrienn Ruzsinszky",
+   "pi_email_addr": "aruzsin@tulane.edu",
+   "nsf_id": "000606323",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Perdew",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "John P Perdew",
+   "pi_email_addr": "perdew@tulane.edu",
+   "nsf_id": "000235410",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jianwei",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jianwei Sun",
+   "pi_email_addr": "jsun@tulane.edu",
+   "nsf_id": "000729838",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tulane University",
+  "inst_street_address": "6823 SAINT CHARLES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW ORLEANS",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "5048654000",
+  "inst_zip_code": "701185665",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "LA01",
+  "org_lgl_bus_name": "THE ADMINISTRATORS OF TULANE EDUCATIONAL FUND",
+  "org_prnt_uei_num": "XNY5ULPU8EN6",
+  "org_uei_num": "XNY5ULPU8EN6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tulane University",
+  "perf_str_addr": "6823 SAINT CHARLES AVE",
+  "perf_city_name": "NEW ORLEANS",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "701185665",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "LA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 750000.0
+  }
+ ],
+ "por": null
+}

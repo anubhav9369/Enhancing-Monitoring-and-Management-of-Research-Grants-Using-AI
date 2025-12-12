@@ -1,0 +1,122 @@
+{
+ "awd_id": "2452674",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SaTC: CORE: Small: Detecting Personal Information Abuse in Mobile Apps and Their Backend Servers",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 590731.0,
+ "awd_amount": 590731.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Mobile applications (apps) require users to provide sensitive data such as home address, phone number, or credit card numbers, for offering full-fledged functionality. This data is stored on servers outside users' purview, once provided, users have little or no control over what happens to the data, which exposes both users and app developers to privacy risks.  This project exposes and aims to reduce  such issues/risks in mobile apps and their corresponding servers.  The project's novelties are computing the minimal amount of information required for app functioning, inferring server-side behavior, and exposing unauthorized data collection. The project's broader significance and importance are protecting the users from wide and unauthorized data collection, and improving the state-of-practice in secure development toward more privacy-friendly data collection and data retention practices.\r\n\r\nThe project consists of two thrusts.  The first thrust uses program analysis to compute the minimal personal information required for proper functioning: this allows identifying unnecessary, excessively collected information.  This thrust also exposes unauthorized collection, via novel in-tandem modeling of app policy and implementation, to identify temporal violations such as data collection prior to user consent. This approach is generalizable in other contexts, such as identification of discrepancies between software implementations and their stated or governing policies.  The second thrust develops novel combinations of program and network traffic analysis to infer personal information retained on servers, without accessing the server. These techniques are widely applicable to understanding how data is processed server-side after leaving users' mobile phones or browsers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhiyong",
+   "pi_last_name": "Shan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhiyong Shan",
+   "pi_email_addr": "zhiyong.shan@wichita.edu",
+   "nsf_id": "000764500",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Iulian",
+   "pi_last_name": "Neamtiu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Iulian Neamtiu",
+   "pi_email_addr": "ineamtiu@njit.edu",
+   "nsf_id": "000537180",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wichita State University",
+  "inst_street_address": "1845 FAIRMOUNT ST # 38",
+  "inst_street_address_2": "",
+  "inst_city_name": "WICHITA",
+  "inst_state_code": "KS",
+  "inst_state_name": "Kansas",
+  "inst_phone_num": "3169783285",
+  "inst_zip_code": "672609700",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "KS04",
+  "org_lgl_bus_name": "WICHITA STATE UNIVERSITY",
+  "org_prnt_uei_num": "JKKNZLNYLJ19",
+  "org_uei_num": "JKKNZLNYLJ19"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wichita State University",
+  "perf_str_addr": "1845 FAIRMOUNT ST # 38",
+  "perf_city_name": "WICHITA",
+  "perf_st_code": "KS",
+  "perf_st_name": "Kansas",
+  "perf_zip_code": "672609700",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "KS04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  },
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 590731.0
+  }
+ ],
+ "por": null
+}

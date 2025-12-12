@@ -1,0 +1,93 @@
+{
+ "awd_id": "2532959",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Machine Learning for Physics Extraction and Surrogate Modeling of the Flow Boiling Phenomena",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924736",
+ "po_email": "fcao@nsf.gov",
+ "po_sign_block_name": "Fangyu Cao",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 361475.0,
+ "awd_amount": 361475.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Flow boiling is important in industries such as power generation, air-conditioning, aerospace, defense, and thermal management. However, some of the fundamental dynamics of flow boiling are not well understood when analyzed using traditional approaches.  Machine learning methods have shown potential in revealing fundamental behaviors in complex flows by combining innovative data modeling tools with physical knowledge of the underlying system.  This project will use a new machine learning-guided investigation approach to perform advanced experiments and modeling of thermal transport during flow boiling.  The project outcomes will help improve the design and control of future thermal systems that rely on flow boiling.  The project will support development of an educational module \u201cPhase of Matter\u201d for Case Western Reserve University\u2019s NSF-supported Introduction to Innovation Teaching program. In addition, a new internship opportunity will be provided for high-school students in the Cleveland district to link classroom science to technologies in thermal sciences.\r\n\r\nPhase-change configurations like flow boiling can significantly reduce the size and weight of thermal management systems, thereby directly reducing energy costs. However, the barrier to more widespread implementation of flow boiling phase-change configurations stem from a lack of good understanding of complex flow dynamics and thermal transport physics. This project will use a novel machine learning-guided investigation approach to test the hypothesis that the flow boiling heat transfer in the nucleate boiling regime is dominated by hydrodynamic instability wavelengths. First, experiments will be performed to obtain advanced diagnostic data in the nucleate boiling regime. Second, machine learning vision analysis tools will be developed to capture statistical data on instability wavelengths. Finally, physics-informed machine learning will be used to develop new formulations for predicting the flow boiling thermal transport phenomena. The broader impact objectives of this project are to increase energy sustainability by enhancing single-phase to phase-change technology transitions not only in traditional energy areas like power generation, refrigeration, consumer electronics, electrification, and weapon systems but also in renewable energy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chirag",
+   "pi_last_name": "Kharangate",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chirag Kharangate",
+   "pi_email_addr": "crk91@case.edu",
+   "nsf_id": "000788156",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Case Western Reserve University",
+  "inst_street_address": "10900 EUCLID AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEVELAND",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "2163684510",
+  "inst_zip_code": "44106",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "OH11",
+  "org_lgl_bus_name": "CASE WESTERN RESERVE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJMKEF7EJW69"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Case Western Reserve University",
+  "perf_str_addr": "10900 EUCLID AVE",
+  "perf_city_name": "CLEVELAND",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "441064901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "OH11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140600",
+   "pgm_ele_name": "TTP-Thermal Transport Process"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 361475.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,117 @@
+{
+ "awd_id": "2446223",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CS2: Provably Correct Implementations of Density Functional Approximations",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 625840.0,
+ "awd_amount": 625840.0,
+ "awd_min_amd_letter_date": "2025-06-02",
+ "awd_max_amd_letter_date": "2025-06-02",
+ "awd_abstract_narration": "Density Functional Theory (DFT) is a phenomenally successful approach to finding approximate solutions to the Schrodinger equation, the fundamental equation that describes the quantum behavior of atoms and molecules. The fundamental results of Kohn, Hohenberg, and Sham showed that the ground-state energy from the Schrodinger equation is a unique functional of the electron density and subsequently reduced solving a complicated many-body problem to finding a consistent solution to a set of single-particle equations. However, the exact density functional is not known and scientists have developed hundreds of density functional approximations (DFAs). Choosing a DFA is perhaps the most important decision when performing a DFT calculation. The project's novelties are in using formal methods to ensure that the implementation of a DFA is provably correct. DFT calculations are widely used in a number of scientific and engineering fields, including solid state physics, computational chemistry, and materials science. Consequently, the project's impacts are in improving the correctness of scientific software in these application domains. \r\n\r\nThe key insight of the project is that each DFA is a mathematical function with a known, albeit complicated, analytical form, and, hence, can be analyzed using formal-methods techniques such as Satisfiability Modulo Theory (SMT) solvers. The project will automatically verify whether a DFA implementation satisfies DFT exact conditions (known analytical properties of the exact functional). The project will automatically verify numerical properties of a DFA implementation (generation of Not a Number (NaN) and infinities, and numerical instabilities slowing down convergence). The project will develop techniques to generate provably correct minimal edits to a DFA implementation that are guaranteed to be numerically stable and continue to satisfy the same exact conditions. By analyzing existing DFAs and developing new DFAs, the project will have tremendous impact in a number of scientific and engineering fields.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aditya",
+   "pi_last_name": "Thakur",
+   "pi_mid_init": "V",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aditya V Thakur",
+   "pi_email_addr": "avthakur@ucdavis.edu",
+   "nsf_id": "000753998",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Francois",
+   "pi_last_name": "Gygi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Francois Gygi",
+   "pi_email_addr": "fgygi@ucdavis.edu",
+   "nsf_id": "000065373",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cindy",
+   "pi_last_name": "Rubio Gonzalez",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cindy Rubio Gonzalez",
+   "pi_email_addr": "crubio@ucdavis.edu",
+   "nsf_id": "000678663",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "1850 RESEARCH PARK DR STE 300",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956186153",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "307Y00",
+   "pgm_ele_name": "Correct SciComp Systems (CS2)"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 625840.0
+  }
+ ],
+ "por": null
+}

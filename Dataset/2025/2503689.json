@@ -1,0 +1,117 @@
+{
+ "awd_id": "2503689",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Physics-Enabled Deep Learning for Adsorptive Separations of Aqueous Mixtures",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032922894",
+ "po_email": "svelanka@nsf.gov",
+ "po_sign_block_name": "Sachin Velankar",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 691033.0,
+ "awd_amount": 691033.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Many industrial processes require separating a chemical mixture into its components. For example, crude oil is separated into various fractions to give gasoline, lubricants, asphalt, etc. Alcohol and water are separated to produce spirits and bioethanol for fuel. Such separation processes are highly energy-intensive. Energy efficiency may be improved by using adsorptive or membrane-based separations using nanoporous materials, which are materials with pores that are a few nanometers wide. But mixtures confined within nanopores behave differently from unconfined mixtures. This project will identify general principles governing the behavior of mixtures within confined environments. The project will combine experiments, computer modeling, and machine learning to predict mixture behavior in nanoporous materials. The results will help improve the energy efficiency of chemical separation processes. Additional benefits to society will come from teaching data science to engineering students, as well as outreach activities to engage K-12 students and teachers.\r\n\r\nA detailed understanding of adsorption equilibrium in chemical mixtures is critical to design optimal sorbents for separation processes. However, acquiring mixture adsorption data by experiments or computations is time- and resource-intensive. The challenge becomes severe for multi-component mixtures because the amount of data needed increases steeply as the number of components in the mixture increases. Therefore mixture adsorption is often predicted from single-component adsorption data, relying on models such as the ideal adsorbed solution theory. Yet, such models are known to fail for many non-ideal mixtures. This project will develop a systematic understanding of non-ideal adsorption in zeolites using the framework of the real-adsorbed solution theory. To accomplish this objective, the research team will study aqueous polar mixtures confined within zeolite nanopores using atomistic simulations and experimental techniques. The team will examine the effect of zeolite structure, and the impact of hydrophilic defects and cations, on the phase behavior of mixtures. These insights will be used to construct a deep learning model that can predict adsorbed-phase activity coefficients from the topology and geometry of zeolite structures. The ultimate goal of this project is to create an expert system that can predict a wide range of nonideal adsorption behaviors under confinement. The project will develop curricular course modules on machine learning at the undergraduate level, promote undergraduate research, and conduct outreach activities at the pre-college level.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peng",
+   "pi_last_name": "Bai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peng Bai",
+   "pi_email_addr": "pengbai@umass.edu",
+   "nsf_id": "000793956",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Wei",
+   "pi_last_name": "Fan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei Fan",
+   "pi_email_addr": "wfan@ecs.umass.edu",
+   "nsf_id": "000615814",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Subhransu",
+   "pi_last_name": "Maji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Subhransu Maji",
+   "pi_email_addr": "smaji@cs.umass.edu",
+   "nsf_id": "000699819",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "c/o Office of Pre-Award Services",
+  "perf_city_name": "Hadley",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010359450",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "141700",
+   "pgm_ele_name": "Interfacial Engineering Progra"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 691033.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2514857",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Frequency Domain Resampling Methods for Spatial Data",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 239420.0,
+ "awd_amount": 239420.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "The investigators aim to advance the statistical methods used to analyze spatial data, a critical component in fields such as geosciences, environmental science, and remote sensing. As data in these areas continue to grow in both size and complexity, new techniques are needed to extract meaningful insights and improve decision-making processes. This project addresses the challenge of analyzing spatial data that is irregularly spaced, which complicates traditional methods that rely on regular intervals, such as time series data. By developing novel statistical tools, the project offers solutions to improve the understanding of complex spatial relationships and uncertainty present in data. The developed methods have broad implications for a wide range of scientific fields and have the potential to improve decision-making in areas such as economic modeling, computer experiments, environmental science, and more traditional geostatistical applications, such as pollution modeling and monitoring. This work will also support education by advancing the field of spatial statistics and offering new methods that can be integrated into teaching and research initiatives. Ultimately, the project will contribute to the national interest by providing more accurate models and robust inference tools for spatial data analysis, with applications that can support informed policy decisions and scientific advancements.\r\n \r\nThe goal of this project is to tackle two significant challenges in resampling methods for spatial data using advanced spectral methods. First, it introduces new spatial frequency domain resampling methods. These methods are designed to work in a general setting with minimal assumptions, allowing for more flexible and effective uncertainty quantification. By addressing the problem of irregularly spaced spatial data, these techniques maintain the advantages of spectral analysis while improving the practical applicability of spatial data analysis. Second, the project focuses on a key issue in robust spatial inference - specifically, the need to estimate parameters in the presence of outliers. The investigators will study an empirical likelihood-based approach that uses a novel variant of the Wasserstein metric to concentrate near a specified parametric family of spectral densities, providing a powerful tool for robust inference. The integration of this framework with a prior distribution on model parameters leads to the development of a robust posterior, offering improved estimation techniques in the presence of noisy or anomalous data. The methods are widely applicable to a range of inference problems, improving both the reliability and interpretability of spatial models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Soutir",
+   "pi_last_name": "Bandyopadhyay",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Soutir Bandyopadhyay",
+   "pi_email_addr": "sbandyopadhyay@mines.edu",
+   "nsf_id": "000600782",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Douglas",
+   "pi_last_name": "Nychka",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Douglas W Nychka",
+   "pi_email_addr": "nychka@mines.edu",
+   "nsf_id": "000191118",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Colorado School of Mines",
+  "inst_street_address": "1500 ILLINOIS ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GOLDEN",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3032733000",
+  "inst_zip_code": "804011887",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "CO07",
+  "org_lgl_bus_name": "TRUSTEES OF THE COLORADO SCHOOL OF MINES",
+  "org_prnt_uei_num": "JW2NGMP4NMA3",
+  "org_uei_num": "JW2NGMP4NMA3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Colorado School of Mines",
+  "perf_str_addr": "1500 ILLINOIS ST",
+  "perf_city_name": "GOLDEN",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "804011887",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "CO07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 239420.0
+  }
+ ],
+ "por": null
+}

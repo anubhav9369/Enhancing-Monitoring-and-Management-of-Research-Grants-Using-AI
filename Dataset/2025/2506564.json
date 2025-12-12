@@ -1,0 +1,93 @@
+{
+ "awd_id": "2506564",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Delocalized homotopy theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927972",
+ "po_email": "plimafil@nsf.gov",
+ "po_sign_block_name": "Paulo Lima Filho",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 318144.0,
+ "awd_amount": 318144.0,
+ "awd_min_amd_letter_date": "2025-06-02",
+ "awd_max_amd_letter_date": "2025-06-02",
+ "awd_abstract_narration": "This project aims to develop new computational tools in the field of algebraic topology.  Topology is the study of geometry where you identify one geometric object with another if one can be deformed into the other.  The goal of algebraic topology is to ascribe discrete algebraic invariants to these geometric objects to distinguish their topological types.  Understanding the topological type of geometric objects is a fundamental act of scientific/mathematical inquiry, comparable to the study of prime numbers, or the classification of the fundamental particles that constitute matter and carry forces.  Topological computations have also been applied to solve problems in physics, and the field of topological data analysis applies the tools of algebraic topology to the qualitative study of high-dimensional data-sets.  The focus of the project is on the interaction of localized and unlocalized computations of homotopy groups.  Homotopy groups are the fundamental algebraic invariants which arise from geometric objects but are often very difficult to compute.  These computations are made more accessible through the process of localization (inverting classes), but this process of localization loses information.  The project will enhance our understanding of how to extract information about delocalized homotopy groups from these localizations.  Activities in this project will also contribute to the training of the next generation of mathematicians.\r\n  \r\nThe specific research activities center around the recent disproof of the Telescope Conjecture by Burklund-Hahn-Levy-Schlank, which implies that the relationship between K(n)-local homotopy groups and unlocalized homotopy groups is much more subtle than previously imagined.  The PI will complete our understanding of the homotopy groups of the K(2)-local sphere in the last open case of p = 2 using a new elliptic resolution, and the relationship of this resolution to the tmf-resolution will be leveraged to relate the extensive low dimensional computations of Isaksen-Wang-Xu of 2-primary stable stems to the K(2)-local computations.  Generalizations of the effective slice spectral sequence to other groups will be investigated using the techniques of synthetic homotopy theory.  The PI will also investigate genuine equivariant enhancements of synthetic homotopy categories.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Behrens",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark J Behrens",
+   "pi_email_addr": "mbehren1@nd.edu",
+   "nsf_id": "000333963",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Notre Dame",
+  "inst_street_address": "940 GRACE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "NOTRE DAME",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "5746317432",
+  "inst_zip_code": "465565708",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "IN02",
+  "org_lgl_bus_name": "UNIVERSITY OF NOTRE DAME DU LAC",
+  "org_prnt_uei_num": "FPU6XGFXMBE9",
+  "org_uei_num": "FPU6XGFXMBE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Notre Dame",
+  "perf_str_addr": "940 GRACE HALL",
+  "perf_city_name": "NOTRE DAME",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "465565708",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "IN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126700",
+   "pgm_ele_name": "TOPOLOGY"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 318144.0
+  }
+ ],
+ "por": null
+}

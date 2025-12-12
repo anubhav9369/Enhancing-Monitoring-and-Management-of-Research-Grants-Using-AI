@@ -1,0 +1,106 @@
+{
+ "awd_id": "2501872",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Exploration of an Accurate and Efficient Reliability Modeling Technique for Semiconductor Packages Subjected to Dynamic Excitation",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 198456.0,
+ "awd_amount": 198456.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) award supports research to enhance national prosperity and security by developing reliability modeling techniques for electronic packages in harsh environments characterized by extreme temperatures, humidity, mechanical shocks, and vibrations. Vibrations are an important problem for semiconductor packages deployed in the railroad, transport, and defense industries, where the extreme vibrations will cause semiconductor packages to fail at low stress cycles, resulting in isothermal fatigue and altering the dynamic behavior of the package. This award pursues a fundamental understanding of how package dynamics change as input excitation increases and how these changes can be modeled effectively to predict the service life and assess potential damage within the packages. The project will integrate research efforts with education and outreach initiatives, providing new research opportunities in structural dynamics for undergraduate students, as well as outreach activities to the semiconductor industry.\r\n\r\nThe project seeks to develop a new framework, theory, and methods to effectively and efficiently model the reliability of electronic packages under dynamic excitation. This effort leverages a phase-locked loop control algorithm and a novel accelerated testing approach to create a  pseudo-nonlinear dynamic model of the packages. The nonlinear stress and strain responses will be derived from this researched model to infer the service life of the package. This model looks to capture geometric and material nonlinearities through a nonlinear backbone curve, clearly demonstrating material degradation. Nanoindentation experiments will be conducted to verify the material nonlinearity. The project aims to bridge the gap between force-excited and base-excited nonlinear dynamic modeling approaches for electronic packages and advance the state of the art in accelerated testing and modeling techniques by incorporating nonlinearities. The efficiency and advantages of this method will be validated through multiple numerical examples and physical experiments utilizing Ball Grid Array (BGA) based electronic packages.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sushil",
+   "pi_last_name": "Doranga",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sushil Doranga",
+   "pi_email_addr": "sdoranga@lamar.edu",
+   "nsf_id": "000858309",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lamar University",
+  "inst_street_address": "4400 S M L King Jr Pkwy",
+  "inst_street_address_2": "",
+  "inst_city_name": "Beaumont",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "4098807670",
+  "inst_zip_code": "777055748",
+  "inst_country_name": "United States",
+  "cong_dist_code": "14",
+  "st_cong_dist_code": "TX14",
+  "org_lgl_bus_name": "LAMAR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MEYGUN6CCN16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lamar University",
+  "perf_str_addr": "4400 S M L King Jr Pkwy",
+  "perf_city_name": "Beaumont",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "777055748",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "14",
+  "perf_st_cong_dist": "TX14",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "077E",
+   "pgm_ref_txt": "SIMULATION MODELS"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 198456.0
+  }
+ ],
+ "por": null
+}

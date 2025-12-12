@@ -1,0 +1,122 @@
+{
+ "awd_id": "2500220",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: Utilizing Emerging Technologies to Support Aging in Place",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "This project aims to tackle the growing challenge of helping older adults and people with disabilities live safely and independently in their own homes. Many homes are not set up for their needs, and while home modifications can help, determining what changes are needed usually requires expensive and complex home assessments. This project will address this issue by using new technologies to make home assessments that are more efficient, accurate, and affordable. This research will explore issues in combining 3D sensing, augmented reality, and machine learning so that someone can automatically assess their living space as they move around in it, for example, determining if there is enough space around a coffee table in the living room for someone who uses a walker move safely. To be successful, the project must create methods for sensing the shape of the space and the objects in it, determining which objects and distances must be assessed, and displaying the assessments of them in a way that is accurate while being fast enough to be interactive for the user as they move around the space. The results of this work will enable more people to get the help they need to make their homes suitable for aging in place.\r\n\r\nThis project aims to utilize emerging technologies in machine learning and augmented and mixed reality to design a new method for home assessments that is more efficient, accurate, and accessible.  While traditional home assessments require highly trained individuals to perform tedious tasks in person, this research will enable adults who are aging with disabilities and their family caregivers to receive a service that is currently inaccessible to them. To automate the assessment, real-time object detection will be combined with spatial tracking and scene understanding through augmented reality devices to create a labeled model of the space. This project will require creating novel methods for achieving high-fidelity 3D spatial accuracy in home-sized settings while preserving interactivity on the augmented reality device. The project will also require developing methods to automatically detect and segment objects and features of the space that must be assessed.  From a human factors standpoint, the project will investigate the comparative advantages of mobile augmented reality and head-mounted display systems for augmented assessment tasks. The technologies will be developed under the guidance of housing and healthcare professionals alongside general users. The developed systems will be evaluated in the field to determine if they are appropriate, acceptable, and feasible for adults who are aging with disabilities and their family caregivers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kevin",
+   "pi_last_name": "Ponto",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kevin B Ponto",
+   "pi_email_addr": "kbponto@wisc.edu",
+   "nsf_id": "000663857",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jung-hye",
+   "pi_last_name": "Shin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jung-hye Shin",
+   "pi_email_addr": "js163@cornell.edu",
+   "nsf_id": "000807618",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Beth",
+   "pi_last_name": "Fields",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Beth Fields",
+   "pi_email_addr": "befields2@wisc.edu",
+   "nsf_id": "0000A1BSN",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

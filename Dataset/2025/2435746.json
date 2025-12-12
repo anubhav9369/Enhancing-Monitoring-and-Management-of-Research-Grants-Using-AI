@@ -1,0 +1,114 @@
+{
+ "awd_id": "2435746",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: A Unified Framework of Physics-informed and Domain-Adapted Generative Diffusion Model for Efficient and Reliable Nanophotonics Inverse Design",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-04",
+ "awd_max_amd_letter_date": "2025-06-04",
+ "awd_abstract_narration": "Nanophotonics has become of critical importance in advancing the frontiers of modern science and technologies, including integrated photonics for information technologies, photonic quantum information systems, superresolution imaging, sensing etc. In nanophotonics, light is controlled by nanoscale structures engineered precisely for the desired photonic properties. Traditionally designs of specific nanophotonic devices are obtained through empirical, trial-and-error methods with very limited, high level guidance by physics models and intuition. The advancements in artificial intelligence (AI) techniques open up new opportunities to more efficiently design new and more optimal nanophotonic systems. Yet there are many fundamental challenges at present, such as requirement of large training data sets, domain adaptation issues, and limited generalization capabilities. A promising new approach that may mitigate these limitations is to use generative models, particularly score-based diffusion models. This project aims to develop an innovative deep learning framework that combines physics-informed principles with scientific domain-adapted generative diffusion models to overcome key challenges in scientific inverse design and accelerate scientific discovery. The research will advance the frontiers of artificial intelligence and nanophotonics. Furthermore, the developed methods are potentially generalizable to other scientific disciplines. Educational impacts include enhancing engineering and physics curricula for undergraduate and graduate students. Furthermore, the project will engage high school students in southeast Michigan through outreach initiatives and integrate undergraduate students into research activities. Collaborations with local organizations will further support academic research. \r\n\r\nThe goal of the project is to establish the first model of generalizable, AI-assisted inverse design of complex nanophotonic systems through cross-disciplinary collaboration. Domain-specific generative diffusion models will be developed that efficiently capture photonic structure data priors with limited training data. A novel physics-informed machine learning approach will be integrated to ensure accurate predictions of physical properties and reliable conditional inverse design. A physics-guided posterior sampling method will enforce physical constraints during inference, enhancing the model\u2019s reliability. The framework will be validated by inverse design of advanced topological photonic systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Liyue",
+   "pi_last_name": "Shen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Liyue Shen",
+   "pi_email_addr": "liyues@umich.edu",
+   "nsf_id": "000915746",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hui",
+   "pi_last_name": "Deng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hui Deng",
+   "pi_email_addr": "dengh@umich.edu",
+   "nsf_id": "000535215",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1301 Beal Avenue",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481092122",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8614",
+   "pgm_ref_txt": "Nanomaterials"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

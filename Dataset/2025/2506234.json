@@ -1,0 +1,106 @@
+{
+ "awd_id": "2506234",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Erbium-Doped Yttrium Iron Garnets for Efficient Quantum Transduction in Superconducting Resonators",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 239329.0,
+ "awd_amount": 239329.0,
+ "awd_min_amd_letter_date": "2024-12-11",
+ "awd_max_amd_letter_date": "2024-12-11",
+ "awd_abstract_narration": "In recent years, significant efforts have been made to exploit erbium dopants in non-magnetic crystals for microwave-to-optical photon transduction. While microwave-to-optical conversion has been experimentally demonstrated with a bandwidth as large as 1 MHz, the conversion efficiency falls short of theoretical predictions. The primary limitation lies in the weak coupling of the erbium dopant to the microwave. However, a recent theoretical work suggests that the erbium-microwave coupling can be significantly improved by doping erbium ions into yttrium iron garnet; the magnons in this doped garnet can effectively mediate the coupling, thereby increasing the transduction efficiency by three orders of magnitude.  This project aims to develop thin films of erbium-doped yttrium iron garnets and experimentally demonstrate the theoretically predicted efficient transduction.  If successful, this project will lead to a new material for efficient quantum transduction. Such transduction materials can be used to entangle distant superconducting qubits and link superconducting quantum systems to other quantum computing platforms. This advancement will significantly advance the fields of quantum computing, quantum communication, and quantum networks.  Two undergraduate students and two graduate students per year will participate in film growth, device fabrication, magnetic, optical, and microwave measurements, microwave-to-optical conversion experiments, and data analysis.  Outreach to K-12 students will include laboratory tours and mentoring high school students for summer research.\r\n\r\nThe project consists of three main thrusts. The first thrust is dedicated to using magnetron sputtering to grow erbium-doped yttrium iron garnet thin films. To optimize the erbium doping level efficiently and timely, a composition-spread technique will be employed to ensure high throughput fabrication of the films. The second thrust focuses on the comprehensive characterization of the structural, magnetic, and optical properties of the thin films fabricated in the first thrust. This characterization will particularly include the use of extensive ferromagnetic resonance measurements to determine magnetic damping constants and magnon decay rates, as well as the use of optical measurements to determine optical transition linewidths over a wide temperature range from 5 K to 300 K.  These parameters are critical for transduction experiments in the third thrust.  Under the third thrust, integrated devices will be fabricated that consist of erbium-doped yttrium iron garnet thin film strips, high-quality superconducting resonators, and connections to optical fibers.  These devices will be used to study microwave-magnon coupling and microwave-to-optical photon conversion at a temperature of 2 K\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mingzhong",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mingzhong Wu",
+   "pi_email_addr": "min.wu@northeastern.edu",
+   "nsf_id": "000111089",
+   "pi_start_date": "2024-12-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "107E",
+   "pgm_ref_txt": "Magnetics and spin electronics"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 239329.0
+  }
+ ],
+ "por": null
+}

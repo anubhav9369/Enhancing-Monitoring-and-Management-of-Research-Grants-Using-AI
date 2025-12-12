@@ -1,0 +1,126 @@
+{
+ "awd_id": "2527059",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Foundations of Scalable and Resilient Distributed Real-Time Decision Making in Open Multi-Agent Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2029-02-28",
+ "tot_intn_awd_amt": 549927.0,
+ "awd_amount": 517612.0,
+ "awd_min_amd_letter_date": "2025-03-21",
+ "awd_max_amd_letter_date": "2025-04-25",
+ "awd_abstract_narration": "Advances in artificial intelligence and machine learning provide the opportunity for using autonomous multi-agent systems to solve important social and economic problems, such as the application of multiple robots in wildfire monitoring, search-and-rescue, manufacturing, etc. In these systems, agents autonomously cooperate to make decisions in real-time to perform complex tasks. Reinforcement learning, a data-driven control method that enables agents to autonomously learn desired tasks by interacting directly with the environment, has emerged as one of the predominant frameworks for this kind of real-time decision making. While reinforcement learning provides a powerful and flexible framework, it suffers fundamental challenges in its scalability and resilience. Specifically, existing methods require a vast amount of data and computational power and can be unstable in the presence of various types of errors and adversaries. These challenges are the main barriers to the wide applicability of reinforcement learning for real-world problems. This CAREER project will develop new foundations of scalable and resilient distributed reinforcement learning for real-time autonomous cooperation in open multi-agent systems. The overarching goal is to design new learning and control methods that enable agents to interact effectively in open systems, adapt gracefully in time-varying environments, and be resilient to unexpected failures and adversaries. The project will also contribute to education and workforce development by integrating the research findings with rigorous educational and outreach activities, course development, student training, and public partnerships.\r\n\r\nThe central idea of this project is to establish new fundamentals of two-time-scale stochastic approximation for non-monotone systems. The key approach is to leverage extrapolation techniques in optimization and singular perturbation theories in control to address the instability issues of stochastic approximation under non-monotone settings. New theoretical principles will be studied to characterize the finite-time complexity of the proposed methods. By leveraging these new results of two-time-scale stochastic approximation, this project will advance several foundational aspects of distributed learning and control in open multi-agent systems. The focus is to develop new scalable and resilient distributed multi-time-scale reinforcement learning methods that allow agents to cooperate efficiently in real-time under diverse practical considerations, including time-varying numbers of agents, unexpected failures, communication constraints, and adversaries. During the course of this project, the proposed research activities will be evaluated systematically through a series of simulations and field experiments of multi-robot navigation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thinh",
+   "pi_last_name": "Doan",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thinh T Doan",
+   "pi_email_addr": "thinhdoan@utexas.edu",
+   "nsf_id": "000835028",
+   "pi_start_date": "2025-03-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 443322.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 74290.0
+  }
+ ],
+ "por": null
+}

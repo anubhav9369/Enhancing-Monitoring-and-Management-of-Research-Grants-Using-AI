@@ -1,0 +1,110 @@
+{
+ "awd_id": "2513544",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RUI: Cross-Validation of Binary Neutron Star Mergers Simulations across Multiple Codes",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927372",
+ "po_email": "pmarrone@nsf.gov",
+ "po_sign_block_name": "Pedro Marronetti",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 149930.0,
+ "awd_amount": 149930.0,
+ "awd_min_amd_letter_date": "2025-07-22",
+ "awd_max_amd_letter_date": "2025-07-22",
+ "awd_abstract_narration": "Binary neutron star mergers are extraordinary astrophysical events that provide critical insights into fundamental physics. However, accurately simulating these complex phenomena remains challenging due to uncertainties in numerical methods and the physical processes involved. This project addresses these challenges by developing a systematic approach to validating and improving binary neutron star simulations. By actively engaging undergraduate and master's students in computational astrophysics, this initiative advances scientific knowledge, enhances education, and benefits society through outreach and public engagement.\r\n\r\nThis work will cross-validate results from multiple numerical relativity codes by performing convergence analyses and using analytical quasi-universal relations connecting gravitational wave frequencies and equations of state to evaluate code accuracy and identify areas needing refinement. It will systematically compare binary neutron star mergers simulations across a range of mass ratios, individual neutron star spins, magnetic field strengths, and neutrino physics to determine their effects on gravitational wave signals and matter ejected during mergers. The results will assess how these physical factors influence disk mass, ejecta velocity, and angular distribution, all critical for understanding observed electromagnetic signals, such as kilonovae.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Maria Babiuc",
+   "pi_last_name": "Hamilton",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maria Babiuc Hamilton",
+   "pi_email_addr": "babiuc@marshall.edu",
+   "nsf_id": "000204691",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Marshall University Research Corporation",
+  "inst_street_address": "1 JOHN MARSHALL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HUNTINGTON",
+  "inst_state_code": "WV",
+  "inst_state_name": "West Virginia",
+  "inst_phone_num": "3046964837",
+  "inst_zip_code": "257550002",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "WV01",
+  "org_lgl_bus_name": "MARSHALL UNIVERSITY RESEARCH CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HH1NQ1B5MPV3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Marshall University Research Corporation",
+  "perf_str_addr": "1 JOHN MARSHALL DR",
+  "perf_city_name": "HUNTINGTON",
+  "perf_st_code": "WV",
+  "perf_st_name": "West Virginia",
+  "perf_zip_code": "257550002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "WV01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124400",
+   "pgm_ele_name": "Gravity Theory"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  },
+  {
+   "pgm_ref_code": "9229",
+   "pgm_ref_txt": "RES IN UNDERGRAD INST-RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149930.0
+  }
+ ],
+ "por": null
+}

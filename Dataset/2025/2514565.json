@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514565",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Small: D3 and Me: Making Visualization Toolkits Easier to Learn Through Personalized Knowledge Graphs",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922533",
+ "po_email": "hshen@nsf.gov",
+ "po_sign_block_name": "Han-Wei Shen",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Whether they are growing corporate market share, advancing the mission of a non-profit, or reshaping government policy, every large organization relies on data science tools to make sense of their own data and guide their decision making. A critical part of successful data science work is to generate data visualizations, because data visualizations allow people to map billions of abstract numbers into a concrete image that can be interpreted by the human eye. While data visualizations can be intuitive to analyze instead of raw numbers, the tools available to create them are challenging to use. Even university students struggle when learning how to use data visualization tools in their data science courses, including popular tools with ample tutorials and online documentation like D3. The vision behind this project is to develop an online platform that helps university students learn complex data visualization tools like D3, and in the future, applying our data-driven methods to help students learn visualization tools in other programming languages like ggplot2 or even completely different data science tools like Pytorch for machine learning. With this platform, we can help students master data science technology faster, and as a result, help more US students secure high-paying data science jobs and increase the overall competitiveness of the US data science workforce.\r\n \r\nTowards achieving this vision, the objective of this project is to model how students learn a new data visualization tool, with an initial focus on modeling how students learn programming-based data visualization tools like D3. Further, our data-driven modeling approach is general-purpose and can facilitate student learning of a wide range of data science tools, not just D3. With an accurate model of student learning, we can map observed behaviors of students to corresponding learning stages within the model. For example, the model could detect when a student may be struggling to learn a specific D3 feature. To help students overcome detected educational roadblocks, we aim to design new AI-driven assistants that take the learning model\u2019s predictions as input and generate customized tutorials and programming examples as output. However, a key challenge in this project is collecting comprehensive ground truth data for training a robust model that is applicable across many different educational scenarios. To address this challenge, we will build software to automatically find and extract thousands of existing D3 examples online, and format this data as a knowledge graph input corpus for training and validating our envisioned learning models. The knowledge graph structure will represent both programming principles (such as linking code components by variable dependencies) as well as visualization semantics (such as by grouping code components by visual encoding or interaction types). In this way, our research contributes to data-driven models of student learning, pipelines for generating customized educational experiences in data science courses, and broadly towards developing a highly skilled US data science workforce.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Leilani",
+   "pi_last_name": "Battle",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Leilani Battle",
+   "pi_email_addr": "leibatt@cs.washington.edu",
+   "nsf_id": "000776356",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  },
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

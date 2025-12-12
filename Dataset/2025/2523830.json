@@ -1,0 +1,110 @@
+{
+ "awd_id": "2523830",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CISE Crosscutting Small: CPS: AI-Powered Autonomous Systems for Dynamic In-Air Operations",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922451",
+ "po_email": "acharyas@nsf.gov",
+ "po_sign_block_name": "Subrata Acharya",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 280000.0,
+ "awd_amount": 280000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "This project addresses a major challenge in next-generation autonomous systems: enabling unmanned aerial vehicles (UAVs) to physically interact with moving objects in mid-air. This capability has the potential to unlock transformative applications such as mid-air refueling, maritime rescue, and dynamic target interception. These tasks are difficult due to constantly changing environments and require high levels of precision, adaptability, and reliability. By tackling this challenge, the project supports national priorities in aviation safety, disaster response, and transportation logistics. The research will also offer hands-on learning experiences for graduate and undergraduate STEM students.\r\n\r\nThe technical focus of this project is on advancing cyber-physical systems through a unified framework for aerial manipulation in dynamic environments. The research will develop: (1) a physics-informed modeling framework that improves UAV flight dynamics prediction under real-world conditions, (2) a safety-assured motion planning approach for computing adaptive, collision-free trajectories in uncertain and dynamic scenarios, and (3) a novel, energy-absorbing manipulator that enables UAVs to securely grasp and interact with moving objects. These goals will be achieved through the integration of machine learning, robotic system design, and optimization methods. The resulting algorithms and hardware will be validated through experiments and are expected to significantly expand the capabilities of UAVs for real-world operations in logistics, emergency response, and airborne transportation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ran",
+   "pi_last_name": "Dai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ran Dai",
+   "pi_email_addr": "randai@purdue.edu",
+   "nsf_id": "000649988",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 280000.0
+  }
+ ],
+ "por": null
+}

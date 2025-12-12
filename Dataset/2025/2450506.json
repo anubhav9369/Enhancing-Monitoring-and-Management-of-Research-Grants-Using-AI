@@ -1,0 +1,93 @@
+{
+ "awd_id": "2450506",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIRC: Infrastructure for Large-Scale Procedural Generation of Photorealistic 3D Data",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-06-29",
+ "awd_max_amd_letter_date": "2025-06-29",
+ "awd_abstract_narration": "Data is critical to the advances of AI, especially computer vision. Large-scale labeled data, in particular, has been a critical driver of progress in computer vision, the task of making computers see like humans. At the same time, data has also been a major challenge, as many important vision tasks remain starved of high-quality data. This is especially true for 3D vision, which seeks to make computers see 3D shapes from 2D images. To teach computers to see 3D shapes, many images annotated with the 3D shapes are needed, but such annotated images are difficult to obtain in the real world. This project proposes to address the data challenge by using synthetic images, images created by a computer instead of being captured from the real world. In particular, the project proposes to build Infinigen, a free and open-source software program that uses mathematical rules and physics simulation to create realistic-looking 3D scenes  covering a wide range of objects in the real world. Infinigen can create an infinite number of annotated images that look like real images and are useful for training AI systems. Compared to existing sources of synthetic data, Infinigen is unique for a number of reasons. It is not a finite collection of 3D assets or synthetic images; instead, it is a generator that can create infinitely many distinct shapes, textures, materials, and scene compositions. Every asset, from shape to texture, from macro structures to micro details, is entirely procedural, generated from scratch via randomized mathematical rules that allow infinite variation and composition. When completed, Infinigen will offer a broad coverage of objects and scenes in the real world from natural objects to artificial ones, including plants, animals, terrains, cities, indoors, and natural phenomena such as fire, cloud, rain, and snow.\r\n\r\nThis project is awarded as a planning project. The project team will take initial steps to engage the community and make preparations for developing Infinigen into large-scale community infrastructure. The project team will build upon an existing prototype of Infinigen and make improvements in terms of capabilities and user services. Infinigen is expected to benefit many CISE disciplines including computer vision, computer graphics, machine learning, and robotics. It can create training data for a wide range of computer vision tasks, including object detection, semantic segmentation, pose estimation, 3D reconstruction, view synthesis, and video generation. Work in this project will be integrated with K12, undergraduate, and graduate education through research training, course development and outreach events.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jia",
+   "pi_last_name": "Deng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jia Deng",
+   "pi_email_addr": "jiadeng@princeton.edu",
+   "nsf_id": "000662553",
+   "pi_start_date": "2025-06-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The Trustees of Princeton University",
+  "perf_str_addr": "619 Alexander Road",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085406000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": null
+}

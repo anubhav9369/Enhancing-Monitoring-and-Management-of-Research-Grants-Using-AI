@@ -1,0 +1,93 @@
+{
+ "awd_id": "2513647",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Advances in Inverse Electromagnetic Scattering Theory for Complex Periodic Media",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Photonic and chiral photonic crystals\u2014materials engineered with nanometric to micrometric periodic structures\u2014are of great significance to science, industry, and national defense. Their ability to control and manipulate light enables various technological applications, including optical communication devices, lasers, sensors, solar cells, and thermal management systems. In materials science, some defects can be intentionally added to these periodic structures to create new materials with advanced properties, such as precisely controlling light in specific areas and accurately routing light signals. The ability to control waves in a small space can allow for more compact device designs. Studying how light interacts with periodic structures that contain defects will offer a cost-effective method for optical testing of designs\u2014a crucial step in developing these new materials. This project will contribute to the study of inverse electromagnetic scattering theory in complex periodic media. The main objective is to simulate wave\u2013material interactions and reconstruct defects using measurements of the scattered waves at a certain distance. This research also supports quality control of optical devices fabricated from purely periodic structures. Graduate and undergraduate students will participate in and receive training as part of this research.\r\n\r\nThis project investigates the direct and inverse scattering problems governed by Maxwell's equations in an infinite locally perturbed bi-periodic layer, coupled with general constitutive relations. In addition to the inherent complexity of Maxwell\u2019s equations, the presence of defects breaks the periodicity, posing significant challenges for both theoretical analysis and numerical solvers. Various techniques\u2014including the Floquet-Bloch transform, volume integral equations, the fast spectral method, qualitative methods, and other approaches\u2014will be flexibly employed to develop useful tools for addressing the challenges in both problems, summarized in four major topics. Questions to be addressed for the direct problem include (i) establishing a Rellich-type identity to study the existence and uniqueness of solutions of Maxwell's equations and (ii) developing a novel numerical method that combines the Floquet-Bloch transform, volume integral equations, and a fast spectral method to solve the problem and study the convergence. Questions to be addressed for the inverse problem include (iii) designing an innovative inversion scheme to reconstruct defects using the measurements of the scattered waves, without relying on prior knowledge of the periodic structure and requiring only minimal data for accurate performance and (iv) investigating the discreteness of interior transmission eigenvalues for such scattering media.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thi-Phong",
+   "pi_last_name": "Nguyen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thi-Phong Nguyen",
+   "pi_email_addr": "thiphong.nguyen@njit.edu",
+   "nsf_id": "000912030",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New Jersey Institute of Technology",
+  "inst_street_address": "323 DR MARTIN LUTHER KING JR BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9735965275",
+  "inst_zip_code": "071021824",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SGBMHQ7VXNH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New Jersey Institute of Technology",
+  "perf_str_addr": "323 DR MARTIN LUTHER KING JR BLVD",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "071021824",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NJ10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

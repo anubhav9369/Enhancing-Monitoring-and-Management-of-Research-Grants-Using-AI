@@ -1,0 +1,126 @@
+{
+ "awd_id": "2432082",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-SEMICON: Hyperscale Analog Edge Computing by 3D NAND flash memory with Brain-inspired Artificial Neurons and Learning Algorithms",
+ "cfda_num": "47.041, 47.083",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 494999.0,
+ "awd_amount": 494999.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "Artificial Intelligence (AI) holds immense potential to transform modern life, but its growing energy demands pose a significant challenge to environmental sustainability and credibility. The sudden regression in the stock prices of AI and AI-chip companies such as Google, Meta, Microsoft, Nvidia, and Apple in August-2024 after years of never-ending inclination since the boom of ChatGPT and generative AI reflects the missing revenue yet to be realized by AI. This project proposes to emulate the remarkable efficiency of the human brain, which consumes only 10 watts of energy, through neuromorphic in-memory computing fueled by trillions of artificial synapses and nano-scale nonlinear dynamics-based artificial neurons. 3D NAND flash memory chips, which are industry-grade complementary metal oxide semiconductor (CMOS) technology with up to 1 trillion artificial synapses integrated into a single chip, and emerging molecular memristors (X), mimicking spiking neurons and oscillators, will play the essential role of artificial synapses and neurons, respectively. This hybrid CMOS+X hardware ecosystem, combined with biologically plausible algorithms, will enable high performance, energy efficient, and sustainable in-memory computing, benefiting high impact domains such as engineering, social science, national health, and defense. Furthermore, the project will facilitate, at the same time, workforce development by integrating research with education and providing valuable training opportunities for underrepresented students, fostering a more diverse and inclusive AI-chip and semiconductors field.\r\n\r\nThis research focuses on developing a novel hybrid CMOS+X-based in-memory analog computing framework, which encompasses industry-scale off-the-shelf 3D NAND flash memory chips and academic laboratory-scale molecular memristors. This framework utilizes readily available 3D NAND flash memory technology to create massive arrays of artificial synapses, mimicking 100 trillion synapses in the human brain. These artificial synapses arrays with an analog distribution of threshold voltages, hence various synaptic weight strengths, will be supported by molecular memristors functioning as artificial neurons to create an energy-efficient neuromorphic computing system, with significantly improved biological plausibility. This CMOS+X ecosystem will be driven by bio-inspired learning algorithms in a family of equilibrium propagation based on energy functions and spiking neural networks, which more closely resemble the brain's learning processes compared to traditional AI algorithms. Backpropagation, the most representative algorithm for calculating the gradient of the error function in modern deep neural networks, is not compatible with analog computing hardware due to low tolerance in arithmetic precision. Therefore precision-tolerable algorithms for computing gradients are crucially important to fully utilize analog in-memory computing hardware with remarkable energy efficiencies. This algorithm-hardware co-design approach promises significant reductions in energy consumption and processing time, paving the way for resource-constrained AI applications that require real-time processing and complex cognitive tasks like pattern recognition and adaptive learning.\r\n\r\nThis project is jointly funded by the ENG/ECCS/CCSS program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yaser",
+   "pi_last_name": "Banad",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yaser M Banad",
+   "pi_email_addr": "bana@ou.edu",
+   "nsf_id": "000793802",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Thirumalai",
+   "pi_last_name": "Venkatesan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thirumalai Venkatesan",
+   "pi_email_addr": "venky@neoceramagma.com",
+   "nsf_id": "000837616",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Su-in",
+   "pi_last_name": "Yi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Su-in Yi",
+   "pi_email_addr": "yisuin@tamu.edu",
+   "nsf_id": "000868378",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Oklahoma Norman Campus",
+  "inst_street_address": "660 PARRINGTON OVAL RM 301",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORMAN",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4053254757",
+  "inst_zip_code": "730193003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OK04",
+  "org_lgl_bus_name": "UNIVERSITY OF OKLAHOMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EVTSTTLCEWS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Oklahoma Norman Campus",
+  "perf_str_addr": "660 PARRINGTON OVAL RM 301",
+  "perf_city_name": "NORMAN",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "730193003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OK04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 494999.0
+  }
+ ],
+ "por": null
+}

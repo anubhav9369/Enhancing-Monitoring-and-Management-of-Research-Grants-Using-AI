@@ -1,0 +1,102 @@
+{
+ "awd_id": "2453401",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Small: Achieving Adversarial Robustness in Next-Generation Deep Learning-based Wireless Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922812",
+ "po_email": "xiawang@nsf.gov",
+ "po_sign_block_name": "Xiaogang (Cliff)  Wang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "The growing reliance on next generation wireless systems such as 5G and 6G demands highly secure and resilient communication frameworks that support latency-sensitive and high-throughput applications. A key enabler of these systems is the use of deep learning models for critical tasks including signal classification and modulation recognition. However, these models are vulnerable to wireless adversarial attacks, in which small, intentionally crafted perturbations added to normal communication cause model malfunction and further degrade network performance. To address these vulnerabilities, the project develops a framework that enhances the robustness of automatic modulation recognition under adversarial attacks in the next-generation wireless systems. The project's novelty is a bottom-up design from a communication pair to the whole network on addressing the fundamental limitations of deep learning models in adversarial wireless environments. The project's broader significance and importance are to improve the security of communication infrastructure that supports critical applications like autonomous transportation, industrial automation, and public safety. Additional contributions include the release of a large-scale wireless dataset for academic use, the integration of research outcomes into undergraduate and graduate curricula, and the engagement of students at all levels, including K-12, through interdisciplinary training and outreach activities. \r\n\r\nThe research agenda comprises three integrated research thrusts. Thrust 1 develops a Transformer-based architecture that extracts stable features from both time and frequency domains to improve the reliability of modulation recognition in the presence of adversarial perturbations. Thrust 2 designs a noise-adaptive adversarial training scheme that adjusts perturbation intensity based on real-world environmental noise, thereby enhancing model resilience. Thrust 3 extends the defense to network-wide scenarios by proposing a reinforcement learning-based strategy for adaptive transmission power control that mitigates adversarial interference while maintaining energy efficiency. The proposed methods will be evaluated using software-defined radio platforms and wireless datasets collected from real-world environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaonan",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaonan Zhang",
+   "pi_email_addr": "xzhang@cs.fsu.edu",
+   "nsf_id": "000842955",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "1017 Academic Way",
+  "perf_city_name": "Tallahassee",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323064530",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

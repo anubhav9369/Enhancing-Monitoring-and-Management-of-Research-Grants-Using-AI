@@ -1,0 +1,134 @@
+{
+ "awd_id": "2450671",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Exploring and Exploiting Data-Centric Modeling for Fairness in Machine Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2029-02-28",
+ "tot_intn_awd_amt": 547741.0,
+ "awd_amount": 435369.0,
+ "awd_min_amd_letter_date": "2024-11-15",
+ "awd_max_amd_letter_date": "2025-07-03",
+ "awd_abstract_narration": "This project will lead to advances in dealing with data challenges to facilitate fairness in machine learning, promote broad utilization of machine-learning algorithms in high-stake applications, and ensure a fair and transparent decision-making process for future information systems. While machine-learning methods have achieved success in real-world applications, they often suffer from biases and show discrimination towards certain demographics especially in high-stakes applications, which risks significant harm to both society and individuals. Existing work focuses on \u201cmodel-centric\u201d computational approaches that build models while overlooking the importance of data quality. To tackle the challenges raised by the lack of high quality data and the lack of a comprehensive understanding of fairness in all its respects, this project will integrate model-centric with \u201cdata-centric\u201d modeling, which systematically engineers the data needed for a fair decision-making process. The successful outcome of this multidisciplinary research will lead to effective and efficient algorithms that enhance the generalizability and trustworthiness of learned models, and improve the fairness of algorithms deployed in real-world systems in health informatics and disaster resilience. The education programs of this project will play an integral part in training the next generation of the U.S. workforce with critical Responsible Artificial Intelligence (RAI) technologies and attract and retain diverse members of the future workforce in STEM. \r\n\r\nThe research goal of this project is to develop a computational framework for tackling data challenges in fairness through data-centric fairness mitigation solutions that explore and exploit data and prior knowledge. Complementing existing studies focusing on model-centric or data-driven approaches, this project investigates a novel research direction that systematically explores a data-centric fairness mitigation framework. Specifically, the research objectives include: (1) to explore and extract data characteristics on instances, features and a representative subset of examples in terms of fairness, allowing that fairness definitions and metrics may vary across real-world applications; (2) to expand and refine prior knowledge to guide the discrimination-mitigation process via instance augmentation, feature set expansion, and measurement redefinition perspectives; (3) to leverage interpretable and interactive data and prior knowledge as a key element for further improving fairness modeling; and (4) to demonstrate effectiveness on real-world applications including healthcare informatics and disaster resilience. The educational objectives are: (1) to incorporate responsible artificial intelligence (RAI) into curriculum design via integrating research findings and case studies into current and new courses; (2) to enhance public interest in and awareness of RAI by organizing data challenges and broadcasting information on social media platforms; and (3) to attract and retain women and underrepresented minorities to ensure a diverse future STEM workforce.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Na",
+   "pi_last_name": "Zou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Na Zou",
+   "pi_email_addr": "nzou2@uh.edu",
+   "nsf_id": "000753575",
+   "pi_start_date": "2024-11-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Houston",
+  "inst_street_address": "4300 MARTIN LUTHER KING BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7137435773",
+  "inst_zip_code": "772043067",
+  "inst_country_name": "United States",
+  "cong_dist_code": "18",
+  "st_cong_dist_code": "TX18",
+  "org_lgl_bus_name": "UNIVERSITY OF HOUSTON SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QKWEF8XLMTT3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Houston",
+  "perf_str_addr": "4300 MARTIN LUTHER KING BLVD",
+  "perf_city_name": "HOUSTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "772043067",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "18",
+  "perf_st_cong_dist": "TX18",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 219303.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 106622.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 109444.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2349879",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CSR: Small: Interpretable and Efficient Signal Processing and Deep Learning over Graphs for Spatial-Temporal Data Analysis in AIoT Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "Society has been witnessing an increasing integration of advancements of Artificial Intelligence (AI) into Internet-of-Things (IoT), namely AI of Things (AIoT), covering applications ranging from smart health, power grid and robotics, to multimedia processing in cyber-physical systems. The widespread applications of AIoT generate complex and massive amounts of data that evolve across both space and time (spatio-temporal data). Efficiently analyzing these spatial-temporal datasets is critical for improving the performance and the cost-benefit of AIoT applications. This project devises novel techniques to analyze spatio-temporal data in an interpretable way, thus advancing the next-generation IoT and AI technologies. Moreover, this project shares its research outcomes, including newly developed algorithms and interpretable AIoT solutions with the public, and offers educational opportunities for undergraduate and graduate students.\r\n\r\nThe goal of this project is to investigate spatial-temporal data analysis in AIoT systems with the advancement of graph signal processing and graph learning techniques, structured via four research thrusts: (i) development of novel topology sampling and graph neural network pruning of single-layer graph models for data analysis efficiency; (ii) investigation of multilayer graph models to improve spatial-temporal data processing; (iii) analysis of propagation behavior and dynamic graph evolution in AIoT systems; and (iv) establishment of parameter-efficient transfer learning for spatial-temporal signal processing. This project advances both theoretical foundations of graph learning and practical solutions to AIoT applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shuai",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shuai Zhang",
+   "pi_email_addr": "sz457@njit.edu",
+   "nsf_id": "000958058",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New Jersey Institute of Technology",
+  "inst_street_address": "323 DR MARTIN LUTHER KING JR BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9735965275",
+  "inst_zip_code": "071021824",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SGBMHQ7VXNH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New Jersey Institute of Technology",
+  "perf_str_addr": "323 DR MARTIN LUTHER KING JR BLVD",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "071021824",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NJ10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7354",
+   "pgm_ref_txt": "COMPUTER SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

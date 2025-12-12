@@ -1,0 +1,117 @@
+{
+ "awd_id": "2531010",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI:IPAAI: SCRYPTS-AI: Systems and CRYPtographic Tools for Scientific AI",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 899838.0,
+ "awd_amount": 899838.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "The use of artificial intelligence (AI) is becoming of paramount importance for scientific discovery. Scientific AI projects rely upon complex collaborative workflows combining diverse (and potentially sensitive) data sources and artifacts, and as such require reproducibility, accountability, and transparency. Alterations of the AI data or models (either at collection time, at training time or at inference time) pose a severe threat to the accuracy and therefore usability of outcomes from scientific AI. In theory, some of these concerns can be mitigated via federated learning which supports collaborative learning, and cryptographic techniques. However, there has been neither systematic exploration nor toolchains of techniques that can be leveraged and deployed in real systems to serve real-world AI-enabled scientific applications. This project combines techniques from AI, systems security, cryptography and privacy to develop secure and reliable methodologies---targeted to the use of AI in medicine---for data and model provenance tracking in scientific AI applications. \r\n\r\n\r\nIn more detail, the project works along two axes underlying integrity, provenance, and authenticity (IPA) of AI scientific applications, namely data (training and querying) and AI models. The starting point is a systematic extension of the associated system infrastructure to support more functional and certified logs\u2014in order to enable reproducibility. Such extensions enable embedding of highly optimized cryptographic techniques to ensure the IPA of data and models. The novel system extensions are leveraged to design and implement new cryptographic techniques that ensure IPA of data---e.g., hash-chains for reordering prevention and watermarking for statistically verifiable provenance---as well as AI models---e.g., zero-knowledge proofs for certifying model ownership and privacy estimators for detecting dependencies. Using medical research as the project\u2019s motivation and main application and tailoring solutions and toolchains to it offers new avenues to collaborative scientific discovery in this highly sensitive application domain. More generally, the project\u2019s novel systems extensions create a platform for cryptography research to integrate further advanced solutions into the AI ecosystem. As such, the developed tools enable cross-disciplinary collaborations between areas whose technical depth makes it increasingly challenging to train experts on their intersection\u2014namely AI/ML and cryptography.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Teodora",
+   "pi_last_name": "Baluta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Teodora Baluta",
+   "pi_email_addr": "teobaluta@gatech.edu",
+   "nsf_id": "0000A21MK",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Rafail",
+   "pi_last_name": "Ostrovsky",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rafail Ostrovsky",
+   "pi_email_addr": "rafail@cs.ucla.edu",
+   "nsf_id": "000119295",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vasileios",
+   "pi_last_name": "Zikas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vasileios Zikas",
+   "pi_email_addr": "vzikas@gatech.edu",
+   "nsf_id": "000704877",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Institute of Technology",
+  "perf_str_addr": "225 North Avenue NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303320001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 899838.0
+  }
+ ],
+ "por": null
+}

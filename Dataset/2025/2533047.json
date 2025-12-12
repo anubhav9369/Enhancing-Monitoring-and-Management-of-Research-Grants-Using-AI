@@ -1,0 +1,114 @@
+{
+ "awd_id": "2533047",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "BioMADE: Economically optimal process decision making using Machine Learning models",
+ "cfda_num": "47.074",
+ "org_code": "08070700",
+ "po_phone": "7032927123",
+ "po_email": "drockcli@nsf.gov",
+ "po_sign_block_name": "David Rockcliffe",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-22",
+ "awd_max_amd_letter_date": "2025-07-22",
+ "awd_abstract_narration": "Development, scale-up and commercialization of new fermentation processes typically requires investments in the range of $100MM - $1B. Reduced performance from seemingly small process deviations during scale-up or plant operation can significantly impact the financial viability of a biomanufacturing facility. While pilot and demonstration campaigns carry less financial risk ($1MM - $10MM), the relatively small number of batches (on the order of 10) in such a campaign represents a high technical risk, since a small number of failed batches represents a large proportion of the total product and data expected to inform commercial investment decisions. Predictable scale-up and consistently near-optimal performance is, therefore, critical for the success of the United States biomanufacturing enterprise. This project seeks to develop a machine learning model for rapid assessment of the technical and economic impact of process perturbations to inform real-time decision-making related to mitigation or termination of a batch. The team leverages recent advances in machine learning, insights from an industry partner and data collected across scales from benchtop to commercial processes to deliver the decision-making tool. The award also provides research experiences for undergraduate students and supports outreach science activities to K-12 students.\r\n \r\nThe scale-up and commercialization of new fermentation processes relies on pilot and demonstration campaigns with high technical risk. Reduced performance from seemingly small process deviations during pilot operation significantly impact the data used to inform commercial investment decisions. Predictable scale-up and consistently near-optimal performance is, therefore, critical for building financially viable biomanufacturing facilities. The project develops a multiscale model to: (i) predict the impact of process perturbations on fermentation performance, (ii) quantify the economic impact of potential operator decisions on the fermentation and downstream processing, and (iii) propose the optimal response to maximize profit. More broadly, the proposed modeling framework can inform decision-making in both the design and operation of the complete process system. The approach integrates machine learning, metabolic modeling, and mechanistic process modeling to predict strain response to process perturbations and its economic impact. The resulting model is made of three hierarchical components: (1) a Machine Learning Genome Scale Metabolic Model calibrated through Bayesian design of experiments, (2) a digital twin fermentation model and (3) the decision-making model informed by techno-economic analysis. This integration bridges the gaps between biological, process, and economic modeling to allow for simultaneous prediction of performance at the strain, unit operation, and process system levels.\r\n\r\nThis project is jointly supported by the NSF Division of Molecular and Cellular Biosciences  and the BioMADE Manufacturing Innovation Institute.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brian",
+   "pi_last_name": "Pfleger",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brian F Pfleger",
+   "pi_email_addr": "pfleger@engr.wisc.edu",
+   "nsf_id": "000518119",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Victor",
+   "pi_last_name": "Zavala Tejeda",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Victor M Zavala Tejeda",
+   "pi_email_addr": "victor.zavala@wisc.edu",
+   "nsf_id": "000668931",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  },
+  {
+   "pgm_ele_code": "801100",
+   "pgm_ele_name": "Systems and Synthetic Biology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

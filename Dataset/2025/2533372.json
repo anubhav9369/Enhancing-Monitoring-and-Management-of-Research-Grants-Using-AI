@@ -1,0 +1,110 @@
+{
+ "awd_id": "2533372",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: A Risk-based Real-Options Approach for Infrastructure Systems Protection Investment",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 274000.0,
+ "awd_amount": 274000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "The objective of this project is to support research on mathematical conceptualization for planning and taking infrastructure investment decisions based on real options and risk tradeoff. Protecting civil infrastructures against natural hazards is crucial to the welfare of communities. Such protections involve major capital expenditure and often take years to complete. Yet not taking actions comes with detrimental consequences in the forms of economic loss, physical damage, casualty, and population displacement. There are difficult tradeoffs between taking early action when uncertainty is high and deferring them when uncertainty is low. While popular in finance, options theory has been utilized at only a basic level in civil engineering applications, typically focusing on a single element, ignoring system effects and uncertainty sources, risk tradeoffs, and assuming risk neutrality. This project contributes to fundamentally changing the framing of the underlying protective investment decision problem and advancing the needed mathematics and algorithms to achieve this.\r\n\r\nThe project involves four key research thrusts designed around: (1) advancing real options analysis methods under multiple uncertainty sources; (2) risk trade-offs and risk behavior modeling; (3) network-wide impacts and interacting options; and (4) machine learning approaches for information-rich environments. This project builds on concepts from optimal stopping theory, the Black-Scholes model, chance-constrained stochastic integer programming via p-efficiency, approximate dynamic programming, partially observable Markov decision processes, deep reinforcement learning, multi-agent extensions, and more. \u201cLearn-to\u201d algorithmic approaches that embed machine learning within optimization algorithms for speed-up, and explainable artificial intelligence for actionable protocols are developed. Educational and outreach activities include educational modules/mini-videos; presentations to decision-makers; input from local decision makers; involvement of undergraduate students and cross-university events and courses.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Miguel",
+   "pi_last_name": "Lejeune",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Miguel Lejeune",
+   "pi_email_addr": "mlejeune@gwu.edu",
+   "nsf_id": "000508057",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Washington University",
+  "inst_street_address": "1918 F ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "WASHINGTON",
+  "inst_state_code": "DC",
+  "inst_state_name": "District of Columbia",
+  "inst_phone_num": "2029940728",
+  "inst_zip_code": "200520042",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DC00",
+  "org_lgl_bus_name": "GEORGE WASHINGTON UNIVERSITY (THE)",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ECR5E2LU5BL6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Washington University",
+  "perf_str_addr": "1918 F ST NW",
+  "perf_city_name": "WASHINGTON",
+  "perf_st_code": "DC",
+  "perf_st_name": "District of Columbia",
+  "perf_zip_code": "200520042",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DC00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "342Y00",
+   "pgm_ele_name": "ISP-Infrastructre Systms & Ppl"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "041E",
+   "pgm_ref_txt": "HAZARD AND DISASTER REDUCTION"
+  },
+  {
+   "pgm_ref_code": "CVIS",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 274000.0
+  }
+ ],
+ "por": null
+}

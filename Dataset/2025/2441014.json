@@ -1,0 +1,130 @@
+{
+ "awd_id": "2441014",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Formalizing Open World Safety for Interactive Robotics",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07030000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 650000.0,
+ "awd_min_amd_letter_date": "2025-04-07",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) grant will support research that attempts to expand the understanding of how robots can make safe decisions. Ensuring robot safety is a complex challenge, as robots must understand how their actions could lead to harmful outcomes. Most robot safety efforts focus primarily on preventing collisions. However, safety concerns in real-world environments, such as homes, city streets, and hospitals, are far more nuanced. For example, robots should avoid entering areas marked with caution tape, slow down when transporting hot cups of coffee to prevent spills, and seek clarification when uncertain about a task. This research aims to develop new methods that enable robots to better understand and respond to these nuanced safety challenges. The project intends to advance scientific knowledge and contribute to national well-being by making robots more trustworthy and effective in a wide range of settings, from personal homes to public and professional spaces. Additionally, the project will support robotics education through the following initiatives: i) Developing a \u201cRobotics Red-Teaming Challenge,\u201d where college students will design and stress-test robot safety algorithms; ii) Engaging K-12 students in hands-on experiences with robot programming and troubleshooting; iii) Collaborating with government and industry stakeholders to establish safety benchmarks and promote the broader adoption of safe robotics practices.\r\n\r\nThis project will develop an algorithmic framework to align a robot\u2019s understanding of safety with that of human stakeholders. The approach builds on foundational methods in safe control, which characterize safety constraints as arbitrary sets in state space. While this mathematical model is theoretically highly expressive, its practical application has been limited to controlled, collision-avoidance scenarios. This award supports fundamental research to generalize this framework to more nuanced safety specifications by embedding learned patterns about the real world, inferred from robot and human data. Research conducted under this grant will strive to enable robots to: i) Automatically assess the trustworthiness of their learned models of human behavior and react accordingly; ii) Update their internal safety representations using online human feedback, such as language; iii) Generalize their safety policies to account for uncertainty and learned latent state spaces. These advancements will be evaluated through hardware experiments, where robot arms and mobile manipulators will be deployed in unstructured environments, such as kitchen and atrium settings. In addition to these research objectives, the project includes a robust education and outreach plan to teach the next generation a nuanced yet practical perspective on robot safety. This will emphasize the often subtle and unanticipated consequences of robot interactions in real-world contexts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrea",
+   "pi_last_name": "Bajcsy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrea Bajcsy",
+   "pi_email_addr": "abajcsy@andrew.cmu.edu",
+   "nsf_id": "000895389",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "7632",
+   "pgm_ref_txt": "HUMAN-ROBOT INTERACTION"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 650000.0
+  }
+ ],
+ "por": null
+}

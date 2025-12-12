@@ -1,0 +1,134 @@
+{
+ "awd_id": "2527317",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCC-CIVIC-FA Track B: Community-Based Gunshot Alert System",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 698169.0,
+ "awd_amount": 698169.0,
+ "awd_min_amd_letter_date": "2025-07-17",
+ "awd_max_amd_letter_date": "2025-07-17",
+ "awd_abstract_narration": "Gun violence and the reckless use of firearms have become a pervasive and growing problem in the United States that has only been exacerbated by easy access to firearms, and an increasing mistrust of law enforcement that often inhibits reporting by the community. This project seeks to build a community-based acoustic gunshot alert system for detecting and localizing gunshots using a distributed network of inexpensive acoustic sensors and pilot it in a community in Austin, Texas. Shots are reported directly to residents who may use this information to engage with local law enforcement or solely for peace of mind. Successful implementation of the system would represent the first time that a technology-based gunshot alert system would be commercially available to the general public, both in terms of affordability and scalability. It could open the door for entirely new ways of dealing with illegal gunfire and change the way that members of the community interact with local law enforcement agencies. The primary goal of this project is to assess the system\u2019s impact on resident incident reporting behavior, law enforcement call response, and downstream impacts on public safety and community attitudes. It will also provide a model for other communities affected by gunfire to adopt and adapt to their unique needs and circumstances.\r\n\r\nThe technology behind this project builds off the pioneering work by Vanderbilt University in wireless sensor network-based gunshot localization. Inexpensive acoustic sensors continuously listen for gunshots in the surrounding environment using a combination of traditional signal processing algorithms and neural network-based AI models. Upon detection of a shot, the sensor will communicate critical details to a cloud server, including the precise time of the shot, a confidence estimate, the sensor location, and a 3-second audio clip. The server will aggregate incoming shot alerts from nearby sensors to localize the source of the gunfire using a novel search algorithm. Shots will be reported directly to individuals in the community via a phone app, while a role-based access system will provide law enforcement with more granular data and the ability to aggregate disparate calls into a single incident report for faster response times and improved triaging. The research conducted under this project will advance the state of knowledge in low-cost gunshot localization technology, especially in situations in which acoustic sensors are placed irregularly and arbitrarily.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Will",
+   "pi_last_name": "Hedgecock",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Will Hedgecock",
+   "pi_email_addr": "ronald.w.hedgecock@vanderbilt.edu",
+   "nsf_id": "000710966",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Akos",
+   "pi_last_name": "Ledeczi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Akos Ledeczi",
+   "pi_email_addr": "akos.ledeczi@vanderbilt.edu",
+   "nsf_id": "000348998",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Loeffler",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles E Loeffler",
+   "pi_email_addr": "cloef@sas.upenn.edu",
+   "nsf_id": "000714223",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kathleen",
+   "pi_last_name": "Padilla",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kathleen Padilla",
+   "pi_email_addr": "kepadil@txstate.edu",
+   "nsf_id": "0000A4LC9",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Vanderbilt University",
+  "inst_street_address": "110 21ST AVE S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NASHVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6153222631",
+  "inst_zip_code": "372032416",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "TN05",
+  "org_lgl_bus_name": "VANDERBILT UNIVERSITY",
+  "org_prnt_uei_num": "K9AHBDTKCB55",
+  "org_uei_num": "GTNBNWXJ12D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Vanderbilt University",
+  "perf_str_addr": "110 21ST AVE S",
+  "perf_city_name": "NASHVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "372032416",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "TN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "033Y00",
+   "pgm_ele_name": "S&CC: Smart & Connected Commun"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "042Z",
+   "pgm_ref_txt": "S&CC: Smart and Connected Communities"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 698169.0
+  }
+ ],
+ "por": null
+}

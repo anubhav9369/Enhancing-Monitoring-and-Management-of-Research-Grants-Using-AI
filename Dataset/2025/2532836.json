@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532836",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Explorations in Nonlinear Plasma Physics Phenomena at Hope College",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032928236",
+ "po_email": "kmccloud@nsf.gov",
+ "po_sign_block_name": "Kathleen McCloud",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 160196.0,
+ "awd_amount": 160196.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Matter in extreme-temperature environments including stellar interiors/atmospheres, nebulae, and nuclear fusion energy experiments on Earth, is typically found in a plasma state. Plasma, or electrically-charged gas, makes up over 99% of the matter in the universe. As such, an improved understanding of plasma systems has far-reaching applications and significance. Dr. Williams will supervise the research of undergraduate students at Hope College to use computing tools to study the mathematically complex, or nonlinear, dynamics of plasma processes as they appear in stars and nuclear fusion devices. Stars are subject to a variety of dynamically interesting processes that govern how heat, energy, and particles flow within the star or leave from the star\u2019s atmosphere. Part of this project will explore the mathematical models that describe these stellar processes and distill them down to their essential features, simplifying descriptions and improving understanding without losing the fundamental physics. This improved understanding will allow for a better description of solar processes and potentially inform predictions of space weather events like coronal mass ejections. Nuclear fusion plasmas are subject to a wide range of instabilities that make confinement of the plasma (necessary for commercial fusion energy production) very difficult. The other part of this project will use computational tools to improve understanding of plasma instabilities that arise within a specific type of experimental fusion device called the Reversed-Field Pinch. Understanding what drives instabilities (and what stabilizes them) will contribute to the larger field of nuclear fusion energy research and move society closer to an affordable and clean energy landscape. \r\n\r\nThis project involves the computational investigation of nonlinear plasma physics phenomenon in two key contexts. The first context utilizes the sophisticated gyrokinetic code GENE to analyze microinstabilities, turbulence, and transport associated with the Madison Symmetric Torus (MST). This is motivated by specific recent experiments on the MST operating in Quasi-Single-Helicity (QSH) that observed anomalous high-frequency fluctuations that arise in the improved QSH state. Dr. Williams and Hope College undergraduates will perform simulations to improve understanding of these fluctuations and how they contribute to energy and particle losses. The second context develops an alternative mathematical framework for describing magnetized convection and magnetic reconnection in stars like the Sun. This framework is based on eigenmode decomposition, as recent work by the PI and others have demonstrated stable eigenmodes to play an important role in understanding nonlinear processes. Using the Dedalus code, the PI and Hope College undergraduates will examine the role of stable eigenmodes in magnetoconvection and reconnection to advance understanding of stellar processes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zachary",
+   "pi_last_name": "Williams",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zachary Williams",
+   "pi_email_addr": "williamsz@hope.edu",
+   "nsf_id": "000868227",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Hope College",
+  "inst_street_address": "35 E 12TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOLLAND",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "6163957316",
+  "inst_zip_code": "494233626",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MI04",
+  "org_lgl_bus_name": "HOPE COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YBR2AJ9X4BK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Hope College",
+  "perf_str_addr": "35 E 12TH ST",
+  "perf_city_name": "HOLLAND",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "494233626",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MI04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "160Z",
+   "pgm_ref_txt": "Fusion Enabling Science & Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 160196.0
+  }
+ ],
+ "por": null
+}

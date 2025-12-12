@@ -1,0 +1,102 @@
+{
+ "awd_id": "2446604",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AF:Small: Extremal Combinatorics and Analysis of Algorithms",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2024-12-30",
+ "awd_max_amd_letter_date": "2024-12-30",
+ "awd_abstract_narration": "Extremal combinatorics is an area of discrete mathematics that studies questions of how large an object can be while still avoiding a certain pattern. For example, how many people can be at a party where no group of 4 people are mutual friends nor mutual strangers? Or, how many points can be placed in a grid so that no three are on a line? The first goal of this project is to solve basic classification questions in the theory of pattern avoiding 0-1 matrices, which studies the following type of question: how many 1s can one pack into a matrix consisting of 0s and 1s while still avoiding a certain fixed pattern of 1s? Historically, advances in pattern-avoiding 0-1 matrices have been applied to solve mathematical problems in geometry and graph theory. The second goal of this project is to redirect pattern-avoiding 0-1 matrix methods to solve prominent open problems in computer science, in particular, the analysis of certain data structures that for decades have resisted analysis by more conventional methods. The project will also include educational activities such as training graduate students and mentoring undergraduate/high school research projects in algorithms and data structures.\r\n\r\nThe basic classification question in 0-1 matrices is to characterize the set of patterns whose extremal function is linear, or several degrees of almost-linear, or a non-linear polynomial. The project will focus on the basic classification question, as well structural properties of patterns that lead to certain extremal functions. For example, the foremost open problem is to characterize the range of extremal functions allowed by an acyclic pattern, i.e., one that is the incidence matrix of an acyclic graph. One of the applied goals of the project is to resolve the dynamic optimality conjecture and its corollaries, which concerns the existence of a universally optimal dynamic binary search tree data structure. The basic method involves transcribing the behavior of a data structure as a 0-1 matrix avoiding certain patterns. The project will also aim to resolve prominent open problems in discrete geometry using pattern-avoiding 0-1 matrices, such as bounding the complexity of geometric arrangements in two dimensions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Seth",
+   "pi_last_name": "Pettie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seth Pettie",
+   "pi_email_addr": "pettie@umich.edu",
+   "nsf_id": "000477111",
+   "pi_start_date": "2024-12-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7927",
+   "pgm_ref_txt": "COMPLEXITY & CRYPTOGRAPHY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

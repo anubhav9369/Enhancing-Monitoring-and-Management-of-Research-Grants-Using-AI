@@ -1,0 +1,105 @@
+{
+ "awd_id": "2450546",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIRC: Planning-C: Accelerating LLM Safety Research with Self-Evolving Evaluation Infrastructure",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "Large language models (LLMs) have revolutionized various fields, including education, healthcare, media, and national security, enabling powerful AI-driven applications to enhance productivity and decision-making. However, their widespread deployment has raised significant safety concerns about potential misuse, as they can be manipulated to generate harmful or misleading content. As AI safety threats and countermeasures continue to evolve in a dynamic arms race, a critical gap remains: the lack of a standardized evaluation framework to systematically assess the true safety risks of LLMs. This project aims to close this gap by developing an open, community-driven evaluation infrastructure that engages researchers, practitioners, and policymakers. By advancing AI safety research, fostering public awareness, and strengthening workforce training in responsible AI practices, this initiative will support national interests in trustworthy AI, ultimately ensuring that LLMs benefit society in a safer manner.\r\n\r\nBuilding on the research and outreach expertise of the project team, this project focuses on four primary objectives to advance community efforts in LLM safety evaluation: (i) conducting structured surveys and interviews with experts across computing disciplines to identify critical safety concerns, assess existing evaluation gaps, and gather insights on infrastructure requirements; (ii) organizing a workshop to facilitate discussions and advancements on evaluation strategies, and refine the design for a shared evaluation infrastructure; (iii) developing a prototype evaluation infrastructure based on gathered insights and iterative feedback, featuring a comprehensive suite that includes a data library, an LLM model zoo, an attack/defense repository, and an evaluator hub, ensuring both usability and scalability; (iv) hosting an LLM safety challenge to engage the community in testing and improving the evaluation infrastructure. Collectively, these efforts will establish a foundational framework that evolves with the community needs, fostering a deeper understanding, comprehensive evaluation, and continuous enhancement of LLM safety. The outcomes of this project not only advance LLM research but also drive progress in the broader community of machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lu",
+   "pi_last_name": "Lin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lu Lin",
+   "pi_email_addr": "lxl5598@psu.edu",
+   "nsf_id": "000899942",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jinghui",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jinghui Chen",
+   "pi_email_addr": "jzc5917@psu.edu",
+   "nsf_id": "000863955",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": null
+}

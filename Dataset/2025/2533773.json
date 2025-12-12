@@ -1,0 +1,138 @@
+{
+ "awd_id": "2533773",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Colony: A Framework for Bespoke Virtual Execution Contexts",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 632214.0,
+ "awd_amount": 324392.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-09-16",
+ "awd_abstract_narration": "Vulnerabilities present in software running on shared computing infrastructure (e.g., cloud datacenters) can result in significant economic losses, compromised user data, and weakened national security when such infrastructure does not properly separate programs from one another in secure, isolated compartments. While techniques do exist to ensure such isolation, they typically increase the engineering burden on programmers or trade off performance for security, limiting their effectiveness and reach. Today, programmers are deploying code on shared computing infrastructure in increasingly fine-grained units (e.g., serverless computing), making this trade off more severe over time. The off-the-shelf technologies, such as containers that isolation frameworks are often built on, were not designed for this fine-grained use case. This project thus aims to ensure both performance and security for code running on cloud infrastructure by designing new isolation mechanisms from the ground up using novel operating system, compiler, programming language, and virtualization technologies. The project will help produce more robust cloud computing infrastructure that is less susceptible to attack, less likely to leak sensitive user data, and more productive for programmers. If successful, potential impacts include reduced economic losses from compromised infrastructure, strengthened national security, and increased privacy for the broader public using cloud services. The project will also make contributions in education and broadening participation in the computing profession by enhancing educational content, injecting industry-relevant and applied content into the curriculum, increasing the representation of people from diverse backgrounds in computer systems research, revitalizing the computer systems curriculum at the PI\u2019s institution, and fostering undergraduate research engagement. \r\n\r\nThis project proposes Colony, a new software framework for lightweight, bespoke, virtualized execution contexts. Colony leverages novel execution abstractions customized for individual applications and designed for both performance and isolation. Colony contexts are synthesized using compiler analyses, and are exposed through a rich set of programming abstractions and programming language extensions. Colony builds on a new abstraction for isolated function execution, the virtualized subroutine, or virtine, along with an embeddable hypervisor. The goal of the Colony project is to achieve both high performance and strong isolation for individually isolated function contexts in a variety of applications. The project will explore various mechanisms to enable bespoke contexts, including virtualization mechanisms enhanced for optimized start-up performance, and programming models with novel language/compiler support. These bespoke contexts can be used for lighter-weight isolation than managed languages, giving them broad applicability to areas such as OS kernel drivers, third-party libraries, and database user-defined functions, as well as the more nascent serverless computing paradigm. The proposed work has potential to open up new lines of research in operating systems, virtualization, compilers, and system security.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kyle",
+   "pi_last_name": "Hale",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kyle C Hale",
+   "pi_email_addr": "kyle.hale@oregonstate.edu",
+   "nsf_id": "000723705",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 61575.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 113548.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149269.0
+  }
+ ],
+ "por": null
+}

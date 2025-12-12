@@ -1,0 +1,106 @@
+{
+ "awd_id": "2444149",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CIF: Small: New Frontiers of Approximate Message Passing: Distributed Processing, Stochastic Updates, and Non-Asymptotic Bounds",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "ahero@nsf.gov",
+ "po_sign_block_name": "Alfred Hero",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 299996.0,
+ "awd_amount": 299996.0,
+ "awd_min_amd_letter_date": "2025-06-02",
+ "awd_max_amd_letter_date": "2025-06-02",
+ "awd_abstract_narration": "Technological advances have made it possible to collect  massive datasets in many scientific applications. A major challenge is to create algorithms that can analyze these datasets efficiently while also providing guarantees on the quality of the analysis. This project focuses on iterative algorithms that start with an initial guess and then refine it until they reach a solution of the desired quality. Prior work has made it possible to design efficient iterative algorithms with excellent performance guarantees, under the assumption that all of the data is processed synchronously, without any losses or errors. However, large datasets often need to be distributed across multiple servers, leading to asynchronous updates, partial losses, and errors. The main contribution of this project is a novel framework for the design and analysis of iterative algorithms that process very large datasets in a distributed fashion. This framework naturally captures many of the phenomena that arise in distributed data processing, and can be used to design strategies that are more efficient than requiring the servers to maintain perfect synchronization. Furthermore, this research will train undergraduate and graduate students to be experts on distributed processing of massive datasets. It will also lead to the creation of educational materials, such as tutorial articles, focused on the statistical analysis of massive datasets.\r\n\r\nFrom a technical perspective, this project builds on the approximate message passing framework, which is an established methodology for precise probabilistic characterizations of iterative inference algorithms, such as matrix estimation and linear regression, in the high-dimensional setting. The project will expand the approximate message passing framework to scenarios with distributed, dynamic, and stochastic data processing. This framework will be used to create iterative algorithms that can handle partial updates, distributed computation, and dynamic data, as well as to maximize the efficiency of these algorithms, in terms of the number of iterations or the overall compute budget. The project will also explore a new proof technique based on Gaussian coupling in order to provide non-asymptotic guarantees on the performance of approximate message passing with long-term memory, non-separable denoising functions, and very high iteration counts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bobak",
+   "pi_last_name": "Nazer",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bobak A Nazer",
+   "pi_email_addr": "bobak@bu.edu",
+   "nsf_id": "000595454",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7937",
+   "pgm_ref_txt": "NETWORK CODING AND INFO THEORY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299996.0
+  }
+ ],
+ "por": null
+}

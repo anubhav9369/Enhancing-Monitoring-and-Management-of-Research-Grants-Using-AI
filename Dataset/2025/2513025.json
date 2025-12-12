@@ -1,0 +1,134 @@
+{
+ "awd_id": "2513025",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Frameworks: SCI-SWIM: Sustainable Community Infrastructure for Stable Water Isotope Modeling Enabling Earth System Research",
+ "cfda_num": "47.050, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 2552220.0,
+ "awd_amount": 2552220.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Water is essential for life and connects many parts of Earth\u2019s complex system. Yet scientists still struggle to predict how the water cycle will change in the future because current models do not fully and accurately capture how water moves through and is transformed by the Earth system. Stable water isotopes---special forms of oxygen and hydrogen in water---carry unique \"fingerprints\" that reveal where water comes from, how it travels through the atmosphere, ocean, and land surface, and how it interacts with the environment. However, most of today\u2019s Earth system models do not simulate these isotopes, leaving valuable data from field campaigns, satellites, and ancient geological records underused. Past efforts to build isotope-enabled Earth system models have faced several obstacles; outdated software and software practices make the models difficult to maintain, and a lack of training resources makes it challenging to help new researchers collaborate effectively to enhance water cycle science. This project aims to solve these problems by using advanced software concepts and practices to develop the isotope-enabled Community Earth System Model (iCESM). The innovative Earth system model is rigorously validated using diverse observational datasets. The project demonstrates the profound opportunities afforded by iCESM by providing new insights into atmospheric dynamics, plant-water and ecosystem hydrology, and changes to ice sheets and glaciers. It enables broader research on water processes and improves predictions of water-related changes, hazards, and risks, driving new scientific discoveries across multiple disciplines. The project also supports global training for researchers and developers and helps engage the public in understanding water on a changing planet.\r\n\r\niCESM leverages novel measurements of stable oxygen and hydrogen isotope ratios, which contain crucial information on water-related processes (e.g., cloud formation, evapotranspiration, or heavy rainfall) across time and space where measurements of traditional bulk water fields and fluxes may fall short. iCESM enables tracking and perturbation of hydrological processes in a complex Earth system model for deeper mechanistic understanding across multiple disciplines. Leveraging the community nature of CESM and flexible physics functionality such as the constituents object in the Common Community Physics Package, the project offers portable and sustainable isotope functionalities, comprehensive documentation, and user-friendly analysis tools to support community adoption and sustain co-development in the future. The project further aims to demonstrate iCESM\u2019s innovative capabilities in three science use cases: 1) improving understanding of shallow convection and cloud feedbacks, 2) investigating hydroclimate processes in arid and semi-arid regions to disentangle land-surface processes from atmospheric transport, and 3) exploring post-depositional atmosphere\u2013snow\u2013ice interactions and ice-sheet dynamics to enhance interpretation of critical polar ice-core records. \r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Atmospheric and Geospace Sciences in the Directorate for Geosciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiang",
+   "pi_last_name": "Zhu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiang Zhu",
+   "pi_email_addr": "jiangzhu@ucar.edu",
+   "nsf_id": "000813306",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Wieder",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "William R Wieder",
+   "pi_email_addr": "wwieder@ucar.edu",
+   "nsf_id": "000418254",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Lauritzen",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter H Lauritzen",
+   "pi_email_addr": "pel@ucar.edu",
+   "nsf_id": "000567101",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University Corporation For Atmospheric Res",
+  "inst_street_address": "3090 CENTER GREEN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOULDER",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034971000",
+  "inst_zip_code": "803012252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YEZEE8W5JKA3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "National Center for Atmospheric Research",
+  "perf_str_addr": "3090 CENTER GREEN DR",
+  "perf_city_name": "BOULDER",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803012252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  },
+  {
+   "pgm_ele_code": "153000",
+   "pgm_ele_name": "Paleoclimate"
+  },
+  {
+   "pgm_ele_code": "574000",
+   "pgm_ele_name": "Climate & Large-Scale Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2552220.0
+  }
+ ],
+ "por": null
+}

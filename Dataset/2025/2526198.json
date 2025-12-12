@@ -1,0 +1,138 @@
+{
+ "awd_id": "2526198",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Multi-span distributed fiber sensing on the Ocean Observatories Initiative Regional Cabled Array",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032927577",
+ "po_email": "kbinkley@nsf.gov",
+ "po_sign_block_name": "Kandace Binkley",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 880490.0,
+ "awd_amount": 880490.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Distributed acoustic sensing is a technology that turns the optical fibers used for telecommunications into dense arrays of virtual microphones or seismometers. The method works by converting changes in the pattern of light that is scattered back by imperfections in the fiber into measurements of vibrations all along the fiber. In the oceans, the technique can detect a variety of signals including earthquakes, whale songs, and ocean waves.  It is a particularly attractive approach in this setting because it has the potential to take advantage of the existing network of submarine telecommunications cables, whereas conventional sensors are expensive to operate in the ocean.  However, traditional distributed acoustic sensing cannot go beyond the first optical repeater typically located 50\u2013100 km offshore.  This project will test a new type of distributed acoustic sensing, termed multi-span distributed acoustic sensing, that has been developed by Nokia Bell Labs to see through optical repeaters so that observations can cross the oceans.  The project will collect three months of data on the National Science Foundation\u2019s Ocean Observatories Initiative (OOI) cabled scientific ocean observatory which extends off the coast of Oregon.  The study will look for signals from earthquakes, ocean waves and currents, whales and ships.  The observations will be compared to traditional distributed acoustic sensing collected at the same time and to the conventional sensors attached to the cabled observatory.  The approach has the potential to contribute to earthquake early warning, tsunami detection, and marine ecosystem monitoring. Early warning can save lives and potentially reduce the impact of earthquakes and tsunamis. The project will support a graduate student and a postdoctoral researcher. \r\n\r\nDistributed Acoustic Sensing (DAS) is emerging as a revolutionary technology in marine geophysics, providing new capabilities to monitor seismic, oceanographic, and acoustic processes over large areas. By leveraging standard telecommunications optical fibers, DAS enables high-resolution, real-time measurements of strain variations, allowing scientists to detect earthquakes, ocean currents and waves, and marine mammal vocalizations. However, traditional DAS is limited to about 150 km range or the first optical repeater typically 50\u2013100 km offshore, restricting its application for deep-sea monitoring. To overcome this limitation, this research will test a multi-span distributed fiber sensing approach developed by Nokia Bell Labs that extends sensing capabilities beyond the first optical repeater. The method utilizes the high-loss loopback couplers in the optical repeaters and is based on polarization-resolved optical frequency domain reflectometry.  It represents a potential breakthrough in long-range fiber sensing with a spatial resolution of about 100 m. The experiment will take place on the two cables of the Ocean Observatories Initiative Regional Cabled Array, a well-instrumented offshore network that extends from Pacific City, Oregon, to the Cascadia margin and Axial Seamount. This test will generate a three-month public-domain dataset, allowing direct comparisons between multi-span DAS, nearshore multiplexed DAS and the seismometers, hydrophones, pressure gauges, and oceanographic sensors on the Regional Cabled Array. The study will evaluate the system's sensitivity to seismic activity, oceanographic phenomena, and acoustic signals while also exploring its potential contributions to earthquake early warning, tsunami detection, and marine ecosystem monitoring.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Wilcock",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "William S Wilcock",
+   "pi_email_addr": "wilcock@u.washington.edu",
+   "nsf_id": "000096020",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Marine",
+   "pi_last_name": "Denolle",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marine A Denolle",
+   "pi_email_addr": "mdenolle@uw.edu",
+   "nsf_id": "000709694",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Bradley",
+   "pi_last_name": "Lipovsky",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bradley P Lipovsky",
+   "pi_email_addr": "bpl7@uw.edu",
+   "nsf_id": "000785793",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shima",
+   "pi_last_name": "Abadi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shima Abadi",
+   "pi_email_addr": "abadi@uw.edu",
+   "nsf_id": "000874393",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "168000",
+   "pgm_ele_name": "OCEAN TECH & INTERDISC COORDIN"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7398",
+   "pgm_ref_txt": "OCEAN OBSERVATORY SCI & TECH"
+  },
+  {
+   "pgm_ref_code": "037F",
+   "pgm_ref_txt": "OCEAN OBSERVATORIES INITIATIVE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 880490.0
+  }
+ ],
+ "por": null
+}

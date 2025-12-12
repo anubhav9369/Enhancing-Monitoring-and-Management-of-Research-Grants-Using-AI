@@ -1,0 +1,141 @@
+{
+ "awd_id": "2515389",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EFRI BEGIN OI: Reinforcement Learning for Scalable Biocomputing",
+ "cfda_num": "47.041",
+ "org_code": "07040000",
+ "po_phone": "7032927014",
+ "po_email": "szehnder@nsf.gov",
+ "po_sign_block_name": "Steve Zehnder",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1958603.0,
+ "awd_amount": 1958603.0,
+ "awd_min_amd_letter_date": "2025-09-03",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "This award will support a project to explore whether tiny, lab-grown human brain tissues - brain organoids - can perform computations similar to artificial intelligence (AI) systems, such as solving problems or controlling machines. Brain organoids created from human induced pluripotent stem cells can develop into networks of neurons that model early stages of human brain development. This project will involve the design of new tools that allow these brain organoids to interact with their environment using electrical signals, and chemicals, similarly to how the brain operates. Through creating this interactive system, the research team will test whether organoids can learn from experience, respond to feedback, and solve tasks in real time. One major component will be development of a new educational platform that allows students or small groups of public participants to run live experiments with brain organoids. These participants will not only learn about neuroscience and computation but will also participate in curated discussions on ethics and the future of brain-based technology. The project will help inspire a new generation of biomedical scientists and engineers, while ensuring that the research moves forward responsibly and transparently.\r\n\r\nThis project will establish a scalable experimental and computational framework to uncover the learning and computational potential of human brain organoids. Brain organoids, derived from induced pluripotent stem cells (iPSCs), self-organize into complex neuronal circuits composed of diverse cell types, offering a powerful model for investigating the emergence of biological computation. However, current organoid models lack feedback mechanisms, such as electrical and chemical inputs necessary for dynamic learning and adaptive task performance. To address this limitation, the project is structured around three integrated research threads: 1) The project will develop a dynamical systems framework to map the emergence of functional connectivity and low-dimensional attractor landscapes in organoids. Organoids will be trained to solve real-time reinforcement learning (RL) tasks using closed-loop feedback systems that link sensory input to motor output, and their dynamics will be analyzed. 2) The project team will engineer a long-term, cloud-connected Internet-of-Things (IoT) system that combines electrophysiology, real-time imaging, microfluidics, and AI-driven control to support large-scale, reproducible organoid training and maintenance. 3) The project will develop an organoid-specific \u2018Turing-like\u2019 test to assess problem-solving and intelligence, while also addressing critical issues such as the potential for consciousness, donor consent, legal status, and safeguards for bio-AI systems. Beginning with brain organoids as self-organizing neuronal systems with an intrinsic capacity for computation, this project will use experimental and analytical methods to define task-specific input-output relationships and assess organoid learning capabilities and public response. Results will be interpreted in a rigorous ethical framework and disseminated through open-source tools and educational outreach. Together, this work will support responsible innovation at the intersection of neuroscience, computing, and society.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "EFMA",
+ "org_div_long_name": "Office of Emerging Frontiers in Research and Innovation (EFRI)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tal",
+   "pi_last_name": "Sharf",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tal Sharf",
+   "pi_email_addr": "tsharf@ucsc.edu",
+   "nsf_id": "000979730",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Haussler",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Haussler",
+   "pi_email_addr": "haussler@cse.ucsc.edu",
+   "nsf_id": "000452821",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mircea",
+   "pi_last_name": "Teodorescu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mircea Teodorescu",
+   "pi_email_addr": "mteodorescu@soe.ucsc.edu",
+   "nsf_id": "000599149",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mohammed",
+   "pi_last_name": "Mostajo-Radji",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohammed A Mostajo-Radji",
+   "pi_email_addr": "mmostajo@ucsc.edu",
+   "nsf_id": "000864601",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Henry",
+   "pi_last_name": "Greely",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Henry T Greely",
+   "pi_email_addr": "hgreely@stanford.edu",
+   "nsf_id": "0000A189K",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Cruz",
+  "inst_street_address": "1156 HIGH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CRUZ",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8314595278",
+  "inst_zip_code": "950641077",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "CA19",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "VXUFPE4MCZH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Cruz",
+  "perf_str_addr": "1156 HIGH ST",
+  "perf_city_name": "SANTA CRUZ",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950641077",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "CA19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "763300",
+   "pgm_ele_name": "EFRI Research Projects"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1958603.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2510403",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Some New Perspectives on Stochastic Games/Controls, and Their Learning",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922436",
+ "po_email": "hliu@nsf.gov",
+ "po_sign_block_name": "Hailiang Liu",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "This project explores new mathematical tools to better understand complex systems shaped by uncertainty and strategic behavior. Focusing on stochastic control and game theory, the research addresses challenges in economics, finance, social science, and engineering that remain poorly understood. It investigates how large populations of decision-makers interact, how insider information and legal risks influence financial markets, and how to develop data-driven algorithms for decision-making when key aspects of the system are unknown. The goal is to advance understanding of decision-making under uncertainty, inform the design of safer and fairer systems, and train the next generation of researchers.\r\n \r\n\r\nThe project builds new theoretical foundations across three key areas. First, in mean field games,  the investigators will analyze the global well-posedness of the master equation -- an infinite dimensional partial differential equation crucial for understanding equilibrium uniqueness and the propagation of chaos. A universal monotonicity condition will be introduced, broadening the applicability of existing results to more general models, including those with volatility control or major players. Second, for insider trading problems, the team will develop a new probabilistic framework for the Kyle-Back model, enabling full characterization of equilibrium and analysis of uniqueness, multiplicity, legal risk, and camouflage behavior. Third, the researchers will design reinforcement learning algorithms for entropy-regularized stochastic control problems under model uncertainty, with rigorous convergence analysis and efficiency demonstrated through numerical experiments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jianfeng",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jianfeng Zhang",
+   "pi_email_addr": "jianfenz@usc.edu",
+   "nsf_id": "000289052",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jin",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jin Ma",
+   "pi_email_addr": "jinma@usc.edu",
+   "nsf_id": "000384143",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3620 S. Vermonth Ave.",
+  "perf_city_name": "Los Angeles",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900892532",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

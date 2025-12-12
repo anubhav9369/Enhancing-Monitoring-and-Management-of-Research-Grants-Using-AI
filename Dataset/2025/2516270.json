@@ -1,0 +1,118 @@
+{
+ "awd_id": "2516270",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Equitable medical decision-making",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 531667.0,
+ "awd_amount": 441404.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "Enormous health inequality persists in the United States. Even prior to the COVID-19 pandemic. In many areas of the country, people with a higher income live up to decade longer than those in the lowest income levels. Additionally, the pandemic itself has hit low income and under-served populations especially hard. Biased medical decision-making contributes to this health inequality. For example, previous work has shown that one of widely used health risk prediction algorithms assesses African-American patients as less sick than equivalently sick White patients. This research will make medical decision-making fairer by statistically analyzing the decisions made both by humans and by algorithms. The research will identify sources of bias (for example, when medical tests are given to patients with better access to healthcare rather than to patients most likely to have a disease), and propose solutions (for example, reallocating tests to patients who are predicted to have the highest disease risk). This will not only make healthcare fairer; it can also make it more efficient, by allocating medical resources where they will do the most good. The project will also create a publicly available class on how to design fair algorithms, and conduct a large-scale study of how engineers can be trained to design fairer algorithms, to improve the preparedness of the engineering workforce.\r\n\r\nBecause important medical decisions are made both by humans and by algorithms, the research pursues three objectives: 1) detecting bias in human medical decision-making, focusing on three high-stakes medical settings: allocation of medical testing, healthcare quality assessment, and interpretation of medical images. Further, the project will also build algorithmic decision-aids to reduce human bias, by drawing clinicians\u2019 attention to medically relevant features they may have overlooked. Finally, the project targets making algorithmic decision-making more equitable, by examining the features it is appropriate to include in a medical algorithm. The research will be conducted in collaboration with clinicians to maximize translational benefit to patients. The methods developed, which draw on techniques in Bayesian inference and deep learning to provide interpretable models of how bias arises, are more generally applicable to decision-making across a host of high-stakes domains\u2014including lending and hiring\u2014and thus can impact a wide range of fields concerned with equity in decision-making, including law and economics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Emma",
+   "pi_last_name": "Pierson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emma Pierson",
+   "pi_email_addr": "emmapierson@berkeley.edu",
+   "nsf_id": "000851459",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 345853.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 95551.0
+  }
+ ],
+ "por": null
+}

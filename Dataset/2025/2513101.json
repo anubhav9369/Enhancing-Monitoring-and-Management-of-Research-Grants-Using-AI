@@ -1,0 +1,146 @@
+{
+ "awd_id": "2513101",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CSSI: Frameworks: Applying Artificial Intelligence Advances to the Next Generation of Workflow Management on Modern Cyberinfrastructure",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928104",
+ "po_email": "shabagch@nsf.gov",
+ "po_sign_block_name": "Sharmistha Bagchi-Sen",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 5000000.0,
+ "awd_amount": 5000000.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Scientific research and engineering innovations increasingly depend on complex workflows that require coordination across many types of computing resources, ranging from small edge devices to powerful supercomputers. However, the growing complexity of these workflows and the distributed nature of the underlying computing and data cyberinfrastructure (CI) make it difficult for many researchers and engineers to fully access, manage, and benefit from these advanced technologies. The goal of iWMS is to apply new advancements in Artificial Intelligence (AI) techniques to design and implement a workflow management framework that empowers researchers, engineers, and educators to take advantage of the computing continuum for scientific discovery, innovation, and education. The framework promotes progress in science and engineering, powering applications that advance national priorities.\r\n\r\nThe project designs and implements iWMS, an open, modular workflow management framework that integrates AI across the entire workflow lifecycle. In particular, iWMS incorporates AI models to support automated workflow composition, intelligent resource provisioning, performance prediction, real-time anomaly detection, and workflow adaptation. Techniques such as retrieval-augmented generation facilitate workflow discovery and assembly, while machine learning-based planning and monitoring services optimize execution and enhance system reliability. With the framework foundation built on a modular and integrated design, iWMS incorporates new AI methods as they are being developed in academia and industry. iWMS services feature documented APIs, enabling CI developers to contribute to and enhance iWMS over time. The framework is evaluated with real-world scientific applications and deployed across national testbeds and cyberinfrastructure platforms. In addition to delivering robust software tools and AI models, the project produces training materials, sample workflows, and public datasets to support adoption, foster community engagement, support AI research for enhancing CI, and advance the usability and resilience of the national cyberinfrastructure ecosystem.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ewa",
+   "pi_last_name": "Deelman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ewa Deelman",
+   "pi_email_addr": "deelman@isi.edu",
+   "nsf_id": "000119337",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michela",
+   "pi_last_name": "Taufer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michela Taufer",
+   "pi_email_addr": "taufer@utk.edu",
+   "nsf_id": "000486752",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Zink",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael H Zink",
+   "pi_email_addr": "zink@ecs.umass.edu",
+   "nsf_id": "000073647",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Anirban",
+   "pi_last_name": "Mandal",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anirban Mandal",
+   "pi_email_addr": "anirban@renci.org",
+   "nsf_id": "000169199",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sai",
+   "pi_last_name": "Swaminathan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sai Swaminathan",
+   "pi_email_addr": "sai@utk.edu",
+   "nsf_id": "000916515",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "4676 Admiralty Way",
+  "perf_city_name": "Marina del Rey",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "902926611",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "36",
+  "perf_st_cong_dist": "CA36",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 5000000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2533380",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "BioMADE: In-Fermenter Cell Datastreams: Wireless Networks of Free-Floating Microbial-Electronic Sensors",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924201",
+ "po_email": "speretti@nsf.gov",
+ "po_sign_block_name": "Steven Peretti",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 449999.0,
+ "awd_amount": 449999.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "Microbial fermentation is essential for producing a wide range of products, including medicines, biofuels, and food ingredients. The microbial behavior during these complex processes must be monitored closely.  This project will develop a new class of wireless, free-floating biosensors that operate directly inside fermentation tanks. These sensors will continuously track microbial health and activity. The sensors combine specially engineered microbes that emit light in response to cellular stress with embedded electronics that detect both chemical and optical signals. The resulting system provides a non-invasive way to observe changes in fermentation and improve control of biomanufacturing processes. The interdisciplinary project will train students in cutting-edge techniques across synthetic biology, semiconductor technology, and biomanufacturing. All designs and data will be shared through open-access platforms. Through partnerships with industry, the technology will also be validated in real-world production environments, supporting a stronger economy.\r\n\r\nThis project develops a novel class of wireless, free-floating biosensors that integrate electronic and biological sensing elements to provide in situ, real-time monitoring of microbial dynamics within industrial fermentation environments. The sensing platform combines miniaturized, complementary metal\u2013oxide\u2013semiconductor-based electrochemical and optical sensor arrays with engineered whole-cell biosensors in the yeast Yarrowia lipolytica, which has been genetically modified to emit bioluminescent signals in response to intracellular stress and metabolite levels. These hybrid sensors enable continuous, spatiotemporal measurements of key fermentation parameters, including redox state, media composition, and cellular metabolic activity, without intrusive sampling or fixed probes. The NSF-supported work focuses on engineering and characterizing auto-bioluminescent Y. lipolytica strains, developing calibration frameworks for interpreting complex biological signals, and building embedded sensor nodes that operate autonomously and communicate wirelessly. These efforts advance core research areas in microbial signal transduction, bio-electronic interfacing, and systems-level bioprocess modeling, laying the groundwork for Artificial Intelligence-driven fermentation control strategies. Through collaboration with Capra Biosciences and complementary translational support from BioMADE, the platform will be further miniaturized, industrially validated, and deployed in real-world production settings. This research contributes to national bioeconomy goals by enabling tools that improve the efficiency and resilience of microbial bioproduction systems. It will provide interdisciplinary research training for undergraduate and graduate students in synthetic biology, integrated electronics, and bioprocess engineering. The project includes a partnership with Boston University\u2019s Science, Technology, Engineering, and Mathematics Pathways program to engage students in hands-on research and offers industry-facing experience through collaboration with Capra Biosciences. All microbial reporter strains, protocols, and sensor datasets will be shared through open-access repositories to ensure broad dissemination and reuse. In addition, the team will host both virtual and in-person technical workshops, covering topics such as whole-cell biosensor design, low-power sensing technologies, and bioinstrumentation in synthetic biology, to promote broader adoption and community engagement across academic and industrial institutions.\r\n\r\nThis project is being jointly supported by ENG/CBET/CBE and the BioMADE Manufacturing Innovation Institute.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rabia",
+   "pi_last_name": "Yazicigil Kirby",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rabia T Yazicigil Kirby",
+   "pi_email_addr": "rty@bu.edu",
+   "nsf_id": "000785267",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Miguel",
+   "pi_last_name": "Jimenez",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Miguel Jimenez",
+   "pi_email_addr": "jmiguelj@bu.edu",
+   "nsf_id": "0000A0SML",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "149100",
+   "pgm_ele_name": "Cellular & Biochem Engineering"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1757",
+   "pgm_ref_txt": "Quantitative sys bio and biotech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 449999.0
+  }
+ ],
+ "por": null
+}

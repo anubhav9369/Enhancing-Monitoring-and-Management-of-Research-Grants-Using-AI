@@ -1,0 +1,114 @@
+{
+ "awd_id": "2529362",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: MATH-DT Dynamical Models and Statistical Guarantees for Sparse Sensing in Nuclear Digital Twins",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Digital Twin technology aims to align the physical behavior of complex systems with online computational models, enabling real-time monitoring, prediction, and informed decision-making. Raw data gathered by sensors is often challenging to integrate into a model due to the sparsity of sensors. The sparse sensing problem is the central focus of this project. Along with developing theory and computational methods, the project focuses on applications to components of nuclear reactors. Open-source community software will be developed within the frameworks RAVEN, PySensors, and the Nuclear Data Research System.  The project will involve traineeships, software carpentry, and open-source educational curricula. Curricula will be published using the University of Washington's Lightboard filming studio.  The project aligns with the Presidential priorities in artificial intelligence and nuclear energy, and will enhance national leadership in these areas.\r\n\r\nSparse sensors establish the critical bidirectional flow of information between virtual models and safety-critical decision-making in physical nuclear energy subsystems. These sensors are essential for estimating high-dimensional temperature fields, pressure gradients, and accident scenarios. However, in nuclear applications, sensor design, placement, and budgets are extremely constrained, making strategic design and budgeting of sensors crucial. This project develops fundamental theory, algorithms, and guarantees for sparse sensing optimization in nuclear subsystems. Control and information theory, statistical mechanics, and uncertainty quantification will be leveraged to develop robust, high-dimensional estimation methods with guaranteed performance. To achieve this, there are three major thrusts: 1) dynamical models and information theory of sparse sensing, 2) optimal regularization and uncertainty quantification using statistical mechanics, and 3) multi-objective decision-making in nuclear digital twins. Validation and verification of the methods and models will focus on high-dimensional estimation, anomaly detection and prediction within the transient water irradiation system at Idaho National Laboratory (INL).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrei",
+   "pi_last_name": "Klishin",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrei A Klishin",
+   "pi_email_addr": "aklishin@hawaii.edu",
+   "nsf_id": "0000A1RHJ",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Hawaii",
+  "inst_street_address": "2425 CAMPUS RD SINCLAIR RM 1",
+  "inst_street_address_2": "",
+  "inst_city_name": "HONOLULU",
+  "inst_state_code": "HI",
+  "inst_state_name": "Hawaii",
+  "inst_phone_num": "8089567800",
+  "inst_zip_code": "968222247",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "HI01",
+  "org_lgl_bus_name": "UNIVERSITY OF HAWAII",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NSCKLFSSABF2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Hawaii",
+  "perf_str_addr": "2425 CAMPUS RD SINCLAIR RM 1",
+  "perf_city_name": "HONOLULU",
+  "perf_st_code": "HI",
+  "perf_st_name": "Hawaii",
+  "perf_zip_code": "968222247",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "HI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "160Z",
+   "pgm_ref_txt": "Fusion Enabling Science & Technology"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

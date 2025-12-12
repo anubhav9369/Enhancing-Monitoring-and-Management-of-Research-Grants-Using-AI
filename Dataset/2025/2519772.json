@@ -1,0 +1,106 @@
+{
+ "awd_id": "2519772",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Small: Open-vocabulary Neurosymbolic 3D Models",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922533",
+ "po_email": "hshen@nsf.gov",
+ "po_sign_block_name": "Han-Wei Shen",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 477651.0,
+ "awd_amount": 477651.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "The demand for 3D assets is increasing across many fields, including synthetic data for computer vision and robotics, mixed reality, interior design, furniture retail, real estate, and games with user-created content. It would be valuable to make 3D asset creation accessible to users in these fields without 3D modeling expertise. Recently, there has been an explosion of development in machine learning models which can take as input a text description of any visual concept and output a 3D asset. While such models have great potential, they are limited by their reliance on text as their sole means of user control: text is ill-suited for precisely specifying many attributes of a 3D asset (e.g. lengths or sizes), these models do not perfectly respect attributes specified in text (e.g. counts of or spatial relations between objects), and users must resort to tedious and often-ineffective prompt tweaking to modify the outputs of such models. This research project seeks to address these issues by developing a new class of machine learning model for 3D asset creation. These new models will take text descriptions as input, but instead of generating 3D geometry directly, they will instead generate computer programs which produce 3D objects. The code of each program will be meaningfully-structured, exposing parameters which users can modify to produce desired changes in the output 3D object. These output objects will be decomposed into meaningful parts, where each part has detailed 3D geometry and texture.\r\n\r\nThe researchers will leverage large language models (LLMs) to produce programs with meaningful structure and parameters. Since LLMs are error-prone, they will be used to propose procedural abstractions for modeling the part structure of objects; these abstractions will then be filtered and refined based on their ability to reconstruct 3D assets in a dataset. The researchers will then train neural networks to generate programs which use the final library of abstractions. Next, instead of learning programs from existing 3D asset datasets, the researchers will develop methods for synthesizing on-demand datasets of 3D assets from input text descriptions. This approach builds on recent advances in fast 3D generative models; it also includes a plan for automatically decomposing generated assets into parts. Finally, every structural abstraction in the learned library will be equipped with a module that generates detailed surface geometry and appearance for that structure. These modules will disentangle structure from surface details; the researchers will also explore techniques for enabling interpretable parametric control of these surface details.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Ritchie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel Ritchie",
+   "pi_email_addr": "daniel_ritchie@brown.edu",
+   "nsf_id": "000737205",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 477651.0
+  }
+ ],
+ "por": null
+}

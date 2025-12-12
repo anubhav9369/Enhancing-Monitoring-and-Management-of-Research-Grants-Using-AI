@@ -1,0 +1,98 @@
+{
+ "awd_id": "2433490",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Enhanced macromolecular structure modeling and validation methods for cryo-EM maps",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 980943.0,
+ "awd_amount": 980943.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Biomolecules, proteins and nucleic acids, carry out almost all tasks inside living cells. To understand how such molecules work and how to design new drugs that bind to them, their three-dimensional (3D) structures are crucial. Recently, cryogenic electron microscopy (cryo-EM) has allowed scientists to visualize these biomolecules as 3D volume data, but its resolution is not high enough to capture all the details. Converting those cryo-EM data into precise 3D atomic models remains slow, expensive, and challenging, especially for large complexes. This project aims to develop new artificial-intelligence (AI) tools that will automatically interpret cryo-EM data into accurate 3D molecular structures and check those structures for mistakes. By releasing the software as freely available web computing services and expanding an open database of quality assessments, many academic laboratories, biotech companies, and pharmaceutical companies can enhance their research and development. By this project, hands-on workshops on developed tools and outreach activities will be conducted. Faster, more reliable cryo-EM modeling will accelerate drug discovery, enhance numerous structural biology research efforts, and lead to new applications of AI in the biological field.\r\n\r\nThis project will pursue three closely related objectives: (1) it will develop a deep learning-based method capable of constructing protein-DNA/RNA complex structures. The proposed architecture will integrate advanced deep learning architectures, making the process more accurate and scalable for large protein-DNA/RNA complexes. Additionally, a novel method will be developed to identify unknown proteins and nucleic acids within cryo-EM maps with high accuracy. (2) The model quality assessment score framework will be expanded in two directions: The score will assess backbone and side-chain errors in high resolution EM maps and also scores that evaluate molecules other than proteins will be developed. (3) For challenging medium to low-resolution cryo-EM maps, a new biomolecular modeling and assembly method will be developed. It will sharpen density with a diffusion model, convert it to a backbone point cloud, and fit the local structure of AlphaFold models using advanced point-cloud registration techniques, followed by clustering and real-space refinement. Expected outcomes include open-source software, a publicly accessible online computing web service, and an expanded quality-assessment database. These outcomes will overcome the current limitations in biomolecular modeling for cryo-EM data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Genki",
+   "pi_last_name": "Terashi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Genki Terashi",
+   "pi_email_addr": "gterashi@purdue.edu",
+   "nsf_id": "0000A09B6",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 980943.0
+  }
+ ],
+ "por": null
+}

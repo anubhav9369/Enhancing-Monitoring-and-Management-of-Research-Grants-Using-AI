@@ -1,0 +1,134 @@
+{
+ "awd_id": "2517566",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Mississippi State University (MSU) Autonomous Vehicle Simulator (MAVS) Software Foundation",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 259189.0,
+ "awd_amount": 259189.0,
+ "awd_min_amd_letter_date": "2025-08-06",
+ "awd_max_amd_letter_date": "2025-08-06",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project builds a dynamic, collaborative community dedicated to advancing self-driving technologies through open-source innovation. By uniting stakeholders from industry, government, and academia around the Mississippi State University (MSU) Autonomous Vehicle Simulator (MAVS), a free, physics-based simulation platform, this project accelerates the development, knowledge sharing, and real-world deployment of autonomous systems. Although building and physically testing self-driving vehicles is slow, expensive, and potentially dangerous, simulation is fast, cheap, and safe. This project enables community access and governance of a high-quality simulator, allowing contributions to self-driving technologies from a variety of sources. This project develops an open-source ecosystem to support the growth and governance of MAVS through community contributions, allowing the capability and use of the software to grow with the number of users. The solution also allows the users to guide and contribute to the development of new simulator features that match the technology needs of the emerging field of self-driving cars, incorporating simulations of new types of sensors, environments, and vehicle behaviors.\r\n \r\nThis POSE project establishes a sustainable open-source ecosystem to support the MAVS software, an open-source software for simulating self-driving vehicles. The project creates a formal governance structure for MAVS, a process for contributing new features and code, and enable input from the growing community of MAVS users. This solution includes setting priorities such as the development of new cameras and radar-based sensor models for self-driving vehicles. Additionally, this project creates a process for addressing feature requests for MAVS. While MAVS already includes interfaces to commonly used tools like the robotic operating system, future feature requests may include the development of other interfaces or new terrain simulation properties to support simulated experimentation in on-road and off-road terrains. Because MAVS has supported a broad domain of experiments \u2013 from large-scale teaming exercises to cybersecurity analysis, the team expects feature requests to cover a wide variety of applications. This project will define a process for ordering the priority of new features in MAVS, ensuring the long-term utility of the software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Goodin",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher T Goodin",
+   "pi_email_addr": "cgoodin@cavs.msstate.edu",
+   "nsf_id": "000842718",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Carruth",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel W Carruth",
+   "pi_email_addr": "dwc2@cavs.msstate.edu",
+   "nsf_id": "000561941",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Hudson",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher R Hudson",
+   "pi_email_addr": "Chudson@cavs.msstate.edu",
+   "nsf_id": "000842721",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sara",
+   "pi_last_name": "Fuller",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sara C Fuller",
+   "pi_email_addr": "sfuller@cavs.msstate.edu",
+   "nsf_id": "0000A0Y6V",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Mississippi State University",
+  "inst_street_address": "245 BARR AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "MISSISSIPPI STATE",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6623257404",
+  "inst_zip_code": "39762",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MS03",
+  "org_lgl_bus_name": "MISSISSIPPI STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTXJM52SHKS7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Mississippi State University",
+  "perf_str_addr": "245 BARR AVE",
+  "perf_city_name": "MISSISSIPPI STATE",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "39762",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MS03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 259189.0
+  }
+ ],
+ "por": null
+}

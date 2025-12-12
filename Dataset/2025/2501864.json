@@ -1,0 +1,102 @@
+{
+ "awd_id": "2501864",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Understanding Flow Dynamics to Improve Dead Reckoning Accuracy in Underwater Robots",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 199820.0,
+ "awd_amount": 199820.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "Accurate inertial navigation in underwater autonomous systems is critical for long-range operations. For example, the disappearance of airplanes or ships at sea is a tragic event that often leads to long and costly search operations, sometimes lasting months or even years covering thousands of square kilometers. Underwater vehicles, including autonomous underwater vehicles (AUVs) or robots, remotely operated vehicles (ROVs), and human-occupied vehicles (HOVs), play vital roles in these missions. However, due to inertial navigation drift and the complexity of the underwater environment, these vehicles can become lost. This Engineering Research Initiation (ERI) award will develop a method to enable the autonomous underwater robot to effectively estimate the flow around it and use this information along with novel localization algorithms to determine its position relative to the environment. The successful outcome would enable improved inertial navigation systems for autonomous operations, benefiting applications in aquatic monitoring, oil and gas exploration, and search and rescue operations. The award will also support education of students and engineers through courses, tutorials, online materials, seminars, workshops, contests, and research opportunities.\r\n\r\nThe objective of this research is to accurately localize the position or dead reckoning accuracy of an underwater robot by addressing fundamental challenges in visualizing the flow dynamics around it. Two major factors that reduce dead reckoning performance are sensor noise and flow current estimation error. This research will overcome these challenges by efficiently representing the flow field around the robot using reduced-order dynamic flow modeling, estimating the flow current/rate by leveraging physics-informed neural network, and developing precise relationships between sensor noise, flow estimation error, and localization error. Ultimately, the research will provide quantitative insights on the influence of sensor accuracy and flow conditions on drift in inertial navigation, efficient real-time calculation of the flow filed under limited computational capacity, and the efficacy of physical information, such as the Navier Stokes equations, in estimating the flow field.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fengying",
+   "pi_last_name": "Dang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fengying Dang",
+   "pi_email_addr": "fdang1@mtu.edu",
+   "nsf_id": "0000A0PD3",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan Technological University",
+  "inst_street_address": "1400 TOWNSEND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUGHTON",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "9064871885",
+  "inst_zip_code": "499311200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "GKMSN3DA6P91",
+  "org_uei_num": "GKMSN3DA6P91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan Technological University",
+  "perf_str_addr": "1400 TOWNSEND DR",
+  "perf_city_name": "HOUGHTON",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "499311200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199820.0
+  }
+ ],
+ "por": null
+}

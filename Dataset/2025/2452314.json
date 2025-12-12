@@ -1,0 +1,93 @@
+{
+ "awd_id": "2452314",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Equivalence relations in group theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 95000.0,
+ "awd_amount": 95000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "This project aims to study equivalence relations in groups. Groups are a class of fundamental objects in Algebra, and more generally, Mathematics. Originally, they were used to define symmetries of patterns --- from how crystals form to the rotations of Rubik\u2019s cube --- but it turns out that many important mathematical structures can be thought of as a group with some extra structure. On the other hand, equivalence relations are relations that describe \u201csameness\u201d, which is one of most natural questions to ask when given two objects, and whose meaning depend on the exact context. In group theory, there are many natural relations that are equivalence relations. Equivalence relations in group theory have a long history of being one of the most important testing grounds for ideas in computability theory, which has stimulated progress in both areas. This project aims to investigate this interaction, but under the light of a tool, computable reduction, that has seen rapid development in the last two decades. Compared to classical literature, this new perspective allows a finer analysis of the equivalence relations, which allows us to investigate deeper the complexity of these equivalence relations. Furthermore, this new perspective is expected to motivate the development of new tools in both group theory and computability theory, which have the potential to be useful to other problems beyond this project. This project also provides opportunities and support for students to engage in problem solving and research in logic and group theory.\r\n\r\nThe first part of the project focuses on the word and conjugacy problems, the two most famous algorithmic problems in group theory. Classically, they are viewed as sets and studied using Turing reduction, even though they are naturally equivalence relations. This part utilizes the newly developed theory of computable reduction, which recognizes the equivalence relation structure of these algorithmic problems. Many preliminary results of the PI show that this new point of view paints a very different landscape, which leads to new questions in both group theory and computability theory. The project also aims to develop new tools to answer these questions. The second part of the project investigates more broadly other equivalence relations in algebra, under a variety of reducibilities, all of which respect the equivalence relation structure. While this part is more experimental in nature, it is observed that many of the problems are closely tied with each other as well as the problems in the first part. This project also contains various problems that are more concrete and thus suitable for students, which allows the students to contribute to the project while getting hands-on experience with mathematical research. The PI will mentor these students not only in research but also their mathematical career development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Meng-Che",
+   "pi_last_name": "Ho",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Meng-Che Ho",
+   "pi_email_addr": "Mho@ncf.edu",
+   "nsf_id": "000757537",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University Corporation, Northridge",
+  "inst_street_address": "18111 NORDHOFF ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORTHRIDGE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8186771403",
+  "inst_zip_code": "913300001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "32",
+  "st_cong_dist_code": "CA32",
+  "org_lgl_bus_name": "THE UNIVERSITY CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LAGNHMC58DF3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California State University, Northridge",
+  "perf_str_addr": "18111 NORDHOFF ST",
+  "perf_city_name": "NORTHRIDGE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "913300001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "32",
+  "perf_st_cong_dist": "CA32",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 95000.0
+  }
+ ],
+ "por": null
+}

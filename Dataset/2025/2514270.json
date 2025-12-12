@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514270",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MIMO ISAC for High-Rate Communication and Accurate Situational Awareness in High-Mobility Scenarios",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 360000.0,
+ "awd_amount": 360000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "This project addresses the growing demand for high-performance, compact, and energy-efficient wireless systems by advancing Dual Function Radar Communication technology. DFRC systems integrate communication and sensing capabilities into a single platform, reducing hardware redundancy, cost, and power consumption while enhancing spectral efficiency. The research is aimed at next-generation applications \u2014 including autonomous vehicles, satellite and UAV systems, and smart manufacturing \u2014 where both high-speed communication and high-resolution sensing are critical. The project tackles key challenges in these domains, particularly the efficient allocation of spectral resources and the mitigation of Doppler-induced performance degradation in high-mobility environments where traditional systems fall short.\r\n\r\nA novel Dual-Function Radar-Communication system is proposed to support high-mobility scenarios while efficiently utilizing bandwidth for both communication and sensing. The system features a monostatic multiple-input multiple-output (MIMO) radar that transmits OTFS waveforms. Bandwidth efficiency is achieved by enabling Doppler-delay domain bins to be shared across transmit antennas. A low-complexity approach is introduced to obtain coarse target estimates within the aperture limits of the receive array. This research further leverages a key strength of MIMO radar: achieving spatial resolution beyond the receive array\u2019s aperture through the use of a virtual array. Forming a virtual array requires orthogonal transmit waveforms. However, ensuring such orthogonality \u2014 e.g., through separate, non-overlapping resources for communication and sensing \u2014 typically reduces communication rates. Our system addresses this challenge by enabling virtual array-based high-resolution sensing while minimizing its impact on communication throughput. A central innovation is the introduction of Time-Frequency domain private bins, which enable virtual array construction at a collocated receiver. These bins, combined with a discretization of the target space around the coarse estimates, facilitate the formulation of a sparse signal recovery problem, resulting in significant improvement in target parameter estimation. Although using private bins reduces available Doppler-delay domain resources \u2014 introducing a trade-off between communication rate and sensing accuracy \u2014 only a small number are needed to achieve notable sensing gains with minimal impact on communication performance. The proposed system is implemented on a multi-antenna software-defined radio testbed at Rutgers University\u2019s WINLAB. This prototype will empirically evaluate communication-sensing trade-offs and demonstrate the system\u2019s robustness. The project also offers hands-on research and educational experiences for students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Athina",
+   "pi_last_name": "Petropulu",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Athina P Petropulu",
+   "pi_email_addr": "athinap@rutgers.edu",
+   "nsf_id": "000107949",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "AGGELOS",
+   "pi_last_name": "BLETSAS",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "AGGELOS BLETSAS",
+   "pi_email_addr": "aggelos@winlab.rutgers.edu",
+   "nsf_id": "0000A05WR",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 360000.0
+  }
+ ],
+ "por": null
+}

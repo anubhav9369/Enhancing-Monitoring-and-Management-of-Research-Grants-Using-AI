@@ -1,0 +1,102 @@
+{
+ "awd_id": "2452044",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Combinatorial Representation Theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922599",
+ "po_email": "sgdewint@nsf.gov",
+ "po_sign_block_name": "Stefaan De Winter",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 199786.0,
+ "awd_amount": 199786.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Algebraic objects such as groups are used to measure symmetry in both mathematics and the natural world.  In combinatorial representation theory, one aims to make algebraic structures more accessible by translating them into concrete combinatorial objects such as graphs, tableaux, and partitions. These combinatorial models not only provide intuitive insight but also lead to more efficient computations. A central focus of this project is to study how representations can be combined, especially through operations like the tensor product and composition of group representations. Our goal is to build algorithms that use combinatorial tools to break down the combined representations into basic building blocks, called irreducible representations. This decomposition problem has broad significance across fields like algebraic combinatorics, complexity theory, and statistics, and it finds practical applications in computer vision, quantum physics, chemistry, and even fast matrix multiplication. At its core, it addresses the fundamental challenge of disentangling individual signals from a composite one. In parallel, the PI will continue collaborative work with students on the chromatic symmetric function, a rich yet accessible topic that provides an ideal entry point for introducing students to mathematical research.\r\n\r\nThree of the most important open problems in combinatorial representation theory are the Kronecker, plethysm, and restriction problems. Each focuses on understanding how representations decompose into irreducibles, and all three are closely connected. The PI and her collaborators have identified the plethysm problem as the key to solving the others. In joint work with Saliola, Schilling, and Zabrocki, the PI developed a new approach to plethysm using the representation theory of diagram algebras. These efforts led to a new algorithm for computing plethysm based on the uniform block permutation algebra.  Together with Zabrocki, she also introduced new bases of symmetric functions that have led to progress on the restriction and Kronecker problems.  Building on this foundation, the proposed projects will further develop the combinatorial and algebraic frameworks aimed at deeper understanding of the plethysm and related decomposition problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rosa",
+   "pi_last_name": "Orellana",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rosa C Orellana",
+   "pi_email_addr": "Rosa.C.Orellana@Dartmouth.edu",
+   "nsf_id": "000486366",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Dartmouth College",
+  "inst_street_address": "7 LEBANON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HANOVER",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6036463007",
+  "inst_zip_code": "037552170",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NH02",
+  "org_lgl_bus_name": "TRUSTEES OF DARTMOUTH COLLEGE",
+  "org_prnt_uei_num": "T4MWFG59C6R3",
+  "org_uei_num": "EB8ASJBCFER9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Dartmouth College",
+  "perf_str_addr": "7 LEBANON ST",
+  "perf_city_name": "HANOVER",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "037552170",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NH02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  },
+  {
+   "pgm_ele_code": "797000",
+   "pgm_ele_name": "Combinatorics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199786.0
+  }
+ ],
+ "por": null
+}

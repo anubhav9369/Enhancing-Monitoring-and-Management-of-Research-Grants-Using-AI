@@ -1,0 +1,114 @@
+{
+ "awd_id": "2537759",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: EDU: A Socially-Distant Cloud-Based Hardware Security Educational Platform",
+ "cfda_num": "47.076",
+ "org_code": "11010000",
+ "po_phone": "7032922802",
+ "po_email": "gserpen@nsf.gov",
+ "po_sign_block_name": "Gursel Serpen",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 186000.0,
+ "awd_amount": 183563.0,
+ "awd_min_amd_letter_date": "2025-09-02",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "The main goal of this project is to develop and deliver remote experiments utilizing cloud-based resources aimed at educating a broad audience of students and practitioners in hardware security. In the post-COVID era, it is imperative to develop online education platforms for remote training of both students and the workforce in the field of Hardware Security. Recent advances in this field and FPGA-based cloud servers have enabled an opportunity to move related experiments to an online format that only requires a standard computer and internet connection by the students. Teaching \u201chardware\u201d security in a socially distanced format poses significant challenges. Essential experiments for teaching key concepts in hardware security necessitate multiple evaluation boards and physical equipment such as voltage supplies, oscilloscopes, multimeters, and function generators. To adapt these experiments for an online platform, the project will explore innovative methods to execute or emulate them using the cloud ecosystem. This project addresses a critical gap by developing a fully online hardware security training module accessible to students and professionals worldwide. \r\n\r\nThis project proposes various comprehensive experiments testing different notions in hardware security. The framework will be designed for both undergraduate and graduate students in the electrical engineering, computer engineering, and computer science departments, leveraging courses developed by the PIs in their respective institutions. The proposed infrastructure includes preparing detailed experiments for instructors with walkthrough documents and organizing student assignments for independent completion. This setup supports not only teaching but also facilitates independent research upon assignment completion. Supplemented with video instructions, these experiments will constitute a comprehensive training module, equipping participants with the necessary skills and knowledge to address complex challenges in this emerging domain, thereby instilling preparedness and confidence. \r\n\r\nThis award is co-funded by the NSF Improving Undergraduate STEM Education (IUSE: EDU) Program. The NSF IUSE: EDU Program supports research and development projects to improve the effectiveness of STEM education for all students. This project is further supported by the Secure and Trustworthy Cyberspace (SaTC) program, which funds proposals that address cybersecurity and privacy, and in this case, cybersecurity education. The SaTC program aligns with the Federal Cybersecurity Research and Development Strategic Plan and the National Privacy Research Strategy to protect and preserve the growing social and economic benefits of cyber systems while ensuring security and privacy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DGE",
+ "org_div_long_name": "Division Of Graduate Education",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kanad",
+   "pi_last_name": "Basu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kanad Basu",
+   "pi_email_addr": "basuk@rpi.edu",
+   "nsf_id": "000806761",
+   "pi_start_date": "2025-09-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "199800",
+   "pgm_ele_name": "IUSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "8209",
+   "pgm_ref_txt": "Improv Undergrad STEM Ed(IUSE)"
+  },
+  {
+   "pgm_ref_code": "SMET",
+   "pgm_ref_txt": "SCIENCE, MATH, ENG & TECH EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04AC2324DB",
+   "fund_name": "EDU DRSA DEFC AAB",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 183563.0
+  }
+ ],
+ "por": null
+}

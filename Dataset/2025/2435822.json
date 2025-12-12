@@ -1,0 +1,105 @@
+{
+ "awd_id": "2435822",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: Revolutionizing Instrumental Analysis Using Foundation Models",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Decoding the structures and properties of unknown molecules through analyzing the wavelengths of their electromagnetic properties is known as spectral analysis. Spectral analysis is crucial for scientific discovery and practical applications in various fields, including material manufacture, drug design, food safety, explosive detection, and non-invasive diagnosis. Spectral analysis offers rapid, sensitive, non-destructive, and cost-effective identification of unknown molecules through their characteristic numerical signals and outperforms traditional chemical analysis. However, the process of translating numerical signals into molecular structures is currently resource-intensive and not user-friendly because it often requires extensive trial-and-error and specialized training. This project aims to revolutionize spectral analysis using state-of-the-art artificial intelligence (AI) in an automatic, accelerated, and accurate fashion. This project will treat spectral signals and molecular structures as two different \"languages\". Models developed in this project will automatically transform spectral signals and molecular structures into descriptions of molecules in the two languages and enable rapid conversion between each description based on advanced AI-powered language translation tools. The resulting universal toolkit will simplify and streamline spectral analysis in practical scenarios and benefit applications in scientific research, national healthcare, national security, educational activities, and other domains. \r\n\r\nThe primary intellectual contribution of this project is the development of a novel chemistry-informed, multi-modal, powerful, and flexible deep learning framework to realize automatic, accelerated, and accurate end-to-end spectrum-to-structure translations. Investigators will adapt and leverage foundation models from the frontier of AI, especially pre-trained large language models (LLMs) like Transformers. This project will design an encoder-decoder architecture, where the spectrum encoder converts the input numerical spectral signals (e.g., wavenumber-absorbance pairs from infrared (IR) spectra and chemical shift-intensity pairs from nuclear magnetic resonance (NMR) spectra) into context vectors, and the structure decoder transforms these context vectors into the output molecular fingerprint containing two-dimensional (2D) topological structures and three-dimensional (3D) spatial conformations of target molecules. The encoder and decoder will be pre-trained on high-quality data sets of molecular spectra from experimental measurements and theoretical calculations and fine-tuned to boost the performance. The project will accomplish three fundamental thrusts, including (a) developing natural-language representations for both spectral signals and molecular structures that align with the architecture of foundation models, (b) designing multi-modal learning frameworks to leverage pre-trained foundation models as the backbone approaches and inject chemical constraints as domain-specific knowledge for an end-to-end spectrum-to-structure translation, and (c) tailoring our multi-modal learning frameworks using chemistry- and data-informed schemes to adapt to the practical instrumental analysis pipeline for applications in real-life scenarios. This project will demonstrate significance across a broad range of disciplines where spectral analysis is essential for identifying or recognizing single molecules or molecular mixtures, including chemistry, biology, medicines, pharmacology, astronomy, security, materials science, food science, and environmental science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhou",
+   "pi_last_name": "Lin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhou Lin",
+   "pi_email_addr": "zhoulin@umass.edu",
+   "nsf_id": "000854279",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hui",
+   "pi_last_name": "Guan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hui Guan",
+   "pi_email_addr": "huiguan@cs.umass.edu",
+   "nsf_id": "000839467",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

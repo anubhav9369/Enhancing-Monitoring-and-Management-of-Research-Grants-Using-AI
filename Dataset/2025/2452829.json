@@ -1,0 +1,110 @@
+{
+ "awd_id": "2452829",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Risk-Sensitive Learning-Augmented Adaptive Control Algorithms and Applications in Stochastic Networks",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 279654.0,
+ "awd_amount": 279654.0,
+ "awd_min_amd_letter_date": "2025-09-02",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "This grant supports research that will contribute to the advancement of national prosperity and social and economic welfare by developing adaptive control and learning algorithms to solve complex, practical problems arising from networked systems with uncertainties. Large-scale service operations, manufacturing and production systems, inventory and logistics, healthcare patient flows, telecommunications, and cloud computing all have complex network structures and often face various challenging operational risks such as sudden changes in demand or disruptions in service. Unlike traditional methods that assume full knowledge of system behavior, this research will create new algorithms that can learn from data and adapt in real time, while also accounting for risk and variability in outcomes - weighing in on the potentially high fluctuations around the average values of certain performance metrics. Beyond the technical contributions, the project will enhance STEM education by integrating cutting-edge research into both undergraduate and graduate curricula. It will prepare students with advanced mathematical and engineering skills needed to lead in fields like artificial intelligence, operations research, industrial and systems engineering - strengthening the U.S. science and engineering workforce.\r\n \r\nThis research will advance the computational and learning methods of risk-sensitive control of Markov chains and diffusions and their applications in stochastic networked systems. There has been substantial development recently in the theory of ergodic risk-sensitive control of Markov chains and diffusions. However, this theory requires that the underlying dynamics and parameters, as well as model specifications, are known, which is not usually fulfilled in practice, and therefore, a synergy of learning and adaptive control simultaneously is highly demanded. This project will develop a variety of adaptive control and computational algorithms to solve risk-sensitive control problems for Markov chains and diffusions, as well as the associated heuristic adaptive rolling horizon algorithms. These computational methods will be augmented with advanced learning algorithms, which include recursive confidence region learning algorithms for the parameter ranges, learning of the model specification to account for model uncertainty, and learning of the reward or cost functions in the objectives. Furthermore, learning-augmented adaptive control algorithms will be developed particularly for stochastic networked systems under the ergodic risk-sensitive criteria, to tackle the challenges from complex network structures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guodong",
+   "pi_last_name": "Pang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guodong Pang",
+   "pi_email_addr": "gdpang@rice.edu",
+   "nsf_id": "000573702",
+   "pi_start_date": "2025-09-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "William Marsh Rice University",
+  "inst_street_address": "6100 MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7133484820",
+  "inst_zip_code": "77005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "TX07",
+  "org_lgl_bus_name": "WILLIAM MARSH RICE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "K51LECU1G8N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "William Marsh Rice University",
+  "perf_str_addr": "6100 MAIN ST",
+  "perf_city_name": "Houston",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "770051827",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "TX07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  },
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "072E",
+   "pgm_ref_txt": "NETWORKS & QUEUING SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "5514",
+   "pgm_ref_txt": "OPERATIONS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 279654.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2426368",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CSR: Small: Cross-Layer Scheduling to Democratize AI for Foundation Model Inference Serving - An  Algorithm-System Co-design Approach",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-03-24",
+ "awd_max_amd_letter_date": "2025-03-24",
+ "awd_abstract_narration": "Artificial Intelligence (AI) applications, such as ChatGPT, which can create digital content such as images, text, and video, have been considered promising for tasks like creative writing and software development. However, these AI applications\u2019 complexity and demand for costly computational resources limit their access for many people and organizations. This project\u2019s novelties are the creation of software-hardware solutions that enable these AI applications to run efficiently on smaller, less powerful computer systems. The project's broader significance and importance are making AI more available worldwide. This work also supports education by involving students in groundbreaking AI research and creating public AI-related tools to benefit society.\r\n\r\nThis project addresses the critical challenge of running large foundation models, like those powering advanced AI applications, on smaller, resource-limited computer systems. By combining algorithmic and system-level innovations, the project seeks to improve efficiency, scalability, and resource utilization in foundation model inference, making AI more available. This project consists of three research thrusts. First, the project tackles data transfer bottlenecks between graphics processing units (GPUs) and central processing units (CPUs) by designing a sparsity-aware scheduling system. This approach prioritizes important data (tokens) and dynamically manages memory to reduce overhead. Second, the project optimizes how AI tasks are scheduled by introducing speculative execution for real-world workloads and adaptive memory management. Finally, the proposed solutions minimize GPU scheduling delays and cross-layer communication overhead using software-based solutions to improve kernel compilation. These innovations are expected to significantly reduce inference time and cut costs and energy consumption, while broadening access to AI tools for more people and organizations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jun",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jun Wang",
+   "pi_email_addr": "Jun.Wang@ucf.edu",
+   "nsf_id": "000277527",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7354",
+   "pgm_ref_txt": "COMPUTER SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

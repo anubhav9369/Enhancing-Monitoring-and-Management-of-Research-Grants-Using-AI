@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442685",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER : Filling In the Design Landscape of Probabilistic Programming Languages",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 674830.0,
+ "awd_amount": 674830.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2025-09-15",
+ "awd_abstract_narration": "Probabilistic behavior is pervasive in computing, so it is critical that we have tools for reasoning about it in our programs. Probabilistic programming languages (PPLs) address this need by enriching programming languages with probabilistic semantics, enabling applications in software verification and artificial intelligence that rely on reasoning about the uncertain behavior. The challenge is scalability: probabilistic inference is computationally hard, even for very restricted programming languages. However, scaling inference is not hopeless: its inherent hardness can be tamed by careful language design. There are special PPLs, called tractable probabilistic models, for which inference is computationally easy. Unfortunately, tractable probabilistic models are too low-level to ergonomically program in. The goal of this project is to bridge the gap between high-level ergonomic languages and low-level tractable languages. This project's novelty is a new compiler-oriented approach to designing and implementing PPLs: the team will (1) develop new high-level ergonomic PPLs that compile to low-level tractable probabilistic models; (2) develop new compilation targets that enable scalable probabilistic inference for richer classes of programs; and (3) create new PPLs for teaching probability to broad audiences. This project's impact is a new generation of scalable, reliable, and usable PPLs, enabling new applications in software verification and artificial intelligence.\r\n\r\nTo achieve these goals, the project will fill in the design landscape for probabilistic programming language design and implementation. The key tradeoff in designing a PPL is between tractability and expressivity of the language. More tractable languages afford efficient and scalable inference strategies but are not easy to program in. More expressive languages have ergonomic programming features like loops, data structures, and modules, but these features make performing inference hard. The project's first research thrust will develop and grow a new expressive compiled PPL that supports a significant subset of the Racket programming language. The project's second thrust will use type systems to develop new tractable probabilistic programming languages that ensure high-performance Markov-Chain Monte-Carlo sampling with guarantees on mixing times. The project's final thrust will develop a sequence of increasingly rich PPLs for teaching probability to broad audiences. The project's education plan will enable (1) a new pedagogy for teaching probability using probabilistic programs; and (2) new courses on probabilistic programming. The project's broader impacts are (1) development of new educational tools for teaching probability to broad audiences; (2) technology transfer of probabilistic programming tools and techniques into industry and government; and (3) empowering a broader set of developers to create machine learning models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Steven",
+   "pi_last_name": "Holtzen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Steven Holtzen",
+   "pi_email_addr": "s.holtzen@northeastern.edu",
+   "nsf_id": "000873911",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 674830.0
+  }
+ ],
+ "por": null
+}

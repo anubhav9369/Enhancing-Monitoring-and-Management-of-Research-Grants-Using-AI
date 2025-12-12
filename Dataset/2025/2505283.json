@@ -1,0 +1,102 @@
+{
+ "awd_id": "2505283",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Inverse Methods for Nuclear Magnetic Resonance of Non-Crystalline Materials",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032925327",
+ "po_email": "cfoss@nsf.gov",
+ "po_sign_block_name": "Colby Foss",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "With the support of the Chemical Measurement and Imaging Program in the Division of Chemistry, and partial co-funding from the Ceramics Program in the Division of Materials Research, Professor Philip Grandinetti and his group at Ohio State University are developing new computational methods that integrate advanced nuclear magnetic resonance (NMR) techniques to reveal the atomic-level structure of non-crystalline materials such as glass. These materials, which lack the regular atomic arrangement of crystals, are difficult to characterize but are critical to technologies ranging from electronics to optics and biomedical devices. This project will create tools that allow scientists to identify and quantify the diverse atomic environments within these disordered materials, enabling the design of stronger, more durable glasses. As part of this work, the team will train undergraduate and graduate students in areas such as chemistry, materials science, and data-driven analysis, thereby contributing to workforce development in critical STEM fields.  They will also release open-source, fully documented software tools (MRSimulator and MRInversion) that follow FAIR data principles\u2014ensuring they are findable, accessible, interoperable, and reusable. These resources will expand access to state-of-the-art NMR analysis methods across disciplines. Educational outreach will include the development of online tutorials and video content to engage students and the public, promoting careers in science and improving public understanding of chemistry and materials science.\r\n\r\nScientifically, the project will integrate two-dimensional solid-state NMR experiments with model-free inverse analysis algorithms, supported by machine learning, to extract distributions of NMR parameters such as chemical shifts and quadrupolar couplings. These distributions will be interpreted through quantum-chemical calculations that map NMR observables to local atomic motifs, allowing structural features to be identified without assuming a predefined structural model. To resolve overlapping NMR signals in complex glasses, the team will apply curve-resolution techniques to separate and quantify distinct structural contributions. One key application will be to study how phosphorus modifies the atomic structure of aluminosilicate glasses\u2014a process used to chemically strengthen display glass. This spectrum-inversion approach represents a novel and more direct alternative to conventional structure-forward modeling and could set a new standard for characterizing atomic disorder in amorphous solids. The resulting insights may deepen understanding of how local structure governs properties like ionic transport and mechanical strength and could inform improved models for designing next-generation glassy materials.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Philip",
+   "pi_last_name": "Grandinetti",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Philip J Grandinetti",
+   "pi_email_addr": "grandinetti.1@osu.edu",
+   "nsf_id": "000248941",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "OHIO STATE UNIVERSITY, THE",
+  "inst_street_address": "1960 KENNY RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBUS",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "6146888735",
+  "inst_zip_code": "432101016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OH03",
+  "org_lgl_bus_name": "OHIO STATE UNIVERSITY, THE",
+  "org_prnt_uei_num": "MN4MDDMN8529",
+  "org_uei_num": "DLWBSLWAJWR1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Ohio State University",
+  "perf_str_addr": "1960 KENNY RD",
+  "perf_city_name": "COLUMBUS",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "432101016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OH03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "177400",
+   "pgm_ele_name": "CERAMICS"
+  },
+  {
+   "pgm_ele_code": "688000",
+   "pgm_ele_name": "Chemical Measurement & Imaging"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2450052",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EFRT: Development of Spectral Engineered Photochromic Dyes using DFT and Deep Learning",
+ "cfda_num": "47.076",
+ "org_code": "11060000",
+ "po_phone": "7032925350",
+ "po_email": "jdearo@nsf.gov",
+ "po_sign_block_name": "Jessie Dearo",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 197129.0,
+ "awd_amount": 197129.0,
+ "awd_min_amd_letter_date": "2025-05-23",
+ "awd_max_amd_letter_date": "2025-05-23",
+ "awd_abstract_narration": "With support from the Improving Undergraduate STEM Education: Hispanic-Serving Institutions (HSI Program), this Emerging Faculty Research project aims to model efficient photochromic dyes semitransparent dye-sensitized solar cells (ST-DSC) using computational chemistry and machine learning. ST-DSC has the unique property of balancing light absorption and translucency, which makes a multitude of applications outside of traditional solar cells. ST-DSC can be integrated into larger surfaces like buildings, windows, or vehicles to harvest large amounts of sunlight for more clean energy. However, their efficiency is very low due to the lack of efficient photochromic dyes. This project will build a computational framework combining computational chemistry and deep learning models to design new photochromic dyes based on the structure-property relationship of the existing dyes. This proposal will organize a 3-week \u201cComputational Summer Camp\u201d (CSC) involving local high school students to establish a pipeline of STEM students, enhancing the recruitment of students from high school to baccalaureate programs in STEM. \r\n   \r\nThis project will develop efficient photochromic dyes for the importance of clean energy. In particular, this project will focus on (1) building an automatic framework to design spectral-engineered photochromic dyes combining density functional theory (DFT)/time-dependent DFT(TDDFT) and explainable deep learning approach, (2) estimating the different properties (light absorption wave-length, frontier orbital energies) of close and open form the designed photochromic dyes and (3) finally, the charge transfer kinetics at the dye/semiconductor interface. We will use the Marcus model to estimate the intra-molecular electron transfer and reorganization energy of the isolated designed dyes. Charge transfer kinetics at the interface will help us understand the interfacial behavior of designed dyes. The proposal will also facilitate the development of research initiatives and workforce development activities in renewable energy for undergraduate students at West Texas A &M University. The outreach effort for connecting local high school students via the CSC will also strengthen pathways for early STEM engagement. The HSI Program aims to enhance undergraduate STEM education and build capacity at HSIs. Projects supported by the HSI Program will also generate new knowledge on how to achieve these aims.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "EES",
+ "org_div_long_name": "Div. of Equity for Excellence in STEM",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Juganta",
+   "pi_last_name": "Roy",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juganta K Roy",
+   "pi_email_addr": "jroy@wtamu.edu",
+   "nsf_id": "000991474",
+   "pi_start_date": "2025-05-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "West Texas A&M University",
+  "inst_street_address": "2501 4TH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CANYON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8066512732",
+  "inst_zip_code": "79016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "TX13",
+  "org_lgl_bus_name": "WEST TEXAS A & M UNIVERSITY",
+  "org_prnt_uei_num": "ZM3QVJ8ACN11",
+  "org_uei_num": "TRMGFQWVM1N8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "WEST TEXAS A & M UNIVERSITY",
+  "perf_str_addr": "2501 4TH AVE",
+  "perf_city_name": "CANYON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "790160001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "TX13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "077Y00",
+   "pgm_ele_name": "HSI-Hispanic Serving Instituti"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8209",
+   "pgm_ref_txt": "Improv Undergrad STEM Ed(IUSE)"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 197129.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2513887",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Elements: SWXACE: Space Weather Explainable Analytics Cyber Ecosystem",
+ "cfda_num": "47.050, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 199800.0,
+ "awd_amount": 199800.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "The sun routinely produces powerful bursts of energy, such as solar flares and coronal mass ejections, that can travel through space and impact Earth. These solar eruptions are major drivers of space weather, posing serious risks to critical technologies that support everyday life, including GPS systems, power grids, communication satellites, and aviation safety. While there are many space weather forecasting methods available, their long-term reliability and transparency remain major concerns for stakeholders, including scientists, policymakers, engineers, and emergency response planners. Most space weather forecasting methods operate as \"black boxes,\" where predictions are made without clear explanations of how or why certain outcomes are reached. This lack of interpretability reduces trust in the models and limits their practical value in high-stakes decision-making situations. This project addresses this challenge by developing data-driven learning methods that are not only accurate but also explainable. By building these innovative tools to help scientists and decision-makers understand how solar activity connects to space weather events and how predictive models reach their conclusions, the project enhances the accountability, transparency, and usability of space weather forecasts.\r\n\r\nThis project develops modular cyberinfrastructure for interpretable and explainable space weather prediction systems, with a focus on solar transient events. These efforts advance both heliophysics and the field of explainable artificial intelligence. The research integrates cutting-edge methods in interpretable machine learning, uncertainty quantification, and feature attribution to assess how prediction systems perform under diverse, multimodal data sources. Key cyberinfrastructure contributions include (1) Self-interpretable multivariate time series classification models for transient event prediction; (2) Post hoc explainable artificial intelligence methods for image-based and multimodal predictors; and (3) Uncertainty-aware prediction using conformalized techniques to produce reliable, probabilistic forecasts. These components will be delivered through an open-source, reusable framework for prediction, explanation, and visualization, designed for both research and operational use. The infrastructure will enable large-scale experiments with a focus on local/global interpretability and uncertainty quantification in space weather analytics. The project\u2019s three main goals are (1) advancing understanding of solar eruption precursors via interpretable machine learning; (2) contributing new explainable artificial intelligence techniques tailored to high-dimensional, spatiotemporal data; and (3) supporting the complete research-to-operations path and the research-to-operations-to-research loop through trustworthy, actionable forecasting tools. The outcomes of this research will bridge fundamental solar physics and modern data science to deliver both domain-specific insights and reusable tools for science-grade machine learning.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Atmospheric and Geospace Sciences and the Division of Research, Innovation, Synergies and Education in the Directorate of Geosciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Emmanouil",
+   "pi_last_name": "Georgoulis",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emmanouil K Georgoulis",
+   "pi_email_addr": "manolis.georgoulis@jhuapl.edu",
+   "nsf_id": "000231387",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins Applied Physics Laboratory",
+  "perf_str_addr": "11100 Johns Hopkins Road",
+  "perf_city_name": "Laurel",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207236099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MD03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  },
+  {
+   "pgm_ele_code": "808900",
+   "pgm_ele_name": "Space Weather Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "8092",
+   "pgm_ref_txt": "Space Weather Research"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199800.0
+  }
+ ],
+ "por": null
+}

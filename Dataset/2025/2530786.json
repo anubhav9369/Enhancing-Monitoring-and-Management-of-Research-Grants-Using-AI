@@ -1,0 +1,117 @@
+{
+ "awd_id": "2530786",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Secure Machine Learning as a Service for Collaborative Scientific Research",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Scientific progress increasingly depends on sharing powerful machine learning models across stakeholders, especially in sensitive fields like medicine, genomics, and disaster response. Machine Learning as a Service (MLaaS) allows researchers to collaborate without directly exchanging proprietary machine learning models or private data. However, these systems face serious and growing security vulnerabilities. Adversaries can steal models, reconstruct sensitive inputs, or intercept private data in transit, putting years of investment and sensitive societal applications at risk. Current computing platforms lack the protections necessary to guard against such attacks, creating an urgent need for secure infrastructure that supports scientific collaborations without compromising trust. This project develops a security-focused framework to protect collaborative scientific computing in MLaaS environments, supported through a partnership with Florida\u2019s regional data center serving educational and governmental organizations. The project also integrates education, mentoring, and outreach activities to grow the workforce capable of safeguarding future scientific innovation.\r\n\r\nThe project consists of three main research thrusts. First, it develops robust model protection techniques that hinder reverse engineering of machine learning models while preserving their utility. Second, it introduces behavioral monitoring tools to detect and respond to misuse of models, safeguarding sensitive input data without disrupting legitimate scientific computing activities. Third, it enhances data privacy through encryption schemes that allow model usage without exposing user inputs or model inference results. All components are designed for seamless integration into existing workflows and infrastructures. Collectively, these thrusts target trust, safety, and accessibility in MLaaS-based scientific collaborations, and research findings can be widely disseminated through open-source tools, educational modules, and community partnerships.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yushun",
+   "pi_last_name": "Dong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yushun Dong",
+   "pi_email_addr": "yd24f@fsu.edu",
+   "nsf_id": "0000A0SJ9",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Neil",
+   "pi_last_name": "Gong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Neil Gong",
+   "pi_email_addr": "neil.gong@duke.edu",
+   "nsf_id": "000701784",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mengxin",
+   "pi_last_name": "Zheng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mengxin Zheng",
+   "pi_email_addr": "mengxin.zheng@ucf.edu",
+   "nsf_id": "0000A13C9",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "874 TRADITIONS WAY",
+  "perf_city_name": "TALLAHASSEE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

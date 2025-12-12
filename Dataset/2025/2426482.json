@@ -1,0 +1,106 @@
+{
+ "awd_id": "2426482",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CSR: Small: CADaaS: Deterministic Communication and Predictive Computation for Connected Autonomous Driving as a Service",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 273555.0,
+ "awd_amount": 273555.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "Autonomous driving is the much-anticipated transformative technology to revolutionize conventional human driving toward full automation, high safety, and versatile intelligence. In pilot commercialization efforts (e.g., Waymo), autonomous vehicles rely on onboard sensors, hardware, and AI-based software to perceive, understand, and react to complex surrounding environments. Existing autonomous vehicles are manufactured under tightly coupled hardware and software, with limited future upgradability throughout their life cycles. This project\u2019s novelty is to advance existing autonomous driving by integrating the available information from proximate vehicles and roadside infrastructures to seamlessly incorporate into the autonomous driving software, substantially improving driving performance and safety. The project's broader significance is empowering existing vehicles with ever-evolving autonomous driving capability and continual upgradability. Furthermore, the project involves cyber workforce training activities and industry collaboration.\r\n\r\nThis project aims to democratize autonomous driving technologies to every connected vehicle via designing a new connected autonomous driving as a service (CADaaS) paradigm. The fundamental idea is to enable adaptive vehicle-edge collaboration to obtain the latest autonomous driving stacks, including perception, prediction, and planning. First, new network threading techniques are designed to achieve user-initialized resource reservation and user-grained performance assurance in the wireless network. Second, new deadline-aware inference frameworks are designed to assure the percentile constraint of inference latency under multiple deep neural networks (DNN) concurrency in the edge server. Third, CADaaS is deployed and evaluated under real-world at-scale network and computing scenarios, including the University of Nebraska-Lincoln Husker-Net and the University of Delaware D-STAR. This project is transformative in defining, reshaping, and catalyzing the on-the-horizon connected autonomous driving technology, software-defined vehicles, and vehicle computing paradigm.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Weisong",
+   "pi_last_name": "Shi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weisong Shi",
+   "pi_email_addr": "weisong@udel.edu",
+   "nsf_id": "000119930",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "220 HULLIHEN HALL",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197160099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7354",
+   "pgm_ref_txt": "COMPUTER SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 273555.0
+  }
+ ],
+ "por": null
+}

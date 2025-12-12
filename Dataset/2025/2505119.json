@@ -1,0 +1,98 @@
+{
+ "awd_id": "2505119",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: OAC Core: AI-Surrogate Enhanced Heterogeneous Acceleration for Large-Scale Power Grid Simulation",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927116",
+ "po_email": "sghafoor@nsf.gov",
+ "po_sign_block_name": "Sheikh Ghafoor",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 199996.0,
+ "awd_amount": 199996.0,
+ "awd_min_amd_letter_date": "2025-04-23",
+ "awd_max_amd_letter_date": "2025-04-23",
+ "awd_abstract_narration": "Nearly one-third of the global population experiences unreliable electricity access, and a U.S. Department of Energy report estimated that the total cost of power outages to American businesses is around $150 billion every year. As power grid simulations grow in complexity and scale, there is an urgent need for more efficient computational models to meet real-time decision-making demands. Traditional simulation approaches struggle to parallelize efficiently, especially for large systems like the Eastern Interconnection with over 70,000 buses. The emergence of Graphics Processing Units (GPUs) and artificial intelligence (AI) models offers promising alternatives for accelerating complex simulations. The main idea is to train neural network surrogates of numerical models, and once pre-trained, the networks can generate simulations with much faster speed and efficient scaling. This project develops a novel AI-surrogate enhanced cyberinfrastructure for accelerating power grid simulations. The resulting framework will lower barriers for power grid engineers to adopt AI surrogates, enabling interdisciplinary research and education between power systems and computer science domains.\r\n\r\nThe project will deliver three key innovations: (1) program-behavior analysis to identify optimal code regions for AI surrogate replacement; (2) semi-automatic AI surrogate construction that incorporates domain-specific physical knowledge; and (3) heterogeneous computing with multi-fidelity modeling that dynamically balances AI surrogates and traditional models across computing resources. The methodological approach combines static and dynamic code analysis, neural network training with physical constraints, and adaptive scheduling algorithms for CPU/GPU resources. The project aims to transform AI surrogates from auxiliary tools into essential elements for power grid planning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jie",
+   "pi_last_name": "Ren",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jie Ren",
+   "pi_email_addr": "jren03@wm.edu",
+   "nsf_id": "000898452",
+   "pi_start_date": "2025-04-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "College of William and Mary",
+  "inst_street_address": "1314 S MOUNT VERNON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "WILLIAMSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7572213965",
+  "inst_zip_code": "23185",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "VA01",
+  "org_lgl_bus_name": "COLLEGE OF WILLIAM AND MARY",
+  "org_prnt_uei_num": "EVWJPCY6AD97",
+  "org_uei_num": "EVWJPCY6AD97"
+ },
+ "perf_inst": {
+  "perf_inst_name": "College of William and Mary",
+  "perf_str_addr": "1314 S MOUNT VERNON AVE",
+  "perf_city_name": "WILLIAMSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "231852817",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "VA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "090Y00",
+   "pgm_ele_name": "OAC-Advanced Cyberinfrast Core"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199996.0
+  }
+ ],
+ "por": null
+}

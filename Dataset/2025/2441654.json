@@ -1,0 +1,102 @@
+{
+ "awd_id": "2441654",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Safe and Reliable Human-Robot Shared Control for Robotic Telemanipulation in Complex and Extreme Environments",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924420",
+ "po_email": "cbethel@nsf.gov",
+ "po_sign_block_name": "Cindy Bethel",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 602698.0,
+ "awd_amount": 602698.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "This proposal aims to create a safe and reliable way for a person and a robot to work together. It will focus on robotic teleoperation in harsh conditions. While a human can guide robots in challenging situations, autonomous motion planning can handle both obstacle avoidance and fault tolerance. Having human-robot shared control in place, can make humans and robots work together more effectively. This research can improve space exploration, ocean exploration, and the nuclear industry. The educational goal is to boost STEM participation. We will do this through mentorship and role models. To achieve this aim, we will offer well-designed activities for all student levels. This includes research opportunities, K\u201312 outreach programs, and workshops. Undergraduate and graduate students involved will receive special training and technical support. They will contribute to the national workforce in robotics engineering. \r\n\r\nThis project proposes three research activities. (1) Create a new teleoperation method for humanoid and non-humanoid robotic arms. This method will help these robots mimic human arm motions in real-time. (2) Design three new autonomous motion planning algorithms. These algorithms help avoid obstacles and ensure fault tolerance. They do this by predicting possible joint failures and reacting to real failures. (3) Build a shared control framework. It will blend the motion from the human operator with the autonomous planner. We will use a weighted arbitration system. This system considers prediction uncertainties and the operator's preferences. Furthermore, this project proposes four educational activities. (1) The PI will team up with two local high schools. We will provide demos, robotics talks, and research opportunities. Also, these two high schools encourage students to do lab research at a university. (2) The PI will provide research opportunities for undergraduate students through an Undergraduate Research Fellowship (URF) program. (3) The PI will integrate research activities into the Introduction to Robotics course and develop new computer projects based on this research. (4) The PI will work with the IEEE Robotics and Automation Society to organize workshops and give guidance in robotics research for master's and Ph.D. students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Biyun",
+   "pi_last_name": "Xie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Biyun Xie",
+   "pi_email_addr": "Biyun.Xie@uky.edu",
+   "nsf_id": "000821110",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Kentucky Research Foundation",
+  "inst_street_address": "500 S LIMESTONE",
+  "inst_street_address_2": "109 KINKEAD HALL",
+  "inst_city_name": "LEXINGTON",
+  "inst_state_code": "KY",
+  "inst_state_name": "Kentucky",
+  "inst_phone_num": "8592579420",
+  "inst_zip_code": "405260001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "KY06",
+  "org_lgl_bus_name": "UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H1HYA8Z1NTM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Kentucky Research Foundation",
+  "perf_str_addr": "500 S LIMESTONE",
+  "perf_city_name": "LEXINGTON",
+  "perf_st_code": "KY",
+  "perf_st_name": "Kentucky",
+  "perf_zip_code": "405260001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "KY06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 602698.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2506473",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Hybrid symbolic and generative AI-based simulations of classroom discussions for improving teacher facilitation skills",
+ "cfda_num": "47.070, 47.076",
+ "org_code": "11090000",
+ "po_phone": "7032922972",
+ "po_email": "emiltsak@nsf.gov",
+ "po_sign_block_name": "Eleni Miltsakaki",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 512493.0,
+ "awd_amount": 512493.0,
+ "awd_min_amd_letter_date": "2025-08-25",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "The ability to debate on a topic; that is, the process of generating and evaluating claims, is a core competency for both academic success and civic life. Students traditionally learn these skills by participating in classroom discussions, during which they share, justify, and challenge each other's ideas. However, such discussions may be rare in classrooms and challenging for teachers. Without proper facilitation the discussion can get off track and even become heated. Unfortunately, teachers lack opportunities to improve these important facilitation skills. Coaching is an effective strategy for helping teachers learn facilitation, but it is hard to deliver at scale due to the lack of qualified coaches, time constraints, and teacher discomfort with being observed by a human coach. This project will address the challenges of teacher professional development by designing a simulated classroom environment in which elementary school teachers can practice facilitating discussions with AI-driven student avatars. The system will offer multiple low-cost and low-stakes opportunities for teachers to practice facilitation and receive expert-informed feedback from an automated coach. This project will provide a much-needed solution to one of the most pressing issues confronting education today: scaling up effective pedagogy that fosters students' skills.\r\n\r\nTo this end, this project will integrate research in artificial intelligence, argumentation, and teacher learning to create a novel automated professional development system for teachers. A key technological innovation of this system is its hybrid AI architecture: a transparent, rule-based symbolic inference engine will structure simulated classroom dialogue and provide meaningful feedback to the teacher, while large language models will generate realistic responses from AI-driven student avatars. The system will formalize and integrate two established frameworks to support the analysis of teacher facilitation and student argumentation: the Argumentation Rating Tool and the Rational Force Model. Using design-based research, the researchers will develop effective design principles for AI-supported teacher learning. A randomized controlled trial will assess whether the system improves teachers' facilitation skills and confidence in facilitating discussions. In addition to contributing to scalable, high-quality professional development, the project will inform the design of ethical and transparent AI systems for education, with potential applications in intelligent tutoring and instructional coaching.\r\n\r\nThis project is funded by the Research on Innovative Technologies for Enhanced Learning (RITEL) program that supports early-stage exploratory research in emerging technologies for teaching and learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Evgeny",
+   "pi_last_name": "Chukharev",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Evgeny Chukharev",
+   "pi_email_addr": "evgeny@iastate.edu",
+   "nsf_id": "000687921",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802000",
+   "pgm_ele_name": "Cyberlearn & Future Learn Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 512493.0
+  }
+ ],
+ "por": null
+}

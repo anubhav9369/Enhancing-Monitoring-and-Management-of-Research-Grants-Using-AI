@@ -1,0 +1,110 @@
+{
+ "awd_id": "2517906",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Distributed and Constrained Optimal Transport of Large-scale, Heterogenous, Multi-agent Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922576",
+ "po_email": "mcanova@nsf.gov",
+ "po_sign_block_name": "Marcello Canova",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 519563.0,
+ "awd_amount": 519563.0,
+ "awd_min_amd_letter_date": "2025-08-25",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "Advances in sensing, artificial intelligence, computation and communication are enabling the deployment of large networks of autonomous systems, such as drones, ground robots, and other mobile agents, across diverse applications including search and rescue, environmental monitoring, precision agriculture, and transportation. The research funded by this grant aims to create new mathematical tools and algorithms that allow large groups of autonomous agents to operate safely, efficiently, and collaboratively, even under physical constraints, communication limitations, and local decision-making.  The central idea of this research is to model large groups of autonomous agents not individually, but as evolving spatial distributions like densities or concentrations over a region. This macroscopic perspective looks to enable the design of scalable, tractable algorithms that guide the collective behavior of many agents, while still accounting for each agent\u2019s physical limitations, local interactions, asynchronous timing, and safety constraints. By linking these global objectives with local decision-making through new optimization techniques, the project seeks to create algorithms that are both theoretically grounded and practically applicable. The research will be complemented by educational and outreach activities that include the development of new curriculum for undergraduate and graduate education, research experiences for students through high-fidelity simulations, and opportunities to engage in algorithm development and visualization at the multiagent robotics (MURO) Lab at the University of California, San Diego. Findings will be disseminated through academic publications, conference sessions, and public engagement efforts.\r\n\r\nThis project aims to develop new tractable, robust, safe and distributed transport algorithms for large-scale multi-agent (autonomous) systems modeled by probability distributions. The theoretical foundation relies on the design of new macroscopic proximal gradient algorithms that account for individual agent limitations as well as approximation errors arising from the use of a finite number of agents. The research is organized around three main thrusts: (i) the development of robust transport algorithms for large-scale homogeneous populations, with robustness characterized via Input-to-State (ISS) stability properties; (ii) the design of safe-proximal gradient algorithms for homogeneous agents incorporating feedback control for macroscopic proximal gradient optimizations; and (iii) the formulation of distributed safe proximal gradients for heterogeneous populations, coordinated by a higher-level network of operators.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sonia",
+   "pi_last_name": "Martinez",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sonia Martinez",
+   "pi_email_addr": "soniamd@ucsd.edu",
+   "nsf_id": "000302249",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930417",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 519563.0
+  }
+ ],
+ "por": null
+}

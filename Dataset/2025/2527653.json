@@ -1,0 +1,105 @@
+{
+ "awd_id": "2527653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Scalable Wide-Area Control for Frequency & Voltage Stability in Inverter-Dominant Power Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 500304.0,
+ "awd_amount": 500304.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Recent developments in energy generation technologies have presented new challenges to power systems concerning their control and stability. Many such challenges stem from the fact that new technologies are integrated with power systems through power electronic inverters that demonstrate multiple time-scale dynamics, forced oscillations from digital control, and a potential for increased computational and communication burdens in control policies. To ensure the continued safe and reliable supply of power to consumers in the face of these challenges, the proposed work will develop computationally efficient methods for the analysis and control of power networks through a novel framework for voltage and frequency control that leverages unique properties of inverter-based resources (IBRs). The anticipated results comprise an innovative approach to wide-area control design that avoids massive computation or communication requirements and enables a wide-spread adoption of emerging technologies in power generation moving forward. The intellectual merit of this proposed project includes: (1) development of a theory of scalable control design for large-scale, multi-time-scale systems, which will advance power systems along with applications including cyberphysical systems or biological networks; (2) identification of critical communication links and sensor measurements in power networks with high IBR penetration; and  (3) simulation of large-scale power networks and open-source validation models to allow for transparency in research and enable consistent testing of methods. The broader impacts of the proposed project include (1) PhD students training and research opportunities to undergraduate students; (2) the development of a new course on Wide Area Control in Power Systems, with the goal of public availability through Coursera; and (3) K-12 outreach to introduce power networks and controls concepts to middle school students.\r\n\r\nTechnical methods and approaches utilized in this project are as follows. Control policies that leverage IBRs to achieve voltage and frequency stability will be optimally designed, facilitated by the development and validation of a reduced-order model of IBR dynamics. A general framework for distributed control design with minimal communication will be developed leveraging frameworks of multi-time-scale transfer functions, sparsity promoting optimal control design, and numerical optimization approaches. The performance of derived distributed wide-area control (WAC) policies for power networks will be validated through electromagnetic transient (EMT) simulations of the full nonlinear voltage and frequency dynamics. Case studies will provide comparisons of WAC policies for networks with high IBR shares and validation of the design approach.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Emily",
+   "pi_last_name": "Jensen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emily Jensen",
+   "pi_email_addr": "ejensen@colorado.edu",
+   "nsf_id": "0000A0JNY",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Bri-Mathias",
+   "pi_last_name": "Hodge",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bri-Mathias S Hodge",
+   "pi_email_addr": "BriMathias.Hodge@colorado.edu",
+   "nsf_id": "000789526",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500304.0
+  }
+ ],
+ "por": null
+}

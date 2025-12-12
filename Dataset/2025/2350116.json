@@ -1,0 +1,126 @@
+{
+ "awd_id": "2350116",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "SaTC: CORE: Small: Securing Gaze Data from Side-Channel Attacks in Foveated Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 356997.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-01-16",
+ "awd_abstract_narration": "Virtual and Augmented Reality (VR/AR) technology provides access to immersive 3D spaces with applications in education, workforce training, social interaction, and remote collaboration. This emerging technology often uses eye-tracking devices that measure where a user is looking to support interaction and reduce cybersickness. However, this tracked gaze data presents privacy risks because gaze data has the potential to identify users from their eye movements or make inferences about private information, such as age, gender, and ethnicity. This proposal's goal is to mitigate privacy and security risks that arise from the use of eye tracking even when the VR/AR headset prevents malicious applications from having direct access to the gaze data. In particular, the project explores new methods to manipulate VR/AR rendering in a way that exposes personal eye-tracking data to applications that might misuse the data. The project team will measure the vulnerabilities that exist in current rendering systems and develop corresponding defense mechanisms that protect eye-tracking data for VR/AR users in personal, enterprise, and high-risk applications.\r\n\r\nThis project will investigate security vulnerabilities and novel threats in the form of side-channel attacks on foveated systems, which use gaze data to optimize VR/AR systems operating under compute and power constraints. The project team will create a testbed of standardized foveated rendering algorithms and VR attack surfaces and use it to evaluate the ability of malicious developers to integrate side-channel attacks that impact GPU usage and performance in a controlled manner. A set of attack algorithms will be applied to the performance metrics to reconstruct gaze positions and evaluate the ability to infer private information about a user. The dataset and methods will be made public to help inform VR platforms of existing security risks and advance the development of system-level defense mechanisms to detect and mitigate the risk of side-channel attacks on foveated VR systems. Finally, the scope of side-channel attacks will be broadened to include AR optimizations that are hardware-specific and not standardized like the foveated rendering pipelines of VR systems. The project will establish a standard benchmark for foveated side-channel attacks and provide defense mechanisms to protect eye-tracking data in VR/AR systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brendan",
+   "pi_last_name": "David-John",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brendan M David-John",
+   "pi_email_addr": "bmdj@vt.edu",
+   "nsf_id": "000915828",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Bo",
+   "pi_last_name": "Ji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bo Ji",
+   "pi_email_addr": "boji@vt.edu",
+   "nsf_id": "000677296",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240611050",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 356997.0
+  }
+ ],
+ "por": null
+}

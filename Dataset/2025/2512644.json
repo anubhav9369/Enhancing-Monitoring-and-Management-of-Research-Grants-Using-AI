@@ -1,0 +1,106 @@
+{
+ "awd_id": "2512644",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Graph-based semi-supervised techniques for machine learning tasks at low label rates",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 379999.0,
+ "awd_amount": 379999.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "Machine learning is a type of artificial intelligence that enables a machine to learn from data. The success of machine learning is dependent upon a sufficient amount of labeled data samples. A key limitation of most machine learning methods is their reliance on large labeled sets. Labeled data is scarce for many applications. Obtaining enough labeled data is often difficult because it is time-consuming and expensive, especially when experts are required for the labeling task. This project develops novel strategies for machines to effectively learn in limited labeled data scenarios. The foundation of the new strategies lies in data analysis and algorithm development and the project involves the training of graduate and undergraduate students in these areas through mentoring and curriculum development.  User-friendly software packages will be made available to the community to ensure the results from the project can be used by other researchers who use machine learning. \r\n \r\nTo address the challenge of data with limited labeled samples, and to develop computationally tractable methods for machine learning tasks such as data classification, the PI will incorporate a graph-based semi-supervised learning framework. Specifically, one of the main advantages of semi-supervised learning is its ability to make use of the important information from the vastly available unlabeled data without the additional cost of external interaction; moreover, the graph-based framework provides information about the extent of similarity between the data elements and the overall structure of data. In particular, the proposed research encompasses the following three aims:  (1) development of graph-based similarity-driven auction dynamics learning methods (2) development of graph-based similarity-driven neural network methods (3) development of graph-based similarity-driven maximum-flow learning methods. Although all three aims involve developing graph-based approaches for learning tasks using semi-supervised techniques, each of the aims will formulate procedures with their own advantages. Overall, this proposal will develop computationally tractable semi-supervised graph-based methods for machine learning tasks that will require less labeled data for accurate predictions, which is crucial due to the scarcity of labeled data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ekaterina",
+   "pi_last_name": "Rapinchuk",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ekaterina Rapinchuk",
+   "pi_email_addr": "merkurje@msu.edu",
+   "nsf_id": "000759506",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan State University",
+  "inst_street_address": "426 AUDITORIUM RD RM 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST LANSING",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "5173555040",
+  "inst_zip_code": "488242600",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "MICHIGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "VJKZC4D1JN36",
+  "org_uei_num": "R28EKN92ZTZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan State University",
+  "perf_str_addr": "426 AUDITORIUM RD RM 2",
+  "perf_city_name": "EAST LANSING",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "488242600",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 379999.0
+  }
+ ],
+ "por": null
+}

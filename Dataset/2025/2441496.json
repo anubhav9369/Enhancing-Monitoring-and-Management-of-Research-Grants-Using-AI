@@ -1,0 +1,106 @@
+{
+ "awd_id": "2441496",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Versatile and high-performance shared autonomy paradigms for assistive and rehabilitation robots",
+ "cfda_num": "47.041, 47.083",
+ "org_code": "07020000",
+ "po_phone": "7032927014",
+ "po_email": "szehnder@nsf.gov",
+ "po_sign_block_name": "Steve Zehnder",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 546848.0,
+ "awd_amount": 546848.0,
+ "awd_min_amd_letter_date": "2025-06-04",
+ "awd_max_amd_letter_date": "2025-06-04",
+ "awd_abstract_narration": "Severe movement disabilities, such as paralysis and degenerative conditions, can have a devastating impact on the lives of people. For those with limited mobility, restoring their ability to reach-and-grasp is a top priority. This CAREER award supports research to create advanced, user-friendly assistive artificial intelligence (AI) systems that let individuals with severe movement disabilities control robotic devices. The system works with the user, boosting their limited physical input to complete difficult tasks such as reaching for and grasping objects. Unlike brain implants, this approach avoids surgery, reduces mental fatigue, and is designed to be more affordable and accessible. The project also prioritizes education and community impact by offering internships for K-12 students, hack-a-thon events, public demonstrations to raise awareness about motor impairment rehabilitation, and developing new courses at the university level. This project is jointly funded by the Disability and Rehabilitation Engineering Program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThe goal of this project will be accomplished through three research thrusts: 1) to formalize and optimize the user agency and satisfaction features for end-users when interacting with a complex robotic arm using shared autonomy paradigms; 2) to develop closed-loop context-aware deep reinforcement learning (RL) algorithms to blend and optimize a user\u2019s low-dimensional input with robot intelligence to allow for complex task completion; and 3) to validate our closed-loop algorithms by having end-users with paralysis to complete complex manipulation tasks using our assistive robotic arm. This project will construct a state-of-the-art framework to develop multimodal, human-centered shared autonomy AI paradigms that empower individuals with severe paralysis to control assistive robotic devices with high degrees of freedom (DOF). Unlike traditional shared control systems that rely on subject-dependent, high-cognitive-load interfaces (e.g., brain implants), this framework employs generalizable, noninvasive control methods with low cognitive demands. By leveraging simulated intelligent assistance and context-aware deep RL approaches, the project will develop adaptive shared autonomy algorithms that dynamically adjust to user needs, ensuring optimal control of high-DOF assistive robotic devices. This framework has the potential to support various noninvasive input modalities, as well as low-bandwidth neural and muscle signals, offering a versatile, scalable, and user-friendly solution for robotic assistance in upper-limb restoration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Reza",
+   "pi_last_name": "Abiri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Reza Abiri",
+   "pi_email_addr": "reza_abiri@uri.edu",
+   "nsf_id": "000891244",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rhode Island",
+  "inst_street_address": "75 LOWER COLLEGE RD RM 103",
+  "inst_street_address_2": "",
+  "inst_city_name": "KINGSTON",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018742635",
+  "inst_zip_code": "028811974",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "RI02",
+  "org_lgl_bus_name": "UNIVERSITY OF RHODE ISLAND",
+  "org_prnt_uei_num": "NSA8T7PLC9K3",
+  "org_uei_num": "CJDNG9D14MW7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rhode Island",
+  "perf_str_addr": "75 LOWER COLLEGE RD RM 103",
+  "perf_city_name": "KINGSTON",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "028811974",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "RI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "534200",
+   "pgm_ele_name": "Disability & Rehab Engineering"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 546848.0
+  }
+ ],
+ "por": null
+}

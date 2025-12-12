@@ -1,0 +1,98 @@
+{
+ "awd_id": "2526616",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Tactile-enabled Robotic Quality Control Cell",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 304917.0,
+ "awd_amount": 304917.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research Phase I project addresses significant challenges in manufacturing and agriculture by enhancing the capabilities of robotic automation with tactile sensing. Tactile-enabled robotic cells will allow robots to perform complex tasks such as gauge checking in machining and quality sorting of agricultural products. Often in a robotic pick-and-place operation, an object needs to be moved from an assembly line to a quality assurance (QA) step prior to packaging (for example). Combining this pick-and-place operation and QA step inherently saves time \u2013 creating a clear value proposition. By integrating advanced touch-based sensing technology into robotic grippers, this project promises substantial improvements in efficiency, accuracy, and safety in manufacturing quality control and agricultural sorting. Consequently, it supports national interests by strengthening U.S. competitiveness, reducing workplace injuries associated with repetitive manual tasks, and fostering job creation in advanced technical fields such as robotics and automation engineering.\r\n\r\nThe technical objective of this project involves developing a novel robotic handling system integrated with advanced tactile sensing capabilities. This project seeks to overcome the limitations of traditional robotic systems, which rely heavily on visual sensing and struggle to manage delicate or irregular objects. The innovation will enable robots to perform complex handling and quality assessment tasks through tactile feedback. Unlike vision systems, where the camera passively collects data from an object without interacting with it, touch-based systems require object interaction. The data received from the tactile sensors is highly dependent on the movements made by the gripper fingers. Thus, the handling unit and sensors must be designed together in order to extract haptic properties like object stiffness. A primary high-risk factor lies in creating robust tactile sensors capable of accurately measuring object interaction properties under challenging real-world conditions. Existing tactile sensors often lack durability, have limited resolution, slow framerate and cannot reliably operate in harsh industrial environments. Furthermore, this project proposes a unique design featuring a limited number of physical sensors and a method to create virtual \u201ctaxels\u201d to greatly up-sample the resolution of the device. This technique seeks to significantly increase sensor resolution without increasing hardware complexity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nicholas",
+   "pi_last_name": "Wettels",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicholas B Wettels",
+   "pi_email_addr": "nwettels@sensate-robotics.com",
+   "nsf_id": "000935590",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SENSATE ROBOTICS INC.",
+  "inst_street_address": "329 N VAN NESS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2134770710",
+  "inst_zip_code": "900041523",
+  "inst_country_name": "United States",
+  "cong_dist_code": "30",
+  "st_cong_dist_code": "CA30",
+  "org_lgl_bus_name": "SENSATE ROBOTICS INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TDR5DHVKEFS4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SENSATE ROBOTICS INC.",
+  "perf_str_addr": "329 N VAN NESS AVE",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900041523",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "30",
+  "perf_st_cong_dist": "CA30",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304917.0
+  }
+ ],
+ "por": null
+}

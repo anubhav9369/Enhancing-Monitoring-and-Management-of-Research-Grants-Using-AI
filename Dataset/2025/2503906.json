@@ -1,0 +1,102 @@
+{
+ "awd_id": "2503906",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Small: Understanding and Taming Deterministic Model Bit Flip attacks in Deep Neural Networks",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 249476.0,
+ "awd_amount": 205591.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "Deep neural network (DNN) is widely deployed for a variety of decision-making tasks such as access control, medical diagnostics, and autonomous driving. Compromise of DNN models can severely disrupt inference behavior, leading to catastrophic outcomes for security and safety-sensitive applications. While a tremendous amount of efforts have been made to secure DNNs against external adversaries (e.g., adversarial examples), internal adversaries that tamper DNN model integrity through exploiting hardware threats (i.e., fault injection attacks) can raise unprecedented concerns. This project aims to offer insights into DNN security issues due to hardware-based fault attacks, and explore ways to promote the robustness and security of future deep learning system against such internal adversaries. \r\n \r\nThis project targets one critical research topic, namely securing deep learning systems against hardware-based model tampering. Recent advances in hardware fault attacks (e.g., rowhammer) can deterministically inject faults to DNN models, causing bit flips in key DNN parameters including model weights. Such threats can be extremely dangerous as they could potentially enable malicious manipulation of prediction outcomes in the inference stage by the adversary. The project seeks to systematically understand the practicality and severity of DNN model bit flip attacks in real systems and investigate software/architecture level protection techniques to secure DNNs against internal tampering. The study focuses on quantized DNNs which exhibit higher robustness against model tampering. This project will incorporate the following research efforts: (1) Investigate the vulnerability of quantized DNNs to deterministic bit flipping of model weights concerning various attack objectives; (2) Explore algorithmic approaches to enhance the intrinsic robustness of quantized DNN models; (3) Design effective and efficient system and architecture level defense mechanisms to comprehensively defeat DNN model bit flip attacks. This project will result in the dissemination of shared data, attack artifacts, algorithms and tools to the broader hardware security and AI security community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Deliang",
+   "pi_last_name": "Fan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Deliang Fan",
+   "pi_email_addr": "dfan@asu.edu",
+   "nsf_id": "000699728",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 205591.0
+  }
+ ],
+ "por": null
+}

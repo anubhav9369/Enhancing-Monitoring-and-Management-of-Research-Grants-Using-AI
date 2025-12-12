@@ -1,0 +1,122 @@
+{
+ "awd_id": "2514030",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Elements: DigitizedNYC: Large-Scale 4D Urban Digital Twin for Embodied AI",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927116",
+ "po_email": "sghafoor@nsf.gov",
+ "po_sign_block_name": "Sheikh Ghafoor",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 599806.0,
+ "awd_amount": 599806.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "Urbanization is shaping the future of our world, with more than two-thirds of the global population projected to reside in cities by 2050. This significant challenge aligns with scientific innovations in embodied AI and smart cities, poised to revolutionize the way intelligent agents interact with the physical world and respond to the needs of varied and evolving urban communities. However, limitations in deployment range and the risks in real-world experiments hinder systematic developments and evaluations of emerging research in embodied AI. A promising pathway to address this gap is the creation of high-fidelity 4D digital twins of large-scale urban environments. This project supports research looking to develop DigitizedNYC, a realistic 4D digital twin of New York City that provides a shared platform for testing and comparing AI systems and smart city technologies. It helps researchers create repeatable experiments, making scientific studies more reliable and easier to build upon. This open and community-driven platform will promote reproducible science, support national infrastructure for embodied AI research, and advance fields such as autonomous mobility, urban planning, and accessibility. By integrating AR/VR tools, it will also provide immersive STEM education and outreach to students and professionals, contributing to a well-prepared scientific workforce.\r\n\r\nMany existing urban digital twins rely on aerial or indoor models that miss the complexity of real street-level environments, or on 2D videos that lack interactive capabilities. Creating accurate 4D digital twin models remains difficult due to visual challenges like dynamic lighting, weather, and moving objects, as well as technical issues such as sensor drift from long mapping trajectories. To fill this gap, this project performs research that provides a safe, realistic research cyberinfrastructure, accelerating the trustworthy development of embodied agents and smart city technologies. This project explores the following innovations: (1) Long-term multi-traversal mapping that will utilize consensus across multiple traversals to retain only consistent and permanent elements of the urban environment, while transient objects, such as pedestrians and vehicles, will be filtered out; (2) High-fidelity simulation will turn the large-scale 3D data into a 4D simulation that can be used for evaluation and even training of robot learning algorithms; (3) Science-driven cyberinfrastructure demonstration will show how DigitizedNYC serves as a city's important infrastructure that allows worldwide researchers and developers to easily test and fairly compare solutions for various embodied AI tasks, such as urban navigation.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Civil, Mechanical and Manufacturing Innovation within the Directorate for Engineering.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chen",
+   "pi_last_name": "Feng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chen Feng",
+   "pi_email_addr": "cfeng@nyu.edu",
+   "nsf_id": "000785529",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jing",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jing Zhang",
+   "pi_email_addr": "jz6676@nyu.edu",
+   "nsf_id": "0000A082X",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "077Z",
+   "pgm_ref_txt": "CSSI-1: Cyberinfr for Sustained Scientif"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599806.0
+  }
+ ],
+ "por": null
+}

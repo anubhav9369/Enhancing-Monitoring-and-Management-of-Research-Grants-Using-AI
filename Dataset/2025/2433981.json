@@ -1,0 +1,114 @@
+{
+ "awd_id": "2433981",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NewSpectrum: Interference from terrestrial cellular systems to satellites: Measurement, modeling, and effective mitigation strategies",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 728637.0,
+ "awd_amount": 728637.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "Summary\r\nSmartphones have transformed daily life since their introduction, with ever-improving applications such as high-quality video streaming driving an increasing demand for higher per-user data rates and network throughput. One of the ways to satisfy this demand is by expanding the available spectrum for cellular operators. However, using new spectrum introduces the risk of interference with legacy services and systems, i.e., systems that are already operating in the targeted frequency bands. Assessing and mitigating such interference is essential in determining whether \u2013 and if so, which - new parts of the spectrum can be made available for enhancing cellular systems and thus improve service to smartphone users. Currently, there is special interest of the cellular industry in the so-called upper midband, a range of frequency bands (i.e., spectrum) that lie between the traditional cellular bands and the millimeter-wave bands already used for 5G cellular. However, this portion of the spectrum is also used by legacy services, including satellite communications. Transmissions of cellular systems operating in the same spectrum in which ground stations communicate to the satellites can lead to significant interference and thus deterioration of quality for those \u2013 very critical \u2013 satellite links. It is important to note that interference to satellite systems is not only caused by direct radiation from terrestrial transmitters, but also by \u201cupscattering\u201d of terrestrial radiation by buildings, trees, cars, etc., that contributes to the total amount of arriving interference. The primary objectives of this project are to first quantify this upscattering through extensive measurements, and then to use this data to develop new methods for reducing its impacts. Potential mitigation strategies to minimize interference include adjusting the transmission power of cellular transmitters, and by optimizing the transmission direction. The ultimate goal is to find approaches that allow us to use more spectrum \u2013 and thus satisfy the demand of American consumers \u2013 without significantly disrupting existing critical satellite communications. \r\n\r\nA key scientific component for reaching this goal is an innovative measurement approach that captures the upscattering effects without needing to send a satellite into space, or gain access to the receiver functionalities of existing satellites. The different capabilities and transmission characteristics of base stations and user equipment of the cellular system are taken into account by two related but distinct measurement setups. Using these setups, the project performs extensive measurements in both urban and suburban environments (which, due to high user density, create the most interference), and create an extensive database as well as a measurement-based interference simulator. The project furthermore explores interference mitigation techniques that employ machine learning to find combinations of beamforming and transmission settings that provide a balance between maintaining reasonable cellular capacity and keeping interference to satellites within specified limits. These techniques account for the fact that the observables, namely the interference level at the satellites, are much less than the number of underlying parameters influencing them, such as user equipment location, power settings, and beamforming approach. The results of this project are of great interest to the Federal Communication Commission (FCC), as well as the American cellular and satellite industries, providing valuable insights for spectrum management and interference mitigation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andreas",
+   "pi_last_name": "Molisch",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andreas Molisch",
+   "pi_email_addr": "molisch@usc.edu",
+   "nsf_id": "000526999",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Barnhart",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "David A Barnhart",
+   "pi_email_addr": "barnhart@isi.edu",
+   "nsf_id": "000497782",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3740 McClintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900890701",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 728637.0
+  }
+ ],
+ "por": null
+}

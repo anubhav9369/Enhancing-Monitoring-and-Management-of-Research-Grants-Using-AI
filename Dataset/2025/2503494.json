@@ -1,0 +1,114 @@
+{
+ "awd_id": "2503494",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ATD: Statistical and Machine Learning Methods for Studying the Dynamics of Weather and Climate Extremes",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 380000.0,
+ "awd_amount": 322555.0,
+ "awd_min_amd_letter_date": "2024-12-10",
+ "awd_max_amd_letter_date": "2024-12-10",
+ "awd_abstract_narration": "Weather and climate extremes profoundly impact human society and the natural environment of all countries, rich and poor. Recent years have seen a number of large losses of life as well as a tremendous increase in economic losses from weather hazards. The start of 2020 found Australia amid its worst-ever bushfire season, following on from its hottest year on record which had left soil and fuels exceptionally dry. The fires have burned through more than 10 million hectares, killed at least 28 people, and left millions of people affected by a hazardous smoke haze. Higher sea temperatures have doubled the likelihood of drought in the Horn of Africa region. Severe droughts have left 15 million people in Ethiopia, Kenya and Somalia in need of aid, and millions of people are facing acute food and water shortages. In the summer of 2020, the West Coast of the U.S. saw its most catastrophic wildfires following the arguably most intensive heat waves in its modern history. According to NOAA\u2019s report (2020), just during the month of August in 2020 the U.S. was hit by four different billion-dollar disasters: two hurricanes, huge wildfires, and an extraordinary Midwest derecho. While extreme weather is a part of the natural cycle, the recent uptick in the ferocity and frequency of these extremes is evidence of an acceleration of climate impacts. This project will support one graduate student each year of the three year project. \r\n\r\nThis project will develop statistical and machine learning methods to study weather and climate extremes from three different perspectives: climate model validation, changepoint estimation for extremes, and integration of multi-model climate ensembles. Climate models are vital tools for scientists studying climate dynamics and extremes. Hence, validating climate models in their capacity of mimicking real climate extremes is a critical task. This involves comparing the modeled and observed spatial extremes, and adjustment for multiple testing is one of the key statistical challenges in comparing random fields. We will develop optimal statistical techniques for comparing the return levels of two spatial extremes random fields. The detection of changepoints and estimation of break time in extreme weather and climate have not received due attention to date, yet changepoints can signal a climate system\u2019s tipping point and thus are important for disaster preparedness and activation of adaptation measures against climate risks. We will also develop a novel method for estimating spatially varying changepoints for functional time series to study abrupt changes in climate extremes. Finally, an array of methodology for multi-model ensemble integration has been developed, ranging from simple or weighted averaging of the models to fully Bayesian hierarchical models. The multiple levels of hierarchy in Bayesian models motivated us to take advantage of neural networks to learn the complex relationship between different climate models and actual observations. Finally, we will develop a Bayesian machine learning approach to integrating model outputs with observations to project future climate extremes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bo",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bo Li",
+   "pi_email_addr": "bol@wustl.edu",
+   "nsf_id": "000515985",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "1 BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631304862",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "046Y00",
+   "pgm_ele_name": "ATD-Algorithms for Threat Dete"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "1303",
+   "pgm_ref_txt": "CLIMATE MODELING & PREDICTION"
+  },
+  {
+   "pgm_ref_code": "6877",
+   "pgm_ref_txt": "ALGORITHMS IN THREAT DETECTION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 322555.0
+  }
+ ],
+ "por": null
+}

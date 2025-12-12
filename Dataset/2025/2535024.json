@@ -1,0 +1,98 @@
+{
+ "awd_id": "2535024",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Searching Under Ambiguity with Textually-Specified Spatial Constraints",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "This I-Corps project is based on the development of a framework to answer complex spatial questions by using artificial intelligence (AI) to interpret a question and search for the answer. As AI becomes more prevalent, searches have become more interactive, flexible, and personalized through natural language interfaces and chatbots powered by large language models. Popular search engines provide an AI generated answer to many questions, even if they contain ambiguities or are under-specified. This response flexibility has not yet been extended to spatial searches, where questions tend to involve the names of points of interest or street addresses. To improve spatial searches, the solution develops a framework that handles complex spatial questions using AI to interpret the query and perform the search. Instead of searching by a name, address, or point of interest type, the search framework allows a user to provide a vague description of a place as a query, such as a \"restaurant within a kilometer of a popular sporting venue or next to a bus stop.\" Searching such a query in any of the popular search engines or mapping platforms currently available yields an unsatisfactory result related to one of the points of interest in the query, without satisfying the spatial component. To correctly answer such a question, a person would need to visually search the appropriate areas on the map, which is time-consuming and tedious. A solution to this problem would lead to efficiencies across domains, such as military and defense, navigation, travel, and robotics sectors.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of spatial pattern search techniques and language models to interpret spatial constraints from vague text. Using artificial intelligence to handle the natural language interpretation and infer details that are not specified directly in the text, the solution allows for a response that is spatially accurate and directly answers even vague questions, without incurring the computational burden of performing a poorly constrained spatial query using existing methods. By leveraging this technology, the project supports a new form of spatial search that has potential benefits in a variety of industries including military and defense, navigation, travel, and robotics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hanan",
+   "pi_last_name": "Samet",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hanan Samet",
+   "pi_email_addr": "hjs@umd.edu",
+   "nsf_id": "000445634",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8083",
+   "pgm_ref_txt": "Big Data Science &Engineering"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

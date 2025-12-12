@@ -1,0 +1,98 @@
+{
+ "awd_id": "2516418",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CNS: Core: Small: Consistent, Geo-Distributed Data Stores on the Public Cloud Using Erasure Coding",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 593845.0,
+ "awd_amount": 424195.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "Cloud-based data stores employ data replication combined with algorithms that allow consistent, concurrent access to data to offer low response times to their global client-bases. Erasure coding (EC) is a generalization of replication known to be more storage efficient for the same fault tolerance in theory. However, reaping the benefits of EC for geo-distributed data stores in practice poses several new scientific challenges. The overarching goal of this project is to address these challenges by developing a comprehensive understanding of the response time vs. cost trade-off for EC-based consistent geo-distributed stores. The research will be conducted in the following four thrusts: (i) development of EC techniques and distributed algorithms to satisfy consistency criteria known as eventual and causal consistency, (ii) development of efficient, EC-compatible reconfiguration algorithms that provably maintain consistency despite changes in object configurations, (ii) development of analytical models of performance and cost, and associated optimization frameworks, and (iv) integration of developed techniques into Apache Cassandra. The proposed research will be conducted in the context of the public cloud, where inter-DC latencies and pricing information are readily available allowing competing schemes to be compared in a fair manner.\r\n\r\nThe proposed research could lead to cost reductions for geo-distributed data stores hosted on public clouds, which are fundamental building blocks for several applications including collaborative editing, social media, financial transactions, reservation systems, and multi-player gaming. The validation plan involves experiments performed using an Apache Cassandra-based prototype that will be made open source. The prototype will serve as a testbed for other researchers and engineers to plug in their own algorithms and compare findings. The proposed research has a cross-disciplinary nature and will be supplemented with an education plan that involves development of survey articles and curricular integration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Viveck",
+   "pi_last_name": "Cadambe",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Viveck R Cadambe",
+   "pi_email_addr": "vcadambe6@gatech.edu",
+   "nsf_id": "000677546",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7354",
+   "pgm_ref_txt": "COMPUTER SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 424195.0
+  }
+ ],
+ "por": null
+}

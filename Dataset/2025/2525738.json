@@ -1,0 +1,118 @@
+{
+ "awd_id": "2525738",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AF:Small: Quantified Polyhedral Programming",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 599999.0,
+ "awd_amount": 599999.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "Any system that is required to respond to stimuli from its environment is called a reactive system. The system\u2019s response is possibly to change its status or conditions and even affect its environment. Hence, a reactive system is an event-driven system reacting endlessly to external stimuli. It maintains an ongoing interaction with its environment, changing its responses accordingly. For instance, a communications protocol is a system that must respond to each stimulus, even to a fragment of input, such as a disrupted received message. In several real-world important applications, reactive systems have to handle input that is immense. Moreover, the domain of possible inputs is unpredictable. It changes continuously due to the interplay between the environmental stimuli and the responses of the system. Reactive systems are widely used to handle and control critical procedures. Air traffic control systems, programs navigating robotic devices (e.g., trains, planes) and systems controlling nuclear reactors or chemical plants processes are typical examples of such applications. Because of the massive and unpredictable input that they must handle, and the crucial nature of the tasks they perform, the primary objective of reactive systems is to be able to respond to any input given to them at any time. In the event of failures, the results may be catastrophic, depending on the nature of the task the reactive system performs. These may include critical data or information losses, economic or environmental disasters, injury or even death. Therefore, reliability and dependability are essentially the most important qualities of reactive systems. In this project, we analyze optimization problems where the solution is guaranteed to be robust against changes and disruptions in the environment. \r\n\r\nThis project is concerned with modeling uncertainty through the use of mathematical programming. The models examined in this proposal consist of a set of linear constraints, together with a quantifier string. In this string, each variable is either existentially or universally quantified. We look at both the continuous and discrete versions of this problem. The continuous version of this problem is known as Quantified Linear Programming (QLP). Whereas, the discrete version, specifically the version in which each variable must take an integer value, is known as Quantified Integer Programming (QIP). The project  investigates the problem of optimization in quantified linear programming. The mathematical programs utilized in this project can also be used to model problems in the field of adversarial robotics. Problems in this field are concerned with the deployment of robots to detect threats in an adversarial environment. Two such problems are the Robotic Adversarial Coverage (RAC) problem and the Closed Perimeter Patrol (CPP) problem. In the RAC problem, robots are deployed to visit nodes in an area with the purpose of identifying the threats within the area. Since the purpose of the deployment is to identify threats, the robot must visit each possible threat. However, visiting a threat may result in the loss of the robot. In the CCP problem, robots are deployed along a fixed perimeter with the purpose of detecting threats. The goal is to determine a patrol policy for each robot that will maximize the probability that an incursion is detected. This project utilizes mathematical programs to develop solutions for both of these problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Krishnamurthy",
+   "pi_last_name": "Subramani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Krishnamurthy Subramani",
+   "pi_email_addr": "K.subramani@mail.wvu.edu",
+   "nsf_id": "000249390",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Piotr",
+   "pi_last_name": "Wojciechowski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Piotr Wojciechowski",
+   "pi_email_addr": "pwojciec@mail.wvu.edu",
+   "nsf_id": "000876937",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "West Virginia University Research Corporation",
+  "inst_street_address": "886 CHESTNUT RIDGE ROAD",
+  "inst_street_address_2": "",
+  "inst_city_name": "MORGANTOWN",
+  "inst_state_code": "WV",
+  "inst_state_name": "West Virginia",
+  "inst_phone_num": "3042933998",
+  "inst_zip_code": "265052742",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WV02",
+  "org_lgl_bus_name": "WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M7PNRH24BBM8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "West Virginia University",
+  "perf_str_addr": "1220 Evansdale Drive",
+  "perf_city_name": "MORGANTOWN",
+  "perf_st_code": "WV",
+  "perf_st_name": "West Virginia",
+  "perf_zip_code": "265066070",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WV02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599999.0
+  }
+ ],
+ "por": null
+}

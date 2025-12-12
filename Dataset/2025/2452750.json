@@ -1,0 +1,105 @@
+{
+ "awd_id": "2452750",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "PDaSP Track 2: A Holistic Privacy Preserving Collaborative Data Sharing System for Intelligent Transportation",
+ "cfda_num": "47.084",
+ "org_code": "15020000",
+ "po_phone": "7032922251",
+ "po_email": "jgeorge@nsf.gov",
+ "po_sign_block_name": "Jemin George",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 272000.0,
+ "awd_amount": 67065.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Modern transportation systems generate massive amounts of data, including where and how vehicles and people move, traffic conditions, road conditions, and videos captured during actual trips.  This includes detailed information about everyday driving behavior collected by cameras and sensors in cars and on roads. These datasets are essential for improving traffic safety, reducing congestion, and supporting the development of advanced technologies such as self-driving cars. However, they often contain sensitive personal details about individuals, making it difficult to share among traffic authorities, companies, and research institutions.  This project addresses this challenge by developing secure methods for sharing transportation data while protecting individual privacy, serving the national interest by advancing transportation safety, supporting economic competitiveness in autonomous vehicle technologies, and strengthening infrastructure resilience through improved data-driven decision making.\r\n\r\nThis project develops a comprehensive privacy-preserving platform for sharing diverse intelligent transportation systems data across different entities. The research targets multiple data types, including vehicle and road user information such as speed, travel times, and trajectories, as well as infrastructure data including traffic flow, control states, and videos. The project focuses particularly on naturalistic driving data collected by in-vehicle sensors and mobile devices. The research team will adapt and scale privacy-preserving techniques to support both centralized and distributed data-sharing models, ensuring secure data exchange without compromising individual privacy. The project will develop a web-based recommendation system to assist stakeholders in selecting appropriate privacy-preserving techniques for their specific datasets. Additionally, the team will create audit and compliance tools based on formal privacy guarantees and conduct user studies to ensure practical relevance. Secure cyberinfrastructure will be designed and deployed through collaboration with public and private partners. The platform will be evaluated using real-world transportation datasets to demonstrate effectiveness in enabling privacy-preserving data sharing that supports transportation research, improves traffic management, and accelerates development of data-driven mobility technologies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "ITE",
+ "org_div_long_name": "Innovation and Technology Ecosystems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xuegang",
+   "pi_last_name": "Ban",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xuegang Ban",
+   "pi_email_addr": "banx@uw.edu",
+   "nsf_id": "000520792",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Angela",
+   "pi_last_name": "Kitali",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Angela E Kitali",
+   "pi_email_addr": "akitali@uw.edu",
+   "nsf_id": "000911661",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "241Y00",
+   "pgm_ele_name": "NSF-Intel Semiconductr Partnrs"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 67065.0
+  }
+ ],
+ "por": null
+}

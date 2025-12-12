@@ -1,0 +1,118 @@
+{
+ "awd_id": "2440455",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: A Principled Framework for Multi-Task Representation Learning for  Scalable, Decentralized, and Safe Sequential Decision-Making",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 515000.0,
+ "awd_amount": 515000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Real-world systems are composed of interconnected entities that collaborate to perform diverse yet interrelated tasks, often requiring sequential decision-making. Over the past decade, multi-task learning has emerged as a powerful paradigm for collaborative learning, significantly enhancing efficiency while enabling privacy-preserving knowledge sharing. One of the most promising approaches to learning-based control is dynamic sequential learning, such as reinforcement learning, which learns through interactions with the environment. However, reinforcement learning faces three critical challenges in real-world dynamical systems: data scarcity and heterogeneity, scalability and communication efficiency, and safety. Moreover, achieving provable guarantees in joint learning often requires leveraging underlying problem structures. This CAREER project will develop a unified approach to multi-task representation learning by leveraging the shared representations to offer a viable solution to these challenges, enabling privacy-preserved joint learning in dynamic environments. Research and education will be synergistically integrated to train students in the interdisciplinary field of data science and control, addressing the pressing need for skilled workforce development in this emerging area of societal importance.\r\n \r\nThe central objective of this project is to develop provable methods for multi-task representation learning in bandit and reinforcement learning settings. At its core is a novel algorithm, (de)centralized Alternating Gradient Descent and Minimization (AltGDmin), designed to address the challenges of non-convex, under-sampled, and constrained problems. This approach enables fast and federated representation learning while effectively tackling data heterogeneity, scalability, communication efficiency, and safety concerns. The project technical plan includes three research thrusts together with several validation activities and an integrated education plan. The first goal is to create a provable few-shot personalized federated multi-task representation learning framework for bandit and reinforcement learning. The second goal is to develop a fully decentralized, federated multi-task representation learning framework for bandit and reinforcement learning over a networked architecture among agents. Our approach will eliminate the central server, enhancing scalability, communication efficiency, and robustness by removing single points of failure. The third goal is to develop an innovative safe multi-task representation learning framework to learn optimal policies while incorporating the safety constraints. The main application domains of interest are control and automation in smart farms, which will guide the problem formulation and validate the algorithms using real-world implementation, testing, and numerical experiments. The overarching goal of the integrated education plan is to provide a pathway for K-12 to college students to receive rigorous math training and hands-on experience, including coding skills for ML-based intelligent system design.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shana",
+   "pi_last_name": "Moothedath",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shana Moothedath",
+   "pi_email_addr": "mshana@iastate.edu",
+   "nsf_id": "000869867",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 515000.0
+  }
+ ],
+ "por": null
+}

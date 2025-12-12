@@ -1,0 +1,129 @@
+{
+ "awd_id": "2506865",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Advancing Intelligent Cognitive Load Sensing and Adaptive Scaffolding to Support Collaborative Simulation-based Learning in High-Stakes Environments",
+ "cfda_num": "47.070, 47.076",
+ "org_code": "11090000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 900000.0,
+ "awd_amount": 900000.0,
+ "awd_min_amd_letter_date": "2025-09-04",
+ "awd_max_amd_letter_date": "2025-09-04",
+ "awd_abstract_narration": "When clinicians receive high-quality team training for managing healthcare emergencies, such as in-hospital cardiac arrests, patients have a better chance of surviving. However, the high cognitive demands involved in complex decision making and team management can harm performance, particularly among healthcare professionals in training or in new roles. This project aims to understand and improve how medical professionals learn to work as an effective team by detecting and managing the mental demands they face during high-stakes events. By leveraging multimodal data (e.g., heart rate, speech, gaze) within team-based immersive virtual reality, this project enables trainee teams to practice in a controlled, simulated environment while receiving \"just enough, just in time, and just for you\" feedback at both individual and team levels. The ultimate goal is to equip trainees with strategies for making rapid, accurate, and repeatable decisions while effectively executing tasks to save lives. The project's outputs, including an open-source database documenting types of cognitive load triggers and corresponding strategies for regulating cognitive load, are designed to support a wide range of stakeholders, including medical educators, quality and safety professionals, human factors engineers, and those developing cardiac arrest response guidelines. The training methods developed in this research could also benefit other fields that rely on expert teams, including aviation, emergency rescue operations in the military, and wildfire management, leading to safer and more effective teamwork in high-stakes situations.\r\n\r\nTo meet these goals, this project integrates multimodal sensing, modeling, and instructional strategies to support regulation of cognitive load at both individual and team levels during collaborative learning tasks. Unlike prior work, which relied on noisy single modalities and self-report measures after performance events, this integrated approach provides a comprehensive framework for detecting, modeling, and responding to cognitive load in a complex VR simulation-based training environment. In its first phase, the project will model cognitive load using multimodal signals such as visual, linguistic, and physiological responses, including interactions between team members. The second phase will involve qualitative interviews with learners to elucidate their cognitive overload experiences that correspond to the cognitive load peaks and behavior patterns identified in the first phase. These findings, along with the extracted multimodal features, will be used in phase three to detect and model cognitive load and develop AI-driven strategies. Finally, phase four will evaluate the impact of these findings on learners through a quasi-experimental study. Understanding markers that may predispose learners to errors or delays in therapeutic interventions will provide significant insight into a more holistic assessment of individual and team learning processes and provide unique opportunities for feedback, practice, and/or remediation.\r\n\r\nThis project is funded by the Research on Innovative Technologies for Enhanced Learning (RITEL) program that supports early-stage exploratory research in emerging technologies for teaching and learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vitaliy",
+   "pi_last_name": "Popov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vitaliy Popov",
+   "pi_email_addr": "vipopov@med.umich.edu",
+   "nsf_id": "000718441",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mohamed",
+   "pi_last_name": "Abouelenien",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohamed Abouelenien",
+   "pi_email_addr": "zmohamed@umich.edu",
+   "nsf_id": "000711768",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Cooke",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "James M Cooke",
+   "pi_email_addr": "cookej@med.umich.edu",
+   "nsf_id": "000928527",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Cole",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael A Cole",
+   "pi_email_addr": "mcolemd@med.umich.edu",
+   "nsf_id": "000822129",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802000",
+   "pgm_ele_name": "Cyberlearn & Future Learn Tech"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 900000.0
+  }
+ ],
+ "por": null
+}

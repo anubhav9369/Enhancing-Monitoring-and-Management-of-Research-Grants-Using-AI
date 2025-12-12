@@ -1,0 +1,102 @@
+{
+ "awd_id": "2515271",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "IUCRC Phase I Purdue University: Center for Accurate Georeferencing of the Environment (CAGE)",
+ "cfda_num": "47.041",
+ "org_code": "07050000",
+ "po_phone": "7032924580",
+ "po_email": "seraghav@nsf.gov",
+ "po_sign_block_name": "Seetha Raghavan",
+ "awd_eff_date": "2026-01-15",
+ "awd_exp_date": "2030-12-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Geospatial data has become a cornerstone of modern society, underpinning critical applications that range from navigation and logistics to emergency response, infrastructure management, agriculture, and environmental monitoring. As technologies such as smartphones, drones, satellite imaging, and connected sensors proliferate, the volume and variety of geospatial data continue to expand rapidly. However, the utility of this data hinges on one fundamental requirement: accurate geo-referencing. Without precise spatial georeferencing, the value of collected data and derived products is significantly compromised, leading to flawed analysis, poor decision-making, and even public safety concerns. The IUCRC Center for Accurate Georeferencing of the Environment (CAGE) at Purdue University (PU) in partnership with The Ohio State University (OSU), and Saint Louis University (SLU), is dedicated to advancing methods for accurate and reliable geo-referencing of diverse geospatial data sources. The center serves as a collaborative research hub uniting academic researchers, government agencies, and industry partners to address the technical and operational challenges in geo-referencing, sensor calibration, spatial data fusion, data quality assessment, data-driven and decision making.\r\n\r\nAs artificial intelligence (AI) and machine learning (ML) tools are increasingly applied to extract insight from massive geospatial datasets, there is a growing need to ensure the accuracy, consistency, and traceability of the input data. Poorly referenced or misaligned datasets can lead to biased models, unreliable predictions, and degraded system performance. CAGE develops rigorous methodologies and frameworks to evaluate and certify the positional quality of geospatial data, ensuring that downstream AI/ML applications are built on trustworthy spatial foundations. Research efforts focus on innovations in sensor calibration, photogrammetry, LiDAR, GNSS/INS based positioning, SLAM (Simultaneous Localization and Mapping), and uncertainty quantification. Emphasis is placed on developing scalable, cost-effective approaches suitable for deployment across a wide range of platforms\u2014from satellite systems and aerial drones to mobile devices and wearable sensors. By fostering strong industry partnerships, CAGE ensures that the research remains aligned with real-world needs, accelerates technology transfer, and supports workforce development in the geospatial domain. Ultimately, the center will enable a new generation of accurate, AI-ready geospatial products and services that are critical to smart cities, autonomous systems, precision agriculture, climate monitoring, and beyond.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "EEC",
+ "org_div_long_name": "Division of Engineering Education and Centers",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ayman",
+   "pi_last_name": "Habib",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ayman F Habib",
+   "pi_email_addr": "ahabib@purdue.edu",
+   "nsf_id": "000693073",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "576100",
+   "pgm_ele_name": "IUCRC-Indust-Univ Coop Res Ctr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "132E",
+   "pgm_ref_txt": "CENTERS: SENSING & INFO SYS"
+  },
+  {
+   "pgm_ref_code": "5761",
+   "pgm_ref_txt": "INDUSTRY/UNIV COOP RES CENTERS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

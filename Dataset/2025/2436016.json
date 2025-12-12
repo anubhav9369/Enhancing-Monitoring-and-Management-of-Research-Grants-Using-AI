@@ -1,0 +1,105 @@
+{
+ "awd_id": "2436016",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: CompAM: Enabling Computational Additive Manufacturing",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2027-03-31",
+ "tot_intn_awd_amt": 499999.0,
+ "awd_amount": 499999.0,
+ "awd_min_amd_letter_date": "2025-03-27",
+ "awd_max_amd_letter_date": "2025-03-27",
+ "awd_abstract_narration": "Additive manufacturing (AM), also known as 3D printing, is revolutionizing how materials and components are designed and fabricated. Unlike traditional methods, AM allows for unparalleled geometric freedom and the integration of advanced functionalities, such as functionally graded materials, shape-memory materials, and materials with enhanced properties. These breakthroughs rely on controlling the internal structure of the material, called the microstructure, which directly impacts its mechanical and thermal behavior. However, determining the optimal AM process conditions to achieve specific microstructures is a significant challenge due to the high costs, time, and resources needed for experiments and simulations. This project aims to drastically reduce the time required to predict and optimize microstructures from days to minutes, enabling faster, more efficient design and manufacturing of advanced materials with targeted properties. The anticipated impact includes accelerating the discovery of new materials, enhancing the quality of manufactured components, and broadening the application of AM in critical industries such as aerospace, healthcare, and energy.\r\n\r\n\r\nThe technical goal of this project is to develop a computational framework that accelerates microstructure prediction in AM by leveraging cutting-edge physics-informed machine learning techniques. Specifically, this project will involve the design of a new class of graph neural networks (GNNs) tailored for modeling the evolution of microstructures under various process conditions. These networks will incorporate physical laws directly into their training process, ensuring accurate and generalizable predictions. The project comprises two main tasks: (1) designing novel loss functions and training methods to improve the GNNs\u2019 performance and transferability across different materials and geometries, and (2) developing techniques to speed up the training and inference of these networks by utilizing localized updates and adaptive simplifications of the microstructure graphs. Together, these advancements will establish a faster, scalable, and more efficient approach to microstructure modeling, transforming the landscape of AM and materials discovery.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aviral",
+   "pi_last_name": "Shrivastava",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aviral Shrivastava",
+   "pi_email_addr": "aviral.shrivastava@asu.edu",
+   "nsf_id": "000490268",
+   "pi_start_date": "2025-03-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ashif",
+   "pi_last_name": "Iquebal",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ashif S Iquebal",
+   "pi_email_addr": "aiquebal@asu.edu",
+   "nsf_id": "000824825",
+   "pi_start_date": "2025-03-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499999.0
+  }
+ ],
+ "por": null
+}

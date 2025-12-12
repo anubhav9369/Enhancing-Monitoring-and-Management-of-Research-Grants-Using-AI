@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451262",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: NeTS: Intelligent Reflecting Surface Assisted Transmitting and Sensing for Spectrum Sharing and Coexistence of Heterogeneous Wireless Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-06-27",
+ "awd_max_amd_letter_date": "2025-06-27",
+ "awd_abstract_narration": "The electromagnetic spectrum contains all frequencies of light, from those humans can see to those they cannot. This spectrum is used for many types of wireless communication and must be shared when multiple uses occur in close proximity. The electromagnetic spectrum has become increasingly congested, driven by the needs for wireless communication and sensing to support various applications such as smart cities, autonomous vehicles, and Internet of Things. Different wireless systems, such as mobile networks, Wi-Fi, and radar-based sensing devices, must coexist in a limited spectrum band. Although the spectrum at high frequencies promises large bandwidth, it suffers from performance problems such as severe path loss and susceptibility to signal blockages. Thus, managing interference and signal reliability becomes increasingly critical. This project addresses these issues by developing a solution that uses intelligent reflecting surfaces (IRS) to improve spectrum sharing and performance of various wireless systems. IRS is an energy-efficient and programmable surface that can guide radio signals to bypass obstacles and reduce interference. By applying cutting-edge machine learning techniques and considering IRS physics-based constraints, the project aims to increase spectrum utilization and energy efficiency. The outcomes of this research can enhance user connectivity in crowded wireless environments, reduce signal disruptions, and drive application innovations. The project also integrates the wireless and machine-learning research findings into educational programs and provides opportunities to train undergraduate and graduate students through related research activities and hands-on system deployment.\r\n\r\nThis project will develop a multi-IRS-assisted spectrum sharing and sensing framework to enable the coexistence of heterogeneous wireless systems. It explores the following interconnected innovations. (1) A graph neural network (GNN)-based scheme is designed to incorporate environmental information to estimate channel state information (CSI) efficiently and optimize the configurations of IRS reflection elements to direct signals and mitigate interference effectively. (2) A physics-regulated deep reinforcement learning (DRL)-based control scheme is developed to perform real-time fair resource allocation and beamforming under strict quality-of-service constraints among different wireless systems to optimize resource distribution and ensure reliable signal transmissions. (3) System validation is performed through extensive software simulations and testbed experiments. The developed techniques are expected to enhance coordination of multiple IRSs and improve spectrum efficiency and fairness for the coexistence of various wireless systems and applications in dynamic environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qun",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qun Wang",
+   "pi_email_addr": "qunwang@sfsu.edu",
+   "nsf_id": "000984875",
+   "pi_start_date": "2025-06-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Francisco State University",
+  "inst_street_address": "1600 HOLLOWAY AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN FRANCISCO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4153387090",
+  "inst_zip_code": "941321740",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "CA11",
+  "org_lgl_bus_name": "SAN FRANCISCO STATE UNIVERSITY",
+  "org_prnt_uei_num": "JW7YN4NDAHC1",
+  "org_uei_num": "F4SLJ5WF59F6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Francisco State University",
+  "perf_str_addr": "1600 HOLLOWAY AVE",
+  "perf_city_name": "SAN FRANCISCO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "941321740",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "CA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

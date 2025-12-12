@@ -1,0 +1,106 @@
+{
+ "awd_id": "2514937",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MSA: Understanding biological invasions across spatial scales using Phylogenetic Generalized Linear Mixed Models (PGLMM)",
+ "cfda_num": "47.074, 47.083",
+ "org_code": "08010000",
+ "po_phone": "7032927186",
+ "po_email": "mkane@nsf.gov",
+ "po_sign_block_name": "Matthew Kane",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 315983.0,
+ "awd_amount": 141670.0,
+ "awd_min_amd_letter_date": "2024-12-16",
+ "awd_max_amd_letter_date": "2024-12-16",
+ "awd_abstract_narration": "Non-native species invasions are causing worldwide ecosystem degradation and economic loss, with average global economic costs exceeding 27 billion dollars per year over the past five decades. More urgently, both the number of non-native species and their impacts are projected to increase over the coming decades. For example, approximately an additional 1,500 non-native species are likely to establish in North America by 2050. Furthermore, the economic costs of biological invasions are predicted to increase threefold per decade. Government agencies, conservation organizations, and private citizens have spent significant resources to mitigate the impacts of species invasions, but the outcomes are far from satisfactory. One main reason is that we still do not have a holistic and predictive understanding of species invasion across scales. This project will compile an open-access, cross-scale database of species invasion centered around the datasets collected by the National Ecological Observatory Network (NEON). This database will be analyzed using advanced statistical methods to test theory on the relative roles propagule pressure, abiotic variables, and biotic variables on invasions for multiple taxonomic groups (plants, birds, and beetles) across spatial scales. Model results will be disseminated by building an online interactive application that can dynamically present and forecast risks of invaders at all NEON sites. This application will be updated automatically with new data to provide real-time management recommendations. One postdoctoral researcher and two undergraduate students will be trained in macrosystem biology, statistical, and data science skills during the project.\r\n\r\nThe goal of this project is to test the relative importance of propagule pressure, abiotic variables (e.g., climate, land-use history), and biotic variables (e.g., species interactions) in driving species invasions across spatial scales in the context of community assembly. To achieve this goal, this project will improve the ability of phylogenetic generalized linear mixed model (PGLMM) to work with large datasets and then apply it to the integrated database of species invasions based on NEON to investigate patterns and mechanisms of biological invasions of different taxonomic groups across spatial scales. This project will address the following questions: 1) Do functional traits of non-native species interact with abiotic variables to determine their distributions? 2) Do biotic interactions between non-native and native species in the recipient communities affect the distribution of non-native species? 3) What is the relative importance of propagule pressure, abiotic variables, and biotic variables in determining the distribution of non-native species from local to continental scales?\r\n\r\nThis project is jointly funded by the Division of Environmental Biology/Macrosystem Biology and NEON Enabled Science program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DEB",
+ "org_div_long_name": "Division Of Environmental Biology",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daijiang",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daijiang Li",
+   "pi_email_addr": "daijianglee@gmail.com",
+   "nsf_id": "000801598",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "845 N PARK AVE RM 538",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "85721",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "795900",
+   "pgm_ele_name": "MacroSysBIO & NEON-Enabled Sci"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 141669.0
+  }
+ ],
+ "por": null
+}

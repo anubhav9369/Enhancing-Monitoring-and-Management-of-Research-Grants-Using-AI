@@ -1,0 +1,106 @@
+{
+ "awd_id": "2524615",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DeepCyte: An autonomous underwater flow cytometer",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032927577",
+ "po_email": "kbinkley@nsf.gov",
+ "po_sign_block_name": "Kandace Binkley",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 968427.0,
+ "awd_amount": 968427.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Single cell photosynthetic organisms, the phytoplankton, generate roughly 50% of the oxygen produced each year on the planet and are the base of the marine food web on which life in the ocean depends.  Flow cytometry is the most accurate method for counting and identifying phytoplankton populations in the ocean. The DeepCyte submersible flow cytometer represents a significant advancement in flow cytometry instrumentation and is characterized by high sensitivity, low power consumption, compact size, and low maintenance.  DeepCyte is designed detect the smallest phytoplankton populations (0.5-10 \u00b5m) while suspended underwater from an autonomous buoy platform. This size range encompasses the most abundant phytoplankton populations found in both open ocean and coastal environments from the tropics to the poles.  In this project, the DeepCyte instrument and buoy platform will be iterated to a final design by repackaging the instrument components into a smaller volume to facilitate easier deployment of the instrument and buoy package.  Automated calibration and alignment routines will be developed to improve measurement quality while deployed autonomously.  Finally, previously developed automated flow cytometry data analysis and visualization software will be implemented on the instrument to generate a real-time data feed for broadcast to research vessels and to shore.  Fully processed data will be available through public repositories and presented on a publicly accessible data portal.  This project also offers educational opportunities: undergraduate students will assist in development and analysis throughout the project.  The work included in this project will transition the DeepCyte from a functional lab prototype to a useable and useful marine instrument that will provide an unprecedented view of phytoplankton community dynamics within marine environments.\r\n\r\nThe breakthrough technology that allows DeepCyte to collect stable measurements during a long deployment on autonomous platforms is an immersed primary optic combined with Virtual Core flow cytometry technology that operates without the need for clean fluids. The excitation and collection optics are immersed in an open bath and protrude into a flow of the external sample fluid, sidestepping the usual clogging and maintenance issues associated with the small orifices present in all flow cytometers. The current DeepCyte prototype is robust, compact, and energy-efficient, consuming only 25 watts during full operation.  Power is fed to the submersed instrument from a surface buoy that can generate 100 watts of solar power, perform instrument control and analysis through a small PC, and can transmit data back to ship or shore via satellite modem.  Instrument development will be divided into two phases.  The current DeepCyte prototype will be refined to a final V1 design by first simplifying and then miniaturizing the acquisition electronics, adding fluidic components for injection of an internal bead standard, and then repackaging the instrument into a smaller volume for easier deployments. Software will be developed for auto-alignment of the instrument and a modified version of previously developed real-time data analysis and visualization tools will be integrated.  Testing of these instrument enhancements will occur in the University of Washington\u2019s test tank facility and through two three-day research cruises in the Strait of Juan de Fuca.  In the final test of the DeepCyte, the instrument and buoy will be operated in a quasi-Lagrangian deployment off the coast of Washington to demonstrate full untethered multi-day deployment of the instrument system.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Virginia",
+   "pi_last_name": "Armbrust",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Virginia Armbrust",
+   "pi_email_addr": "armbrust@uw.edu",
+   "nsf_id": "000369879",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "168000",
+   "pgm_ele_name": "OCEAN TECH & INTERDISC COORDIN"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9117",
+   "pgm_ref_txt": "MARINE BIOTECHNOLOGY"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1174",
+   "pgm_ref_txt": "POPULATION DYNAMICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 968427.0
+  }
+ ],
+ "por": null
+}

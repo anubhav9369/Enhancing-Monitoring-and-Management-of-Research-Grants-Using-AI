@@ -1,0 +1,110 @@
+{
+ "awd_id": "2439202",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Leveraging Grammar Books to Develop Language Technologies for Data-Scarce Languages",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922972",
+ "po_email": "emiltsak@nsf.gov",
+ "po_sign_block_name": "Eleni Miltsakaki",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599956.0,
+ "awd_amount": 334731.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "Despite recent impressive progress in the creation of language technologies, thousands of languages spoken by millions of humans are not yet unsupported by modern technologies like large language models, translation tools, or chatbots. Typically, the bottleneck towards building such tools is the lack of data for these languages. This project proposes to instead bypass the data-scarcity issue by using grammars, effectively leveraging the already-codified linguistic knowledge about the languages themselves. In doing so, this project will provide a concrete path towards building multimodal language technologies for data-scarce languages. \r\n\r\nConcretely, this project will (1) build the necessary datasets to explore the meta-linguistic capabilities of large language models. Then, it will (2) explore ways to build LLMs for new languages by relying on grammars, similar to how a human learns a second language. Next, the proposed work aims at (3) making theoretical connections to various learning paradigms, and attempting to model the process of multilingual learning itself. Last, the project will (4) delve deeper into the errors potentially exhibited by language models. Additionally, the proposed research will be integrated into education through new teaching modules combining linguistics with natural language processing, promoting undergraduate research. The project will aim to extend its impact beyond the classroom through close collaboration with underserved language communities, aiming to build technologies according to the communities' needs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Antonios",
+   "pi_last_name": "Anastasopoulos",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Antonios Anastasopoulos",
+   "pi_email_addr": "antonis@gmu.edu",
+   "nsf_id": "000832909",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Mason University",
+  "inst_street_address": "4400 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAIRFAX",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7039932295",
+  "inst_zip_code": "220304422",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "VA11",
+  "org_lgl_bus_name": "GEORGE MASON UNIVERSITY",
+  "org_prnt_uei_num": "H4NRWLFCDF43",
+  "org_uei_num": "EADLFP7Z72E5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Mason University",
+  "perf_str_addr": "4400 UNIVERSITY DR",
+  "perf_city_name": "FAIRFAX",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "220304422",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "VA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 334731.0
+  }
+ ],
+ "por": null
+}

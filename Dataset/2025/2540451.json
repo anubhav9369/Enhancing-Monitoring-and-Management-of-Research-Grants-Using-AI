@@ -1,0 +1,102 @@
+{
+ "awd_id": "2540451",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: SCH: AI-Driven Identification of Glaucoma-Related Retinal Ganglion Cell Subtypes via Large-Scale Single-Cell Sequencing Data",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 174520.0,
+ "awd_amount": 174520.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Artificial intelligence is transforming how scientists study disease at the cellular level. This project focuses on glaucoma, a leading cause of blindness, by analyzing individual cells in the eye to better understand which types are most vulnerable to damage. The retina contains many subtypes of retinal ganglion cells, some of which are more prone to degeneration than others. Identifying these subtypes is crucial for the early diagnosis and treatment of glaucoma; however, traditional methods struggle to handle the volume and complexity of biological data. This research develops an advanced AI model to uncover hidden patterns in massive genetic datasets and identifies distinct subtypes of retinal ganglion cells. These insights could help doctors detect glaucoma earlier and lead to new ways of repairing damaged cells. The work will also give students hands-on experience with real-world health data and help train the next generation of scientists who work at the intersection of computer science and medicine.\r\n\r\nThis project develops a transformer-based machine learning framework for identifying glaucoma-susceptible retinal ganglion cell subtypes using large-scale single-cell sequencing data. Current cell annotation approaches struggle with issues such as marker ambiguity, batch effects, and poor scalability across datasets. The proposed model addresses these challenges by incorporating a patch-based gene embedding strategy and positional encoding to preserve feature structure, while leveraging self-attention mechanisms to detect subtle interdependencies among gene expression profiles. The system integrates multi-modal omics data through shared latent embeddings to enhance subtype resolution, particularly for rare or transitional retinal ganglion cell populations. The model architecture consists of four key modules: Gene Embedding, Positional Encoding, Transformer Encoder, and Classification. In the Gene Embedding module, gene expression vectors are partitioned into equal-length sub-vectors similar to those used in vision transformers, enabling local feature extraction. The Positional Encoding module applies sine and cosine functions to inject sequential information lost during vector segmentation. The Transformer Encoder applies multi-head self-attention and feed-forward networks to capture both global dependencies and nonlinear relationships across sub-vectors. Attention scores are computed using the scaled dot-product mechanism, and results are passed through residual connections, layer normalization, and the Rectified Linear Unit feed-forward layers. The final Classification module uses average pooling followed by two linear layers to predict RGC subtypes. The outcome will be a scalable and interpretable computational model that contributes to both the biomedical understanding of glaucoma and the broader field of machine learning for single-cell analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yeganeh",
+   "pi_last_name": "Madadi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yeganeh Madadi",
+   "pi_email_addr": "madadiy@appstate.edu",
+   "nsf_id": "0000A0QP9",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Appalachian State University",
+  "inst_street_address": "438 ACADEMY ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOONE",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "8282627459",
+  "inst_zip_code": "286080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "NC05",
+  "org_lgl_bus_name": "APPALACHIAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F1NAKY5L1425"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Appalachian State University",
+  "perf_str_addr": "438 ACADEMY ST",
+  "perf_city_name": "BOONE",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "286080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "NC05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174520.0
+  }
+ ],
+ "por": null
+}

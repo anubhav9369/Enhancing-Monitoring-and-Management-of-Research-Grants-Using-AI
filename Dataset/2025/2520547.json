@@ -1,0 +1,110 @@
+{
+ "awd_id": "2520547",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NeTS: CSR: Small: Leveraging Satellite Signals for Ubiquitous Mobile Wireless Sensing",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "This project aims to expand the reach of mobile sensing technologies by using satellite signals, specifically those from global navigation satellite systems (GNSS), as a new source of wireless sensing. Unlike conventional approaches that rely on local infrastructure, such as Wi-Fi or Bluetooth, satellite signals offer truly global coverage, enabling low-cost, infrastructure-free sensing even in remote or rural areas. The project explores how satellite signals can be utilized alone for sensing human activity and other physical behaviors, as well as be combined with other signals of opportunity, if they are available, to improve sensing performance through multi-modal multi-task learning techniques. By advancing new sensing methods that do not depend on high-density networks, this research is expected to enhance the understanding of satellite signal-based sensing systems and enable new sensing applications with broad societal benefits. The project also involves graduate and undergraduate students developing open-source software tools, fostering a future workforce in the field of wireless mobile sensing technology.\r\n\r\nThe project investigates a sensing framework that leverages satellite signals for real-time, mobile wireless sensing. It develops a novel signal model to extract activity-relevant variations from GNSS carrier-phase measurements, supported by multi-stage interference cancellation and signal diversity exploitation. A key component of the project is the design of a data-driven sensing model that integrates cross-modal knowledge from other sensing domains, such as inertial or Wi-Fi signals, through pretraining and multi-task learning. To ensure practical deployment, the project also includes system-level optimization for memory usage, energy efficiency, and processing latency on mobile devices. This integrated research effort advances the foundational theory, algorithm design, and system deployment of satellite signal-based sensing, creating a scalable and efficient solution for applications such as health monitoring, activity recognition, and situational awareness in both connected and infrastructure-sparse environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yi",
+   "pi_last_name": "Ding",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yi Ding",
+   "pi_email_addr": "yi.ding@utdallas.edu",
+   "nsf_id": "000993000",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hlaing",
+   "pi_last_name": "Minn",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hlaing Minn",
+   "pi_email_addr": "hlaing.minn@utdallas.edu",
+   "nsf_id": "000492814",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Dallas",
+  "inst_street_address": "800 WEST CAMPBELL RD.",
+  "inst_street_address_2": "SP2.25",
+  "inst_city_name": "RICHARDSON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9728832313",
+  "inst_zip_code": "750803021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT DALLAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EJCVPNN1WFS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Dallas",
+  "perf_str_addr": "800 WEST CAMPBELL RD.",
+  "perf_city_name": "RICHARDSON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "750803021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

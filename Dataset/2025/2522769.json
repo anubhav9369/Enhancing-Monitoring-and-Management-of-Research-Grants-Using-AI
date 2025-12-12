@@ -1,0 +1,134 @@
+{
+ "awd_id": "2522769",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DMREF: Accelerated Discovery of Perovskite Nanomaterials Using Distributed Self-Driving Labs",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032925043",
+ "po_email": "cciobanu@nsf.gov",
+ "po_sign_block_name": "Cristian Ciobanu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-09-04",
+ "awd_max_amd_letter_date": "2025-09-04",
+ "awd_abstract_narration": "Non-Technical Description:\r\nThe development of solution-processable semiconductor materials has the potential to revolutionize emerging technologies in electronics and quantum engineering technologies by enabling scalable, cost-effective manufacturing methods. Among these materials, metal halide perovskite nanocrystals exhibit exceptional properties suited for advanced technological applications. However, their widespread adoption faces significant limitations due to presence of heavy metals, such as lead. This project aims to accelerate the discovery of high-performance, lead-free perovskite nanocrystals through the integration of high-throughput experimentation, artificial intelligence (AI), and advanced data-sharing strategies across multiple institutions. By establishing networked \"self-driving laboratories\" (SDLs) capable of autonomously exploring extensive materials synthesis parameter spaces, this research is expected to drastically shorten discovery timelines from years to weeks or months. The project's broader impacts include the development of new educational programs designed to train a skilled workforce proficient in AI-driven and autonomous scientific research methodologies, thereby promoting broad participation in innovative STEM careers.\r\n\r\nTechnical Description:\r\nThis research addresses the critical challenge of discovering lead-free metal halide perovskite nanocrystals by establishing distributed SDLs that integrate automated flow chemistry systems, colloidal nanoscience, and machine learning algorithms. The project aligns directly with NSF\u2019s Designing Materials to Revolutionize and Engineer our Future (DMREF) program and supports the objectives of the Materials Genome Initiative (MGI), aiming to create a robust, scalable framework for accelerated semiconductor materials discovery. A key technical innovation involves modular flow reactors with independently tunable reaction conditions, significantly expanding the accessible synthesis parameter space for semiconductor nanocrystals. The project will employ federated learning approaches to analyze and integrate experimental data from cloud-connected SDLs situated across multiple institutions, facilitating predictive modeling of synthesis parameters and resulting material properties. Outcomes of this project will include the establishment of a publicly accessible, AI-ready experimental database, serving as a valuable resource for the broader materials research community. Additionally, educational efforts will focus on developing innovative curricula and workshops to disseminate knowledge in autonomous experimentation and materials discovery, thus strengthening national expertise and capacity in AI-driven research and development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ou",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ou Chen",
+   "pi_email_addr": "Ou_Chen@brown.edu",
+   "nsf_id": "000715407",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "177500",
+   "pgm_ele_name": "ELECTRONIC/PHOTONIC MATERIALS"
+  },
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7504",
+   "pgm_ref_txt": "NSF-INTERNAT COOP IN MATERIALS RES-OTHER"
+  },
+  {
+   "pgm_ref_code": "1253",
+   "pgm_ref_txt": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

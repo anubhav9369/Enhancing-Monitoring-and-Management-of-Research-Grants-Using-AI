@@ -1,0 +1,93 @@
+{
+ "awd_id": "2530909",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Advancing Security in TEE-Enabled Scientific Research Workflows: A Holistic Approach",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 599999.0,
+ "awd_amount": 599999.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Scientific breakthroughs in fields such as genomics, drug discovery, and materials science increasingly depend on large-scale computational workflows executed on high-performance computing (HPC) platforms. These workflows coordinate thousands of interdependent computational tasks, creating unprecedented collaboration opportunities but also introducing serious cybersecurity vulnerabilities. A single compromised step can lead to inaccurate scientific conclusions, disruption of critical research, or breaches of confidential data. Foreign adversaries actively target American research infrastructure to steal intellectual property and gain competitive advantages. By establishing a strong foundation of computational trust, this project protects scientific data and ensure research integrity, even when computations run on shared or potentially compromised computer systems. This enables confidence in scientific collaboration, protect sensitives information and helps preserve America's scientific leadership. \r\n\r\nThe SafeSci-TEE award advances the state of the art in cyberinfrastructure by introducing novel techniques in runtime and distributed attestation tailored to scientific workflows. The project develops continuous runtime attestation mechanisms for confidential virtual machines, ensuring that HPC applications within trusted execution environments (TEEs) maintain integrity throughout execution. It also creates a distributed attestation framework that propagates trust across multiple HPC nodes and workflow stages, enabling end-to-end verification of scientific pipelines. In addition, SafeSci-TEE builds a hardware-agnostic TEE runtime and an integrity-aware scheduler that securely maps workflow tasks to trusted resources across heterogeneous computing platforms. These innovations empower scientists to run complex workflows securely and confidently, even in dynamic, multi-institutional environments. The technologies developed by SafeSci-TEE enhance the resilience and reliability of scientific computing, inform secure design practices for HPC systems, and have broad applications including fields such as healthcare, national security, and industrial R&D. Ultimately the SafeSci-TEE award accelerates scientific progress, bolsters U.S. competitiveness, and helps safeguard the nation's cyberinfrastructure by enabling seamless, secure collaboration among researchers and institutions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "wei",
+   "pi_last_name": "zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "wei zhang",
+   "pi_email_addr": "wei.13.zhang@uconn.edu",
+   "nsf_id": "000995529",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut",
+  "inst_street_address": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "inst_street_address_2": "",
+  "inst_city_name": "STORRS",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604863622",
+  "inst_zip_code": "062699018",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNTPS995QBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut",
+  "perf_str_addr": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "perf_city_name": "STORRS",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "062699018",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599999.0
+  }
+ ],
+ "por": null
+}

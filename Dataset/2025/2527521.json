@@ -1,0 +1,98 @@
+{
+ "awd_id": "2527521",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MCA: Network-based Tissue Modeling of Retinal Neurogenesis",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 355101.0,
+ "awd_amount": 355101.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "An award is made to Reed College to enable the development of computational tools that model complex tissue structures in the vertebrate eye. By combining advances in live imaging microscopy and computational image analysis, the project will generate graph-based models that capture patterns of cell organization in the developing zebrafish retina. The project will also create reproducible protocols for applying these tools to publicly-available imaging datasets, expanding access to scientists with limited imaging and compute resources. Broader impacts include new undergraduate educational opportunities in computational image analysis and a faculty mentoring network at predominantly undergraduate institutions (PUIs) to build capacity for undergraduate teaching and research at resource-limited institutions. The three-year peer mentoring network will foster professional development and resource sharing among PUI faculty, strengthening the nation\u2019s STEM workforce through expanded access to undergraduate computational biology training.\r\n\r\nThe project advances fundamental methods for analyzing complex tissues by integrating graph theory with high-resolution microscopy. While graphs have long been used in systems biology, their full potential has not been leveraged for modeling multi-cell patterns in tissue imaging. Further, neuronal tissues such as the eye complicate traditional modeling approaches due to elongated cell shapes. To address a need for models that reflect the spatial complexity of tissue, this project develops graph-based frameworks to analyze cell organization in the zebrafish retina. These frameworks extend graph algorithms to capture local patterns of cell types and model multi-cell interactions, offering more interpretable representations of tissue organization. Graph-based methods offer computationally efficient alternatives to deep learning approaches and have the potential to generalize to other sensory systems. This project will bridge developmental biology and computer science, offering new perspectives on tissue organization and growth across multiple scales.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anna",
+   "pi_last_name": "Ritz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anna Ritz",
+   "pi_email_addr": "aritz@reed.edu",
+   "nsf_id": "000695042",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Reed College",
+  "inst_street_address": "3203 SE WOODSTOCK BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5037711112",
+  "inst_zip_code": "972028138",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OR03",
+  "org_lgl_bus_name": "THE REED INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CMNJCKH6LTK6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Reed College",
+  "perf_str_addr": "3203 SE WOODSTOCK BLVD",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972028138",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OR03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "101Z",
+   "pgm_ref_txt": "MCA-Mid-Career Advancement"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 355101.0
+  }
+ ],
+ "por": null
+}

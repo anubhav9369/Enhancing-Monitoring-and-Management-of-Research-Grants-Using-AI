@@ -1,0 +1,106 @@
+{
+ "awd_id": "2527265",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "BRITE Pivot: DEMIAN - Discrete Element Method Infused with Artificial Neural computations",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922339",
+ "po_email": "gibiscon@nsf.gov",
+ "po_sign_block_name": "Giovanna Biscontin",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 593248.0,
+ "awd_amount": 593248.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "This BRITE Pivot award supports research to enable high-fidelity computer simulations of granular materials with unprecedented scalability and efficiency by fundamentally reimagining the discrete element method (DEM). Granular materials \u2013 spanning soil and powders to lithium-ion battery particles \u2013 are central to many natural and engineered systems. DEM has become an essential tool across disciplines for modeling granular materials, offering critical insight into how microscopic interactions among individual particles translate into the macroscopic behavior of granular systems. It effectively bridges particle-scale mechanisms and bulk material response. However, for nearly five decades since its inception, prohibitively high computational costs have constrained the scale and duration of DEM simulations. This research addresses the long-standing challenges by eliminating key computational bottlenecks, aiming to enable real-time, large-scale simulations on standard computing platforms. These advances will broaden access to particle-scale modeling and accelerate discovery across civil and natural hazards engineering, mechanical and materials science, energy systems, additive manufacturing, and other fields where granular materials are central. The outcomes will advance fundamental scientific understanding, improve predictive capabilities in engineering, and enhance the performance and resilience of complex particulate systems.\r\n\r\nTo achieve this, the project introduces a novel computational framework that integrates artificial neural computations into DEM, enabling simulation speeds five orders of magnitude faster than conventional techniques. This approach will support real-time simulation of systems with up to a hundred million sand-sized particles. The framework, termed DEMIAN (Discrete Element Method Infused with Artificial Neural computations), is built upon four key innovations: a perturbation network for estimating long-range particle interactions with reduced computational overhead; a particle geometry space representation that efficiently encodes various particle shapes and sizes; an on-demand contact force strategy that avoids costly per-timestep updates; and optimized floating-point operations to accelerate computation and reduce memory usage while maintaining simulation fidelity. Training data will be generated using an impulse-based DEM approach that has already shown significant performance gains over conventional approaches. Together, this research will define a new standard for high-speed, high-fidelity, and large-scale simulations in granular materials research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Seung Jae",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seung Jae Lee",
+   "pi_email_addr": "sjlee@fiu.edu",
+   "nsf_id": "000690087",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida International University",
+  "inst_street_address": "11200 SW 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MIAMI",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3053482494",
+  "inst_zip_code": "331992516",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "FL26",
+  "org_lgl_bus_name": "FLORIDA INTERNATIONAL UNIVERSITY",
+  "org_prnt_uei_num": "Q3KCVK5S9CP1",
+  "org_uei_num": "Q3KCVK5S9CP1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida International University",
+  "perf_str_addr": "11200 SW 8TH ST",
+  "perf_city_name": "MIAMI",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "331992516",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "FL26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  },
+  {
+   "pgm_ele_code": "192Y00",
+   "pgm_ele_name": "BRITE-BoostRschIdeasTransEquit"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "037E",
+   "pgm_ref_txt": "GEOTECHNICAL ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "172E",
+   "pgm_ref_txt": "Geomechanics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 593248.0
+  }
+ ],
+ "por": null
+}

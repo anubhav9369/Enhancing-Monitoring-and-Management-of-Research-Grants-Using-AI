@@ -1,0 +1,110 @@
+{
+ "awd_id": "2513282",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Framework: QUACS - Quick Updates to Aerosol and Chemistry Systems for Next Generation Multi-Scale Models",
+ "cfda_num": "47.050, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 740515.0,
+ "awd_amount": 740515.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Understanding and predicting air quality and how chemicals move and change in the atmosphere is important for protecting public health, supporting agriculture and energy systems, improving weather forecasts, and shaping environmental policies. To do this effectively,  advanced computer models are needed that can connect atmospheric and chemical processes from local to global scales, while also making it easier for scientists to test new ideas, compare results, and work together. This project develops CheMPAS-A, a new atmospheric chemistry modeling system that incorporates additional chemistry features into a modern global weather model, the Model for Prediction Across Scales-Atmosphere (MPAS-A), and provides a seamless framework for simulating atmospheric chemistry from global to local scales. A key part of CheMPAS-A is a flexible, easy-to-use coding system that helps researchers quickly explore, test, and improve how atmospheric chemistry is represented, making science faster and more collaborative. By encouraging shared development, utilizing up-to-date software practices, and helping to train future scientists, CheMPAS-A transforms individual research into tools and knowledge that benefit both science and society. \r\n\r\nThis project tackles two critical cyberinfrastructure challenges in atmospheric chemistry modeling: (1) creating stable, portable, high-performance, and user-friendly modeling software, and (2) developing an efficient, sustainable framework for integrating new scientific processes and algorithms. The project augments MPAS-A with a stable and functional chemistry capability by integrating the Multi-Scale Infrastructure for Chemistry and Aerosols (MUSICA) library. An innovative scripting capability called QUACS or Quick Updates to Aerosol and Chemistry Systems for Next Generation Multi-Scale Models enables the integration of custom parameterizations through a high-level, open-source, and globally used scripting language. QUACS empowers domain specialists and students to innovate. Enhanced configuration options and pre- and post-processing tools further improve flexibility and accessibility without compromising core stability. The outcome of this work is designed to accelerate scientific advancements and sustain scientific innovation in atmospheric chemistry modeling. \r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Atmospheric and Geospace Sciences and the Division of Research, Innovation, Synergies, and Education in the Directorate for Geosciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cheng-Hsuan",
+   "pi_last_name": "Lu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cheng-Hsuan Lu",
+   "pi_email_addr": "clu4@albany.edu",
+   "nsf_id": "000842579",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Albany",
+  "inst_street_address": "1400 WASHINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ALBANY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5184374974",
+  "inst_zip_code": "122220100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE",
+  "org_prnt_uei_num": "NHH3T1Z96H29",
+  "org_uei_num": "NHH3T1Z96H29"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University at Albany",
+  "perf_str_addr": "1400 WASHINGTON AVE",
+  "perf_city_name": "ALBANY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "122220100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152400",
+   "pgm_ele_name": "Atmospheric Chemistry"
+  },
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 740515.0
+  }
+ ],
+ "por": null
+}

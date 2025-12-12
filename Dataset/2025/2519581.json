@@ -1,0 +1,110 @@
+{
+ "awd_id": "2519581",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Private Blockchain-Enabled Federated Learning Framework for Distributed Manufacturing Networks",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 299999.0,
+ "awd_amount": 250924.0,
+ "awd_min_amd_letter_date": "2025-02-04",
+ "awd_max_amd_letter_date": "2025-02-04",
+ "awd_abstract_narration": "In recent years, global manufacturing networks experienced a variety of shocks and disturbances including COVID-19. Thus, improving network resiliency, transparency, and cybersecurity have emerged as a national priority. Smart Manufacturing technologies such as Artificial Intelligence and Machine Learning show promise in achieving these objectives, yet struggle to materialize at the manufacturing network level. Particularly small and medium-sized manufacturers struggle in their adoption of these data-driven, value added technologies due to a lack of resources and incentives. Consequently, they cannot participate in many high-value manufacturing networks that often require certain technologies and data sharing. This EArly-concept Grant for Exploratory Research (EAGER) project supports research that intends to address this challenge through a Blockchain-enabled framework that leverages secure and private Federated Learning which meets the unique requirements of defense manufacturing networks. This framework enhances the availability and integrity of critical supplies, as well as strengthens and diversifies the defense industrial base. The project\u2019s secure and privacy-preserving data sharing and collaboration mechanisms can be applied in various domains beyond manufacturing, such as healthcare, finance, and supply chain, empowering individuals and organizations to share data securely and collaborate effectively. The results have potential to transform industry, drive economic growth, foster innovation, and enhance societal well-being. \r\n\r\nThe project\u2019s research problem stems from manufacturing networks\u2019 inability to securely and efficiently exchange data and leverage network level Federated Learning. The project aims to increase the resiliency of distributed and dynamic manufacturing networks, specifically including small and medium-sized manufacturers, by providing access to a secure private Blockchain platform that enables decentralized, secure, and transparent communication channels. This enables manufacturing network level learning through Federated Learning while respecting data ownership and ensuring retention of competitive or controlled (raw) data and machine learning models. To achieve these goals, the project utilizes Federated Learning by integrating a private Blockchain to manage metadata, access controls, and model updates. Unlike existing approaches, the framework focuses on specific challenges and requirements of manufacturing networks. This means ensuring confidential data remains local under full control of the individual nodes while leveraging Blockchain for efficient coordination of the Federated Learning process as well as reducing overhead cost for smaller network participants that are resource constraint. The project advances the state-of-the-art in Federated Learning and Blockchain technology through efficient algorithms for model aggregation and coordination in the presence of heterogeneous data for manufacturing networks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thorsten",
+   "pi_last_name": "Wuest",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thorsten Wuest",
+   "pi_email_addr": "twuest@mailbox.sc.edu",
+   "nsf_id": "000712226",
+   "pi_start_date": "2025-02-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Carolina at Columbia",
+  "inst_street_address": "1600 HAMPTON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8037777093",
+  "inst_zip_code": "292083403",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "SC06",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH CAROLINA",
+  "org_prnt_uei_num": "Q93ZDA59ZAR5",
+  "org_uei_num": "J22LNTMEDP73"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of South Carolina at Columbia",
+  "perf_str_addr": "1600 HAMPTON ST",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "292083403",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "SC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "229Y00",
+   "pgm_ele_name": "MSI-Manufacturing Systms Integ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "016Z",
+   "pgm_ref_txt": "Cybermanufacturing Systems"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 250924.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451734",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SHF: Abstract Interpretation of Probabilistic Programs",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 145557.0,
+ "awd_amount": 145557.0,
+ "awd_min_amd_letter_date": "2025-01-07",
+ "awd_max_amd_letter_date": "2025-01-07",
+ "awd_abstract_narration": "This project aims to improve the practice of verifying probabilistic programs. Probabilistic programs are a way of capturing randomized behavior using the same kinds of structures we use for regular programming. This kind of randomness is a key component of many machine learning algorithms, so probabilistic programs are an important tool for building safer, more robust machine learning systems. However, techniques for verifying that probabilistic programs behave safely are under-studied compared to traditional deterministic programs. This project's novelties are improved tools for verification of probabilistic programs, allowing more properties to be verified for a larger set of programs. This project's impacts are improved safety and reliability for systems which include probabilistic programs and ultimately for systems with machine learning components. The project will support student learning by providing the undergraduate students working in the project with high-demand skills such as software verification.\r\n\r\nConcretely, this project builds on the framework of abstract interpretation, an existing methodology for verifying traditional programs. While there has been some work in extending abstract interpretation to probabilistic programs, that work has various drawbacks making it infeasible for analyzing complex programs. This project will develop novel abstract domains for verifying programs with complex, continuous probability distributions modeled by traditional programming constructs. Such problems arise naturally in (for example) continuous control settings. The project aims to equip these domains with the order-theoretic operators required to handle programs with unbounded loops.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gregory",
+   "pi_last_name": "Anderson",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gregory N Anderson",
+   "pi_email_addr": "grega@reed.edu",
+   "nsf_id": "000950192",
+   "pi_start_date": "2025-01-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Reed College",
+  "inst_street_address": "3203 SE WOODSTOCK BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5037711112",
+  "inst_zip_code": "972028138",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OR03",
+  "org_lgl_bus_name": "THE REED INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CMNJCKH6LTK6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Reed College",
+  "perf_str_addr": "3203 SE WOODSTOCK BLVD",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972028138",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OR03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 145557.0
+  }
+ ],
+ "por": null
+}

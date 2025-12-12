@@ -1,0 +1,118 @@
+{
+ "awd_id": "2527337",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "eMB: Data-driven prediction of phenotypic heterogeneity: from single-cells to populations",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924306",
+ "po_email": "vdinh@nsf.gov",
+ "po_sign_block_name": "Vu Dinh",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 517732.0,
+ "awd_amount": 517732.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "This research focuses on understanding how bacteria respond to antibiotics and investigates non-genetic differences\u2014such as variations in individual cells\u2019 growth rates\u2014that emerge under these conditions. Over the last century, it has become widely recognized that non-genetic variation is critical to understand, as it can influence the outcome of antimicrobial therapies and the evolution of antibiotic resistance. Moreover, it is deeply connected to fundamental questions about how cells grow and divide. The project combines cutting-edge experiments, where single-cells are imaged under varying conditions, with mathematical modeling to predict non-genetic differences in growth and biochemical composition of E. coli. These predictions will deepen our understanding of antibiotic resistance and microbial physiology while laying the foundation for broader efforts to combat drug resistance and improve treatment outcomes. The project is a collaboration between a mathematician and a microbiologist and will provide rich opportunities for undergraduate and graduate student training in quantitative biology.\r\n\r\nThis project develops predictive models that link single-cell gene expression and growth dynamics to population-level behavior in bacterial systems under antibiotic stress. Focusing on the tetracycline resistance operon in E. coli, the research integrates stochastic modeling of gene expression, growth, and size regulation with single-cell data from microfluidic experiments. Aim 1 models steady-state distributions under constant drug by combining structured population models with stochastic differential equations for growth-expression coupling. Aim 2 examines dynamic gene regulation and resource allocation following abrupt antibiotic exposure, using mechanistic models incorporating proteome partitioning constraints and regulatory interactions. Aim 3 links single-cell dynamics to population behavior via a model-agnostic estimator based on a Feynman-Kac-type duality between lineage and population distributions. A key novelty is the ability to predict delayed recovery and growth curves in liquid cultures solely from mother-machine data, without additional population-level fitting. This multi-scale framework addresses how selection acts on phenotypic distributions and tests the assumption that single-cell experiments reflect bulk behavior. The project also develops analytical and numerical tools (large deviation theory, extremal statistics, and spectral analysis of population operators) that are broadly applicable for understanding non-genetic variability in single cells. The PI and co-PI will be engaged in mentoring students and postdoctoral fellows supported by this grant, as well as  co-teach a course in quantitative biology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ethan",
+   "pi_last_name": "Levien",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ethan A Levien",
+   "pi_email_addr": "ethanlevien@gmail.com",
+   "nsf_id": "000788437",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Schultz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel Schultz",
+   "pi_email_addr": "daniel.schultz@dartmouth.edu",
+   "nsf_id": "000860528",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Dartmouth College",
+  "inst_street_address": "7 LEBANON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HANOVER",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6036463007",
+  "inst_zip_code": "037552170",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NH02",
+  "org_lgl_bus_name": "TRUSTEES OF DARTMOUTH COLLEGE",
+  "org_prnt_uei_num": "T4MWFG59C6R3",
+  "org_uei_num": "EB8ASJBCFER9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Dartmouth College",
+  "perf_str_addr": "7 LEBANON ST",
+  "perf_city_name": "HANOVER",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "037552170",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NH02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 517732.0
+  }
+ ],
+ "por": null
+}

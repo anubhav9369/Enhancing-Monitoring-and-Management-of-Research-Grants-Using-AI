@@ -1,0 +1,106 @@
+{
+ "awd_id": "2449506",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-SNSF: Scalable accelerated learning in continuous neuronal systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-02-24",
+ "awd_max_amd_letter_date": "2025-02-24",
+ "awd_abstract_narration": "Computer simulations are an essential part of modern scientific inquiry.  They allow detailed investigations of phenomena at time and\r\nlength scales difficult to observe directly.  In particular for complex systems such as the human brain, they have become\r\nindispensable for testing hypotheses and making predictions for experiments.  Cognitive phenomena such as learning and memory evolve\r\non timescales from minutes to years, while the underlying processes on the level of individual nerve cells involve milliseconds timing.\r\nBridging these timescales in computer simulations requires significant computational resources.  This project develops a new hardware system\r\nspecifically designed to meet the increasing computational demands arising for increasingly sophisticated multi-scale brain models.  This\r\nnew tool will both support fundamental neuroscience research and accelerate the translation of insights into biological computation\r\ninto novel computing devices for commercially relevant applications. While the project focuses on computational neuroscience models, the\r\nimplementation challenges and proposed solutions are applicable to the simulation of a broad class of dynamical systems such as power grids,\r\nfinancial markets, and epidemics.  Finally, this project will support the continuous development of open-source workflows for the design of\r\nasynchronous digital hardware.\r\n\r\nDespite tremendous progress in recent decades, the biophysical mechanisms and computational principles underlying memory and learning\r\nin the brain remain poorly understood.  Due to the complexity of biological systems and the difficulty in reproducibility (in the\r\nengineering sense) of results, researchers rely on computational models to test hypotheses and to make experimental predictions.\r\nModern models of neuronal computation and learning are formulated in continuous-time with continuous interactions, i.e., as systems of\r\nordinary differential equations.  Yet, these are a poor fit for existing accelerators which are optimized for either continuous time\r\nwith discrete (spiking) interactions or discrete time with continuous interactions.  A significant implementation challenge on the path to a\r\nscalable accelerator lies in efficient parallelization of the spatially discrete, non-locally and non-uniformly coupled systems of\r\nequations, in particular due to the communication requirements arising from continuous interactions in continuous time. To overcome these\r\nchallenges, we propose a convergent simulator architecture that can accelerate continuous-time models of learning using neuromorphic\r\nhardware principles.  On the algorithmic end, we exploit the insight that continuously interacting systems do not necessarily require dense\r\ncommunication, i.e., that communication in implementations of these dynamics can be both sparse and adaptive to computational demand.  The\r\nresulting algorithms are ideally suited for implementation in asynchronous digital hardware with fine-grained parallelism and share\r\nsimilarities with existing neuromorphic computing approaches.  To validate our approach and ensure its usefulness to the scientific\r\ncommunity, we create both an FPGA implementation and silicon prototype for a recently proposed cortical learning model and develop novel\r\nmodel variants for processing and learning across long time scales.\r\n\r\nThis collaborative U.S.-Swiss project is supported by the U.S. National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the U.S. investigator and SNSF funds the partners in Switzerland.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rajit",
+   "pi_last_name": "Manohar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rajit Manohar",
+   "pi_email_addr": "rajit.manohar@yale.edu",
+   "nsf_id": "000487009",
+   "pi_start_date": "2025-02-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Yale University",
+  "inst_street_address": "150 MUNSON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW HAVEN",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "2037854689",
+  "inst_zip_code": "065113572",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "CT03",
+  "org_lgl_bus_name": "YALE UNIV",
+  "org_prnt_uei_num": "FL6GV84CKN57",
+  "org_uei_num": "FL6GV84CKN57"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Yale University",
+  "perf_str_addr": "10 Hillhouse Avenue",
+  "perf_city_name": "NEW HAVEN",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "065208267",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "CT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "129Z",
+   "pgm_ref_txt": "U.S. NSF-Swiss Resrch Corp"
+  },
+  {
+   "pgm_ref_code": "5950",
+   "pgm_ref_txt": "SWITZERLAND"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

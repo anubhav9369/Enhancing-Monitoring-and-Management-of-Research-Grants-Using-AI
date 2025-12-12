@@ -1,0 +1,93 @@
+{
+ "awd_id": "2451736",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: CNS: Bringing Energy-Efficiency in Edge-Supported Systems for Delay-Sensitive Real-Time Cooperative Mobile Augmented Reality",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 149998.0,
+ "awd_amount": 149998.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Next-generation wireless networks are envisioned to be inundated with augmented reality (AR) applications (e.g., transportation, healthcare, industrial, and military surveillance applications), which leaves three crucial problems to solve: computation, mobility, and energy consumption. With recent advancements in edge computing, small devices with low computational ability can experience and exploit the dominance of artificial intelligence using wireless connectivity. However, mobility brings additional service migration and aggregation challenges, especially for low-latency cooperative mobile AR (MAR) applications. For instance, in critical vehicular scenarios, high-speed mobility can cause delayed or mismatched detection of pedestrians or other objects, leading to fatal accidents. In addition, devices with mobility are equipped with fixed capacity energy storages that must be utilized efficiently so that the high energy consumption does not affect the overall Quality-of-Service (QoS). Moreover, the non-linear discharge property of lithium-ion, the prevailing battery technology in mobile devices, puts additional obstacles in the way of achieving a satisfactory QoS. This QoS benchmark varies in different applications; for example, in the case of surveillance drones collecting critical infrastructure data, the QoS can be the accumulation of surveillance duration, image quality, transmission throughput, and detection accuracy. Nevertheless, the drones can suddenly quit the application due to a quick battery discharge. So far, existing research works do not address the service aggregation and non-linear battery discharge property in edge-assisted MAR. This project introduces these unique challenges in low-latency real-time cooperative edge-MAR and proposes novel approaches to solve these problems to bring energy efficiency to edge-assisted MAR systems. The initial study of this project indicates that the projected energy saving in edge-MAR can contribute vastly to national welfare and can be proven effective in national defense surveillance systems.\r\n\r\nThis project is the first to systematically address the edge-supported MAR QoS issue. The proposed designs aim to reduce latency, energy consumption, and offloaded data size without compromising service accuracy by efficiently using offloading decisions and faster service aggregation. This project aims to take a multifaceted approach to enhance the QoS of cooperative edge-MAR by designing (a) an intelligent offloading framework for real-time edge-MAR systems using reinforcement learning, (b) an LSTM-based efficient service aggregation algorithm for low-latency cooperative edge-MAR, and (c) a working prototype of the system and implementing the proof-of-concept on a physical testbed to test and evaluate the proposed system\u2019s performance. This project will form the foundation for experimental research that tackles emerging challenges in mobile AI and MAR technologies, reinforcing the nation\u2019s leadership in global scientific innovation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anik",
+   "pi_last_name": "Mallik",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anik Mallik",
+   "pi_email_addr": "amallik@towson.edu",
+   "nsf_id": "000935292",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Towson University",
+  "inst_street_address": "8000 YORK RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "TOWSON",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4107042236",
+  "inst_zip_code": "212520002",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MD02",
+  "org_lgl_bus_name": "TOWSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LC3SFMP2L798"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Towson University",
+  "perf_str_addr": "8000 YORK RD",
+  "perf_city_name": "TOWSON",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212520001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MD02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149998.0
+  }
+ ],
+ "por": null
+}

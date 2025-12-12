@@ -1,0 +1,110 @@
+{
+ "awd_id": "2513091",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Efficient and Power-Dense Modular Power Electronic Architecture for Utility-Scale DC-AC Conversion",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-08-31",
+ "tot_intn_awd_amt": 199296.0,
+ "awd_amount": 40461.0,
+ "awd_min_amd_letter_date": "2024-12-09",
+ "awd_max_amd_letter_date": "2024-12-09",
+ "awd_abstract_narration": "This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).\r\n\r\nAs a society striving towards a clean energy future, integration of renewable energy sources is considered increasingly essential. The U.S. Energy Information Administration projects the share of renewables in the U.S. electricity generation to increase from 19% in 2019 to 38% in 2050. Most of the growth is attributed to wind and solar, which will account for nearly 80% of the renewables total in 2050. Due to their intermittency, energy storage is becoming critical. Battery energy storage systems are one of the fastest growing energy storage technologies due to their high energy densities, efficiency, and low self-discharge. To interconnect the DC batteries with the AC utility grid, power electronic converters are necessary. Such converters require that their building blocks (semiconductor switches, inductors, and capacitors) be rated for utility-scale specifications. Current commercial implementations feature a two/three-level converter with a transformer for voltage step-up function. Transformers are bulky, lossy, and costly. In contrast to these solutions, modular electronic converters have improved scalability, fault-tolerance, and reliability. This project focuses on a transformative design of a fundamental building block module to build an innovative, efficient, and power-dense DC-AC modular topology suitable for a battery energy storage system. The innovative feature of the proposed module is the three-phase integrated design, which enables high-density and efficient power conversion. The project also facilitates the involvement of undergraduate and high-school students through the deployment of learning tools and summer programs in power conversion to engage students from underrepresented communities.\r\n\r\nExisting modular topologies suffer from poor power density and low efficiencies which stem from their inherent converter design. They require additional components such as filters and/or DC-DC converters to overcome the low-quality waveforms imposed by the converter action. Literature studies indicate that these components can occupy 40%-80% of the converter volume and contribute to 50%-75% of the converter losses. The use of filters requires bulky capacitors, which are considered the weakest link and are detrimental to the system\u2019s lifetime. The focal point of this project is the elimination of these components by focusing on an innovative design of the fundamental building block module. The first thrust of the project will aim to establish the fundamental and analytical theory of the proposed design including dynamic and steady-state models. These models will lay the groundwork to develop robust modulation and control methods for battery energy storage systems. Using the results from the first thrust, the project will deliver a laboratory-scale working prototype that demonstrates the highly scalable and modular design features. Further, the results will deliver detailed comparative studies to quantify the expected qualitative benefits in terms of efficiency and power density. The aim of the work is to lay the foundation of future ultra-dense and efficient class of modular power electronic converters.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mahima",
+   "pi_last_name": "Gupta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahima Gupta",
+   "pi_email_addr": "mahima@pdx.edu",
+   "nsf_id": "000856824",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "097E",
+   "pgm_ref_txt": "High Freq Devices & Circuits"
+  },
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  },
+  {
+   "pgm_ref_code": "102Z",
+   "pgm_ref_txt": "COVID-Disproportionate Impcts Inst-Indiv"
+  },
+  {
+   "pgm_ref_code": "7607",
+   "pgm_ref_txt": "POWER, CONTROLS & ADAPTIVE NET"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "010V2122DB",
+   "fund_name": "R&RA ARP Act DEFC V",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 40461.0
+  }
+ ],
+ "por": null
+}

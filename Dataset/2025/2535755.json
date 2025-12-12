@@ -1,0 +1,93 @@
+{
+ "awd_id": "2535755",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Slopes of Modular Forms and Moduli Stacks of Galois Representations",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922467",
+ "po_email": "mdouglas@nsf.gov",
+ "po_sign_block_name": "James Matthew Douglass",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 194997.0,
+ "awd_amount": 70389.0,
+ "awd_min_amd_letter_date": "2025-06-27",
+ "awd_max_amd_letter_date": "2025-06-27",
+ "awd_abstract_narration": "Whole numbers are among the most practical and most important mathematical objects. Humans have studied them for millennia. Number theory aims to understand patterns possessed by whole numbers. Fundamental questions revolve around multiplication: how often are numbers in some sequence even (i.e. divisible by two)? Divisible by three? Or five? Nineteenth century researchers introduced symmetry actions to reveal hidden patterns in numbers. And, in the 1970's, Robert Langlands made far-reaching conjectures on symmetry. These conjectures have occupied number theorists ever since. They predict patterns seen by symmetry actions will arise equally from the calculus of complex numbers (\"modular forms\"). A pattern appearing in two places is an example of a mathematical reciprocity. This project will refine Langlands' reciprocity prediction. The new tool is geometric spaces of symmetry actions, constructed by Emerton and Gee over the past fifteen years. These spaces are believed to convert reciprocity questions into geometrical ones. This project establishes instances of this belief. It will connect divisibility patterns from the world of modular forms to geometrical theorems on Emerton and Gee's spaces. The project has substantial broader impacts. Computational data will be included in the widely-used L-functions and Modular Forms Database. The project also develops computational tools for teaching. Open education resources (OERs) are learning materials placed in the public domain. Their primary benefit is providing learning experiences at low costs. They can be adapted to fit a diversity of learning environments. The project develops OERs for computer-based learning of number theory and abstract algebra. The project supports education and outreach in two more ways. First, Math Circles will be run in public schools. Second, research projects will be developed to support the Program in Mathematics for Young Scientists. Finally, the project plans two research workshops in number theory. Both aim to disseminate new advances in number theory and reciprocity. \r\n\r\nThe more detailed aim is a new study of p-adic slopes of modular forms and Galois representations. The p-adic slope of a modular form is how often its p-th Hecke eigenvalue is divisible by a fixed prime p. Predictions and theorems on slopes have been around since the 1980's. Seven years ago, Bergdall and Pollack proposed a way (\"the ghost conjecture\") to unify almost all prior ideas. The ghost conjecture's input is a congruence class of modular forms. The output is an elementary recipe for slopes in the class. The main caveat is the ghost conjecture only applies to \"regular\" classes. But, assuming regularity, Liu, Truong, Xiao, and Zhao (LTXZ) recently established the conjecture. The current project removes the regular assumption in the ghost conjecture. The new tool is Emerton and Gee's (EG) moduli stack of Galois representations. In Galois terms, regularity is a generic property on the EG stack. The project's technical innovation is thus deforming slope questions over the stack. A geometrical reformulation will open the door to generalizing the LTXZ proof. It will also create space for novel studies of Hilbert modular forms or higher rank automorphic forms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Pollack",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robert J Pollack",
+   "pi_email_addr": "rpollack@arizona.edu",
+   "nsf_id": "000180671",
+   "pi_start_date": "2025-06-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "845 N PARK AVE RM 538",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "85721",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126400",
+   "pgm_ele_name": "ALGEBRA,NUMBER THEORY,AND COM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 70389.0
+  }
+ ],
+ "por": null
+}

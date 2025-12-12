@@ -1,0 +1,114 @@
+{
+ "awd_id": "2511697",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Advancing Adaptive Optics into the Visible for Black Hole Science",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032922686",
+ "po_email": "mbershad@nsf.gov",
+ "po_sign_block_name": "Matthew Bershady",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 678244.0,
+ "awd_amount": 678244.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "The investigators will perform an in-depth study of the Adaptive Optics (AO) system error budget for the W. M. Keck Observatory, laying the ground-work to achieve three-times sharper images in visible light than what is currently possible at infrared wavelengths even from existing space-based telescopes. To do so they will develop a high-fidelity numerical simulation of this system that accounts for small hardware and software calibration errors that have little impact in the infrared but significantly degrade visible image quality. This AO \u201cdigital twin\u201d will establish the limits of existing AO systems and predict the image quality and science yield of future systems. Sharper, visible-light images will lead to discoveries, e.g., enabling future instruments that astronomers can use to find and weigh stellar-mass black holes in the Milky Way and understand the interplay between supermassive black holes and their environment. Lessons learned from the Keck AO system are applicable to a wide range of astronomical facilities, including planned extremely large telescopes. A web-based calculator will be created that will use the digital twin to predict visible-light performance for different AO system design choices.\r\n\r\nThe goal of this investigation is to deepen our understanding of the limitations to achieving diffraction-limited performance at visible wavelengths with a high sky-coverage, laser-guided AO systems. Keck Observatory is the ideal laboratory to pursue this investigation because of two new systems under development \u2013 the KAPA laser tomography AO system on Keck I and the HAKA high-order AO system on Keck II. The investigators will characterize the sources of wavefront error in the KAPA and HAKA AO systems and apply this knowledge to develop a realistic wavefront error budget and simulation package for future visible AO systems. In so doing, they will enable near-term image quality improvements in these AO systems to benefit today\u2019s IR science programs. The error budget and simulations will be made available in the calculator described above, which will enable the user to adjust system architectures and determine resulting system performance changes. This calculator will be very beneficial for education as it allows students to explore parameter spaces and quickly see the impact on image quality and sharpness. The complexity of AO system design makes such a tool especially valuable.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jessica",
+   "pi_last_name": "Lu",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jessica R Lu",
+   "pi_email_addr": "jlu.astro@berkeley.edu",
+   "nsf_id": "000079275",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Antonin",
+   "pi_last_name": "Bouchez",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Antonin H Bouchez",
+   "pi_email_addr": "abouchez@keck.hawaii.edu",
+   "nsf_id": "000984749",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121800",
+   "pgm_ele_name": "ADVANCED TECHNOLOGIES & INSTRM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "7697",
+   "pgm_ref_txt": "INSTRUMENTATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 678244.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2509217",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRCNS Research Proposal: Measuring and modeling the biological intelligence advantage",
+ "cfda_num": "47.070, 47.074, 47.075",
+ "org_code": "05020000",
+ "po_phone": "7032928167",
+ "po_email": "ethiels@nsf.gov",
+ "po_sign_block_name": "Edda Thiels",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "As promising as recent artificial intelligence (AI) advances have been, there are still many areas where it falls short. In those areas where it does well, training is slow and requires an unsustainable amount of energy. This has been measured using video games. Humans are able to play these games well after only a few tries, while AI systems require hundreds of thousands to millions of exposures to achieve the same performance. Here, a team of Northwestern University researchers investigate how an animal's ability to complement experience with the use of something similar to imagination underlies the biological learning advantage. In one phase of the work, first-of-its-kind experiments are done with animals evading an autonomous robot threat while large numbers of brain cells are being monitored to decode how the brain is using imagination during avoidance of the robot. In another phase, state of the art methods in machine learning are used to compare to animal performance, while simultaneously building new AI technology to capture the high efficiency learning the researchers observe in biology. With the anticipated need for electricity to fuel AI significantly outpacing infrastructure to provide it, breakthroughs in closing the gap between the energy efficiency of animal intelligence and inefficiency of machine intelligence will be critical to maintain US technological leadership in the coming decades.\r\n\r\nLeading reinforcement learning algorithms tackle learning using either an explicit model of world (model-based) or use model free methods. Model-based methods appear to perform better in nonstationary environments with partial observability, which is the hallmark of naturalistic scenarios that animal brains have evolved to rapidly master for the sake of survival. Both approaches, however, suffer significant sample efficiency issues. A perspective is emerging that model-based methods may be best for the learning phase to help with sample efficiency, based on results with muZero and with Dreamer v3. At the same time, non-local activity of the hippocampus may be a nexus of memory, planning, and learning, in a manner that suggests a convergent result across artificial and biological systems, where Dyna-style virtual learning substitutes for trial and error in the real world. This perspective, however, leaves open how decision-time planning, in contrast to background planning, finds its niche. The present investigators test the hypothesis that the niche is characterized by high stake contests where partial observability and nonstationarity combine to prevent background planning from being an adaptive strategy.\r\n\r\nThis project is supported jointly by the Neural Systems Cluster in the Directorate for Biological Sciences and the Cognitive Neuroscience Program in the Division of Behavioral and Cognitive Sciences of the Directorate for Social, Behavioral and Economic Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Malcolm",
+   "pi_last_name": "MacIver",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Malcolm A MacIver",
+   "pi_email_addr": "maciver@northwestern.edu",
+   "nsf_id": "000286882",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Dombeck",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel A Dombeck",
+   "pi_email_addr": "d-dombeck@northwestern.edu",
+   "nsf_id": "000611504",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Bradly",
+   "pi_last_name": "Stadie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bradly Stadie",
+   "pi_email_addr": "bradly.stadie@northwestern.edu",
+   "nsf_id": "000978617",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University at Chicago",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "KG76WYENL5K1",
+  "org_uei_num": "KG76WYENL5K1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University at Chicago",
+  "perf_str_addr": "633 CLARK ST",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "732700",
+   "pgm_ele_name": "CRCNS-Computation Neuroscience"
+  },
+  {
+   "pgm_ele_code": "771400",
+   "pgm_ele_name": "Modulation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8091",
+   "pgm_ref_txt": "BRAIN Initiative Res Support"
+  },
+  {
+   "pgm_ref_code": "7327",
+   "pgm_ref_txt": "CRCNS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

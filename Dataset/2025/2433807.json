@@ -1,0 +1,130 @@
+{
+ "awd_id": "2433807",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Probabilistic Computing for Next Generation Spectrum Access",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 754541.0,
+ "awd_amount": 754541.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Next generation spectrum access will require accommodating an ever-growing number of devices within the limited amounts of useable radio spectrum. Efficiently allocating spectrum to these devices is often expressed as an optimization problem which can be computationally very difficult to solve. This challenge is exacerbated when the external conditions (e.g., number of connected devices, presence of interference sources, and other parameters) change in real time, thus necessitating a fast solution to the spectrum allocation problem than can easily adapt to these changes. Existing software-based methods for spectrum allocation, which run on generic computing hardware, face significant difficulty in tackling such scenarios. We are developing custom-designed hardware in the form of application-specific integrated circuit (ASIC) chips, along with the appropriate algorithms, in order to accelerate the solution of these increasingly important optimization problems. This project is contributing to the continued U.S. leadership in wireless communications infrastructure, as well as its foundations in microelectronic hardware and advanced optimization algorithms. It also is contributing to U.S. workforce development, through outreach to K-12 students, involvement and training of graduate students, and integration of the research results into courses.\r\n\r\nThis project is utilizing spectrum consumption models (SCMs) to enable devices to share their spectrum needs on finer spatial and temporal scales than possible today. Given this collected data, new algorithms for spectrum assignment are being developed that account for a rich set of priorities, aggregate interference, and temporal dynamics. Probabilistic computing hardware is being developed to accelerate the implementation of these algorithms and enable them to scale to a large number of devices. The hardware consists of programmable probabilistic computing solvers in the form of custom-designed ASICs, which are being fabricated through a commercial foundry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Randall",
+   "pi_last_name": "Berry",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Randall A Berry",
+   "pi_email_addr": "rberry@northwestern.edu",
+   "nsf_id": "000303704",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Pedram",
+   "pi_last_name": "Khalili Amiri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pedram Khalili Amiri",
+   "pi_email_addr": "pedram@northwestern.edu",
+   "nsf_id": "000622476",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Igor",
+   "pi_last_name": "Kadota",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Igor Kadota",
+   "pi_email_addr": "kadota@northwestern.edu",
+   "nsf_id": "000860120",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EXZVPWZBLUE8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "2145 Sheridan Road",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602083112",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  },
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 754541.0
+  }
+ ],
+ "por": null
+}

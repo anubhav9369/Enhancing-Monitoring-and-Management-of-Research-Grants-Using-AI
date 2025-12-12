@@ -1,0 +1,114 @@
+{
+ "awd_id": "2509873",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Kinetic Sunyaev-Zeldovich Velocity Reconstruction with the Simons Observatory",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032925387",
+ "po_email": "aberlind@nsf.gov",
+ "po_sign_block_name": "ANDREAS BERLIND",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 510140.0,
+ "awd_amount": 510140.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Cosmological observations provide a unique window into the fundamental physics of the primordial universe. This project, led by a team at the University of Wisconsin, Madison, will make use of two major upcoming experiments, the Simons Observatory for the Cosmic Microwave Background and the Rubin Observatory for the distribution of galaxies, and combine them in a novel way. The team will cross-correlate these two data sets using an innovative method that illuminates how matter moves in the universe. This measurement can uncover the fundamental physics of cosmological inflation, the earliest known epoch in the evolution of the universe. To make this analysis possible, the team will generate very fast simulations, which are required to test the data analysis pipeline to the required precision. The project also explores the use of machine learning methods to enhance the sensitivity of the proposed analysis. As part of this project, the team will provide research experiences and develop research-based curricula for high school students and undergraduate students.\r\n\r\nThe goal of this project is to develop a data analysis pipeline for kinetic Sunyaev-Zeldovich (kSZ) velocity reconstruction and apply it to Simons Observatory (SO) and Vera C. Rubin data. Before SO data becomes available, the team will apply their pipeline to existing Stage-3 data from ACT and the photometric DESI Legacy Survey. KSZ velocity reconstruction has the exciting property that it can be used to infer a map of the 3-dimensional radial density distribution of the universe, which will have lower noise than the Rubin Observatory galaxy density map itself on large scales. Due to its low noise, the reconstructed density map can be used to measure primordial non-Gaussianity very precisely and will potentially set the tightest constraint to date on local non-Gaussianity. To make this measurement possible, the team will develop a novel set of very fast approximate light-cone simulations based on perturbative matter dynamics and stochastic sampling of galaxies. These simulations will be important for correcting systematic biases in CMB-galaxy cross-correlation analyses with unprecedented precision. This research award is partially funded by a generous gift from Charles Simonyi to the NSF Astronomy division. The project includes significant contributions to Vera C. Rubin Observatory\u2019s Legacy Survey of Space and Time.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Moritz",
+   "pi_last_name": "Muenchmeyer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Moritz Muenchmeyer",
+   "pi_email_addr": "muenchmeyer@wisc.edu",
+   "nsf_id": "000839352",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  },
+  {
+   "pgm_ele_code": "228Y00",
+   "pgm_ele_name": "Simonyi-NSF Scholars"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082CYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 510140.0
+  }
+ ],
+ "por": null
+}

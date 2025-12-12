@@ -1,0 +1,106 @@
+{
+ "awd_id": "2441184",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Novel Neural Network Architectures Inspired by Optimization Algorithms",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927258",
+ "po_email": "rramacha@nsf.gov",
+ "po_sign_block_name": "Rohit Ramachandran",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 393194.0,
+ "awd_min_amd_letter_date": "2024-12-12",
+ "awd_max_amd_letter_date": "2024-12-12",
+ "awd_abstract_narration": "Machine learning, particularly through deep neural networks, has revolutionized society, transforming fields such as computer vision and natural language processing and profoundly impacting daily life. In chemical engineering and process systems engineering (PSE), neural networks have made significant contributions across various scales\u2014from designing new molecules for drug discovery to simulating chemical plant operations. However, a key limitation remains: the \u201cblack-box\u201d nature of these models makes them difficult to interpret, often resulting in outputs that do not adhere to essential physical laws. This lack of reliability is especially concerning in safety-critical applications like process design and control, where compliance with strict physical constraints is crucial. To address this, a promising solution called physics-informed neural networks (PINNs) has emerged, embedding physical laws within neural networks to improve their accuracy and reliability. Still, PINNs have limitations, particularly in enforcing nonlinear and logical constraints that are common in PSE. This project proposes developing optimization-inspired neural networks (OINNs), a new class of neural architectures that integrate optimization principles to rigorously enforce physical and logical constraints. This approach not only enhances model reliability but also aims to broaden the utility of machine learning in engineering and beyond. In addition to the scientific advancements, the project includes educational initiatives to equip the next generation of chemical engineers with foundational AI and optimization skills. The Principal Investigator (PI) will redesign an existing data science course at Purdue University, emphasizing AI's role in engineering and integrating machine learning with core chemical engineering principles. The PI will recruit undergraduate researchers through the Research Experiences for Undergraduates (REU) program. Moreover, the PI will engage K-12 educators and students through outreach programs, including the development of a video game and working with K-12 teachers. These activities aim to broaden public understanding of engineering and inspire diverse young learners to explore STEM fields.\r\n\r\nThis project proposes the development of optimization-inspired neural networks (OINNs) that incorporate strict, physically meaningful constraints directly within their architecture. These networks will be designed to address limitations of physics-informed neural networks (PINNs), which often rely on \u201csoft constraints\u201d that do not rigorously enforce physical laws and may not be suitable for safety-critical applications. The OINN architecture integrates optimization theory, enabling strict adherence to both linear and nonlinear constraints, as well as embedding domain-specific knowledge and accommodating uncertainties in parameters. To achieve these goals, the research will leverage optimization techniques from linear programming, conic programming, and mixed-integer programming to build layers that represent various physical and logical constraints. The OINN framework will be benchmarked against PINNs and other models in process design, process control, and chemical structure prediction, assessing improvements in prediction accuracy, interpretability, and constraint satisfaction. Through this approach, the project aims to establish a new approach for reliable and explainable machine learning models in process systems engineering.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Can",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Can Li",
+   "pi_email_addr": "canli@purdue.edu",
+   "nsf_id": "000917264",
+   "pi_start_date": "2024-12-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140300",
+   "pgm_ele_name": "Proc Sys, Reac Eng & Mol Therm"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 393194.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2502117",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Deep Analytics Framework for Location Integrity and Awareness for Reliable UAV-assisted Operations",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 198583.0,
+ "awd_amount": 198583.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Unmanned aerial vehicles (UAVs) play a crucial role in various applications, including agriculture, disaster management, and military purposes, where location integrity and awareness are essential. However, current methods relying on GPS signals face challenges in extreme conditions, such as signal unavailability or compromise. To address this limitation, this project investigates a trajectory-based analysis, inspired by the nautical practice of \"dead reckoning,\" which estimates the position of a moving object based on its movement information, including previous position, velocity, direction, and elapsed time. This approach is modeled as a time-series problem, utilizing deep sequence models to learn temporal patterns and interdependencies, offering a complementary solution to existing GPS-based methods that can work effectively in challenging circumstances, such as limited GPS availability, software malfunctions, and emerging attacks, thereby enhancing the security and reliability of UAV operations. This project contributes to empowering UAV-assisted designs in various research sectors, such as cellular-connected UAVs, the Internet of Drones, and Flying Ad-hoc Networks (FANETs). Additionally, this project supports students in gaining AI/ML skills and workforce development through reinforced educational programs and research activities.\r\n\r\nThis project aims to develop a deep analytics framework that offers core functionality for location integrity and awareness based on trajectory-based analysis using machine intelligence, enhancing reliability in UAV-aided services and applications. The key innovation in this project is the movement-based validation and estimation of the present coordinate (even without any GPS information), which is achieved with architectural designs that handle a sequence of flight observations to instantiate trajectory-based analysis and one-class learning that creates deep sequence models using normal flight observations, given the scarcity of abnormal data containing inconsistent location information. Specifically, the framework fulfills its functionality through the following key components: (1) By capturing salient characteristics of sequenced flight data, the framework tracks aerial vehicles across the flight path based on movement information, such as coordinate and velocity, without depending on positioning signal-related attributes (e.g., noise and jamming indication); (2) The framework enhances model accuracy through state-of-the-art learning methods, including attention-enabled Transformer models with their expressivity and encoding mechanisms; (3) The framework extends deep sequence models to support integrity checks based on profiling and generative methods, addressing the challenge of scarce abnormal data since collecting data samples under attacks or unfavorable situations is challenging; (4) The models are also extended to offer position estimation capabilities using a regression-based approach, which aims to minimize the discrepancy between predicted and actual positions; and (5) The framework transforms the deep sequence models into lightweight equivalents to effectively support deep inference on UAVs with recourse-constrained AI engines.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jinoh",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jinoh Kim",
+   "pi_email_addr": "Jinoh.Kim@tamuc.edu",
+   "nsf_id": "000672490",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "EAST TEXAS A&M UNIVERSITY",
+  "inst_street_address": "2600 W NEAL ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "COMMERCE",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9038865964",
+  "inst_zip_code": "754284311",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "TX03",
+  "org_lgl_bus_name": "EAST TEXAS A&M UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "FRCKHD9EKUY9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M University-Commerce",
+  "perf_str_addr": "2600 W NEAL ST",
+  "perf_city_name": "COMMERCE",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "754284311",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "TX03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 198583.0
+  }
+ ],
+ "por": null
+}

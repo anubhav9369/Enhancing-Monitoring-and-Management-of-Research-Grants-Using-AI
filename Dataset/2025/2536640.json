@@ -1,0 +1,102 @@
+{
+ "awd_id": "2536640",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Metamorphic Debugging for Responsible AI-Software Development",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 528319.0,
+ "awd_amount": 528319.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "With artificial intelligence (AI) increasingly embedded into critical software systems\u2014from healthcare to defense applications\u2014ensuring these AI-enabled software solutions (a.k.a. AI-Software) meet comprehensive responsibility standards has emerged as a pivotal challenge. Traditional software debugging methods, centered around identifying and rectifying defects, fall short in addressing the unique nature of AI-software. This project seeks to develop novel, principled debugging techniques specifically designed to detect and resolve responsibility - that is, issues related to transparency, accountability, and impartiality - before AI-software is deployed publicly. The project also includes education-related activities, where results from the research will contribute to the computing curriculum expansion. \r\n\r\nThe project proposes the development and evaluation of a transformative debugging framework tailored to AI-software, which incorporates pre-trained deep neural networks and large language models during execution. At the core of this framework is the novel concept of metamorphic debugging, which explores the intersection of metamorphic testing - a method analyzing output variations caused by structured input changes - and relational verification across three dimensions: causality, information theory, and extreme value theory. Unlike conventional debugging, which inspects single program executions independently, metamorphic debugging simultaneously examines relationships across multiple program-runs to uncover nuanced requirement violations. The research will include creating methods for generating intuitive test cases sensitive to causal relationships, developing techniques for elucidating higher-order relations among multiple execution traces, and applying statistical approaches to rigorously assess worst-case scenarios for undetected defects. The framework's effectiveness will be routinely validated through integration into real-world AI-software, collaborations with industry partners, and surveys assessing student and developer perceptions of responsible AI-software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Saeid",
+   "pi_last_name": "Tizpaz-Niari",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Saeid Tizpaz-Niari",
+   "pi_email_addr": "saeid@uic.edu",
+   "nsf_id": "000832897",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 528319.0
+  }
+ ],
+ "por": null
+}

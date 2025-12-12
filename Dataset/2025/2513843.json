@@ -1,0 +1,106 @@
+{
+ "awd_id": "2513843",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Geometric Control of Unfitted Finite Element Methods",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 299992.0,
+ "awd_amount": 299992.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "This project is about optimizing geometric structures in physical and biological systems. The research will investigate optimal swimming motions of microorganisms, which can help explain their behavior, as well as yield new ways of actuating mechanical systems in fluids (e.g., underwater robotics). In general, the research will create new computational tools for shape optimization that can enhance the performance of physical systems; examples are structural optimization, minimizing fluid drag, and improving heat dissipation. Moreover, it will create new methods to control the self-assembly of geometric structures in fluids, such as liquid crystals. The outcomes of this research will open new avenues for material design, provide novel methods for optimizing geometric motion, and enhance the understanding of biological locomotion in fluids. Part of this project involves interacting with elementary and middle school students to show the importance of geometry in applications through the PI's \"sit-with-a-scientist\" program.  The program provides an informal atmosphere with hands-on activities.\r\n \r\nThe research objective of this project is to develop novel computational techniques for controlling geometry. It will advance the theoretical development of unfitted finite element methods (FEMs) to create robust and user-friendly numerical techniques for optimizing shape and time-dependent geometric motion. It will develop new theoretical and computational tools to optimize the swimming motions, or gaits, of microorganisms. And it will extend optimal control techniques to the self-assembly dynamics of geometric structures, with application to liquid crystals. The research will unite the \"optimize-then-discretize\" and \"discretize-then-optimize\" philosophies (which are usually contrary) for shape optimization in the context of unfitted FEMs and give new ways to compute minimizers. The research will yield new types of level set methods for simulating changing geometry. Moreover, it will extend unfitted FEMs to address time-dependent, tensor-valued, semi-linear partial differential equations with a focus on controlling the anisotropic Landau-de Gennes (LdG) model of liquid crystals. Other aspects of the research will create open-source software for the methods developed here, using both the PI's packages, FELICITY and AHF, and other open-source options (e.g., Firedrake and NGSolve).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shawn",
+   "pi_last_name": "Walker",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shawn W Walker",
+   "pi_email_addr": "walker@math.lsu.edu",
+   "nsf_id": "000560409",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Louisiana State University",
+  "inst_street_address": "202 HIMES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "BATON ROUGE",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "2255782760",
+  "inst_zip_code": "708030001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "LA06",
+  "org_lgl_bus_name": "LOUISIANA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ECQEYCHRNKJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Louisiana State University",
+  "perf_str_addr": "202 HIMES HALL",
+  "perf_city_name": "BATON ROUGE",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "708030001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "LA06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299992.0
+  }
+ ],
+ "por": null
+}

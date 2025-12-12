@@ -1,0 +1,130 @@
+{
+ "awd_id": "2452286",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Fast, Cost-Effective Manufacturing of Polymer Parts without a Mold using a Self-Propagating Polymerization Front Inspired by Natural Growth",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924813",
+ "po_email": "sbukkapa@nsf.gov",
+ "po_sign_block_name": "Satish Bukkapatnam",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "This research will study fast and cost-effective manufacturing of commonly used part geometries. Today, most plastic and rubber parts are made by molding: A liquid polymer resin is poured into an expensive mold, let to cure or solidify, then removed from the mold while ensuring that the final part meets the expected quality. Examples of such parts include the casings of computer keyboard, mouse, monitor, webcam, car dashboard, kitchen mixer, tennis rackets, and shoe soles. However, these molds are expensive because they are made of metals using elaborate machining processes, and they require frequent maintenance to ensure that they can be used for many parts. On the other hand, plants and trees simply grow to their geometries without needing molds. This project will study a mold-free production of parts, called growth printing, which could eliminate the cost of the mold and its maintenance. This Additive Manufacturing (AM) method is anticipated to be very fast because it uses a chemical liquid resin which can solidify instantaneously on demand using laser triggering. It is anticipated to be 100 folds faster than current 3D printers, which leads to considerable savings in cost and time to make useful strong and tough parts.\r\n\r\nThis research studies a mold free manufacturing process which relies on a propagating reaction front, naturally self-driven by the exothermic polymerization of the monomer dicyclopentadiene (DCPD). This polymerization front is thermally triggered from a point heat source, such as a laser.  This front propagates radially in the resin vat, curing the monomer into poly-DCPD, a high-performance cross-linked polymer. A metal initiator is connected to a motion stage such that it pulls the solidified part from the liquid with a vertical velocity profile which defines the part geometry. This research looks to use multiple point laser initiation to trigger the nucleation of an array of curing fronts, which then grow and merge. The merging fronts define the cross-section geometry of the part while the height is defined by the upward motion of the initiator tip. The tasks will study the laser initiation of frontal polymerization experimentally, analytically, and numerically; the geometry and physics of merging fronts; and the applicability to industrially relevant part designs. Education activities include a design competition for K-12 students to convey the importance of manufacturing speed and cost; develop a new lecture on constructive controversy on manufacturing and industry; and lab open house activities for visitors of all ages.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sameh",
+   "pi_last_name": "Tawfick",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sameh Tawfick",
+   "pi_email_addr": "tawfick@illinois.edu",
+   "nsf_id": "000646080",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Philippe",
+   "pi_last_name": "Geubelle",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Philippe H Geubelle",
+   "pi_email_addr": "geubelle@illinois.edu",
+   "nsf_id": "000488606",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Varda",
+   "pi_last_name": "Hagh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Varda Hagh",
+   "pi_email_addr": "hagh@illinois.edu",
+   "nsf_id": "000991737",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "352 Henry Administration Building",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "088E",
+   "pgm_ref_txt": "THERMALLY DRIVEN PROCESSES"
+  },
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

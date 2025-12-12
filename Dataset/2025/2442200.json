@@ -1,0 +1,102 @@
+{
+ "awd_id": "2442200",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Bridging the Gap: AI-Driven Antarctic Basal Temperature Mapping for Advancing Ice Sheet Modeling and Polar Education",
+ "cfda_num": "47.078",
+ "org_code": "06090300",
+ "po_phone": "7032920000",
+ "po_email": "kbrunt@nsf.gov",
+ "po_sign_block_name": "Kelly Brunt",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 770209.0,
+ "awd_amount": 770209.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Antarctica\u2019s ice sheet holds enough water to raise global sea levels by over 200 feet, making accurate predictions of its future behavior critical for coastal communities, infrastructure planning, and climate adaptation worldwide. However, current ice sheet models struggle to predict how fast Antarctic ice will flow and contribute to sea level rise because they lack crucial information about conditions beneath the ice, particularly the temperature at the base of the ice sheet. When the base of the ice is warm enough, it can melt and lubricate the ice-rock interface, dramatically accelerating ice flow toward the ocean. This project will create the first comprehensive map of basal temperatures across the entire Antarctic continent by combining decades of radar data with cutting-edge artificial intelligence techniques, providing essential information to improve ice sheet models and sea level projections. The research will also develop innovative educational programs that teach high school students about polar science and artificial intelligence applications, potentially reaching thousands of students nationwide through the Science Olympiad competition and training the next generation of climate scientists.\r\n\r\nThis project addresses a critical gap in Antarctic ice sheet modeling by developing a continent-wide map of basal temperatures using airborne radar sounding observations and generative AI methods. The research will compile radar data from multiple international polar programs spanning two decades, analyze englacial attenuation patterns to estimate depth-averaged ice temperatures, and employ conditional normalizing flow models to infer basal temperatures from these observations. These radar-derived basal temperatures will be integrated into the Ice Sheet and Sea-level System Model (ISSM) through a joint inversion framework to calibrate basal slipperiness parameters, replacing current approaches that rely solely on surface velocity observations. The improved parameterization will be used to revise Antarctic ice sheet projections from the recent Ice Sheet Model Intercomparison Project for CMIP6 (ISMIP6), providing more accurate assessments of future mass loss and identifying which Antarctic drainage basins are most vulnerable to basal temperature changes. The project will produce open-access datasets of standardized radar observations, artificial intelligence processing codes, and enhanced ice sheet model outputs that will benefit the broader polar science community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OPP",
+ "org_div_long_name": "Office of Polar Programs (OPP)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Winnie",
+   "pi_last_name": "Chu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Winnie Chu",
+   "pi_email_addr": "wchu38@gatech.edu",
+   "nsf_id": "000827297",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Institute of Technology",
+  "perf_str_addr": "311 Ferst Drive",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303320340",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "511200",
+   "pgm_ele_name": "ANT Earth Sciences"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "5112",
+   "pgm_ref_txt": "ANTARCTIC EARTH SCIENCES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "0100CYXXDB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 770209.0
+  }
+ ],
+ "por": null
+}

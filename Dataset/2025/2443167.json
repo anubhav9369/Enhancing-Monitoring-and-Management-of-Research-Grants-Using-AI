@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443167",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Making Domain-Specific AI Models Steerable by Leveraging Foundational Models",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 499997.0,
+ "awd_amount": 499997.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Artificial intelligence (AI) tools are increasingly used in healthcare systems to help diagnose diseases from medical images such as Computerized Tomography (CT) scans and mammograms. While these systems can be highly accurate, they often learn unintended patterns, such as utilizing  hospital-specific markings rather than markers of disease. This can lead to uneven or unsafe performance. Compounding this problem, most AI models are \u201cblack boxes,\u201d offering little insight into how decisions are made or why mistakes occur. Identifying the source of mistakes is  challenging for AI developers due to the knowledge gap between AI scientists and clinicians, and rectifying those mistakes is difficult for doctors because of the inherent complexity of the AI systems. This project develops new methods to make these systems more transparent and adjustable, allowing clinicians and researchers to understand, diagnose, and correct AI errors without needing to rebuild the models entirely. For instance, if a breast cancer risk model performs better on one group of patients than another, the new tools can help identify the cause and allow clinicians to intervene. In addition to improving fairness and reliability in medical AI, this project will also advance education and workforce development by involving students in interdisciplinary research at the intersection of medicine, computer science, and engineering. To reach these objectives, this project utilizes and enhances innovative computational methods, drawing on recent advancements in AI. The investigator will employ a generative model designed to synthesize new images that illustrate the disease's progression as perceived by a black box AI model. This kind of visualization is more comprehensible for clinicians, such as radiologists, aiding in the identification of error sources. The investigator uses large language models, similar to commercial chatbots, as a \"translator\u201d between clinicians, AI scientists, and the black box AI models.\r\n\r\nThis award supports the development of a new framework that leverages vision language models (VLLMs) to improve the interpretability and steerability of domain specific models (DSMs) in medical imaging. The project will integrate large-scale, multimodal foundation models with symbolic reasoning techniques to extract verifiable, human-understandable rules from deep neural networks. In Aim 1, the investigators will\r\nconstruct an anatomically aware VLLM capable of encoding and generating 3D medical images and radiology reports. Developing an anatomically aware generative model is essential to reduce the chance of \u201challucination,\u201d a common problem in generative AI. In Aim 2, this model will be used to break down existing medical AI systems into understandable components\u2014symbolic rules and programs\u2014that reflect how the model makes decisions. These components will help clinicians and AI researchers identify errors and guide the system\u2019s behavior. The premise of Aim 2 is that symbolic models, including computer programs and logical expressions, are more comprehensible and verifiable. This leads to AI models that are more trustworthy and steerable AI models, which is crucial in the healthcare domain. The approach will be evaluated using largescale data on breast cancer and chronic lung disease, with the goal of improving fairness and reliability in medical AI. The research will be validated on real-world tasks involving breast cancer risk prediction and chronic lung disease, aiming to improve model robustness across diverse patient populations. The framework holds the potential to transform current practices in clinical AI by embedding clinicians more directly in the\r\nmodel development and deployment cycle.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kayhan",
+   "pi_last_name": "batmanghelich",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kayhan batmanghelich",
+   "pi_email_addr": "batman@bu.edu",
+   "nsf_id": "000780062",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9184",
+   "pgm_ref_txt": "BIOTECHNOLOGY - INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  },
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499997.0
+  }
+ ],
+ "por": null
+}

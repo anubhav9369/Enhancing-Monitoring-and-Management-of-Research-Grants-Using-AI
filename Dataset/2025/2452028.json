@@ -1,0 +1,98 @@
+{
+ "awd_id": "2452028",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "An Intelligent Assistant to Support Teachers and Students in Simulation-Based Science Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "jsinger@nsf.gov",
+ "po_sign_block_name": "Jonathan Singer",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 700854.0,
+ "awd_amount": 634950.0,
+ "awd_min_amd_letter_date": "2024-10-11",
+ "awd_max_amd_letter_date": "2024-11-29",
+ "awd_abstract_narration": "This project will develop an artificial intelligence-based conversational framework (iLab) to create dialog-based interactive laboratory experiences for middle school science students and teachers in the context of simulation-based science experiments. A key component of the framework is an intelligent conversational agent (SimPal) that will engage with teachers in a dialog to solicit their instructional goals associated with simulation experiments and store them using a computational representation. The agent will then use this representation to facilitate and mediate an interactive dialog (powered by state-of-the-art large language models) with students as they run experiments to enhance their learning experience. The agent will proactively ask students reflection questions, provide them with real-time customized feedback, track students' progress, and then analyze their responses and report back to the teacher. Unlike existing intelligent tutoring systems and pedagogical conversational agents, the framework will work with any off-the-shelf third-party simulations in any domain and be used by any teacher or U.S. school district, a unique feature of this project. Further, teachers will work as partners in developing and deploying this technology. As such, the project is expected to make unique contributions to benefit student learning and, thereby, have a broad reach and appeal in U.S. schools.\r\n\r\n\r\nThe framework developed under this project will serve as a bridge between the teacher and each student in large classrooms where it is not possible for the teacher to support each student personally. It will engage the student in a meaningful dialog, informed both by the responses from the student and by the teacher\u2019s instructional goals while adapting to both the student and the teacher, thereby guiding the student toward a deeper understanding of the underlying scientific concepts and principles. Evaluation studies will be conducted in multiple Wisconsin classrooms where teachers will integrate the technology into the regular curriculum. The project will chart a path toward intelligent support designed to ameliorate four major challenges to learning in the science classroom: (1) access to high-quality learning materials at any time and place; (2) adaptability to ensure that students with a variety of backgrounds, experiences, and abilities receive custom feedback based on the teacher\u2019s goals; (3) repeatability so students can run several experiments in a short time and receive real-time feedback; and (4) scalability to reduce the burden of running inquiry-oriented science investigations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shubhra Kanti",
+   "pi_last_name": "Karmaker Santu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shubhra Kanti Karmaker Santu",
+   "pi_email_addr": "santu@ucf.edu",
+   "nsf_id": "000822317",
+   "pi_start_date": "2024-10-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802000",
+   "pgm_ele_name": "Cyberlearn & Future Learn Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8045",
+   "pgm_ref_txt": "Cyberlearn & Future Learn Tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 634950.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2434069",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "High Dynamic-Range Software-Defined Radio Front-Ends for Interference Mitigation in Future RF to mm-Wave Wireless Networks",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 380000.0,
+ "awd_amount": 380000.0,
+ "awd_min_amd_letter_date": "2025-05-28",
+ "awd_max_amd_letter_date": "2025-05-28",
+ "awd_abstract_narration": "From mobile networks and satellite systems to Internet of Everything (IoE) devices and Wi-Fi, seamless wireless connectivity continues to grow at an unprecedented pace. The demand for faster and more reliable wireless communication networks puts immense pressure on the available radio-frequency (RF) spectrum. Expanding into the FR3 band (7-24 GHz) alongside traditional sub-7 GHz frequencies is crucial to enable wider coverage, higher capacity, and faster data rates to support critical technologies and applications across various industries. However, as more devices and services rely on wireless communications, networks become increasingly crowded, leading to various types of radio interference among different systems. As spectrum environments become more dynamic and interference levels continue to rise, advanced interference-immune RF electronics hardware is needed. The techniques proposed in this project aim to address these challenges by introducing innovative microelectronic hardware solutions that can enhance the performance and resilience of future wireless systems in highly dynamic and congested spectrum environments. The new techniques can quickly adapt to interference, ensuring robust operation even under severe interference conditions of various forms.\r\n\r\nThis project seeks to investigate RF (including mm-wave frequency bands) silicon-integrated radio front-ends with high dynamic range for out-of-band (OOB), harmonic, and spatial interference, enabling interference detection, mitigation, and hardware adaptation for improved system operation in shared, congested, and contested spectrum bands. Different use cases, from low-power IoE devices to high-performance communication systems, are considered. Microelectronic circuits and systems will be developed to support sub-7 GHz bands and FR3 band (7-24 GHz). The research efforts are delineated into the following three thrusts: i) A low-power harmonic-resilient software-defined radio (SDR) prototype will be demonstrated, which is enabled by a fully passive harmonic-reject mixer topology that provides harmonic rejection at its input, output, and all internal nodes. Furthermore, a compact low-power clocking scheme will be incorporated in the design which will allow seamless operation of the SDR in the presence of harmonic interferers with sub-milliwatt static power consumption. ii) Highly selective harmonic-resilient front-ends with enhanced RF selectivity concurrently targeting OOB and 3rd- and 5th-order harmonic interferers. iii) A spatial blocker-tolerant digital multiple-input multiple-output (MIMO) receiver for operation within the 7-24 GHz frequency band with RF-domain spatial notch filtering using a widely tunable nonreciprocal phase shifter will be developed. An autonomous notch-steering control loop with a fast settling time is presented to be integrated for interference sensing and system adaptation. Research tasks of this project include analysis, simulations, integrated circuit implementations, and demonstrations of the final prototype.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Negar",
+   "pi_last_name": "Reiskarimian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Negar Reiskarimian",
+   "pi_email_addr": "negarr@mit.edu",
+   "nsf_id": "000814730",
+   "pi_start_date": "2025-05-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 380000.0
+  }
+ ],
+ "por": null
+}

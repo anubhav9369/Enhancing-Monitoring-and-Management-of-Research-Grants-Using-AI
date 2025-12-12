@@ -1,0 +1,102 @@
+{
+ "awd_id": "2436156",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Small: Evaluating the Security Landscape of Machine Learning Enabled Electronic Design Automation",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 180000.0,
+ "awd_amount": 180000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Machine learning (ML) and artificial intelligence (AI) technologies are being adopted for a wide range of applications. This has spurred interest in the use of ML and AI for chip design. Chip design is currently heavily automated using electronic design automation (EDA) software. Recent work has shown that AI and ML methods can further increase the level of automation as well as improve the quality of existing EDA tools. However, ML methods pose their own dangers and risks. They have been shown to be easily tricked by small changes in their inputs. They can also be easily \"backdoored\" by modifying only a tiny fraction of their training data. While these risks have been extensively studied in other domains, their impact has not been extensively examined in AI/ML based EDA and chip design tools. This project's novelties are (1) the first comprehensive look at the impact of input and training data perturbations and attacks on the quality, performance and security of AI/ML based EDA tools; and (2) the first thorough investigation into mechanisms to defend against such attacks. The project's broader significance and importance is that enables the trustworthy adoption of AI/ML methods in the chip design industry, resulting in greatly enhanced productivity and chip design quality, while ensuring trustworthiness.\r\n\r\nThe project pursues these aims in three research thrusts. Thrust 1 focuses on discovering meaningful and contextual perturbations of inputs to the different steps in the EDA flow, starting from design specification to logic synthesis, test-point insertion and physical design. To this end, the project investigates a new \"EDA vs. EDA\" threat model, where tools from competing vendors in the same seek to degrade each other's performance by injecting targeted functionality-preserving transformations in the inputs of a downstream tool. Thrust 2 evaluates the impact of training data poisoning and backdooring attacks on ML-based EDA tools spanning both pre- and post-silicon use cases. This Thrust demonstrates how carefully inserted stealthy triggers like netlist and layout patterns, comments in RTL code or temporal sequences of instructions can result in undesirable outcomes. Thrust 3 builds robust ML-based EDA tools that can withstand attacks demonstrated in the prior two thrusts. This Thrust explores techniques for meaningfully infusing ML for EDA with constraints from the relevant EDA domains during model training. Overall, the three Thrusts synergistically work together to create the foundations for next-generation trustworthy AI/ML-native EDA, while also training hardware design students with a fundamental understanding of security and trust concerns in AI/ML.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Krishnendu",
+   "pi_last_name": "Chakrabarty",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Krishnendu Chakrabarty",
+   "pi_email_addr": "Krishnendu.Chakrabarty@asu.edu",
+   "nsf_id": "000322112",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 180000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516767",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: Personalized Machine Learning for Repeat Adverse Health Events using Novel Multimodal Self-Supervised Pretraining Methods",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1183690.0,
+ "awd_amount": 1183690.0,
+ "awd_min_amd_letter_date": "2025-03-03",
+ "awd_max_amd_letter_date": "2025-03-03",
+ "awd_abstract_narration": "This project involves the creation of artificial intelligence (AI) models that make predictions about health events like substance use and stress-related blood pressure spikes using data from smartwatches like FitBit, Apple Watch, and other wearables. The innovation of this project comes from training personalized models that learn exclusively from each person\u2019s wearable data. Recent advances in AI methods allow us to train these models to understand each user\u2019s individual biosignals patterns related to heart rate, movement, and other signal recordings using large amounts of unlabeled data that are recorded when the user wears the device. This should, in theory, enable us to refine these models to learn to predict relatively complex recurring health outcomes like stress and blood pressure spikes using much fewer labeled examples than what would have previously been necessary. We will test this paradigm in two user studies related to stress-related hypertension and substance use detection.\r\n\r\nThe status quo for machine learning consists of the development of a one-size-fits-all model which is usually trained on data coming from one group and tested on data from another disjoint group. However, the advent of self-supervised learning makes it possible to learn from vast unlabeled multimodal data streams recorded from a single individual, allowing for a pretrained model which learns feature representations which are specific to the baseline temporal dynamics of a single entity\u2019s data streams. This project seeks to understand how such personalized self-supervised learning on multimodal data streams can be used to overfit, in a positive manner, a machine learning model to the unique patterns of an individual\u2019s sensor readings, thus enabling model personalization and prediction of traditionally difficult or subjective targets. To make these artificial intelligence (AI) innovations practically useful and because these personalized models still require on the order of tens of annotations to converge, we propose to develop novel human-computer interaction (HCI) techniques which are tightly integrated into the AI workflow to facilitate reliable and effective yet minimal annotations of the adverse health event of interest from the end user. We will evaluate this paradigm on two separate health conditions with differing data types and nuances: (1) substance use and craving measurements and (2) stress-related hypertension, each predicted using multimodal passively collected consumer wearable and smartphone data streams.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Washington",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter Washington",
+   "pi_email_addr": "peter.washington@ucsf.edu",
+   "nsf_id": "000936104",
+   "pi_start_date": "2025-03-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Francisco",
+  "inst_street_address": "1855 FOLSOM ST STE 425",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN FRANCISCO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4154762977",
+  "inst_zip_code": "941034249",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "CA11",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+  "org_prnt_uei_num": "KMH5K9V7S518",
+  "org_uei_num": "KMH5K9V7S518"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Francisco",
+  "perf_str_addr": "10 Koret Way",
+  "perf_city_name": "SAN FRANCISCO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "941170131",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "CA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1640",
+   "pgm_ref_txt": "INFORMATION TECHNOLOGY RESEARC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 1183690.0
+  }
+ ],
+ "por": null
+}

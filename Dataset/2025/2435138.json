@@ -1,0 +1,110 @@
+{
+ "awd_id": "2435138",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-SEMICON: Runtime Physics-informed AI Agent for Next-gen Efficient and Reliable Microelectronics",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 549997.0,
+ "awd_amount": 549997.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Semiconductor technology has been the backbone of modern information technology for more than six decades, driving the growth of numerous emerging technologies such as artificial intelligence (AI), robotics, autonomous driving and 6G. However, compelled by the rapid surge of computing demand, the modern microelectronic devices are facing major challenges in terms of power integrity, thermal stability, and device reliability, leading to significant energy waste on operational margins to sustain the life-time operations of the advanced microelectronic chips.  As a result, intelligent runtime chip management with advanced computing methods has becomes a new resolution to address the efficiency and reliability challenges of the next generation semiconductor devices.  While AI techniques have recently drawn significant interests for integrated-circuit (IC) design showing high promise, runtime AI assistance for real-time chip management has not been well developed, despite its high potential in overcoming the problems such as power supply noise, chip overheating and device aging.  In addition, current AI techniques often observe significant errors when extrapolating beyond its training dataset due to the incompliance with first-principle physics of the semiconductor operations.    To fundamentally overcome such challenges, the proposed project will incorporate the emerging physics-informed machine learning techniques with advanced energy-efficient AI accelerators to deliver a new generation of intelligent chip management methods for overcoming the drawbacks of existing solutions such as inaccuracy, long latency and lack of adoptability.   The proposed developments will bring fundamental improvements to the modern microelectronic devices in terms of energy efficiency and reliability.    This project will collaborate with industry researchers with a goal of delivering the technology for practical industrial applications. By integrating the advanced microelectronic technology with emerging computing methods, the proposed project provides strong educational materials and opportunities for students to learn the multi-disciplinary developments of modern microelectronic design.  Course materials and workshops on frontier semiconductor and computing techniques will be developed to provide solid training to the society.\r\n\r\nThis project will develop cross-layer solutions combining both novel AI algorithms and innovative computing circuits to address the ever-increasing challenges in microelectronics including power integrity, thermal management and device reliability.  First of all, novel physics informed machine learning models will be developed to support advanced chip management with high accuracy, low latency and high computing efficiency compared with existing solutions; Second, methods of online learning of the developed AI models will be established for intelligent runtime adaptation to deal with the growing impacts of chip variations, workload fluctuations, and operation uncertainties; Third, advanced AI accelerator design with novel computing circuitry will be delivered to provide the most efficient hardware support to the targeted intelligent AI assistive agent for runtime chip management. Real demonstrations with fabricated CMOS test chips will be delivered to showcase the benefits of the proposed techniques in comparison with conventional solutions.  Collaborations with industry partners will be performed to evaluate and disseminate the developed technology to practical applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jie",
+   "pi_last_name": "Gu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jie Gu",
+   "pi_email_addr": "jgu@northwestern.edu",
+   "nsf_id": "000691073",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Seda",
+   "pi_last_name": "Ogrenci",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seda Ogrenci",
+   "pi_email_addr": "seda@eecs.northwestern.edu",
+   "nsf_id": "000313788",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EXZVPWZBLUE8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "2145 Sheridan Rd",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602083118",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "103E",
+   "pgm_ref_txt": "Energy efficient electronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 549997.0
+  }
+ ],
+ "por": null
+}

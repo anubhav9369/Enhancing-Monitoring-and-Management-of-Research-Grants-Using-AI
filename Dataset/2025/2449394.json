@@ -1,0 +1,106 @@
+{
+ "awd_id": "2449394",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Creation of an Open Source Ecosystem to Repurpose DNA Sequencers as an Automation Platform",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 299756.0,
+ "awd_amount": 319753.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "As DNA sequencing technology rapidly evolves, once state-of-the-art equipment, originally priced in the hundreds of thousands of dollars, often becomes obsolete in less than a decade. Consequently, thousands of DNA sequencers are being decommissioned and, without a clear use, are either discarded or sold on secondary markets at a fraction of their original cost. Despite being outdated for sequencing, these instruments still contain highly valuable components including precision robotics, advanced optics, temperature control, and microfluidic systems. With the right software, engineering support, and experimental framework, these components could be repurposed into powerful platforms for automating a wide range of modern biological assays, thereby accelerating research and discovery. In particular, the emerging field of spatial omics offers transformative insights into important biological processes such as cancer, neurodegeneration, and immune response, but is currently hindered by its reliance on commercial automation platforms that remain prohibitively expensive to many laboratories. This project addresses this challenge by establishing an open-source ecosystem that unites researchers, engineers, and developers working towards the common goal of transforming decommissioned DNA sequencers into flexible automation platforms. This initiative will improve throughput, increase accessibility, reduce electronic waste, and promote greater standardization in biological research.\r\n\r\nThis project builds upon PySeq, an open-source toolkit developed to control individual components within DNA sequencers, enabling their use in spatial omics and other biomedical research applications. The primary goal is to unlock the full potential of decommissioned DNA sequencers by creating an open-source ecosystem centered around PySeq, transforming these powerful but unused instruments into flexible platforms for laboratory automation. The project is realized through three main aims: (i) Engage directly with current PySeq users to establish a core community of contributors focused on developing control tools, protocols, and documentation; (ii) Collaborate with users and developers to establish sustainable governance structures that support long-term community development and open-source philosophy; and (iii) Expand the user base by disseminating technological knowledge, procedures, best practices, and new perspectives to researchers utilizing laboratory automation. Through the exchange of protocols, hardware modifications, maintenance procedures, and software tools, the overarching goal is to build a self-sustained community that will launch PySeq OSE as a robust platform that transforms once-obsolete instruments into powerful, accessible tools for modern science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sanja",
+   "pi_last_name": "Vickovic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sanja Vickovic",
+   "pi_email_addr": "svickovic@nygenome.org",
+   "nsf_id": "000942252",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York Genome Center",
+  "inst_street_address": "101 AVENUE OF THE AMERICAS FL 7",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6469777000",
+  "inst_zip_code": "100131943",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK GENOME CENTER, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WKPTJDWG2C68"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York Genome Center, Inc.",
+  "perf_str_addr": "101 AVENUE OF THE AMERICAS FL 7",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100131941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1718",
+   "pgm_ref_txt": "BIOINFORMATICS"
+  },
+  {
+   "pgm_ref_code": "066E",
+   "pgm_ref_txt": "INSTRUMENTATION & DIAGNOSTICS"
+  },
+  {
+   "pgm_ref_code": "1757",
+   "pgm_ref_txt": "Quantitative sys bio and biotech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 319753.0
+  }
+ ],
+ "por": null
+}

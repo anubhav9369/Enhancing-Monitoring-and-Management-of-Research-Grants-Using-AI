@@ -1,0 +1,98 @@
+{
+ "awd_id": "2509910",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Beyond mass calibration: A galaxy--halo connection approach for optical cluster cosmology",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032925387",
+ "po_email": "aberlind@nsf.gov",
+ "po_sign_block_name": "ANDREAS BERLIND",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 421946.0,
+ "awd_amount": 421946.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Galaxy clusters are powerful probes of the large-scale structure of the universe and its evolution over time. New astronomical surveys, like the Dark Energy Survey (DES), contain high-quality images of thousands of clusters and surrounding vicinity. Despite this wealth of data, the study of clusters is limited by the difficulty in converting observed quantities, like the number of galaxies in a cluster or the gravitational lensing of light from background galaxies, into accurate estimates of the cluster\u2019s mass. In this project, a team of scientists from Southern Methodist University (SMU) are developing a framework to simulate observed galaxies, clusters, and their gravitational lensing signals self-consistently. The team will compare their simulated universes directly with DES observations to infer the evolution of cosmic structure. This approach can provide a new paradigm for future analyses of galaxy clusters for the purpose of studying cosmology. As part of this project, the team will also lead the effort of the SMU QuarkNet Center, which is a network of physicists and high school teachers in the Dallas-Fort Worth metroplex and belongs to the nationwide QuarkNet network. The team is organizing yearly summer workshops for high school teachers and will provide teachers and their students with educational materials related to the large-scale structure of the universe and cosmology.\r\n\r\nGalaxy clusters observed by optical surveys are one of the most sensitive probes of the amplitude of density fluctuations (sigma_8). Current optical cluster cosmology analyses are limited by line-of-sight projection, which affects cluster finding and the lensing signal, leading to biased estimates of cluster mass and cosmological parameters. In this project, the team aims to overcome these systematics by modeling observed clusters, galaxies, and lensing self-consistently. This approach will consolidate the sigma_8 measurements from late-universe probes. The team will build simulation-based models to directly predict observed clusters, galaxies, and lensing, facilitating full cross-correlation analyses. The modeling approach involves placing galaxies within halos in N-body simulations using a halo occupation distribution (HOD) approach, and then simulating the cluster-finding process, taking into account distance uncertainties. The team will apply this model to final data from the Dark Energy Survey (DES) to self-calibrate the HOD parameters, maximizing the constraining power of the cross-correlation between clusters, galaxies, and lensing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hao-Yi",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hao-Yi Wu",
+   "pi_email_addr": "hywu@smu.edu",
+   "nsf_id": "000843361",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Methodist University",
+  "inst_street_address": "6425 BOAZ ST RM 130",
+  "inst_street_address_2": "",
+  "inst_city_name": "DALLAS",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2147684708",
+  "inst_zip_code": "752051902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "SOUTHERN METHODIST UNIVERSITY",
+  "org_prnt_uei_num": "S88YPE3BLV66",
+  "org_uei_num": "D33QGS3Q3DJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Methodist University",
+  "perf_str_addr": "6425 BOAZ ST",
+  "perf_city_name": "DALLAS",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "752051902",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 421946.0
+  }
+ ],
+ "por": null
+}

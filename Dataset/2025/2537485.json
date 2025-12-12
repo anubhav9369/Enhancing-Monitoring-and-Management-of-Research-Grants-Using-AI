@@ -1,0 +1,122 @@
+{
+ "awd_id": "2537485",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Prototyping a new Knowledge Resource for modern AI (Proto-KAI)",
+ "cfda_num": "47.084",
+ "org_code": "15010000",
+ "po_phone": "7032922251",
+ "po_email": "jgeorge@nsf.gov",
+ "po_sign_block_name": "Jemin George",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "Modern artificial intelligence systems, including large language models and robotic systems, face a critical knowledge gap that limits their ability to reason about the world and make reliable decisions. Current AI systems struggle with tasks that require understanding fundamental concepts and relationships, making them unreliable for applications where accuracy and trustworthiness are essential. For example, robotic systems cannot effectively plan complex actions because they lack sufficient knowledge about how the world works, and large language models cannot validate information or provide guarantees about their responses. This creates barriers to deploying AI in critical applications such as healthcare, manufacturing, and government services where mistakes can have serious consequences. This project addresses this challenge by developing an open engineering framework that makes it easy for developers to incorporate reliable knowledge modules into their AI applications, similar to how existing platforms have made machine learning models widely accessible. This work serves the national interest by strengthening the reliability and trustworthiness of AI systems used in critical national infrastructure, supporting American competitiveness in artificial intelligence development, enabling safer deployment of AI in sensitive applications, and advancing the development of AI systems that can provide formal guarantees about their behavior and decisions.\r\n\r\nThis project develops an open engineering framework for knowledge modules that can be easily integrated into artificial intelligence applications such as robotic systems. The research activities include identifying industry-motivated use cases requiring axiomatic knowledge, surveying existing knowledge sources for applicability assessment, and prototyping implementations that quantitatively measure benefits compared to other methods. The framework leverages expressive knowledge representation languages including Web Ontology Language, answer set programming, well-founded logic programs, and theorem proving systems. Using existing repositories such as Ontology Design Patterns, upper ontologies, and qualitative reasoning calculi, the team will create a library of task-focused modules providing semantic foundations for interoperability and domain-general inference. The project advances prior knowledge representation efforts by fostering an open-source community of contributors, focusing on validated use cases and interoperability among different representations rather than seeking consensus on a single approach. The research includes developing university-industry partnerships to define requirements and evaluate the knowledge resource, creating a new community of practitioners in applied knowledge representation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TF",
+ "org_div_long_name": "Technology Frontiers",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cogan",
+   "pi_last_name": "Shimizu",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cogan M Shimizu",
+   "pi_email_addr": "cogan.shimizu@wright.edu",
+   "nsf_id": "000826286",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vinay",
+   "pi_last_name": "Chaudhri",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vinay K Chaudhri",
+   "pi_email_addr": "vinayc@knowledgesystemsresearch.com",
+   "nsf_id": "000549683",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alessandro",
+   "pi_last_name": "Oltramari",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alessandro Oltramari",
+   "pi_email_addr": "alessandro.oltramari@us.bosch.com",
+   "nsf_id": "0000A57D4",
+   "pi_start_date": "2025-09-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wright State University",
+  "inst_street_address": "3640 COLONEL GLENN HWY",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAYTON",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "9377752425",
+  "inst_zip_code": "454350002",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "OH10",
+  "org_lgl_bus_name": "WRIGHT STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPT2UNTNHJZ1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wright State University",
+  "perf_str_addr": "3640 COLONEL GLENN HWY",
+  "perf_city_name": "DAYTON",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "454350002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "OH10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "223Y00",
+   "pgm_ele_name": "OKN-Open Knowledge Networks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2502157",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI:  Object Recognition Beyond Color and Shape",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "Machine vision applications have become increasingly important and are becoming an integral part of our everyday life. This is fueled by the rapid increase of automation in industrial settings. While the demand is high, machine vision still faces significant challenges and is unable to complete vision tasks that are easier for humans. Such dilemma is primarily attributed to the limitations of shape and color-based object recognition paradigm that is being currently used. This research effort is aimed at developing an innovative solution to realize computer vision beyond color and shape to enable extensive application in manufacturing, agriculture, cybersecurity, transportation, construction, and biomedicine. The proposed laser object recognition method will enable advancements and understanding of object recognition via transformative computer vision methods. The research will lead to significant impact on object recognition in dark and cluttered environments, which is known to be difficult using conventional computer vision methods.\r\n\r\nThis project proposes a novel object recognition method for confident object recognition. In contrast to existing shape and color-based object recognition methods, where limited visual information is utilized, the new laser object recognition method is designed to rely upon harnessing the laser-material interaction information to conduct object recognition. The proposed laser object recognition method is fundamentally rooted in the laws of physics for laser reflection and scattering from materials. The proposed method projects laser dots onto the objects of interest. From the detection of the reflected light and the scattering patterns, object recognition is carried out. Object recognition data reduction pipelines will be developed to process the data. The proposed research consists of two thrusts. First, hardware will be built for data collection and object recognition algorithms will be developed. Second, series of object recognition robustness tests and optimization will be conducted to validate the performance of the method. The proposed laser object recognition method will be able to achieve what has not been feasible using conventional shape and color-based object recognition methods. The proposed methodology will be applied to material recognition, close proximity object recognition and same color and shape object differentiation, among other possibilities. The research will have wide range of educational outcomes by recruiting students for the full research cycle from hardware and software platform construction to the optimization of the accuracy of the laser object recognition method. It is expected that the project will inspire students\u2019 interests to pursue smart sensing and machine vision-related research and professional careers to benefit STEM education and prepare the future skilled workforce.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hongbo",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hongbo Zhang",
+   "pi_email_addr": "hbzhang@mtsu.edu",
+   "nsf_id": "000763686",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Middle Tennessee State University",
+  "inst_street_address": "1301 E MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MURFREESBORO",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6154947848",
+  "inst_zip_code": "371320001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "TN04",
+  "org_lgl_bus_name": "MIDDLE TENNESSEE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "VMWUDBTMF4C9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Middle Tennessee State University",
+  "perf_str_addr": "1301 E MAIN ST",
+  "perf_city_name": "MURFREESBORO",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "371320001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "TN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

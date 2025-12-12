@@ -1,0 +1,134 @@
+{
+ "awd_id": "2513760",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Elements: Cyber Infrastructure for Efficient, Large-Scale Simulation of Inverse Compton Sources",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-08",
+ "awd_max_amd_letter_date": "2025-07-08",
+ "awd_abstract_narration": "X-rays enable scientists to see the internal structure of materials on all length scales from the macroscopic down to the positions of individual atoms. In medicine, x-ray dose could be reduced by orders of magnitude with dramatic improvements in imaging modalities and detectability of soft tissue structure including tumors. New cancer treatment modalities would be possible.  In spite of the huge importance of x-rays, the technology for producing them lags far behind the methods for producing ordinary visible light. First, there are no coherent sources of hard x-rays. Second, the brightest incoherent sources of x-rays are available in only a few large (on a billion-dollar scale) facilities. And third, all other x-ray work is done with very poor sources based on technology that is over 100 years old. Inverse Compton sources present a promising way of producing hard x-rays in an economical and widely accessible manner.\r\n\r\nOptimizing the performance of the existing and the design of the future inverse Compton sources crucially depends on high-fidelity computer simulations. Such simulations enable numerical tests of new experimental techniques, or even serve as diagnostic tools, replacing expensive hardware. Currently, such simulations are carried out by ad hoc, individually developed, disjointed pieces of software often written by scientists who are domain experts but not necessarily computing savvy. There is a definite need to develop fast and easily usable computer simulation codes that can be used by all research groups working on designing and developing better inverse Compton sources. The proposed comprehensive paradigm for calculation of radiation spectra in inverse Compton sources is a pivotal tool in ushering a new era in hard x-ray source technology. It will accurately quantify and optimize the performance of inverse Compton sources, resulting in substantial cost savings.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Physics in the Mathematics and Physical Sciences Directorate.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Balsa",
+   "pi_last_name": "Terzic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Balsa Terzic",
+   "pi_email_addr": "bterzic@odu.edu",
+   "nsf_id": "000658504",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mohammad",
+   "pi_last_name": "Zubair",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohammad Zubair",
+   "pi_email_addr": "zubair@cs.odu.edu",
+   "nsf_id": "000239017",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Desh",
+   "pi_last_name": "Ranjan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Desh Ranjan",
+   "pi_email_addr": "dranjan@cs.odu.edu",
+   "nsf_id": "000557175",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Old Dominion University Research Foundation",
+  "inst_street_address": "4111 MONARCH WAY STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORFOLK",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7576834293",
+  "inst_zip_code": "23508",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "VA03",
+  "org_lgl_bus_name": "OLD DOMINION UNIVERSITY RESEARCH FOUNDATION",
+  "org_prnt_uei_num": "DSLXBD7UWRV6",
+  "org_uei_num": "DSLXBD7UWRV6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Old Dominion University",
+  "perf_str_addr": "5115 Hampton Blvd.",
+  "perf_city_name": "NORFOLK",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "235290001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "VA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "755300",
+   "pgm_ele_name": "PHYSICS AT THE INFO FRONTIER"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

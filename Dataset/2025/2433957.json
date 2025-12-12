@@ -1,0 +1,114 @@
+{
+ "awd_id": "2433957",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: Exploring Kinetic Physics in High-Temperature Plasmas via Low-Rank Computing Techniques -- Unraveling Atomic and Nuclear Reactions",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927382",
+ "po_email": "vlukin@nsf.gov",
+ "po_sign_block_name": "Vyacheslav (Slava) Lukin",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "High-temperature plasmas, composed of electrically charged particles, interact primarily through collective effects involving many particles at once. However, occasional collisions between just two particles can lead to significant changes, such as the creation of charged ions through electron impact, the release of immense energy in nuclear fusion reactions, and the redistribution of energy and momentum through scattering. While physically accurate models exist to describe both collective interactions and binary collisions in plasmas, they are too complex to solve directly. Instead, simplified models have traditionally been used to predict plasma behavior, including nuclear fusion processes. Recent high-performance inertial confinement fusion (ICF) experiments have produced unexpected results that differ from predictions based on these simplified models. This discrepancy suggests that a more precise, high-fidelity kinetic model is needed to fully understand and optimize fusion reactions. This research project aims to develop a novel computational approach that integrates data compression techniques, fast numerical methods, and advanced mathematical modeling to make high-fidelity plasma simulations feasible on modern supercomputers. By applying this new model to experimental data, plasma behavior can be more accurately reproduced, providing insights that could lead to the design of even more efficient ICF devices, and ultimately improving fusion technologies.\r\n\r\nPlasma is a state of matter whose intrinsic properties are governed by collective interactions of large ensembles of free charged particles.  In many high-temperature plasma applications, such as fusion energy, binary collisions that include atomic and nuclear reactions and elastic scattering are essential to accurately describe kinetic physics. However, the exceedingly complex nature and high dimensionality of the governing kinetic equations for such high-temperature plasmas severely challenge current numerical methods.  Recent advancements in fast algorithms for the collision operator and low-rank tensor methods have facilitated addressing this difficult problem. The project aims to develop and apply these low-rank computing techniques to numerically solve the governing equations of kinetic physics in a multi-species, reacting plasma with computational efficiency.  The numerical method will be applied to explore kinetic physics in a high-temperature fusion plasma that is undergoing atomic reactions, such as ionization and nuclear fusion reactions releasing energetic charged products that heat the bulk plasma through elastic scattering.  These processes are foundational to the operation of fusion plasma devices. The computational methods to be developed in this project have the potential to provide high-fidelity kinetic simulations for fusion plasmas at a manageable computational cost. The novelty of the approach is represented by four key elements: mathematical formulation of reaction collision operators, fast spectral method for the collision operators, low-rank decomposition in the velocity space, and algorithm implementation on GPU systems. The research project will enable unprecedented first-principles modeling of kinetic physics in reacting plasmas, unraveling recent experimental results, and offering new insights into intricate multiscale high-temperature plasma dynamics for optimizing future devices.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Uri",
+   "pi_last_name": "Shumlak",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Uri Shumlak",
+   "pi_email_addr": "shumlak@aa.washington.edu",
+   "nsf_id": "000378755",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jingwei",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jingwei Hu",
+   "pi_email_addr": "hujw@uw.edu",
+   "nsf_id": "000684378",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  },
+  {
+   "pgm_ele_code": "755300",
+   "pgm_ele_name": "PHYSICS AT THE INFO FRONTIER"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1242",
+   "pgm_ref_txt": "PLASMA PHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2504718",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: OAC Core: Exploiting SmartSSD-based Computational Storage Architectures for Large Scale Similarity and Range Searches",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927116",
+ "po_email": "sghafoor@nsf.gov",
+ "po_sign_block_name": "Sheikh Ghafoor",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 189400.0,
+ "awd_amount": 189400.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "Modern scientific enterprises generate enormous volumes of data, as many scientific fields have transitioned from being data poor to data rich recently. To make sense of this data, the scientific enterprise relies on new computational methods and computing infrastructure to realize new insights. In other words, the computational methods used for large scale data analysis are now tools of the scientific community as they are central to the knowledge generation process. This project aims to address a major limitation in large scale data analysis by designing and implementing novel methods that employ computational storage devices, which combine the storage inside of a computer with a configurable processor that resides on the storage device itself. This project will yield new insights into the efficient use of these computational storage devices and will demonstrate how they can be used to remedy the challenges faced in several scientific domains. The project will benefit society by training students in the use of cutting edge technologies that are of national importance and which have great potential to bolster the U.S. economy.\r\n\r\nComputational storage devices are an emerging technology for accelerating large scale data intensive computations because they combine storage with field programmable gate arrays. Relocating computational tasks from the host processor to a computational storage device eliminates data movement between the computational storage device and the central processor unit's main memory over the bandwidth constrained system interconnect, thereby reducing traffic, saving energy, and reducing latency. Using this paradigm can result in unprecedented acceleration of scientific applications that process large datasets, have data dependent performance characteristics, and have non uniform data access patterns. This project will conduct a design space exploration for selected computational tasks in order to identify the kernels and design parameters that provide the best acceleration for a system with multi core CPUs equipped with computational storage devices. The project will design and implement several indexing data structures having a wide range of properties that make them suitable across numerous application scenarios that are optimized for computational storage devices. The project will create and disseminate a user friendly programming framework that provides data parallel primitives for computational storage devices including map, reduce, filter and join, and collective communication functions including scatter, gather, and all to all communication. Furthermore, using our framework and the indexing data structures, we will design and implement range queries, similarity searches, and joins on points and polygon objects which are highly valuable for several scientific fields including astronomy, heliophysics, geoscience, and other geospatial domains.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Satish",
+   "pi_last_name": "Puri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Satish Puri",
+   "pi_email_addr": "satish.puri@mst.edu",
+   "nsf_id": "000730698",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Missouri University of Science and Technology",
+  "inst_street_address": "300 W. 12TH STREET",
+  "inst_street_address_2": "202 CENTENNIAL HALL",
+  "inst_city_name": "ROLLA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "5733414134",
+  "inst_zip_code": "654091330",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MO08",
+  "org_lgl_bus_name": "UNIVERSITY OF MISSOURI SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Y6MGH342N169"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Missouri University of Science and Technology",
+  "perf_str_addr": "300 W. 12TH STREET",
+  "perf_city_name": "ROLLA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "654091330",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MO08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "772600",
+   "pgm_ele_name": "Data Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 189400.0
+  }
+ ],
+ "por": null
+}

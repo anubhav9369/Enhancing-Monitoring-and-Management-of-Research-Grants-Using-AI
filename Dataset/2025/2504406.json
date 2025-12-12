@@ -1,0 +1,102 @@
+{
+ "awd_id": "2504406",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: HCC: Medium: Accelerating Yarn Fabrication Research using Rapid Prototyping Tools",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": null,
+ "po_email": "",
+ "po_sign_block_name": "Thomas Martin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 205752.0,
+ "awd_amount": 205752.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Textiles are ubiquitous, used for everything from clothes and shoes to aerospace composites and buildings.  The textile industry is rapidly innovating new machinery for weaving, braiding, and knitting that can manufacture entire objects in a single operation. However, existing approaches rely on separate machinery and design techniques for each fabrication process; designers must choose a single process and often a specific equipment manufacturer, and it is difficult to move between processes and impossible to combine them.  Inspired by the maker revolution that was sparked by the availability of inexpensive 3D printers, this project will create a toolkit of inexpensive, easily modifiable machinery and software to allow rapid exploration of ways to create 3D surfaces and solid shapes with advanced yarn fabrication techniques. This research can potentially transform the way textiles are made, enabling a major shift in manufacturing from cut-and-sew to whole-garment or whole-product automated production. This in turn will position the United States to be a leader in the coming expansion of advanced textile manufacturing.\r\n\r\nAlthough there are many ways to create 3D textile shapes, designing them is not easy. The relationship between design and 3D shape is indirect and involves complex arrangements of local structures throughout an object. Existing commercial tools support creating the repeating patterns that are the building blocks of 3D textiles but make it difficult to create complex 3D shapes. To address these limitations, the project team will develop a process-agnostic yarn-based CAD design tool. Like modern CAD software, the tool will separate design from manufacture and provide a framework for designers to work at the proper level of abstraction at different stages of the design process. Ultimately the tool will provide an interface similar to a slicer for 3D printing: after designing the required shape, the designer will only need to stipulate the required quality for each part of the object; the tool will automatically generate the proper patterns and the interfaces that join them. By providing easy to build and affordable advanced yarn handling modules, this work will broaden access to these novel fabrication techniques. In turn, we expect that this will lead to a new generation of machines able to automatically manufacture mixed-process forms, something which is not possible with the current status quo.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brooks",
+   "pi_last_name": "Hagan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brooks Hagan",
+   "pi_email_addr": "bhagan@risd.edu",
+   "nsf_id": "000602127",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rhode Island School of Design",
+  "inst_street_address": "20 WASHINGTON PL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4014546596",
+  "inst_zip_code": "029031358",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "RHODE ISLAND SCHOOL OF DESIGN",
+  "org_prnt_uei_num": "TXXKJMJ4TLC1",
+  "org_uei_num": "TXXKJMJ4TLC1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rhode Island School of Design",
+  "perf_str_addr": "20 WASHINGTON PL",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029031358",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 205752.0
+  }
+ ],
+ "por": null
+}

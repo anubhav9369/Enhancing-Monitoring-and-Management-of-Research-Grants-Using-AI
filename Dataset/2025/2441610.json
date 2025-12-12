@@ -1,0 +1,106 @@
+{
+ "awd_id": "2441610",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: MED-IoB: Transforming Medical Electronics using Distributed Internet of Bodies (IoB) for Powering, Sensing, Communication and Synchronization",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 549769.0,
+ "awd_amount": 549769.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "Advancements in continuous health monitoring and bioelectronic medicine, such as vagus nerve stimulation for treatment-resistant depression, have the potential to reduce healthcare costs and minimize the side effects of conventional treatments. These applications rely on continuous communication between resource-constrained wearable and implantable sensors that form an interconnected system known as the Internet of Bodies (IoB). Current wireless technologies depend on inefficient coil-based or transduction-based energy transfer, along with electromagnetic communication which consume significant power. On the contrary, this project explores a transformative approach that leverages the human body as a conductive medium for both power transfer and communication, significantly improving system-level efficiency. Novel methods enhance data rates through custom modulation schemes and support multiple simultaneous devices via innovative multiple-access mechanisms. The research also establishes fundamental limits of tissue-coupled power transfer based on device design, electrode placement, and frequency of operation, with an aim of creating more effective and minimally invasive medical implants for improved quality of life and compliance. The project also integrates educational initiatives, developing hands-on learning modules in hardware design for K-12, undergraduate, and graduate students. Collaborative workshops with science museums and local schools strengthen the workforce pipeline in hardware design for biomedical engineering.\r\n\r\nThe project\u2019s technical approach entails establishing the foundational principles for high-speed, energy-efficient, and self-powered medical IoB (MED-IoB) systems by utilizing the human body as a conductive medium for both power transfer and communication. Moving beyond conventional electro-quasistatic techniques, this study explores tissue resonance properties to enhance power transfer efficiency (PTE) during harvesting, and energy-efficiency during all other operations, facilitated by ultra-low-volume (<0.05 cubic mm) and energy-efficient (~1 pJ/bit) integrated circuits. A key focus is on characterizing the alignment insensitivity and efficiency of tissue-coupled signal transfer as a function of device design, electrode placement, operating frequency, and tissue properties. The research includes the design and validation of system-on-chip implementations that integrate sensing, processing, and tissue-coupled transceivers, demonstrating improved PTE and energy-efficiency through in-vitro and ex-vivo experiments. Custom synchronization and hybrid (CDMA+FDMA) multiple-access mechanisms enable robust, multi-device networks for MED-IoB applications. The project\u2019s outcomes are aimed at improving bio-physical circuit models and optimizing architectures for next-generation medical electronics. Beyond technical advancements, this work emphasizes educational innovation through collaborations with the university\u2019s Center for Precollegiate Training and a local science museum. The development of modular hardware and heuristic teaching materials enhances experiential learning in hardware design, ensuring better accessibility to engineering education across all levels of the STEM workforce pipeline.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Baibhab",
+   "pi_last_name": "Chatterjee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Baibhab Chatterjee",
+   "pi_email_addr": "chatterjee.b@ufl.edu",
+   "nsf_id": "000899773",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  },
+  {
+   "pgm_ref_code": "108E",
+   "pgm_ref_txt": "Bioelectronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 549769.0
+  }
+ ],
+ "por": null
+}

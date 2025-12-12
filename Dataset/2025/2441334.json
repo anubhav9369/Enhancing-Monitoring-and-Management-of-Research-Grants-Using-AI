@@ -1,0 +1,118 @@
+{
+ "awd_id": "2441334",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Enabling Trustworthy Complex Learning-enabled Autonomy",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 689582.0,
+ "awd_amount": 689582.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "Machine learning (ML) is projected to be essential in future autonomy development. However, ML components such as deep neural networks (DNNs) may react unexpectedly to even tiny input variations. Recent incidents in ML-powered systems, such as Tesla and Uber autonomous vehicles, raise an urgent need for techniques and tools to formally verify the safety and robustness of DNNs before utilizing them in safety-critical applications. The state-of-the-art research, focusing on the safety, robustness, and fairness of deep neural networks and neural network control systems, is powerful and promising for some parts of ML-powered autonomy development. However, enabling trustworthy, complex, learning-enabled autonomy is still challenging due to the need for verification technologies for system-level reactive behaviors involving complex interactions between multiple components. This project's novelty is in creating new formal method foundations in modeling, specification, verification, and toolchains to address this grand challenge research problem beyond the state-of-the-art. The project's impact is the substantial enhancements of safety, reliability, and explainability of various learning-enabled unmanned systems. Additionally, the project will strengthen the research and study in autonomy-focused topics in Nebraska by recruiting undergraduate research assistants and integrating research findings into ML and autonomy verification courses. It will also increase the interest and engagement of K-12 group students in STEM majors and science literacy through outreach events. The project team will also collaborate with the University of Nebraska-Lincoln Osher Lifelong Learning Institute to give lectures and discussions for adults on how autonomy concepts and technologies may impact their lives. \r\n\r\nThis project involves two foundational research thrusts, modeling and specification and quantitative verification, along with software and trustworthy autonomy testbed development and rigorous evaluation. The project's expected research outcomes include 1) a new generic graph-based modeling approach for complex, learning-enabled autonomy (CLeA) in which CLeA's components and their interaction are represented using nodes and edges, respectively, 2) a new set-based algebra, built upon the concepts of probilistic star (or shortly ProbStar, a new variant of the well-known star set) and containing a collection of mathematical propositions and important operators such as parallel composition, decomposition, Minkowski sum, etc., that allow users to discover and keep track of the dependency between multiple reachable sets produced by different components in a CLeA and compose/decompose precise inputs for these components in the analysis, 3) a new set-based specification language to specify CLeA's temporal behaviors based on the concepts of ProbStar set representations, 4) a suite of algebra-based depth first search (DFS) reachability algorithms to construct the reachable set traces of all components in CLeA over multiple steps. and 5) a suite of scalable quantitative verification algorithms to quantify the satisfaction of CLeA's temporal properties under uncertainties. Results from proposed research thrusts will be integrated into StarV, a new quantitative verification tool, to enhance its verification capacity for various applications. Indoor and outdoor learning-based autonomous driving testbeds using the F1Tenth platform and Robify robot will be developed to evaluate the proposed verification framework. CARLA simulator, SCENIC, and hardware-in-the-loop (HIL) simulation will also be used to assess the proposed research in various project phases.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dung",
+   "pi_last_name": "Tran",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dung Tran",
+   "pi_email_addr": "dtran30@unl.edu",
+   "nsf_id": "000844697",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Nebraska-Lincoln",
+  "inst_street_address": "2200 VINE ST # 830861",
+  "inst_street_address_2": "",
+  "inst_city_name": "LINCOLN",
+  "inst_state_code": "NE",
+  "inst_state_name": "Nebraska",
+  "inst_phone_num": "4024723171",
+  "inst_zip_code": "685032427",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NE01",
+  "org_lgl_bus_name": "BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HTQ6K6NJFHA6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Nebraska-Lincoln",
+  "perf_str_addr": "2200 VINE ST # 830861",
+  "perf_city_name": "LINCOLN",
+  "perf_st_code": "NE",
+  "perf_st_name": "Nebraska",
+  "perf_zip_code": "685032427",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NE01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  },
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8206",
+   "pgm_ref_txt": "Formal Methods and Verification"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 689582.0
+  }
+ ],
+ "por": null
+}

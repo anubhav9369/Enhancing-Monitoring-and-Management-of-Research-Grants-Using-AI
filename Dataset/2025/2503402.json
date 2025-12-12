@@ -1,0 +1,110 @@
+{
+ "awd_id": "2503402",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Machine Learning-Driven Prediction of Transition to Elongated Bubbles Flow Regime",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924736",
+ "po_email": "fcao@nsf.gov",
+ "po_sign_block_name": "Fangyu Cao",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "Efficient cooling is a major challenge in high-performance computing, power electronics, and renewable energy systems. Microchannel flow boiling, which involves absorbing waste heat by boiling a refrigerant in flow through tiny channels, is a promising solution for removing high heat loads in compact spaces. However, designing these systems relies on trial-and-error methods due to the complexity of the underlying physics. As bubbles form during boiling, they merge into larger bubbles, which affects the rate of heat removal. This project will apply machine learning to predict the transition from flow regimes of small, separated bubbles to longer, stretched-out bubbles in microchannels. Understanding and controlling this transition is critical for improving cooling efficiency, preventing system instabilities, and enhancing the performance of next-generation thermal management systems. The research will make use of high-speed experiments, computational simulations, and machine learning to develop predictive models that can rapidly explore different operating conditions. By combining fundamental thermodynamics with advanced computational techniques, this work will improve the reliability and efficiency of microchannel cooling systems. The project will also support student training in interdisciplinary areas of fluid dynamics, AI, and thermal management.\r\n\r\nThis research will develop a novel machine learning model, known as a Parametrized Hybrid Physics-Informed Neural Network (PH-PINN), to capture the complex multiphase interactions in bubbly flow in microchannel flow boiling. The model will integrate high-fidelity experimental data and interface-resolved simulations to predict how bubbles nucleate, grow, detach, and merge within confined channels. Unlike conventional models that require extensive computing resources, the PH-PINN will allow rapid predictions across a wide range of physical conditions without retraining. The project will also implement a Physics-Constrained Temporal Generative Adversarial Network (PC-Tempo-GAN) to model the evolution of the vapor-liquid interface while ensuring compliance with conservation laws and boundary conditions. This approach represents a major step toward integrating physics-based constraints into AI-driven simulations, enabling more accurate and computationally efficient predictions of phase-change phenomena. The results of this research will contribute to the development of energy-efficient cooling technologies, reducing design time and cost while enhancing the performance of critical systems in computing, electronics, and renewable energy applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Saeed",
+   "pi_last_name": "Moghaddam",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Saeed Moghaddam",
+   "pi_email_addr": "saeedmog@ufl.edu",
+   "nsf_id": "000568991",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sivaramakrishna",
+   "pi_last_name": "Balachandar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sivaramakrishna Balachandar",
+   "pi_email_addr": "bala1s@ufl.edu",
+   "nsf_id": "000110972",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140600",
+   "pgm_ele_name": "TTP-Thermal Transport Process"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

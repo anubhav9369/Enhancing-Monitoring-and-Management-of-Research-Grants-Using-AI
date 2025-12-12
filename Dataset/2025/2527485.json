@@ -1,0 +1,110 @@
+{
+ "awd_id": "2527485",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Exploring the interplay between the allostery of microtubule lattices and protein-protein interactions that effect it",
+ "cfda_num": "47.074",
+ "org_code": "08070000",
+ "po_phone": "7032924668",
+ "po_email": "cweil@nsf.gov",
+ "po_sign_block_name": "Clifford Weil",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 849969.0,
+ "awd_amount": 849969.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "The functioning of neurons depends on interactions between many different proteins and the cell cytoskeleton; problems with these interactions lead to diseases such as Alzheimer\u2019s disease or cancer. Microtubules, filaments of tubulin subunits and the largest structure in the cytoskeleton, have long been viewed as passive tracks, along which motor proteins transport cargo. A more recent view focuses instead on the plasticity of the microtubule lattice within the cell, including changes in lattice stability that are induced by the binding of microtubule-associated proteins (MAPs), and an active response to that binding by the microtubule filament. Mechanistic understanding of these interactions between MAPs and microtubules, and the changes in microtubule conformation that result and then modulate the action of other cytoskeletal proteins, are key challenges of molecular biology. This project uses multi-scale computational modeling and machine learning, complemented by experimental testing of the models, to provide the first, quantitative insight into how changes in tubulin subunits that are induced by MAP binding in neurons influence the function of molecules designed to either enhance or block that MAP binding. This research will address a critical gap in our understanding of dynamic properties of microtubules and MAP-microtubule complexes in both healthy and disease states. The project will also provide education and training for undergraduate and graduate students in computational biophysical chemistry and machine learning in chemistry by involving them in interdisciplinary science, and in outreach at the Cincinnati Museum Center. The results of the project will be disseminated to the public by the investigator and students through publications, and conference presentations.\r\n\r\nThis project will elucidate the microtubule allosteric response resulting from interaction between microtubule lattices composed of various tubulin isotypes and a set of three MAPs crucial for microtubule function in neurons: tau, MAP7, and doublecortin. Importantly, these three MAPs cover both positive and negative allosteric effects and leverage the newly solved cryo-EM structures of each MAP on microtubules. The project will use state-of-the-art atomistic molecular dynamics simulations on very large biological systems to build graph networks and train explainable machine learning approaches to determine allosteric regions in proteins. Modeling complex problems such as microtubule allostery is crucial because simulations can provide insight into processes that are inaccessible to experiments. Modeled changes in the microtubule lattice induced by binding of MAPs, and the influence of those changes on interactions between the MAPs will then be tested experimentally. This combination of coarse-grained modeling and experiments will provide insight into factors responsible for formation and disassembly of MAP-based envelopes on microtubules. These insights will impact directly our understanding of how microtubules function in cells, e.g., maintaining neuronal polarization in both axons and dendrites, and driving intracellular transport.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ruxandra",
+   "pi_last_name": "Dima",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ruxandra Dima",
+   "pi_email_addr": "ruxandra.dima@uc.edu",
+   "nsf_id": "000225135",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kassandra",
+   "pi_last_name": "Ori-McKenney",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kassandra Ori-McKenney",
+   "pi_email_addr": "kmorimckenney@ucdavis.edu",
+   "nsf_id": "000743360",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Cincinnati Main Campus",
+  "inst_street_address": "2600 CLIFTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CINCINNATI",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "5135564358",
+  "inst_zip_code": "452202872",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OH01",
+  "org_lgl_bus_name": "CINCINNATI UNIV OF",
+  "org_prnt_uei_num": "DZ4YCZ3QSPR5",
+  "org_uei_num": "DZ4YCZ3QSPR5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Cincinnati Main Campus",
+  "perf_str_addr": "2600 CLIFTON AVE",
+  "perf_city_name": "CINCINNATI",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "452202872",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OH01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "111400",
+   "pgm_ele_name": "Cellular Dynamics and Function"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 849969.0
+  }
+ ],
+ "por": null
+}

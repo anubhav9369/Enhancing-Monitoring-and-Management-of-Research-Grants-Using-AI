@@ -1,0 +1,106 @@
+{
+ "awd_id": "2443105",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: 3D dynamic network with bioelectrical and biomolecular interface for long-term communications with brain organoids",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 499728.0,
+ "awd_amount": 399728.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2024-12-31",
+ "awd_abstract_narration": "Scientists are working to better understand how brain cells are organized and function, but traditional studies using animal models don\u2019t fully capture the complexity of the human brain. To address this, researchers are turning to brain organoids\u2014tiny, lab-grown models that mimic parts of the human brain. These organoids offer a new way to explore how human brain cells interact and function. However, current tools for studying organoids mainly focus on their structure and gene activity, rather than their electrical activity, which is key to understanding how brain circuits work. What is missing is a way to reliably connect with these organoids, sending and receiving signals without harming them, over long periods of time. The project aims to create a new technology called \"HotPocket\" \u2014 a soft, flexible electronic system that gently wraps around the organoid. This device will allow researchers to study how brain circuits respond to different signals and stimuli, and it could help uncover new insights into brain disorders and potential treatments. Beyond neuroscience, this tool could also be used by the pharmaceutical industry to test new drugs safely and effectively.\r\n\r\nElucidating the principles of neuronal circuit organization has traditionally relied on animal models, which fail to fully recapitulate the cellular diversity and genetic specificity of the human brain. Brain organoids represent an emerging platform for studying human-specific neuronal architecture and activity. However, current approaches are predominantly focused on transcriptional profiling and cytoarchitectural analyses, with limited exploration of electrophysiological dynamics. This gap is largely due to the lack of advanced technologies for effective bidirectional interfacing with organoids at high spatial and temporal resolution and over a long period. There is a critical need for engineered systems capable of simultaneously sensing and stimulating neuronal activity at near-cellular resolution over extended durations without inducing cellular damage. Such systems are pivotal for fundamental neuroscience, the investigation of psychiatric and neurological disorders, and the development of therapeutic interventions. Given the spatial heterogeneity of neuronal composition across the organoid surface, an interface that enables global communication across the entire periphery is essential. Moreover, since organoids require prolonged culture periods to achieve electrophysiological maturity, it is imperative to avoid irreversible attachment or damage to preserve their reusability. To address these challenges, this project proposes the development of \"HotPocket,\" a soft, biocompatible, conformal 3D microelectronic network. This system is designed to longitudinally monitor and modulate organoid activity through both electrical and biochemical modalities. By enabling precise, noninvasive, and bidirectional interactions with brain organoids, HotPocket offers transformative potential for basic neuroscience research and high-throughput drug screening applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wubin",
+   "pi_last_name": "Bai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wubin Bai",
+   "pi_email_addr": "wbai@unc.edu",
+   "nsf_id": "000850587",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Carolina at Chapel Hill",
+  "inst_street_address": "104 AIRPORT DR STE 2200",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHAPEL HILL",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9199663411",
+  "inst_zip_code": "275995023",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+  "org_prnt_uei_num": "D3LHU66KBLD5",
+  "org_uei_num": "D3LHU66KBLD5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Carolina at Chapel Hill",
+  "perf_str_addr": "104 AIRPORT DR STE 2200",
+  "perf_city_name": "CHAPEL HILL",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "275995023",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 399728.0
+  }
+ ],
+ "por": null
+}

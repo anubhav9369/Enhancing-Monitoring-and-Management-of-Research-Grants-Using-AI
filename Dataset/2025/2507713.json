@@ -1,0 +1,110 @@
+{
+ "awd_id": "2507713",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Expedite CSI Processing with Lightweight AI in Massive MIMO Communication Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 165000.0,
+ "awd_amount": 90420.0,
+ "awd_min_amd_letter_date": "2024-11-27",
+ "awd_max_amd_letter_date": "2024-11-27",
+ "awd_abstract_narration": "Next generation wireless communications will need to support heterogeneous devices with different capabilities on communications, computations, and power to deliver applications with various performance demands such as high data rate, low power consumption, and low latency. Massive multiple-input multiple output (MIMO) has been widely considered a compelling technology for achieving high capacity and high spectrum efficiency in the future wireless communication networks. To fully unleash the potential performance gains claimed by massive MIMO communication systems, it is of vital importance to have timely and accurate channel state information (CSI) at the transmitters, especially at the base station side. The main goal of this project is to explore a systematic approach that accelerates the CSI processing by orders of magnitude in massive MIMO communication systems. The project will lay a foundation to enhancing data rate and energy efficiency, spectral efficiency in the next-generation wireless communications. The research efforts associated with the project can have a significant impact on the lightweight artificial intelligence (AI) design for wireless communication systems, which will further improve many application domains, including beyond 5G wireless networks, autonomous machine-to-machine communications, vehicular networks, and Internet-of-Things. The outcomes of the project can foster the transition of our society into the intelligent wireless networking age, where wireless communication systems can provide seamless support to match many different wireless applications for massive network devices and support many services with high computation demands and quality of service needs. Moreover, the Principal Investigators are committed to integrating research and education by introducing emerging computing and lightweight AI in wireless communication systems into the current electrical and computer engineering curricula in the three participating universities. The project will also provide opportunities for students to learn, develop and apply advanced wireless communications, which they would not receive from a traditional B.S. or M.S. curriculum.\r\n\r\nMeeting the coherence time requirement in massive MIMO systems can be extremely difficult for CSI processing due to the complex traditional model as well as AI model development and inconsistent performance across environments. In this research project, theoretical analysis and performance evaluations will be obtained for novel algorithms designed for 1) optimization on the decompressed feature in the CSI reconstruction process, 2) simplifying the AI structures for multi-rate compression and reconstruction, and 3) autonomous CSI reconstruction performance evaluation and AI model update. The optimized features and simplified AI structures can significantly reduce the complexity in terms of floating point operations per second (FLOPs). Thus, the AI implementation can be accelerated by 1 to 2 orders of magnitude without losing reconstruction accuracy for timely CSI processing in massive MIMO communication systems. The systematic methodologies can be readily extended to facilitate many other applications that encounter the similar challenges and present similar needs on reducing latency and computation needs. Furthermore, this research project can greatly promote the understanding in AI-supported massive MIMO systems for better spectrum and power efficiency and will contribute fundamentally to the design of highly efficient machine-to-machine communications that require high level of autonomy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rose Qingyang",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rose Qingyang Hu",
+   "pi_email_addr": "rosehu@vt.edu",
+   "nsf_id": "000588210",
+   "pi_start_date": "2024-11-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "300 TURNER ST NW",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240603359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 82420.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 8000.0
+  }
+ ],
+ "por": null
+}

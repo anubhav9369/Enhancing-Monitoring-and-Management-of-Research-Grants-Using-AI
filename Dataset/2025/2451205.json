@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451205",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Efficient Thermal-Spatial Point-Cloud Extraction and Rapid Assessment of Physics-Based AI Algorithm from Infrared Images to Increase Early Detection of Breast Cancer",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032927069",
+ "po_email": "hahn@nsf.gov",
+ "po_sign_block_name": "Henry Ahn",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2026-01-31",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project relates to improving women\u2019s health through early detection of breast cancer. Women above age of 40 years are advised to undergo annual/biannual screening for breast cancer. In the current breast cancer screening paradigm, mammography is supplemented by adjunctive technologies, such as ultrasound imaging, to improve the cancer detection rates. However, shortcomings from imaging dense breast tissue relating to higher patient recall rates for additional screening and lower detection accuracy have impacted confidence in screening. This SBIR Phase I project aims to improve early cancer detection by providing an innovative screening tool that can accurately detect breast cancer, even in dense breasts. The increase in the overall detection rates and improved cancer detection from this screening tool is expected to provide significant short-term and long-term savings in healthcare costs. This technology is cost-effective as it does not require skilled technologists screening patients. It will increase the revenue to hospitals/breast clinics while providing more confidence in cancer screening and saving out of pocket expense to patients.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project addresses a critical societal need for accurate breast cancer detection, especially in women with dense breasts. Malignant tumors generate more heat as compared to healthy tissue due to their increased metabolic activity. It changes the heat signature on the surface of the breast that can be captured by an infrared camera. This concept was utilized to develop a device that can extract the surface temperatures of the using infrared imaging. A physics-based artificial intelligence (AI) algorithm then back-calculates the size and location of a malignant tumor from these surface temperatures. The technology is free from harmful radiations and is contactless. To meet current clinical workflow demands, improvements in imaging and computing times will be pursued through technical research. Further research in data generation from imaging and physics-based AI techniques will be conducted to reduce the imaging and computing times to integrate this technology into clinical settings. An Institutional Review Board approved clinical study will be undertaken to validate the methods developed in this project. The outcome from this project will be a rapid breast cancer screening technology that will meet current clinical demands for early detection of cancer.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carlos",
+   "pi_last_name": "Gutierrez",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carlos B Gutierrez",
+   "pi_email_addr": "cgutierrez@biredimaging.com",
+   "nsf_id": "000994556",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "BIRED IMAGING INC",
+  "inst_street_address": "44 BRANDYWINE LANE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5858203487",
+  "inst_zip_code": "146185602",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "BIRED IMAGING INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U3RYA1BAW655"
+ },
+ "perf_inst": {
+  "perf_inst_name": "BIRED IMAGING INC",
+  "perf_str_addr": "40 Franklin St",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146041413",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "004E",
+   "pgm_ref_txt": "BIOMEDICAL ENG AND DIAGNOSTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

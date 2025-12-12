@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442477",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: The Next Frontier in Urban Data Analytics: From Prescriptive to Actionable",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 599999.0,
+ "awd_amount": 353369.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "This project addresses critical challenges in applying reinforcement learning (RL) to real-world urban environments, which have yet to achieve the same level of success as RL applications in controlled settings such as games or virtual simulations. The research focuses on developing actionable data analytics tailored to urban decision-making, tackling key issues including noisy and incomplete real-world observations, complex and dynamic urban system behaviors, and the necessity of human-in-the-loop decision-making to ensure interpretability and trust. Additionally, the project emphasizes the development of reproducible and cost-effective benchmarking environments to bridge the simulation-to-reality (sim-to-real) gap. By addressing these challenges, this project aims to advance the progress of science and support sustainable urban development. \r\n\r\nTechnically, this project investigates the sim-to-real gap in a systematic way by addressing gaps in observations, system dynamics, and human interactions in urban decision-making. The research introduces innovative methodologies such as iterative optimization techniques, diffusion policy models, and a grounded action transformation framework enhanced by controllable domain context generation. It also develops uncertainty quantification and rule-based methods to support human collaboration in decision-making tasks. A significant output of this project is the creation of benchmarking environments to evaluate and refine RL policies under configurable settings, enabling more reliable deployment in real-world scenarios. These contributions promise to transform urban data mining and prescriptive analytics, setting the stage for actionable, adaptable, and interpretable methods across disciplines, including transportation and urban studies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hua",
+   "pi_last_name": "Wei",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hua Wei",
+   "pi_email_addr": "hua.wei@asu.edu",
+   "nsf_id": "000864617",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 353369.0
+  }
+ ],
+ "por": null
+}

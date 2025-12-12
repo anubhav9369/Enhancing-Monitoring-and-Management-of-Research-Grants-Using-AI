@@ -1,0 +1,98 @@
+{
+ "awd_id": "2449410",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase II: An Open-Source Ecosystem for Scientific Computing in Web-Based Applications",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 1499899.0,
+ "awd_amount": 1519899.0,
+ "awd_min_amd_letter_date": "2025-08-25",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project creates new opportunities for innovation in web-based scientific computing, enhances technological competitiveness, and improves data privacy and security for users nationwide. JavaScript, the dominant programming language of the web, currently lacks robust scientific computing capabilities compared to languages such as Python and R. By catalyzing an ecosystem centered on stdlib, a powerful open-source software library for JavaScript and WebAssembly, this project addresses this critical gap. The innovation will empower users and developers to perform sophisticated numerical computations directly within web browsers and edge devices, significantly improving data privacy and performance, and reducing costs associated with cloud computing infrastructure. The development of this technology provides the United States with a durable competitive advantage by establishing leadership in web-based scientific computation, potentially transforming sectors such as education, healthcare, environmental science, and business analytics. By enabling widespread and easy-to-use scientific computation capabilities directly in the browser, this project will benefit educational institutions, businesses, researchers, and government agencies, fostering broader scientific literacy, promoting innovation, and supporting the national interest by advancing the nation's scientific, technological, and economic prosperity.\r\n\r\nThis Pathways to Enable Open-Source Ecosystems (POSE) project addresses the current absence of a comprehensive scientific computing ecosystem in JavaScript and WebAssembly. The project will transition stdlib into a sustainable open-source ecosystem by achieving three key objectives. First, the solution will significantly lower barriers to community contribution and developer onboarding by enhancing documentation, developer tools, and outreach initiatives that illustrate the practical applications and benefits of scientific computing on the web. Second, the solution will develop advanced infrastructure for rigorous testing, automation, continuous integration, and deployment, thus ensuring reliability, security, and scalability of stdlib as the user base expands. Third, the project will establish interoperability and standardization by collaborating with existing JavaScript and WebAssembly libraries, ensuring compatibility and reducing ecosystem fragmentation. Through these targeted efforts, the project will create a foundational scientific computing environment capable of supporting complex computations on edge devices and browsers, driving forward innovations in privacy-preserving machine learning, artificial intelligence, and data-intensive scientific research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Athan",
+   "pi_last_name": "Reines",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Athan Reines",
+   "pi_email_addr": "areines@quansight.com",
+   "nsf_id": "000908760",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "QUANSIGHT, LLC",
+  "inst_street_address": "8656 W HIGHWAY 71 BLDG F200",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2404464888",
+  "inst_zip_code": "787358373",
+  "inst_country_name": "United States",
+  "cong_dist_code": "21",
+  "st_cong_dist_code": "TX21",
+  "org_lgl_bus_name": "QUANSIGHT, LLC.",
+  "org_prnt_uei_num": "K8YED7EYMFH3",
+  "org_uei_num": "K8YED7EYMFH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "QUANSIGHT, LLC",
+  "perf_str_addr": "8656 W HIGHWAY 71 BLDG F200",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787358373",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "21",
+  "perf_st_cong_dist": "TX21",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8032",
+   "pgm_ref_txt": "Software Services and Applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1519899.0
+  }
+ ],
+ "por": null
+}

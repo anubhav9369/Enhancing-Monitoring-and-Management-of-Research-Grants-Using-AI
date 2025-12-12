@@ -1,0 +1,126 @@
+{
+ "awd_id": "2443027",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Quantifying the Complexity of Materials Landscapes by Basin Sampling",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922340",
+ "po_email": "rhoy@nsf.gov",
+ "po_sign_block_name": "Robert Hoy",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 280000.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY\r\n\r\nThis CAREER award supports computational/theoretical research aimed at answering the question \"How many materials exist?\"  Much of physics involves counting states (e.g., the number of possible configurations that a molecule or material can take) and predicting their probabilities. This idea is intuitive; mankind's earliest scientific curiosity about the natural world began with questions like \"how many\" stars, planets, elements, or substances exist. This project aims to develop methods for enumerating the possible outcomes of a physical process and calculating their probabilities. By leveraging these technical advances, the project will (i) elucidate the relationship between structural regularities in a material system and the number of available states; (ii) quantify the richness of compositional and structural diversity achievable by generative models for materials discovery-the complexity of the \"materials landscape\". Improving the ability to estimate the probability of states in diverse systems will be broadly impactful, extending beyond materials science to areas such as cellular reprogramming, ecology, control theory and machine learning.\r\n\r\nThis project's scientific aims will be integrated into an extensive educational program designed to modernize the NYU undergraduate physics curriculum, aligning it with contemporary physics research and enhancing educational outcomes, supported by a systematic assessment plan. The program will also promote interdisciplinarity in education, enhance research education in molecular simulation, and develop outreach activities targeting K-12 education and public engagement. Additionally, interdisciplinary collaborations will extend the impact of this work to other domains of science and engineering.\r\n\r\nTECHNICAL SUMMARY\r\n\r\nThis CAREER award supports computational and theoretical research aimed at efficiently sampling complex energy landscapes, predicting nonequilibrium entropies, and predicting the structure of novel inorganic crystals.  Accurately computing the number and probabilities of states is fundamentally and practically important, whether we are interested in knowing the number and likelihood of different materials structures, the likelihood of generalizable solutions in neural network training, the stability of competing ecosystems, or the number of ways in which grains pack. When the states of interest are the stable structures of some dynamics, such as the energy minima found by gradient descent, we can compute the a priori probability of observing a state by measuring the volume of its basin of attraction. This project aims to advance basin volume calculations to elucidate the relationship between order and statistical regularities in material structures, and to quantify the diversity achievable by generative models for materials discovery. We will achieve this by introducing \"Guided Monte Carlo\" for basin sampling; systematically testing generative models on increasingly complex point cloud datasets generated via the FReSCo algorithm; and applying the basin volume method to generic dynamical systems (flow models and dynamical models of random close packing) for the first time.\r\n\r\nBeyond its scientific objectives, this project aims to leverage its research program to modernize the NYU undergraduate physics curriculum, promote interdisciplinarity in education, and advance research education in molecular simulation. The PI will integrate computational methods into the standard physics curriculum through a modular Computational Explorations in Physics class. Furthermore, the PI will introduce a Computational Science concentration, starting with a \"Machine Learning for Science\" course that explores the intersection of ML with Materials Science and other disciplines. This course will pilot an interdisciplinary team-teaching model that seeks to provide a more diverse educational experience and improve educational outcomes. Through the development of the NorSim Summer School, this project will address the shortage of training programs for doctoral and post-doctoral researchers in molecular simulation. Its core objectives are to prepare researchers for cutting-edge work, increase accessibility and diversity, and strengthen the community across disciplinary boundaries. Complementing these educational aims, the PI will implement outreach activities that combat social stereotypes and broaden the participation in physics among New York's varied urban population. This will be achieved through a public lecture series on contemporary physics in foreign languages and expanding existing efforts in K-12 outreach. Finally, the PI aims to extend the impact of this work to other domains of science and engineering via interdisciplinary collaborations.\r\n\r\nSTATEMENT OF MERIT REVIEW\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stefano",
+   "pi_last_name": "Martiniani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stefano Martiniani",
+   "pi_email_addr": "sm7683@nyu.edu",
+   "nsf_id": "000816680",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 280000.0
+  }
+ ],
+ "por": null
+}

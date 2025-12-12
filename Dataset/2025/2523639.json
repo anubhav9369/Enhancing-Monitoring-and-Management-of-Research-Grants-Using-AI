@@ -1,0 +1,106 @@
+{
+ "awd_id": "2523639",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CISE Core Small: RI: Toward Trustworthy and Resilient Intelligence for Multi-Agent System Coordination",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922971",
+ "po_email": "sroberts@nsf.gov",
+ "po_sign_block_name": "Scott Robertson",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "In the future, autonomous systems will increasingly rely on large networks of intelligent agents, such as drones, vehicles, robots, and smart infrastructures. These agents will need to work together and coordinate their actions. Achieving trustworthy and resilient coordination among collaborating agents is challenging, particularly when they may malfunction, act in opposition, or vary in capabilities and objectives. This project aims to revolutionize multi-agent systems (MAS) that exhibit resilient, adaptive, and trustworthy behavior by creating intelligent coordination mechanisms capable of maintaining performance and safety even in the presence of uncertainty, failure, or conflict. The expected outcomes of this research will lay the groundwork for building autonomous systems that can be confidently deployed in complex, real-world scenarios.\r\n\r\nThe research will advance foundational knowledge through three key efforts: (1) designing algorithms to detect and mitigate abnormal behaviors in cooperating agents; (2) managing adversarial or non-cooperative agents using game-theoretic and adversarial machine learning methods; and (3) enabling resilient coordination among diverse agents through robust distributed control frameworks. The proposed work will support high-impact applications in transportation, disaster response, and smart infrastructure, where reliable MAS coordination is critical for public safety and operational efficiency. It will inform best practices and ethical guidelines for integrating AI and multi-agent systems into critical infrastructure, ensuring fairness, transparency, and reliability in their deployment, and ultimately foster public trust in AI technologies and contribute to sustainability, safety, and social good. This research will also strengthen research capacity by expanding interdisciplinary collaborations, developing new curricula and workshops, and offering hands-on research opportunities for students from a wide range of backgrounds.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tairan",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tairan Liu",
+   "pi_email_addr": "Tairan.Liu@csulb.edu",
+   "nsf_id": "000994288",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California State University-Long Beach Foundation",
+  "inst_street_address": "6300 E STATE UNIVERSITY DR STE 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LONG BEACH",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5629858051",
+  "inst_zip_code": "908154670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "42",
+  "st_cong_dist_code": "CA42",
+  "org_lgl_bus_name": "CALIFORNIA STATE UNIVERSITY LONG BEACH RESEARCH FOUNDATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "P2TDH1JCJD31"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California State University",
+  "perf_str_addr": "1250 N. Bellflower Blvd",
+  "perf_city_name": "LONG BEACH",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "908400004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "42",
+  "perf_st_cong_dist": "CA42",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2440412",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Differentiable Evolution: Efficient Automatic Design of Embodied Intelligence",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924702",
+ "po_email": "cye@nsf.gov",
+ "po_sign_block_name": "Cang Ye",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 576083.0,
+ "awd_amount": 576083.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "The ability to trace errors through artificial neural networks was a revolutionary advance that laid the groundwork for \u201cmachine learning\u201d in computer vision and language models. Research completed in association with this Faculty Early Career Development (CAREER) project will explore a similar opportunity for \u201cmachine evolution\u201d in robots. While both robots and neural networks have existed since the 1940s, only the latter have been designed in a scalable manner using error tracing algorithms that automatically identify parts responsible for poor behavior and efficiently revise them to improve behavior. This project will work to generalize these efficient automatic optimization techniques to the design of robots and thereby attempt to realize novel robots with important new capabilities that are difficult or impossible to design by hand. In parallel, the project will develop a robot design game for education, outreach, and crowdsourcing designs.\r\n\r\nThis research project will look to determine the extent to which freeform robot design can be encoded into a differentiable representation that smooths the search landscape\u2014and when and how this produces robots that are better adapted to their environment than human-designed robots. This intends to show how backpropagated design gradients lead to innovative nonobvious body plans that advance the state-of-the-art in adaptive robots, focusing on terrestrial and arboreal task environments. Analysis of the resulting search landscapes will attempt to illuminate the conditions in which useful embodied gradients, or subgradients of certain body segments, can be computed in robots and other physical machines with moving parts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sam",
+   "pi_last_name": "Kriegman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sam Kriegman",
+   "pi_email_addr": "sam.kriegman@northwestern.edu",
+   "nsf_id": "000933390",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EXZVPWZBLUE8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "633 CLARK ST",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 576083.0
+  }
+ ],
+ "por": null
+}

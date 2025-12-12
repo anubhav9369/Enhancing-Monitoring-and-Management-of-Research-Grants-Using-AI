@@ -1,0 +1,106 @@
+{
+ "awd_id": "2512922",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Harnessing Computational Frameworks for Enhanced Gravitational Wave Follow-Up of Gamma-Ray Bursts",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927372",
+ "po_email": "pmarrone@nsf.gov",
+ "po_sign_block_name": "Pedro Marronetti",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "For most of human history, astronomers have used light to study the cosmos. However, the discovery of gravitational waves by LIGO in 2015 has added a transformative new dimension to this pursuit, heralding a new era of multi-messenger astronomy. This approach combines observations made with gravitational waves and those made with light to provide more comprehensive insights into cosmic events than either messenger could yield on its own. The study of gamma-ray bursts (GRBs) in particular, which are highly energetic stellar death events, stands to gain immensely from this multifaceted approach as evidenced by the groundbreaking detection of the binary neutron star merger GW170817 and its association with GRB 170817A. This joint observation, which involved over seventy observatories spread across the globe and in space, demonstrated that at least some GRBs arise from the merger of two neutron stars. It also constrained the universe's expansion rate, tested the speed of gravity against the speed of light, contributed to identifying the source of heavy elements in the universe, and refined the neutron star equation of state. This project aims to further advance such multi-messenger studies of GRBs across a variety of observational timescales.\r\n\r\nThe gravitational wave analyses of GRBs funded by this award will improve existing analysis pipelines across all observational timescales and develop novel search techniques targeting post-GRB remnant emission. Real-time searches in medium-latency will reinvigorate multi-messenger astronomy observing campaigns, while archival analyses will be expanded to better support additional observatories like the InterPlanetary Network and integrate new localization standards from the broader field. Central to the project is a novel cross-correlation analysis pipeline that targets long-lived gravitational transients that may be associated with the remnants that GRBs leave behind. Traditional analysis techniques, such as those used to detect prompt gravitational wave emission from GRBs, are not optimized for this regime, yet the central engines that power these remnants may hold the key to better understanding the exotic neutron-rich nuclear matter at their cores. This pipeline is poised to probe astrophysically-relevant distance scales and provide pathways to detection, and even parameter estimation, in a famously challenging regime. Each of these observational regimes faces unique challenges, and the project participants will liaise closely with collaborators from across the LIGO Scientific Collaboration to ensure that it does not strain the collaboration's limited computational resources.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Coyne",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robert R Coyne",
+   "pi_email_addr": "robcoyne@uri.edu",
+   "nsf_id": "000879476",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rhode Island",
+  "inst_street_address": "75 LOWER COLLEGE RD RM 103",
+  "inst_street_address_2": "",
+  "inst_city_name": "KINGSTON",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018742635",
+  "inst_zip_code": "028811974",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "RI02",
+  "org_lgl_bus_name": "UNIVERSITY OF RHODE ISLAND",
+  "org_prnt_uei_num": "NSA8T7PLC9K3",
+  "org_uei_num": "CJDNG9D14MW7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rhode Island",
+  "perf_str_addr": "75 LOWER COLLEGE RD RM 103",
+  "perf_city_name": "KINGSTON",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "028811974",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "RI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124300",
+   "pgm_ele_name": "Gravity Exp. & Data Analysis"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

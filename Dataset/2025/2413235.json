@@ -1,0 +1,93 @@
+{
+ "awd_id": "2413235",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Integrated Photonic Physical Unclonable Functions for Optoelectronic Hardware Security",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 270000.0,
+ "awd_amount": 270000.0,
+ "awd_min_amd_letter_date": "2024-12-11",
+ "awd_max_amd_letter_date": "2024-12-11",
+ "awd_abstract_narration": "In an increasingly digital world, the preservation of information security and privacy becomes more challenging yet remains essential to assure.  First and foremost, private information is increasingly stored on computing systems and networks, and secondly such systems face a growing array of hardware and software level vulnerabilities.  These vulnerabilities may be further exacerbated by the rising capabilities of machine learning algorithms, quantum computing, and the increasing sophistication of malicious actors.  This research project will pioneer novel types of secure hardware technologies which are fundamentally rooted in optics and photonics rather than digital electronics.  This research will advance our fundamental understanding of how to design and implement such technologies and will ultimately enhance our ability to construct and deploy safer and more secure computing systems in the future.  Additional benefits to this research include the training of skilled future workers in science, technology, engineering, and math disciplines \u2013 particularly through developing expertise in the semiconductor industry and aiding workforce development in this technologically and strategically important field.\r\n\r\nThis research project will investigate the use of integrated silicon photonics for realizing new types of \u2018physical unclonable function\u2019 (PUF), an important hardware security primitive which can form the basis for security applications such as secure key generation, storage, and exchange. Specific goals of this research project include:\r\n(1)\tInvestigating the performance and information capacity limits of unclonable photonic circuits. Mapping and understanding trade-offs in the photonic PUF design space relating to the degrees-of-freedom, bandwidth, footprint, fabrication sensitivity, environmental sensitivity, design approach, and measurement technique.\r\n(2)\tDeveloping fundamental techniques for extracting and/or generating digital key material and signatures from the physical properties of photonic circuits and PUFs and the photonic signals or spectra they create.  \r\n(3)\tExploring dynamic optoelectronic PUFs based on tunable photonic integrated circuits.  Quantifying enhancement in information capacity and studying stable vs. unstable regimes of key generation, storage, and recall.  Pioneering new concepts relying on optoelectronic feedback to blur the boundary between the optical and electrical hardware to further enhance security and versatility for optical key generation.\r\nThe proposed research will advance our knowledge in the design, implementation, characteristics, and phenomena associated with an emerging class of low symmetry photonic structures and circuits based on moir\u00e9 crystals and quasicrystals \u2013 and do so in a platform with great technological significance. Beyond the technical contributions, this research promises broader societal impacts by fostering the development of innovative hardware security technologies. These advancements will help counter emerging security threats, such as those posed by quantum computing, machine learning, and malicious actors within unsupervised supply chains, thus promoting societal well-being and security.\r\n\r\nThis project is jointly funded by ENG/ECCS/CCSS program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yingjie",
+   "pi_last_name": "Lao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yingjie Lao",
+   "pi_email_addr": "yingjie.lao@tufts.edu",
+   "nsf_id": "000729841",
+   "pi_start_date": "2024-12-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tufts University",
+  "inst_street_address": "80 GEORGE ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MEDFORD",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6176273696",
+  "inst_zip_code": "021555519",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "TRUSTEES OF TUFTS COLLEGE",
+  "org_prnt_uei_num": "WL9FLBRVPJJ7",
+  "org_uei_num": "WL9FLBRVPJJ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tufts University",
+  "perf_str_addr": "169 HOLLAND ST",
+  "perf_city_name": "SOMERVILLE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021442401",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 270000.0
+  }
+ ],
+ "por": null
+}

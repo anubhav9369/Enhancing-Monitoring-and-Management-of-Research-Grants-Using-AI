@@ -1,0 +1,102 @@
+{
+ "awd_id": "2436882",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: HCC: Small: Modeling Learning Engagement Using Gaze Data to Improve Visual Attentional Guidance in Immersive Training",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "vnewhart@nsf.gov",
+ "po_sign_block_name": "Veronica Newhart",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 260000.0,
+ "awd_amount": 260000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "A strong U.S. workforce is vital to maintain a standard of excellence and global leadership in science, technology, engineering and mathematics (STEM). However, the pace in which Americans are entering the STEM workforce is too slow to meet the pressing needs of industries like healthcare, military, manufacturing, and construction. New training methods are needed to improve how learners acquire STEM knowledge and skills to enter the U.S. STEM workforce. Immersive virtual reality (VR) as a training platform is a solution that can provide individual training and education for all Americans. VR experiences with high engagement are particularly effective as mechanisms for learning new and complex ideas. However, without real-time instructor feedback, many learners struggle to stay engaged. This project explores how eye tracking and artificial intelligence (AI) can be used to measure and guide learner engagement in VR training. By automatically detecting when learners are focused or distracted, the system can provide visual cues to support attention and understanding. The outcomes of this work will help more Americans gain the knowledge and skills needed for high-demand STEM careers. Also, novel opportunities will be opened for improving training approaches for people with attention or cognitive challenges. Overall, the knowledge generated from this project will enhance STEM training outcomes when using VR. This work will empower more Americans to advance our national welfare, prosperity and security. \r\n\r\nThis project investigates how gaze-based models can be used for estimating engagement and reactively guiding user attention within immersive VR training experiences. Specifically, VR training will take place within construction safety training, as this domain has a rapidly growing workforce similar to other STEM disciplines. Currently, the speed at which construction workers and professionals gain knowledge and skills needed to complete job tasks safely remains inadequate. To perform construction work safely, trainees are required to be highly engaged during short, demanding, complex training interventions to reduce fatalities and injuries in the workplace. The project is structured around three thrusts in the following areas: (1) data collection and modeling approaches, (2) reactive designs to support engagement; and (3) validation with construction professionals. First, the project will develop real-time and post annotation methods to label engagement states. This process will use gaze, engagement, and training performance data from VR training sessions. These data will be used to reduce labeling bias and improve model accuracy. Then, machine learning techniques (e.g., deep-learning, spike, liquid networks) will be used to identify key fixations, saccades, and pupillary features as they relate to engagement and performance for building real-time engagement models. Various time scales, features, and models will be explored to produce optimal real-time estimations of learner engagement. Second, the research team will investigate how different activation functions can be used to trigger visual attention cues in response to user engagement levels (low, medium, high). Human-centered interventions will assess how these functions influence learner ability to initiate, sustain, or regain engagement. Third, the project will study the produced models using VR construction safety training sessions with industry professionals. The effectiveness and transferability of real-time attention guidance will be evaluated to improve VR trainings. Ultimately, these thrusts will advance our scientific understanding of gaze-based engagement modeling to learn construction safety materials, use AI to guide visual attention, and improve VR tools for workforce training outcomes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brendan",
+   "pi_last_name": "David-John",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brendan M David-John",
+   "pi_email_addr": "bmdj@vt.edu",
+   "nsf_id": "000915828",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "620 Drillfield Drive",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240611050",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 260000.0
+  }
+ ],
+ "por": null
+}

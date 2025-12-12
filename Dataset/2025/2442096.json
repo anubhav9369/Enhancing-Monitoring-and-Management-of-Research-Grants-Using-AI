@@ -1,0 +1,106 @@
+{
+ "awd_id": "2442096",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Nanoscale wavefront shaping with multimode photonic integrated circuits",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 547117.0,
+ "awd_amount": 547117.0,
+ "awd_min_amd_letter_date": "2025-06-02",
+ "awd_max_amd_letter_date": "2025-06-02",
+ "awd_abstract_narration": "Nontechnical description:\r\nPhotonic integrated circuits (PICs) that use light in the visible wavelength range can enable scalable optical interfaces for control and readout of information from cells, atoms, and ions. Miniaturizing these systems to a chip-scale will allow for optical techniques in several fields that impact society, such as biomedical devices, quantum computers, and portable displays, to be scalable, portable, low-cost, and mass manufacturable enabling widespread dissemination. However, in contrast to traditional infrared telecommunication applications where PICs already play an important role, visible applications require optical wavefront shaping capabilities. Current wavefront shaping techniques rely on table-top optics or chips with large waveguide systems, which grow in terms of footprint, optical loss, density of optical routing challenges, and electrical control power. This project addresses these challenges by developing single waveguides capable of creating miniaturized 3D optical patterns using nanoscale wavefront shaping. The project includes educational activities for K-12, undergraduate, and graduate students that will contribute to building the workforce in semiconductors and chip-scale technologies. Visible PICs are visually captivating and important for many societally-relevant applications (e.g. neurotechnology), making them an ideal platform to demonstrate the power of chip-scale technologies to students. The plans also include an annual immersive early-exposure science day for middle school students (Nano Day) as well as an interactive, hands-on lesson that will be delivered to local public schools through the STEM Ambassadors program. \r\n\r\nTechnical description:\r\nThe proposed research develops a platform to enable scalable, nanoscale wavefront shaping using multimode PICs through amplitude and phase control of transverse spatial optical modes. Here we leverage the highest resolution optical structure within waveguides for sub-wavelength reconfiguration of optical patterns within waveguides and wide-angle beam steering, tunable focusing, and structuring of free-space beams from multimode waveguides. Goal 1 is to experimentally validate the theoretical framework for multimode wavefront shaping. Goal 2 develops compact mode superposition control devices based on high-resolution thermo-optic and electro-optic refractive index modulation. Goal 3 develops a compact out-of-plane 3D emitter for dense integration using multimode PICs and demonstrates a system application for neural stimulation. The work proposed here will lead to ultra-compact fully integrated chip-scale beam steering devices capable of producing grating-lobe-free complex beam structuring over a wider field of view than previous methods. In turn, these structures for manipulating optical modes will also allow new system architectures in PICs that leverage the spatial degree-of-freedom beyond a few higher order modes to make a leap towards very-large-scale integration like their electronic counterparts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aseema",
+   "pi_last_name": "Mohanty",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aseema Mohanty",
+   "pi_email_addr": "aseema.mohanty@tufts.edu",
+   "nsf_id": "000835131",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tufts University",
+  "inst_street_address": "80 GEORGE ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MEDFORD",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6176273696",
+  "inst_zip_code": "021555519",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "TRUSTEES OF TUFTS COLLEGE",
+  "org_prnt_uei_num": "WL9FLBRVPJJ7",
+  "org_uei_num": "WL9FLBRVPJJ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tufts University",
+  "perf_str_addr": "169 HOLLAND ST",
+  "perf_city_name": "SOMERVILLE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021442401",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 547117.0
+  }
+ ],
+ "por": null
+}

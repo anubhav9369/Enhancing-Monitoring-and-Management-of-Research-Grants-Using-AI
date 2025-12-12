@@ -1,0 +1,122 @@
+{
+ "awd_id": "2501479",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Understanding the Integrated Cyber-Physical Resilience of Continuous Critical Manufacturing",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2029-06-30",
+ "tot_intn_awd_amt": 555504.0,
+ "awd_amount": 540362.0,
+ "awd_min_amd_letter_date": "2024-11-15",
+ "awd_max_amd_letter_date": "2024-11-15",
+ "awd_abstract_narration": "Industrial internet-of-things (IIoT) technologies spark growing interest in manufacturing security and resilience. However, current solutions lack a holistic understanding of cyber-physical resilience in complex systems, failing to connect IIoT network vulnerabilities with dynamic manufacturing processes for effective detection and control. To address these gaps, this Faculty Early Career Development (CAREER) project aims to develop novel methodologies that integrate modeling, detection, and control measures for understanding the cyber-physical resilience of continuous critical manufacturing systems. This study will work to eliminate barriers to the development of new policies, regulations, and standards for IIoT applications in manufacturing. In collaboration with industry stakeholders, this project promises long-term benefits by extending its methods and tools to other critical infrastructures, thereby enhancing national cyber-physical resilience. Meanwhile, the education and outreach activities in this project foster sustained awareness of cyber-physical resilience among both future and current manufacturing professionals. Introducing new courses and training materials enhances students' exposure to advanced manufacturing technologies and improves their data science and cybersecurity skills. K-12 outreach initiatives boost understanding of IIoT and cyber-physical resilience, promoting manufacturing careers. A specially designed training software addresses the need for intuitive cybersecurity training in engineering language. These endeavors align with the National Strategy for Advanced Manufacturing by contributing to the goal of ensuring national security.\r\n\r\nThis study addresses critical challenges in continuous manufacturing systems' cyber-physical resilience. The research objectives include (1) Development of Generalizable Tools: The project aims to build generalizable tools for cyber-physical resilience quantification. By creating stochastic models that integrate cyber connectivity and system dynamics of heterogeneous components, a novel quantification metric will be established. This metric considers both IIoT network features and manufacturing system dynamics through stochastic optimization, revealing system-level risks induced by IIoT connectivity. (2) Rethinking Anomaly Detection: The project will rethink cyber-physical resilience-driven anomaly detection by incorporating system-wide resilience quantification into process-based anomaly detection algorithms. This involves designing novel semi-supervised learning algorithms that incorporate resilience, with a focus on understanding the theories governing detection accuracy and resilience enhancement in high-dimensional data-driven anomaly detection. (3) Collaborative Learning-Based Resilient Control Strategies: The study aims to create collaborative learning-based resilient control strategies. Leveraging reinforcement learning and system connectivity, these strategies enhance a system's adaptability to cyberattacks. This involves exploring the under-explored area of vertical federated reinforcement learning and generating new knowledge regarding the trade-off between the control performance of individual machines and the system's adaptability to adversaries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dan",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dan Li",
+   "pi_email_addr": "dli455@wisc.edu",
+   "nsf_id": "000878361",
+   "pi_start_date": "2024-11-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "229Y00",
+   "pgm_ele_name": "MSI-Manufacturing Systms Integ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "016Z",
+   "pgm_ref_txt": "Cybermanufacturing Systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "118E",
+   "pgm_ref_txt": "GRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "1713",
+   "pgm_ref_txt": "WORKFORCE"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 540362.0
+  }
+ ],
+ "por": null
+}

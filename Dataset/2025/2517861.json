@@ -1,0 +1,110 @@
+{
+ "awd_id": "2517861",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: State-Aware Demand Control to Facilitate Shared Use of Autonomous Mobility",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-04-23",
+ "awd_max_amd_letter_date": "2025-04-24",
+ "awd_abstract_narration": "This EArly-concept Grants for Exploratory Research (EAGER) project will fund research that looks to advance system designs, models, and algorithms for state-aware demand control to significantly enhance shared use of emerging autonomous mobility systems. The rapid expansion of technologies such as robotaxis, robovans, and urban air mobility has the potential to reshape future cities and transform urban transportation. However, this transformation brings significant challenges, particularly managing congestion. Without effective ride-pooling operations, a substantial portion of vehicle miles could involve zero-occupancy trips, an unprecedented phenomenon in transportation networks. On the other hand, autonomous fleets offer unique opportunities through their innovative and flexible vehicle designs, as well as centralized control systems that promote scalable shared-ride experiences. Unlike traditional demand management strategies, this research project seeks to leverage the real-time state of the network to dynamically shape demand, incorporating evolving vehicle and rider trajectories to reflect existing and potential pooling opportunities. These methods have wide-ranging applications for various stakeholders. The methods developed in this project look to help fleet operators create dynamic fare-setting algorithms and technologies that effectively scale ride-pooling operations, and inform local transportation authorities to design dynamic subsidy programs that encourage pooling and alleviate congestion. Beyond passenger transportation and if successful, findings could also be applied to freight bundling and last-mile delivery consolidation, reducing logistics costs and carbon emissions. Additionally, this project will create an educational game focused on shared ride matching and pricing to inspire future generations to address sustainability challenges associated with modern transportation systems.\r\n\r\nThis research project looks to develop novel models and scalable algorithms for stochastic dynamic decision-making in large-scale transportation networks, with a focus on realistic urban-scale settings comprising tens of thousands of nodes and edges that closely reflect the street grids of major metropolitan areas. Methodologically, the project looks to break new ground by integrating Markov decision processes with large-scale networks, enabling them to operate directly on detailed network topologies rather than relying on the coarse, aggregated zones traditionally used in prior research. To tackle the curse of dimensionality issue inherent in city-scale Markov decision processes, the project seeks to develop customized approximation algorithms to enhance scalability. Additionally, it looks to establish novel performance bounds for these approximation policies, providing worst-case guarantees for arbitrary networks and asymptotic guarantees as networks scale from localized, campus-sized areas to entire cities and beyond.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chiwei",
+   "pi_last_name": "Yan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chiwei Yan",
+   "pi_email_addr": "chiwei@berkeley.edu",
+   "nsf_id": "000810004",
+   "pi_start_date": "2025-04-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163100",
+   "pgm_ele_name": "CIS-Civil Infrastructure Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "1057",
+   "pgm_ref_txt": "CIS BASE RESEARCH"
+  },
+  {
+   "pgm_ref_code": "029E",
+   "pgm_ref_txt": "INFRASTRUCTURE SYSTEMS MGT"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

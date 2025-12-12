@@ -1,0 +1,110 @@
+{
+ "awd_id": "2530985",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: Quantifying Regional-Scale Carbon Dynamics of Thawing Arctic Permafrost Using Progressive Neural Operators",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032922319",
+ "po_email": "mdierick@nsf.gov",
+ "po_sign_block_name": "Marion Dierickx",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 743180.0,
+ "awd_amount": 743180.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "The Arctic\u2019s permafrost \u2014 persistently frozen ground \u2014 holds an enormous amount of carbon, roughly twice the amount currently in the Earth\u2019s atmosphere. As permafrost thaws, the associated release of dissolved carbon into the ocean causes acidification that threatens marine life, disrupts ecosystems, and puts coastal communities and food security at risk. This project brings together geoscience and artificial intelligence (AI) experts to develop new tools that will help us better understand and predict the impacts of thawing permafrost and the associated release of carbon into oceans. Through a combination of data-driven and physics-driven approaches, model development will overcome limitations of data sparsity that have hindered previous attempts to quantify and predict sources and rates of permafrost-driven carbon release. This project also offers hands-on research opportunities for graduate and undergraduate students and develops a new course on using machine learning for subsurface flow modeling. All software and training datasets will be made publicly available alongside documentation that will foster broad reuse for energy and environmental research and education. \r\n\r\nThis project aims to develop efficient surrogate models to accurately capture the multi-physics processes within the thawing permafrost and to quantify permafrost carbon dynamics and associated uncertainties across the Arctic shelf. The research team will develop novel progressive neural operators (PNOs) that leverage multi-level, reduced-physics training datasets while addressing challenges such as catastrophic forgetting in machine learning. The developed PNO models will be integrated with a wide range of compiled datasets to predict seabed methane fluxes across the Arctic shelf and quantify the associated uncertainties. This project will also generate time-dependent, three-dimensional distributions of permafrost dynamics (e.g., temperature, ice content, pore water pressure, and salinity) and carbon transformations (e.g., organic carbon decomposition rates, methane concentration, and relict organic carbon content) beneath the sediment-water interface. These results will significantly enhance our understanding of the Arctic permafrost and provide new insights into how permafrost carbon affects ocean chemistry and the global carbon cycle.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kehua",
+   "pi_last_name": "You",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kehua You",
+   "pi_email_addr": "kehua@ig.utexas.edu",
+   "nsf_id": "000840182",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hewei",
+   "pi_last_name": "Tang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hewei Tang",
+   "pi_email_addr": "hewei.tang@austin.utexas.edu",
+   "nsf_id": "0000A0XSZ",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "10100 Burnet Rd. ROC/Bldg 196",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787584445",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "TX37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 743180.0
+  }
+ ],
+ "por": null
+}

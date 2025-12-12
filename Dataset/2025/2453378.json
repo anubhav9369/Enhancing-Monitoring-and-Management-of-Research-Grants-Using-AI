@@ -1,0 +1,102 @@
+{
+ "awd_id": "2453378",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RI: SMALL: Causal concept models for causal reasoning and concept discovery in generative AI",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "eplaku@nsf.gov",
+ "po_sign_block_name": "Erion Plaku",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 545359.0,
+ "awd_amount": 545359.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Generative artificial intelligence (AI) has transformed information processing and has demonstrated remarkable capacities for creativity in language and imagery. However, despite these advancements, generative AI continues to struggle when it comes to reasoning about cause and effect. Causality is the ability to understand how and why things happen. For example, recognizing which factors bring about a particular outcome, as well as what might happen if conditions change. This lack of the deeper causal understanding in generative AI is an issue because it is often needed for more complex decision-making.  This type of reasoning is essential for building AI systems that can generalize more reliably, predict the results of actions or changes, and offer deeper understanding of the systems they are meant to model.  This project will address these shortcomings of generative AI systems by developing a new generation of AI models designed specifically to learn causal models. By integrating theoretical principles from causality with recent advances in deep learning, these models will enable robust causal reasoning and meaningful abstraction. Ultimately, this research aims to deliver generative AI systems that are interpretable, verifiable, and robust, significantly enhancing their applicability to reason across a broad range of real-world scenarios.\r\n \r\nCurrent generative AI models, which leverage end-to-end deep learning over large, unstructured datasets, demonstrate impressive scalability and expressivity, successfully capturing latent structures useful for various applications. However, these models typically produce representations that are difficult to interpret and reliant on spurious correlations rather than robust causal relationships. Such limitations hinder their effectiveness in mission-critical settings, where interpretable causal reasoning and reliable explanations are essential. This research will develop a new generation of models capable of both causal reasoning and abstraction through automated, data-driven learning of causal representations. This approach maintains expressivity while incorporating explicit statistical guarantees to ensure learned representations are causal, interpretable, and reproducible. Unlike existing approaches that rely heavily on manual specification, known causal graphs, or explicit supervision, our framework is built upon a theoretically rigorous method for discovering causal relationships directly from data. By clearly articulating underlying assumptions within causal graphical models and avoiding reliance on prior knowledge, the framework enables training generative models that intrinsically learn meaningful causal representations from scratch. Incorporating causal reasoning into generative models enhances their ability to make more informed decisions, benefiting a wide range of sectors by improving accuracy and effectiveness across various applications. In education, the impacts will be achieved through the integration of undergraduate and graduate students in research, fostering a deeper understanding of causal relationships and encouraging hands-on learning in cutting-edge areas of AI.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nikhyl",
+   "pi_last_name": "Aragam",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nikhyl B Aragam",
+   "pi_email_addr": "bryon@chicagobooth.edu",
+   "nsf_id": "000810540",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Chicago",
+  "inst_street_address": "5801 S ELLIS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "7737028669",
+  "inst_zip_code": "606375418",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IL01",
+  "org_lgl_bus_name": "UNIVERSITY OF CHICAGO",
+  "org_prnt_uei_num": "ZUE9HKT2CLC9",
+  "org_uei_num": "ZUE9HKT2CLC9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Chicago",
+  "perf_str_addr": "5801 S ELLIS AVE",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606375418",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "IL01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 545359.0
+  }
+ ],
+ "por": null
+}

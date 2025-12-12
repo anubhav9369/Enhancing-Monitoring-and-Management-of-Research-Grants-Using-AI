@@ -1,0 +1,93 @@
+{
+ "awd_id": "2516080",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-SNSF: Rapid Beamforming for Massive MIMO using Machine Learning on RF-only and Multi-modal Sensor Data",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 373326.0,
+ "awd_min_amd_letter_date": "2025-01-17",
+ "awd_max_amd_letter_date": "2025-01-17",
+ "awd_abstract_narration": "Massive Multiple Input Multiple Output (mMIMO) antenna systems will be an important technology for future mobile telecommunication networks to meet high data transfer rates, assured reliability, and reduced latency, all of which will enable many new and exciting applications. A key feature of mMIMO is the ability for directional transmissions by suitably coordinating the settings of large number of antenna elements, which requires careful alters the signal characteristics of phase and amplitude for each element. In collaboration with Torsten Braun at the University of Bern, Switzerland, this project aims to address the challenge of computing the parameters required to properly configure these massive antenna arrays in real time using the concepts of reinforcement learning and federated learning (FL). This project will forge new connections not only between the U.S. and Switzerland through collaborative research, bi-directional visits, and joint coursework development, but also between machine learning and wireless communities. The PIs will give also record short video tutorials on applied machine learning targeting wireless engineers, and release these on media-sharing platforms. Finally, all findings derived from the research activities, including position/vision papers, will be disseminated in top peer-reviewed conferences and journals in networking and communications.\r\n\r\nBeamforming for directional transmissions in mMIMO involves adjusting the phase and amplitude of the transmitted signals to direct the signal to the intended receiver and minimize interference with other users. However, the channel estimation process, a pre-requisite step for setting precoding data bits transmitted over a multi-antenna system, can be computationally intensive and time consuming. This project considers the challenges associated with beamforming in an mMIMO system, significantly increasing the computational overhead over classical MIMO. Even with rapid strides in computing technology, classical processing cannot keep up with the demands of configuring an mMIMO system in real-time, such that the entire process is completed within the channel coherence time. The project has two major scientific objectives to address this challenge. It aims to advance the state-of-the-art in resilient and personalized channel estimation using (i) distributed and federated learning and (ii) multi-modal sensor data. For objective (i), the research will address challenges of contamination of pilot signals due to interference and design of personalized FL for channel estimation based on shared knowledge among. For objective (ii), the research will leverage multimodal sensor data, transfer learning and attention-based transformer neural networks to minimize model training costs and delay. The concepts, approaches, and algorithms developed will be validated in real-world experiments and simulations based on realistic collected data on the NSF Colosseum and in over-the-air testbeds. The data sets, code developed for the models and algorithms will be available for independent validation and re-use. This proposal was awarded as part of the NSF-Swiss NSF Lead Agency Opportunity for unsolicited proposals (NSF 23-049).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kaushik",
+   "pi_last_name": "Chowdhury",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kaushik R Chowdhury",
+   "pi_email_addr": "kaushik@utexas.edu",
+   "nsf_id": "000541186",
+   "pi_start_date": "2025-01-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 373326.0
+  }
+ ],
+ "por": null
+}

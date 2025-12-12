@@ -1,0 +1,98 @@
+{
+ "awd_id": "2525332",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMitF: Track III: Introducing Verification Through Creative Embedded Systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 249484.0,
+ "awd_amount": 249484.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "The project integrates formal verification techniques into creative technology education. It targets students working with microcontroller-based embedded systems and interactive media, including sound synthesis and art installations. As programmers in general, and especially creative technologists, increasingly use Artificial Intelligence (AI)-assisted tools to write code, they face growing challenges in managing and verifying the correctness of their systems. The project\u2019s novelties are its integration of runtime verification, model checking, and reactive synthesis into creative embedded systems curricula, and its adaptation of these tools for use by non-verification students. The vision is that program verification is deeply integrated into every student\u2019s experience, even if they are not explicitly studying verification. The project\u2019s impacts are to make verification tools accessible to new user communities, address the urgent need for trustworthy AI-generated code in the maker and arts communities, and train students to be prepared for verification-focused engineering careers. The project advances educational research by exploring how formal reasoning can be taught through hands-on, project-based work and establishes a pipeline for future research into verification of AI-generated code for media arts software.\r\n\r\nTechnically, the project develops new pedagogical strategies and tool integrations to introduce formal verification tools such as RTLola, TLA+, and Temporal Stream Logic (TSL) in creative contexts. The investigators adapt these tools to microcontroller-based platforms and design learning modules that align with the workflows of artists, designers, and creative coders.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Santolucito",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark P Santolucito",
+   "pi_email_addr": "msantolu@barnard.edu",
+   "nsf_id": "000841264",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Barnard College",
+  "inst_street_address": "3009 BROADWAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128542708",
+  "inst_zip_code": "100276909",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "BARNARD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LPQ1NHRK78M9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Barnard College",
+  "perf_str_addr": "3009 BROADWAY",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100276909",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "094Y00",
+   "pgm_ele_name": "FMitF: Formal Methods in the F"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "071Z",
+   "pgm_ref_txt": "FMitF-Formal Methods in the Field"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 249484.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,126 @@
+{
+ "awd_id": "2448286",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "GOALI: Integrated Sensor Networks for Precision Pest Detection and Management",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 548193.0,
+ "awd_amount": 548193.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "This project is a smart-agriculture collaboration between Purdue University and Bayer Crop Science that will create an integrated network of small, plant-wearable sensors to improve early pest damage detection in agriculture. When insects attack a plant, the plant releases specific volatile organic compounds (VOCs) as a distress call. The proposed sensor system can identify these VOC signatures in real time. Each sensor is built with advanced nanomaterials and is flexible enough to attach to a corn plant\u2019s leaves or stalk like a tiny sticker. The sensors are designed to be highly sensitive and selective to VOC indicators of pest damage, for the accurate detection of insect infestations of crops in the earliest stages. \r\n\r\nDevelopment and testing of the proposed early pest detection technology will occur in stages to confirm reliable outcomes. In the first phase, the researchers will design and fabricate the sensor array devices by using high performance nanomaterials and device design and printing technologies. Next, they will test the plant-wearable VOC sensor array in the laboratory and in controlled greenhouse environments at Purdue and Bayer facilities by exposing corn plants to pests (e.g. European corn borer). The team will fine-tune the sensors\u2019 responses (sensitivity, selectivity, robustness) across different plant varieties and growth conditions. Once validated in these settings, the sensors will be deployed on actual farms in Indiana for field trials. This project innovatively integrates sensors into a smart Internet-of-Things network with AI-driven data analysis. Each low-power sensor node will transmit its readings via a wireless link to a central hub for processing. There, data analytics and Artificial Intelligence (AI) algorithms will filter out background noise and recognize the chemical patterns that signify early pest. This automated analysis will trigger alerts to farmers and provide quick and actionable information far sooner than traditional crop scouting methods. The project will contribute to the workforce development by training a cohort of graduate, undergraduate and high-school students in hands-on skills transferable to agriculture and engineering careers in the U.S. economy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lia",
+   "pi_last_name": "Stanciu",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lia A Stanciu",
+   "pi_email_addr": "lstanciu@purdue.edu",
+   "nsf_id": "000488596",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christian",
+   "pi_last_name": "Krupke",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christian H Krupke",
+   "pi_email_addr": "ckrupke@purdue.edu",
+   "nsf_id": "0000A04K8",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lixby",
+   "pi_last_name": "Diaz Amaya",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lixby S Diaz Amaya",
+   "pi_email_addr": "susana.diaz2@bayer.com",
+   "nsf_id": "0000A04J4",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "701 West Stadium Ave.",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479072045",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  },
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 548193.0
+  }
+ ],
+ "por": null
+}

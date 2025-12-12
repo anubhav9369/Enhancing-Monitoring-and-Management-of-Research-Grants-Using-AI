@@ -1,0 +1,98 @@
+{
+ "awd_id": "2439455",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR Phase II: AI-based Accessible Visual-Assessment App for Active Healthy Aging of Older Adults",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928772",
+ "po_email": "patherto@nsf.gov",
+ "po_sign_block_name": "Peter Atherton",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 1230163.0,
+ "awd_amount": 1230163.0,
+ "awd_min_amd_letter_date": "2025-09-04",
+ "awd_max_amd_letter_date": "2025-09-04",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase II project will result from providing remote, accessible fall risk assessments and exercise programs. This project empowers older adults to maintain independence and improve their quality of life. Falls are a major health risk for older adults, with significant physical, psychological, and economic impacts, costing the U.S. $50 billion annually. Current fall prevention methods are costly, inconsistent, or difficult to access, particularly in rural communities. This project introduces an AI-based video assessment app for routine fall risk assessments and personalized exercises for older adults using common smartphones or tablets. This innovation aims to improve the quality of life for older adults. Beyond improving individual health outcomes, this project has the potential to significantly lower healthcare costs by reducing fall-related hospitalizations, rehabilitation expenses, and long-term care admissions. By providing an affordable, scalable, and privacy-preserving alternative to traditional fall assessments, the results of this project benefit healthcare systems, insurance providers, and senior living communities alike. Additionally, this project catalyzes awareness of fall prevention and the role of technology in enhancing elderly care while fostering interdisciplinary collaboration and innovation.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase II project creates innovative AI and computer vision technologies to develop a novel AI-based video assessment system for accurate, real-time fall risk assessment across various smart devices. Unlike conventional systems, this innovation is camera-agnostic, lighting-independent, and privacy-focused, ensuring broad accessibility without storing or sharing raw video data. A key aspect of this project is its strong commitment to privacy. Unlike conventional monitoring systems, the proposed solution operates without continuous video recording, ensuring that original video content is never stored or shared, a critical feature for user trust and data security. Inspired by recent advances in Large Language Models and Self-Supervised Learning, the proposed technology introduces a novel autoregressive encoder framework for real-time human motion prediction and analysis and personalized exercise coaching, utilizing only the built-in camera and computational power of existing smartphones and tablets. This innovation surpasses existing vision transformer models by focusing on human motion heatmaps, which capture the spatial/temporal aspects of human movement. This project presents a unique approach to learning and understanding human body movements contextually, regardless of the camera's perspective, field of view, and environmental noise. The transition from pixel-level processing to heatmap-based representation significantly reduces model complexity and computational load.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mona",
+   "pi_last_name": "Azarbayjani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mona Azarbayjani",
+   "pi_email_addr": "mona@foresightcares.com",
+   "nsf_id": "000835054",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "FORESIGHTCARES INC.",
+  "inst_street_address": "1766 ROCK HILL CHURCH RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "MATTHEWS",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "7049577869",
+  "inst_zip_code": "281043158",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NC08",
+  "org_lgl_bus_name": "FORESIGHTCARES INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UFLSPU3NT8T5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "FORESIGHTCARES INC.",
+  "perf_str_addr": "1766 ROCK HILL CHURCH RD",
+  "perf_city_name": "MATTHEWS",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "281043158",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NC08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537300",
+   "pgm_ele_name": "SBIR Phase II"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1230163.0
+  }
+ ],
+ "por": null
+}

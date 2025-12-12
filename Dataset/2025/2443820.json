@@ -1,0 +1,122 @@
+{
+ "awd_id": "2443820",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: On-chip Synchronized Frequency-Segmented mm-Wave and sub-Terahertz Transceivers for High-Resolution Polarimetric Radars",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2025-09-18",
+ "awd_abstract_narration": "Understanding and interpreting the world around us with precision is essential for many modern technologies that enhance safety, efficiency, and quality of life. Radar systems play a particularly important role because, unlike other sensors such as cameras or lasers, they can operate effectively in all weather conditions, including heavy rain, fog, or complete darkness. Despite their promise, current radar and imaging systems face significant challenges, including low-resolution, high-power consumption, and slow calibration, which hinder their full deployment across critical applications. Moreover, the radar signal processing becomes very complex when the radars are deployed in large quantities, which impacts the scalability of radar arrays. This project addresses these issues through innovative designs of scalable radar transceivers and bio-inspired super-resolution techniques. By adopting machine learning algorithms, the data processing inside large arrays is simplified. By enhancing the temporal efficiency, an almost-real-time perception of the environment can be realized. These breakthroughs will enable transformative applications, such as safer autonomous systems, real-time security monitoring, precise environmental analysis, and cutting-edge biomedical diagnostics. An integral component of the project is its commitment to education. Comprehensive outreach programs, including STEM competitions, hands-on demonstrations, and mentorship, will inspire students to pursue careers in science and engineering and will cultivate a skilled workforce, ready to lead in high-tech fields.\r\n\r\nThe research focuses on designing scalable, fully integrated radar transceivers operating at millimeter-wave (mm-wave) and near terahertz (THz) frequencies to address critical challenges in modern radar systems. Leveraging segmented phase-locked architectures to generate synthetic wideband signals, these radar transceivers will achieve enhanced resolution and sensing capabilities. The project aims to: 1) design transceivers capable of operating across multiple frequency bands with precise phase and frequency synchronization for improved range resolution; 2) integrate multi-band polarimetric radars with rapid calibration methods to extract detailed object information, including material properties and surface characteristics; and 3) apply bio-inspired resolution enhancement techniques with multiple-input multiple-output (MIMO) radar configurations based on a novel MIMO setup with built-in synchronization for highly accurate imaging. The radar system will utilize advanced machine learning models to further simplify calibration and data fusion from multiple frequency bands and polarization states, enabling near real-time, high-resolution imaging in noisy or cluttered environments. Validated through extensive simulations and experiments, the research will address limitations such as high power consumption, large form factors, and low resolution to transform radar applications in security, healthcare, and industrial monitoring. Complementing technical advances, the project includes education and outreach programs, featuring graduate-level courses, industry collaborations, and K-12 STEM initiatives. Students will engage in hands-on activities such as radar design competitions, generating training data for machine learning models, and workshops to prepare themselves as the future generation of innovators in mm-wave and THz systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hamidreza",
+   "pi_last_name": "Aghasi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hamidreza Aghasi",
+   "pi_email_addr": "haghasi@uci.edu",
+   "nsf_id": "000818947",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "4414 Engineering Hall",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

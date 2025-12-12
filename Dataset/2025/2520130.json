@@ -1,0 +1,106 @@
+{
+ "awd_id": "2520130",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Quantum Algorithmic Foundations for Reliable Transportation Networks",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 299986.0,
+ "awd_amount": 299986.0,
+ "awd_min_amd_letter_date": "2025-04-23",
+ "awd_max_amd_letter_date": "2025-04-24",
+ "awd_abstract_narration": "This EArly-concept Grants for Exploratory Research (EAGER) project support research that will explore the untested, transformative potential of quantum computing to revolutionize transportation networks under uncertainty. The reliability of transportation networks is crucial for economic stability and public welfare, as disruptions and delays can lead to significant financial and societal costs. By leveraging quantum information science, this research project seeks to pioneer quantum algorithms that overcome these limitations, laying the groundwork for a new era of innovation in transportation. This project has the potential to create societal and economic benefits, such as reducing unreliability of transportation networks in the U.S., improving decision making under uncertainty, and enhancing resilience to disruptions caused by climate-driven weather events. Furthermore, this work looks to provide foundational insights that inform the development of practically applicable quantum algorithms and set the stage for quantum innovation in civil infrastructure systems and other critical engineering applications. The project looks to advance STEM education by integrating quantum computing into transportation courses, training graduate students to innovate at the nexus of transportation and quantum computing, and fostering interdisciplinary collaborations with academia and industry.\r\n\r\nThis research project will undertake an ambitious exploration of the unique capabilities of quantum simulation and quantum optimization for solving key problems in stochastic transportation networks, pioneering quantum algorithms to tackle two core challenges: modeling stochastic transportation networks and solving reliability-based routing problems. Quantum simulation algorithms will be developed to encode spatial and temporal dependencies directly into quantum states, capturing complex stochastic dynamics at a level of realism unattainable by classical methods. These methods look to utilize quantum amplitude estimation and dimensionality reduction techniques to improve computational efficiency and achieve accuracy guarantees unattainable by classical sampling-based techniques for stochastic simulation. The project seeks to establish tailored quantum optimization algorithms and a hybrid quantum-classical approach for pathfinding and route choice problems in stochastic transportation networks, respectively. These approaches will be evaluated for resource cost and solution quality through computational experiments on toy and benchmark transportation networks using both noisy intermediate-scale quantum devices and fault-tolerant quantum simulators. The outcomes of this research look to demonstrate the potential of quantum algorithms to solve critical problems in transportation and seek to advance our understanding of the capabilities and limitations of quantum computing for complex engineering systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Monika",
+   "pi_last_name": "Filipovska",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Monika Filipovska",
+   "pi_email_addr": "monika.filipovska@uconn.edu",
+   "nsf_id": "000871543",
+   "pi_start_date": "2025-04-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut",
+  "inst_street_address": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "inst_street_address_2": "",
+  "inst_city_name": "STORRS",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604863622",
+  "inst_zip_code": "062699018",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNTPS995QBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut",
+  "perf_str_addr": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "perf_city_name": "STORRS",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "062699018",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163100",
+   "pgm_ele_name": "CIS-Civil Infrastructure Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "029E",
+   "pgm_ref_txt": "INFRASTRUCTURE SYSTEMS MGT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299986.0
+  }
+ ],
+ "por": null
+}

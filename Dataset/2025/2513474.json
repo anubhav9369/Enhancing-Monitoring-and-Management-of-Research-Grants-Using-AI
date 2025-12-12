@@ -1,0 +1,109 @@
+{
+ "awd_id": "2513474",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Frameworks: Building the PySCF Software Infrastructure for Next-Generation Electronic Structure Simulations",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 1360000.0,
+ "awd_amount": 1360000.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "This project builds the next-generation Python Simulations of Chemistry Framework (PySCF) software platform to make electronic structure simulations faster, more robust, and more accessible to computational scientists across many disciplines. The new cyberinfrastructure will enable researchers to better understand the behavior of complex molecules and materials, which plays a crucial role in advancing energy technologies, catalysis, drug discovery, and quantum materials. By harnessing modern computing architectures such as graphics processing units (GPUs) and developing advanced quantum chemistry algorithms, the project will significantly speed up large-scale quantum simulations while reducing computational cost. The project will also produce user-friendly interfaces, manuals, tutorials, and training materials to support education and workforce development in computational science. As an open-source and extensible platform, the PySCF software will catalyze innovation across a broad research community, including chemistry, physics, materials science, artificial intelligence (AI), and quantum information science.\r\n\r\nFirst-principles simulations play an essential role in chemistry and materials research, yet the user adoption of more robust electronic structure methods has been hindered by the lack of open-source, high-performance, and user-friendly software infrastructure. The sustained innovation of new quantum chemistry tools is also often hampered by high code complexity and limited extensibility of existing software implementations. This collaborative project addresses these fundamental challenges by advancing the PySCF framework to deliver high-efficiency electronic structure tools and an extensible method development platform. Specifically, this project will develop GPU-accelerated quantum chemistry infrastructure, a low-rank density fitting engine to exploit sparse tensor structures, and a quantum embedding library to enable simulation of complex systems. By incorporating automatic capabilities such as autodifferentiation and designing reusable and modular libraries, this project will substantially lower the barrier for developing quantum chemistry methods and incorporating electronic structure components into AI workflows. Furthermore, a wide selection of cutting-edge stochastic and multireference methods, such as auxiliary-field quantum Monte Carlo and complete active space perturbation theory, will be implemented and integrated with new acceleration techniques. Overall, this project will open new frontiers for accurate and scalable simulations of molecules and materials.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Chemistry in the Directorate for Mathematical and Physical Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Garnet",
+   "pi_last_name": "Chan",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Garnet K Chan",
+   "pi_email_addr": "garnetc@caltech.edu",
+   "nsf_id": "000486308",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sandeep",
+   "pi_last_name": "Sharma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sandeep Sharma",
+   "pi_email_addr": "sandeeps@caltech.edu",
+   "nsf_id": "000758161",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California Institute of Technology",
+  "inst_street_address": "1200 E CALIFORNIA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PASADENA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6263956219",
+  "inst_zip_code": "911250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U2JMKHNS5TG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California Institute of Technology",
+  "perf_str_addr": "1200 E CALIFORNIA BLVD",
+  "perf_city_name": "PASADENA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "911250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1360000.0
+  }
+ ],
+ "por": null
+}

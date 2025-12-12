@@ -1,0 +1,114 @@
+{
+ "awd_id": "2542180",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MPS/CHE-EPSRC: Coherent Optical Control of Triplet Spin States in Organic Molecule Quantum Emitters",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032928173",
+ "po_email": "jpapanik@nsf.gov",
+ "po_sign_block_name": "John Papanikolas",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-09-15",
+ "awd_max_amd_letter_date": "2025-09-15",
+ "awd_abstract_narration": "With support from the Division of Chemistry, Professors Jonathan Hood and Libai Huang of Purdue University, along with their collaborator from the University of Bristol in the United Kingdom, are developing molecular platforms for quantum memory applications based on cryogenically cooled conjugated organic molecules. While these molecules are exceptionally coherent emitters of photons, the ground and excited electronic states are singlets and hence lack the spin degree of freedom needed for memory.  Triplet states could provide this functionality, as well as long coherence times, but the exceedingly small intersystem crossing rates and extremely weak absorption cross-sections make them nearly undetectable. Accessing this hidden state holds the key to transforming excellent light-emitting molecules into quantum memories. Professors Hood, Huang, and their collaborators will use advanced steady-state and time-resolved laser techniques capable of coherent quantum state manipulation to access and study the triplet states of large organic chromophores. Their discoveries could establish fundamental principles that connect chemical structure to quantum memory performance, opening new avenues for chemically tailored quantum technologies. The project would create research opportunities for postdoctoral scholars in cutting-edge quantum molecular science, thereby contributing to the development of a quantum-enabled STEM workforce. This award is made under the NSF-UKRI lead agency opportunity.\r\n\r\nThe research addresses the fundamental challenge of accessing triplet states in dibenzoterrylene (DBT) molecules which are doped as crystal defects within an anthracene lattice. Intersystem crossing to the triplet state occurs in only one out of 10 million excitation events, and as a result has remained difficult to detect. The team will employ sensitizers to enhance triplet population through Dexter energy transfer, enabling phosphorescence detection near 1550 nm and circumventing the weak direct optical transition. Following triplet state discovery using time-resolved spectroscopy, the team will implement coherent two-photon Raman schemes for deterministic state preparation, while optically detected magnetic resonance will provide zero-field splitting between triplet sublevels. Critical to quantum memory functionality, the project integrates DBT with silicon nitride nanophotonic cavities targeting Purcell factors exceeding 20 and collection efficiencies above 50%. Coherence optimization employs three complementary strategies: dynamical decoupling sequences via integrated microwave control, isotopically purified host matrices to minimize nuclear spin interactions, and innovative sensor-emitter architectures where spatially separated molecules provide real-time environmental feedback for adaptive protection. These advances will demonstrate spin-photon entanglement protocols essential for quantum repeater applications, establishing DBT as a chemically tunable platform where molecular design principles enable control over quantum information storage and retrieval.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jonathan",
+   "pi_last_name": "Hood",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jonathan D Hood",
+   "pi_email_addr": "hoodjd@purdue.edu",
+   "nsf_id": "000842811",
+   "pi_start_date": "2025-09-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Libai",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Libai Huang",
+   "pi_email_addr": "libai-huang@purdue.edu",
+   "nsf_id": "000532239",
+   "pi_start_date": "2025-09-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  },
+  {
+   "pgm_ele_code": "910100",
+   "pgm_ele_name": "CSD-Chem Strcture and Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

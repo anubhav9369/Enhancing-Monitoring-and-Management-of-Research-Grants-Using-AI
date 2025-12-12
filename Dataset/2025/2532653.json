@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: BLoG: A Bi-Level Optimization Framework for Learning Over Graphs",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 250002.0,
+ "awd_amount": 250002.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "Graphs, representing complex sensing and other societal systems like disease networks, social networks, and communication networks, are essential in understanding interactions within these systems. By accurately modeling relationships and structures within data via graphs, today machine learning over graphs (LoGs) plays a vital role in various applications. However, LoG introduces additional hyperparameters such as graph topologies and nodal embeddings into the already complicated neural network training processes. Traditionally, LoG approaches relied on user-defined heuristics to extract features encoding structural information about a graph. However, this process becomes prohibitively expensive in large models and high-dimensional data regimes, and the performance of LoGs highly depends on the choice of these hyperparameters. To address these challenges, the project puts forth a unified bi-level optimization-based training framework for LoGs with automatic selection of hyperparameters. The project also supports the education and diversity goals of the NSF by integrating LoGs research advances into machine learning courses taught in University of California at Irvine and Rensselaer Polytechnic Institute, making cutting-edge LoGs techniques more accessible to a wider range of researchers and students, fostering innovation and inclusivity in the scientific community.\r\n\r\nTowards this goal, this project aims to develop a bi-level optimization (BLO) framework for trustworthy and efficient LoG, called BLoG. In addition to the basic algorithm and optimization theory development for BLoG, the project will build a tri-level BLoG problem for robust and adversarial graph neural network training tasks, tailoring gradient-based BLO algorithms to these problems. The project will also develop a BLoG framework with multiple lower-level problems for multiple LoG tasks, named Fast-BLoG. Fast-BLoG will tackle fast and efficient semi-supervised graph neural network training. The project will highlight the advantages and new technical challenges of using the BLoG framework for handling machine learning tasks over graphs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tianyi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tianyi Chen",
+   "pi_email_addr": "chentianyi19@gmail.com",
+   "nsf_id": "000807915",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 250002.0
+  }
+ ],
+ "por": null
+}

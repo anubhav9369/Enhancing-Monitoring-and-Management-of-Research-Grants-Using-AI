@@ -1,0 +1,130 @@
+{
+ "awd_id": "2443221",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Random Sampling of Structures on Graphs",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 627582.0,
+ "awd_amount": 313927.0,
+ "awd_min_amd_letter_date": "2025-01-07",
+ "awd_max_amd_letter_date": "2025-01-07",
+ "awd_abstract_narration": "When analyzing large systems that have an enormous number of possibilities, studying collections of randomly selected pieces can provide an effective way to understand likely properties or behaviors of the entire system. Random sampling can be applied to polling, estimating quantities in physical systems, detecting gerrymandering, and more. However, it is challenging to do random sampling in a way that is both fast and accurate. This project will study the fundamental mathematics behind methods for random sampling, including introducing new sampling methods, developing new tools to analyze existing sampling methods, and finding problems amenable to the new approaches the investigator develops. One goal is to improve methods used to quantify and detect gerrymandering, making those methods both faster and more reliable. Part of the award will support a summer program where students learn about math, computer science, and data science motivated by problems related to democracy.\r\n\r\nThis project considers random sampling of structures on graphs, such as spin configurations on the vertices of a graph or partitions of a graph into connected pieces. In one direction, the investigator will consider Pirogov-Sinai theory (PST), an approach from statistical physics that could help advance the state-of-the-art in sampling/counting algorithms for spin systems and more. Specific questions include adapting PST from infinite to finite settings; using PST and the additional probabilistic information it conveys to develop new Markov chain sampling algorithms; and exploring other statistical physics ideas that can lead to algorithmic breakthroughs. In another direction, tree-based methods have emerged as a promising way to sample connected graph partitions, but existing algorithms remain insufficient for fast, provably accurate sampling in general settings. Work on this project will address this gap, building on insights from a recent breakthrough result. This is closely tied to broader questions about the combinatorial and probabilistic structure of random trees and random walks, Markov chain mixing under non-local constraints, and duality in non-planar graphs. As political districting plans can be viewed as connected balanced partitions of population-weighted graphs (and random sampling algorithms are widely used to detect gerrymandering, understand possible plans, and advocate for voting rights, including in court), advances in efficiently generating these structures have broad implications for political science and important societal impact.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sarah",
+   "pi_last_name": "Cannon",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sarah Cannon",
+   "pi_email_addr": "scannon@cmc.edu",
+   "nsf_id": "000810644",
+   "pi_start_date": "2025-01-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Claremont McKenna College",
+  "inst_street_address": "500 E 9TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLAREMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9096077085",
+  "inst_zip_code": "91711",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "CA26",
+  "org_lgl_bus_name": "CLAREMONT MCKENNA COLLEGE",
+  "org_prnt_uei_num": "L45FLFHWMGQ9",
+  "org_uei_num": "L45FLFHWMGQ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Claremont McKenna College",
+  "perf_str_addr": "500 E 9TH ST",
+  "perf_city_name": "CLAREMONT",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "917115929",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 313927.0
+  }
+ ],
+ "por": null
+}

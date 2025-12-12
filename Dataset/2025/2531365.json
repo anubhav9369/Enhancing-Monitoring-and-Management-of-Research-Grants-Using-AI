@@ -1,0 +1,158 @@
+{
+ "awd_id": "2531365",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "NQVL:QSTD:Design: Wide-Area Quantum Network to Demonstrate Quantum Advantage (SCY-QNet)",
+ "cfda_num": "47.049, 47.084",
+ "org_code": "03060000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 4000000.0,
+ "awd_amount": 2750000.0,
+ "awd_min_amd_letter_date": "2025-09-03",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "Scalable and robust quantum processing systems have the power to considerably alter many aspects of society and economy, ranging from science and engineering to medicine and finance. Achieving such scalability appears feasible only through modular architectures composed of networked quantum devices. This project aims to build a 10-node quantum network, called SCY-QNet, connecting atomic quantum processing units at Stony Brook, Columbia, Yale, and Brookhaven National Laboratory. Leveraging strong partnerships with quantum companies such as Toptica, Single Quantum, Aliro, and Qunnect, SCY-QNet will evolve from a network enabling privacy-preserving long-distance communication, to a system of entangled matter nodes, eventually becoming a network of quantum processors. Furthermore, SCY-QNet will serve as a configurable, shared infrastructure for scientists and engineers to develop and validate new research and technologies. The project will showcase key demonstrations of networked quantum systems, including memory-assisted secret key distribution, long-distance entanglement using quantum repeaters, and entanglement generation between matter-based quantum clocks, with the ultimate goal of advancing the frontiers of physical knowledge and the implementation of distributed quantum algorithms. The workforce and outreach initiatives include QIST curriculum development through a broad network of partner institutions, and efforts to grow a collaborative quantum ecosystem that supports research, training, and innovation.\r\n\r\nSCY-QNet targets three key scientific challenges essential to scalable quantum networking: 1. Developing banks of heralded quantum memories with sufficient storage times and retrieval efficiency, 2. Developing  robust quantum repeater systems, including high-rate entanglement sources and efficient swapping devices and 3. Developing quantum processing units with atom-based qubits that facilitate high entanglement swapping rates with atom-based memories. The project aims to develop these by integrating compact optical cavities that enable efficient preparation and readout of photons. These components are supported by three parallel additional efforts that enable integration across the network and demonstration of advanced capabilities. First, the development of high-efficiency quantum frequency conversion units to bridge the frequency difference between quantum memory banks and the quantum processors, as well as converting  infrared photons to telecom to achieve robust transmission of entanglement. Second, the development of quantum network communication infrastructure, including the development of free-space optical links for transmitting qubits over long-distance, and developing a network stack with software-defined control modules that orchestrate the generation and distribution of entanglement. Third, the demonstration of quantum advantage via a series of experiments, including secret-key sharing protocols, remote matter-matter entanglement creation, distributed simulation of quantum physical systems, and exploring new distributed quantum algorithms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "OSI",
+ "org_div_long_name": "Office of Strategic Initiatives (OSI)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eden",
+   "pi_last_name": "Figueroa Barragan",
+   "pi_mid_init": "V",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eden V Figueroa Barragan",
+   "pi_email_addr": "eden.figueroa@stonybrook.edu",
+   "nsf_id": "000630725",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Himanshu",
+   "pi_last_name": "Gupta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Himanshu Gupta",
+   "pi_email_addr": "hgupta@cs.stonybrook.edu",
+   "nsf_id": "000283600",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hong",
+   "pi_last_name": "Tang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hong Tang",
+   "pi_email_addr": "hong.tang@yale.edu",
+   "nsf_id": "000490819",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michal",
+   "pi_last_name": "Lipson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michal Lipson",
+   "pi_email_addr": "ml3745@columbia.edu",
+   "nsf_id": "000682315",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sebastian",
+   "pi_last_name": "Will",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sebastian Will",
+   "pi_email_addr": "sw3151@columbia.edu",
+   "nsf_id": "000734301",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Stony Brook",
+  "inst_street_address": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STONY BROOK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6316329949",
+  "inst_zip_code": "11794",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NY01",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "M746VC6XMNH9",
+  "org_uei_num": "M746VC6XMNH9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Stony Brook",
+  "perf_str_addr": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "perf_city_name": "STONY BROOK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "117943362",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NY01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "315Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-3 Quantum"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2750000.0
+  }
+ ],
+ "por": null
+}

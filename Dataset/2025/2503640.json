@@ -1,0 +1,102 @@
+{
+ "awd_id": "2503640",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CCSS: Practical Coded Matrix Computation",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 160465.0,
+ "awd_amount": 160465.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Large scale matrix computations are at the heart of several modern technologies that are revolutionizing human life. These include, the now ubiquitous deep learning models, large language models, and scientific computing for supporting research in various domains. The sheer size of the data and models in these domains requires such computations to be performed in a distributed manner over large clusters, whereby an overall job is divided into smaller tasks. Unfortunately, these clusters often suffer from the problem of stragglers (slow or failed workers), especially when they are deployed within cloud computing platforms; this can cause an undesirable increase in the overall job execution time. The overall goal of this project is to research techniques for mitigating the effect of stragglers in the specific context of distributed matrix computations. This project will also provide training for students in the usage of cloud platforms. In addition, the project also involves outreach activities to local schools for mathematics tutoring and the creation of K-12 computer science modules.\r\n\r\nThe field of coded computation uses ideas from coding theory to embed distributed matrix computation into the structure of an erasure code. Specifically, the idea is to create redundant tasks by linearly combining the input submatrices such that as long as a minimum number of workers complete their tasks, the overall job can be completed. The vast majority of prior coded matrix computation approaches are obtained by combining a large number of input submatrices. This is problematic for the practically important case of sparse input matrices as the encoding process results in dense submatrices whose product needs much higher computation time. Furthermore, much of prior work coarsely treats workers as alive or failed and does not leverage partial computations performed by slow workers. The foundational goals of this project are to investigate coded matrix computation techniques that are suitable for sparse input matrices and leverage partial work performed by slow (but not failed) workers. For dealing with sparse input matrices, the research team will adapt ideas from parity-checking in coding theory; this is however non-trivial, as the parities need to respect the computation constraints and the objectives. Moreover, the research team will design schemes that optimize a worst-case combinatorial metric for evaluating different schemes with respect to how well they leverage partial work of the slower nodes within the cluster and provide ideas on the design of schemes that address this metric.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aditya",
+   "pi_last_name": "Ramamoorthy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aditya Ramamoorthy",
+   "pi_email_addr": "adityar@iastate.edu",
+   "nsf_id": "000305890",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 160465.0
+  }
+ ],
+ "por": null
+}

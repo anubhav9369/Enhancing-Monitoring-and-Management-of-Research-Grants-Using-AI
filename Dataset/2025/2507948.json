@@ -1,0 +1,102 @@
+{
+ "awd_id": "2507948",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SPV: Synthesis, Profiling, and Verification of Quantum Circuits",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Today's quantum circuit designs are akin to classical circuits in their early stages, which were designed by hand and manually laid out, while the power of classical computing hardware was not fully unleashed until the emergence of Electronic Design Automation (EDA) in the 1950s, enabling the scalable design of integrated circuits. Although quantum computing holds great promise to dramatically speed up many chemical, financial, cryptographic, and machine-learning applications, we are witnessing that the existing quantum computing design workflow significantly relies on human designs, such as manually implementing and verifying quantum circuits on the gate level for quantum algorithms. As such, domain experts from other fields without a sufficient fundamental understanding of quantum operations can hardly leverage the power of quantum computers for their domain applications, and more importantly, they lack toolkits to test the correctness of an ad-hoc designed quantum circuit. Furthermore, since quantum computing has a fundamentally different computing scheme, which relies on superposition and entanglement, the traditional EDA techniques cannot be directly applied to quantum circuits. To close the gap between quantum hardware (in physics) and quantum algorithms (in computer science), we envision the necessity of a quantum EDA framework, which will play a role similar to that of EDA in revolutionizing classical Silicon-based hardware design. Beyond the technical impact, the fundamentals of the design automation tools can help beginners understand how a quantum system is designed and how it works, which are compiled in the education activities in this project for public access.\r\n\r\nTo carry out pilot research on the quantum EDA, this project proposes to develop an automated framework, namely SPV, to efficiently synthesize, profile, and verify quantum circuits, which include a set of quantum EDA tools: (1) We develop an automated quantum circuit construction toolset to optimize quantum circuit design in modern quantum processors. The toolset supports end-to-end quantum circuit design, including both quantum state preparation and function synthesis using available quantum gates. (2) We develop both formal and simulation-based approaches to verify quantum circuits at scale. Specifically, we utilize the widely adopted ZX calculus to optimize quantum circuits for equivalence checking, and we develop a scalable, simulation-based verification methodology tailored for larger circuits. Moreover, it will comprise methodologies to verify quantum circuits in the presence of quantum error correction (QEC). And (3) we build a benchmark test platform with circuit property profiling and performance validation. To address the shortage of QEC designs in existing benchmarks for quantum verification, we integrate a set of state-of-the-art QEC code designs into the benchmark tool. After all the synthesis, profiling, verification, and benchmarking tools are developed, we integrate them into a holistic quantum design automation toolchain. With a completed toolchain, SPV can benefit researchers in deploying and testing domain-specific quantum algorithms on available quantum computers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Weiwen",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weiwen Jiang",
+   "pi_email_addr": "wjiang8@gmu.edu",
+   "nsf_id": "000826656",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Mason University",
+  "inst_street_address": "4400 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAIRFAX",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7039932295",
+  "inst_zip_code": "220304422",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "VA11",
+  "org_lgl_bus_name": "GEORGE MASON UNIVERSITY",
+  "org_prnt_uei_num": "H4NRWLFCDF43",
+  "org_uei_num": "EADLFP7Z72E5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Mason University",
+  "perf_str_addr": "4400 UNIVERSITY DR",
+  "perf_city_name": "FAIRFAX",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "220304422",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "VA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "154E",
+   "pgm_ref_txt": "Computat systems & security"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

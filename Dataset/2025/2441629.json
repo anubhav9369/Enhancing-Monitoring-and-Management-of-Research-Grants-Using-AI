@@ -1,0 +1,134 @@
+{
+ "awd_id": "2441629",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Environment Optimization for Large-Scale Multi-Agent Coordination: Models, Methods, and Applications",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "eplaku@nsf.gov",
+ "po_sign_block_name": "Erion Plaku",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 599998.0,
+ "awd_amount": 232159.0,
+ "awd_min_amd_letter_date": "2025-04-23",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "As robotics technology becomes more widely adopted, including warehouse robots, autonomous vehicles, and delivery drones, there is a critical need to address the challenges of coordinating large teams of autonomous agents in congested environments. These challenges arise from the complexity of navigating shared spaces, where multiple agents must work simultaneously while completing their tasks quickly and safely, all while avoiding collisions and reducing congestion. While considerable efforts have focused on developing advanced planning algorithms to generate high-quality, collision-free paths for these mobile agents, there has been limited focus on improving their performance through environment optimization. In this context, \"environment\" refers to the various factors that influence how autonomous agents operate. This includes the physical layouts, such as the arrangement of shelves in a warehouse or the design of roadways, which dictate how agents navigate through space. Additionally, it encompasses virtual elements, such as traffic rules and operational protocols, that guide the behavior of these agents. Furthermore, current conventions for designing layouts and traffic rules in environments such as warehouses and road networks are primarily geared toward human operators and human-driven vehicles. This focus can lead to suboptimal conditions for autonomous agents, which exhibit different behavior patterns and operational needs. Consequently, this project has two main objectives: (1) establish a foundational understanding of the importance of environment optimization for multi-agent coordination, and (2) develop innovative and potentially unconventional environment designs that are specifically tailored for large-scale multi-agent coordination across various applications.\r\n\r\nThis project aims to establish a comprehensive, versatile framework for optimizing environments tailored to large-scale Multi-Agent Path Finding (MAPF), centering on three foundational research areas: models, methods, and applications. It studies how to model MAPF environments, which involves optimizing physical layouts, constructing graphs optimized for MAPF, and introducing MAPF traffic rules. It explores different methods to optimize these environment models, which involves not only methods that directly optimize the models but also methods that optimize environment generators and updaters. Environment generators, after training, can generate environments with similar setups on potentially larger scales, and environment updaters can adapt environments in real time to accommodate dynamic changes in agents' tasks and other variables. The project focuses on three distinctive case studies, namely automated warehouses for mobile robots, unmanned traffic systems for drones, and decentralized MAPF with guarantees, to exemplify the broad applicability and efficacy of the established frameworks across various domains. By significantly enhancing the coordination of autonomous agents, this project has the potential to greatly increase efficiency and safety in warehouse and delivery operations, leading to faster processing times and safer navigation in congested environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiaoyang",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiaoyang Li",
+   "pi_email_addr": "jiaoyanl@andrew.cmu.edu",
+   "nsf_id": "000891111",
+   "pi_start_date": "2025-04-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 232159.0
+  }
+ ],
+ "por": null
+}

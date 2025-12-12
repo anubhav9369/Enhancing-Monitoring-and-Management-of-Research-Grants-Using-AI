@@ -1,0 +1,118 @@
+{
+ "awd_id": "2523438",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC 2.0: RES: A Privacy-Preserving Framework for Sharing and Learning from Scarce Medical Data",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 599040.0,
+ "awd_amount": 599040.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "The tracheostomy procedure is frequently performed in children to bypass an obstructed airway due to blockage in the upper throat or for chronic lung conditions related to prematurity. Tracheostomy-dependent children living at home require continuous monitoring, and over 25% of them experience serious complications. The nationwide shortage of home care nurses makes continuous observation of these children impractical, hence the critical need for home-based monitoring systems.  Such monitoring systems usually require training on images of tracheostomy-dependent infants. However, an important challenge is the scarcity of videos at any single healthcare provider, leading to the demand to share such videos between different healthcare providers. Nevertheless, healthcare privacy laws make such sharing dependent on the consent of privacy-aware caretakers. This project establishes a framework for sharing such sensitive data  in a privacy-constrained manner, supported by formal privacy guarantees that can be explained and demonstrated to caretakers and healthcare providers. The project\u2019s novelties  stem from a comprehensive suite of privacy mechanisms for moving images, where the private information pertains to the identities of humans. The project's broader significance and importance are that the developed framework is readily applicable to videos of human subjects across all age groups, thus holding potential for use in any fields requiring people video supervision of , such as daycare centers, nursing homes, hospices, or prisons. \r\n\r\nThis project brings together a set of advanced technologies\u2014face identification and pixelation in video, adversarial generative privacy mechanisms, video component disentanglement, and AI-driven text-to-video generation\u2014not as isolated tools, but as interdependent components within a unified system tailored to a real-world application governed by stringent safety, ethical, and regulatory requirements. The novelty lies in the integration of these technologies into a coherent framework that addresses complex, high-stakes challenges. By moving beyond controlled or idealized settings, the project enables practical evaluation and refinement of methods that have thus far seen limited deployment outside the lab. Due to the extremely limited access to real data via cooperation agreements, the first research focus is on generating a synthetic video dataset to train privacy mechanisms, identity disentanglement/recombination systems, and various other classifiers. The second focus is on evaluating multiple independent privacy designs by comparing their detection accuracy and privacy guarantees. The third focus is on establishing formal privacy guarantees, often lacking in some designs, by extending current theoretical notions of differential privacy and integrating them with empirical validation through specialized classifiers and feedback from medical personnel and patients' caretakers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "George",
+   "pi_last_name": "Amariucai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "George Amariucai",
+   "pi_email_addr": "amariucai@ksu.edu",
+   "nsf_id": "000554940",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Doina",
+   "pi_last_name": "Caragea",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Doina Caragea",
+   "pi_email_addr": "dcaragea@ksu.edu",
+   "nsf_id": "000391976",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kansas State University",
+  "inst_street_address": "1601 VATTIER STREET",
+  "inst_street_address_2": "103 FAIRCHILD HALL",
+  "inst_city_name": "MANHATTAN",
+  "inst_state_code": "KS",
+  "inst_state_name": "Kansas",
+  "inst_phone_num": "7855326804",
+  "inst_zip_code": "66506",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "KS01",
+  "org_lgl_bus_name": "KANSAS STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CFMMM5JM7HJ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kansas State University",
+  "perf_str_addr": "1601 VATTIER STREET",
+  "perf_city_name": "MANHATTAN",
+  "perf_st_code": "KS",
+  "perf_st_name": "Kansas",
+  "perf_zip_code": "665062504",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "KS01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599040.0
+  }
+ ],
+ "por": null
+}

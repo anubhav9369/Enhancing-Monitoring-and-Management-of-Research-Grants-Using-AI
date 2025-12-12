@@ -1,0 +1,102 @@
+{
+ "awd_id": "2443082",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Set Theoretic Design of Multi-Mode Grid-Forming Converters to Enhance Transient and Frequency Stability of Power Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 500167.0,
+ "awd_amount": 500167.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "This NSF CAREER project aims to enhance power system stability and safety in the presence of large-scale inverter-based resources (IBRs) by leveraging their emerging grid-forming control (GFM) mode. The project will bring transformative change to power system stability assessment and control by analyzing grid stability boundaries under current and prospective operating conditions to provide emergency control protocols under disturbances. This will be achieved by developing a set-theoretic analysis framework with sparsity formulations to increase scalability and sample guidance to reduce conservatism. The intellectual merits of the project include building a reduced-order model of IBRs in GFM mode that retains engineering insights, a unified framework for analyzing stability and safety, a methodology that can integrate samples into analytical formulations, and a sparsity formulation and associated distributed computing and control paradigm for large-scale applications. The broader impacts of the project include enhancing modeling and analytical tools for the grid, advancing nonlinear system stability analysis using scalable theory-driven computing paradigm, strengthening the integration between power systems and power electronics, and broadening the participation of students in power systems. \r\n\r\nGrid sustainability will rely on GFM IBRs as a type of critical asset to resolve control challenges like weak grids and low inertia. The direct methods can provide benefits in monitoring and control to enhance transient and frequency stability of IBR-rich systems. However, due to the inherent limitation in scalability, most of the works are IBR-centric, where interactions between IBRs and grid dynamics remain uncaptured. The proposal will unify the stability certificate (for rotor angle response) and safety certificate (for frequency response) into a consistent backward reachability computation problem. Specifically, the project will (1) exploit sparsity patterns in system states and problem formulations, leading to distributed optimization and parallel computing; (2) rigorously integrate samples into the analytical framework through a constraint generation strategy to reduce conservatism; (3) propose a distributed and scalable control protocol enhanced by the phase angle control capability of GFM-IBRs for large-scale power grids.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yichen",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yichen Zhang",
+   "pi_email_addr": "yichen.zhang@uta.edu",
+   "nsf_id": "000928776",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Arlington",
+  "inst_street_address": "701 S NEDDERMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ARLINGTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8172722105",
+  "inst_zip_code": "760199800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT ARLINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LMLUKUPJJ9N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Arlington",
+  "perf_str_addr": "701 S NEDDERMAN DR",
+  "perf_city_name": "ARLINGTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "760199800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500167.0
+  }
+ ],
+ "por": null
+}

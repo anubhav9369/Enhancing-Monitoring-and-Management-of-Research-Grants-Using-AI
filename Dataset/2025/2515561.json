@@ -1,0 +1,106 @@
+{
+ "awd_id": "2515561",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Efficient Individualized Treatment Selection for Personalized Medicine",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 180000.0,
+ "awd_amount": 180000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Recent advances in data science, statistics, and machine learning have opened new possibilities in precision medicine, enabling clinicians to tailor treatments based on individual patient characteristics. This project focuses on developing a unified and efficient statistical framework to improve treatment decisions by leveraging rich demographic, socio-economic, and biomedical data. By advancing personalized decision-making, this research contributes to better health outcomes, more efficient healthcare delivery, and overall national well-being. The project also offers broad societal impact through its commitment to education, collaboration, and open science. The investigators will mentor graduate students and develop new coursework at the intersection of machine learning, statistics, and personalized medicine. In addition, all software tools developed will be released as open-source, supporting accessibility and reproducibility in scientific research. The interdisciplinary nature of the project encourages collaboration across statistics, medicine, and computer science, and prepares a next-generation workforce to tackle complex health data problems.\r\n\r\nThis project aims to develop an efficient learning framework for estimating optimal individualized treatment rules (ITRs) across a broad range of personalized medicine settings. The proposed methodology is based on semiparametric modeling and is designed to address complex relationships among covariates, treatments, and outcomes. Key challenges addressed include handling multiple treatment options with cross-treatment structures, modeling a variety of outcome types, and accommodating multi-stage decision-making with time-varying, history-dependent effects. The framework also supports incorporation of domain knowledge for interpretability and practical implementation. From a statistical perspective, the proposed methods achieve double robustness (consistency under two separate model specifications) and statistical efficiency (minimal asymptotic variance), even under model misspecification and in high-dimensional or limited-data scenarios. These contributions advance the state of the art in both semiparametric theory and algorithmic design for ITR estimation. The resulting models are interpretable, scientifically meaningful, and directly applicable to real-world medical problems, including drug development and treatment recommendation. This work not only contributes to foundational statistical theory but also facilitates translational research in healthcare.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yufeng",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yufeng Liu",
+   "pi_email_addr": "yfliu@email.unc.edu",
+   "nsf_id": "000274908",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Carolina at Chapel Hill",
+  "inst_street_address": "104 AIRPORT DR STE 2200",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHAPEL HILL",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9199663411",
+  "inst_zip_code": "275995023",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+  "org_prnt_uei_num": "D3LHU66KBLD5",
+  "org_uei_num": "D3LHU66KBLD5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Carolina at Chapel Hill",
+  "perf_str_addr": "104 AIRPORT DR STE 2200",
+  "perf_city_name": "CHAPEL HILL",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "275995023",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 180000.0
+  }
+ ],
+ "por": null
+}

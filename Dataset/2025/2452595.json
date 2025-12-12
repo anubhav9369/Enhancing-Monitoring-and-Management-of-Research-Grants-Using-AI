@@ -1,0 +1,126 @@
+{
+ "awd_id": "2452595",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "GOALI: Computational, Data Science, and Synthetic Approach to the Design of Retro-Hydroformylation Catalysts",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032928441",
+ "po_email": "kmoloy@nsf.gov",
+ "po_sign_block_name": "Kenneth Moloy",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 487125.0,
+ "awd_amount": 487125.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "With the support of the Chemical Catalysis Program of the Division of Chemistry, Dr. Daniel Ess and Dr. David Michaelis at Brigham Young University in collaboration with the Chevron Phillips Chemical Company will use computational methods and machine learning/data science techniques to design, synthesize, and test new homogeneous retro-hydroformylation catalysts that selectively generate alpha-olefins. Developing new catalysts is critical to discovering new and selective chemical reactions that can impact the chemical industry. An important chemical reaction for homogeneous catalyst development is retro-hydroformylation that converts aldehydes to terminal 1-alkenes (called alpha-olefins) because these products are key precursors for the synthesis of many commodity chemicals, such as plastics, lubricants, and surfactants. Currently, there are no known industrially viable homogeneous retro-hydroformylation catalysts and research scientists are only using trial-and-error catalyst development tactics. This work holds significant promise for translating new catalyst designs to the chemical industry. Also, this work provides unique training for undergraduate students, graduate students, and postdoctoral scholars at the interface between computational chemistry, machine learning, and experimental training for preparation to enter the chemical industry workforce.\r\n\r\nHomogeneous catalysts being investigated are second and third row transition metal complexes with bespoke designed phosphine ligands. The project will develop and apply approaches to combine molecular computational chemistry with data science to predict catalysts that have high reactivity and selectivity. The project will test computational predictions and develop fundamental catalysis understanding through experimentally synthesizing and testing catalysts that work through both acceptor/transfer and acceptor-less conditions. These efforts support training of undergraduate students, graduate students, and postdoctoral scholars in state-of-the-art computational chemistry and machine learning techniques as well as advanced experimental reaction techniques. Students will also interface with and learn from industrial chemists and engineers at Chevron Phillips Chemical.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Ess",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel Ess",
+   "pi_email_addr": "dhe@chem.byu.edu",
+   "nsf_id": "000624349",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Michaelis",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "David J Michaelis",
+   "pi_email_addr": "dmichaelis@chem.byu.edu",
+   "nsf_id": "000675420",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Webster-Gardiner",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael S Webster-Gardiner",
+   "pi_email_addr": "webstm@cpchem.com",
+   "nsf_id": "0000A1359",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brigham Young University",
+  "inst_street_address": "A-153 ASB",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVO",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8014223360",
+  "inst_zip_code": "846021128",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "UT03",
+  "org_lgl_bus_name": "BRIGHAM YOUNG UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JWSYC7RUMJD1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brigham Young University",
+  "perf_str_addr": "A-153 ASB",
+  "perf_city_name": "PROVO",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "846021128",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "UT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688400",
+   "pgm_ele_name": "Chemical Catalysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1504",
+   "pgm_ref_txt": "GRANT OPP FOR ACAD LIA W/INDUS"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 487125.0
+  }
+ ],
+ "por": null
+}

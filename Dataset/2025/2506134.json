@@ -1,0 +1,102 @@
+{
+ "awd_id": "2506134",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SHF: Medium: Compositional Semantics-Guided Synthesis",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2024-11-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 900000.0,
+ "awd_amount": 719494.0,
+ "awd_min_amd_letter_date": "2024-12-10",
+ "awd_max_amd_letter_date": "2024-12-10",
+ "awd_abstract_narration": "The field of program synthesis aims to create tools that can automatically create a program from a specification of desired behavior. Synthesis holds the promise of easing the burden on programmers (e.g., by finding solutions to tricky special cases automatically), and allowing non-programmers to create programs merely by indicating the outcome that they want the program to produce. Unfortunately, current synthesis tools do not scale up to large-scale programming problems, a situation that threatens to doom this promising technology to being a niche field. This project's novelties are ways to exploit compositionality in program synthesis in a way that allows one to create bigger programs out of smaller ones.\r\n\r\nThe project builds on a recent framework called SemGuS (Semantics-Guided Synthesis), which offers a foothold on the expressibility and scalability problems of program synthesis. In principle, the framework can support the synthesis of software in layers, where implementation choices in one layer are hidden from other layers (and thus consistent with modular software design with information hiding). The goal of the project is to capitalize on the opportunity that SemGuS offers for extending synthesis to much larger systems than was possible heretofore. The work will lead to more scalable and general synthesis algorithms, with potential benefits to synthesis applications that are already in widespread use. Further development of the SemGuS framework has the potential to make synthesis more usable and programmable, and thereby allow users to carry out synthesis tasks without prior knowledge of existing synthesis tools. Most importantly, compositional synthesis will allow synthesis to scale to larger applications with more practical relevance.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Loris",
+   "pi_last_name": "DAntoni",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Loris DAntoni",
+   "pi_email_addr": "ldantoni@ucsd.edu",
+   "nsf_id": "000701818",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "8206",
+   "pgm_ref_txt": "Formal Methods and Verification"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 719494.0
+  }
+ ],
+ "por": null
+}

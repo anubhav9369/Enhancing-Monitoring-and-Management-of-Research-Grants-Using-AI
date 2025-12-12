@@ -1,0 +1,102 @@
+{
+ "awd_id": "2506957",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Using Large Language Models to Support Authoring Intelligent Tutoring Systems",
+ "cfda_num": "47.076",
+ "org_code": "11090000",
+ "po_phone": "7032925126",
+ "po_email": "abaylor@nsf.gov",
+ "po_sign_block_name": "Amy Baylor",
+ "awd_eff_date": "2025-10-15",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 900000.0,
+ "awd_amount": 900000.0,
+ "awd_min_amd_letter_date": "2025-09-05",
+ "awd_max_amd_letter_date": "2025-09-05",
+ "awd_abstract_narration": "There is a significant amount of scientific research that shows that intelligent tutoring systems (ITS) can help students learn better than through other forms of instruction and software. These systems give frequent, fine-grained guidance when students practice solving complex problems. ITS have proven to be useful in many domains, for example, STEM, business, and language learning. The primary goal of this project is to investigate whether and how Large Language Models (LLMs) can help instructors author ITS effectively and efficiently \u2013 a process that needs to be executed each time an ITS is created for a new content area. The project will provide insight into how LLMs can best assist in building ITS and in the efficiency gains that result. The project has the potential to help spread ITS widely into educational practice and thereby help many students learn better, from elementary school to college-level and even graduate school.\r\n\r\nTo this end, the project will integrate existing LLMs with an existing set of authoring tools: the Cognitive Tutoring Authoring Tools (CTAT), which have long supported the efficient development of ITS, in two paradigms offering different capabilities. The project will assess whether and how LLMs can help with two time-consuming authoring tasks: generating a wide range of practice problems and developing rule-based cognitive models that capture the problem-solving knowledge that the ITS aims to help students learn. While assistance from an LLM is added, instructors remain in charge and contribute their specialized pedagogical content knowledge and skill in instructional design. The project will develop methods for authors to ensure that the generated content will be accessible and appealing to all students. The project will conduct evaluation studies to measure both the quality of the tutoring systems authored with LLM assistance and the gains in authoring efficiency that may result.\r\n\r\nThis project is funded by the Research on Innovative Technologies for Enhanced Learning (RITEL) program that supports early-stage exploratory research in emerging technologies for teaching and learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vincent",
+   "pi_last_name": "Aleven",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vincent Aleven",
+   "pi_email_addr": "vincent.aleven@cs.cmu.edu",
+   "nsf_id": "000348963",
+   "pi_start_date": "2025-09-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802000",
+   "pgm_ele_name": "Cyberlearn & Future Learn Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 900000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2435757",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: ACED: Planet-scale AI for accelerating environmental science - Invasive species and beyond",
+ "cfda_num": "47.070, 47.074",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "A fundamental challenge in environmental science is applying the knowledge that scientists discover at a particular location or time to understanding phenomena occurring at other times and/or locations. In the traditional approach, environmental scientists collect field data and perform experiments at, for example, a particular river basin, and then repeat this process at a different time and/or location to see whether their conclusions generalize. This approach is rigorous, but limited because it is time-, labor-, and cost-intensive; thus there exists relatively sparse ground-collected data across the planet. Another challenge is that intensifying human activities amplify the rates of change in conditions per location and time, so knowledge discovered in the past will likely fail to predict outcomes in the future. The challenge of predicting and ameliorating the effects of environmental change disproportionately affects under-resourced communities, including those most vulnerable to environmental changes that lead to food insecurity and hence greater socioeconomic instability. Traditional Artificial Intelligence (AI) approaches cannot resolve this challenge because they require extensive human input, for example due to the need for labeling ground-collected data or other data layers, such as high-resolution satellite imagery. In this project, on-the-ground human observations and labels are replaced with AI-based discovery from abundantly available, mostly unlabeled visual data, such as that collected from a combination of satellites and other devices. This research proposes a paradigm shift that enables low-cost scaling across many types of images in order to lower the barrier to access of this scientific process. In the process, a novel AI framework is introduced that combines multiple data sources to automatically discover interpretable scientific hypotheses about the cause of ecosystem changes. Together, these approaches will accelerate the ability to identify solutions for the increasing environmental issues faced across our planet.\r\n\r\nThe goal of this project is to develop and validate an  AI framework that can use a broad array of image data collected using different sensing modalities (e.g., low-resolution satellite, drone, and internet-posted images) to automate and accelerate the generation of interpretable environmental scientific hypotheses at a planetary scale. An example might be correlating the spatiotemporal prevalence of certain invasive or disease-causing species with presumed causal factors present in the environment. The proposed framework integrates new techniques into foundational models for satellite imagery that can choose intelligently among sparsely-labeled data from different sensor modalities, optimizing between cost and accuracy trade-offs. By coupling this model with self-improving large language models that can both receive and provide interpretable feedback and hypotheses to researchers, this approach goes beyond black-box feature learning, the current state-of-the-art in computer vision. This proposed model will be applied and validated on the task of detecting submerged aquatic vegetation. This task poses a number of technical challenges (e.g., waves, turbidity, weak spectral signal through water) that are more difficult than detecting objects on land surface. Success in this pilot project will demonstrate that this type of model can be easily applied to the terrestrial environment and to tackle even greater grand challenges in environmental science.\r\n\r\nThis award is co-funded by the Directorate for Computer and Information Science and Engineering and by the Directorate for Biological Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carl",
+   "pi_last_name": "Vondrick",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carl M Vondrick",
+   "pi_email_addr": "cv2428@columbia.edu",
+   "nsf_id": "000755733",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": null
+}

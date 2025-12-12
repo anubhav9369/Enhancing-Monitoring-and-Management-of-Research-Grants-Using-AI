@@ -1,0 +1,118 @@
+{
+ "awd_id": "2441297",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Accelerating Conformational Sampling of Biomolecules with Transferable Generative Models",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 699487.0,
+ "awd_amount": 699487.0,
+ "awd_min_amd_letter_date": "2024-12-26",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "Grant Rotskoff of Stanford University is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop machine learning models to predict and analyze the fluctuations of biomolecules, such as proteins. Understanding both the biological function and material properties of biomolecules requires information about their different \u201cshapes\u201d or conformations alongside energetic information, but traditional computational methods based on molecular dynamics simulation are often prohibitively computationally expensive. This project aims to make studying complex biological molecules faster and more efficient using generative models conceptually similar to the AI models used in image or text generation. The PI\u2019s approach combines these generative AI techniques with physics-based, simplified molecular models to ensure that predictions remain robust even far from the training data. The PI will also develop tools to verify the accuracy of these predictions and will assess the model across many different proteins. The tools developed in this project will enable studies of proteins that lack a stable folded structure, which remain poorly understood despite their relevance for human disease. Dr. Rotskoff plans to create educational materials about these new computational methods, including a new undergraduate course at Stanford University and online resources for high school students and teachers.\r\n\r\nIn the proposed project, Grant Rotskoff seeks to develop scalable and transferable models for sampling conformational ensembles of biomolecules by integrating neural networks developed for density estimation with coarse-grained models. The overarching goal of this project is to construct quantitatively accurate configurational ensembles of a diverse array of molecular systems at a substantively lower computational cost than classical molecular dynamics by \u201cback-mapping\u201d coarse-grained configurations to atomistic resolution. The PI will build a theoretical framework for evaluating and optimizing both the parameterization of coarse-grained models and the generative neural networks, which will help guide model development and evaluation. In addition, the PI will develop and evaluate transferable generative modeling strategies with the goal of improving generalization when data is limited. Parameterizing these models from peptide fragments will enable transferability across a large range of proteins, further reducing data cost. Finally, the PI will develop a rigorous toolkit for computing dynamical quantities, such as isomerization rates, from back-mapped coarse-grained simulation data. Rotskoff\u2019s educational plan includes i) development and refinement of a new undergraduate course at Stanford University, ii) development of interactive, online tutorials about generative models for chemical systems targeting high-school level students, and iii) open-source teaching modules for high-school chemistry teachers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Grant",
+   "pi_last_name": "Rotskoff",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Grant M Rotskoff",
+   "pi_email_addr": "rotskoff@stanford.edu",
+   "nsf_id": "000806348",
+   "pi_start_date": "2024-12-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "062Z",
+   "pgm_ref_txt": "Harnessing the Data Revolution"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7218",
+   "pgm_ref_txt": "RET SUPP-Res Exp for Tchr Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 699487.0
+  }
+ ],
+ "por": null
+}

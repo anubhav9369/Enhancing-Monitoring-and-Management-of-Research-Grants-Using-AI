@@ -1,0 +1,106 @@
+{
+ "awd_id": "2504812",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Improving Spatial Resolution of Internal Body Thermometry",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 385755.0,
+ "awd_amount": 385755.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "Knowledge of internal body temperature over time is critical for many medical and wellness applications. A non-invasive wearable core body thermometer does not exist on the market and the development of such technology is a challenging research topic. This project extends beyond the current state of the art to enable better estimation of internal temperature, with a focus on monitoring brain temperature during cardiac surgeries. Upper aortic dissection surgery requires deep brain cooling to below 20\u00b0C and is one of the three most dangerous surgeries with a 17% mortality rate, 66% risk of cognitive loss, and risk of bleeding and stroke. Today there is no way to directly measure brain temperature, and invasive catheters are used to measure bladder or nasal temperatures which lag the actual brain temperature by up to 8\u00b0C during cooling. This project is developing a sensor that can reduce the mortality rate of aortic repair by 20% and reduce the risk of permanent cognitive loss. There are 29,000 such procedures in the US annually. Additional needs for monitoring brain temperature, with 1.3 million persons annually, include ICU patients hospitalized from cardiac arrest, stroke, or brain trauma (TBI). Accurate and non-invasive measurements of internal body temperature also enable real-time monitoring of a patient who may be septic or is experiencing a heat stroke. This project contributes significantly to the field of microwave thermometry by introducing innovative solutions to the long-standing challenge of being able to pin-point the location where internal heating is occurring. In addition to its impacts in medical applications, the research outcome will also benefit industrial applications, such as high-power microwave processing for ceramic fabrication, waste pyrolysis, and fuel-cell material sintering, by monitoring the internal temperature deep inside hot materials. \r\n\r\nThis project addresses improving spatial resolution in thermometry using near-field microwave passive sensing with receiver arrays. Subsurface tissue temperature can be non-invasively estimated from a single passive radiometric sensor mounted on the skin. The peak of the black-body curve for human temperature is in the infrared (IR) portion of the spectrum. Limited to classical electromagnetic skin depth, the sensing depth at IR is only a few millimeters, implying the need of using lower microwave frequencies for deep tissue sensing (>3 cm) where the received thermal noise power is in the -100 dBm range and requires very sensitive receivers. Currently, the quiet radio-astronomy band at 1.4 GHz gives a good trade-off between sensing depth and near-field antenna size. The project explores the following three research tasks: 1) Theory and simulations of three fundamentally different approaches for improving spatial resolution of near-field microwave radiometry while maintaining temperature sensitivity; 2) Designs of receiver, near-field antenna and signal processing as experimental validation of the most promising approaches; 3) Investigation of a new alternative and complementary active low-power approach based on resonant loading and temperature dependence of the complex tissue permittivity. The research addresses the unsolved problem of measuring internal body temperature noninvasively with high spatial resolution. While a phased array is typically used for improving spatial resolution in the far field for coherent signals, the innovation here takes advantage of the statistical nature of thermal noise power combined with electromagnetic reciprocity. Theory shows that a scalar measurement is related to a spatial interference pattern, which helps differentiate temperature at different locations deep in tissues. The project aims to demonstrate, for the first time, how an array of near-field antennas and receivers can provide spatial information of temperature sensing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zoya",
+   "pi_last_name": "Popovic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zoya Popovic",
+   "pi_email_addr": "zoya@colorado.edu",
+   "nsf_id": "000239759",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 385755.0
+  }
+ ],
+ "por": null
+}

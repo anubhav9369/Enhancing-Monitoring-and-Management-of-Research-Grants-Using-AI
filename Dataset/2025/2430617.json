@@ -1,0 +1,141 @@
+{
+ "awd_id": "2430617",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-QUANT: Hybrid Quantum Algorithms for Structured Optimization Problems in Process Systems Engineering",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927258",
+ "po_email": "rramacha@nsf.gov",
+ "po_sign_block_name": "Rohit Ramachandran",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "Quantum computing (QC) may revolutionize computations in the future as well as expand the types of problems that can be solved efficiently. Chemical engineering, and in particular process systems engineering (PSE), will benefit from a QC revolution. PSE relies on mathematical models and decision-making problems concerning physicochemical systems. These problems are challenging to solve with classical (i.e., non-quantum) computers. The aim of this project is to investigate how novel QC methodologies can be used to solve problems in PSE. The successful completion of the project will showcase the possibility of quantum computers eventually outperforming classical computers in solving complex decision-making problems in PSE. Such an achievement would have far-reaching implications for other sub-fields within engineering, such as supply chain management, signal processing, machine learning, and operations research. Additionally, this project will contribute to expanding the QC workforce to include much needed experts in QC with backgrounds in chemical engineering and operations research.\r\n\r\nThe objectives of this proposal are three-fold.  First, while most of the optimization-oriented QC research is dedicated to the solution of optimization problems with only discrete-choice decision variables, this project will first focus on deriving and analyzing quantum optimization techniques for problems with continuous choice decision variables.  Second, akin to what has been successful in classical optimization, this research aims to use these quantum continuous optimization techniques as the fundamental block to address the solution of specially structured mixed optimization problems arising in process systems engineering (PSE). The hybrid combination of strengths from both QC and classical hardware will be key for the successful implementation of the proposed approach. Third, the investigators aim to tailor and evaluate the performance of the derived quantum optimization techniques on mixed-integer optimization problems arising in PSE, particularly those arising from a structured approach to modeling interconnections between the array of process operations. To accomplish these three objectives, researchers will address the fundamental problem of building a complexity and performance framework for quantum algorithms for the solution of continuous optimization problems, aiming to characterize and analyze their performance not only in theory, but also in computational practice. In addition to designing and analyzing hybrid quantum algorithms, researchers will develop specialized software and numerical techniques to test the derived strategies and obtain crucial feedback for computationally effective algorithmic design.  The successful completion of the proposal\u2019s objectives will lead to a better understanding of the potential of QC to help in the solution of application-relevant mathematical problems and have a direct impact on the capacity of quantum computers to outperform classical computers in the solution of complex decision-making problems in PSE and beyond.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tamas",
+   "pi_last_name": "Terlaky",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tamas S Terlaky",
+   "pi_email_addr": "tat208@lehigh.edu",
+   "nsf_id": "000534517",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Luis",
+   "pi_last_name": "Zuluaga",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Luis Zuluaga",
+   "pi_email_addr": "luz212@lehigh.edu",
+   "nsf_id": "000615523",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Arielle",
+   "pi_last_name": "Carr",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arielle K Carr",
+   "pi_email_addr": "carra@lafayette.edu",
+   "nsf_id": "000877887",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Giacomo",
+   "pi_last_name": "Nannicini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Giacomo Nannicini",
+   "pi_email_addr": "g.nannicini@usc.edu",
+   "nsf_id": "000877966",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Bernal Neira",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "David E Bernal Neira",
+   "pi_email_addr": "dbernaln@purdue.edu",
+   "nsf_id": "000886345",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lehigh University",
+  "inst_street_address": "526 BRODHEAD AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BETHLEHEM",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "6107583021",
+  "inst_zip_code": "180153008",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "PA07",
+  "org_lgl_bus_name": "LEHIGH UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E13MDBKHLDB5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lehigh University",
+  "perf_str_addr": "526 BRODHEAD AVE",
+  "perf_city_name": "BETHLEHEM",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "180153008",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "PA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140300",
+   "pgm_ele_name": "Proc Sys, Reac Eng & Mol Therm"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

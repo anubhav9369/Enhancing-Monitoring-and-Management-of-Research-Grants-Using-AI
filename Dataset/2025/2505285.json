@@ -1,0 +1,98 @@
+{
+ "awd_id": "2505285",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Computational framework for identifiable and phase-consistent allele-specific expression quantification",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 701728.0,
+ "awd_amount": 595875.0,
+ "awd_min_amd_letter_date": "2024-11-13",
+ "awd_max_amd_letter_date": "2024-11-13",
+ "awd_abstract_narration": "Haplotype inference and allele-specific transcript expression quantification are two fundamental\r\nproblems in genetics and genomics. Haplotype inference aligns maternal and paternal alleles of\r\ngenetic variants along two diploid chromosomes, whereas allele-specific expression\r\nquantification obtains the expression levels of transcripts of maternal and paternal origins from\r\nRNA-seq reads. These two problems are coupled in that one can affect the accuracy of the\r\nother: accurate allele-specific expression quantification requires accurate haplotypes to map\r\nRNA-seq reads to and the accuracy of haplotype inference can be enhanced by allele-specific\r\nRNA-seq reads. While existing works have considered these two problems separately, this project\r\ndevelops a computational framework to address these two fundamental problems jointly in a\r\nsingle statistical framework to enhance the accuracy of both inferred haplotypes and\r\nallele-specific expression quantification. The computational methods to be developed in this\r\nresearch will advance various aspects of biological research that require accurate allele-specific\r\nexpression estimates and haplotypes, including mapping allele-specific eQTLs, detecting\r\nimprinted genes, imputing untyped variants, finding signatures of natural selection, and\r\ndetecting recombination events. The outcome of the research will be used in outreach activities\r\nin minority serving institutions to recruit graduate students.\r\n\r\nThe project develops a computational framework for obtaining accurate allele-specific\r\nexpression measurements and haplotypes from RNA-seq and genotype data. Two existing\r\nframeworks, one for transcript expression quantification and the other for haplotype inference\r\n(e.g., Beagle), are combined into a single framework, while keeping the computational efficiency\r\nof the original frameworks. Each of these two existing frameworks is modified to address two\r\npreviously-unmet challenges regarding allele-specific reads: for the RNA-seq quantification, the\r\nproject develops a mathematically rigorous approach to obtaining identifiable allele-specific\r\nexpression estimates at gene level, at transcript-set level, or at individual transcript level,\r\nwhereas for haplotype inference, the project couples the model in Beagle with RNA-seq\r\nquantification methods of these investigators to jointly estimate identifiable allele-specific expression levels and\r\nhaplotypes that are consistent with each other. The computational methods are benchmarked\r\non allele-specific eQTL mapping, using genotypes and RNA-seq reads from human trios and\r\nLG/SM intercross mice with known haplotypes. The outcome of the research is available at\r\nhttp://www.cs.cmu.edu/~sssykim.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Seyoung",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seyoung Kim",
+   "pi_email_addr": "sssykim@acm.org",
+   "nsf_id": "000595920",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pittsburgh",
+  "inst_street_address": "4200 FIFTH AVENUE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4126247400",
+  "inst_zip_code": "152600001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MKAGLD59JRL1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pittsburgh",
+  "perf_str_addr": "4200 FIFTH AVENUE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152600001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 595875.0
+  }
+ ],
+ "por": null
+}

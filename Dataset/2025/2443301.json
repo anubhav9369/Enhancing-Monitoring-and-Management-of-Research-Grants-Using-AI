@@ -1,0 +1,114 @@
+{
+ "awd_id": "2443301",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Understanding and Analyzing the Feedback Principles Underlying Visuomotor Control Dynamics in Fish Schools",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 644498.0,
+ "awd_amount": 644498.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) grant will fund research that contributes new knowledge related to multi-agent autonomous systems, thereby promoting the progress of science and advancing the national prosperity and welfare. The National Academies underscore the urgent need for autonomous systems to improve adaptability to novel environments, enhance efficiency, and boost resilience by enabling quick reactions to avoid critical situations. These capabilities are essential for transformative applications, including search and rescue missions, infrastructure maintenance, and large-scale environmental monitoring. This award supports fundamental research that enhances the capabilities of autonomous systems, aligning them closer to natural systems by drawing inspiration from collective fish behavior. Contrary to traditional solutions that typically rely on complex environmental models and continuous inter-agent communications, this bio-inspired approach will prioritize minimal computation and passive communication, reducing energy consumption at large scales and supporting sustainable practices. The interdisciplinary research in dynamic systems and controls, data-driven science, and experimental biology provides a platform to engage and empower STEM talent. Central to this endeavor is a comprehensive multi-tier education strategy to inspire K-12 students, expanding interest in STEM through outreach activities open to all, and develop new courses and revise core courses in systems and controls within the PI\u2019s department. \r\n\r\nThis research aims to make fundamental contributions to uncovering the feedback principles governing visuomotor control dynamics in fish schools and provide a blueprint for full autonomy. It intends to achieve this goal by establishing a data-driven framework for inference and modeling of complex stochastic multi-agent systems. The research work includes (1) gaining insights on visuomotor feedback principles from individual fish navigation principles using a new geometric framework on manifolds, aiming to uncover control policies mapping visual inputs to locomotor outputs and fundamental properties of motion estimation based on visual cues, (2) understanding the role of neighbor visual information on collective motion behaviors and establishing a data-driven framework using stochastic differential equations to elucidate how individual visuomotor control dynamics contribute to collective behaviors, and (3) examining visual feedback mechanisms for detection and response to threat and understanding how complex evasion maneuvers emerge from visual interactions through the modeling of vision-based feedback control strategies. This research effort will be supported by a series of rigorously structured, hypothesis-driven experiments with live fish schools to capture high-dimensional gaze and locomotor data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Burbano Lombana",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel A Burbano Lombana",
+   "pi_email_addr": "db1359@rutgers.edu",
+   "nsf_id": "000926076",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 644498.0
+  }
+ ],
+ "por": null
+}

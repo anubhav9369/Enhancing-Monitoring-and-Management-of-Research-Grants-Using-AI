@@ -1,0 +1,98 @@
+{
+ "awd_id": "2500368",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Embodied Optimization for Decision-Making in Dynamic and Uncertain Environments",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 454953.0,
+ "awd_amount": 454953.0,
+ "awd_min_amd_letter_date": "2025-04-24",
+ "awd_max_amd_letter_date": "2025-04-24",
+ "awd_abstract_narration": "This project aims to advance the science of optimization to enhance the reliability and efficiency of critical national infrastructure by developing methods that can adaptively formulate and solve problems in open-ended environments characterized by uncertainty and change. The project will bring transformative change to how optimization problems are formulated and solved in dynamic real-world settings by introducing a paradigm called Embodied Optimization (EO), which treats optimization as an interactive process that continually adjusts to its environment. This will be achieved through theoretical foundations, algorithmic advances, and practical validation in power systems applications. The intellectual merits of the project include developing novel theories for approximation and statistical complexity of solution functions, scalable adaptation methods for sparse networks, and techniques for multimodal context awareness in optimization. The broader impacts of the project include enhancing the resilience of critical infrastructure systems, training over 200 undergraduates in solving real-world problems through a redesigned machine learning course, and reaching approximately 250 K-12 students in central Appalachia through educational outreach activities.\r\n\r\nThe project addresses fundamental challenges in optimization for open-ended environments through six integrated research thrusts: (1) investigating the theoretical limits of solution function approximation under realistic constraints, (2) developing scalable adaptation methods leveraging sparse network structures, (3) exploring offline learning and counterfactual reasoning to enhance robustness, (4) investigating multimodal context awareness for optimization problem formulation, (5) developing game-theoretic approaches for dynamic goal prioritization and balancing competing goals, and (6) studying the co-evolution of problem formulation and computation for rapid response to disruptions. The research is validated through case studies in critical load restoration and electric vehicle charging coordination, demonstrating EO's potential to improve the reliability and efficiency of power distribution systems while managing uncertainties and constraints. The project advances both the fundamental understanding of optimization in dynamic environments and the development of practical tools for societal-scale infrastructure systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ming",
+   "pi_last_name": "Jin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ming Jin",
+   "pi_email_addr": "jinming@vt.edu",
+   "nsf_id": "000827962",
+   "pi_start_date": "2025-04-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "300 TURNER ST NW",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240603359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 454953.0
+  }
+ ],
+ "por": null
+}

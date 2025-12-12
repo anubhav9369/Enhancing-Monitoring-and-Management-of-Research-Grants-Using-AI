@@ -1,0 +1,138 @@
+{
+ "awd_id": "2451457",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: IIS: RI: Foundations of Deep Neural Network Robustness and Efficiency",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 679004.0,
+ "awd_amount": 373582.0,
+ "awd_min_amd_letter_date": "2024-10-09",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "Deep neural networks have led to significant advances in science and engineering and play an important role in the success of modern machine learning in various real-world applications including vision, speech, pattern recognition, and biology to name a few. When developing deep-learning solutions, accuracy or performance metrics are often a key point of emphasis. While performance is critical, the computational load of the training process and security of the final solution play an equally important role in a real-world setting. Recent advances in adversarial learning models hold significant promise in improving various learning methods and defending against threats, but the fundamental aspects of these models are still poorly understood, which limits their performance guarantees for efficient and robust decisions. With this in mind, this project investigates simultaneously tackling three desirable properties when developing deep networks: 1) performance, 2) efficiency, and 3) robustness. This project also includes a comprehensive plan to integrate the research results into cross-disciplinary educational multilevel programs by funding graduate research assistants, summer research fellowship for high-school students and teachers, and organizing a hybrid (online and in-person) deep-learning boot camp. \r\n\r\nThe overall goal of this research program is to develop a comprehensive and fundamental understanding of the robustness and computational aspects of deep networks by leveraging tools and concepts from probability, information theory, and statistics. This project aims to make critical advances in 1) proper formulations of subnetwork adversarial robustness, 2) characterizing transferability via curriculum learning, and 3) developing efficient approaches for reducing computational complexity involved in training, among others. The theoretical and methodological outcomes of this cross-disciplinary project will broaden the prior knowledge of deep learning and will improve prediction, exploration, and detection applications of machine-learning models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Salimeh",
+   "pi_last_name": "Sekeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Salimeh Sekeh",
+   "pi_email_addr": "ssekeh@sdsu.edu",
+   "nsf_id": "000820817",
+   "pi_start_date": "2024-10-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Diego State University Foundation",
+  "inst_street_address": "5250 CAMPANILE DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN DIEGO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6195945731",
+  "inst_zip_code": "921821901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "51",
+  "st_cong_dist_code": "CA51",
+  "org_lgl_bus_name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+  "org_prnt_uei_num": "H59JKGFZKHL7",
+  "org_uei_num": "H59JKGFZKHL7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Diego State University Foundation",
+  "perf_str_addr": "5250 CAMPANILE DR",
+  "perf_city_name": "SAN DIEGO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "921821901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "51",
+  "perf_st_cong_dist": "CA51",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  },
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7936",
+   "pgm_ref_txt": "SIGNAL PROCESSING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 9376.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 191961.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 172245.0
+  }
+ ],
+ "por": null
+}

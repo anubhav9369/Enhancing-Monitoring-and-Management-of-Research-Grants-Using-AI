@@ -1,0 +1,122 @@
+{
+ "awd_id": "2440861",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Characterizing the Safety Landscape: Data-Driven Safety Modeling for Autonomous System Navigation and Control in Human Environments",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922576",
+ "po_email": "mcanova@nsf.gov",
+ "po_sign_block_name": "Marcello Canova",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 652065.0,
+ "awd_amount": 652065.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant funds research, education, and outreach initiatives that will enable autonomous systems, such as robots and self-driving vehicles, to navigate safely around humans. As these technologies become integral to transportation, warehouse logistics, and healthcare, ensuring human safety is paramount. The complexity of real-world environments, however, are shaped by complex and uncertain factors such as social behaviors and contextual cues, which presents significant challenges in assessing and guaranteeing safety. The research activities funded by this award will intend to develop interpretable, data-driven safety models that are crucial for explaining safety incidents and related human perceptions in environments where autonomous systems operate. These models are intended to enhance predictability, improve operational efficiency, and minimize safety risks, thereby optimizing human-system interactions. Educational and outreach efforts funded by this award include collaboration with Harborview Medical Center to deploy safety algorithms in hospital environments, improving patient care. Additional, educational curricula will be enriched with practical safety experiences to enhance pre-engineering math courses at Shoreline Community College. These initiatives will prepare future innovators and regulators to develop and manage trusted autonomous systems.\r\n\r\nDetermining the safety of given scenarios, or the \u201csafety landscape,\u201d involves challenges from uncertainty, social norms, contextual cues, and feedback interactions. The safety-critical nature of human-robot interactions requires data-driven models to be interpretable for regulatory compliance, explainability, and predictability. This research develops a data-driven framework with control-theoretic foundations to address these complexities and provide clear outputs for decision-making and control. The research encompasses three thrusts: (i) data generation, designing systems for collecting safety-critical data; (ii) analysis and modeling, using control-theoretic techniques to decode complex interactions; and (iii) control synthesis, creating socially-aware strategies for safer interactions. The data-driven framework will be evaluated using public human navigation datasets, simulated human-in-the-loop experiments, and real-world testing at a hospital research facility.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Karen",
+   "pi_last_name": "Leung",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Karen Leung",
+   "pi_email_addr": "kymleung@uw.edu",
+   "nsf_id": "000923894",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 652065.0
+  }
+ ],
+ "por": null
+}

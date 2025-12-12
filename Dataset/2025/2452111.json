@@ -1,0 +1,102 @@
+{
+ "awd_id": "2452111",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Graph structure, Vertex-minors, and Logic",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922599",
+ "po_email": "sgdewint@nsf.gov",
+ "po_sign_block_name": "Stefaan De Winter",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "A graph is a mathematical object that models real-life networks such as road networks, communication networks, and supply networks. In structural graph theory, the goal is to understand the large-scale behavior of graphs whose local behavior is somehow restricted. This project focuses on developing structural techniques for dense graphs, that is, graphs with many connections. The PI will focus on two ways of restricting the local behavior: by forbidding a vertex-minor, and by asking for a dependent first-order theory. These restrictions have applications to other domains such as quantum computing, algorithms and complexity, discrete geometry, and extremal combinatorics. Graduate students will be trained as part of the project.\r\n\r\nThis project will develop structural techniques for dense classes of graphs, focusing on classes with a forbidden vertex-minor or a dependent first-order theory. For classes with a forbidden vertex-minor, the goal is to obtain a complete understanding of the structure relative to a tour graph. This will be a key step towards proving a conjecture of Geelen, which would give a very precise structural description of graphs with a forbidden vertex-minor. For classes with a dependent first-order theory, the focus is on a well-known dichotomy conjecture. This conjecture roughly states that for classes that are closed under vertex deletion, having a dependent first-order theory is equivalent to admitting an efficient algorithm for checking the first-order properties of graphs in the class.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rose",
+   "pi_last_name": "McCarty",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rose McCarty",
+   "pi_email_addr": "rmccarty3@gatech.edu",
+   "nsf_id": "000865919",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  },
+  {
+   "pgm_ele_code": "797000",
+   "pgm_ele_name": "Combinatorics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

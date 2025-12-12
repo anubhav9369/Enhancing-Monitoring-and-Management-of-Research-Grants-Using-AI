@@ -1,0 +1,102 @@
+{
+ "awd_id": "2530474",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: III: Medium: A consolidated framework of computational privacy and machine learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 268000.0,
+ "awd_amount": 241682.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "Machine learning has grown to increase prominence over the past years, finding applications in various domains from image and speech processing to disease diagnosis. Despite the great success of machine learning techniques, massive amounts of data are collected and used to train the machine learning models. The privacy of sensitive data has become a big concern. Existing efforts are still preliminary, and enormous challenges remain to be resolved. Crucially, stronger privacy protection guarantees often sacrifice important properties of machine learning models, such as predictive utility and fairness, which can be undesirable or completely unacceptable. This project develops a consolidated privacy protection framework for machine learning systems that comprehensively considers the optimal trade-offs between computational privacy and several critical properties of machine learning, including utility, fairness, and distributed learning. The project will provide a comprehensive set of tools to protect data privacy for real-world machine learning applications under different circumstances. The privacy-preserving techniques will have a transformative impact on machine learning systems used by various sectors, allowing companies and hospitals to enjoy the advantages of machine learning techniques on big data while protecting data privacy under corresponding regulations.\r\n\r\nThe research project thoroughly examines and discusses the real-world complicacy or restrictions when applying differential privacy, from privacy-utility trade-off, privacy-fairness relation, privacy in distributed learning, to post-learning privacy protection. The framework developed by the project takes deep root in rigorous optimization frameworks, often accompanied by theoretical guarantees and aided by cutting-edge algorithmic tools such as meta-learning, adversarial learning, and federated learning. Besides, the framework carries the following methodological innovations: differential privacy tailored to learning problems; customized privacy addressing heterogeneity in collaborative learning; privacy-protection of learned models through unlearning; consolidated privacy and fairness in learning. Those efforts will significantly augment the practicality and scalability of differential privacy. The project will be systematically evaluated on various real-world medical applications, and the tools will be readily used to tackle critical challenges in medical research. The outcomes will be incorporated into multiple courses at both undergraduate and graduate levels. The research outcomes will be disseminated broadly and comprehensively through open-source software releases and workshops, the involvement of undergraduate research, and outreach to K-12 education, focusing on minorities and under-representative groups in STEM education. Students at different levels and disciplines, STEM and liberal arts, will be participating in the research on privacy and machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiayu",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiayu Zhou",
+   "pi_email_addr": "jiayuz@umich.edu",
+   "nsf_id": "000694372",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE STE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091015",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 241682.0
+  }
+ ],
+ "por": null
+}

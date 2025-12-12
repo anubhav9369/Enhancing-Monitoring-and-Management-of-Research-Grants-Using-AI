@@ -1,0 +1,98 @@
+{
+ "awd_id": "2434818",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CCSS: Reimagining Frequency-Modulated Continuous-Wave Lidar",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 240000.0,
+ "awd_amount": 240000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Three-dimensional representations of scenes are of growing importance.  For example, robots and autonomous vehicles rely on 3D mapping for path planning and safe navigation, and augmented reality systems use 3D scene models when they create visual overlays with useful information.  These representations are also used in many other fields, such as surgical planning, architecture, and manufacturing.  The prevalent technologies to create 3D representations emit laser light toward a scene and detect reflections from the scene.  Among these technologies, frequency-modulated continuous-wave (FMCW) lidar is notable for achieving very good distance accuracy while also giving the instantaneous velocities of scene objects.  The challenges with FMCW lidar, however, are mostly related to the complexity and cost of the hardware.  One usually needs precise control of the laser\u2019s frequency and very fast electronics at the detector.  Broadly, the goal of this project is to introduce new concepts and algorithms that improve the performance of FMCW lidar or maintain current performance while loosening the requirements on the hardware.  These developments may contribute to improved safety and lower cost for robots and autonomous vehicles.\r\n\r\nThe basic conventional signal processing in FMCW lidar is undoubtedly clever.  It reduces the estimation of distance and velocity to frequency estimation problems, and these can be solved by finding the position of the maximum magnitude of a discrete Fourier transform.  In emphasizing simplicity, this processing neglects both robustness to phase noise of the laser source and the cost of having a high sampling rate at the receiver.  While some methods have been developed to mitigate phase noise, the role of the sampling rate and the reduction to a pair of frequency estimation problems has been essentially unquestioned.  This project examines FMCW lidar signal processing from first principles.  Coherent detection produces a certain continuous-time complex interference signal, and its entire digitally sampled version is informative about the delay and Doppler shift\u2014not only the segments that have constant frequencies.  This project seeks methods to use the whole signal to estimate delay and Doppler shift as well as possible.  Preliminary results demonstrate that aliasing in the digital sampling need not be disastrous; this leads to an increase in unambiguous range.  Furthermore, setting the proper end goal of delay and\r\nDoppler estimation\u2014as opposed to the arguably misguided intermediate goal of constant beat frequency estimation\u2014provides improved robustness to noise.  The specific goals include the introduction of estimation methods with good performance at moderate computational complexity and methods for use with nonlinear frequency modulation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vivek",
+   "pi_last_name": "Goyal",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vivek K Goyal",
+   "pi_email_addr": "goyal@bu.edu",
+   "nsf_id": "000661823",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 240000.0
+  }
+ ],
+ "por": null
+}

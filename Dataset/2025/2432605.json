@@ -1,0 +1,101 @@
+{
+ "awd_id": "2432605",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EMBRACE-EAR-Growth: Temperature Correction in the Laser-Heated Diamond Anvil Cell:  Reconciling Discrepant High-Pressure Melting Curves",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032925058",
+ "po_email": "wpanero@nsf.gov",
+ "po_sign_block_name": "Wendy Panero",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 389334.0,
+ "awd_amount": 389334.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "A longstanding problem in research conducted at high pressures is the measurement of melting temperatures.  Physical properties, including elastic, electrical, deformation, chemical, and thermal properties, are vastly different in melts when compared to solids of the same composition.  The melting behavior of minerals is therefore necessary to understanding the evolution of planets including the Earth throughout time and space.  However, measurements of high-pressure melting curves often differ by several 100s to 1000s of degrees.  To understand and correct divergent melting temperatures, the absorption of relevant planetary materials will be measured and used to improve melting curves by considering optical properties in temperature determination.  This project will develop an open-source, user-friendly toolkit and database for the high-pressure community to use in correcting temperature measurements to address a major source of discrepant values.  This project will support a postdoctoral researcher and several undergraduate students, who will gain the skills and knowledge to further our understanding of the Earth.\r\n\r\nThe proposed project combines a theoretical framework which considers wavelength-dependent absorption of samples and its effect on thermal emission as well as measurements of relevant planetary materials\u2019 optical properties at extreme conditions.  A graphical user interface (GUI) toolkit incorporating wavelength-dependent absorption, temperature gradients, and sample geometry will be developed and a database assembled to reconcile the spread in existing melting curves and allow for temperature correction of samples for more accurate measurements in future laser-heated diamond-anvil cell (LHDAC) experiments.  This project will influence other branches of geoscience including geodynamics, seismology, and geochemistry and improve our understanding of Earth\u2019s deep interior and the formation and evolution of the planet. The GUI toolkit will provide the mineral physics community with a free, open-source, user-friendly code that can be used by groups that measure temperatures by thermal radiation.  The proposed methods of temperature correction will help the mineral physics community resolve long-standing temperature discrepancies between studies and allow for a better determination of melting temperatures.  Knowing the melting temperature more accurately will better constrain properties that are temperature dependent such as element partitioning and rheology.  This research will also impact the materials science community in the understanding of how wavelength-dependent absorption affects temperature measurements more generally.  As wavelength-dependent absorption and emission are ubiquitous in Earth materials but mostly ignored, the toolkit proposed to correct temperatures will be used to improve existing data sets as well as future measurements. This project is jointly supported by the Geophysics and Petrology and Geochemistry Programs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kanani",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kanani K Lee",
+   "pi_email_addr": "Kanani.km.lee@uscga.edu",
+   "nsf_id": "000474147",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "UNITED STATES COAST GUARD ACADEMY SPONSORED PROGRAMS AND RESEARC",
+  "inst_street_address": "47 MOHEGAN AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW LONDON",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604448533",
+  "inst_zip_code": "063208111",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNITED STATES COAST GUARD ACADEMY SPONSORED PROGRAMS AND RESEARCH, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KNLKZNWT27N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "UNITED STATES COAST GUARD ACADEMY SPONSORED PROGRAMS AND RESEARC",
+  "perf_str_addr": "47 MOHEGAN AVE",
+  "perf_city_name": "NEW LONDON",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "063208111",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "330Y00",
+   "pgm_ele_name": "CESEV-Chem Evo of Earth & Volc"
+  },
+  {
+   "pgm_ele_code": "331Y00",
+   "pgm_ele_name": "SPSE-Study of Physics of Earth"
+  },
+  {
+   "pgm_ele_code": "722200",
+   "pgm_ele_name": "XC-Crosscutting Activities Pro"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 389334.0
+  }
+ ],
+ "por": null
+}

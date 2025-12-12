@@ -1,0 +1,110 @@
+{
+ "awd_id": "2432387",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-QUANT: Scalable Quantum Electromagnetic Transient Analysis with Tensors and Singularity Transformation",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 503644.0,
+ "awd_amount": 503644.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "The United States is facing a sharp increase in electricity demand, driven by the rapid growth of AI data centers and a resurgence in domestic manufacturing. Meeting this demand while sustaining U.S. leadership in innovation requires the reliable integration of all available electric generation sources into the national grid. Electromagnetic transients (EMT) studies are essential to this effort, as they capture system dynamics by continuously tracking the evolution of grid states. High-fidelity EMT simulations, mandated by regulatory and planning bodies, are critical for ensuring grid reliability and secure energy integration. Three challenges, however, make EMT studies prohibitively costly and difficult: 1) EMT simulations involve polynomial-time matrix computations at each step; 2) Capturing fast inverter-induced transients requires extremely small time steps, resulting in a vast number of calculations; and 3) Time- and frequency-domain contingency screening becomes prohibitively difficult when faced with massive contingencies and operational scenarios.  Building on the PIs\u2019 pioneering work on quantum grid analytics, this project aims to establish a scalable quantum EMT (QEMT) framework with ultra-fast screening capabilities in both time and frequency domains. The broader impacts of this project include: First, QEMT will be adopted by major independent system operators (ISOs) and power utilities, enabling the accelerated and reliable deployment of gigawatts of added generation and the secure interconnection of massive loads. Second, the project will contribute significantly to both Power Engineering and Quantum Information Science by advancing quantum computing and data processing techniques and establishing a living laboratory for quantum-enabled power grids. Third, with strong support from the State of New York, this project will also serve as a cornerstone for quantum-energy education. It will foster the development, reskilling, and upskilling of a quantum-ready workforce through training programs spanning K\u201312, university, and professional education.\r\n\r\nThe overarching goal is to develop a domain-specific QEMT framework with unparalleled scalability, efficiency, and noise resilience\u2014surpassing both classical EMT solvers and general-purpose quantum algorithms. The intellectual merit of this project includes: First, it will Integrate quantum tensors and quantum singular value transformation (QSVT) to develop an implicit parallel QEMT formulation capable of capturing full transient trajectories without step-by-step numerical integration. Second, a novel quantum architecture is devised for scalable contingency screening and frequency scanning using ultrafast circuit reconstruction. Third, it will enable scalable encoding/decoding between QEMT simulations and classical grid data. Finally, it will validate QEMT\u2019s capabilities in grid planning, operations, and interconnection studies on real-world systems, including CIGRE\u2019s DC grid and large-scale networks from industry partners such as an ISO and a major utility.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yifan",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yifan Zhou",
+   "pi_email_addr": "yifan.zhou.1@stonybrook.edu",
+   "nsf_id": "000830498",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peng",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peng Zhang",
+   "pi_email_addr": "p.zhang@stonybrook.edu",
+   "nsf_id": "000587747",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Stony Brook",
+  "inst_street_address": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STONY BROOK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6316329949",
+  "inst_zip_code": "11794",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NY01",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "M746VC6XMNH9",
+  "org_uei_num": "M746VC6XMNH9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Stony Brook",
+  "perf_str_addr": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "perf_city_name": "STONY BROOK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "117940001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NY01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7928",
+   "pgm_ref_txt": "QUANTUM COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 503644.0
+  }
+ ],
+ "por": null
+}

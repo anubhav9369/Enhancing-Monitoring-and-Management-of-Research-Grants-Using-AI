@@ -1,0 +1,110 @@
+{
+ "awd_id": "2452534",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Nonlinear Systems with Fast and Slow Dynamics and Switching",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922949",
+ "po_email": "atalkach@nsf.gov",
+ "po_sign_block_name": "Alena Talkachova",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 422734.0,
+ "awd_amount": 422734.0,
+ "awd_min_amd_letter_date": "2025-08-03",
+ "awd_max_amd_letter_date": "2025-08-03",
+ "awd_abstract_narration": "This award supports research that aims to break new ground in the analysis of dynamical systems with time-varying signals and parameters. This variation can happen on two time scales: fast and slow. Moreover, abrupt switches in the values of the signals and parameters are allowed. Such systems arise in a variety of application-motivated contexts. One example is that of medical drug delivery, where slow variation corresponds to a desired schedule of drug concentration in the body eventually decreasing to zero, while fast variations are due to the drug concentration increasing rapidly after an intake and then diminishing gradually. The results of this research are expected to become part of the core theory of nonlinear systems, as well as help bridge the gap with applications that current theory is unable to handle. The latter include, in addition to medical drug delivery, a variety of control applications where control action corresponds not to exact instantaneous motion of the actuator but to its average effect, which frequently occurs in power electronics and mechanical systems. The award also includes components for integrating the research with personnel training and educational activities.\r\n\r\nThe overall goal of the research is to develop a theory that can handle the presence of both slow and fast time-varying signals or parameters. The research seek to accomplish this goal by suitably combining key features of the averaging theory with those of stability analysis of slowly varying systems, and especially, by incorporating techniques employed in the study of switched systems to allow the presence of frequent discontinuities in these signals/parameters. A novel combination of state-of-the-art tools from nonlinear system theory, switched and hybrid systems, and Lyapunov stability will be developed for this purpose. A distinguishing feature of the approach is that explicit stability conditions are formulated based on two components: an appropriate Lyapunov function for the slow dynamics, and an upper bound on the total variation (including jumps) of the slowly-varying signal. Beginning with systems exhibiting rather special structure, progressively more general and realistic system classes will be considered, incorporating general nonlinear dynamics, non-periodic fast-varying signals, and exogenous disturbances.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Liberzon",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel Liberzon",
+   "pi_email_addr": "liberzon@uiuc.edu",
+   "nsf_id": "000100263",
+   "pi_start_date": "2025-08-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 422734.0
+  }
+ ],
+ "por": null
+}

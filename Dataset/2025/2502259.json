@@ -1,0 +1,110 @@
+{
+ "awd_id": "2502259",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: MFAI: Emergence of features in modern machine learning",
+ "cfda_num": "47.041, 47.049, 47.070",
+ "org_code": "03040000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 475000.0,
+ "awd_amount": 475000.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "The goal of this research project is to build mathematical foundations for reasoning about the behavior of modern machine learning systems. Foundations are needed to direct future developments in Artificial Intelligence (AI) research, and also to diagnose and remedy problems that arise in existing AI systems. This project specifically focuses on how AI models represent data. For example, many language models are \"trained\" using vast collections of text from books, websites, and other sources, but these texts are not \"stored\" in the model in the same way that documents are stored on a computer. Rather, the texts are transformed in a way that seems to facilitate their use for a variety of tasks, ranging from generating code for a website to solving mathematical word problems.These representations, however, are not perfect, and they also seem to lead to embarrassing errors committed by AI models, such as miscounting the number of Rs in the word STRAWBERRY. Developing a mathematical theory of the representations used by AI models will help demystify how the models perform these tasks and reveal fundamental limitations that result in errors. The theory will also guide the development of next-generation models that go beyond the limitations of current models.\r\n\r\nFeature learning is a key ingredient in the success of modern machine learning systems, and thus its understanding is a essential in any theory of deep learning. The aims of this project are as follows. The first is to develop general principles of how features emerge by building on well-established mathematical structures, such as low rank structure and circulant structure. The second is to study these principles in analytically tractable and practical architectures--such as two-layer multilayer Perceptrons, kernel methods, and transformers--in the context of specific data frameworks/inference problems such as multi-index models and modular arithmetic. The third is to develop new architectures that are potentially viable alternatives to neural networks that are currently in widespread deployment, thereby mitigating risks of over-reliance on specific technologies while suggesting directions for improving or controlling current architectures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Hsu",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel J Hsu",
+   "pi_email_addr": "djhsu@cs.columbia.edu",
+   "nsf_id": "000672405",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "287800",
+   "pgm_ele_name": "Special Projects - CCF"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  },
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 475000.0
+  }
+ ],
+ "por": null
+}

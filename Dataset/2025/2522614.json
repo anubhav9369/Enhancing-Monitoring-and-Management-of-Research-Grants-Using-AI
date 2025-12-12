@@ -1,0 +1,118 @@
+{
+ "awd_id": "2522614",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DMREF: Collaborative Research: Engineering Selective Membranes from Lipid-Polyelectrolyte Complexes",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07030000",
+ "po_phone": "7032924322",
+ "po_email": "psoman@nsf.gov",
+ "po_sign_block_name": "Pranav Soman",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 793931.0,
+ "awd_amount": 793931.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Synthetic membranes facilitate the selective separation of specific molecules from mixtures. For example, membranes enable the production of clean water and safe pharmaceuticals. Unfortunately, the industrial manufacturing process used to produce membranes relies on the use of toxic solvents. In contrast, biological membranes leverage components that self-assemble to create multi-scale and hierarchical barriers that maintain unprecedented selectivity, controlling what and when molecules enter and exit cells. This Designing Materials to Revolutionize and Engineer our Future (DMREF) project seeks to harness biology-like performance and the chemical versatility of synthetic polymers. This looks to be achieved by mixing lipids, which are the building blocks of biological membranes, with charged polymers that can be synthesized to exhibit specific chemistries or charge patterns. These mixtures will spontaneously form nanoscale, ordered structures, that can form the basis for high-precision membranes. A major challenge is to design both lipids and polymers, which can have countless variations of chemical and physical features, to yield membranes for a given application. This project aligns with DMREF and the Materials Genome Initiative by combining materials synthesis and characterization with multi-scale molecular simulation and machine learning as the experiments will inform new computational models, which will then be used to expedite materials discovery to design new membranes. This interdisciplinary effort will bring together academic researchers and scientists from the Air Force Research Laboratory (AFRL) who have combined expertise regarding the making and characterization of membranes, molecular simulation and machine learning, and the physics of lipid assembly. The effort looks to harness nanoscale structure to achieve separations capabilities seen in biology, which will benefit society and the US by establishing a versatile class of membranes with broad applications in biological, chemical, agricultural, and industrial separations. The research will also involve the interdisciplinary training of researchers with broad expertise spanning chemistry, engineering, and physics, via both student mentorship and educational outreach to K-12 students.\r\n\r\nThis project seeks to establish rational design of co-assembling lipids and polyelectrolytes, using patterned polyelectrolytes and judicious choice of chemical features to target specific nanostructures that can be used in separation membranes. This effort looks to harness expertise in polymer and lipid characterization and synthesis, using sequence-defined polyelectrolytes to modulate nano-scale assembly that will be evaluated by scattering. This will be coupled with a multi-scale modeling effort that connects atomistic simulations with coarse-grained models and polymer field theory to yield predictions of charge-driven assembly. Physical insights from this combined experimental and modeling approach intend to inform machine learning tools to predict structures relevant for separation membranes, which will be tested experimentally. The overarching goal is to establish a versatile molecular design protocol capable of integrating bioinspired lipid-based assemblies with complex-forming polymers to rationally engineer permeable membranes with desired selectivity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Sing",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles E Sing",
+   "pi_email_addr": "cesing@illinois.edu",
+   "nsf_id": "000682163",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cecilia",
+   "pi_last_name": "Leal",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cecilia Leal",
+   "pi_email_addr": "cecilial@illinois.edu",
+   "nsf_id": "000628988",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 793931.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2514053",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Data-driven Modeling and Inference for High-order Models on Networks",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922436",
+ "po_email": "hliu@nsf.gov",
+ "po_sign_block_name": "Hailiang Liu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "This project investigates how coupled processes evolve on complex networks, which is a fundamental question with broad significance across science and engineering. Such systems are central to varied fields, including epidemiology, social science, power grids, traffic flow, and statistical physics. In these systems, individual components (nodes) update their states by interacting with neighboring nodes through intricate and heterogeneous connections (edges), giving rise to complex, large scale dynamics that are difficult to model and predict due to randomness, limited data, and structural complexity. This project tackles these challenges by developing efficient, data-driven methods to simulate and learn from large systems of coupled agents. This project also promotes STEM education by training students at all levels and engaging broader community through collaboration, workshops, and scientific conferences.\r\n\r\nTo improve model accuracy and computational efficiency, the project develops model-reduction methods tailored for heterogeneous network systems. These include heterogeneous mean-field and pair approximations, as well as coarse-graining techniques. The project also focuses on inferring unknown functional parameters from partial data and limited information exchange by incorporating latent variables into the learning framework, combined with PDE-constrained optimization. The proposed methods are calibrated and validated using real-world datasets from social sciences and epidemiology. The project also designs scalable algorithms to handle large datasets from varied practical scenarios.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Weiqi",
+   "pi_last_name": "Chu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weiqi Chu",
+   "pi_email_addr": "weiqichu@umass.edu",
+   "nsf_id": "000869102",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  },
+  {
+   "pgm_ele_code": "806900",
+   "pgm_ele_name": "CDS&E-MSS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

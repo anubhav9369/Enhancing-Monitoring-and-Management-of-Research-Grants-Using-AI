@@ -1,0 +1,102 @@
+{
+ "awd_id": "2533802",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SaTC 2.0: RES: Ensuring the Security of Safety-Critical Embedded Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922812",
+ "po_email": "xiawang@nsf.gov",
+ "po_sign_block_name": "Xiaogang (Cliff)  Wang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 462473.0,
+ "awd_amount": 462473.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "The rise of embedded systems being offered in safety-critical infrastructure, and the corresponding threat from attacks against them, are highly significant and will continue to be. The project aims not only to characterize that threat, but to do so automatically and in a scalable way. Therefore, this investigation has the potential to both theoretically and practically improve the security across a wide range of embedded systems and their associated infrastructure. This project will disseminate its results in three ways: (1) Developing hands-on, artifact-driven courses to equip undergraduate and graduate students with real-world skills capable of facing current and future threats; (2) Offering learning activities, such as internet-of-things device assembly, encryption exercises, and basic security auditing, to teach best practices for securing safety-critical infrastructure for K-12 students; and (3) Disseminating open, practical research contributions on offensive hardware and systems security through running a workshop on Hardware Attack Artifacts, Analysis, and Metrics, with the objective to enhance US education, help secure industry applications, and strengthen national security. \r\n\r\nThis project takes a novel approach to automatically discover vulnerabilities and triage embedded system firmware. The project team is developing the proposed techniques for vehicle infrastructure, a highly important safety-critical system. This project will enhance the ability to automate security auditing, and to utilize practical yet theoretically sound analysis targeting front-end and back-end car control. Additionally, this proposal introduces the innovative use of architecturally enhanced automotive firmware rehosting. The project team combines trace-driven evaluation with memory overlays and interception to scale analysis to diverse embedded systems. This approach overcomes challenges caused by the vast ecosystem of embedded systems that are coupled with their unique set of peripherals with heterogeneous integration. This research will allow practical, worst-case reasoning of embedded system security upon which rigorous defenses can be built.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dean",
+   "pi_last_name": "Sullivan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dean Sullivan",
+   "pi_email_addr": "dean.sullivan@unh.edu",
+   "nsf_id": "000863483",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of New Hampshire",
+  "inst_street_address": "51 COLLEGE RD",
+  "inst_street_address_2": "BLDG 107",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6038622172",
+  "inst_zip_code": "038242620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NH01",
+  "org_lgl_bus_name": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GBNGC495XA67"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of New Hampshire",
+  "perf_str_addr": "51 COLLEGE RD",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "038242620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NH01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 462473.0
+  }
+ ],
+ "por": null
+}

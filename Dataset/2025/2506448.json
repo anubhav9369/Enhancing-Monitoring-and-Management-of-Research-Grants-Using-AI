@@ -1,0 +1,109 @@
+{
+ "awd_id": "2506448",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Machine Learning Serpentines",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032924739",
+ "po_email": "jwade@nsf.gov",
+ "po_sign_block_name": "Jennifer Wade",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Serpentine minerals are important to Earth's natural water cycle, especially deep underground. They form weak fault zones along tectonic plate boundaries. They carry water into the planet at subduction zones. And they play a role in forming natural hydrogen, which is a potential energy source, \u201cfood\u201d for subsurface microbial communities and a potential step in the origin of life. But their complex structure and delicate layers have made it difficult for scientists to study them in detail. This project uses powerful computer simulations, including advanced artificial intelligence tools, to better understand how serpentines behave under high pressure and temperature. These simulations will help explain how water moves through the Earth's interior, how serpentines break down and possibly trigger earthquakes, and how they affect the signals we detect in seismic studies. This research will also develop new tools to explore how water interacts with minerals deep inside the planet. \r\n\r\nSerpentine minerals are key players in Earth\u2019s geological water cycle, facilitating water uptake and release, contributing to mantle hydration, and influencing the rheology of subduction zones and other tectonic plate boundaries. Moreover, serpentine formation is often accompanied by oxidation of ferrous iron, together with formation of highly reduced fluids and H2 gas, in turn facilitating abiotic organic synthesis, sustaining a subsurface microbial ecosystem, and potentially providing a source of natural, \u201cgreen\u201d energy. However, the structural complexity and weakly bonded layers in serpentines have long posed challenges for both experimental and computational studies of such processes. This research will leverage cutting-edge yet proven materials simulation techniques, including advanced exchange-correlation functionals and machine learning potentials (MLPs) for large-scale molecular dynamics (MD) simulations, to investigate the phase relations and thermoelastic properties of serpentines. These are critical for understanding their formation and dehydration in subduction zones and their potential role in earthquake generation. This project will also yield seismological parameters of serpentinized mantle, helping to constrain water fluxes at subduction zones and elucidate Earth\u2019s deep water cycle. Expanding MLP development for the more general MgO-SiO\u2082-H\u2082O (MSH) system will enable exploration of diverse hydrous environments and water\u2013mineral interface behavior throughout the mantle and near the surface, where serpentine is linked to processes of technological interest such as carbon mineralization, hydrogen generation, and production of Ni-rich and Co-bearing alloys critical for batteries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Renata",
+   "pi_last_name": "Wentzcovitch",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Renata M Wentzcovitch",
+   "pi_email_addr": "rmw2150@columbia.edu",
+   "nsf_id": "000442177",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Kelemen",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter B Kelemen",
+   "pi_email_addr": "peterk@ldeo.columbia.edu",
+   "nsf_id": "000237684",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lamont-Doherty Earth Observatory",
+  "perf_str_addr": "61 Route 9W",
+  "perf_city_name": "Palisades",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "109641707",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "NY17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "330Y00",
+   "pgm_ele_name": "CESEV-Chem Evo of Earth & Volc"
+  },
+  {
+   "pgm_ele_code": "331Y00",
+   "pgm_ele_name": "SPSE-Study of Physics of Earth"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

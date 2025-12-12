@@ -1,0 +1,98 @@
+{
+ "awd_id": "2534775",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of an Artificial Intelligence Driven Multiscale Simulation Platform for Accelerated Drug Discovery Campaigns",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "This I-Corps project focuses on an advanced drug discovery platform that employs artificial intelligence and multiscale simulations to identify promising drug candidates at a fraction of the cost of existing methods. This technology addresses the core challenge of extremely slow, expensive, and prone-to-failure drug discovery processes. The technology cuts costs and speeds up candidate optimization by running three parallel calculations simultaneously in a single and unified computational workflow. Unifying these calculations into a single workflow can screen thousands of potential drugs in a fraction of the time and reduce reliance on lab experiments. Faster identification of effective therapies improves patient outcomes, lowers healthcare costs, and enhances the ability of the nation to respond to emerging health threats. These societal and economic benefits extend to academic institutions, research universities, and biotechnology companies by facilitating cross\u2010disciplinary collaboration for accelerated drug discovery campaigns.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of an automated, artificial intelligence-driven, multiscale, end-to-end drug discovery pipeline that integrates high-throughput virtual screening of candidates, quantum mechanical refinement to accurately model drug-target interactions, molecular dynamics simulations for atomic-level insights into protein-ligand binding/unbinding events, and Brownian dynamics simulations to capture large-scale diffusion processes and binding events for protein-ligand and protein-protein interactions. This technology delivers rapid, accurate binding and unbinding thermodynamics and kinetics predictions for drug-target complexes by running artificial intelligence-enabled simulations in parallel within a single workflow. This platform is benchmarked on multiple therapeutically relevant targets, such as kinase and heat shock protein inhibitors, generating reproducible and accurate free energy estimates and multi-hour residence times in a fraction of the computation time required by current protocols, a capability not offered by any existing platform. Unlike traditional methods focusing only on binding affinity, the current approach efficiently and affordably predicts kinetics and thermodynamics for comprehensive candidate profiling, reducing trial-and-error and cutting lead optimization from months to days.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rommie",
+   "pi_last_name": "Amaro",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rommie E Amaro",
+   "pi_email_addr": "ramaro@ucsd.edu",
+   "nsf_id": "000616571",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7573",
+   "pgm_ref_txt": "BIO-RELATED MATERIALS RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

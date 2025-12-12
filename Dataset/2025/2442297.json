@@ -1,0 +1,98 @@
+{
+ "awd_id": "2442297",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Multiscale characterization of heat transfer in nanoporous materials assisted by machine learning",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924736",
+ "po_email": "fcao@nsf.gov",
+ "po_sign_block_name": "Fangyu Cao",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 501760.0,
+ "awd_amount": 501760.0,
+ "awd_min_amd_letter_date": "2025-06-04",
+ "awd_max_amd_letter_date": "2025-06-04",
+ "awd_abstract_narration": "Aerogels are nanoporous materials composed mostly of air trapped inside a web-like nanoporous structure.  These materials have a very low thermal conductivity, which makes them potentially useful in thermal insulation applications.  Improved materials for thermal insulation could lead to significant energy savings in the US.  However, the complexity of aerogels at the nanoscale presents challenges to describing and manipulating heat transfer inside the material, which could limit its potential use in practice.  This project will use computational simulations to better understand the relationships between the structure of aerogels and their physical properties, which could provide designers with knowledge to optimize their behavior.  Results from the project will yield direct economic benefits such as energy-efficient nanomaterials, as well as societal benefits in agricultural, environmental, and healthcare applications. Educational activities supported by the project will raise nanotechnology awareness across educational levels and help expand the future science and engineering workforce. \r\n\r\nAerogels' properties, such as pore size, porosity, and solid-network, can be tailored during synthesis, but predicting the resulting heat transfer behavior is challenging due to the nanoscale size of the porous system and the solid skeleton. Current theories fail to explain nanoscale heat transfer accurately, and experimental methods lack precise structure-property correlation. To address this knowledge gap, this project will provide a detailed characterization of true nanoscale heat transfer behavior as a function of corresponding physical parameters. The pore-level interfacial and nanoscopic transport mechanisms contributing to aerogel heat transfer will be resolved to obtain a multi-scale structure-property correlation for aerogel design, assisted by machine learning. An accurate description of nanoscale heat transfer mechanisms requires molecular-level calculations. To address this, molecular dynamics simulations will be used to accurately model solid and gas conduction and their combined effective behavior, considering nanoscale mechanism. This project will advance knowledge on heat transfer behavior of (i) complex solid nano-networks with structural characterization, (ii) nano-confined gases under molecular surface effects with rarefaction characterization, and (iii) gas/solid interfaces. Unlike existing limited machine learning studies that suffer from insufficient multiscale data and related physical descriptions at the molecular-level, this project will use a novel bottom-up approach to train machine learning algorithms using molecular pore-level calculations for structure-property predictions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Murat",
+   "pi_last_name": "Barisik",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Murat Barisik",
+   "pi_email_addr": "murat-barisik@utc.edu",
+   "nsf_id": "000633355",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Chattanooga",
+  "inst_street_address": "615 MCCALLIE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHATTANOOGA",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "4234254431",
+  "inst_zip_code": "374032504",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "TN03",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "RZ1YV5AUBN39",
+  "org_uei_num": "JNZFHMGJN7M3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Chattanooga",
+  "perf_str_addr": "615 MCCALLIE AVE",
+  "perf_city_name": "CHATTANOOGA",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "374032504",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "TN03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140600",
+   "pgm_ele_name": "TTP-Thermal Transport Process"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 501760.0
+  }
+ ],
+ "por": null
+}

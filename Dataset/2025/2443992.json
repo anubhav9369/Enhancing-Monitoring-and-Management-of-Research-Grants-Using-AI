@@ -1,0 +1,134 @@
+{
+ "awd_id": "2443992",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: High-Level Synthesis and Compilation for Domain-Specific Reconfigurable Heterogeneous Systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "xhu@nsf.gov",
+ "po_sign_block_name": "Hu, X. Sharon",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 249724.0,
+ "awd_min_amd_letter_date": "2024-12-26",
+ "awd_max_amd_letter_date": "2025-09-11",
+ "awd_abstract_narration": "As the complexity and diversity of modern computing workloads grow rapidly, existing computer systems with homogeneous processors or accelerators show critical limitations in computing these complex workloads. This urges the creation of next-generation heterogeneous hardware acceleration systems with diverse processors and accelerators \u2013 e.g., central processing units (CPUs), graphics processing units (GPUs), digital signal processors (DSPs), field-programmable gate arrays (FPGAs), neural processing engines, etc. \u2013  as well as their design automation and programming tools. However, existing heterogeneous computing systems face the \"diversity crisis\" where the heterogeneity of systems poses critical challenges on the system design and optimization. This project aims to mitigate these challenges by developing an efficient compilation and synthesis flow that compiles high-level programs into domain-specific reconfigurable heterogeneous acceleration systems. The design productivity improvement from this project can potentially mitigate the hardware design workforce shortage problem that society currently faces, and it can directly translate into a larger semiconductor market and increased domestic job openings. The advancement in hardware acceleration can innovate scientific discovery, artificial intelligence, and other fields. The education activities in the project can improved the skill sets of future semiconductor workforce. \r\n\r\nThe objective of this project is to develop an efficient compilation and synthesis flow from high-level programs (e.g., Python) to domain-specific reconfigurable heterogeneous acceleration systems. This project aims to create a framework that features the following key innovations: (1) a heterogeneous and efficient acceleration system template that combines hardened digital accelerators, reconfigurable digital logic, and general-purpose processors; (2) an optimizing compiler and an agile design automation flow that partition and compile high-level application code, and generate the optimally configured heterogeneous hardware system design and programs; (3) a hardware-aware learning-based optimization engine that constructs global design spaces and searches for the optimal configuration of the heterogeneous system and program that meets application requirements; and (4) the optimal runtime scheduling of the computing tasks and runtime dynamic reconfiguration of the programmable logic elements inside the heterogeneous system. This project focuses on the fundamental research in electronic design automation (EDA) tools, and it is expected to accelerate the development of modern computing systems and design methodology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sitao",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sitao Huang",
+   "pi_email_addr": "sitaoh@uci.edu",
+   "nsf_id": "000877502",
+   "pi_start_date": "2024-12-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "3215 Engineering Hall",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 249724.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2449152",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Smart Shoes for Cuffless Blood Pressure Monitoring",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-03-18",
+ "awd_max_amd_letter_date": "2025-03-18",
+ "awd_abstract_narration": "This I-Corps project is based on the development of a wearable health monitoring system for continuous cardiovascular health tracking. Currently, cardiovascular diseases are a leading cause of mortality globally, with hypertension affecting over 1.13 billion people per year. Monitoring blood pressure during daily activities is important for early detection and management of cardiovascular disease, yet current methods for monitoring are either invasive or cumbersome, limiting their widespread adoption. These challenges are addressed by a cuffless blood pressure monitoring technology integrated into smart shoes, providing a seamless solution for continuous blood pressure monitoring. By embedding the sensor in footwear, the technology may non-invasively monitor vascular conditions and estimate blood pressure, aiding in the early detection and prevention of peripheral arterial disease. This technology has the potential to impact public health by enabling early detection of conditions such as hypertension and peripheral arterial disease, especially in aging populations. In addition, this technology may benefit healthcare providers in remote patient monitoring and contribute to the broader goals of reducing healthcare costs and improving patient outcomes on a global scale.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of a machine learning-enhanced, wearable sensing system for vascular health monitoring. The technology is based on research that demonstrated multimodal pressure sensors could be used for continuous monitoring of full pulse waveforms. Traditional cuff-based systems are often unsuitable for continuous monitoring, while current cuffless solutions have limited accuracy and consistency. This monitoring technology addresses these challenges by integrating advanced pressure sensors within smart shoes to capture pulse waveforms from the foot. The system leverages the external cyclic pressure exerted during walking, enabling the continuous acquisition of pulse data without the need for an external setup. Machine learning algorithms are used to extrapolate the external pressure at which the pulse waveform shape flattens, corresponding to vein occlusion, thereby estimating blood pressure with high accuracy. This technology not only eliminates the need for bulky cuffs but also offers a scalable and user-friendly solution for continuous blood pressure monitoring. The integration of this technology into everyday footwear may provide an advancement in wearable health devices, with broad implications for cardiovascular health management and disease prevention.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chunlei",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chunlei Wang",
+   "pi_email_addr": "wangc@miami.edu",
+   "nsf_id": "000487408",
+   "pi_start_date": "2025-03-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Miami",
+  "inst_street_address": "1320 SOUTH DIXIE HIGHWAY STE 650",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORAL GABLES",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3052843924",
+  "inst_zip_code": "331462919",
+  "inst_country_name": "United States",
+  "cong_dist_code": "27",
+  "st_cong_dist_code": "FL27",
+  "org_lgl_bus_name": "UNIVERSITY OF MIAMI",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RQMFJGDTQ5V3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Miami",
+  "perf_str_addr": "1320 SOUTH DIXIE HIGHWAY STE 650",
+  "perf_city_name": "CORAL GABLES",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "331462919",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "27",
+  "perf_st_cong_dist": "FL27",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5345",
+   "pgm_ref_txt": "BIOMEDICAL ENGINEERING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2545071",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SCH: AI-driven RFID Sensing for Smart Health Applications",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 299612.0,
+ "awd_amount": 164110.0,
+ "awd_min_amd_letter_date": "2025-08-29",
+ "awd_max_amd_letter_date": "2025-08-29",
+ "awd_abstract_narration": "Many existing health monitoring systems are expensive, uncomfortable to wear, or can only be administered in a hospital environment. With advances in the Internet of Things (IoT) and Machine learning (ML)/artificial intelligence (AI), it is highly desirable to develop AI-driven radio frequency sensing techniques to make smart health monitoring cheaper, more comfortable to use, and more accessible to the broad population, while supporting excellent monitoring performance. The main challenges to achieving such goals are the noisy RF data and strong interference coming from the dynamic environment. A multi-disciplinary team of six investigators with complementary expertise will work closely together to significantly improve the state-of-the-art of radio frequency sensing based smart healthcare provisioning and make a significant step forward to fully harvest the potential of the IoT and ML/AI. The team of investigators will also jointly develop a new graduate-level course on Deep Learning Empowered RF Health Sensing and enhance their undergraduate and graduate level courses. The project will also engage students by providing hands-on experience with cutting-edge technologies that are at the very frontier of wireless sensing, deep learning, and smart health. Outcomes from this project will be disseminated through technical publications, conference keynotes, distinguished lectures and tutorials, a project website, and open-source repositories. The investigators are committed to broadening participation from underrepresented groups, through their institutional outreach programs and the NSF Research Experiences for Undergraduates and Research Experiences for Teachers programs.\r\n\r\nThis project develops Radio Frequency Identification (RFID) based sensing systems for smart health monitoring. Specifically, several fundamental problems will be investigated, and novel ML/AI techniques will be developed for RFID sensing based smart health applications. This project leverages passive RFID tags as wearable sensors for monitoring human health conditions to help diagnose diseases such as Parkinson\u2019s and interstitial lung disease. ML/AI-driven methods, such as tensor decomposition, transfer learning (via domain adaptation and meta-learning), deep Gaussian Processes, and federated learning will be incorporated to develop effective solutions to these challenging problems. The research agenda consists of four well integrated thrusts: (i) to investigate the challenges and fundamental performance limits of the sensors; (ii) to develop RFID-based respiration rate, pulmonary function test, and heartbeat signal monitoring schemes; (iii) to develop RFID-based pose monitoring, activity recognition, and PD detection systems; and (iv) to develop robust and fair federated learning models for handling health data. The project\u2019s algorithms will be implemented and validated with extensive experiments in emulated and real clinical environments, with a focus on two important smart health applications, Parkinson\u2019s disease detection and breathing-based interstitial lung disease detection.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Harrison",
+   "pi_last_name": "Bai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Harrison Bai",
+   "pi_email_addr": "Harrison.bai@CUANSCHUTZ.EDU",
+   "nsf_id": "000916624",
+   "pi_start_date": "2025-08-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Denver",
+  "inst_street_address": "13001 E 17TH PL STE F428",
+  "inst_street_address_2": "",
+  "inst_city_name": "AURORA",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3037240090",
+  "inst_zip_code": "800452571",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "CO06",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIV. OF COLORADO",
+  "org_prnt_uei_num": "MW8JHK6ZYEX8",
+  "org_uei_num": "MW8JHK6ZYEX8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Denver",
+  "perf_str_addr": "13001 E 17TH PL STE F428",
+  "perf_city_name": "AURORA",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "800452571",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "CO06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 164110.0
+  }
+ ],
+ "por": null
+}

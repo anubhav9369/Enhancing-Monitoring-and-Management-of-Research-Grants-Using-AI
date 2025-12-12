@@ -1,0 +1,130 @@
+{
+ "awd_id": "2423177",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "A Direct Numerical Simulation Approach for Understanding Process Drift in Aerosol Jet Printing",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032928136",
+ "po_email": "lbian@nsf.gov",
+ "po_sign_block_name": "Linkan Bian",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 650000.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "Aerosol jet printing is a method that enables high resolution printed electronics. In the process, liquid inks containing electronic materials are transformed into a cloud of very small droplets, which are then carried by a stream of air to be deposited on a substrate. Aerosol jet printing could enable transformative new integrated circuits composed of heterogeneous technology, which includes next-generation circuits. Despite its advantages, aerosol jet printing has yet to have large-scale impact on high-volume fabrication due to issues with non-uniformities of printed manufacturing line characteristics. This award supports research that aims to investigate the causes of these non-uniformities via the use of highly detailed numerical simulations in combination with high-fidelity experiments. A clearer understanding of the causes of aerosol drift behavior would enable future technologies to design methods to overcome it. Since these simulation efforts are orders of magnitude more expensive than conventional computational methods, it is critical to employ the data gathered from these massive computations to significantly improve the accuracy of conventional methods. Results from the research will contribute to the ongoing development of a graduate course on printed thin-film electronics and will provide additional material to undergraduate fluid mechanics courses.\r\n\r\nAerosol jet printing offers an additive electronics manufacturing technique that can directly enable the deposition of low-temperature conducting interconnects, ultimately allowing for transformative on-chip heterogeneous integration. However, spatial and temporal particle drift within the print process preclude the method from being utilized on a commercial scale. This award seeks to identify the underlying physical dynamics causing drift using direct numerical simulations of two-phase flows combined with detailed measurements. This methodology eliminates the deficiencies existing in the conventional computational approaches, which are inherently based on idealizations or simplified models. Since direct numerical simulations are orders of magnitude more expensive than conventional computational methods, a second thrust is to employ the data and knowledge gathered from these massive computations to improve the accuracy of conventional methods. Results from this award will contribute to the ongoing development of a graduate course on printed thin-film electronics and will provide additional material to undergraduate fluid mechanics courses.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mario",
+   "pi_last_name": "Trujillo",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mario F Trujillo",
+   "pi_email_addr": "mtrujillo@wisc.edu",
+   "nsf_id": "000292554",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Scott",
+   "pi_last_name": "Sanders",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Scott T Sanders",
+   "pi_email_addr": "stsanders@wisc.edu",
+   "nsf_id": "000339647",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Andrews",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph B Andrews",
+   "pi_email_addr": "joseph.andrews@wisc.edu",
+   "nsf_id": "000820998",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  },
+  {
+   "pgm_ref_code": "077E",
+   "pgm_ref_txt": "SIMULATION MODELS"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 650000.0
+  }
+ ],
+ "por": null
+}

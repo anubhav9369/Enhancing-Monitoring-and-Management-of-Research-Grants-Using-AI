@@ -1,0 +1,138 @@
+{
+ "awd_id": "2533775",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CPS: Small: Advancing Bilevel Optimization for Multi-user Cyber-Physical Systems under Uncertainty and Trust Ambiguity",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 599922.0,
+ "awd_amount": 599922.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Cyber-physical systems (CPS) form the foundation of modern intelligent infrastructure by tightly integrating physical processes with computation, communication, and control. The increasing complexity of CPS, particularly in transportation, robotics, disaster response, which are focal domains of this project, necessitates advanced decision-making frameworks capable of modeling and optimizing hierarchical, interactive behaviors under uncertainty. As urban transportation systems become more connected and autonomous, and as robotics platforms evolve toward multi-agent, distributed architectures, the role of bilevel optimization becomes particularly salient. This project will build a novel, scalable, and trust-aware bilevel optimization framework tailored for multi-user CPS operating under uncertainty and ambiguous user trust. By explicitly embedding human trust and behavioral uncertainty into optimization models, the research aims to advance the design of smarter, safer, and more adaptive CPS. The outcomes have the potential to transform sectors where human-machine interaction plays a central role. Beyond research contributions, the project will support education and workforce development through interdisciplinary student training, the creation of interactive games to introduce K\u201312 students to human-in-the-loop control and optimization, and the development of new graduate-level courses on CPS optimization and computation, which will be made available as open-access online content.\r\n\r\nThe development, validation, and calibration of the research will push the frontiers of multi-user CPS studies in three directions: (1) the ability of modeling multi-user decisions dynamically and sequentially with dynamic user trust update; (2) finding optimal and risk-averse policies to bilevel programs under exogenous and endogenous uncertainties; (3) analyzing the resilience, operational efficiency, and reliability of example CPS applications via simulation and computation. A key innovation of this research is the integration of trust as an endogenous and dynamic source of uncertainty, directly influencing users\u2019 risk assessments and decision optimization. The research will introduce a new class of bilevel optimization models that integrate behavioral and learning-based mechanisms, uniting stochastic programming, risk modeling, and distributionally robust optimization within a multi-agent decision framework. By addressing challenges such as partial observability, adaptive learning, and sequential interactions in decentralized environments, this research will generate new theoretical insights and broaden the landscape of tractable solutions in dynamic, human-in-the-loop CPS.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Siqian",
+   "pi_last_name": "Shen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Siqian Shen",
+   "pi_email_addr": "siqian@umich.edu",
+   "nsf_id": "000596783",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ruiwei",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ruiwei Jiang",
+   "pi_email_addr": "ruiwei@umich.edu",
+   "nsf_id": "000652990",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Xi Jessie",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xi Jessie Yang",
+   "pi_email_addr": "xijyang@umich.edu",
+   "nsf_id": "000754053",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE STE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091015",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599922.0
+  }
+ ],
+ "por": null
+}

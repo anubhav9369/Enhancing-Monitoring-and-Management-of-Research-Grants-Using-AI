@@ -1,0 +1,130 @@
+{
+ "awd_id": "2440040",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Randomized Iterative Methods for Corrupted Data, Constrained Problems, and Compressed Updates",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 402235.0,
+ "awd_amount": 65505.0,
+ "awd_min_amd_letter_date": "2025-02-10",
+ "awd_max_amd_letter_date": "2025-02-10",
+ "awd_abstract_narration": "The scientific goal of this CAREER project is to develop theoretically-founded, randomized iterative methods for problems common in numerical linear algebra (NLA) and optimization, and extend their application and analysis to face a new and important set of challenges. The incredible growth in size and complexity of data sets commonly analyzed has made it imperative to have randomized computational techniques that are robust to adversarial error, incorporate or are adaptable to natural problem constraints, and can be applied in settings in which both the number and dimension of data are massive.  This project additionally provides opportunities for students to engage in cutting-edge research, and supports creation of materials for an advanced undergraduate-level modern numerical linear algebra course to be used at Harvey Mudd College (HMC) and beyond.  This course will feature significant curricular research projects which align with the technical directions identified in this project; descriptions of potential course project topics will be released with the public course materials.  The project will additionally provide vertically-integrated mentorship opportunities for visiting graduate students, HMC undergraduates, and high school students through HMC\u2019s federally funded Upward Bound (UB) program.  Finally, the project will support an annual professional development workshop for early career participants interested in research mentorship at primarily undergraduate institutions.\r\n\r\nThe intellectual merit of this CAREER project is the development and analysis of a suite of randomized iterative methods for problems with devastating adversarial corruption, problem constraints, and extremely large data dimension.  The project will focus specifically on three main research thrusts: (1) Developing and analyzing corruption-robust variants of randomized iterative methods in numerical linear algebra for least-squares regression, and generalizing these analyses to first-order methods in numerical optimization for a more general class of convex optimization problems. (2) Analyzing the iterative behavior of common combinatorial and numerical iterative methods for randomly sketched and subsampled regression problems with nonnegative and related constraints, and using these analyses to develop efficient randomized iterative methods for such problems.  (3) Extending the application of randomized iterative methods to problems in which both the number and size of data may be massive by developing provably effective randomly compressed and sparsified iterative updates. Open-source software implementations of the developed and analyzed methods will accompany the work completed under each of the above thrusts.  Additionally, this work will be distributed both in formal peer-reviewed journal and conference submissions, and in educational resources for students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jamie",
+   "pi_last_name": "Haddock",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jamie Haddock",
+   "pi_email_addr": "jhaddock@g.hmc.edu",
+   "nsf_id": "000788065",
+   "pi_start_date": "2025-02-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Harvey Mudd College",
+  "inst_street_address": "301 PLATT BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLAREMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9096218121",
+  "inst_zip_code": "917115901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "HARVEY MUDD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C76JKA5JY2B3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Harvey Mudd College",
+  "perf_str_addr": "301 PLATT BLVD",
+  "perf_city_name": "CLAREMONT",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "917115901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 65505.0
+  }
+ ],
+ "por": null
+}

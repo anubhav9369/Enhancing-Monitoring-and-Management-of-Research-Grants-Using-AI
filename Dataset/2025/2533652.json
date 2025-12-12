@@ -1,0 +1,114 @@
+{
+ "awd_id": "2533652",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: What is in a Voice?: Scientific and Machine Learning Advancement for Voice Conversion",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922972",
+ "po_email": "emiltsak@nsf.gov",
+ "po_sign_block_name": "Eleni Miltsakaki",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 563693.0,
+ "awd_amount": 563693.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-30",
+ "awd_abstract_narration": "Prior research and applications of voice conversion models have raised challenging problems that are both theoretical and use-inspired. Notable challenges include processing emotional speech and speech in noisy environments and generating speech that represents the characteristics and expressiveness of specific speakers such as personality traits, mood, prosody, and emotional state. These challenges are exacerbated by a limited availability of data. Improving such capabilities will have a wide range of social impacts ranging from giving natural voice to patients who have lost it to rendering comprehensible and speaker faithful renderings of old poor quality recordings that have become hard to understand to generating seamless speech translations in real time communications while staying faithful to the voice characteristics of the speaker. To address these challenges, the project proposes to explore and expand theories about speaker identity, emotion, and expressiveness in challenging conditions. Practically, this means studying how factors like background noise, emotions such as stress, cultural differences or other idiosyncratic ways of speaking affect a system\u2019s ability to recognize and render faithfully the speech of a specific individual. This work will enable a second aim of this project which is to create voice technology that can be used for safeguarding ethical and responsible use of voice generation. Sophisticated voice conversion techniques can be used to detect and prevent spoofing and other fraudulent activities and make it challenging for unauthorized users to mimic or imitate target speakers. Besides security and defense other areas that will benefit from this project include security and defense, accessibility and healthcare assistive technologies, medical voice preservation, speech therapy and rehabilitations as well as entertainment and gaming.\r\n\r\n\r\nThis award aims to develop novel algorithms utilizing deep learning techniques to advance voice conversion models with the ability to represent faithfully the characteristics and emotional states of individual speech. The project includes the following key areas of research. The first research target is to explore learning speaker identity and emotion representations for robust voice conversion with self-supervision. By investigating joint representations, this project seeks to develop a deeper understanding of how speaker characteristics and emotions can be effectively transformed. The second research target is to investigate voice conversion solutions for challenging conditions such as noisy environment, emotional speakers, and limited training to enhance the expressiveness and naturalness of the converted speech. The third research target is to investigate novel deep learning techniques for the detection of synthetic voices and joint training strategies to further improve voice conversion performance and evaluation. By exploring the synergies between transformation and detection of synthetic voices, this project has the potential to significantly impact society with a) accurate and expressive voice-based applications and b) applying the same techniques to detect when speech is naturally occurring or synthetic for the prevention of spoofing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Berrak",
+   "pi_last_name": "Sisman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Berrak Sisman",
+   "pi_email_addr": "sisman@jhu.edu",
+   "nsf_id": "000928652",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES S",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 293805.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 269888.0
+  }
+ ],
+ "por": null
+}

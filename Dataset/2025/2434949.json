@@ -1,0 +1,105 @@
+{
+ "awd_id": "2434949",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: GRAM-CAROLINE: Grammar-Reinforced AI Modeling with Conditional Autoencoder and Relevance-Oriented Learning for Interpretable kNowledge Extraction",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2027-03-31",
+ "tot_intn_awd_amt": 499742.0,
+ "awd_amount": 499742.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "The opioid crisis is a serious public health issue, causing over 80,000 overdose deaths in the U.S. in 2021 alone, which underscores the urgent need for safer pain medications that are not addictive. The GRAM-CAROLINE project aims to transform the way drugs are designed using advanced artificial intelligence (AI) by combining scientific knowledge and medicinal chemistry. The main goal is to develop new molecules that boost the body\u2019s natural pain relief system, providing effective pain relief without the risk of addiction linked to opioids. This project will create a new generative AI system that uses scientific rules to produce better solutions and a machine learning model that uncovers hidden scientific patterns, making the AI results more understandable and reliable. This cutting-edge approach will be used to create new pain relief medications which can then be tested in labs and iteratively improved. In addition to tackling the opioid crisis, the project aims to achieve significant scientific breakthroughs that can be applied in numerous fields, enhance interdisciplinary education, and support diversity in science and engineering by incorporating the research into university programs. The GRAM-CAROLINE project demonstrates the potential of AI to solve urgent health problems while advancing scientific understanding and benefiting society.\r\n\r\nThe ongoing opioid crisis, resulting in over 80,000 overdose deaths in the U.S. in 2021 alone, highlights an urgent need for safer, non-addictive pain medications. The GRAM-CAROLINE project (Grammar-Reinforced AI Modeling with Conditional Autoencoder and Relevance-Oriented Learning for Interpretable Knowledge Extraction) aims to address this need by leveraging advanced artificial intelligence (AI) to revolutionize the drug design process. The primary objective is to create de novo amplifier molecules that enhance the body\u2019s endogenous pain control mechanisms, delivering effective pain relief without the addiction risks associated with opioids. This will be achieved by developing a novel AI framework that integrates domain-specific scientific knowledge and grammar-based molecular encodings with machine learning techniques to generate viable candidate molecules. Additionally, the project will establish a transparent machine learning model capable of extracting hidden scientific rules and constraints, leading to interpretable and reliable AI-generated solutions. The key research activities involve creating a generative AI system using a conditional variational autoencoder with grammar-based and physics-informed constraints, designing a new transparent machine learning model using reinforcement learning to extract unknown constraints, and applying these models to design amplifier molecules for the body\u2019s natural pain suppression system. This process includes generating potential molecules, validating them in vitro, and iteratively refining both the learned constraints and generated outputs to enhance the probability of discovering viable drug candidates. The project promises significant contributions to AI and pharmacology by\r\ndeveloping an interpretable framework for drug design, supporting advancements in other scientific fields, and fostering multidisciplinary education in STEM fields.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kayvan",
+   "pi_last_name": "Najarian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kayvan Najarian",
+   "pi_email_addr": "kayvan@umich.edu",
+   "nsf_id": "000399897",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Alt",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew Alt",
+   "pi_email_addr": "andyalt@umich.edu",
+   "nsf_id": "000973261",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499742.0
+  }
+ ],
+ "por": null
+}

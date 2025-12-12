@@ -1,0 +1,102 @@
+{
+ "awd_id": "2532703",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Constraining Cosmology with Galaxy Cluster Shapes: Bridging Theory and Observations for Upcoming Surveys",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032927203",
+ "po_email": "sschuler@nsf.gov",
+ "po_sign_block_name": "Simon Schuler",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 248928.0,
+ "awd_amount": 248928.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "The current standard model of cosmology -- the Lambda-CDM (Lambda Cold Dark Matter) model -- includes six free parameters that can be measured. Although the measurements have shown incredible agreement with theory, there remain tantalizing \u201ctensions\u201d in some of them that might indicate the Lambda-CDM model is incomplete. A researcher at the University of Hawaii at Hilo will address one of these tensions by developing an independent measurement using galaxy cluster counts and cluster structural properties. She will develop a framework to predict cluster properties from galaxy halo merger histories and cosmological parameters, and she will generate mock galaxy cluster catalogs to complement observations taken with the Vera C. Rubin Observatory. The project will expand research capacity at UH Hilo by supporting a sustainable undergraduate research program in computational astrophysics, and it will prepare the students for graduate school and STEM careers by involving them in collaborative research at the forefront of cosmology.\r\n\r\nThe parameter sigma-8 quantifies the amplitude of matter density fluctuations, reflecting the \u201cclumpiness\u201d of the Universe and how galactic structures evolved under gravity. Galaxy clusters form from the gravitational collapse of matter, a process that is influenced by sigma-8 and the related parameter omega-m, the matter density parameter. The PI will develop a semi-analytic modeling framework called CRISP (Cluster Recipes for Intrinsic Structural Parameters) that can rapidly predict key structural properties of galaxy clusters\u2014specifically concentration, shape, and spin\u2014as a function of sigma-8 and omega-m, offering an independent avenue to test the Lambda-CDM model. CRISP will also be used to generate realistic mock cluster catalogs tailored for Rubin\u2019s 10-year Legacy Survey of Space and Time (LSST) observations, offering an improvement over existing catalogs by incorporating cluster structural properties over a range of cosmological parameters. The catalogs will support a range of applications, including cluster-finding algorithm validation, systematic error quantification, and structural-property-based cosmological analyses, using the LSST data, with a particular focus on breaking tensions in parameters such as sigma-8 and omega-m.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nicole",
+   "pi_last_name": "Drakos",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicole E Drakos",
+   "pi_email_addr": "ndrakos@hawaii.edu",
+   "nsf_id": "0000A0GVK",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Hawaii at Hilo",
+  "inst_street_address": "200 W KAWILI ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HILO",
+  "inst_state_code": "HI",
+  "inst_state_name": "Hawaii",
+  "inst_phone_num": "8089567800",
+  "inst_zip_code": "967204075",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "HI02",
+  "org_lgl_bus_name": "UNIVERSITY OF HAWAII",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KEXVZ79F9UU9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Hawaii at Hilo",
+  "perf_str_addr": "200 W KAWILI ST",
+  "perf_city_name": "HILO",
+  "perf_st_code": "HI",
+  "perf_st_name": "Hawaii",
+  "perf_zip_code": "967204075",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "HI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 248928.0
+  }
+ ],
+ "por": null
+}

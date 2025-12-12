@@ -1,0 +1,106 @@
+{
+ "awd_id": "2442039",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Opening the Black Box: Advancing Interpretable Machine Learning for Computer Vision",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 584034.0,
+ "awd_amount": 584034.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Machine learning-based artificial intelligence (AI) is widely used in computer vision, but there are growing concerns regarding responsible use of AI. One particular concern relates to the \"black-box\" nature of state-of-the-art AI models. These models are incredibly powerful, but they cannot be easily interpreted by humans. Lack of interpretability challenges the responsible use of AI - without model interpretability, human users cannot understand model decisions or correct model mistakes. This can have dire consequences, especially in critical, high-stakes settings. The goal of this project is to improve the interpretability of machine learning models in the context of computer vision. Specifically, this project will develop innovative technologies to allow machine learning-based computer vision models to explain their reasoning processes to human users, and to allow human users to interact with those models to correct their mistakes. By fostering a two-way dialogue between AI and human users, the technologies developed in this project will not only lead to computer vision models with improved interpretability to human users but will also empower users to make more informed decisions. At the same time, the developed technologies will facilitate continuous improvement of computer vision models based on feedback from human users and will lead to more accurate models with refined reasoning processes.\r\n\r\nThis project will advance interpretable machine learning by creating new interpretable models and techniques for computer vision. It will lead to: 1) multimodal interpretable models that unify various forms of interpretability, such as prototype-based interpretability and natural language explanations; 2) interpretable generative models, which can explain the image generation process to human users; 3) interpretable reinforcement learning techniques that can be used to train interpretable policies based on their interactions with the environment; and 4) human-AI interaction techniques that will allow human users to interact with interpretable models to correct mistakes in the models' reasoning and improve the quality of model predictions and explanations. The research effort will push the boundaries of interpretable machine learning, by unifying various forms of interpretability, by extending the use of interpretable machine learning to generative modeling and to reinforcement learning, and by bringing human-AI interaction to a new level. This project also comes with an integrated education component, which will lead to lesson plans that integrate interpretable machine learning, as well as the ethical and responsible use of AI, into high school classrooms. The education effort will bridge the gap between cutting-edge AI research and K-12 classrooms and will inspire the next generation of AI scientists.\r\n\r\nThis project is jointly funded by the Robust Intelligence Program and the Established Program to Stimulate Competitive Research (EPSCoR) Program.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chaofan",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chaofan Chen",
+   "pi_email_addr": "chaofan.chen@maine.edu",
+   "nsf_id": "000832503",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maine",
+  "inst_street_address": "5717 CORBETT HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORONO",
+  "inst_state_code": "ME",
+  "inst_state_name": "Maine",
+  "inst_phone_num": "2075811484",
+  "inst_zip_code": "044695717",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "ME02",
+  "org_lgl_bus_name": "UNIVERSITY OF MAINE SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PB3AJE5ZEJ59"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maine",
+  "perf_str_addr": "5717 CORBETT HALL",
+  "perf_city_name": "ORONO",
+  "perf_st_code": "ME",
+  "perf_st_name": "Maine",
+  "perf_zip_code": "044695717",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "ME02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 584034.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,122 @@
+{
+ "awd_id": "2452708",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "PDaSP Track 1: Enabling a Privacy-Preserving Data Life Cycle with Lightweight Secure Computation",
+ "cfda_num": "47.070, 47.084",
+ "org_code": "15020000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 760000.0,
+ "awd_amount": 381981.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "Modern society depends on analyzing massive amounts of personal information to improve healthcare, enhance national security, and drive economic growth. However, current practices for storing and sharing sensitive data have led to major data breaches exposing millions of people's personal information, including medical records, financial details, and government secrets, undermining public trust and threatening national security.  This project addresses this critical challenge by developing new computer systems that allow organizations to gain insights from large datasets while keeping individual information completely private. This project will bring privacy protections to each of the three steps of the data-management lifecycle: data collection, data processing, and data retrieval. By protecting privacy during data collection, analysis, and retrieval, this research serves the national interest by enabling continued technological advancement while safeguarding citizen privacy, supporting economic competitiveness in data-driven industries, and strengthening cybersecurity infrastructure. \r\n\r\nThis project investigates three fundamental research areas to advance privacy-preserving data systems. First, the research team will develop new protocols for privacy-preserving data collection that enable servers to compute aggregate statistics over client data without accessing individual records, with emphasis on reducing computational costs and expanding the class of computable functions compared to existing systems. Second, the project will design privacy-preserving machine learning algorithms for training recommender systems, clustering algorithms, and decision trees that operate on encrypted data while maintaining model accuracy. The third and last component of the project will be to develop new techniques that let clients privately query server-side datasets. In this thrust, the project will develop a relational database that supports private queries. A key design component will be new data structures, optimized to work with cryptographic privacy-protecting protocols.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "ITE",
+ "org_div_long_name": "Innovation and Technology Ecosystems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Emma",
+   "pi_last_name": "Dauterman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emma Dauterman",
+   "pi_email_addr": "edauterman@cs.stanford.edu",
+   "nsf_id": "000933412",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Henry",
+   "pi_last_name": "Corrigan-Gibbs",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Henry Corrigan-Gibbs",
+   "pi_email_addr": "henrycg@csail.mit.edu",
+   "nsf_id": "000833247",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "318Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-8 Data-Cybrsecur"
+  },
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 381981.0
+  }
+ ],
+ "por": null
+}

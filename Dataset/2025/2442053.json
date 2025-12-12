@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442053",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Towards Gaze-guided Medical Image Analysis",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 572113.0,
+ "awd_amount": 345207.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Medical image interpretation is a complex, context-dependent process that requires nuanced reasoning and decision-making, honed through years of clinical experience. Eye gaze patterns, a rich source of implicit expert knowledge, reveal how clinicians systematically identify and interpret critical features in medical images. This project seeks to integrate these expert visual search patterns into machine learning (ML) frameworks, addressing the current gap in how ML models interpret medical images. By leveraging expert eye gaze as a privileged data source, the project aims to enhance diagnostic accuracy, improve model trustworthiness, and provide more interpretable and clinically relevant outputs. For example, understanding how a radiologist systematically examines a chest x-ray can help in designing algorithms that mimic this process, potentially improving the identification of subtle disease indicators that might be missed by less experienced readers or automated systems. By incorporating expert search patterns, ML models can become more accurate and reliable. The anticipated outcomes include improved clinical decision-making, augmented training for novice clinicians, and explainable artificial intelligence (AI) tools capable of advancing medical care and patient outcomes.\r\n\r\nThis project will develop foundational methods to characterize and integrate dynamic gaze patterns into machine learning pipelines. Algorithms will be designed to capture the spatiotemporal nature of clinical experts\u2019 visual search behaviors and their relationship to the spatial complexity of disease patterns in medical images. These gaze-informed models will leverage representations of scan paths to enhance both predictive performance and interpretability. Furthermore, gaze cues will be incorporated into multimodal models, enabling improved spatial and temporal coherence in tasks requiring image-text alignment, such as automated report generation. Evaluation of these methods will focus on challenging applications in radiology and histopathology, including cardiothoracic disease diagnosis, prostate cancer grading, and addressing class imbalance in long-tailed medical datasets. The project\u2019s technical innovations aim to improve the predictive power of state-of-the-art deep learning models while introducing clinician-informed guidance, ensuring clinically trustworthy outputs. By bridging human expertise with computational models, this research addresses critical challenges in medical imaging and lays the groundwork for significant advancements in artificial intelligence-enabled healthcare solutions. The educational component of this project will promote interdisciplinary collaboration, fostering the next generation of researchers and clinicians adept at developing and utilizing AI-driven healthcare solutions. The methods to be developed are broadly applicable and can potentially influence data analysis across other scientific domains where an observer's gaze plays a critical role in reasoning and decision-making tasks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prateek",
+   "pi_last_name": "Prasanna",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prateek Prasanna",
+   "pi_email_addr": "prateek.prasanna@stonybrook.edu",
+   "nsf_id": "000827956",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Stony Brook",
+  "inst_street_address": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STONY BROOK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6316329949",
+  "inst_zip_code": "11794",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NY01",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "M746VC6XMNH9",
+  "org_uei_num": "M746VC6XMNH9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Stony Brook",
+  "perf_str_addr": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "perf_city_name": "STONY BROOK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "117940001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NY01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 345207.0
+  }
+ ],
+ "por": null
+}

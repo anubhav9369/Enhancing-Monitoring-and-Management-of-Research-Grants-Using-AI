@@ -1,0 +1,102 @@
+{
+ "awd_id": "2513363",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Extracting Gravitational Wave Signals from Non-Gaussian and Non-Stationary Noise",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927372",
+ "po_email": "pmarrone@nsf.gov",
+ "po_sign_block_name": "Pedro Marronetti",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 360000.0,
+ "awd_amount": 360000.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "Gravitational wave astronomy and the NSF-supported LIGO observatories allow us to study the Universe in new ways, providing unique insights into how stars evolve, and the nuclear and gravitational physics that shape extreme objects such as Neutron Stars and Black Holes. This award will support the development of a new framework for studying these extreme objects that is faster than existing approaches, and also more robust against noise in the detectors. In particular, new analysis methods will be developed that account for time-varying noise and noise transients, which, if not properly accounted for, can significantly bias the observations. The award will support several students in learning coding and analysis skills that are highly sought after across the sciences and in industry. In addition, the award will contribute to a summer training program for middle school science teachers.\r\n\r\nExisting analysis methods make the simplifying assumption that the noise can be treated as stationary and Gaussian. In reality, the instrument noise in gravitational wave detectors varies in time and exhibits deviations for Gaussianity, and failing to account for these effects can bias the analysis. Under this award, a new analysis framework will be developed and implemented that accounts for time variation in the noise via a fast and flexible time-frequency analysis using an orthogonal wavelet basis. Fast wavelet domain waveform models will allow for the simultaneous modeling of gravitational wave signals, glitches, and drifts in the noise level on data sets that are hundreds of seconds in duration, with run times measured in minutes, not days.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Neil",
+   "pi_last_name": "Cornish",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Neil J Cornish",
+   "pi_email_addr": "cornish@physics.montana.edu",
+   "nsf_id": "000275421",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Montana State University",
+  "inst_street_address": "216 MONTANA HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOZEMAN",
+  "inst_state_code": "MT",
+  "inst_state_name": "Montana",
+  "inst_phone_num": "4069942381",
+  "inst_zip_code": "59717",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MT01",
+  "org_lgl_bus_name": "MONTANA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EJ3UF7TK8RT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Montana State University",
+  "perf_str_addr": "216 MONTANA HALL",
+  "perf_city_name": "BOZEMAN",
+  "perf_st_code": "MT",
+  "perf_st_name": "Montana",
+  "perf_zip_code": "59717",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124300",
+   "pgm_ele_name": "Gravity Exp. & Data Analysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 360000.0
+  }
+ ],
+ "por": null
+}

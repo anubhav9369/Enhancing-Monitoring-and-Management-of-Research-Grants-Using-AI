@@ -1,0 +1,114 @@
+{
+ "awd_id": "2440881",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Using Protocol Blind Spots to Develop Opportunistic Wireless Subprotocols for Advanced Adaptability",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 532556.0,
+ "awd_amount": 322594.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "Wireless technologies are continually advancing, yet already deployed legacy devices remain in use for years, making it challenging to leverage the latest innovations. Upgrading wireless hardware is costly, particularly for long-term deployments. This project addresses this problem by enhancing the adaptability of existing wireless devices without needing hardware modifications. By utilizing overlooked aspects of wireless protocols, called protocol blind spots, this project plans to increase the capabilities of current hardware. To achieve this, the project will introduce subprotocols, which are software-based extensions that operate within an existing protocol. It is expected that wireless subprotocols will lead to enabling devices to enhance performance, improve resilience and adaptability, and communicate more effectively in dynamic environments.\r\n\r\nThe innovation of this project lies in the design of wireless subprotocols, a novel approach to protocol creation by incorporating a fully functional subprotocol within a base protocol, complete with its own modulation, coding, and framing. Unlike traditional methods that depend on hardware upgrades, this approach leverages software to opportunistically exploit protocol blind spots, enabling enhancements such as extending the range of communication, improving spectrum coordination, and increasing adaptability. The project consists of three objectives: to establish a testbed for subprotocol development, to create innovative subprotocols, and to integrate these subprotocols into a software package that allows simultaneous operation of subprotocols on a device. By pushing the boundaries of software-defined wireless communications, this research is expected to influence future protocol designs and advance the field of wireless networking.\r\n\r\nThe broader impact of this project extends to industry, academia, and the general public. Since subprotocols are software-based, they are expected to be easily deployable, facilitating industry adoption and fostering technology transfer. The project will also establish a new research area in wireless communications, influencing the design of future wireless devices and improving the adaptability of previously deployed devices. Additionally, this project's software-based nature lowers the barrier to entry, making wireless research more accessible to new students. Hands-on interactive activities and demonstrations will be developed to engage students and the community in wireless technology exploration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Philip",
+   "pi_last_name": "Lundrigan",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Philip B Lundrigan",
+   "pi_email_addr": "lundrigan@byu.edu",
+   "nsf_id": "000817577",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brigham Young University",
+  "inst_street_address": "A-153 ASB",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVO",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8014223360",
+  "inst_zip_code": "846021128",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "UT03",
+  "org_lgl_bus_name": "BRIGHAM YOUNG UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JWSYC7RUMJD1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brigham Young University",
+  "perf_str_addr": "A-153 ASB",
+  "perf_city_name": "PROVO",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "846021128",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "UT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 322594.0
+  }
+ ],
+ "por": null
+}

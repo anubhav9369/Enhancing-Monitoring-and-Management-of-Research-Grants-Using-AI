@@ -1,0 +1,102 @@
+{
+ "awd_id": "2514834",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Disentangled learning of high dimensional biomedical data in the presence of inherent heterogeneity",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 596508.0,
+ "awd_amount": 450205.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2025-08-08",
+ "awd_abstract_narration": "The advancement in high throughput technologies is revolutionizing the fields of biomedical research, giving rise to large-scale patient-derived molecular datasets, including matched multi-omics data, single cell or spatially resolved -omics data, as well as longitudinal -omics data. Despite the growing trend of analyzing such complex data to further our understanding of the molecular basis in states of human disease, the inherent biological heterogeneity is challenging the conventional paradigm to treat a given diseased system as a uniform entity: patients may form different disease subtypes present with variable clinical outcomes, and cells collected from the same patient sample may display different phenotypic states. Biological and clinical interpretability in the face of the high dimensional molecular features remain to be another challenge. The proposed project will address key challenges in: 1) simultaneously detecting biologically/clinically meaningful patient/cell subgroups and extracting their unique defining genomic features; and 2) integrated learning from data of multiple modalities, with strong systematic batch effect, or collected over time. Thus, the proposed work has high potential to discover new knowledge and to induce new approaches significant to health data science research. The project will result in algorithms, such as high dimensionality reduction, clustering and data integration, that are broadly applicable across the whole of data science, to address a wide range of research and industry needs.\r\n\r\nThis project proposes novel ideas of disentangled learning to simultaneously address the high dimensionality and inherent heterogeneity issues for three most popular biomedical data types: multi-omics, tissue resolved -omics, and longitudinal -omics data. The following three critical challenges are to be addressed: 1) Detecting biologically/clinically meaningful patient subgroups by leveraging multi-omics data through novel supervised clustering methods; 2) Discovering heterogeneous cell populations in noisy tissue resolved omics data and multi-task learning of multiple tissue samples through a Poisson based low dimensional embedding model; and 3) Characterizing heterogeneous disease trajectories using longitudinal and high dimensional -omics data through a fusion learning model. For all three scenarios, a common theme of disentangled learning is proposed to ensure the biological/clinical interpretability of the analysis results. The inherent heterogeneity within and across the subjects are divided to distinct subgroups or subpopulations, each of which is characterized by their unique features extracted from within a high dimensional feature space. All proposed methods are embraced with extensive utility in both academia and industry. Educationally, the proposed peer learning education module, R Shiny based tool development research, and summer workshops on data science, all targeting high school and undergraduate students, can well serve as a platform not only for inspiring and retaining students, but also training them for future STEM workforce roles. Thus, the proposed project is promising to have far-reaching educational impacts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sha",
+   "pi_last_name": "Cao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sha Cao",
+   "pi_email_addr": "caosh@ohsu.edu",
+   "nsf_id": "000759756",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon Health & Science University",
+  "inst_street_address": "3181 SW SAM JACKSON PARK RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5034947784",
+  "inst_zip_code": "972393011",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OR01",
+  "org_lgl_bus_name": "OREGON HEALTH & SCIENCE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPSNT86JKN51"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon Health & Science University",
+  "perf_str_addr": "3181 SW SAM JACKSON PARK RD",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972393011",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OR01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 450205.0
+  }
+ ],
+ "por": null
+}

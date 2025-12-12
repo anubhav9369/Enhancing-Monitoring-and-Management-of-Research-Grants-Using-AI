@@ -1,0 +1,114 @@
+{
+ "awd_id": "2442883",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Improving Work Quality and Worker Safety in AI-Supported Crowdwork",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 550885.0,
+ "awd_amount": 438871.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Crowdsourcing is a technique for breaking large problems that require human input into bite-sized tasks that can be divided among a number of \"crowd workers\" who complete the tasks for pay. Crowdsourcing is used in many areas: artificial intelligence (AI) tasks require large-scale datasets with human-created labels; research studies with people benefit from crowd workers both as study participants and as data analysts; and many companies use crowd work for their own business needs. As with many other areas of work and life, the rapid growth of AI is also poised to transform crowdsourcing: workers may be able to collaborate with AI-based tools to work more accurately and efficiently. However, risks also arise from workers misusing AI-based systems, errors in the AI systems themselves, and privacy risks that AI systems might pose to workers. This project aims to address these risks, and in the process advance understanding of human-AI collaboration, create safer AI-based systems, and develop more ethical crowdwork systems. The project team will also develop educational modules that bring more disciplinary perspectives to cybersecurity education and that integrate cybersecurity concepts into courses across disciplines. These modules, along with the theories, datasets, and tools developed in the research, will be widely shared to support educational, research, and practical impacts.\r\n\r\nThis project addresses emerging security and ethical challenges in AI-integrated crowdsourcing through three main research objectives. First, it seeks to develop trustworthy human-AI collaborative annotation systems by improving robustness against adversarial inputs, including optimization-based white-box attacks and black-box attacks. Second, it proposes signature-based and behavior-based detection strategies to identify the misuse of generative AI in crowdsourcing. Third, it aims to design and implement worker-centric and security-aware AI assistants to help workers navigate crowdsourcing platforms more effectively while protecting their privacy and security. The project's contributions include novel technical solutions, such as robust human-AI collaboration pipelines and misuse detection algorithms, grounded in empirical studies of real-world crowdsourcing systems. The research builds on recent progress in human-AI collaboration but goes further by focusing on security threats and worker protection. The project will also yield tangible deliverables: open-source tools and methodologies, educational modules, and security-aware interfaces for crowdsourcing platforms. These innovations will be widely disseminated and integrated into education and research infrastructure. This project advances understanding of AI's impact on the crowdsourcing ecosystem and establishes a foundation for developing secure, trustworthy, and ethical human-AI collaborative systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Weiping",
+   "pi_last_name": "Pei",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weiping Pei",
+   "pi_email_addr": "wep6483@utulsa.edu",
+   "nsf_id": "000897625",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tulsa",
+  "inst_street_address": "800 S TUCKER DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "TULSA",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "9186312192",
+  "inst_zip_code": "741049700",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OK01",
+  "org_lgl_bus_name": "THE UNIVERSITY OF TULSA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "P23YK1EKPS51"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tulsa",
+  "perf_str_addr": "800 S TUCKER DR",
+  "perf_city_name": "TULSA",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "741049700",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OK01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 438871.0
+  }
+ ],
+ "por": null
+}

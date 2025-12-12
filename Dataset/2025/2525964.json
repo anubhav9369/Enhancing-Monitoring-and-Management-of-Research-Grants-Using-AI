@@ -1,0 +1,106 @@
+{
+ "awd_id": "2525964",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "New Coupled-cluster Methods for Modeling Valence and Core-level Spectroscopy in Bound and Unbound Domains",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 647636.0,
+ "awd_amount": 647636.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "Anna Krylov of the University of Southern California is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to extend the theoretical spectroscopy modeling toolkit by developing novel electronic structure methods in the core and valence domains with particular emphasis on free-electron states. Using light to interrogate matter is the basis of spectroscopy, which provides the most powerful set of tools for unraveling mechanisms of chemical reactions, structures and intrinsic properties of materials and biological objects. Using high-energy (X-rays) and high-intensity radiation opens new exciting opportunities, which motivate the worldwide development of multi-billion-dollar facilities for advanced light sources.  Recent advances in beam quality in these facilities greatly expanded possible applications of X-rays, giving rise to a proliferation of techniques including those operating in time-resolved and non-linear regimes. These novel techniques promise to greatly expand our ability to interrogate molecular structure and dynamics, but their full potential can only be realized when experiment is augmented by accurate theoretical tools for modeling these phenomena. Despite significant efforts, the theory is still lagging behind the experimental capabilities, creating a bottleneck for maximizing the scientific impact of multi-billion advanced light source facilities. One of the challenges is that many techniques involve states in the continuum\u2014autoionizing resonances as well as photoejected, Auger, or scattered electrons\u2014 which are not amenable to standard quantum-chemistry techniques.  This proposal aims to bridge this gap by developing novel electronic structure methods for modeling spectroscopy in the core and valence domains with particular emphasis on free-electron states. Broader impact of the proposed research includes training and mentoring of graduate students and postdocs for careers in academia and industry as well as contributions to research infrastructure by integrating new computer codes in the widely used ab initio programs Q-CHEM and SPARTAN to make them available to the broad chemistry community.\r\n\r\nKrylov will (i) develop a novel ab initio framework for treating free-electron states using plane-wave-Gaussian basis sets; (ii) use this new framework to implement calculations of photo- electron circular dichroism (PECD), angular-resolved photoelectron cross sections, and extended x-ray absorption fine structure (EXAFS) and to improve the theoretical treatment of Auger and related phenomena such as intermolecular Coulomb decay (ICD) and electron-transfer mediated decay (ETMD); (iii) include spin\u2013orbit effects in calculating Auger spectra for L and M edges; (iv) extend theory to the modeling of spectroscopy with magnetic fields such as magnetic CD (MCD and X-MCD); (v) extend Cholesky decomposition approach to calculations of core-level states within equation-of-motion coupled-cluster theory.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anna",
+   "pi_last_name": "Krylov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anna Krylov",
+   "pi_email_addr": "krylov@usc.edu",
+   "nsf_id": "000488303",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "920 Bloom Walk",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900890482",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 647636.0
+  }
+ ],
+ "por": null
+}

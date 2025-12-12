@@ -1,0 +1,110 @@
+{
+ "awd_id": "2528410",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STTR Phase I: Improving the reliability of the United States' energy grid by predicting transformer failures",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928323",
+ "po_email": "bschrag@nsf.gov",
+ "po_sign_block_name": "Benaiah Schrag",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 304948.0,
+ "awd_amount": 304948.0,
+ "awd_min_amd_letter_date": "2025-09-08",
+ "awd_max_amd_letter_date": "2025-09-08",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Technology Transfer Phase I project seeks to develop an electronic partial discharge (PD) monitoring system that addresses the unmet need for noninvasive, cost-effective continuous PD monitoring. Over two-thirds of electrical transformers in the United States are at or past their expected lifespan, leaving the energy grid at risk of catastrophic failure. Current technologies for monitoring transformer health are expensive to operate, invasive, or require the use of additional resources (e.g., off-site analysis equipment). Because of the resources and human-power required of these existing tools, particularly those that require testing at the transformer site, PD monitoring occurs infrequently (i.e., annually) and only identifies PD after it has occurred. The technology to be developed offers risk mitigation by enabling electric companies to make informed decisions about transformer maintenance, utilizing PD detection and prediction capabilities. This technology will have unmatched value in strategic planning, where plans for transformer maintenance and replacement are based on continuous health information. Overall, the technology will positively impact all Americans that use electronics regularly, and could ultimately serve as a platform that can monitor PD in a variety of electrically insulated components, such as switchgears, inverters, generators, and electric motors. \r\n\r\nThe intellectual merit of this project involves a novel, patented technology that allows the collection of high-quality data at a rate two orders of magnitude above that provided by traditional sensors, circumventing existing bandwidth and signal-to-noise limitations. This innovation significantly extends the sensor\u2019s operational range, improving the accuracy of PD detection. The volume of data captured by this new sensor design will also provide a foundation for training models on the physical and application-specific elements of equipment failures, enabling more accurate detection of anomalies and prediction of specific failure types. In Phase I, R&D will be conducted to develop a prototype that meets the requirements for non-invasive function (i.e., installation on the transformer\u2019s external wires) while maintaining a high level of sensitivity and data capture. During the program, the following objectives will be pursued: 1) assessment of bandwidth, sensitivity, and signal-to-noise characteristics at lab scale; 2) translation of benchtop characteristics to the bucket transformer use case; and 3) enhancement of the material platform, signal processing, and read-out interface.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Kao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph Kao",
+   "pi_email_addr": "josephkao87@gmail.com",
+   "nsf_id": "0000A45FC",
+   "pi_start_date": "2025-09-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Debbie",
+   "pi_last_name": "Senesky",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Debbie Senesky",
+   "pi_email_addr": "dsenesky@stanford.edu",
+   "nsf_id": "000623820",
+   "pi_start_date": "2025-09-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "INFINION TECHNOLOGY, INC.",
+  "inst_street_address": "680 JANE STANFORD WAY # C382",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5105083798",
+  "inst_zip_code": "943057313",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "INFINION TECHNOLOGY, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LB5WCBE9N1B3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "INFINION TECHNOLOGY, INC.",
+  "perf_str_addr": "680 JANE STANFORD WAY # C382",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943057313",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150500",
+   "pgm_ele_name": "STTR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7607",
+   "pgm_ref_txt": "POWER, CONTROLS & ADAPTIVE NET"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304948.0
+  }
+ ],
+ "por": null
+}

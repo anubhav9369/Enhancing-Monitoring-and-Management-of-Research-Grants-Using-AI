@@ -1,0 +1,114 @@
+{
+ "awd_id": "2511951",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ECLIPSE-CHIPS: Closure Models for Low-Pressure, Low-Temperature Plasmas using Multi-Moment Fluid Modeling",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "03010000",
+ "po_phone": "7032927382",
+ "po_email": "vlukin@nsf.gov",
+ "po_sign_block_name": "Vyacheslav (Slava) Lukin",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 473249.0,
+ "awd_amount": 473249.0,
+ "awd_min_amd_letter_date": "2025-06-26",
+ "awd_max_amd_letter_date": "2025-06-26",
+ "awd_abstract_narration": "This award is made in response to Dear Colleague Letter 24-130, as part of the ECosystem for Leading Innovation in Plasma Science and Engineering (ECLIPSE) interdisciplinary program.  The award supports an effort to advance the predictive modeling capabilities of low-temperature plasmas (LTPs) for improved fabrication of microelectronics systems. LTPs are weakly ionized gases that play an important role in many industrial applications, including materials processing, spacecraft propulsion, and hypersonic flights. Predictive models of LTPs can help to advance the understanding of how to control physical and chemical processes within a low temperature plasma, and how to design the next-generation industrial systems. The main objective of this project is to develop theoretically accurate and computationally efficient models that can capture the critical physical and chemical processes in LTPs. The research will be conducted in conjunction with Applied Materials, which will help enhance industry workforce development in the United States.\r\n \r\nFluid equations are typically derived by taking the moments of the first-principles gas kinetic equations, such as the Boltzmann equation. The main problem of the state-of-the-art fluid models for LTPs, including drift-diffusion models and local approximation, is the inability to account for nonlocal effects of electrons. While kinetic models, such as particle-in-cell Monte Carlo collision simulations, capture such nonlocal phenomena, the computational cost is often much more expensive than fluid models, limiting their utility as design tools for industrial applications. The project aims to bridge the gap between fluid and kinetic models by developing closure models based on high-order moment models (HOMMs) that capture nonlocal and kinetic effects of LTPs. Specifically, the research objectives are to: (i) revisit and develop HOMMs, solving for the moments up to the fourth moment, including mass, momentum, pressure, heat flux, and kurtosis; (ii) investigate stochastic heating and nonlocal heat flux effects in RF-driven plasmas; and (iii) apply the HOMMs to study microwave plasmas used for microelectronics fabrication.\r\n\r\nThis award is jointly supported by the Division of Physics and the Office of Advanced Cyberinfrastructure.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kentaro",
+   "pi_last_name": "Hara",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kentaro Hara",
+   "pi_email_addr": "kenhara@stanford.edu",
+   "nsf_id": "000733277",
+   "pi_start_date": "2025-06-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124200",
+   "pgm_ele_name": "PLASMA PHYSICS"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "808400",
+   "pgm_ele_name": "CDS&E"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "110Z",
+   "pgm_ref_txt": "Ecosystem Leading Innovation Plasma S&E"
+  },
+  {
+   "pgm_ref_code": "5918",
+   "pgm_ref_txt": "FRANCE"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 473249.0
+  }
+ ],
+ "por": null
+}

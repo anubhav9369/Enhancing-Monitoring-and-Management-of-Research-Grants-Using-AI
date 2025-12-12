@@ -1,0 +1,118 @@
+{
+ "awd_id": "2444318",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CSR: Small: Distributed Dataflow for the Internet of Things",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "Using ubiquitous Internet connectivity, it is possible to monitor and control the physical environment \u2013 from urban settings to rural communities to uninhabited wild lands \u2013 continuously, using digital technologies.  Critical unsolved problems in the areas of extreme weather, agriculture, medicine, energy efficiency, education, sustainability, and other high-impact disciplines can be addressed through the creation and implementation of an always-on Internet of Things (IoT) that extends human perception and the ability to act at a distance using pervasively deployed and interconnected digital assets.  This project develops a new unifying computer science and engineering approach to building and deploying IoT systems.  This project\u2019s novelties are a software environment and ecosystem that are operational ready using current digital technologies.  The project\u2019s broader significance is twofold.  First, the project makes publicly available a new extensible IoT software infrastructure, enabling new cross-disciplinary discoveries and advances.  Second, the project makes IoT more broadly accessible by unifying the technologies that are necessary to implement it as a new software capability.\r\n\r\nScientifically, the project postulates a new, multi-scale set of computer science abstractions that are implementable on all devices from small-scale microcontrollers to the largest supercomputers.  It does so as a full stack that can be implemented natively or as a guest of existing software infrastructure.  It also includes a programming language approach that is general, highly concurrent (for efficiency) at large resource scales, and event-driven for implementation at embedded-system microscale. This combination of advances is integrable with existing development technologies and languages, thereby extending the accessibility of the research results that are required to achieve the project\u2019s goals.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chandra",
+   "pi_last_name": "Krintz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chandra Krintz",
+   "pi_email_addr": "ckrintz@cs.ucsb.edu",
+   "nsf_id": "000288955",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Rich",
+   "pi_last_name": "Wolski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rich Wolski",
+   "pi_email_addr": "rich@cs.ucsb.edu",
+   "nsf_id": "000458096",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Barbara",
+  "inst_street_address": "3227 CHEADLE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA BARBARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8058934188",
+  "inst_zip_code": "931060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G9QBQDH39DF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Barbara",
+  "perf_str_addr": "3227 CHEADLE HALL",
+  "perf_city_name": "SANTA BARBARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "931060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7354",
+   "pgm_ref_txt": "COMPUTER SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

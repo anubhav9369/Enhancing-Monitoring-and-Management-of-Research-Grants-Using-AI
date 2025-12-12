@@ -1,0 +1,105 @@
+{
+ "awd_id": "2530916",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Programmable Wireless Infrastructure with Formal Assurance for Cross-Campus Research",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 599979.0,
+ "awd_amount": 599979.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Scientific progress relies on collaborative access to data, instruments, and computing across institutions. However, wireless infrastructure at research institutions often presents a tradeoff: researchers require flexibility to experiment, while campus IT teams must enforce strict security and compliance policies. This misalignment can slow innovation and introduce vulnerabilities. The Wireless Research Access Programmable (WRAP) project addresses this by creating a programmable wireless architecture that allows researchers to manage domain specific policies while providing IT teams with lightweight, formally verifiable mechanisms to ensure compliance. WRAP enables secure, cross campus collaboration in fields such as quantum computing and neuroscience, integrating seamlessly with existing infrastructure. Developed with domain researchers, it ensures alignment with scientific workflows and advances scalable, policy compliant wireless systems for national cyberinfrastructure.\r\n\r\nWRAP integrates programmable wireless networking, lightweight formal verification, and usability centered design into a unified architecture. Built on OpenWiFi and Open Radio Access Network (O-RAN), it introduces three key innovations: (1) programmable wireless enclaves using dynamic radio access slicing for cross-campus collaboration, (2) a policy assurance layer with formal verification for compliance and real-time monitoring via an IT dashboard, and (3) a declarative interface for researchers to express high-level intent with actionable feedback. Piloted at the principal investigators' institutions, WRAP is tested in real workflows for usability, policy enforcement, and legacy integration. The project provides open source modules, verified templates, and training resources to support broader adoption, enabling secure, adaptable wireless systems that accelerate scientific discovery while ensuring compliance and trust.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ying",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ying Wang",
+   "pi_email_addr": "ywang6@stevens.edu",
+   "nsf_id": "000863535",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Juntao",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juntao Chen",
+   "pi_email_addr": "jchen504@fordham.edu",
+   "nsf_id": "000826841",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "ONE CASTLE POINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599979.0
+  }
+ ],
+ "por": null
+}

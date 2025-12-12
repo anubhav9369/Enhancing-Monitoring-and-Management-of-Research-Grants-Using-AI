@@ -1,0 +1,122 @@
+{
+ "awd_id": "2434229",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CPS: Medium: iCMS: Intelligent Cyber Microscopy System for Long-term Microscope Imaging",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 1200000.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "This project aims to develop an intelligent microscopy system that will transform how scientists observe and analyze live cells over extended periods. Traditional systems passively collect data and often require substantial time, expertise, and computational resources for post-experiment analysis. In contrast, the proposed Intelligent Cyber Microscopy System (iCMS) introduces a cutting-edge, AI-powered cyber-physical system (CPS) that integrates light-speed, energy-efficient meta-imagers with holistic AI image analysis, as well as remote monitoring and control capabilities to optimize the operation of large-scale imaging facilities. This innovation will fundamentally improve efficiency, reduce operational costs, and accelerate scientific breakthroughs in fields such as biology, medicine, and drug discovery. By integrating advanced optics, artificial intelligence, and CPS, iCMS will enable researchers to dynamically adapt experiments as they investigate processes like cancer cell behavior and treatment response at unprecedented scale and speed. Beyond its scientific contributions, this project will strengthen the national biomedical research infrastructure, drive technological innovation, and support education and workforce development in STEM. \r\n\r\nThe primary objective of this project is to develop a new biological imaging CPS system to revolutionize long-term live cell imaging by (a) transitioning from current sequential digital microscopy system to an integrated and interactive CPS system, (b) enabling intelligent meta-imager based AI image analysis for long-term microscope imaging, and (c) facilitating near-real-time remote monitoring and controlling for optimized operation of large-scale imaging facilities. The key idea is to transform the long-term live cell imaging from passive, resource-intensive digital microscopy system to an active and near-real-time CPS system. The proposed iCMS system will provide unprecedented capability of dynamically adjusting imaging settings, near real-time AI interpretation and modal adaptation during imaging, and granting scientists access to long-term imaging from anywhere, anytime, using any device. The broader impacts include improved efficiency and accessibility of high-throughput biological imaging, advancement of CPS research, and the development of future STEM leaders.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuankai",
+   "pi_last_name": "Huo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuankai Huo",
+   "pi_email_addr": "yuankai.huo@vanderbilt.edu",
+   "nsf_id": "000845414",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jason",
+   "pi_last_name": "Valentine",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jason G Valentine",
+   "pi_email_addr": "jason.g.valentine@vanderbilt.edu",
+   "nsf_id": "000572872",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Bryan",
+   "pi_last_name": "Millis",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bryan A Millis",
+   "pi_email_addr": "Bryan.A.Millis@Vanderbilt.edu",
+   "nsf_id": "000921292",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Vanderbilt University",
+  "inst_street_address": "110 21ST AVE S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NASHVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6153222631",
+  "inst_zip_code": "372032416",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "TN05",
+  "org_lgl_bus_name": "VANDERBILT UNIVERSITY",
+  "org_prnt_uei_num": "K9AHBDTKCB55",
+  "org_uei_num": "GTNBNWXJ12D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Vanderbilt University",
+  "perf_str_addr": "110 21ST AVE S",
+  "perf_city_name": "NASHVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "372032416",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "TN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1200000.0
+  }
+ ],
+ "por": null
+}

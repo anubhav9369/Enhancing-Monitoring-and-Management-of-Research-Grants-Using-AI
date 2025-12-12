@@ -1,0 +1,110 @@
+{
+ "awd_id": "2508321",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Combining Galaxy and Cosmic Microwave Background Surveys for Precise and Robust Constraints on Cosmology",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032925387",
+ "po_email": "aberlind@nsf.gov",
+ "po_sign_block_name": "ANDREAS BERLIND",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 345303.0,
+ "awd_amount": 345303.0,
+ "awd_min_amd_letter_date": "2024-11-26",
+ "awd_max_amd_letter_date": "2025-01-13",
+ "awd_abstract_narration": "The distribution of matter throughout the cosmos carries information about the origin, future, and composition of the Universe. However, obtaining high-precision measurements of the matter distribution is challenging: most of the matter is in the form of invisible dark matter, making it impossible to observe directly. Instead, techniques such as gravitational lensing \u2013 the bending of light by gravity \u2013 must be used to infer where the matter is.  With this research program, scientists at the University of Hawaii and the University of Chicago will analyze four different and highly complementary probes of the matter distribution from state-of-the-art astronomical surveys to obtain precise and unbiased constraints on the properties of the Universe. The team will use measurements of galaxy positions and gravitational lensing of galaxies from the Dark Energy Survey (DES), measurements of gravitational lensing of light from the cosmic microwave background (CMB) by the South Pole Telescope (SPT) and the Atacama Cosmology Telescope (ACT), and finally, measurements from SPT and ACT of the scattering of CMB light with electrons. By analyzing these complementary probes in concert, the team will reduce uncertainties on the properties of the Universe, minimize potential biases in their constraints, and obtain a more complete picture of the matter distribution. This award will additionally support development of new teaching modules designed to give high school and undergraduate students the opportunity to learn from real data and gain hands-on experience in data science.  \r\n\r\nStatistics of the matter distribution are predicted by the cosmological constant and cold dark matter (LCDM) model, and comparing these predictions to observations is a key goal of current and future cosmic surveys. Recently, measurements of the late-time matter distribution from galaxy surveys have shown hints of disagreement with extrapolations of early-Universe measurements that assume LCDM. This disagreement could result from fundamental problems with LCDM, or from systematic uncertainties impacting the measurements. Using new data from DES, SPT, and ACT, the team will measure and analyze cross-correlations between CMB lensing, galaxy positions, galaxy lensing, and the thermal Sunyaev Zel'dovich effect in order to perform a definitive assessment of tension with LCDM, test alternative cosmological models, and enable improved constraints with future surveys.  The broader impacts of the proposal will be to provide training in data science to high school, undergraduate and graduate students, and to increase public engagement with astronomical surveys. The PIs will develop a set of new teaching tools based on Python notebooks that give high school and undergraduate students the opportunity to learn from real data. These teaching tools will be implemented in classrooms in Honolulu and Chicago.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chihway",
+   "pi_last_name": "Chang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chihway Chang",
+   "pi_email_addr": "chihway@kicp.uchicago.edu",
+   "nsf_id": "000788853",
+   "pi_start_date": "2025-01-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Former Principal Investigator",
+   "pi_first_name": "Doug",
+   "pi_last_name": "Simons",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Doug A Simons",
+   "pi_email_addr": "dsimons@hawaii.edu",
+   "nsf_id": "000798735",
+   "pi_start_date": "2024-11-26",
+   "pi_end_date": "2025-01-13"
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Chicago",
+  "inst_street_address": "5801 S ELLIS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "7737028669",
+  "inst_zip_code": "606375418",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IL01",
+  "org_lgl_bus_name": "UNIVERSITY OF CHICAGO",
+  "org_prnt_uei_num": "ZUE9HKT2CLC9",
+  "org_uei_num": "ZUE9HKT2CLC9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Chicago",
+  "perf_str_addr": "5801 S ELLIS AVE",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606375418",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "IL01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 345303.0
+  }
+ ],
+ "por": null
+}

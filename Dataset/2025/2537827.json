@@ -1,0 +1,102 @@
+{
+ "awd_id": "2537827",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Multi-Hop Reasoning with LLMs: A Structure-Guided Reasoning Approach",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Large language models (LLMs) have been revolutionizing recent artificial intelligence research and applications. To empower complex reasoning and avoid hallucinations in special domain-focused problem-solving, LLMs need to incorporate updated and specialized data wisely and effectively. This project proposes a structure-guided reasoning approach for multi-hop, complex reasoning with LLMs. More concretely, it proposes to develop a retrieving-structuring-reasoning framework: (1) retrieving task-focused data and information, (2) structuring the retrieved data and knowledge, and (3) reasoning on the structured data and knowledge. Each task will need to explore the power of LLMs and develop efficient and effective LLM-integrated methods. The project will lead to the development of new algorithms for information retrieval, data and knowledge structuring, and structure-guided reasoning. The new methodologies generated will be broadly applicable across the fields of data science. Moreover, this research will support the cross-disciplinary development of a diverse cohort of doctoral and undergraduate students on both research and education at the University of Illinois.\r\n\r\n\r\nThe technical aims of the project are divided into three thrusts. The first thrust, Retrieving, develops user- or task- query guided, theme-specific information retrieval to collect theme-specific documents, by developing effective methods for corpus-based, domain-specific multi-class text classification, knowledge-guided semantic indexing, and reinforcement learning-based information retrieval. The second thrust, Structuring, develops methods for automated extraction of entity and relation structures and construction of task-oriented knowledge structures, including causal structures, sequence structures, aspect structures, and multiple, interacting, function-specific knowledge graphs. The third thrust, reasoning, develops methods to evaluate and rank the extracted knowledge structures and feed such knowledge structures, together with retrieved theme-specific documents, into an LLM generation framework for effective reasoning, question answering, problem solving, explanation, and claim validation. The project will take the real-world, public scientific texts as typical datasets in experiments and it will result in the dissemination of shared data and benchmarks to the broader data science and AI communities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiawei",
+   "pi_last_name": "Han",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiawei Han",
+   "pi_email_addr": "hanj@illinois.edu",
+   "nsf_id": "000339011",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Board of Trustees of the University of Illinois",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

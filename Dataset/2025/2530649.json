@@ -1,0 +1,117 @@
+{
+ "awd_id": "2530649",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Securing GPU Computing for AI-Driven Scientific Workflows",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2025-12-01",
+ "awd_exp_date": "2028-11-30",
+ "tot_intn_awd_amt": 599943.0,
+ "awd_amount": 599943.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "Enhancing memory safety in Graphics Processing Units (GPUs) is an essential requirement for secure Artificial Intelligence (AI) technologies. Scientific research increasingly depends on advanced AI technologies to drive breakthroughs, with GPUs serving as fundamental computational resources. Many scientific cyberinfrastructures (CIs) have made substantial investments in GPUs to support such efforts. While GPUs deliver considerable performance benefits, the security of GPU software, and memory safety in particular, has not received sufficient attention. Memory safety vulnerabilities such as buffer overflows can lead to serious consequences, including data corruption and unauthorized code execution. These vulnerabilities pose significant risks in shared scientific computing environments, where a single memory safety flaw can compromise the integrity of entire workflows and affect multiple researchers. This project addresses the urgent need to strengthen GPU software security against memory safety risks.\r\n\r\nThe SecGPU4AI project enhances GPU memory safety through two complementary thrusts. The first thrust focuses on designing a fuzzing-based framework for detecting and repairing memory safety vulnerabilities in AI GPU toolkits commonly used in scientific computing. The second thrust focuses on developing lightweight, software-based run-time defenses (such as a secure GPU memory allocator) to detect and prevent common memory safety attacks. These defense mechanisms require no changes to GPU hardware or proprietary toolchains, and thus can be readily adopted in existing scientific computing environments. By improving GPU memory safety, this project considerably enhances the security and reliability of AI-driven research across a wide range of scientific domains. It also opens new research directions in GPU security methodologies that extend to other computing areas. The research team will open-source all developed tools and collaborate with CI providers to promote their adoption and real-world impact.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yanan",
+   "pi_last_name": "Guo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanan Guo",
+   "pi_email_addr": "yanan.guo@rochester.edu",
+   "nsf_id": "0000A0W0Q",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Zhenkai",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhenkai Zhang",
+   "pi_email_addr": "zhenkai@clemson.edu",
+   "nsf_id": "000723772",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tong",
+   "pi_last_name": "Geng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tong Geng",
+   "pi_email_addr": "tg62@rice.edu",
+   "nsf_id": "000894956",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rochester",
+  "inst_street_address": "910 GENESEE ST",
+  "inst_street_address_2": "STE 200",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5852754031",
+  "inst_zip_code": "146113847",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "UNIVERSITY OF ROCHESTER",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F27KDXZMF9Y8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rochester",
+  "perf_str_addr": "910 GENESEE ST",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146113847",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599943.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2511516",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "The Astrophysics of Helium-Ignited Binary White Dwarf Type Ia Supernovae",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032922761",
+ "po_email": "hkrimm@nsf.gov",
+ "po_sign_block_name": "Hans Krimm",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 232034.0,
+ "awd_amount": 232034.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Stars like our Sun will end their lives as dense remnants called white dwarfs. But just as wood that burns to charcoal can catch fire again, these remnants can sometimes ignite once more\u2014occasionally in a powerful explosion. The brightest of these events, known as Type Ia supernovae, release more energy in a few seconds than our Sun will over its entire life. Astronomers rely upon these explosions, observed in distant galaxies, to measure the expansion of the universe. To better understand how Type Ia supernovae explode, a team from UMass Dartmouth will use large computers to simulate these stellar explosions. The outcomes of these simulations will test whether these supernovae originate from the merger of two white dwarfs. The investigator will train one PhD student and three undergraduate students in cutting-edge simulation methods on high-performance supercomputers. The investigator will host a virtual summer session to introduce undergraduate students to high-performance computing. He will also engage the public through outreach events at a local observatory. \r\n\r\nThis project will carry out a theoretical investigation into helium-ignited binary white dwarf mergers as progenitors of Type Ia supernovae (SNe Ia), with a particular focus on the recently discovered \"dynamically-driven double degenerate double detonation\" (D6) channel and its variants. The research will employ state-of-the-art 3D hydrodynamical simulations to study how these systems evolve, detonate, and produce observable signatures. The project will utilize the new open source FLASH-XNet code framework to model the complex hydrodynamics of these mergers, including GPU-accelerated extended nuclear burning networks. It will also generate synthetic light curves and spectra for comparison with observations. The research will provide potentially transformative insights into the fate of surviving secondary white dwarfs in helium ignited binary white dwarf systems, as well as any characteristic imprints the secondary might leave upon the nucleosynthetic yields and late-time spectra. It will further determine the conditions under which the secondary white dwarf will detonate, either partially or entirely, and characterize the nucleosynthetic yields, synthetic spectra, and light curves of these events. It will also calculate the thermodynamic structure and kinematics of the surviving secondaries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Fisher",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "Jr",
+   "pi_full_name": "Robert T Fisher",
+   "pi_email_addr": "robert.fisher@umassd.edu",
+   "nsf_id": "000310390",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts, Dartmouth",
+  "inst_street_address": "285 OLD WESTPORT RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORTH DARTMOUTH",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "5089998953",
+  "inst_zip_code": "027472356",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "MA09",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS DARTMOUTH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PMMKPCKNN9R2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts, Dartmouth",
+  "perf_str_addr": "285 OLD WESTPORT RD",
+  "perf_city_name": "NORTH DARTMOUTH",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "027472356",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "MA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121500",
+   "pgm_ele_name": "STELLAR ASTRONOMY & ASTROPHYSC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 232034.0
+  }
+ ],
+ "por": null
+}

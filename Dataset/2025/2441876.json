@@ -1,0 +1,118 @@
+{
+ "awd_id": "2441876",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Modeling Nonadiabatic Effects in Light-driven Processes of Systems in Complex Environments",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 670828.0,
+ "awd_amount": 670828.0,
+ "awd_min_amd_letter_date": "2024-12-27",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Tim J. Zuehlsdorff of Oregon State University is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop new computational methods capable of simulating how molecules embedded in complex environments like solvents and proteins interact with light, with applications ranging from understanding the mechanisms of biological light-harvesting to the rational design of fluorescent proteins for biomedical applications. A specific emphasis will be placed on formulating highly computationally efficient approaches that can capture nonadiabatic effects due to the interaction of multiple excited states. These effects are ubiquitous in many systems but are difficult to model with existing quantum chemistry approaches. Additionally, optical properties and energy relaxation in pigments are often strongly tuned by environmental interactions, such as targeted mutations in protein environments of fluorescent proteins. The computational methods developed as part of this project will provide new insights into the origins of these tuning effects and how they can potentially be exploited in the design of novel biosensors. The project will also develop interactive learning materials to enrich the undergraduate Physical Chemistry education at Oregon State and provide training for student researchers to harness high-performance computing (HPC) resources for their research. \r\n\r\nThe goal of this research project is to develop a computational toolset for modeling linear and nonlinear optical spectra of molecules in complex environments due to multiple coupled excited states. Zuehlsdorff will combine mixed quantum mechanical/molecular mechanical dynamics (QM/MM) simulations to sample environmental interactions with powerful numerically exact tensor network approaches to simulate the resulting quantum dynamics. The toolset will be optimized for and tested on modern high-performance computing (HPC) architectures to enable high-throughput calculations. Zuehlsdorff will develop methods that can directly reproduce signals from ultrafast nonlinear spectroscopy experiments, such as transient absorption and 2D electronic spectroscopy, and will use exactly solvable model systems to identify the signatures of nonadiabatic effects in computed spectra. A central hypothesis of this work is that unstructured (solvent) and structured (protein) environments can shape ultrafast energy relaxation due to nonadiabatic effects in fundamentally different ways. He will test this hypothesis by uncovering the origins of optical properties of solvated molecules with applications to light-harvesting and fluorescent proteins. Zuehlsdorff\u2019s research team will also design interactive learning materials based on Jupyter Notebooks, to enhance the Physical Chemistry curriculum at OSU and ultimately improve student performance through developing students\u2019 conceptual understanding of Quantum Chemistry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tim",
+   "pi_last_name": "Zuehlsdorff",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tim J Zuehlsdorff",
+   "pi_email_addr": "zuehlsdt@oregonstate.edu",
+   "nsf_id": "000861929",
+   "pi_start_date": "2024-12-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "Linus Pauling Science Center",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 670828.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2517557",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Medium: A New Direction of Research and Development to Fulfill the Promise of Computational Storage",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 248301.0,
+ "awd_min_amd_letter_date": "2025-02-10",
+ "awd_max_amd_letter_date": "2025-02-10",
+ "awd_abstract_narration": "As the speed gap between processor and storage keeps widening, moving computation closer to data is a promising direction for high-speed data processing. However, multiple challenging issues, such as the limited resources on device hardware, stringent cost and power constraints, difficulties in software development, and the lack of systematic solutions, are unfortunately hindering a widespread adoption of computational storage in reality. This project addresses these critical issues by using a cohesive approach to turn computational storage into a cooperative component in the whole system. This project also aims to make a broader impact by training students at different levels with research activities, enriching curriculum and classroom teaching with new research results, and contributing to educational and outreach activities.\r\n\r\nThis project makes an effort to address the challenging research issues, aiming to provide a new direction to fulfill the promise of computational storage. By using a holistic and system-oriented methodology, the project investigates critical research issues across multiple layers in the system hierarchy and develops effective solutions. Specifically, the project studies multiple important aspects in order to systematically integrate computational storage into existing computing ecosystems, such as designing a service-oriented abstraction for applications, optimizing system-level resource utilization, leveraging proximity and mitigating memory resource contention in device hardware, adapting core data structures and algorithms of applications to fully exploit heterogeneous computing resources, etc. A set of representative application cases is also studied for effectively leveraging computational storage. The success of this project will make broad and significant contributions to enable computational storage to address critical challenges in increasingly more data-centric applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Feng",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Feng Chen",
+   "pi_email_addr": "fchen25@iu.edu",
+   "nsf_id": "000652127",
+   "pi_start_date": "2025-02-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Indiana University",
+  "inst_street_address": "107 S INDIANA AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BLOOMINGTON",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "3172783473",
+  "inst_zip_code": "474057000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IN09",
+  "org_lgl_bus_name": "TRUSTEES OF INDIANA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YH86RTW2YVJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Indiana University",
+  "perf_str_addr": "BLOOMINGTON, IN 474057000",
+  "perf_city_name": "BLOOMINGTON",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "474057000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7941",
+   "pgm_ref_txt": "COMPUTER ARCHITECTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 115375.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 132926.0
+  }
+ ],
+ "por": null
+}

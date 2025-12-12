@@ -1,0 +1,102 @@
+{
+ "awd_id": "2512870",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: EDU: Fire and ICE: Raising Security Awareness through Experiential Learning Activities for Building Trustworthy Deep Learning-based Applications",
+ "cfda_num": "47.076",
+ "org_code": "11010000",
+ "po_phone": "7032922677",
+ "po_email": "liyang@nsf.gov",
+ "po_sign_block_name": "Li Yang",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 220000.0,
+ "awd_amount": 87910.0,
+ "awd_min_amd_letter_date": "2024-12-23",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "In privacy-sensitive and safety-critical applications, deep learning models are increasingly accepted and utilized. This trend is bound to continue: many open-source frameworks and tools from online code repositories are embedded with deep learning modules. However, many deep learning models contain hidden weaknesses that could be exploited by attacks, posing significant risks to user privacy and safety. It is essential, therefore, to raise security awareness among college students, who are the future data engineering practitioners, and equip them with knowledge and strategies for designing trustworthy, deep learning based applications. \r\n\r\nThis project responds to the urgent need in three critical areas: integrity, confidentiality and equity (ICE). A series of easy-to-implement experiential learning activities concretize learners\u2019 awareness of potential vulnerabilities in deep learning models and enhance their ability to build secure applications of their own. These activities are expressly designed for learners with little prior knowledge, and are streamlined to reduce preparation time and cost for the instructor. The activities\u2019 flexibility maximizes the equitable dissemination of relevant knowledge that is critical to society. The investigators are especially mindful of the needs of minority and socio-economically disadvantaged student populations.\r\n\r\nA total of twelve learning activity sets address a wide array of issues arising in ICE areas. For data integrity, threats posed by adversarial examples, data poisoning, and backdoor hidden features are tackled. The emphasis on experiential learning allows learners to become acquainted with the process and effects of attacks before learners are equipped with strategies and trained to implement proper defense. To enhance confidentiality, learners first encounter at least two potential sources of privacy leakage, dataset overfitting and abusive querying, and are then taught preventative countermeasures. Both sample biases and algorithmic biases in deep learning models are addressed in the learning activities. \r\n\r\nArtificial intelligence and deep learning constitute a fast-developing field, and educators must keep pace. The project enriches the supply of educational tools by introducing recent discoveries in the field, including those made by the investigators themselves.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DGE",
+ "org_div_long_name": "Division Of Graduate Education",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Liran",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Liran Ma",
+   "pi_email_addr": "mal18@miamioh.edu",
+   "nsf_id": "000608098",
+   "pi_start_date": "2024-12-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Miami University",
+  "inst_street_address": "501 E HIGH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "OXFORD",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "5135293600",
+  "inst_zip_code": "450561846",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "OH08",
+  "org_lgl_bus_name": "MIAMI UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T6J6AF3AM8M8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Miami University",
+  "perf_str_addr": "501 E HIGH ST",
+  "perf_city_name": "OXFORD",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "450561846",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "OH08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04AC2324DB",
+   "fund_name": "EDU DRSA DEFC AAB",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 87910.0
+  }
+ ],
+ "por": null
+}

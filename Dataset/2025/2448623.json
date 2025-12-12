@@ -1,0 +1,106 @@
+{
+ "awd_id": "2448623",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Blockchain Based Assured Open Scientific Data Sharing and Governance",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 499692.0,
+ "awd_amount": 340931.0,
+ "awd_min_amd_letter_date": "2024-12-16",
+ "awd_max_amd_letter_date": "2024-12-16",
+ "awd_abstract_narration": "Despite being one of the key driving forces behind scientific discovery and playing a critical role for the well-being of our society as a whole, scientific data sharing remains an issue fraught with security and integrity risks. This is because certain restrictions on data usage (e.g., maintaining appropriate audit logs for the data modifications) must be enforced rigorously, which is difficult to accomplish with existing technologies in a seamless manner.  The need to share scientific data while honoring usage restrictions, protecting data integrity, and capturing provenance for scientific repeatability requires development of new software tools that can support these capabilities across multiple organizations\u2019 boundaries. The novel blockchain based data sharing system built as a part of this project may result in advancing the knowledge base on how to automatically balance the conflicting goals of security and integrity requirements and information sharing in the context of open scientific discovery process. This system in return can significantly increase volume and variety of data shared for research purposes across a broad range of disciplines, thereby directly addressing the NSF Big Idea on Harnessing the Data Revolution, by further advancing capabilities of modern cyberinfrastructure and fostering novel opportunities for interdisciplinary data-intensive research. Furthermore, by actively incorporating our research results into the curriculum development, at both undergraduate and graduate levels, we foster the next generation of interdisciplinary scientists in a new era for open data.\r\n\r\nTo achieve the above stated goals, this project builds an innovative system where blockchain techniques are leveraged for assured scientific data sharing. First, the project develops a policy specification framework tailored for open science data sharing. Using this framework, scientists may easily specify any usage restriction (e.g., do not  re-identify  human  subjects,  do  not  modify  data,  notify  us  if  the  data  is  lost due  to  hacking).  Later on, using the blockchain framework, these restrictions will be captured,  and stored via smart contracts.  One novel aspect of the proposed framework is that, using machine learning techniques, it can analyze the smart contract based provenance information to automatically detect potentially anomalous data modifications. To test the capabilities of our framework,  the project uses a multi-sensor based data collection and data sharing project for understanding the impact of urban pollution as a case study.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Murat",
+   "pi_last_name": "Kantarcioglu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Murat Kantarcioglu",
+   "pi_email_addr": "muratk@vt.edu",
+   "nsf_id": "000288472",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "300 TURNER ST NW",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240603359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8027",
+   "pgm_ref_txt": "Cyber Secur - Cyberinfrastruc"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 340931.0
+  }
+ ],
+ "por": null
+}

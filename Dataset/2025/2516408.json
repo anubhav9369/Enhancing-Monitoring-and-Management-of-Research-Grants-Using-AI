@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516408",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Reciprocal-space Models of Plasmonic Lattices: Eigenstructure and Coupling to Chiral/achiral Light and Molecular Excitations",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 434688.0,
+ "awd_amount": 434688.0,
+ "awd_min_amd_letter_date": "2025-04-30",
+ "awd_max_amd_letter_date": "2025-04-30",
+ "awd_abstract_narration": "David J. Masiello of the University of Washington is supported by an award from the Chemical Theory, Models and Computational Methods Program in the Division of Chemistry to develop theoretical models and companion numerical tools capable of elucidating and driving new experiments involving the control of chiral light-matter interactions in tailored optical environments composed of 2D periodic plasmonic lattices that host dispersive collective excitations known as lattice plasmon polaritons (LPPs). The work described in this proposal lies at the intersection between nanophotonics and condensed matter physics, both of which are central to advances in modern optoelectronic and quantum information technologies. Specifically, Masiello and his team of graduate students and postdoctoral associates will investigate the LPP excitations in 2D plasmonic arrays of varying lattice symmetry and sublattice basis structure using reciprocal-space theoretical models that scale with the number of particles in the unit cell as opposed to the overall number of particles in the array. Such a reciprocal-space approach will enable detailed investigation of the complex optical environments arising from honeycomb, kagome, Kekule\u0301, and moire\u0301 lattice geometries, which can exhibit optical excitations endowed with well-defined chirality that can preferentially couple to surrounding chiral molecular excitations. The broader impacts of this work will specifically focus on mentoring undergraduate students, who are new to the University of Washington, to join in the proposed research.\r\n\r\nThe theoretical and computational research proposed will investigate a progression of projects that collectively seek to organize understanding of specific nanoscale quantum optical processes occurring in 2D periodic assembles of plasmonic nanoparticles coupled to chiral/achiral quantum emitters. The proposed work will produce rigorous, analytical models and companion open-source numerical codes to describe LPP mode hybridization, eigenstructure, and optical response in complex non-Bravais lattices that optionally break both parity and time reversal symmetry to host chiral excitations. Specifically, the technical focus of this work will study (1) the optically-driven lattice responses and (2) eigenstructure of LPPs, both without and with coupling to chiral/achiral quantum emitters in 2D plasmonic arrays, and (3) new classes of chiral optical probes possessing complementary energy, momentum, pseudo-angular momentum (PAM), and polarization structure to resolve chiral LPP excitations at their natural response scales. Through the development and implementation of new models as well as by regular discussions with experimental collaborators, the broader impacts of this work will train young scientists to learn the critical-thinking skills necessary to become the next generation of leaders in science and technology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Masiello",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "David J Masiello",
+   "pi_email_addr": "MASIELLO@UW.EDU",
+   "nsf_id": "000573798",
+   "pi_start_date": "2025-04-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 434688.0
+  }
+ ],
+ "por": null
+}

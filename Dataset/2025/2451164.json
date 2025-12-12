@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451164",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Identifying Movement-Based Biomarkers with Large Movement Models Using Commercial Headphones",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928772",
+ "po_email": "patherto@nsf.gov",
+ "po_sign_block_name": "Peter Atherton",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 302668.0,
+ "awd_amount": 302668.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation (SBIR) Phase I project is to translate ordinary human walking into movement-based biomarkers of personal health using commercially available wireless headphones. These biomarkers can be used to identify early indicators of musculoskeletal or neurological disease, predict exacerbations in health conditions allowing early intervention, and optimize injury recovery. Health monitoring outside of the clinic is urgently needed to reduce costs and lower the burden on the US healthcare system. Chronic musculoskeletal pain costs $600B per year and affects approximately half of the US population. Combined with the cost of neurological diseases, this rises to almost $1T. Early intervention and expanded access to at-home monitoring and rehabilitation can reduce the burden and economic impact of these diseases. The company has developed a novel approach to quantify individuals\u2019 unique walking patterns and identify changes to individuals\u2019 walking mechanics that indicate pathology. This project will combine methods across multiple scientific disciplines to construct novel machine learning models that establish a personal baseline for each individual and flag changes to that baseline that indicate pathology, enabling increased access to personalized, preventative healthcare to reduce clinical burden, thus reducing cost of care and lost productivity.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project is focused on developing a software system to provide real-time, precise monitoring of user health through movement monitoring outside of the clinic. This project will advance the development of novel deep learning models to identify movement-based biomarkers captured by commercially available wearable devices to increase access and reduce the cost of preventative care. The R&D of this proposed project has three technical objectives: i.) building a mobile application to collect and analyze human motion recorded by consumer headphones, ii.) conducting a systematic study with human subjects under test conditions simulating pathology, and iii.) building a software package that uses deep learning models (Large Movement Models) to establish an individual\u2019s baseline and identify deviations from that baseline. The expected result of this work is an innovative, personalized deep learning model that can be deployed through API licensing across any consumer wearable device containing an Inertial Measurement Unit (IMU) sensor. Through widespread adoption of this technology, the anticipated outcome of this project is expanded access to preventative monitoring and predictive health outside of the clinic.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alexandra",
+   "pi_last_name": "Hammerberg",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexandra G Hammerberg",
+   "pi_email_addr": "aghammerberg@hominin.ai",
+   "nsf_id": "0000A0ZN1",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "HOMININ.AI INC.",
+  "inst_street_address": "650 S ORCAS ST STE 103",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "9196009389",
+  "inst_zip_code": "981082652",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "HOMININ.AI INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RTUDDBDMNPG9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "HOMININ.AI INC.",
+  "perf_str_addr": "650 S ORCAS ST STE 103",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981082652",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 302668.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,113 @@
+{
+ "awd_id": "2433476",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Beyond Occam: Model Construction and Uncertainty Quantification in Geophysics",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032925058",
+ "po_email": "wpanero@nsf.gov",
+ "po_sign_block_name": "Wendy Panero",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 524290.0,
+ "awd_amount": 524290.0,
+ "awd_min_amd_letter_date": "2024-12-30",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "Geophysicists collect many data sets that are sensitive to variations in the physical properties of buried rocks. These properties include density, seismic velocity, electrical conductivity, and magnetization, which can reveal the geology of Earth\u2019s crust and mantle, as well as buried mineral, energy, and water resources. Computational methods can be built to simulate the data one would observe from a given physical model, called the \u201cforward\u201d problem. However, scientists need to run the process backward to create a model of the geology from the data, which is the \u201cinverse\u201d problem.  The inverse problem is unstable, so for the past 40 years, scientists have used a method that stabilizes the problem by assuming geological properties change smoothly, called \u201cOccam\u2019s inversion.\u201d  One problem with Occam\u2019s inversion is that geology is often not smooth but has sharp boundaries.  Another problem is that the data are compatible with a range of models, and there is a need to quantify that uncertainty.  The proposed work will produce new tools for geophysical inversion that resolve these problems. The team will generate models that can accurately reproduce sharp contrasts in geophysical properties.   The new methods will also find the set of models that fit the data and thereby characterize uncertainties in the inversion. Two graduate students and several undergraduate students will be supported by this research. These students will enhance their experimental and computational skills through these experiences.\r\n\r\nRegularized Occam inversion of nonlinear geophysical systems has become ubiquitous but attempts to place uncertainties on regularized models have stubbornly resisted these efforts, despite the great practical need to do so. Bayesian methods are an alternative to regularized inversion, but they are finicky to use and cannot easily be scaled to large problems. The proposed work combines the Occam and Bayesian approaches to solve the uncertainty quantification (UQ) problem in a practical way. A randomize-then-optimize (RTO) approach will be adapted to scale the UQ to 2D and even 3D geophysical problems.  The team will further extend Occam\u2019s inversion and its UQ to \u201cblocky\u201d models that can reproduce sharp contrasts in geophysical and geological properties. Such block models are desirable because geology is often not smooth. The team will leverage total variation regularization and associated fast computational methods to generate block models along with a UQ.  The new tools and associated computer codes will be made available to the community by well-documented, open-source code releases.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthias",
+   "pi_last_name": "Morzfeld",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthias Morzfeld",
+   "pi_email_addr": "mmorzfeld@ucsd.edu",
+   "nsf_id": "000706294",
+   "pi_start_date": "2024-12-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Steven",
+   "pi_last_name": "Constable",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Steven C Constable",
+   "pi_email_addr": "sconstable@ucsd.edu",
+   "nsf_id": "000461207",
+   "pi_start_date": "2024-12-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "inst_street_address": "8622 DISCOVERY WAY # 116",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585341293",
+  "inst_zip_code": "920931500",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+  "org_prnt_uei_num": "QJ8HMDK7MRM3",
+  "org_uei_num": "QJ8HMDK7MRM3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "perf_str_addr": "8622 DISCOVERY WAY # 116",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920931500",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "331Y00",
+   "pgm_ele_name": "SPSE-Study of Physics of Earth"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 524290.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2546659",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Re-Thinking the Perception-Action Paradigm for Agile Autonomous Robots",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-03-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 565631.0,
+ "awd_min_amd_letter_date": "2025-09-10",
+ "awd_max_amd_letter_date": "2025-09-10",
+ "awd_abstract_narration": "Autonomous robots will become pervasive in our society and will solve complex tasks, actively collaborating with each other and with humans. As the recent COVID-19 outbreak has highlighted, autonomous robots can solve a range of time-sensitive problems including logistics, reconnaissance, and disinfection of critical areas. Beyond pandemic, small-scale robots can help humans in complex or dangerous tasks such as search and rescue, security, and surveillance, and, thanks to their lighter weight, they pose only a modest risk to human safety. These time-sensitive tasks require robots to make fast decisions and agile maneuvers in complex and dynamic environments. State-of-the-art autonomous navigation approaches, while mature, are slow and brittle and prevent robust and resilient agile navigation. This Faculty Early Career Development (CAREER) Program studies the fundamental perception-action problem for agile navigation of autonomous robots in complex environments by planning a novel, low-latency, robust, adaptive, safe, and resilient paradigm. This project aims also to educate students on the technical aspects, societal benefits, and ethical use of autonomous systems by establishing a unique multi-disciplinary, and integrated research and educational platform which includes a core curriculum on robot localization and navigation, and a series of online racing hackathons for a post-pandemic customized and integrated research and educational experience. These will contribute to lowering the barrier to participation in research and education for students.\r\n\r\nThis project will generate a new foundational theory, which includes models and algorithms resulting from a principled combination of perception, learning, and control to holistically design visual perception and action to create small-scale agile autonomous robots. The goal is to capture the strict cross\u2013coupling effects between perception and action to jointly and concurrently resolve the perception-action problem to speed up the robots\u2019 decision making process and increase their agility. The project is organized in three thrusts according to a series of objectives, culminating in innovations in robotics autonomy research and education. A compressed and unified representation of the perception and action spaces guarantees to reduce the robot's inference latency and naturally reveals the cross-coupling effects among them. Next, the robot will exploit using this representation its action-predictive information to enhance its inference capabilities and will employ an optimal control/planning approach to maximize its perception accuracy and quality.\r\n\r\nThis project is supported by the cross-directorate Foundational Research in Robotics program, jointly managed and funded by the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Giuseppe",
+   "pi_last_name": "Loianno",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Giuseppe Loianno",
+   "pi_email_addr": "loiannog@berkeley.edu",
+   "nsf_id": "000797561",
+   "pi_start_date": "2025-09-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 465630.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": null
+}

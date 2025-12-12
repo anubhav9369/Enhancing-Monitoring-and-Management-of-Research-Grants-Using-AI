@@ -1,0 +1,93 @@
+{
+ "awd_id": "2506060",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CDS&E: Array-Variate Models for Longitudinal Data: Scalable Mixed and Autoregressive Approaches",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 90000.0,
+ "awd_amount": 90000.0,
+ "awd_min_amd_letter_date": "2025-08-06",
+ "awd_max_amd_letter_date": "2025-08-06",
+ "awd_abstract_narration": "This project addresses the need for statistical models that help biomedical researchers better understand changes in biological markers across populations and within individual subjects over time, using multidimensional tabular data. The investigators will collaborate with neuroscientists at the University of Iowa College of Medicine to adapt and enhance statistical modeling approaches for analyzing data from real-world biomedical studies involving mice. This work seeks to address some of the fundamental statistical challenges associated with these complex datasets. The investigators will accomplish this by leveraging two types of time-dependent modeling approaches and extending these methods to datasets that contain far more variables than observations. The project is significant because these methods will assist biomedical researchers in tackling key healthcare questions, accelerating scientific discovery, and providing tools for interpreting complex biomedical data. To promote broad accessibility and impact, the methods and tools developed will be released as open-source software, advancing both statistical methodology and biomedical research. The project will also strengthen data science training for graduate students and contribute to curriculum development at the undergraduate and graduate levels, thereby preparing students for careers in academia and the biomedical industry. The investigators are committed to mentoring graduate students in both methodological innovation and the adaptation of statistical tools for biomedical applications. Additionally, an open-source software package will be released on a publicly accessible platform to extend the project\u2019s impact across the broader scientific community. In these ways, the project serves the national interest by contributing to NSF\u2019s mission to promote the progress of science and to advance the nation\u2019s health.\r\n\r\nThis project will develop statistical methods for high-dimensional array-variate data with longitudinal and temporal dependencies, motivated by biomedical applications where data are often structured as multi-dimensional arrays with far more variables than observations. The investigators will design a suite of penalized likelihood and generalized Bayesian approaches for array-variate mixed-effects and autoregressive models, with a focus on inducing sparsity and low-rank structures in the mean, covariance, and precision arrays. Key innovations include the use of generalized likelihoods to broaden applicability beyond traditional Gaussian settings, and random projection matrices to compress mean, covariance, and precision array parameters, thus enhancing the computational scalability of Expectation-Maximization and Monte Carlo-based inference in high-dimensional settings. The proposed models and algorithms aim to produce interpretable results and remain computationally efficient even in applications with large numbers of variables and samples. Theoretical investigations will establish the consistency and optimality of these methods under minimal assumptions. In summary, this toolbox will enable flexible, scalable, and principled inference for array-variate data with complex temporal structure, advancing statistical methodology for structured biomedical datasets.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Partha",
+   "pi_last_name": "Sarkar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Partha Sarkar",
+   "pi_email_addr": "ps24v@fsu.edu",
+   "nsf_id": "0000A0W0X",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "874 TRADITIONS WAY",
+  "perf_city_name": "TALLAHASSEE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 90000.0
+  }
+ ],
+ "por": null
+}

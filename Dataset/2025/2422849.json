@@ -1,0 +1,122 @@
+{
+ "awd_id": "2422849",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-NSERC: Pricing in Discrete Markets Using Copositive Duality",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 456607.0,
+ "awd_amount": 456607.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This award intends to improve infrastructure operations by supporting research on new economic mechanisms for markets with discrete decisions. A prominent example is unit commitment, which schedules when each fuel-burning generator in a power system is on and off. Startup and shutdown account for a significant portion of the cost of generation, and they are binary decisions because a generator can only be on or off. The discreteness of unit commitment undermines standard economic mechanisms. In particular, resulting prices are generally too low, so that system operators must make out-of-market uplift payments to keep generators profitable. In general, discreteness such as this can create negative incentives in markets, leading to inefficient investment and decision-making. Research to be completed in association with this project intends to offer a new approach to designing pricing mechanisms in discrete markets, with the focus on power systems and electric vehicle charging. It will produce new tools and deepen understanding of tradeoffs in discrete markets. The project team has expertise in power systems and transportation, optimization, and market design, and will train graduate students with the multidisciplinary perspectives needed for this project.\r\n\r\nThis project will investigate the use of copositive programming as a tool for designing economic mechanisms for discrete markets. The approach is based on a fundamental result from Burer (2009), which establishes that a mixed-integer linear program can be equivalently represented as a copositive program. Copositive programming is a conic optimization class that is both convex and NP-hard. As such, it does not provide a better way to solve mixed-integer linear programs. However, its convexity does provide a new notion of duality for discrete problems. Therefore, given the copositive representation of a discrete problem like unit commitment, the dual is immediately available in standard form. The dual variables have economic interpretations as shadow prices and can be used to design market mechanisms such as prices and option contracts. Convexity also brings tools like the Karush-Kuhn-Tucker conditions, which are helpful for establishing properties such as efficiency, revenue adequacy, and fairness. This project will explore how to use these and other features of copositivity to better understand and design discrete markets. As copositive programming is computationally hard and of relatively recent interest, it does not yet have mature solution techniques. This project also aims to make copositive programming more practical via the use of machine learning-based, distributed, and online algorithms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "Taylor",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua A Taylor",
+   "pi_email_addr": "taylor.a.josh@gmail.com",
+   "nsf_id": "000969329",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mahnoosh",
+   "pi_last_name": "Alizadeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahnoosh Alizadeh",
+   "pi_email_addr": "alizadeh@ece.ucsb.edu",
+   "nsf_id": "000738962",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New Jersey Institute of Technology",
+  "inst_street_address": "323 DR MARTIN LUTHER KING JR BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9735965275",
+  "inst_zip_code": "071021824",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SGBMHQ7VXNH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New Jersey Institute of Technology",
+  "perf_str_addr": "323 DR MARTIN LUTHER KING JR BLVD",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "071021824",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NJ10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "078E",
+   "pgm_ref_txt": "ENTERPRISE DESIGN & LOGISTICS"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "5514",
+   "pgm_ref_txt": "OPERATIONS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 456607.0
+  }
+ ],
+ "por": null
+}

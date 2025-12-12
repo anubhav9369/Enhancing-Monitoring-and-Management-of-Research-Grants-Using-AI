@@ -1,0 +1,126 @@
+{
+ "awd_id": "2504016",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "AF: MEDIUM: Efficient Algorithms for Learning with Distribution Shift",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 528331.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Machine learning models have demonstrated remarkable capabilities across various domains. However, a fundamental challenge, known as \"distribution shift,\" arises when models trained on one set of data encounter new, different data in deployment, often leading to a significant drop in performance and reliability. This issue is critical in applications like healthcare or autonomous systems, where erroneous predictions can have severe consequences. The goal of this project is to develop novel algorithms that provide provable guarantees on a model's performance even under such distribution shifts, enabling models to either make reliable predictions or to recognize when data is too different and abstain from making a prediction. This project will also contribute to training the next generation of researchers in this area and disseminate findings through workshops and publicly available educational resources.\r\n\r\nThis project will develop and analyze efficient learning algorithms designed to operate robustly under distribution shift, without making any assumptions on the unseen test distribution. The investigators will extend classical learning frameworks to new paradigms, such as Testable Learning with Distribution Shift (TDS learning), where a learner can reject an entire problematic test set, and PQ learning, which allows for instance-level abstention if a significant shift is detected for a particular example. A core focus will be on circumventing the computationally intractable problem of measuring distances between training and test distributions. Instead, the algorithms will output a classifier accompanied by a proof that either the classifier performs optimally on the test set or a significant distribution shift has occurred. Research will also address sequential prediction settings where decisions are made on a sequential (potentially adversarial) stream of data. The theoretical approaches will draw from and establish new connections between machine theory, pseudorandomness, sum-of-squares proofs, robust statistics, and information theory, with empirical validation on standard benchmarks in biology and natural language.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Surbhi",
+   "pi_last_name": "Goel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Surbhi Goel",
+   "pi_email_addr": "surbhig@cis.upenn.edu",
+   "nsf_id": "000903330",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Adam",
+   "pi_last_name": "Klivans",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adam R Klivans",
+   "pi_email_addr": "klivans@cs.utexas.edu",
+   "nsf_id": "000284027",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3330 Walnut Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191043409",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 528331.0
+  }
+ ],
+ "por": null
+}

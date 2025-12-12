@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504642",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: HCC: Medium: AI-Supported Audio Captioning of Non-Speech Information",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "vnewhart@nsf.gov",
+ "po_sign_block_name": "Veronica Newhart",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 562856.0,
+ "awd_amount": 562856.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "The rapid growth of online video content has created new opportunities for learning, communication, and civic engagement. However, current accessibility technologies leave many people, including deaf and hard-of-hearing (DHH) individuals and older adults, with incomplete access to this important information resource. While existing automated audio captioning technology is frequently used to transcribe the audio in online video, the focus is on spoken words and ignores environmental sounds, music, and speaking style. These things often carry important information, from the subtle audio cues that signal danger in safety training videos to the environmental sounds that establish setting and mood in educational documentaries. This project will develop adaptive artificial intelligence systems that can determine which of these non-speech sounds are important for understanding video content and present them in ways tailored to individual viewer needs and preferences. The research tackles the complex challenge of translating rich hearing experiences into understandable formats while respecting the different ways that individuals prefer to receive information. By creating tools that make non-speech sounds accessible in digital media, this project ensures that all citizens can participate fully in digital education, entertainment, and civic life. \r\n\r\nThis project consists of a comprehensive agenda that combines human-computer interaction, machine learning and accessibility research. First, through user research with content creators and viewers, the project will investigate: \"what non-speech sounds should be captioned?\", \"why should they be captioned?\", and \"how should they be captioned?\" Results will inform design guidelines for tools to write and display captions. Second, the project will develop captioning datasets, including a large dataset of videos annotated for the needs of viewers. These datasets will further our understanding of the complex relationships that influence what should be captioned and how. Third, the project will develop a steerable and adaptive machine learning framework using multiple types of data (from our datasets) for audio captioning. In this framework, sound events will be: densely captioned with cues for meaning and sound; prioritized and decoded into text and visuals to communicate their meaning; adapted to the needs and preferences of viewers. Viewer needs and preferences will be discovered using a co-design approach with stakeholders.  This project will create publicly available tools, guidelines, datasets, and machine learning frameworks to improve learning, communication, and civic engagement for millions of people who are DHH or experience decline in hearing capabilities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Cartwright",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark B Cartwright",
+   "pi_email_addr": "mark.cartwright@njit.edu",
+   "nsf_id": "000870328",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sooyeon",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sooyeon Lee",
+   "pi_email_addr": "sl287@njit.edu",
+   "nsf_id": "000959925",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New Jersey Institute of Technology",
+  "inst_street_address": "323 DR MARTIN LUTHER KING JR BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9735965275",
+  "inst_zip_code": "071021824",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SGBMHQ7VXNH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New Jersey Institute of Technology",
+  "perf_str_addr": "323 DR MARTIN LUTHER KING JR BLVD",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "071021824",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NJ10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 562856.0
+  }
+ ],
+ "por": null
+}

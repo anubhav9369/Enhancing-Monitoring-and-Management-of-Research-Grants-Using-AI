@@ -1,0 +1,102 @@
+{
+ "awd_id": "2512457",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: NDN+SCION: Toward a global name-based network service",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 288979.0,
+ "awd_amount": 288979.0,
+ "awd_min_amd_letter_date": "2025-05-08",
+ "awd_max_amd_letter_date": "2025-05-08",
+ "awd_abstract_narration": "The original Internet architecture is \"host-centric\" as it focuses on sending information to a host computer using an address to specify the destination, using the Internet Protocol (IP) and IP addresses. This approach has a number of well-recognized challenges, including achieving desired levels of security. The Named-data Networking (NDN) architecture is \"data-centric\" and defines a network service that delivers data objects requested by a name rather than an address.  The NDN protocol emphasizes security (especially integrity and authenticity) and location-independence of delivered data. Unlike the legacy web, which authenticates the server where the data resides, the NDN protocol cryptographically binds the data and name, thus making security independent of which server the data is retrieved from. NDN has been shown to be useful within individual networks, but scaling it to a global service has been an ongoing challenge, both because the set of data names is unbounded and because those names are not tied to specific locations. SCION (Scalability, Control, and Isolation on Next-generation networks), is an inter-domain routing (IDR) architecture designed to carry packets between network domains while overcoming certain shortcomings of the current Internet's IDR system, which is based on the Border Gateway Protocol (BGP).  BGP was designed and deployed before cryptographic security mechanisms came into widespread use. SCION, on the other hand, was designed from the ground up to be secure, and fully independent of the BGP-based IDR system. It also provides increased control over the paths packets follow between domains, including concurrent use of multiple paths between source and destination, to increase transmission capacity and resilience.\r\n\r\nMotivated by the synergy between these two next-generation protocols, this project aims to design, develop and prototype NDN+SCION: a secure, scalable, global name-based network service based on the existing NDN and SCION protocols. This project aims to address two main research questions: (i) where and how to implement the interface between NDN within a network domain and SCION across domain boundaries; and (ii) where and how application trust, which determines what data is considered authentic, interacts with network trust, which determines how requests for named data are routed.  The prototype service will be deployed and tested on the FABRIC testbed.  A planned outcome of this project is making SCION available to experimenters on the FABRIC testbed.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kenneth",
+   "pi_last_name": "Calvert",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kenneth L Calvert",
+   "pi_email_addr": "calvert@netlab.uky.edu",
+   "nsf_id": "000397276",
+   "pi_start_date": "2025-05-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Kentucky Research Foundation",
+  "inst_street_address": "500 S LIMESTONE",
+  "inst_street_address_2": "109 KINKEAD HALL",
+  "inst_city_name": "LEXINGTON",
+  "inst_state_code": "KY",
+  "inst_state_name": "Kentucky",
+  "inst_phone_num": "8592579420",
+  "inst_zip_code": "405260001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "KY06",
+  "org_lgl_bus_name": "UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H1HYA8Z1NTM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Kentucky Research Foundation",
+  "perf_str_addr": "500 S LIMESTONE",
+  "perf_city_name": "LEXINGTON",
+  "perf_st_code": "KY",
+  "perf_st_name": "Kentucky",
+  "perf_zip_code": "405260001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "KY06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 288979.0
+  }
+ ],
+ "por": null
+}

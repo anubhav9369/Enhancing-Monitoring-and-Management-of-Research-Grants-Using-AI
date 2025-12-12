@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451231",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SaTC: Adversarial Malware Generation: A Universal Evasion Framework Targeting Neural Network-based Malware Detectors",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 174103.0,
+ "awd_amount": 174103.0,
+ "awd_min_amd_letter_date": "2025-06-29",
+ "awd_max_amd_letter_date": "2025-06-29",
+ "awd_abstract_narration": "This project\u2019s goal is to improve the robustness of machine learning models used to detect malicious software, or \u201cmalware\u201d. Computers are constantly vulnerable to malware, which can steal sensitive information, disrupt operations, or damage systems. Detecting and preventing malware is a significant challenge, and although recent advancements in deep learning have made it easier to identify potential malware threats, many deep learning models operate as \"black boxes\" that provide little information about how they work. This lack of information makes it hard to understand what about the software caused the model to flag it as malware or not. This in turn may make extra work for software developers who have to check legitimate software flagged as malware, or assess the risks posed by new, evolving malware that the models can\u2019t yet detect. Therefore, improving the interpretability and reliability of malware detection systems is crucial to efficiently making software safer.\r\n\r\nThis project aims to develop a robust framework for improving malware detection by identifying the key features learned by deep learning models, then generating new malware samples that might fool models with respect to those features. First, the project seeks to understand what features are learned and extracted by different neural network architectures, particularly those designed for image, sequence, and graph-based inputs. The goal is to gain insights into the representations and decision-making processes of various neural network models applied to diverse input domains. Second, the project explores whether new malicious binaries can be generated that evade detection models by strategically manipulating code based on the features used to identify malicious programs. This will involve developing techniques to create adversarial malware instances that can bypass current defense mechanisms. Third, the project will investigate how different binary rewriting techniques affect the performance of various neural network models. By analyzing the impact of these modifications, the study aims to improve the robustness of malware detection systems. To achieve these objectives, a reinforcement learning-based approach will be used to modify raw binary code in a way that allows it to evade detection by multiple deep learning models. Once adversarial malware is generated, the modified code will be analyzed to uncover patterns that distinguish different malware families and explain why certain modifications are successful in evading detection. Ultimately, the project will contribute to the broader field of malware analysis by openly sharing the malware dataset, techniques, source code, and generated adversarial datasets with the research community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lan",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lan Zhang",
+   "pi_email_addr": "lan.zhang@nau.edu",
+   "nsf_id": "0000A0B64",
+   "pi_start_date": "2025-06-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northern Arizona University",
+  "inst_street_address": "601 S KNOLES DR RM 220",
+  "inst_street_address_2": "",
+  "inst_city_name": "FLAGSTAFF",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "9285230886",
+  "inst_zip_code": "86011",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "AZ02",
+  "org_lgl_bus_name": "NORTHERN ARIZONA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MXHAS3AKPRN1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northern Arizona University",
+  "perf_str_addr": "601 S KNOLES DR RM 220",
+  "perf_city_name": "FLAGSTAFF",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "86011",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "AZ02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174103.0
+  }
+ ],
+ "por": null
+}

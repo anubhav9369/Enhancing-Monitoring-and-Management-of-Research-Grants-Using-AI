@@ -1,0 +1,98 @@
+{
+ "awd_id": "2452316",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR Fast-Track: Dexterous Robotic Manipulation in Manufacturing and Material Handling",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 1554195.0,
+ "awd_amount": 1554195.0,
+ "awd_min_amd_letter_date": "2025-09-10",
+ "awd_max_amd_letter_date": "2025-09-10",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research Phase I project is to enable new levels of automation in automotive manufacturing and e-commerce distribution by developing robot hands with human-like dexterity. Traditional robotic end-effectors, such as suction cups or parallel grippers, are limited to simple pick-and-place operations and are unable to perform more complex assembly or handling tasks. This project will develop multi-fingered robotic hands that can grasp, re-orient, and insert objects with precision, enabling the automation of labor-intensive processes like bolt threading and dense item packing. These capabilities directly address labor shortages and increasing production demands, particularly in industries where repetitive or ergonomically challenging work has become difficult to staff. This project supports the national interest by advancing manufacturing competitiveness, reshoring industrial capabilities, and strengthening supply chain resilience through robotics and artificial intelligence. In the long term, the technology has the potential to serve as a core enabler for general-purpose mobile robots operating in complex, unstructured environments.\r\n\r\nThis project will develop a robotic manipulation system capable of executing complex, contact-rich tasks that current robotic technologies cannot address. The high-risk innovation centers around integrating tactile sensing, proprioception, and vision with advanced motor learning to achieve dexterous manipulation in industrial settings. The primary technical challenge is the development of sensorimotor control policies that combine in-hand reorientation, force-driven insertion, and part singulation from unorganized bins. The proposed approach uses a dual-pipeline methodology: reinforcement learning from simulation for skills that can be effectively modeled, and behavioral cloning from teleoperated demonstrations for tasks where simulation is insufficient. Teleoperation will leverage human-like hand kinematics to enable intuitive data collection, while multi-modal transformer-based networks will combine visual and tactile data streams to train manipulation policies. Phase I will focus on demonstrating core skills - singulation, reorientation, and insertion - on pilot tasks in automotive assembly and warehouse sorting. Each skill will be evaluated on execution speed and reliability, targeting 30 to 60 seconds per task with over 90% success rate. These capabilities will be validated in lab settings modeled on real customer environments. The work includes the development of novel tactile sensors and robot hands, trained with massively parallel simulation and real-world data, to enable high performance across a broad set of applications. By the end of Phase I, the system is expected to perform realistic pilot tasks and inform the selection of use cases for further commercialization and scale-up in Phase II.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pedro",
+   "pi_last_name": "Piacenza",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pedro Piacenza",
+   "pi_email_addr": "pedro@tangiblerobotics.com",
+   "nsf_id": "0000A0T90",
+   "pi_start_date": "2025-09-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "TANGIBLE ROBOTICS INC",
+  "inst_street_address": "115 W 30TH ST RM 708",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "8572106465",
+  "inst_zip_code": "100014068",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NY12",
+  "org_lgl_bus_name": "TANGIBLE ROBOTICS INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JL9QTGMN4AZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "TANGIBLE ROBOTICS INC",
+  "perf_str_addr": "235 W 102ND ST APT 15F",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100258432",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NY12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "287Y00",
+   "pgm_ele_name": "SBIR Fast-Track"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1554195.0
+  }
+ ],
+ "por": null
+}

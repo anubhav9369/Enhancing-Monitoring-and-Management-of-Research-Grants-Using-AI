@@ -1,0 +1,98 @@
+{
+ "awd_id": "2528405",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Spectrum Coexistence Digital Twin",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032925041",
+ "po_email": "vinlee@nsf.gov",
+ "po_sign_block_name": "Vincent Lee",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 304638.0,
+ "awd_amount": 304638.0,
+ "awd_min_amd_letter_date": "2025-09-04",
+ "awd_max_amd_letter_date": "2025-09-04",
+ "awd_abstract_narration": "The broader/commercial impact of this SBIR Phase I project is the development of a new hardware technology that directly addresses a looming \"spectrum deficit.\" Soaring demand for wireless data, driven by artificial intelligence (AI) and 5G, is outstripping the capacity of available radio frequencies. The core issue is that the most valuable spectrum, worth over $100B for commercial use alone, is also essential for critical defense and weather radar systems. Current spectrum sharing solutions are slow and inefficient, sometimes taking nearly an hour to resolve interference conflicts. This project\u2019s innovation is an integrated hardware device that filters out interference in real-time, enabling seamless coexistence between commercial and government users. This supports U.S. technological leadership and national security while unlocking massive economic value. The initial market will be telecommunications and defense contractors, with a business model based on selling a modular device before licensing the core technology as a specialized integrated circuit, creating a durable competitive advantage in a vital new market.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project will address the limitations of dynamic spectrum sharing, where digital signal processing is too slow and power-intensive for real-time mitigation. The project's intellectual merit is a novel analog processing unit that uses physics-based deep learning for nanosecond-scale, low-power inference directly on radio frequency signals. The research will mitigate three key technical risks. Objectives include: 1) achieving high classification accuracy by leveraging the analog processing unit\u2019s speed for multi-shot signal integration; 2) ensuring algorithmic robustness against time-varying channels through real-time channel estimation and in-situ training; and 3) overcoming receiver desensitization from self-interference using nanosecond-scale sensing and active analog cancellation techniques. The project will use a hardware-accurate digital twin for rapid validation, aiming to produce a definitive analog processing unit design for 5G/radar coexistence that demonstrates a minimum 40 dB in interference rejection.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ronald",
+   "pi_last_name": "Davis",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "III",
+   "pi_full_name": "Ronald A Davis",
+   "pi_email_addr": "ron@vector-wave.com",
+   "nsf_id": "0000A26ST",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "VECTORWAVE CORPORATION",
+  "inst_street_address": "70 PACIFIC ST APT 206",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "5752024751",
+  "inst_zip_code": "021394204",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "VECTORWAVE CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YSNVNNJFXEB8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "VECTORWAVE CORPORATION",
+  "perf_str_addr": "750 Main St",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394204",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8032",
+   "pgm_ref_txt": "Software Services and Applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304638.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,162 @@
+{
+ "awd_id": "2428276",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMSG: Eco: Solvent-Free Processing of Metal-Imidazolate EUV Photoresists for Semiconductor Manufacturing Guided by Machine Learning",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-04-09",
+ "awd_max_amd_letter_date": "2025-04-09",
+ "awd_abstract_narration": "Microelectronic device manufacturing for the production of computer chips depends on lithographic processes. Lithography enables creation of detailed patterns and features needed for making integrated circuits (ICs). This process uses a thin layer of material, called a resist, which when exposed to light undergoes chemical reactions that persist after subsequent developing processes. To meet the demand for smaller, more powerful chips, extreme ultraviolet (EUV) light is now used in lithography. However, a major challenge with EUV lithography is finding new resists that are highly sensitive to this light and can create clear, precise patterns. One solution being explored is using materials that contain metals, as they can absorb EUV light better than elements used to make polymers, such as carbon and hydrogen. Although these metal-based resists can help create better patterns, they also need to be produced in a way that is environmentally friendly, with less waste and lower impact on the environment. This Future Manufacturing Seed Grant (FMSG) research project aims to develop a new process for creating these metal-based resists that is solvent-free and more ecofriendly. This advancement could lead to a new fabrication method for semiconductor devices, leading to more powerful, efficient, and reliable electronics. It also has the potential to boost the economy, create new jobs, and make US manufacturing more competitive in the global market. The project involves several academic partners, including Johns Hopkins University, Morgan State University, and Stony Brook University, along with an international collaboration with Spain and participation from the US microelectronics industry. It also offers hands-on training in semiconductor technology for students, creating valuable opportunities for local communities and schools.\r\n\r\nThe foundation of this project is based on the recent discovery by team-members of an entirely solvent-free (dry) process for making EUV resists based on both the dry deposition and dry development of a new class of metal-organic resists: amorphous metal imidazolate films. This is the first fully documented non-plasma-based all-dry process capable of producing high fidelity patterns from metal-containing resists in the open literature. Consequently, it has the potential to meet the technological demands of ICs while simultaneously reducing the environmental impact of EUV lithography through waste reduction. The eco-friendly manufacturing process is critically dependent upon a dry development step that occurs by chemically selective etching of amorphous metal imidazolate films, while amorphous metal imidazolate resists exposed to electron irradiation are inert to dry development, forming the basis of this patterning technology. Crucially, this all-dry process avoids the unwanted and indiscriminate physical sputtering effects associated with traditional equipment intensive plasma-based processes (e.g., Reactive Ion Etching). However, the underlying chemical reactions associated with dry development as well as the electron-induced reactions that render irradiated amorphous metal imidazolate films inert to dry development are unclear. This project proposes to address these knowledge gaps by generating fundamental scientific insights at the molecular level. Machine Learning coupled to this new knowledge looks to enable resist performance optimization and establish the potential and environmental impact of this all-dry process towards industrial implementation. Specifically, the project aims to: (i) deposit amorphous metal imidazolate films by molecular layer deposition that are more EUV sensitive; (ii) identify eco-friendly alternatives to current fluorinated dry developers; (iii) develop a fundamental understanding of the manufacturing steps; (iv) obtain resist metrics by means of electron beam and  EUV lithography, assisted by Machine Learning; (iv) perform initial process assessment and Life Cycle Analysis to optimize resist performance metrics while reducing environmental impacts.\r\n\r\nThis Future Manufacturing award is co-funded by the Division of Materials Research (DMR) in the Directorate for Mathematical and Physical Sciences (MPS) and the Chemical, Bioenginnering, Environmental and Transport (CBET), Civil, Mechanical and Manufacturing Innovation (CMMI) and Electrical, Communications and Cyber Systems (ECCS) Communication Systems (ECCS) divisions in the Engineering directorate (ENG).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yannis",
+   "pi_last_name": "Kevrekidis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yannis Kevrekidis",
+   "pi_email_addr": "yannisk@jhu.edu",
+   "nsf_id": "000770502",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Tsapatsis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Tsapatsis",
+   "pi_email_addr": "tsapatsis@jhu.edu",
+   "nsf_id": "000488844",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Howard",
+   "pi_last_name": "Fairbrother",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Howard Fairbrother",
+   "pi_email_addr": "howardf@jhu.edu",
+   "nsf_id": "000311078",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yucheng",
+   "pi_last_name": "Lan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yucheng Lan",
+   "pi_email_addr": "Yucheng.Lan@morgan.edu",
+   "nsf_id": "000677378",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jorge",
+   "pi_last_name": "Boscoboinik",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jorge A Boscoboinik",
+   "pi_email_addr": "jorge.boscoboinik@stonybrook.edu",
+   "nsf_id": "0000A03WM",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "142Y00",
+   "pgm_ele_name": "FM-Future Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  },
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "106Z",
+   "pgm_ref_txt": "Microelectronics and Semiconductors"
+  },
+  {
+   "pgm_ref_code": "1711",
+   "pgm_ref_txt": "MATERIALS EDUCATION AND RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

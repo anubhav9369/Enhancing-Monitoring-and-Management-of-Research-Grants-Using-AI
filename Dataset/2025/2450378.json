@@ -1,0 +1,98 @@
+{
+ "awd_id": "2450378",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Advancing the Theory and Algorithms for Distribution Control: Nonlinearity, Interaction, Robustness",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922949",
+ "po_email": "atalkach@nsf.gov",
+ "po_sign_block_name": "Alena Talkachova",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 297881.0,
+ "awd_amount": 297881.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This award supports research that enables precision manufacturing of materials with desired properties as well as coordination and control of large collection of autonomous agents such as robotic or biological swarm, thereby promoting national prosperity and welfare. Direct and precise control of large population of individuals has emerged as a new frontier across engineering disciplines. However, existing solutions fall short in practice as they fail to account for realistic nonlinear agent models, inter-agent interactions, statistical errors, and constraints affecting the uncertain dynamics of the population. This project will address this critical gap by designing theory and computational algorithms with performance guarantees. The research transcends the discipline of control engineering and will be impactful in machine learning where there remains a critical need for precise control of data distributions. The project will train the next generation of students and engineers working in the broad areas of control, machine learning and their intersection, via several educational and outreach activities.\r\n\r\nThis project explores a new vision advancing the theory and algorithms for the control of distributions. The distributions may correspond to the stochastic states of a single controlled dynamical system giving rise to time-varying state probability distributions. Alternatively, the distributions may correspond to population ensembles wherein the dynamics of an individual agent in the population can be nonlinear in state, non-affine in control, and the agents may interact in a nonlocal manner. The project focuses on three main challenges that remain in this area involving nonlinearity in dynamics, interactions among agents and robustness of control policy. The project will deliver a suite of theory and algorithms for the control of distributions in either case, with optimality and robustness guarantees in the presence of hard deadline and controlled dynamical constraints, with or without process noise. The outcomes will enable scalable nonparametric gridless computation beyond second order statistics (i.e., covariance control), thereby unlocking the full potential of distribution control in practical applications. The broader impact of this project will result from fundamental advances in theory and computational methods to benefit the fields of stochastic optimal control, optimal mass transport, Schr\u00f6dinger bridge -- all three are finding rapid adoption in generative diffusion models in machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yongxin",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yongxin Chen",
+   "pi_email_addr": "yongchen@gatech.edu",
+   "nsf_id": "000755659",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 297881.0
+  }
+ ],
+ "por": null
+}

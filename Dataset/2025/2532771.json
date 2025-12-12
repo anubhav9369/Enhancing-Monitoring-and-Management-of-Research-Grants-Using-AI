@@ -1,0 +1,106 @@
+{
+ "awd_id": "2532771",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Machine Learning the Variational Space for Efficient Quantum Embedding Simulations of Strongly Correlated Matter",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922340",
+ "po_email": "rhoy@nsf.gov",
+ "po_sign_block_name": "Robert Hoy",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 249556.0,
+ "awd_amount": 249556.0,
+ "awd_min_amd_letter_date": "2025-08-06",
+ "awd_max_amd_letter_date": "2025-08-06",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY\r\n \r\nThe objective of this project is to develop a new computational method to accelerate the design and discovery of advanced materials. Many materials with potential for transformative applications, such as clean energy and next-generation electronics, exhibit quantum properties that are too complex to simulate efficiently with existing tools, creating a bottleneck for scientific progress. This project introduces an approach that combines quantum theory with machine learning, inspired by the concept of data compression. Just as an image can be compressed by retaining only its most essential information, this method will reduce the complexity of quantum simulations by identifying and using a much smaller, representative set of quantum states. The resulting tool will enable accurate simulations of materials that were previously beyond reach. In particular, it will be applied to investigate a long-standing puzzle in the volume anomalies of heavy actinides, which may be resolved by simulating the complex interplay of spin\u2013orbit coupling and crystal field effects, a mechanism that is currently poorly understood.  Broader impacts will include training undergraduate- and graduate-student researchers, course development, and integration of the developed tools into a widely-used, publicly-available quantum-simulation toolkit. \r\n \r\n \r\nTECHNICAL SUMMARY\r\n \r\nThis project aims to develop a new computational method to accelerate quantum embedding simulations for strongly correlated materials. The central idea is to apply machine learning techniques, specifically dimensionality reduction, to construct compact variational subspaces that approximate the low-energy manifold relevant to embedding calculations. These variational spaces will be learned from representative training data and used to build fast solvers for the embedding Hamiltonian, which is the main computational bottleneck in these simulations. The method will be implemented within the Ghost Gutzwiller Approximation, a variational embedding approach tailored to the simulation of correlated electron systems. By eliminating the need to repeatedly solve high-dimensional quantum problems during materials simulations, the resulting solvers will achieve accurate results at a fraction of the computational cost. The framework will be validated and applied in simulations of f- and d-electron systems, including actinides and transition metals. In particular, the project will investigate the microscopic origin of volume anomalies observed in heavy actinides, which remain poorly understood due to the interplay of spin orbit coupling and crystal field effects. The tools developed in this activity will support broader research efforts in condensed matter physics, materials science, and catalysis, where strong electron correlations are often present but computationally challenging to treat due to the complexity of many-body interactions. Broader impacts include the integration of machine learning and quantum simulation into undergraduate and graduate curricula at RIT and the public dissemination of the resulting open-source software and associated datasets.\r\n\r\n\r\nSTATEMENT OF MERIT REVIEW\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nicola",
+   "pi_last_name": "Lanat\u00e0",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicola Lanat\u00e0",
+   "pi_email_addr": "nxlsps@rit.edu",
+   "nsf_id": "000920551",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rochester Institute of Tech",
+  "inst_street_address": "1 LOMB MEMORIAL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5854757987",
+  "inst_zip_code": "146235603",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J6TWTRKC1X14"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rochester Institute of Tech",
+  "perf_str_addr": "1 LOMB MEMORIAL DR",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146235603",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 249556.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2515049",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Approaches for Noise Robust Quantum Algorithm Design",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927421",
+ "po_email": "msbyrd@nsf.gov",
+ "po_sign_block_name": "Mark S. Byrd",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 330000.0,
+ "awd_amount": 330000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "The research team aims to address the fundamental challenge of designing quantum algorithms with inherent noise robustness. While industry, government, and academia are investing heavily in realizing quantum computing, current devices remain limited by noise, which undermines their potential advantages.  The approach tackles this issue at the algorithmic level, embedding robustness into the structure and execution of the algorithm itself. This helps shift the burden of noise mitigation away from hardware and toward software. The researchers will focus on variational quantum algorithms (VQAs), a widely applicable class of algorithms spanning quantum chemistry, optimization, and machine learning. Success in this effort will advance the field of quantum computing and enable higher-performance quantum applications that drive scientific discovery. Moreover, this effort will aid in developing a quantum workforce that can immediately contribute to the challenges of today\u2019s hardware while gaining knowledge relevant to future hardware.\r\n\r\nFocusing specifically on algorithms that possess inherent symmetry, the proposed work leverages concepts from quantum control and quantum error correction. The research team will exploit this symmetry to develop a theoretical framework based on dynamical Lie algebras to characterize the propagation of noise through a VQA. This framework will be leveraged to identify algorithmic motifs inspired by dynamical decoupling and noise-filtering protocols to suppress symmetry-preserving errors. These techniques will be complemented by quantum error-avoiding codes to address symmetry-breaking noise. The integration of control and quantum codes will lead to hybrid protocols that can be tuned based on hardware specifications. Ultimately, the objective is to maximize algorithmic performance while minimizing gate and qubit resources to maintain practicality for existing and near-future quantum processors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gregory",
+   "pi_last_name": "Quiroz",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gregory D Quiroz",
+   "pi_email_addr": "Gregory.Quiroz@jhuapl.edu",
+   "nsf_id": "000734437",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The Johns Hopkins University Applied Physics Laboratory",
+  "perf_str_addr": "11100 Johns Hopkins Road",
+  "perf_city_name": "Laurel",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207236099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MD03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "728100",
+   "pgm_ele_name": "QIS - Quantum Information Scie"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 330000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2449755",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR Phase II:  Preventative Maintenance AI Chip: Software-Configurable, Tiny, Low-Latency, Always-On, Ultra-Low-Power, Near-Sensor-AI, No Cloud Required",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928848",
+ "po_email": "lportnoy@nsf.gov",
+ "po_sign_block_name": "Lindsay Portnoy",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 1250000.0,
+ "awd_amount": 1250000.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project lies in advancing distributed artificial intelligence (AI) for predictive maintenance of instruments/vehicles used in manufacturing, aerospace, agriculture, and transportation. Instead of transmitting raw sensor data via an always-on, power-hungry communications link to the cloud - which can introduce cybersecurity risks \u2014 distributed AI enables secure, fast, and ultra-low-power monitoring that operates efficiently on battery power. This capability allows real-time asset (e.g., a drone) monitoring without requiring continuous cloud connectivity. Predictive maintenance prevents unexpected gear and equipment failures, minimizes downtime, and reduces maintenance costs across industries, where drones, robots, and other autonomous systems rely on \u2018smart\u2019 monitoring. Traditional cloud-based AI solutions are often impractical for remote or battery-powered assets due to high energy consumption, constant connectivity needs, and security vulnerabilities. This project provides a compact, low-power alternative by embedding AI and allowing for continuous monitoring without delay. Additional applications include industrial machinery failure detection, environmental monitoring, and public safety improvements through infrastructure resilience. \r\n\r\nThis project focuses on developing an AI-enabled integrated circuit (IC) for real-time processing of wave-based sensor signals, such as vibrations and sounds, to detect anomalies indicative of potential failures of assets (e.g., motors in drones and robots) before they occur. This IC integrates an ultra-low-power analog front-end with a digital AI engine optimized for real-time wave-pattern recognition. Designed for efficiency, the IC operates at power levels in the tens of microamperes, making it practical for battery-powered systems. The tiny form factor, measuring a few millimeters per side, allows ease of integration near or into sensor capsules. The system achieves over 92% detection precision with latency measured in a few milliseconds, as per simulations, enabling near-instantaneous failure prediction. Research objectives include finalizing the IC design, fabricating prototypes, refining machine learning algorithms, and conducting field validation. The chip optimizes analog and digital signal processing IC design with AI software (specifically for sound and vibration signals) to ensure low-power, small-size, scalability, robustness, and a cost-effective solution. By enabling real-time, always-on AI-driven analytics, this innovation aims to eliminate reliance on cloud processing, offering a tiny, always-on, near-zero-latency, energy-efficient, scalable, and secure predictive intelligence solution across multiple industries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Far",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali T Far",
+   "pi_email_addr": "ali@ailinear.com",
+   "nsf_id": "000864109",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "AI LINEAR INC.",
+  "inst_street_address": "15230 FRUITVALE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SARATOGA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4088059339",
+  "inst_zip_code": "950706272",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "AI LINEAR INC.",
+  "org_prnt_uei_num": "VRWBMKJ19BK9",
+  "org_uei_num": "ZBXYSP67N793"
+ },
+ "perf_inst": {
+  "perf_inst_name": "AI LINEAR INC.",
+  "perf_str_addr": "Santana Row, 3031 Tisch Way, 110 Plaza West",
+  "perf_city_name": "San Jose",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "951282561",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537300",
+   "pgm_ele_name": "SBIR Phase II"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "4097",
+   "pgm_ref_txt": "NETWORKING RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1250000.0
+  }
+ ],
+ "por": null
+}

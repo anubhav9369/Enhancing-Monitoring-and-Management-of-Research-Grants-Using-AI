@@ -1,0 +1,106 @@
+{
+ "awd_id": "2504574",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: NeTS: Medium: Resilient Multi-User Mobile sub-THz Networks using Near-Field Wavefronts",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 299999.0,
+ "awd_amount": 299999.0,
+ "awd_min_amd_letter_date": "2025-07-22",
+ "awd_max_amd_letter_date": "2025-09-15",
+ "awd_abstract_narration": "The exploration of Terahertz (THz) communications (above 100 GHz) is promising for achieving ultra-high data rates and bandwidth in next-generation wireless networks. The combination of large transmitting arrays and smaller wavelength in THz communications introduces new challenges where the near-field range of a transmitter can extend to several meters. A wireless base station or access point may serve multiple near-field and far-field users. This project investigates the impacts of near-field complexities and the interplay between near- and far-field communications. It leverages near-field properties, such as the generation of curved beams for going around the obstruction or reconstructing the beams after interacting with an obstacle, to improve blockage resilience and system performance of THz wireless networks. This project also includes significant efforts to motivate participation in STEM, at all educational levels.\r\n\r\nThis project aims to explore near-field propagation properties of wireless signals to enable blockage-resilient high-speed multi-user wireless communications above 100 GHz. The proposed research comprises four thrusts, (1) understanding and modeling the fundamental limits of near-field wavefront shaping for realizing agile and high-speed communications in the scenarios with link blockage, (2) investigating the design and fabrication of a new programmable array architecture that can generate near-field wavefronts and dynamically adapt them according to the mobility and signal transmission blockage conditions, (3) designing and implementing digital signal processing algorithms to support 10s of GHz of bandwidth in a power-efficient manner, and (4) developing foundations for interference modeling and multi-user communications with the consideration of both near- and far-field regions. Through the physics of wave propagation, mathematical modeling, hardware design, and experimental demonstration, this project will lay out the foundation to bridge the theory of near-field electromagnetics with practical wireless networks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hamed",
+   "pi_last_name": "Rahmani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hamed Rahmani",
+   "pi_email_addr": "hamedrahmani@nyu.edu",
+   "nsf_id": "000937288",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299999.0
+  }
+ ],
+ "por": null
+}

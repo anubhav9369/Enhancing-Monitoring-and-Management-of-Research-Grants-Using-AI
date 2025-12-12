@@ -1,0 +1,110 @@
+{
+ "awd_id": "2440583",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Constructing Schematic Maps for Construction Robots in Highly Dynamic Environments",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924702",
+ "po_email": "cye@nsf.gov",
+ "po_sign_block_name": "Cang Ye",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 510532.0,
+ "awd_amount": 510532.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "The construction industry is estimated to make up $400 billion in the US economy, employing over 5.5 million workers. However, construction work often suffers from low efficiency, where reworks due to defects, quality deviations or construction errors result in over almost $75 billion in wasted costs. Clearly, robotics and automation holds the key for the future of construction in order to deliver building projects in a way that is more accurate and efficient compared to conventional labor-intensive methods. This project proposes a framework for construction robots to scan and create schematic maps for highly dynamic and rapidly changing construction environments. Building accurate maps of construction sites is of great importance from both a robotics perspective and a construction management perspective. From a robotics perspective, semantic map building empowers robots with the capability to navigate and understand complex, dynamic workspaces. From a construction management perspective, having updated maps of the jobsite offers improved visibility in automating and scheduling construction projects and the capability to run construction work simulations and \u201cwhat-if\u201d scenarios. \r\n\r\nThis project involves a confluence of research from robotics, machine learning, architecture, and civil and construction engineering. The overarching research goal is to achieve long-horizon map building, motion planning, and simulation in dynamic, unstructured construction sites through a merging of Building Information Modeling (BIM) technology from the construction industry with 3D mapping technology in robotics. The research tasks involve developing incremental semantic map building algorithms for construction environments, using the generated BIM maps to assist robot motion planning on jobsites, and training time-dependent neural rendering models to recreate and replay construction events for robot simulation purposes. The project aims to achieve broader impacts through annual cross-disciplinary workshops, development of a Construct-Gazebo simulator, open-source tutorial software, and an interactive BattleCrane challenge.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jingdao",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jingdao Chen",
+   "pi_email_addr": "jdc1258@msstate.edu",
+   "nsf_id": "000856671",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Mississippi State University",
+  "inst_street_address": "245 BARR AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "MISSISSIPPI STATE",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6623257404",
+  "inst_zip_code": "39762",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MS03",
+  "org_lgl_bus_name": "MISSISSIPPI STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTXJM52SHKS7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Mississippi State University",
+  "perf_str_addr": "245 BARR AVE",
+  "perf_city_name": "MISSISSIPPI STATE",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "39762",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MS03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 510532.0
+  }
+ ],
+ "por": null
+}

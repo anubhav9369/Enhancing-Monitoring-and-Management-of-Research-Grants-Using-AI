@@ -1,0 +1,93 @@
+{
+ "awd_id": "2437171",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "BRC-BIO: Developing new phylogenetic comparative methods to study the evolution of sequence traits",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922279",
+ "po_email": "sdudgeon@nsf.gov",
+ "po_sign_block_name": "Steven Dudgeon",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 362727.0,
+ "awd_amount": 362727.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "This research aims to develop statistical models to estimate the pace at which species change over time. A key novelty of the approach is that it can model a large number of characteristics at the same time without a significant increase in model complexity. The new models will enable scientists to study entire sequences of traits, such as each developmental stage of an animal, and significantly increase the number of traits incorporated in comparative analyses, allowing the exploration of new dimensions of biodiversity. The researchers will make all models and algorithms developed as part of this research openly available to the public as software packages for the R statistical programming language (also free to use). The project will also implement a hands-on research-based course for undergraduate students that will train them in statistics, programming, data-driven research, and models of molecular substitution, which are fundamental skills for the STEM job market today and in the foreseeable future.\r\n\r\nThe phylogenetic comparative methods proposed in this project will introduce several advances to facilitate the analyses of multivariate traits and significantly expand the use of phenotypic sequences as a context to study the phenome of organisms. The approach will incorporate rate heterogeneity using Gamma-distributed rate scalers and estimate the evolutionary correlation among traits with correlated bivariate Gamma distributions for neighboring states in the sequence. Efficient models of trait evolution will allow the analysis of discrete, continuous, and morphometric geometric datasets. The researchers will conduct extensive simulations to evaluate the new models' efficiency, adequacy, and power under a comprehensive set of scenarios. Finally, empirical analyses will investigate ecomorphological traits in frogs and evolutionary changes in the development of fossil ammonites. The researchers hypothesize the explicit organization of multivariate datasets as phenotypic sequences will help uncover a strong signal of evolutionary correlation that has yet to be explored using phylogenetic comparative methods.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Caetano da Silva",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel Caetano da Silva",
+   "pi_email_addr": "dcaetano@towson.edu",
+   "nsf_id": "000880181",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Towson University",
+  "inst_street_address": "8000 YORK RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "TOWSON",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4107042236",
+  "inst_zip_code": "212520002",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MD02",
+  "org_lgl_bus_name": "TOWSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LC3SFMP2L798"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Towson University",
+  "perf_str_addr": "8000 YORK RD",
+  "perf_city_name": "TOWSON",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212520002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MD02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "202Y00",
+   "pgm_ele_name": "NFE-New Faculty Enhancement"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 362727.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,158 @@
+{
+ "awd_id": "2501021",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH:Large-scale Multi-Modality Learning System to Identify Tobacco Addiction and Predictive Analytics via Social Media Platforms",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "The increasing promotion of tobacco-related content on social media significantly contributes to the rising prevalence of tobacco use, particularly among youth. Despite this, limited research has evaluated the critical connection. Understanding the relationship between tobacco use and abuse and social media promotion is vital for advancing community health and well-being. This project aims to develop novel artificial intelligence (AI)-based approaches, including multi-modality, privacy-preserved machine learning, and human-in-the-loop methodologies, to automatically detect tobacco promotion and ascertain the association between tobacco on social media use and the onset of youth tobacco use and abuse. The project outcomes will encompass system accuracy and portable AI-based software for the early detection of tobacco promotion threads on social media platforms, thereby protecting youth across the United States from harmful exposure. \r\n\r\nDespite the urgent need to identify the connection between tobacco promotion and use and abuse, limited research has explored advanced AI techniques for analyzing tobacco-related content on social media. Utilizing AI for this purpose raises significant concerns regarding fairness and trustworthiness, as developed algorithms must avoid amplifying existing biases to align with the broader goals of responsible AI in health applications. To address these limitations, this project will introduce new theories and technical approaches for extensive multimodal learning on social media platforms. Initially, a comprehensive data collection pipeline for tobacco-related content will be established to gather a large-scale multimodal dataset. Subsequently, the project will develop multimodal AI models using adaptive vision-language transformers and debiased learning to ensure equitable analysis across diverse content and demographics. Moreover, a novel privacy-preserving federated learning system, integrated with differential privacy and secure multi-party computation, will be introduced to protect data privacy. Lastly, the research will propose a new fairness continual learning system that incorporates human-in-the-loop integration to ensure ethical alignment while adapting to evolving data. All algorithms developed will be deployed as cloud services and released as open source to advance AI research in public health. This project will pave the way for new theoretical and practical approaches, bridging biomedical and behavioral insights to analyze the impact of social media on youth tobacco use and guide targeted interventions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Khoa",
+   "pi_last_name": "Luu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Khoa Luu",
+   "pi_email_addr": "khoaluu@uark.edu",
+   "nsf_id": "000784241",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Samee",
+   "pi_last_name": "Khan",
+   "pi_mid_init": "U",
+   "pi_sufx_name": "",
+   "pi_full_name": "Samee U Khan",
+   "pi_email_addr": "sameekhan@ksu.edu",
+   "nsf_id": "000502483",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Page",
+   "pi_last_name": "Dobbs",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Page D Dobbs",
+   "pi_email_addr": "pdobbs@uark.edu",
+   "nsf_id": "000917340",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "ASAD WAQAR",
+   "pi_last_name": "MALIK",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "ASAD WAQAR MALIK",
+   "pi_email_addr": "asad.malik@msstate.edu",
+   "nsf_id": "000950151",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Brandon",
+   "pi_last_name": "McFadden",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brandon McFadden",
+   "pi_email_addr": "bmcfad@uada.edu",
+   "nsf_id": "0000A1G05",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arkansas",
+  "inst_street_address": "1125 W MAPLE ST STE 316",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAYETTEVILLE",
+  "inst_state_code": "AR",
+  "inst_state_name": "Arkansas",
+  "inst_phone_num": "4795753845",
+  "inst_zip_code": "727013124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "AR03",
+  "org_lgl_bus_name": "UNIVERSITY OF ARKANSAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MECEHTM8DB17"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arkansas",
+  "perf_str_addr": "1125 W MAPLE ST STE 316",
+  "perf_city_name": "FAYETTEVILLE",
+  "perf_st_code": "AR",
+  "perf_st_name": "Arkansas",
+  "perf_zip_code": "727013124",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "AR03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  },
+  {
+   "pgm_ref_code": "093Z",
+   "pgm_ref_txt": "AI Education/Workforce Develop"
+  },
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,134 @@
+{
+ "awd_id": "2522004",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DMREF: OP: Multi-Scale Engineered Metamaterials Approaching Fundamental Limits of Linear and Nonlinear Susceptibilities",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032925043",
+ "po_email": "cciobanu@nsf.gov",
+ "po_sign_block_name": "Cristian Ciobanu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-09-04",
+ "awd_max_amd_letter_date": "2025-09-04",
+ "awd_abstract_narration": "Nontechnical Abstract\r\n\r\nThis project aims to design a new class of engineered artificial materials, commonly known as metamaterials, that exhibit a high refractive index in ways not possible with naturally occurring substances. Refractive index determines the velocity of light, with a higher index resulting in a lower velocity. A high index helps guide light better and also bends it by a larger angle. This is crucial to get better optical components, such as lenses, which need to bend light to focus. A high nonlinear index also allows one light beam to control another light beam. These capabilities can help create faster computers, build better cameras, enhance augmented reality displays, and enable high-speed communication. These materials will be created by arranging nanometer length scale artificial materials (\u201cnanocrystals\u201d) in a periodic structure. Additional patterning at longer length scales will enable the development of new optical hardware. While the concept of creating such artificial materials is compelling, realizing it in practice is extremely challenging. This project addresses these challenges through a unique, multi-scale inverse design approach, driven by advanced computational modeling and machine learning. The project will also empirically validate the designed material properties, creating two testbeds: thermal imaging and nonlinear optical activation for optical information processing. Along with advancing the frontiers of optical imaging and computing, the program will train a new generation of scientists and engineers through hands-on interdisciplinary research experiences that span physics, chemistry, computation, artificial intelligence (AI), and materials science. By engaging high school, undergraduate, and graduate students, the project will broaden participation in cutting-edge science.\r\n\r\nTechnical Abstract\r\n\r\nDesigning materials with high linear and nonlinear susceptibilities can unlock a vast range of applications in photonics. Metamaterials present a unique opportunity to realize a high index, beyond what is available in naturally occurring materials. For instance, by combining nanocrystals appropriately, it may be possible to design a composite material with record high susceptibilities. The effective susceptibility of this composite material can be further enhanced via wavelength-scale patterning. Such a multi-scale metamaterial would be the first of its kind, where the constituent meta-molecules also comprise a metamaterial. While the multi-scale design of metamaterials is conceptually simple, it is extremely challenging in practice to design the exact combination of materials to achieve a desired property, while ensuring that the designs can be synthesized or fabricated. Guided by fundamental bounds based on the causality and passivity constraints of physical materials, this project will identify new design rules. Using a multi-scale inverse design approach, including a physics-inspired artificial neural network, the optimal combination of nanocrystals and meta-molecule structures will be identified. While the design techniques will be applicable to many material systems, a few promising ones will be downselected for experimental realization. These composite nanocrystals will be chemically synthesized and subsequently patterned to create the metamaterial. Ellipsometry and nonlinear pump-probe spectroscopy will be used to validate the design. The experimental data will help refine the design assumptions and provide new insight. Combining computational electromagnetics, optimization theory, machine learning, chemical synthesis, nanofabrication, and optical characterization, three research thrusts will be pursued: (i) create high linear susceptibility composite materials; (ii) create high nonlinear susceptibility composite materials; and (iii) demonstrate metamaterials made of the composite materials for nonlinear optical activation in optical neural network accelerators and high-efficiency thermal imaging.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Francesco",
+   "pi_last_name": "Monticone",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Francesco Monticone",
+   "pi_email_addr": "francesco.monticone@cornell.edu",
+   "nsf_id": "000742297",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "1253",
+   "pgm_ref_txt": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "7561",
+   "pgm_ref_txt": "CANADA"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7504",
+   "pgm_ref_txt": "NSF-INTERNAT COOP IN MATERIALS RES-OTHER"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,122 @@
+{
+ "awd_id": "2544948",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Identifying and Exploiting Multi-Agent Symmetries",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05020000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 535346.0,
+ "awd_amount": 387654.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "It is widely believed by scientists that our universe follows certain symmetry patterns and principles, which lead to profound implications such as conservation laws. Artificial intelligence (AI) can and has already benefited tremendously from exploiting these symmetries. This project seeks to identify and exploit symmetries that are prevalent in cooperative AI tasks, where a group of multiple autonomous sequential decision makers, or agents, plan and learn to maximize their combined benefit. As an example, consider the application of adaptive traffic signal control, where each intersection can be modeled as an agent controlling its traffic signal in a way that adapts to real-time traffic conditions to reduce congestion. There exist certain symmetries when the topology of the road network is regular, e.g., as a 4-connected grid, and the road condition is uniform. When done properly, such multi-agent symmetries can be identified and exploited to greatly improve the efficiency and effectiveness of the current solutions to cooperative AI. This project also integrates the proposed research into an array of education initiatives, playing key roles in the curriculum development and undergraduate research experiences at the PI's university, as well as outreach activities that bridge academia with industry practitioners and community stakeholders.\r\n\r\nThis research will establish a unified framework and develop a set of interdependent methods that formulate, identify, and exploit multi-agent symmetries for cooperative AI tasks. The research first adopts a mathematically rigorous language to formulate the notion of multi-agent symmetry into the framework of symmetric Markov game, revealing its core property which can be exploited by planning and learning methods. Then, the research plan concretizes how to exploit several most common types of multi-agent symmetries, including permutation symmetries, Euclidean symmetries, and hierarchies of multi-agent symmetries of mixed types. Next, the research plan discusses issues that are critical for practice, including identifying and exploiting approximate multi-agent symmetries and dealing with partial observability. Finally, the research features several real-world applications, including adaptive traffic signal control, automated circuit design, and material design, to evaluate and showcase the proposed methodology.  This project is jointly funded by Robust Intelligence and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qi",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qi Zhang",
+   "pi_email_addr": "qz5@cse.sc.edu",
+   "nsf_id": "000851162",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Worcester Polytechnic Institute",
+  "inst_street_address": "100 INSTITUTE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "WORCESTER",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "5088315000",
+  "inst_zip_code": "016092280",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "WORCESTER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJNQME41NBU4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Worcester Polytechnic Institute",
+  "perf_str_addr": "100 INSTITUTE RD",
+  "perf_city_name": "WORCESTER",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "016092280",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 119981.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 267673.0
+  }
+ ],
+ "por": null
+}

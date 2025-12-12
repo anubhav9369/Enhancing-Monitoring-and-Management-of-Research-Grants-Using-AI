@@ -1,0 +1,97 @@
+{
+ "awd_id": "2533443",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MATH-DT: Gradient-enhanced Deep Gaussian Processes for Optimization of Diffusive High-Speed Unsteady Mixers",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 498290.0,
+ "awd_amount": 498290.0,
+ "awd_min_amd_letter_date": "2025-05-21",
+ "awd_max_amd_letter_date": "2025-05-21",
+ "awd_abstract_narration": "Rotating detonation combustors (RDCs) coupled to highly diffusive mixers enable compact, green, and efficient energy production.  RDCs operate through the injection of an air-fuel mixture which is detonated through a reactive shock wave rotating at supersonic speeds and fed through the mixer to cool and slow the flow before it reaches a turbine which ultimately harnesses the energy.  RDC-mixers hold great promise to revolutionize power and propulsion systems, but they are difficult to model/optimize due to unsteady mixing, extreme temperatures, and high-speed diffusion.  This collaborative project aims to develop models and methodologies that enable optimization of the RDC-mixer for maximal fuel efficiency.  The investigators will leverage a three-pronged meta-modeling framework featuring an innovative digital twin, a novel statistical surrogate model, and a physical experiment involving a high speed wind tunnel in which the mixer will be assessed through high-frequency optical and probe-based measurement techniques.  RDC-mixer-turbine systems are directly impactful to clean energy and heat production, but their potential impact is even broader. Diffusing elements and mixers are used in a variety of applications, ranging from aviation, aerospace, agriculture, refrigeration cycles and heat exchangers. The mathematical modeling foundations developed in this project will be widely applicable to computer simulation experiments and digital twins. \r\n\r\nThis project is organized into three aims. First, motivated by the complexities of the digital twin, a gradient-enhanced Bayesian deep Gaussian process surrogate will be developed to provide non-stationary flexibility, uncertainty quantification, gradient-enhancement for improved accuracy, and gradient predictions to facilitate Bayesian optimization.  Second, the digital twin of the RDC-mixer will be developed at reduced computational costs as existing simulations of RDC-mixers require weeks of compute time.  Tailored unsteady boundary conditions are proposed to separate the computational fluid dynamic simulations for the combustor and mixer, which will enable faster computation.  The digital twin will incorporate steady and unsteady flows, meshing, and adjoint solvers to provide gradient information at minimal cost.  Third, a novel calibrated Bayesian optimization framework will be developed to first optimize calibration parameters of the digital twin, then use these with a bias-correction model to sequentially optimize the physical experiment. The physical model will be used in the calibration feedback loop to train the bias-correction model and to test and validate the best designs.  Collectively, the surrogate model, digital twin, and physical experiment will enable effective optimization of the RDC-mixer design for optimal fuel efficiency.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Annie",
+   "pi_last_name": "Booth",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Annie S Booth",
+   "pi_email_addr": "annie_booth@ncsu.edu",
+   "nsf_id": "000944384",
+   "pi_start_date": "2025-05-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "300 TURNER ST NW",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240603359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 498290.0
+  }
+ ],
+ "por": null
+}

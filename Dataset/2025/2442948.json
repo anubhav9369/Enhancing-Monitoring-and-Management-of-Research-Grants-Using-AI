@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442948",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Safety, Human-(mis)alignment, and Interaction-awareness in Control",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Autonomous control systems in many domains, such as transportation, healthcare, assistance, and manufacturing, operate with humans in increasingly uncertain and interactive environments. Their design introduces unprecedented challenges in ensuring performance, safety, and human alignment due to a broad range of risks. First, existing techniques in risk quantification and control often assume observable state, system dynamics, and in-distribution data with sufficient risk events. However, these assumptions frequently break down in real-world scenarios. Second, inferring and reducing human-perceived risk requires characterizing safe actions from sparse feedback, but existing techniques often cannot handle this complexity. Finally, in nonstationary interactions, control methods that ignore the opponents\u2019 adaptation can unintentionally encourage aggressive or exploitative behaviors by humans. In this proposal, we study how to provide long-term, lifelong assurances against various risks in the control of autonomous systems operating in uncertain and interactive environments. The outcome of this research will be broadly disseminated through seminars and tutorials and integrated into the PI\u2019s classes and K-12 outreach programs. To enrich the learning experience, we will create a virtual game that allows students to understand key concepts through interacting with others. These efforts will train future researchers and engineers, and facilitate the transfer of insights across domains.\r\n \r\nThe goal of this proposal is to develop techniques that mitigate various risks\u2014visible or latent, actual or perceived\u2014across single and repeated interactions. In Thrust 1, we quantify long-term risks despite latent variables and limited data. In Thrust 2, we develop efficient control techniques that provide long-term assurance against latent and human-perceived risks. One of our core innovations is probabilistic invariance, which flexibly handles unknowns, improves assurance time horizon vs. computation tradeoffs, and allows many risk inference methods to be leveraged in real-time control. In Thrust 3, we study the designs that avoid adverse adaptation or facilitate desirable behaviors in nonstationary interactions. Thrusts 1 and 2 will offer complementary insights into how short-term observations can be used to infer long-term risk and how controllers with short planning horizons can mitigate long-term risks. Thrusts 1-3 will provide a unified perspective across two pairs of topics that are often studied separately\u2014control within a single interaction vs. adaptation across repeated interactions and alignment vs. deliberate misalignment. This unified perspective will enable us to proactively harness uncertainty, adaptation, and (mis)alignment to design safer, high-performing, and more human-aligned autonomous control systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yorie",
+   "pi_last_name": "Nakahira",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yorie Nakahira",
+   "pi_email_addr": "yorie@cmu.edu",
+   "nsf_id": "000829317",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "1263",
+   "pgm_ref_txt": "PROBABILITY"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2440195",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: EAGER: NAIRR Pilot Demonstration: Integrating Democratizing Data Services into the National Data Platform",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 220000.0,
+ "awd_amount": 220000.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "The goal of this project is to empower Artificial Intelligence (AI) researchers to more easily search, discover, and use AI-ready data sets. This will potentially streamline and democratize AI research.  The project will investigate and develop data discovery services using innovative techniques that are themselves based on AI methods and can extract data set information from scientific papers. The resulting discovery services will be integrated into the National Data Platform Pilot (NSF award #2333609), providing scientists and students with an end-to-end research environment that connects them to national computing and storage resources. The project will conduct outreach and training efforts that will engage both scientists and students, particularly those at minority-serving institutions, who will help evaluate the technology. \r\n \r\nThis project advances data search and discovery capabilities by using AI techniques to automatically extract and store data citation information, which must frequently be inferred, from research publications.  This capability will help scientists and students, particularly those new to AI research, to identify AI-ready data sets that are relevant to their research from related publications. This removes startup impediments to creating new AI pipelines. Integrating these search and discovery services into the National Data Platform Pilot will enable users to more seamlessly conduct AI research on national-scale research resources that can scale beyond their personal computing and storage. The project uses AI-ready datasets from the National Artificial Intelligence Research Resource (NAIRR) to demonstrate and evaluate the effectiveness of the service. It also develops a generalized approach to support the integration of additional AI-ready NAIRR datasets and open corpora. The project democratizes the discovery and use of data in support of AI and other research through outreach and community engagement activities, including integration with hands-on workshops and hackathons within the National Data Platform Pilot. It also supports evaluating and reporting on the use and value of data by automatically producing usage statistics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Manish",
+   "pi_last_name": "Parashar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Manish Parashar",
+   "pi_email_addr": "manish.parashar@utah.edu",
+   "nsf_id": "000148826",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "72 Central Campus Dr",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "296Y00",
+   "pgm_ele_name": "NAIRR-Nat AI Research Resource"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 220000.0
+  }
+ ],
+ "por": null
+}

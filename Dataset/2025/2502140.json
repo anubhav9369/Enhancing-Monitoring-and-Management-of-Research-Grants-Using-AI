@@ -1,0 +1,106 @@
+{
+ "awd_id": "2502140",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Modeling and Control of Disruptions in Complex Autonomous Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922949",
+ "po_email": "atalkach@nsf.gov",
+ "po_sign_block_name": "Alena Talkachova",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 199369.0,
+ "awd_amount": 199369.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) grant will fund research that attempts to enable efficient, on-the-fly learning of optimal control strategies for complex engineering systems operating in uncertain environments, with application to connected and autonomous vehicles, thereby promoting the progress of science and advancing the national prosperity and welfare. The research looks to enable real-time adaptation of autonomous systems to unexpected disruptions, with potential applications to power grids and robotics. Autonomous systems have become increasingly complex, integrating advanced decision-making algorithms to operate in dynamic and uncertain environments, while the sources of disruptions have grown even more diverse and unpredictable. However, current control algorithms lack the ability to correctly categorize and respond to different types of unexpected disruptions, such as sensor noise, mechanical malfunctions, environmental disturbances, or adversarial cyber-attacks without human intervention, leading to performance degradation and potential failures. This research project looks to address this critical gap by developing a unified framework that enables autonomous systems to detect, classify, and mitigate disruptions in real time through game-theoretic modeling and reinforcement learning control strategies. By equipping autonomous systems with the capability to respond dynamically without human intervention, this research seeks to enhance their resilience, efficiency, and safety in other high-stakes applications such as intelligent transportation systems, space exploration, and disaster response. Additionally, this project seeks to contribute to workforce development by integrating research with education, providing interdisciplinary training in artificial intelligence and control systems, and engaging students through outreach and STEM initiatives aimed at expanding the engineering and technology workforce.\r\n\r\nThis project looks to model complex autonomous systems as multi-agent systems, where different components collaborate to achieve a common objective. When a disruption occurs, the affected component is treated as an irrational agent within the system. Passive irrational agents represent faults caused by external disturbances, while active irrational agents exhibit adversarial behavior, such as cyber-attacks. While traditional fault mitigation methods treat all disturbances as adversarial, this research introduces a cooperative index to measure deviations from expected behavior and employs inverse reinforcement learning to distinguish between passive and active irrational agents for improved joint rewards. To ensure optimal system adaptation, the project seeks to develop a novel Actor-Critic-Friend-or-Foe (ACFoF) algorithm, which dynamically updates control policies while maintaining system performance. The researched framework could offer a groundbreaking approach to autonomous disruption detection and mitigation, enhancing the reliability of autonomous systems in critical applications. Additionally, the research supports educational initiatives by providing interdisciplinary training opportunities for students in artificial intelligence, control systems, and cybersecurity, preparing the next generation of researchers and engineers to tackle challenges in autonomous decision-making.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zejian",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zejian Zhou",
+   "pi_email_addr": "zzhou2@uwyo.edu",
+   "nsf_id": "000895111",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wyoming",
+  "inst_street_address": "1000 E UNIVERSITY AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "LARAMIE",
+  "inst_state_code": "WY",
+  "inst_state_name": "Wyoming",
+  "inst_phone_num": "3077665320",
+  "inst_zip_code": "820712000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "WY00",
+  "org_lgl_bus_name": "UNIVERSITY OF WYOMING",
+  "org_prnt_uei_num": "FDR5YF2K32X5",
+  "org_uei_num": "FDR5YF2K32X5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wyoming",
+  "perf_str_addr": "1000 E UNIVERSITY AVE",
+  "perf_city_name": "LARAMIE",
+  "perf_st_code": "WY",
+  "perf_st_name": "Wyoming",
+  "perf_zip_code": "820712000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "WY00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199369.0
+  }
+ ],
+ "por": null
+}

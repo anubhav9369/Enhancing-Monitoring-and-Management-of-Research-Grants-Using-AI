@@ -1,0 +1,114 @@
+{
+ "awd_id": "2531804",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Scalable Approach to Optimal Control Design for Large-dimensional Systems Using Operator Theoretic Methods",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922949",
+ "po_email": "atalkach@nsf.gov",
+ "po_sign_block_name": "Alena Talkachova",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 444199.0,
+ "awd_amount": 444199.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "As automation and artificial intelligence reshape our world, autonomous systems\u2014like self-driving cars, delivery drones, and robotic assistants\u2014must make decisions safely and efficiently in unpredictable environments. These systems operate under various sources of uncertainty, including sensor errors and unmodeled disturbances. A central technical challenge is \u201coptimal control\u201d: how to determine the best actions to meet performance and safety goals. However, solving optimal control problems for complex, high-dimensional systems often become computationally intractable\u2014a challenge known as the curse of dimensionality. This research project looks to develop a novel approach to overcome this barrier by using modal decomposition techniques from linear operator theory that transform difficult nonlinear problems into simpler linear ones. This makes it easier to compute control strategies for complex tasks and high dimensional systems. The project seeks to impact technologies such as autonomous robotics and smart energy systems. It will also provide research opportunities for students from a wide range of backgrounds, institutions, and career stages through Clemson University\u2019s programs. K\u201312 outreach events will promote early interest in STEM. This work aligns with national priorities in autonomy, workforce development, and innovation in control technologies.\r\n \r\nThis research seeks to develop a scalable framework for optimal control of nonlinear systems under uncertainty, using the spectral theory of linear operators, especially the Koopman operator. The core insight is a formal link between Koopman eigenfunctions and the Hamilton-Jacobi (HJ) equation, a fundamental equation in control theory. This research looks to enable recasting nonlinear optimal control problems as linear ones in a transformed Koopman eigenfunction coordinate space, mitigating the curse of dimensionality. The Koopman eigenfunctions are used in the decomposition of the HJ equation into integrable and nonintegrable parts, where the integrable part is solved exactly and the nonintegrable part approximately resulting in the approximation of the HJ solution. The project intends to make novel contributions towards the computation of Koopman eigenfunctions for stochastic system based on the Feynman-Kac path integral formula. This formulation allows for scalable, data-assisted computation of optimal control policies, even under stochastic or adversarial uncertainty. The framework looks to support input constraints and extends Koopman theory into practical feedback control design. Applications will focus on controlling robotic systems, such as legged robots on uneven terrain, where conventional methods are infeasible. The project integrates algorithm development, theory, and demonstration, while also contributing to STEM education and broader access to control research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Umesh",
+   "pi_last_name": "Vaidya",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Umesh Vaidya",
+   "pi_email_addr": "uvaidya@clemson.edu",
+   "nsf_id": "000489861",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Clemson University",
+  "inst_street_address": "201 SIKES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEMSON",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8646562424",
+  "inst_zip_code": "296340001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "SC03",
+  "org_lgl_bus_name": "CLEMSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2BMNX7DSKU8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Clemson University",
+  "perf_str_addr": "201 SIKES HALL",
+  "perf_city_name": "CLEMSON",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "296340001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "SC03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 444199.0
+  }
+ ],
+ "por": null
+}

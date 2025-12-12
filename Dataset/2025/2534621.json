@@ -1,0 +1,118 @@
+{
+ "awd_id": "2534621",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Learning to Sense: Joint Learning of Task Oriented Cognitive Sensing with Data Driven Reconstruction and Inference",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 343340.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "Sensors are an indispensable part of our lives, assisting society\u2019s transportation, health, safety, and communication needs. Conventional sensing approaches acquire data in a fixed fashion, independent of the task for which the data is being utilized. In addition, each of data acquisition, reconstruction and inference blocks in the data processing pipeline is independent of one another and optimized separately. This approach has led to exponential rates of data generation that creates an unbearable demand for power, storage, processing, and communication requirements in today\u2019s sensing systems. The goal of this project is to advance the science of learning-based sensing and processing technologies by developing an adaptive, task-oriented and physics-aware data-to-decision pipeline, which jointly optimizes data acquisition, reconstruction, and inference stages in a data-driven learning framework. The proposed research will establish the foundations of future smart, adaptive, and resource-efficient sensing systems for a variety of applications, including biomedical imaging, remote sensing, radar, and wireless communications.\r\n\r\nThis project has three interconnected objectives (i) Developing learning-based physics-aware multi-dimensional signal reconstruction techniques through foundational relations to regularized inverse problems and explainable architectures inspired from existing signal processing models, (ii) Developing mathematical and learning-based adaptive and task-oriented measurement design approaches with jointly optimized sensing, reconstruction and processing blocks, and demonstrate its impacts on real-world problems, (iii) Developing a learning-based data-to-decision framework, which infers actionable information (classification, parameter estimation) directly from low number of learned measurements. The central theme of planned synergistic educational and outreach activities is to increase the scientific literacy of both the K-12 and university students and the public regarding sensing systems, signal processing, and machine learning. Because sensing technologies are on the frontier of how information is perceived and extracted, and are essential to a wide range of applications, this project will have a high impact on sensing technologies being developed to improve the quality of our daily lives, ranging from applications of cameras to biomedical imaging, or from smart home technologies to autonomous vehicles.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Gurbuz",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali C Gurbuz",
+   "pi_email_addr": "aligurbuz@ncsu.edu",
+   "nsf_id": "000759102",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 254635.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 88705.0
+  }
+ ],
+ "por": null
+}

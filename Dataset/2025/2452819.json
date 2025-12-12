@@ -1,0 +1,109 @@
+{
+ "awd_id": "2452819",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "PDaSP Track 3: Testbed for Enhancing Privacy and Robustness of Federated Learning Systems",
+ "cfda_num": "47.084",
+ "org_code": "15020000",
+ "po_phone": "7032922251",
+ "po_email": "jgeorge@nsf.gov",
+ "po_sign_block_name": "Jemin George",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 366669.0,
+ "awd_amount": 115643.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Traditional machine learning often involves collecting data from multiple sources, which can raise significant privacy concerns.  One approach has emerged as a promising solution to solve this challenge by enabling models to be trained across many different sources without directly sharing private data. This approach has become particularly valuable in sensitive sectors such as medical diagnostics, where individual data privacy is legally protected. Despite these advancements, existing systems for training models across multiple sources lack standardized assessment tools, posing challenges to research reproducibility, validation, and trust.  Without proper testing tools, organizations cannot verify that their privacy protections work as intended, creating barriers to adoption in critical areas like healthcare, finance, and national security. This project addresses this challenge by developing comprehensive testing tools that ensure privacy-preserving artificial intelligence systems work reliably, serving the national interest by enabling secure collaboration on AI development while protecting individual privacy, supporting American competitiveness in artificial intelligence technologies, and strengthening data security across critical infrastructure.\r\n\r\nThis project designs, develops, and sustains FLTest, an interdisciplinary testbed that automates privacy and robustness evaluations in federated learning systems, addressing gaps often overlooked by traditional tools. The research activities include developing automated test orchestration frameworks, implementing privacy attack simulation models, creating configuration vulnerability detection systems, and building recommendation engines for optimization. The testbed's key innovation streamlines evaluations through automated orchestration assisted by a pitfall checker that detects configuration issues and vulnerabilities in privacy evaluations. FLTest empowers both novice and expert users with actionable insights tailored to real-world applications. The team will validate FLTest across multiple domains and datasets, develop standardized benchmarks for assessment, and create detailed reporting mechanisms for security analysis. By utilizing distinct datasets and offering a standardized solution, FLTest verifies model privacy and robustness across heterogeneous data distributions, supporting the development of reliable privacy-preserving federated learning systems. The project includes collaboration with three industry partners to ensure practical adoption and long-term sustainability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "ITE",
+ "org_div_long_name": "Innovation and Technology Ecosystems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fatima",
+   "pi_last_name": "Anwar",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fatima M Anwar",
+   "pi_email_addr": "fanwar@umass.edu",
+   "nsf_id": "000829364",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "329Y00",
+   "pgm_ele_name": "Privacy Preserving Data Sharin"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 115643.0
+  }
+ ],
+ "por": null
+}

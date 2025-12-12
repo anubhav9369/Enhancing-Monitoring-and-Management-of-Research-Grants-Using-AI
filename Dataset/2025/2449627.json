@@ -1,0 +1,98 @@
+{
+ "awd_id": "2449627",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: CPS: Secure Edge Intelligence in CPS with Learning, Sensing, and Communication Co-Design: Foundations and Empirical Implications",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927375",
+ "po_email": "adubey@nsf.gov",
+ "po_sign_block_name": "Abhishek Dubey",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 174981.0,
+ "awd_amount": 174981.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "This project supports the national interest by developing a secure and trustworthy Edge Intelligence (EI) framework to advance resilient next-generation Cyber-Physical Systems (CPS). EI, the fusion of edge computing and Artificial Intelligence (AI), both highlighted by the National Science and Technology Council (NSTC), has become a cornerstone in modern CPS innovation. Research on secure EI offers practical benefits, including improved system security, enhanced service quality, and more sustainable CPS operations. However, current efforts lack a systematic co-design approach that integrates learning, sensing, and communication in EI frameworks. Furthermore, there is no unified methodology to assess and counteract heterogeneous security threats across these components in real-world CPS deployments. Addressing these gaps, this project will propose a system-level co-design strategy and its comprehensive security assessment toolbox, along with on-device security protocols evaluation. Project outcomes will directly align with the national AI R&D strategic plan, strengthening CPS security and reliability at the edge.\r\n\r\nThe project pursues following research objectives: (1) advancing system-level co-design across learning, sensing, and communication components in EI frameworks for CPS, (2) developing comprehensive security assessment toolbox for EI via thoroughly investigating security threats that physically exist throughout the EI\u2019s lifecycle in sensing (sensing data collection), learning (local model training), and communication (data/model transmission) and providing a range of defensive countermeasures, (3) evaluating benchmark security protocols based on the developed toolbox and discussing the trade-offs among four dimensions, i.e., defensive performance, energy consumption, communication cost, and local computation cost measured on edge devices. The developed infrastructure (including edge intelligence testbed documentation, security assessment toolbox source codes and documentations, and security assessment reports and papers) will significantly promote innovation in the CPS, AI security, and IoT research communities. By integrating related research topics and the associated testbeds into graduate and undergraduate curricula, it exposes students to cutting-edge topics in EI and fostering their interest in research. It equips students with hands-on and research-guided learning opportunities with interdisciplinary skills in AI, cybersecurity, IoT, and CPS, whose areas are increasingly sought after by industry. Ultimately, the project will contribute to workforce development by equipping students with the expertise needed to meet national demands for a highly skilled AI workforce.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yifan",
+   "pi_last_name": "Guo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yifan Guo",
+   "pi_email_addr": "yguo@towson.edu",
+   "nsf_id": "000987274",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Towson University",
+  "inst_street_address": "8000 YORK RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "TOWSON",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4107042236",
+  "inst_zip_code": "212520002",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MD02",
+  "org_lgl_bus_name": "TOWSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LC3SFMP2L798"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Towson University",
+  "perf_str_addr": "8000 YORK RD",
+  "perf_city_name": "TOWSON",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212520001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MD02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174981.0
+  }
+ ],
+ "por": null
+}

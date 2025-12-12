@@ -1,0 +1,93 @@
+{
+ "awd_id": "2449661",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Modeling reactive, density-driven groundwater flow to improve contaminant remediation",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032927775",
+ "po_email": "llautz@nsf.gov",
+ "po_sign_block_name": "Laura Lautz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 339522.0,
+ "awd_amount": 339522.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Groundwater contamination poses a serious threat to public health, ecosystems, and water security. Cleaning up contaminated aquifers often requires injecting chemical solutions underground to degrade pollutants. However, the efficiency of these treatments is limited by difficulties in mixing the treatment chemicals with the contaminants in complex groundwater aquifer systems. This research will investigate a novel way for improving mixing by leveraging natural fluid movement induced by density variations. The goal is to develop more efficient, cost-effective, and ecologically friendly methods for remediating polluted groundwater. In addition to advancing scientific understanding, the project will provide graduate and postdoctoral training at two institutions, encourage collaboration between modeling and experimental research teams, and create new open-source groundwater modeling tools that can be used by academic researchers and environmental professionals. Outreach initiatives include incorporating research findings into curriculum, organizing summer student exchanges across universities, and collaborating with an industry partner to transfer innovative remediation technologies into practice.\r\n\r\nThe technical goal of this project is to create and verify new ways for delivering dense, reactive treatment fluids into contaminated aquifers in a way that facilitates spontaneous mixing via hydrodynamic instabilities. The dense fluids will be fed through surface infiltration galleries and injection wells to promote convective fingering and increase interaction between treatment chemicals and contaminants. The research will use laboratory visualization experiments, mathematical modeling, and high-performance numerical simulations to study the behavior of multi-species reactive transport in both homogeneous and heterogeneous systems. A new open-source modeling tool will be developed by incorporating density-driven reactive transport features into a popular MODFLOW family software tool. The study team will also conduct uncertainty studies to assess the reliability and limitations of these methods in real-world scenarios.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jian",
+   "pi_last_name": "Luo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jian Luo",
+   "pi_email_addr": "jian.luo@ce.gatech.edu",
+   "nsf_id": "000075201",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "333Y00",
+   "pgm_ele_name": "WaLCZ-Water, Land, & Crit Zone"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 339522.0
+  }
+ ],
+ "por": null
+}

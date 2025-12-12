@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532170",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Predicting and Programming Plasticity, Flow, and Arrest in Dense Active Matter",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922340",
+ "po_email": "rhoy@nsf.gov",
+ "po_sign_block_name": "Robert Hoy",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "NONTECHNICAL SUMMARY\r\n\r\nThis project develops key tools for designing new materials that can execute intelligent tasks \u2013 e.g. sensing input stimuli, reconfiguring their structure in response, and generating targeted mechanical behaviors such as global shape change. Such robot-material hybrids could quickly respond to protect humans and structures from damage, or even perform search and rescue tasks in dangerous environments.  In order to transform on command, these materials must be active, harnessing energy.  This project also focuses on disordered active materials -- where the constituent molecules or particles are jumbled up -- because, unlike crystals, these materials don\u2019t need to change their volume or shape when transitioning from flowing to arrested states, simplifying their design and deployment.  Currently, such materials cannot be self-assembled because scientists do not yet have a fundamental description of the design space --  i.e. how active forces, interactions between components, and local structure can be tuned to generate targeted large-scale responses.\r\n\r\nTo address this gap, the PI will use computational and theoretical tools to predict how disordered materials deform and rearrange under active, self-generated patterns of forces. This will involve developing a new approach for finding defects \u2013 regions where the material is likely to flow -- in disordered active materials. The PI will then use this \u201cdefect field\u201d as a key quantity in a set of large-scale differential equations that predict the shape and motion of materials as a function of geometry and active forces -- much like the Navier-Stokes equations predict the motion of water under different environmental conditions.  Finally, the PI will study how to self-program the active forces -- much like the weights in a deep neural network that learns -- in order to generate specified patterns of deformation, ultimately allowing the rational design of shape-shifting disordered materials. This project will also support workforce development of graduate and undergraduate students via training in research readiness and computational materials science and engineering techniques.\r\n\r\n\r\nTECHNICAL SUMMARY\r\n\r\nThe goal of this project is to develop a new framework to predict and program plasticity, flow, and arrest in dense amorphous active and non-reciprocal matter. Such materials exhibit glassy dynamics, and they cannot be described by a Hamiltonian, which makes theoretical approaches challenging. This project proposes to develop a continuum theory for the yielding of active solids, and then use it to program these materials to execute responsive tasks by changing shape and rheology. Past work has shown that there are large parameter regimes over which dense active matter rearranges at localized weak regions, or defects, that are defined with respect to a slowly evolving reference state. Therefore, this project will develop new nonlinear tools for identifying defects in dense active matter. A key innovation is developing a force-landscape approach that directly incorporates active forces on each particle into the definition of defects. A second innovation is that the first-principles nonlinear tools give direct access to information about the defect field (orientation, energy barrier heights, number density) that can be difficult to identify in, e.g., machine learning approaches. This is also precisely the information that will allow this project to develop coarse-grained constitutive models and physical learning frameworks to predict and control plasticity in dense active matter.\r\n\r\nOne broader impact of this work will be the ability to rationally program deformation and arrest in dense active and non-reciprocal matter. These materials are already under development in the lab, and have the potential to be transformative because they can harness work to change their macroscopic morphology and respond to external stimuli. Amorphous active solids are not currently programmable, as they flow intermittently and uncontrollably due to plastic avalanches. To design an amorphous material that reconfigures on command, and then supports elastic stresses without flowing when needed, this project will use a coarse-grained defect field in a continuum constitutive law to predict and control yielding and arrest in dense active matter. The constitutive relations will also inform a physical-learning approach to program deformation and global shape changes in dense active matter. Taken together, this will allow rational design of dense active materials that alter their shape and rheology to execute tasks. \r\n\r\nAnother set of broader impacts is in education and workforce development. This project will support participation of the PI and graduate student in a series of workforce-development activities to enhance retention and research participation in a cohort of undergraduate students at Syracuse University and in collaboration with Hampton University and North Carolina A&T. It will also directly support an undergraduate researcher on a project focused on materials design. The PI will additionally develop a formal set of typeset lecture notes for graduate students on the rheology of dense amorphous matter (both passive and active), give graduate school lectures based on those notes, and post them on preprint servers.\r\n\r\n\r\nSTATEMENT OF MERIT REVIEW\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mary Lisa",
+   "pi_last_name": "Manning",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mary Lisa Manning",
+   "pi_email_addr": "mmanning@syr.edu",
+   "nsf_id": "000600921",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Syracuse University",
+  "inst_street_address": "900 S CROUSE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SYRACUSE",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "3154432807",
+  "inst_zip_code": "132444407",
+  "inst_country_name": "United States",
+  "cong_dist_code": "22",
+  "st_cong_dist_code": "NY22",
+  "org_lgl_bus_name": "SYRACUSE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C4BXLBC11LC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Syracuse University",
+  "perf_str_addr": "900 S CROUSE AVE",
+  "perf_city_name": "SYRACUSE",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "132441200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "22",
+  "perf_st_cong_dist": "NY22",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

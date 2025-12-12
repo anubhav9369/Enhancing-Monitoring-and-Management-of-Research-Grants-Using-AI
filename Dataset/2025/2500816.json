@@ -1,0 +1,114 @@
+{
+ "awd_id": "2500816",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Spintronics with entangled and strongly correlated magnetic quantum matter",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924920",
+ "po_email": "aklirono@nsf.gov",
+ "po_sign_block_name": "Alexios Klironomos",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 532567.0,
+ "awd_amount": 532567.0,
+ "awd_min_amd_letter_date": "2025-02-11",
+ "awd_max_amd_letter_date": "2025-02-11",
+ "awd_abstract_narration": "NONTECHNICAL SUMMARY\r\n\r\nThis award supports theoretical research and educational activities aimed at understanding quantum magnetic materials. Today's information technologies utilize the electron charge as the primary carrier of information. However, the electron also carries a tiny angular momentum called spin that enables spintronics, which is the spin-based counterpart of familiar electronics. Two key phenomena in contemporary spintronics research are the spin-transfer torque, where flowing electrons interact with local magnetization in a material, and spin pumping, where a varying local magnetization generates a spin current. Spin-transfer torque underlies a host of novel technologies, such as magnetic random access memories that are already commercially available, and neuromorphic circuits for hardware-based artificial intelligence.\r\n\r\nEven though spintronic phenomena are fundamentally quantum in nature, the standard microscopic understanding of both spin torque and spin pumping is essentially a quantum-classical hybrid: Flowing electrons are treated quantum-mechanically while localized spins are treated as classical objects. This heretofore necessary simplification results in a number of unsolved puzzles when one tries to explain certain spintronic experiments. These puzzles can be traced to quantum effects where quantum entanglement stands out. Entanglement is one of the most remarkable features of the quantum world whereby in a system of just two entangled quantum particles (e.g., two electron spins) what happens to one of them instantaneously determines what happens to the other one, even if they are arbitrarily far away from each other. The overarching goal of this project is to open new avenues for spintronics by bringing entanglement effects into the realm of spin-torque and spin-pumping phenomena. In turn, and in addition to resolving existing puzzles, this will make it possible to design novel protocols for probing quantum magnetic materials via the extensive toolbox of experimental techniques developed for spintronics over the past three decades.\r\n\r\nIn addition to the development of theoretical methods and open-source software for modeling spin transport in quantum materials, the project will also include advanced training for graduate students, preparing them for a productive participation in the nation's quantum workforce. The project will also provide opportunities for high-school students from Delaware and neighboring states to work on magnetism research projects and prepare them for competitions in math, science, and technology.\r\n\r\n\r\nTECHNICAL SUMMARY\r\n\r\nThe dynamics of localized spins within magnets in contemporary spintronics, driven out of equilibrium by injecting current or by applying external fields, relies on the celebrated Landau-Lifshitz-Gilbert (LLG) equation that considers their local magnetization as a classical vector. The applicability of the LLG equation demands that the underlying quantum state of localized spins must remain unentangled. However, several experiments in spintronics involving particular antiferromagnetic layers cannot be explained by LLG dynamics. This suggests the presence of mixed entangled quantum states of many spins within nonequilibrium antiferromagnets, despite their interaction with the inevitable dissipative environment.\r\n\r\nThe project will develop theories to explain experimental puzzles in antiferromagnetic spintronics, as well as in current-driven atomic and molecular spins on surfaces as a smaller version of quantum spin systems that can serve as testbed for new method development. These predictions can then be exploited to design experiments where spin torque and spin pumping are used to probe exotic magnetic quantum matter. Such matter notably includes quantum spin liquids, characterized by long-range entanglement and fractionalized excitations, whose confirmation and control is highly sought as a resource for topological quantum computing. The theory developed in this project will also guide experiments toward direct quantification of entanglement of antiferromagnets or quantum spin liquids, but via table-top experiments suitable for two-dimensional and/or nonequilibrium materials where neutron scattering becomes inapplicable. These activities will require construction of new theoretical methods to study the fundamental problem of quantum transport of spin and charge in strongly interacting boundary-driven systems that are coupled to different baths at their edges.\r\n\r\nIn addition to the development of theoretical methods and open-source software for modeling spin transport in quantum materials, the project will also include advanced training for graduate students, preparing them for a productive participation in the nation's quantum workforce. The project will also provide opportunities for high-school students from Delaware and neighboring states to work on magnetism research projects and prepare them for competitions in math, science, and technology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Branislav",
+   "pi_last_name": "Nikolic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Branislav Nikolic",
+   "pi_email_addr": "bnikolic@physics.udel.edu",
+   "nsf_id": "000168072",
+   "pi_start_date": "2025-02-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "220 HULLIHEN HALL",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197160099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171200",
+   "pgm_ele_name": "DMR SHORT TERM SUPPORT"
+  },
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106Z",
+   "pgm_ref_txt": "Microelectronics and Semiconductors"
+  },
+  {
+   "pgm_ref_code": "6863",
+   "pgm_ref_txt": "SEBML-MOORE'S LAW"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 532567.0
+  }
+ ],
+ "por": null
+}

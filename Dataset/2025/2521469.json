@@ -1,0 +1,98 @@
+{
+ "awd_id": "2521469",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Memtransistor with Enhanced Functionality Enables Energy-efficient AI Hardware",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 280939.0,
+ "awd_amount": 280939.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Modern artificial intelligence (AI) is inspired by the brain\u2019s cognitive functions but relies on models that differ greatly from biological systems and consume substantial energy during training and inference. According to the Semiconductor Research Corporation, continued scaling of logic devices and increasing model complexity could push machine learning energy consumption beyond global energy production capacity\u2014an unsustainable trajectory. In contrast, the human brain performs complex computations with vastly lower energy. To bridge this gap, this project proposes a novel three-terminal transistor that integrates interconnected long-term and short-term memory\u2014an essential yet underutilized feature of the brain\u2014within a single device to improve energy efficiency, simplify architectures, and enable new capabilities. The device will advance two computing paradigms: Spiking Neural Networks and Physical Reservoir Computing, supporting scalable, high-performance, energy-efficient hardware for temporal signal processing, neuromorphic computing, AI, and post-silicon technologies. It will also drive progress in fabrication methods, learning algorithms, and system architectures that leverage the unique properties of the proposed materials and devices. The interdisciplinary nature of this project\u2014spanning engineering, physics, chemistry, neuroscience, nonlinear dynamics, and AI\u2014will provide students with exceptional scientific training and prepare them to contribute across multiple fields.\r\n\r\nThis project aims to develop the Diffusive Ferroelectric Field-Effect Transistor (DFeFET), a novel brain-inspired highly scalable memory device that integrates long-term (non-volatile) and short-term (volatile) memory in an interconnected manner. The DFeFET combines engineered drain contact metals and amorphous oxide semiconductor (AOS) channels in ferroelectric-gated field-effect-transistors (FeFETs) to achieve controllable volatile hysteresis in drain current\u2013voltage characteristics. Volatile memory arises from reversible ion or vacancy exchange at the drain/channel interface, modulated by gate voltage and gradual gate polarization switching, enabling co-located, co-dependent memory akin to the human brain. This device is expected to deliver enhanced energy efficiency and functionality for brain-inspired computing. In particular, it will advance two neuromorphic architectures: (i) Spiking Neural Networks (SNNs) with Spike Frequency Adaptation (SFA) and (ii) CMOS-compatible Physical Reservoir Computing (PRC). SFA, which self-regulates neuron spiking through internal negative feedback, improves SNN performance and energy efficiency but typically requires complex circuitry. DFeFET will be used to enable three bio-inspired SFA mechanisms with improved energy efficiency and reduced area. Additionally, the research aims to develop a novel PRC architecture with task-specific timescale adaptability and coupled higher-order nonlinear dynamics. It will leverage CMOS-compatible DFeFETs to build both reservoir and readout layers using a single device for efficient chip integration. For both neuromorphic architectures, a corresponding device-algorithm co-optimization framework will also be developed to optimize the accuracy, latency, area and energy efficiency of the proposed analog implementations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Md Sakib",
+   "pi_last_name": "Hasan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Md Sakib Hasan",
+   "pi_email_addr": "mhasan5@olemiss.edu",
+   "nsf_id": "000803116",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Mississippi",
+  "inst_street_address": "113 FALKNER",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6629157482",
+  "inst_zip_code": "386779704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MS01",
+  "org_lgl_bus_name": "THE UNIVERSITY OF MISSISSIPPI",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G1THVER8BNL4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Mississippi",
+  "perf_str_addr": "100 Barr Hall",
+  "perf_city_name": "UNIVERSITY",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "386779704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MS01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 280939.0
+  }
+ ],
+ "por": null
+}

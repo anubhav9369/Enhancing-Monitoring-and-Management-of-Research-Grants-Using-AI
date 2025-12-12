@@ -1,0 +1,102 @@
+{
+ "awd_id": "2434247",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SHF: Small: A Communication-Centric Validation Framework for System-on-Chip Designs",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 599493.0,
+ "awd_amount": 599493.0,
+ "awd_min_amd_letter_date": "2025-01-02",
+ "awd_max_amd_letter_date": "2025-01-02",
+ "awd_abstract_narration": "The rapid growth of smart, connected computing devices in critical fields like transportation, industrial automation, healthcare, and finance has made our society increasingly dependent on their safe, secure, and reliable operation. System-on-Chip (SoC) designs are the hardware backbone of these systems. An SoC design integrates a large number of pre-designed components that coordinate through sophisticated system-level protocols to realize various system functions. The components may contain vulnerabilities due to malicious modification or design mistakes, which can be exploited to leak secrets or cause system malfunction. Therefore, SoC designs must undergo comprehensive and rigorous validation to ensure safety and security before deployment in critical applications. Although large bodies of verification and validation methods have been developed, the existing methods are too slow to thoroughly verify large complex SoC designs before their silicon fabrication (the \"pre-silicon\" stage) while the existing solutions are not useful for validating fabricated chips (the \"post-silicon\" stage) since not all internal signals can be observed or analyzed. These challenges prevent achieving the high level of confidence needed for SoCs in critical applications. This project aims to develop a holistic framework that integrates novel solutions to overcome the limitations of the existing pre-silicon verification and post-silicon validation methods, enabling efficient and comprehensive SoC validation across the entire design flow. The resulting impacts of this research include substantially improved productivity and quality of SoC validation, ultimately providing greater assurance in deployed SoC designs, technology transfer through close collaboration with industry on real-world designs with practical significance, and workforce development through recruitment and training of students from diverse backgrounds.\r\n\r\nPrior studies have shown that intricate communications among the components in a SoC design are a major source of errors.  This project focuses on representing and analyzing cross-block communications to reduce validation complexity. Models characterizing such communications serve as a unifying thread to tie validation activities across both pre-silicon and post-silicon stages. The project consists of three tasks. Task 1 develops solutions to facilitate efficient and comprehensive pre-silicon full system validation based on a communication-centric methodology. Task 2 develops approaches to learning system communication models from the SoC execution traces generated during the full system validation to facilitate analysis and debug.  Task 3 develops new machine learning methods utilizing the communication models from Task 2 to enhance the observability of the post-silicon traces for more efficient post-silicon debug. Throughout this project, the power of recent deep sequence modeling approaches, such as the transformer model and its variants, as well as sequential pattern mining methods are exploited in novel ways to achieve the technical aims of this project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hao",
+   "pi_last_name": "Zheng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hao Zheng",
+   "pi_email_addr": "zheng@cse.usf.edu",
+   "nsf_id": "000493348",
+   "pi_start_date": "2025-01-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Florida",
+  "inst_street_address": "4202 E FOWLER AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "TAMPA",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8139742897",
+  "inst_zip_code": "336205800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "FL15",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NKAZLXLL7Z91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of South Florida",
+  "perf_str_addr": "4202 E FOWLER AVE",
+  "perf_city_name": "TAMPA",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "336205800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "FL15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599493.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2441170",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Classical Many-Body Systems Beyond Leading Order",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 505790.0,
+ "awd_amount": 92075.0,
+ "awd_min_amd_letter_date": "2025-02-18",
+ "awd_max_amd_letter_date": "2025-02-18",
+ "awd_abstract_narration": "This project concerns mathematical problems arising in the modeling of systems composed of individual particles, such as the atoms/molecules in a gas confined by a container. Particles repel or attract one another, and importantly, this repulsion or attraction may become increasingly strong as particles become increasingly close together. In principle, the equations of physics, such as Newton\u2019s laws of motion, allow to completely determine the behavior of each particle in the system for arbitrary periods of time. However, in practice, the large number of particles, and therefore the complexity of the system, far exceeds even the best computing resources. To answer questions of interest, one needs a simpler effective description that is a good approximation. Following the prescriptions of statistical mechanics, much effort over the years has been devoted to achieving a reduction in complexity through a point of view focused on the probability of finding at a given time a particle in the system at a certain position in space and moving with a certain velocity. A first approximation, known as the mean-field limit, effectively captures the \u201ctypical behavior\u201d of a particle in the system through a solution of a single equation, which is much simpler than the equations governing the exact motion of all the individual particles. However, our understanding of the mean-field limit over the timescales relevant for the system\u2019s relaxation to equilibrium is quite poor. Additionally, the mean-field description ignores correlations between particles, created by their interactions and the thermal effects of the particles\u2019 environment, which capture the disorder of the system. Little is known about this disorder, which is encoded in the probability of deviations from the mean-field limit. The distribution of these deviations is the next-order approximation beyond the mean-field. The project will advance our understanding of how the system disorder grows with the number of particles and changes over time. The results are of direct application for the modeling of states of matter, such as plasmas, as well as problems with particle-like behavior, such as vortices in fluids or superconductors and the training of neural networks. The methods developed to tackle these problems, based on measuring how the energy or entropy of a system varies in space and time, will establish new connections between different areas of mathematics of independent interest. A key feature of the project is the integration of research and educational activities, promoting the goals of the Federal 5-Year STEM Education Strategic Plan. Through summer courses for advanced high-school students, new undergraduate curricula focused on mathematical communication, working groups, and supervising undergraduate and graduate student projects, the research program will provide opportunities for the mentorship and training of a new generation of researchers in the U.S. at this intersection of mathematics, physics, and statistics.\r\n\r\nBuilding on the investigator\u2019s extensive work, the project addresses fundamental, open questions for the large time, beyond leading order description of Coulomb/Riesz gases. The two main lines of investigation are (1) central limit theorems for fluctuations around the mean-field limit and cumulant expansions that capture the system disorder and corrections to the mean-field limit; (2) the interplay between generation of chaos in these systems (the phenomenon of the particles becoming independent and identically distributed in the joint large time and system size limit), log Sobolev inequalities (LSIs), and relaxation estimates for gradient flows. The project develops both the physical and mathematical understanding of Coulomb/Riesz gases. (1) advances several new conjectures for the scaling of fluctuations and cumulants, their limiting dynamics, and the optimal rate of convergence to Gaussianity, quantifying the disorder as a function of the system size, length scale of observation, temperature, and singularity of interaction. These questions are all open except in limited cases, and the project stands to shape the future direction of the field. (2) develops the new connection between generation of chaos and LSIs for Gibbs measures, which has wide application beyond Coulomb/Riesz gases, with emphasis on LSIs for nonconvex energies, which is a major challenge in the field. The project develops new mathematical tools, such as commutator and gradient flow relaxation estimates, which have potential applications across analysis/PDE and probability. Lastly, Coulomb/Riesz gases are an important testing ground for the longer-term goal of answering fundamental questions of statistical mechanics for more general systems arising in machine learning, physics, and statistics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Rosenzweig",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew H Rosenzweig",
+   "pi_email_addr": "mrosenz2@andrew.cmu.edu",
+   "nsf_id": "000812958",
+   "pi_start_date": "2025-02-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 92075.0
+  }
+ ],
+ "por": null
+}

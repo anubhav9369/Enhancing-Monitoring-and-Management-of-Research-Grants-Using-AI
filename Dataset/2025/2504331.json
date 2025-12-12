@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504331",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Excellence in Research: AI Techniques for the Automation of Nuclei Segmentation of Chromatin-Sensitive Partial Wave Spectroscopic Microscopy for Cancer Research",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032922971",
+ "po_email": "sroberts@nsf.gov",
+ "po_sign_block_name": "Scott Robertson",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1182323.0,
+ "awd_amount": 1182323.0,
+ "awd_min_amd_letter_date": "2025-07-20",
+ "awd_max_amd_letter_date": "2025-07-20",
+ "awd_abstract_narration": "Cancer is the second leading cause of death in the United States. To fight cancer, we need early detection and new treatments to lower death rates and improve survival. Recently, Chromatin-Sensitive Partial Wave Spectroscopic (csPWS) microscopy has become a key tool for early cancer detection and treatment monitoring. This technique measures changes in chromatin structure within cell nuclei at the nanoscale level. To make it easier to analyze chromatin packing and nuclear shapes, software that automates cell selection and nuclei segmentation is needed. Current manual methods are slow, complicated, and vary from user to user. Manual segmentation is also challenging due to the unique features of label-free csPWS images. This project aims to create an Artificial Intelligence(AI)-based segmentation technique that quickly and accurately selects nuclei from various cancer cell lines and imaging conditions. This will help streamline chromatin analysis for early detection and treatment of cancers using csPWS data. The project will also develop an AI algorithm that predicts early cancer and tracks treatment responses using spectral information from raw csPWS images. These AI tools will expand the use of csPWS microscopy, making it accessible for cancer screening, diagnosis, and treatment. This is a significant step toward better health outcomes. The project will provide undergraduate and graduate students in electrical, computer, and biomedical engineering with valuable research training and experiences.\r\n\r\nThis research project aims to develop novel deep learning frameworks for nuclei segmentation and evaluate the performance of these algorithms when applied to diverse csPWS microscopy image datasets from different cell lines and imaging conditions. Additionally, the project develops an AI based unified nuclei segmentation and predictive analysis platform using csPWS microscopy-specific spectral data for cancer screening and treatment monitoring. The novel attention mechanism based convolutional neural network (CNN) and transformer models will be developed. Furthermore, the project will create large-scale, high-quality, labeled (annotated-ground truth) csPWS-specific training datasets tailored to various cell lines for training deep learning models, ensuring robustness and trustworthy data across diverse biological conditions. The resulting AI frameworks will be integrated into the csPWS analysis software platform, facilitating the broader adoption of csPWS microscopy by the wider research community for early cancer detection and diagnosis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sunil",
+   "pi_last_name": "Gaire",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sunil K Gaire",
+   "pi_email_addr": "skgaire@ncat.edu",
+   "nsf_id": "000993484",
+   "pi_start_date": "2025-07-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vadim",
+   "pi_last_name": "Backman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vadim Backman",
+   "pi_email_addr": "v-backman@northwestern.edu",
+   "nsf_id": "000188997",
+   "pi_start_date": "2025-07-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina Agricultural & Technical State University",
+  "inst_street_address": "1601 E MARKET ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GREENSBORO",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "3363347995",
+  "inst_zip_code": "27411",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "NC06",
+  "org_lgl_bus_name": "NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SKH5GMBR9GL3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina Agricultural & Technical State University",
+  "perf_str_addr": "1601 E MARKET ST",
+  "perf_city_name": "GREENSBORO",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "274110002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "NC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "070Y00",
+   "pgm_ele_name": "HBCU-EiR - HBCU-Excellence in"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1182323.0
+  }
+ ],
+ "por": null
+}

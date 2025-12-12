@@ -1,0 +1,105 @@
+{
+ "awd_id": "2448311",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Interpretable Deep Learning with Madden-Julian Oscillation (MJO) Large-Scale Precipitation for Better Tropical Cyclone (TC) Genesis Prediction with Increased Lead Time",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032924715",
+ "po_email": "nanderso@nsf.gov",
+ "po_sign_block_name": "Nicholas Anderson",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 583513.0,
+ "awd_amount": 583513.0,
+ "awd_min_amd_letter_date": "2025-04-09",
+ "awd_max_amd_letter_date": "2025-04-09",
+ "awd_abstract_narration": "Improving prediction of tropical cyclones (TCs) is critical to society due to their devastating impacts. In the US, nine of the top ten costliest natural disasters have been caused by TCs, commonly known as hurricanes. One of the grand challenges in TC forecasting is accurately predicting when and where these storms will develop, referred to as TC genesis. Current operational forecasts provide 1 \u2013 2-week outlooks for TC genesis, but with limited skill, and predictions at 3\u2013 6-week lead time remain a knowledge gap. The Madden-Julian Oscillation (MJO), a 30 \u2013 90-day atmospheric mode in the Indo-Pacific region, is known to influence TC genesis worldwide. However, the precise physical drivers of this relationship are unknown. This research leverages interpretable machine learning (ML) to uncover the nonlinear relationships between the MJO and TC genesis, which may not be easily detected using conventional statistical methods. By applying deep learning techniques, this study aims to improve TC genesis prediction at 1 \u2013 2 week lead times and explore the feasibility of extending prediction to 3 \u2013 6 weeks. The project provides broader societal and educational benefits, including supporting graduate student training in ML, developing a public outreach demonstration website, and sharing machine-learning-ready datasets and open-source code for the research community and the public.\r\n\r\nThe research will use deep learning neural networks to better understand and predict how the MJO convection physically influences TC genesis at 1 \u2013 6-week lead times. This Lagrangian MJO-LPT data will provide the actual locations of the MJO convection and integrate with 3-D atmospheric fields including geopotential height, winds, and relative humidity for the first time. It distinguishes from traditional MJO indices that are based on anomalies. Using the full spatio-temporal evolution of MJO convection together with 3-D fields is a major advancement beyond current methods of TC genesis prediction that rely on 1-D inputs. Interpretability methods, including saliency maps, spatial sensitivity, and local interpretable model-agnostic explanations (LIME), will be used to uncover characteristic spatio-temporal patterns that identify atmospheric teleconnections. The associated dynamical systems such as jet streams, troughs, and ridges are hypothesized to mediate the MJO\u2019s effect on TC genesis. The deep learning models developed in this project are expected to improve the physical understanding needed for TC genesis prediction at 1 \u2013 6 week lead times.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brandon",
+   "pi_last_name": "Kerns",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brandon Kerns",
+   "pi_email_addr": "bkerns@uw.edu",
+   "nsf_id": "000753898",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shuyi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shuyi S Chen",
+   "pi_email_addr": "shuyic@uw.edu",
+   "nsf_id": "000269619",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 Brooklyn Ave NE",
+  "perf_city_name": "Seattle",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152500",
+   "pgm_ele_name": "Physical & Dynamic Meteorology"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 583513.0
+  }
+ ],
+ "por": null
+}

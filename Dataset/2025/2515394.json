@@ -1,0 +1,126 @@
+{
+ "awd_id": "2515394",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Structural Estimation and Optimization for Partially Observable Markov Decision Processes and Markov Games",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 525000.0,
+ "awd_amount": 533719.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-01-16",
+ "awd_abstract_narration": "This Faculty Early Career Development Program (CAREER) grant will contribute to the Nation's economic prosperity by developing analytical methods to enhance security and risk management of supply chains.  As a particular use case, the project will focus on sustainable seafood supply chain operations. The US is the second largest consumer of seafood in the world, and fisheries agencies are seeking substantial reforms in management practices to better manage fishery population dynamics.  The effectiveness of management strategies hinges upon fish stock assessment which is subject to many sources of uncertainties and noisy information, and is further compounded by illegal, unreported and unregulated (IUU) fishing, which steals natural resources, threatens ocean ecosystems and seafood supply, and undermines port and maritime security. This award supports development of a new framework, analytics, and algorithms that can learn preferences and behavior of fishermen and fishing adversaries from imperfect data, identify ways to modulate their behavior, and search for effective strategies to promote sustainable operations and to combat IUU fishing. The educational plan will utilize similar methods to elicit students' needs and preferences from observable data and to design effective education strategies that promote inclusion, equity, diversity, and accessibility. The research will be informed through collaboration with the US Coast Guard Academy and the North Carolina Division of Marine Fisheries. In addition, tutorials and workshops on data analytics involving both students and supply chain practitioners will provide important recruitment and outreach opportunities.\r\n\r\nThis research will investigate a methodological framework comprising structural estimation, optimization, and integrated analysis for dynamic decision making under imperfect information. The current literature on learning and optimizing dynamic decisions mainly assumes that the system is perfectly observable. While there is an extensive literature on the analysis and optimization for partially observable Markov decision processes (POMDPs), this project will focus on the inverse estimation of the primitives of a POMDP model based upon observable histories, an understudied area.  Both optimization and inverse estimation for multi-party decision processes are also considered through partially observable Markov games (POMGs). This research address a knowledge gap by developing (i) new estimation methods to learn model parameters of POMDPs and POMGs from their corresponding data trajectories; (ii) efficient solution procedures for leader-follower POMGs with imprecise reward; and (iii) an integrated methodology of Estimation-Optimization-Analysis based on POMDPs and POMGs to improve an agent's performance by learning, targeted modulating, and adapting to other agents' decision behaviors. The methodologies will be applied to improve fish stock rebuilding efforts, support defense agencies in combating IUU fishing, and identify best practices of course delivery strategies in education.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yanling",
+   "pi_last_name": "Chang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanling Chang",
+   "pi_email_addr": "ylchang@smu.edu",
+   "nsf_id": "000779642",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Methodist University",
+  "inst_street_address": "6425 BOAZ ST RM 130",
+  "inst_street_address_2": "",
+  "inst_city_name": "DALLAS",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2147684708",
+  "inst_zip_code": "752051902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "SOUTHERN METHODIST UNIVERSITY",
+  "org_prnt_uei_num": "S88YPE3BLV66",
+  "org_uei_num": "D33QGS3Q3DJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Methodist University",
+  "perf_str_addr": "6425 BOAZ ST RM 130",
+  "perf_city_name": "DALLAS",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "752051902",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  },
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "CL10",
+   "pgm_ref_txt": "CLB-Career Life Balance"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 509933.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 23785.0
+  }
+ ],
+ "por": null
+}

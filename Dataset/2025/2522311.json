@@ -1,0 +1,114 @@
+{
+ "awd_id": "2522311",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: RUI: HNDS-R: Learning task-relevant visual features by linking large language models and deep convolutional neural networks",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032927220",
+ "po_email": "jctoscan@nsf.gov",
+ "po_sign_block_name": "Joseph Toscano",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 378352.0,
+ "awd_amount": 378352.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "Building artificial intelligence (AI) systems that approach human cognitive flexibility requires a better understanding of how the brain uses visual and linguistic information to achieve specific goals. While previous research in cognitive neuroscience and AI has focused on visual classification tasks, such as identifying objects or labeling scenes, real-world behavior is more nuanced and often depends on selecting task-relevant information, guided by the observer\u2019s goals. Critically, this process draws not only on the visual features of the scene, but on conceptual and linguistic knowledge as well. This project examines how people flexibly extract and use visual information in context and how this information is represented in computational models, supporting the goal of advancing theories of cognition and the development of more adaptive, human-aligned AI systems.\r\n\r\nThe project integrates methods from visual AI (convolutional neural networks), language-based AI (large language models), neuroscience, and cognitive science. First, deep networks are trained to predict language embeddings of human scene descriptions elicited under different task goals, capturing how semantic meaning maps onto visual features. Next, these networks are reverse-engineered to generate activation maps that identify the regions of each image most relevant for a given task. These maps are validated using both behavioral experiments and electroencephalography (EEG). A novel multivariate analysis technique (dynamic electrode-to-image mapping) is used to track when and how these task-relevant features are processed in the brain. Finally, the project assesses whether features identified by the brain contribute to successful behavior. This approach reveals how visual, conceptual, and neural systems interact to support goal-directed perception, offering a new framework for understanding scene processing and for building AI systems that better reflect human needs and capacities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michelle",
+   "pi_last_name": "Greene",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michelle R Greene",
+   "pi_email_addr": "mgreene@barnard.edu",
+   "nsf_id": "000742245",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Barnard College",
+  "inst_street_address": "3009 BROADWAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128542708",
+  "inst_zip_code": "100276909",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "BARNARD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LPQ1NHRK78M9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Barnard College",
+  "perf_str_addr": "3009 BROADWAY",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100276909",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "147Y00",
+   "pgm_ele_name": "Human Networks & Data Sci Res"
+  },
+  {
+   "pgm_ele_code": "169900",
+   "pgm_ele_name": "Cognitive Neuroscience"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1699",
+   "pgm_ref_txt": "COGNEURO"
+  },
+  {
+   "pgm_ref_code": "104Z",
+   "pgm_ref_txt": "HNDS-R: Human Networks & Data Sci Resrch"
+  },
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 378352.0
+  }
+ ],
+ "por": null
+}

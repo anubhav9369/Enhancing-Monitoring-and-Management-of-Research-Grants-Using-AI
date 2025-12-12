@@ -1,0 +1,106 @@
+{
+ "awd_id": "2504469",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: NeTS:Medium:Rack-Scale Disaggregation and Consolidation of Network Functionalities",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 540000.0,
+ "awd_amount": 540000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Hardware resource disaggregation separates individual hardware components from traditional, monolithic servers and connects them via a network. Disaggregation has been used in the context of compute, memory, and storage resources to bring greater flexibility, decrease energy consumption, and reduce costs. This project extends the concept of disaggregation to data center networks with a key research question: Can data centers and data-center applications benefit from disaggregation by moving network functionalities out of end hosts and pooling them together in another system layer? This project explores this question by introducing a rack-level disaggregated network solution called NetFusion, which consists of a pool of programmable Network Interface Cards (NICs) or SmartNICs, each of which can execute network tasks on behalf of end-host applications.\r\n\r\nNetFusion allows for the consolidation of networking demands associated with both packet processing and network-function processing, enabling statistical multiplexing of networking tasks and bringing disaggregation benefits to data centers and data-center applications. The project addresses a number of challenges in realizing this vision: How to support the safe and fair sharing of NetFusion? How can the system address both the long-term traffic needs and the short-term bursts of applications? How to allocate resources across the pool of SmartNICs?\r\nHow to support different SmartNICs with varying resources? How can the system provide fault tolerance and react in a timely manner to workload changes? How can applications benefit from network disaggregation?\r\n\r\nThis collaborative project brings together investigators from University of California at San Diego and University of Washington to optimize the network-intensive datacenter applications used by billions of people around the globe on a daily basis. By improving the efficiency of network operations, one can dramatically reduce the cost of provisioning existing datacenter infrastructure as well as make it much cheaper to deploy new public services. The project integrates industry collaborators who will provide access to cutting-edge network technologies and assist in technology transfer to the industry. For the broader community of users and society at large, the project\u2019s artifacts will be made publicly available at https://sites.google.com/cs.washington.edu/netfusion/home, enabling the development of high-performance data center applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Arvind",
+   "pi_last_name": "Krishnamurthy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arvind Krishnamurthy",
+   "pi_email_addr": "arvind@cs.washington.edu",
+   "nsf_id": "000488256",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 540000.0
+  }
+ ],
+ "por": null
+}

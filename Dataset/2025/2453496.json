@@ -1,0 +1,114 @@
+{
+ "awd_id": "2453496",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SaTC: CORE: Small: HOLMES: Holistic and Hardware-assisted Control-Flow Security for Microcontroller Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 499999.0,
+ "awd_amount": 499999.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Microcontrollers (MCU) are tiny computers found in everything from medical devices and home appliances to cars and factory equipment. As these systems become more connected to the internet and each other, they also become more vulnerable to cyber threats. Unfortunately, most existing security protections were designed for more advanced computers and do not work well on these smaller, more limited devices. This project will develop new, practical solutions to protect MCU-based systems from cyberattacks, helping ensure that the technology we increasingly rely on remains trustworthy. These advances will support national priorities in healthcare, energy, transportation, and public safety. To broaden impact, the project will create new educational resources, including hands-on training platforms and classroom materials, to make cybersecurity more approachable for students. The PIs will share learning content publicly and mentor undergraduate, graduate, and high school students through cybersecurity competitions and outreach activities. Together, these efforts will expand participation in STEM fields.\r\n\r\nThe project will realize its research goal by leveraging novel MCU-specific hardware functionalities (hence, hardware-assisted) for memory management, tracing, and cryptographic signatures. If successful, the project will represent a significant advancement in algorithm, mechanism, and system design for safeguarding the control-flow of MCU systems. Specifically, the project initiates by delving into the realm of cross-state control-flow hijacking, seeking to both comprehend and counteract this phenomenon to secure control-flow from TEE to rich execution environment. Then, the project leverages the capabilities of the secured TEE and hardware tracing units to develop comprehensive control-flow violation detection mechanisms on the entire MCU software. Finally, the project capitalizes on the secured TEE and the pointer authentication hardware functionality to devise a space-efficient algorithm to attest the control-flow integrity of a significant portion of the MCU software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ziming",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ziming Zhao",
+   "pi_email_addr": "z.zhao@northeastern.edu",
+   "nsf_id": "000710958",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Engin",
+   "pi_last_name": "Kirda",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Engin Kirda",
+   "pi_email_addr": "ek@ccs.neu.edu",
+   "nsf_id": "000572930",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499999.0
+  }
+ ],
+ "por": null
+}

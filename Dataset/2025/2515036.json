@@ -1,0 +1,102 @@
+{
+ "awd_id": "2515036",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Investigating Fundamental Symmetries with Ultracold Neutrons at East Tennessee State University",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032925183",
+ "po_email": "segreene@nsf.gov",
+ "po_sign_block_name": "Senta (Vicki) Greene",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 245732.0,
+ "awd_amount": 245732.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "This award supports experimental research focused on high-precision measurements of neutron properties. These measurements will advance our understanding of the weak nuclear force, which is one of the four fundamental forces of nature. When not bound into an atomic nucleus, the neutron will soon decay into a proton, an electron, and an anti-neutrino. The rate at which the neutron decays, along with the direction of the emitted electrons, offers critical insights into the formation of elements in the early universe, the processes driving fusion in stars, and the interactions among fundamental particles. In addition, searches for the neutron\u2019s permanent electric dipole moment, a tiny separation of internal charges within a neutral particle, may shed light on why the universe is dominated by matter rather than antimatter. The PI and a team of undergraduate researchers will contribute to three major experiments at the Los Alamos Ultracold Neutron Source that explore these questions. Their efforts will focus on improving the sensitivity of electron and neutron detection systems used across all three experiments. This research will also provide students with hands-on training in both hardware and software, preparing them for future roles in the national STEM workforce.\r\n\r\nThe primary goal of this work is to deepen our understanding of the Standard Model of particle physics and to search for phenomena that lie beyond it. Three ongoing experiments at the Los Alamos Ultracold Neutron Source aim to enhance the sensitivity of key measurements related to the neutron lifetime, beta asymmetry, and electric dipole moment. Both UCNA+ and UCNtau+ build upon the success of their predecessor experiments, targeting improvements in the elements that previously limited precision. UCNA+ will focus on measuring the beta-asymmetry parameter in neutron beta decay with a target sensitivity better than 0.2%. Achieving this level of precision requires minimizing the trigger threshold of the electron detectors; to that end, the PI will develop custom FPGA firmware and amplifier hardware. Preliminary studies suggest that lowering the trigger threshold will reduce the uncertainty due to electron backscattering by a factor of two.  In parallel, a new room-temperature search for the neutron EDM is under development, with a goal sensitivity below 10\u207b\u00b2\u2077 e\u00b7cm. The PI and their research team will contribute by designing and implementing a robust data acquisition and mirroring system to support collaboration-wide access and redundancy. They will also continue developing particle transport simulations to evaluate systematic effects and contribute to data analysis across all three experiments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Pattie",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "Jr",
+   "pi_full_name": "Robert W Pattie",
+   "pi_email_addr": "pattie@etsu.edu",
+   "nsf_id": "000788503",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "East Tennessee State University",
+  "inst_street_address": "1276 GILBREATH DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "JOHNSON CITY",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "4234396000",
+  "inst_zip_code": "376146598",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "TN01",
+  "org_lgl_bus_name": "EAST TENNESSEE STATE UNIVERSITY",
+  "org_prnt_uei_num": "JBG7T7RXQ2B7",
+  "org_uei_num": "V5LLVC627U34"
+ },
+ "perf_inst": {
+  "perf_inst_name": "East Tennessee State University",
+  "perf_str_addr": "1276 Gilbreath Dr",
+  "perf_city_name": "Johnson City",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "376141700",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "TN01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "123400",
+   "pgm_ele_name": "NUCLEAR PRECISION MEASUREMENTS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1289",
+   "pgm_ref_txt": "PRECISION MEASUREMENTS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 245732.0
+  }
+ ],
+ "por": null
+}

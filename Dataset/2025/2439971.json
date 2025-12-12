@@ -1,0 +1,118 @@
+{
+ "awd_id": "2439971",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Efficient Algorithms for Generalized Quasi-Variational Inequalities in Stochastic and Distributed Networks",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 512830.0,
+ "awd_amount": 512830.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "This NSF CAREER project aims to develop foundational mathematical tools to address emerging challenges in distributed and uncertain systems, such as those in energy infrastructure, machine learning, and wireless communication. Despite recent advances in networked systems, current models and algorithms lack provable performance guarantees for a broad class of critical problems. These include (i) Generalized Nash games, where agents compete over shared resources; (ii) Bilevel optimization with constraints at both decision levels; and (iii) Saddle point problems with coupling constraints. Existing methods are not equipped to handle the complex, interdependent decision spaces or the uncertainty and decentralization that characterize these large-scale systems. This project addresses these gaps through a unified lens of Generalized Quasi-Variational Inequalities (GQVI), a powerful yet underdeveloped framework for capturing interdependent decisions under constraints. By improving solution methods for GQVI, the project will contribute to more reliable, efficient, and scalable decision-making tools for real-world applications. The educational plan includes engaging undergraduates in hands-on research experiences and training them to lead outreach activities in middle and high schools, featuring Python coding exercises and modules on optimization. Additionally, a virtual tour with faculty presentations and lab visits will simulate in-person field trips, aiming to inspire interest in STEM and improve engineering retention.\r\n\r\nThe proposed research builds a unified theoretical and algorithmic framework for solving deterministic, stochastic, and distributed GQVI problems. The project is organized around three interconnected thrusts. First, it develops novel algorithms using operator relaxation techniques to manage the interdependencies that arise in constraint structures, providing provable convergence guarantees that overcome limitations of existing methods. Second, it reformulates nonlinear constrained GQVI problems as fixed-point problems and designs new parametric primal-dual algorithms tailored to this structure, enabling efficient and scalable solutions. Third, it addresses the complexities introduced by uncertainty and decentralization through the development of consensus-based and asynchronous methods, alongside advanced variance reduction strategies for solving large-scale stochastic and distributed settings. These innovations will deliver the first non-asymptotic convergence guarantees for GQVI problems, with broad impacts in game theory, bilevel programming, power systems, and machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Afrooz",
+   "pi_last_name": "Jalilzadeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Afrooz Jalilzadeh",
+   "pi_email_addr": "afrooz@email.arizona.edu",
+   "nsf_id": "000850945",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "1127 E James E. Rogers Way",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "857210020",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 512830.0
+  }
+ ],
+ "por": null
+}

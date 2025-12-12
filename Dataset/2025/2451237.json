@@ -1,0 +1,106 @@
+{
+ "awd_id": "2451237",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SaTC: Temporal Eclectic Rule Extraction (TERE) and Rule Extraction Optimization Strategies for Explainable Intrusion Detection Systems (X-IDS)",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 155258.0,
+ "awd_amount": 155258.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "As cyber threats become increasingly sophisticated, ensuring the security of computer networks is more critical than ever. Intrusion Detection Systems (IDS) help identify potential cyberattacks, but many rely on Artificial Intelligence techniques that act as \u201cblack boxes,\u201d making their decisions difficult for humans to understand or trust. Security analysts or users do not know what is going on \u201cunder the hood\u201d in these models and do not understand the model's reasons for making predictions. This project aims to improve the transparency of these systems by developing a novel Explainable Artificial Intelligence (XAI) technique, and using that to develop Explainable Intrusion Detection Systems (X-IDS). The key idea is to  incorporate the time-based patterns inherent in network security data. This will enable security professionals to better understand why an IDS flags certain activities as threats; improving trust, accountability, and decision-making in cybersecurity. By advancing explainable AI for time-sensitive security applications, this project supports national cybersecurity efforts and enhances the reliability of AI-driven defense mechanisms.  In addition, we will develop and publish hands-on lab exercises for K-12 students related to the research.\r\n\r\nOur approach is to develop Temporal Eclectic Rule Extraction (TERE), a novel white-box XAI method for IDS. Unlike existing approaches that rely on black-box surrogate models, TERE will extract human-readable decision rules directly from internal neurons in temporal neural networks trained on network data. This will address a critical gap in explainability and trustability by ensuring that the temporal structure of network activity is preserved in the extracted rules, as network activity and attacks are performed using sequences of packets, providing more transparent and interpretable threat detection. A significant challenge in rule extraction is the computational complexity and number of generated rules. Additionally, traditional methods often produce large rule sets that are difficult for security analysts to interpret, limiting their practical use. Optimization strategies will be developed to reduce computational overhead. A key approach will involve the exploration of neural selection algorithms that efficiently identify relevant neurons for rule extraction, minimizing unnecessary computations. Further, techniques to streamline and compress extracted rules will be explored to enhance interpretability while maintaining accuracy. By integrating decision tree-based rule extraction with time-aware enhancements, this project aims to increase explainability and trustability in Explainable Intrusion Detection Systems (X-IDS). The proposed methods will be evaluated on large-scale intrusion detection datasets, assessing their ability to deliver highly accurate, explainable, and trustworthy explanations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jesse",
+   "pi_last_name": "Ables",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jesse Ables",
+   "pi_email_addr": "ables@southalabama.edu",
+   "nsf_id": "0000A0H4L",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Alabama",
+  "inst_street_address": "307 UNIVERSITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "MOBILE",
+  "inst_state_code": "AL",
+  "inst_state_name": "Alabama",
+  "inst_phone_num": "2514606333",
+  "inst_zip_code": "36688",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "AL01",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH ALABAMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QB12VPNQQFE8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of South Alabama",
+  "perf_str_addr": "150 Student Services Dr",
+  "perf_city_name": "Mobile",
+  "perf_st_code": "AL",
+  "perf_st_name": "Alabama",
+  "perf_zip_code": "366880002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "AL01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 155258.0
+  }
+ ],
+ "por": null
+}

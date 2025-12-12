@@ -1,0 +1,114 @@
+{
+ "awd_id": "2427944",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMSG: Cyber: Self-Learning Robotic Epitaxy for Superconducting Quantum Circuitry",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-03-26",
+ "awd_max_amd_letter_date": "2025-03-26",
+ "awd_abstract_narration": "Quantum materials and devices have ushered in a new era of information processing based on superimposed states of zeroes and ones, bringing revolutionary changes to computing, communication, and sensing. However, the current manufacturing process for quantum materials and devices is inefficient and labor-intensive, lacking reproducibility and scalability. This Future Manufacturing Seed Grant (FMSG) project looks to address these challenges by developing self-learning robotic epitaxy, an artificial intelligence (AI) driven approach to manufacturing superconducting materials and quantum circuits with high precision and efficiency. By leveraging an innovative AI tool for decision making based on both the past and current actions of a system, robotic epitaxy looks to autonomously optimize fabrication parameters in real time, mimicking the operation of humans while eliminating human-induced errors. Additionally, the team will combine AI development with the equivalent of a 3D printer with the goal of manufacturing superconducting quantum circuits. This new technology looks to significantly reduce production costs and environmental impact. The knowledge gained from this research will help accelerate the development of quantum technologies, while also advancing workforce training at the intersection of quantum science, materials science, and AI-driven manufacturing.\r\n\r\nManufacturing quantum materials and devices is key to the development of the quantum economy. However, the high-dimensional parameter space for quantum device fabrication and a strong device-to-device variation using the same recipe make it particularly challenging to deploy traditional AI methods. The goal of this research project is to drive two key innovations to enable self-learning robotic fabrication of quantum materials and devices. First, the team intends to develop wafer-scale robotic epitaxy. This technology will integrate structured reinforcement learning, an AI tool for decision making based on the trajectory of a dynamical system, with real-time electron diffraction data to guide the growth of high-temperature superconducting thin films. Second, the team looks to develop robotic mini-epitaxy, which enables direct printing of superconducting quantum circuits without nanofabrication. This setup will use nanoscale nozzles to confine molecular beams to sub-micrometer scales. Real-time optical imaging feedback intends to allow the reinforcement learning model to adaptively control deposition conditions, ensuring high-fidelity fabrication of superconducting devices. A primary target of this research is monolayer iron selenide superconductors, which serve as an ideal testbed due to their extreme sensitivity to growth conditions and their potential for high-performance quantum computing applications. Working to establish the first AI-driven \u201c3D printer\u201d for superconducting quantum circuitry will lay the foundation for scalable, automated quantum device manufacturing, seeding future growth of the research team and potentially having broad impacts on quantum computing, materials science, and AI-driven manufacturing. This project will also aim to establish an education program that uniquely integrates AI with quantum materials science, training a new generation of workforce with interdisciplinary expertise.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shuolong",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shuolong Yang",
+   "pi_email_addr": "yangsl@uchicago.edu",
+   "nsf_id": "000820208",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yuxin",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuxin Chen",
+   "pi_email_addr": "chenyuxin@uchicago.edu",
+   "nsf_id": "000805600",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Chicago",
+  "inst_street_address": "5801 S ELLIS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "7737028669",
+  "inst_zip_code": "606375418",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IL01",
+  "org_lgl_bus_name": "UNIVERSITY OF CHICAGO",
+  "org_prnt_uei_num": "ZUE9HKT2CLC9",
+  "org_uei_num": "ZUE9HKT2CLC9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Chicago",
+  "perf_str_addr": "5801 S ELLIS AVE",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606375418",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "IL01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "142Y00",
+   "pgm_ele_name": "FM-Future Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

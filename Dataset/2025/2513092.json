@@ -1,0 +1,98 @@
+{
+ "awd_id": "2513092",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Numerical methods for miscible displacement in coupled 3D-1D domains",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 333000.0,
+ "awd_amount": 333000.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Novel computational methods will be developed and analyzed for modeling coupled flow and transport phenomena occurring in networks of one-dimensional lines embedded in a three-dimensional porous domain. The scientific outcome is a foundational basis for models used in biotechnology and in geosciences: for instance, for the modeling of organ perfusion, the modeling of embolization and drug delivery in damaged, unhealthy organs, and the modeling of flow of solvent mixed with resident fluid in fractured subsurface for applications. The computational models are efficient thanks to the reduced cost of one-dimensional solutions. The numerical analysis of the methods provides a guaranteed accuracy of the computational models.\r\n\r\nOne outcome of the project is the convergence analysis of a numerical scheme that employs the interior penalty discontinuous Galerkin methods in space and backward Euler in time for solving the miscible displacement problem in coupled domains of codimension equal to two. The numerical analysis is non-standard because of the low regularity of the weak solution and the lack of consistency of the scheme. Additional difficulties for the derivation of error bounds include the coupling between flow and transport via nonlinear coefficients and the unboundedness of the diffusion-dispersion matrix in the three-dimensional concentration equation. Depending on the assumptions on the data, convergence is obtained by the derivation of a priori error estimates or by a compactness argument. Via a python-based implementation, robustness and accuracy of the schemes are investigated for several numerical and physical scenarios, such as evaluating the effect of different time step sizes for pressures and concentrations, and investigating the amount and stability of the overshoot and undershoot phenomena. Another outcome of the project is the formulation and analysis of multinumerics schemes that combine finite element methods and two variants of discontinuous Galerkin methods for single-phase flows in coupled three-dimensional domains and metric graphs. Two different treatments of the bifurcation conditions are introduced. A priori error estimates are derived. Robustness and accuracy of the multinumerics schemes are numerically investigated. Of particular interest is the verification of the Neumann-Kirchoff conditions as well as how the schemes perform on networks with increasing complexity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Beatrice",
+   "pi_last_name": "Riviere",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Beatrice Riviere",
+   "pi_email_addr": "Beatrice.Riviere@rice.edu",
+   "nsf_id": "000224651",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "William Marsh Rice University",
+  "inst_street_address": "6100 MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7133484820",
+  "inst_zip_code": "77005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "TX07",
+  "org_lgl_bus_name": "WILLIAM MARSH RICE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "K51LECU1G8N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "William Marsh Rice University",
+  "perf_str_addr": "6100 MAIN ST",
+  "perf_city_name": "Houston",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "770051827",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "TX07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 333000.0
+  }
+ ],
+ "por": null
+}

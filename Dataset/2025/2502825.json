@@ -1,0 +1,106 @@
+{
+ "awd_id": "2502825",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Excellence in Research: MetaCross: Advancing Autonomous Multilane Intersection Management through Scheduling-Based Metaheuristic Optimization",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 496698.0,
+ "awd_amount": 496698.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Intersections are some of the most dangerous and congested parts of roadways, despite making up only a small portion of the entire transportation network. As a result of recent breakthroughs in sensors, vehicle communication, and small but powerful computers, society is moving toward a future in which traffic can be managed by using connected and automated vehicles (CAVs). The central goal of this project is to replace traditional traffic controls, such as stoplights and signs, with computer systems that help vehicles move more safely and smoothly through intersections \u2014 reducing accidents, shortening delays, and lowering fuel use and emissions. At the center of this paradigm is a system called the Autonomous Intersection Manager (AIM). AIM acts like the brain of a smart intersection, constantly analyzing incoming vehicle data and deciding how each vehicle should move to avoid collisions and to keep traffic flowing. To do this effectively, AIM needs fast and reliable decision-making tools that can work with complex and changing traffic patterns. This project develops new computer algorithms that allow AIM to make these decisions quickly, even when facing limited time and computing resources. The work combines ideas from computing, scheduling theory, and traffic control to create transportation technologies that are safe, efficient, and practical for real-world use. In parallel with its technical contributions, the project fosters educational and societal impact by engaging students in hands-on research at the intersection of computing, cyber-physical systems, and intelligent transportation. Furthermore, it includes outreach to K-12 educators and students, providing mentorship and experiential learning opportunities in robotics and computational thinking. These activities aim to broaden participation in STEM disciplines and cultivate a technically proficient workforce equipped to address future challenges in autonomous mobility and intelligent infrastructure.\r\n\r\nThe overarching technical objective of this research is to establish a computationally efficient algorithmic framework for autonomous intersection management with formal safety guarantees. The research pursues three primary objectives: (i) Develop a deeper understanding of the concept of computational control for complex autonomous systems, defined as the generation of online control policies using iterative heuristic algorithms. These policies are designed to compute effective solutions for high-dimensional problems, avoiding reliance on data-driven or handcrafted, closed-form analytical methods. (ii) Bridge the gap between constrained decision-making and real-time computing by quantifying the algorithmic complexity of generating CAV trajectories as a function of physical intersection parameters (e.g., number of lanes). The goal is to design algorithms that produce optimal or near-optimal trajectories within firm processing deadlines. (iii) Integrate scheduling theory, such as Gantt charts and time-graph formulations, into the control framework, enabling systematic generation of multi-parameter CAV trajectories. This project advances the field of autonomous intersection management by pioneering a computational architecture that integrates real-time optimization, heuristic search, and scheduling theory. It addresses nonconvex safety and motion constraints using general-purpose constraint-handling techniques, reinforced by bio-inspired metaheuristics to enable scalable trajectory planning. The framework supports adaptive decision-making through dynamic refinement of search horizons and service windows, ensuring the system meets hard real-time constraints. By reducing computational complexity and enabling guarantees of feasibility, the integration of scheduling and optimization techniques enhances both system performance and scalability. This interdisciplinary effort unites concepts from dynamic programming, real-time systems, optimization, and cyber-physical systems, yielding theoretical and practical contributions that support the deployment of intelligent traffic infrastructure on resource-constrained embedded platforms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ioannis",
+   "pi_last_name": "Raptis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ioannis Raptis",
+   "pi_email_addr": "iraptis@ncat.edu",
+   "nsf_id": "000657803",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina Agricultural & Technical State University",
+  "inst_street_address": "1601 E MARKET ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GREENSBORO",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "3363347995",
+  "inst_zip_code": "27411",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "NC06",
+  "org_lgl_bus_name": "NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SKH5GMBR9GL3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina Agricultural & Technical State University",
+  "perf_str_addr": "1601 E MARKET ST",
+  "perf_city_name": "GREENSBORO",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "274110002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "NC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "070Y00",
+   "pgm_ele_name": "HBCU-EiR - HBCU-Excellence in"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "099Z",
+   "pgm_ref_txt": "CISE MSI Research Expansion"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 496698.0
+  }
+ ],
+ "por": null
+}

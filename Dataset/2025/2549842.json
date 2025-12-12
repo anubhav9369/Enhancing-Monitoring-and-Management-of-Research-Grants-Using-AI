@@ -1,0 +1,102 @@
+{
+ "awd_id": "2549842",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "High-Resolution Transcranial Ultrasound Neuromodulation at Large Scale",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 285380.0,
+ "awd_min_amd_letter_date": "2025-09-02",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "High-Resolution Transcranial Ultrasound Neuromodulation at Large Scale\r\nNeuromodulation has the potential to map neural functions; enhance our perceptual, motor, and cognitive capabilities; and restore sensory and motor functions lost through injury or disease. Despite decades of research and development, state-of-the-art noninvasive neuromodulation techniques still suffer from extremely poor spatial resolution (100-1000\u2019s of mm3). This project includes scientific research that explores orthogonal crossed beams of ultrasound as a noninvasive transcranial means for unprecedented < 0.1 mm3 spatial resolution neuromodulation at large scale. Compared to its noninvasive counterparts, this crossed-beam ultrasound neuromodulation technology has the potential to improve the spatial resolution (focal spot) by several orders of magnitude. Therefore, it will yield a unique building block for a comprehensive set of noninvasive neural interfaces. It will open new opportunities in neuroscience with significant improvements in spatial resolution and coverage of noninvasive neuromodulation of the brain, initially in animals. Ultimately, it will also have huge translational potential for many clinical applications in humans, such as the treatment of neurological and psychiatric disorders and brain-machine interfaces. Leveraging the multidisciplinary nature of the research, this project also includes a significant integrated outreach and educational component created around a \u201cMachine-Learning-inspired Physical Troubleshooting\u201d framework to impact K-12 teachers/students, undergraduate and graduate students. The troubleshooting framework will stimulate the interest of K-12 students in electrical engineering to recruit more students to this major, will educate a broad audience from undergraduate students to K-12 teachers and their students in the science and applications of this research, and will enhance teachers\u2019 and students\u2019 research skills through systematic troubleshooting and problem-solving activities. Graduate curriculum on circuits and optimization-based machine learning will also be transformed with multidisciplinary projects and guest lectures to educate graduate students in the design and applications of smart integrated systems.\r\nThis project proposes and explores high-resolution transcranial ultrasound stimulation (HR-TUS) system, in which extracranial ultrasound transducer arrays electronically steer \u2264 1 MHz crossed focused ultrasound beams, guided by imaging and machine learning models, at different neural targets with ultrasound pressure focal spots of < 0.1 mm3. Building on the investigators\u2019 complementary expertise in integrated circuits, ultrasound-based systems, wireless neural interfaces, and machine learning for image analysis, this project will establish the fundamental basis for large-scale HR-TUS with orthogonal crossed ultrasound beams guided by imaging and machine learning models. This project will investigate fundamental limits of spatial resolution and coverage within a human brain volume in HR-TUS by developing numerical and computational models based on wave equations to explore the effects of different geometries, frequencies, and configurations of phased arrays and their interactions with the skull and brain tissue in the context of orthogonal crossed beams. This project will also explore imaging and machine learning models for accurate anatomical targeting, focusing, and beam crossing in the presence of skull/tissue effects on ultrasound beams and displacements in ambulatory subjects. To reduce the system complexity, size, and power consumption in three-dimensional stimulation of tissues at large scale, the novel solution of this project is a large two-dimensional array on a flexible substrate consisting of optimally arranged modular selectable linear arrays and their application-specific integrated circuits. A system-level demonstration at the end of this project will establish the feasibility of the HR-TUS. The image-guided HR-TUS system with machine learning model will provide a first-in-class platform for learning-based acoustically guided transcranial ultrasound neuromodulation (all acoustic) with high spatial resolution (< 0.1 mm3) at large scale (over the whole brain).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mehdi",
+   "pi_last_name": "Kiani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mehdi Kiani",
+   "pi_email_addr": "muk42@psu.edu",
+   "nsf_id": "000680202",
+   "pi_start_date": "2025-09-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland Baltimore County",
+  "inst_street_address": "1000 HILLTOP CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4104553140",
+  "inst_zip_code": "212500001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RNKYWXURFRL5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland Baltimore County",
+  "perf_str_addr": "1000 HILLTOP CIR",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212500001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "108E",
+   "pgm_ref_txt": "Bioelectronics"
+  },
+  {
+   "pgm_ref_code": "090E",
+   "pgm_ref_txt": "Chem/Bio and Physical Diagnostics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 285380.0
+  }
+ ],
+ "por": null
+}

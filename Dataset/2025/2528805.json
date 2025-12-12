@@ -1,0 +1,106 @@
+{
+ "awd_id": "2528805",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Scalable Software Infrastructure for Analyzing Complex Networks",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 563352.0,
+ "awd_amount": 250199.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "Interactions among entities are fundamental to physical, social, and cyber-physical systems worldwide. In these complex networks, vertices symbolize entities, and edges depict their interactions. Large-scale networks are prevalent in scientific and business applications, such as protein similarity networks with billions of vertices and trillions of edges. As networks continue to grow, there is an increasing demand for algorithms and software capable of utilizing large-scale cyberinfrastructure for analyzing massive networks across scientific domains. This project addresses this need by developing a software infrastructure consisting of foundational algorithms for scalable, portable, and user-friendly graph analysis, ensuring scalability to trillions of edges, optimal performance on heterogeneous infrastructures, and accessibility for domain scientists. This software infrastructure directly enhances vital applications in extreme weather prediction, the discovery of novel proteins, and forecasting energy usage in industrial settings. The project extends the accessibility of these advanced technologies to students at various academic levels. Integration with university courses and initiatives for high school students and teachers in rural Indiana ensures widespread educational impact.\r\n\r\nA complex network, modeled as a graph in mathematics, reveals intricate topological features encompassing dynamic edges, vertices, and a mixture of static and dynamic ones. Due to such networks' unpredictable and dynamic nature, the independent development of scalable algorithms and software for each application has become prohibitively costly in terms of time, effort, and research funding. This project addresses these challenges by introducing a general-purpose software infrastructure tailored to analyze and learn from complex networks. Users can leverage this infrastructure to expedite a multitude of graph-based applications. Confronting the diversity of graphs and computing platforms, the project employs a flexible two-layer framework. This framework seamlessly maps dynamic graph and machine learning computations to a concise set of sparse matrix operations, followed by the development of parallel algorithms. This linear-algebraic mapping offers a transparent pathway from mathematical algorithm descriptions to sparse-matrix functions, ensuring multiple levels of parallelism, communication reduction, and extreme scalability. Usability, the second challenge in this undertaking, is addressed through a comprehensive set of novel unsupervised and supervised graph algorithms tailored for complex and dynamic networks. Integrating these innovative graph algorithms with massively parallel sparse matrix operations results in a versatile software framework that analyzes complex spatiotemporal systems such as streamflow, traffic flow, and energy systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Md Ariful",
+   "pi_last_name": "Azad",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Md Ariful Azad",
+   "pi_email_addr": "ariful@tamu.edu",
+   "nsf_id": "000784595",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M Engineering Experiment Station",
+  "inst_street_address": "3124 TAMU",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778433124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A&M ENGINEERING EXPERIMENT STATION",
+  "org_prnt_uei_num": "QD1MX6N5YTN4",
+  "org_uei_num": "QD1MX6N5YTN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M Engineering Experiment Station",
+  "perf_str_addr": "3124 TAMU",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778433124",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 250199.0
+  }
+ ],
+ "por": null
+}

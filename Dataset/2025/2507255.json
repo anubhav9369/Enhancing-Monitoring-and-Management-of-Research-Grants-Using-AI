@@ -1,0 +1,102 @@
+{
+ "awd_id": "2507255",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922174",
+ "po_email": "rmehta@nsf.gov",
+ "po_sign_block_name": "Rajesh Mehta",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 304943.0,
+ "awd_amount": 304943.0,
+ "awd_min_amd_letter_date": "2025-05-09",
+ "awd_max_amd_letter_date": "2025-05-09",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to provide businesses and governments with the essential environmental intelligence needed to navigate environmental volatility, including extreme weather (e.g. wildfires, floods, severe storms, heatwaves).  The project develops and tests an AI-driven foundation modeling framework of the atmosphere and ocean, which can be used for long-range weather forecasting, extreme weather event alerts, local-scale environmental intelligence, and others.  While AI methods have revolutionized weather forecasting, AI (Artificial Intelligence) foundation modeling has not yet been deployed for large-scale Earth system modeling beyond the atmosphere, which is necessary for environmental use cases beyond short-term weather.  As such, developing an AI-driven atmosphere-ocean foundation model is a high-risk, high-reward scientific innovation, and brings the power of AI to a broad range of environmental intelligence applications.  Success of this project would help fortify businesses, municipalities, and governments against environmental volatility, extreme weather, and uncertainty, ensuring continued economic vitality and resilience.  Businesses in many industries, including energy, agriculture, insurance, forestry, real estate, infrastructure, logistics, and finance, would benefit from deploying this technology.  \r\n\r\n\r\nThe primary focus of this project is on the development of an advanced multimodal AI foundation model for environmental intelligence that actively learns the foundational knowledge of the Earth system components and their interactions.  Incorporating the ocean and other components, all of which evolve over much longer time horizons than the atmosphere, will ensure the generalizability of the model to a range of present-day and future conditions. The model will be pretrained on the petabytes of Earth system model output, combined with decades of observational data (e.g. satellite data) and reanalyses, synthesizing the corpus of current physical knowledge of the Earth system. This will require parallel input/output optimization, distributed computing, and careful data chunking to avoid loss of information and minimize error compounding. The model will also be designed to be computationally efficient and fine-tunable for a variety of applications such as predicting environmental risk and extreme weather events, and sub-seasonal-to-seasonal forecasting.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kalai",
+   "pi_last_name": "Ramea",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kalai Ramea",
+   "pi_email_addr": "kalai@planette.ai",
+   "nsf_id": "000903112",
+   "pi_start_date": "2025-05-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "PLANETTE ANALYTICS INC",
+  "inst_street_address": "3534 PERALTA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "FREMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3238363057",
+  "inst_zip_code": "94536",
+  "inst_country_name": "United States",
+  "cong_dist_code": "14",
+  "st_cong_dist_code": "CA14",
+  "org_lgl_bus_name": "PLANETTE ANALYTICS INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1NCQ7EMA977"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PLANETTE ANALYTICS INC",
+  "perf_str_addr": "1250 Borregas Avenue",
+  "perf_city_name": "Sunnyvale",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "940891309",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  },
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304943.0
+  }
+ ],
+ "por": null
+}

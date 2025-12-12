@@ -1,0 +1,114 @@
+{
+ "awd_id": "2429415",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Exploiting the Destabilizing Effect of Damping for Hydrokinetic Energy Harvesting",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 512151.0,
+ "awd_amount": 512151.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-01-16",
+ "awd_abstract_narration": "This grant will support research that advances the understanding of hydrokinetic energy extraction from flowing rivers. While water is a widely available source of renewable energy it is typically harnessed in hydropower plants that rely on dams to create a hydrostatic head. In contrast, hydrokinetic power generation is minimally disruptive to the environment. Despite the significant potential, with 1433 terawatt-hours per year of hydrokinetic power potentially available from U.S. rivers, only about 8% of this energy can be captured by current Hydrokinetic Energy Conversion devices. This is due to a minimum flow speed requirement of 4 knots, while flow speeds in U.S. rivers typically do not exceed 2 knots. The research intends to develop a new approach to hydrokinetic energy conversion that works for low-flow conditions by drawing on expertise in nonlinear vibration, fluid dynamics, and energy harvesting. The project's impacts are to enhance scientific knowledge in these fields while promoting economic and societal benefits in the U.S. by tapping into the vast renewable energy potential of rivers. Through integrated outreach, education, and research activities, the project will actively involve graduate, undergraduate, and K-12 students from underrepresented groups. To broaden the impact, the research will include field testing in the Red Cedar River at Michigan State University, providing hands-on experience for students and raising public awareness of hydrokinetic energy through live demonstrations.\r\n\r\nA promising trend in hydrokinetic energy research is the use of flow-induced instabilities, such as flutter, which can improve scalability and energy conversion efficiency in typical river flow speeds. However, existing technologies have seen limited success. In current systems, energy is harvested through circuits that introduce electrical damping, but increasing damping raises the critical flow velocity at which instabilities occur. While damping is necessary for energy extraction, its stabilizing effect undermines the process. The goal of this research is to develop a novel approach to hydrokinetic energy harvesting, leveraging the destabilizing effect of damping to capture energy from low-velocity flows and sustain flutter oscillations. The research team intends to design a new power take-off unit that uses piecewise-constant damping and inertia parameters to enhance energy harvesting efficiency and extend the operational flow speed range. They will also develop a unified framework for analyzing flutter instability and post-flutter behavior in the presence of parameter discontinuities. Currently, experimental evidence of the destabilizing effect of damping in energy harvesting is lacking. To fill this gap, the researchers will take a systematic approach to address the complex fluid-structure interaction by first studying a two-link fluid-conveying pipe in a water tank, then testing a two-link system in a controlled laboratory water tunnel and ultimately conducting experiments in a river. The river test will provide insights into flutter behavior under unsteady flow conditions and help refine adaptive control strategies for damping, ultimately reproducing the destabilizing effects observed in constant flow settings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ranjan",
+   "pi_last_name": "Mukherjee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ranjan Mukherjee",
+   "pi_email_addr": "mukherji@egr.msu.edu",
+   "nsf_id": "000486665",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Wei-Che",
+   "pi_last_name": "Tai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei-Che Tai",
+   "pi_email_addr": "taiweich@msu.edu",
+   "nsf_id": "000789294",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan State University",
+  "inst_street_address": "426 AUDITORIUM RD RM 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST LANSING",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "5173555040",
+  "inst_zip_code": "488242600",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "MICHIGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "VJKZC4D1JN36",
+  "org_uei_num": "R28EKN92ZTZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan State University",
+  "perf_str_addr": "ENGINEERING BLDG, 428 S SHAW LN ROOM 2555C",
+  "perf_city_name": "EAST LANSING",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "488241226",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 512151.0
+  }
+ ],
+ "por": null
+}

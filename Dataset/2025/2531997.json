@@ -1,0 +1,122 @@
+{
+ "awd_id": "2531997",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DISCIPLINARY IMPROVEMENTS: (HS-SPECTRA) Hyperspectral Standardizing and Sharing Possibilities for Urban Conditions through Toolkits, Resources and Archiving",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032924278",
+ "po_email": "plsmith@nsf.gov",
+ "po_sign_block_name": "Plato Smith",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "Accurate interpretation of hyperspectral data depends on the availability of reference spectra: measurements of known materials compiled into spectral libraries. Such libraries support both direct classification and machine learning applications. When combined with on-site hyperspectral imaging, they have proven effective across a variety of domains including heritage conservation, homeland security, hydrology, and geology. Urban conditions, however, present unique challenges to spectral data collection. In this context, urban materials refer to the components of the built condition, including both manufactured materials (e.g., asphalt, concrete, paint) and naturally occurring materials that have been anthropogenically modified for urban use (e.g., cut stone). Although hyperspectral data have been utilized in select urban planning tasks, the broader potential of hyperspectral imaging for material identification remains underutilized. This project will develop and extend community involvement in hyperspectral remote sensing technology to analyze and study urban landscapes.  This will be paired with open metadata standards, modular processing toolkits, and automated archival workflows that prioritize FAIR principles.\r\n\r\nHS-SPECTRA (Hyperspectral Standardizing and Sharing Possibilities for Urban Conditions through Toolkits, Resources, and Archiving) addresses fundamental challenges in hyperspectral library design by: 1) Developing a metadata architecture tailored to longitudinal urban field campaigns; 2) Incorporating auxiliary sensors to contextualize spectral variability; 3) Implementing a flexible versioning and querying model that reflects the dynamic nature of repeated, real-world observations; and 4) Enabling interoperability across platforms through spectral resampling and standardization pipelines. By embracing the temporal complexity of real urban conditions and focusing on reproducible, extensible data infrastructures, HS-SPECTRA will generate a uniquely valuable dataset for cross-instrument, cross-temporal analysis. The resulting protocols and open-source tools will significantly advance methodological rigor and accessibility in urban planning, Earth system science, computer vision, and urban monitoring fields.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure within the Directorate for Computer and Information Science and Engineering is jointly supported by the Directorate for Engineering.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Debra",
+   "pi_last_name": "Laefer",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Debra F Laefer",
+   "pi_email_addr": "dfl256@nyu.edu",
+   "nsf_id": "000738365",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Gregory",
+   "pi_last_name": "Dobler",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gregory Dobler",
+   "pi_email_addr": "gdobler@udel.edu",
+   "nsf_id": "000678310",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "138500",
+   "pgm_ele_name": "SSA-Special Studies & Analysis"
+  },
+  {
+   "pgm_ele_code": "741400",
+   "pgm_ele_name": "NSF Public Access Initiative"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025E",
+   "pgm_ref_txt": "INFRASTRUCTURE MATERIALS"
+  },
+  {
+   "pgm_ref_code": "039E",
+   "pgm_ref_txt": "STRUCTURAL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

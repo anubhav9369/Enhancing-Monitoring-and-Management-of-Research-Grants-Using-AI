@@ -1,0 +1,102 @@
+{
+ "awd_id": "2534241",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: OAC: Core: Harvesting Idle Resources Safely and Timely for Large-scale AI Applications in High-Performance Computing Systems",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "Supercomputers, or high-performance computing (HPC) clusters, are instrumental in propelling scientific and engineering research by offering vast computational resources. These systems are increasingly crucial as artificial intelligence (AI) techniques become pervasive across various fields, including climate modeling, drug discovery, and physics simulations, significantly expanding the need for computational power and data management. However, the existing HPC infrastructures face challenges with extended job wait times and suboptimal resource use, primarily due to the escalating complexity of computations and the burgeoning demands for resources. Unlike traditional HPC tasks, AI algorithms and models exhibit distinct resource requirements, often resulting in either excess or insufficient resource allocation for AI tasks. This project aims to bridge the gap between HPC resource provisioning and AI application demands through an in-depth analysis of resource allocation and utilization within HPC environments running AI workloads. The goal is to identify strategies for minimizing resource waste and reducing the length of job queues by efficiently reallocating idle resources to accommodate large-scale AI tasks. By creating and disseminating datasets, models, algorithms, and system source code, this initiative will contribute valuable tools and insights to the research community. The findings will be broadly shared through research papers, technical reports, book chapters, course materials, and tutorials, enhancing the knowledge base in both HPC and AI fields and supporting the broader objectives of promoting scientific progress, improving national health, prosperity, and welfare, and contributing to national defense. \r\n\r\nThis project centers on advancing the efficiency and productivity of HPC systems by innovatively leveraging idle resources to expedite AI job processing and diminish waiting periods. The research is structured around three interconnected themes, each addressing critical aspects of resource utilization and AI performance enhancement within HPC environments. The initial theme undertakes a comprehensive analysis of idle resources in HPC systems, aiming to identify patterns and opportunities for resource optimization. Building on the insights gained, the second theme explores methodologies for the safe and timely harvesting of idle resources across various categories, ensuring that these resources can be reallocated without compromising system stability or performance. The third theme is dedicated to developing strategies that utilize these harvested resources to boost AI application outcomes significantly and, by extension, enhance the overall productivity of HPC operations. The project will implement a tangible HPC testbed equipped with real-world benchmarks and workloads alongside these thematic investigations. This testbed will serve as a platform for empirically validating developed algorithms and systems, facilitating a rigorous assessment of their effectiveness in improving HPC resource allocation and utilization.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hao",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hao Wang",
+   "pi_email_addr": "hwang9@stevens.edu",
+   "nsf_id": "000851568",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "ONE CASTLE POINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "090Y00",
+   "pgm_ele_name": "OAC-Advanced Cyberinfrast Core"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

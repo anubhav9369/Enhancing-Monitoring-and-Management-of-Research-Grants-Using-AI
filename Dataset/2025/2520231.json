@@ -1,0 +1,142 @@
+{
+ "awd_id": "2520231",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "ASCENT: Large-Scale Electronic-Photonic Circuits with Heterogeneously Integrated Conductive Oxide for High-throughput and Energy-efficient Computing",
+ "cfda_num": "47.041, 47.084",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 1500000.0,
+ "awd_amount": 1140000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Of all existing semiconductor platforms, silicon is undeniably the most critical one for heterogeneous integration between photonic and electronic integrated circuits that can revolutionize future semiconductor systems. The aim of this ASCENT project focuses on energy-efficient silicon photonic circuits with co-designed electronic application-specific integrated circuits by heterogeneously integrating high-mobility transparent conductive oxide through wafer- and panel-scale manufacturing. The approach is compatible with existing silicon photonics fabrication and will result in unprecedented improvement in energy efficiency and bandwidth density through innovative materials, device design, electronic-photonic optimization and packaging. This project also generates broad impacts on workforce development by providing unique opportunities for training and education of graduate and undergraduate students through the proposed foundry-university co-fabrication and unique co-integration approach. Students will benefit from collaboration with industry by participating in summer internships to receive hands-on experiences in circuit design, device fabrication, optoelectronic integration, and high-speed characterization. \r\n\r\nLeading-edge applications such as artificial intelligence (AI), 6G-and-beyond communications, quantum and neuromorphic computing have unmet requirements on energy efficiency and bandwidth density. This ASCENT project targets this challenge by an interdisciplinary team with complementary expertise in photonic devices, electronic circuits, and system-level integration. Specifically, the team will develop a wavelength division multiplexing photonic transceiver consisting of silicon microring modulator array and tunable optical filter array coupled with resonant nano-photodetectors, capable of achieving 10 terabits per second full-duplex bidirectional link with 100 femto-joule per bit system-level energy efficiency. The core photonic engine is driven by a metal-oxide-semiconductor capacitor structure with athermal titanium dioxide cladding, which will be packaged with sub-volt electronic driver circuits. Additionally, the project will address critical fabrication challenges through combining commercial silicon photonic foundries with university fabrication and packaging to prove the feasibility of commercialization. The team will also demonstrate critical steps for wafer- and panel-scale integration such as RF-sputtering, stepper lithography, and high-pitch-density packaging. The success of this project will elevate the performance of heterogeneously integrated semiconductor systems to meet the stringent requirement of future high-performance computing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alan",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "X",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alan X Wang",
+   "pi_email_addr": "alan_wang@baylor.edu",
+   "nsf_id": "000600653",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "S J Ben",
+   "pi_last_name": "Yoo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "S J Ben Yoo",
+   "pi_email_addr": "yoo@ece.ucdavis.edu",
+   "nsf_id": "000469826",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Samuel",
+   "pi_last_name": "Palermo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Samuel Palermo",
+   "pi_email_addr": "spalermo@ece.tamu.edu",
+   "nsf_id": "000546838",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Baylor University",
+  "inst_street_address": "700 S UNIVERSITY PARKS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "WACO",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2547103817",
+  "inst_zip_code": "767061003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "TX17",
+  "org_lgl_bus_name": "BAYLOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C6T9BYG5EYX5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Baylor University",
+  "perf_str_addr": "700 S UNIVERSITY PARKS DR",
+  "perf_city_name": "WACO",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "767061003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "TX17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133Y00",
+   "pgm_ele_name": "ASCENT-Address-Chalg-Eng-Teams"
+  },
+  {
+   "pgm_ele_code": "241Y00",
+   "pgm_ele_name": "NSF-Intel Semiconductr Partnrs"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  },
+  {
+   "pgm_ref_code": "094E",
+   "pgm_ref_txt": "Optoelectronic devices"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1140000.0
+  }
+ ],
+ "por": null
+}

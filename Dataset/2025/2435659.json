@@ -1,0 +1,117 @@
+{
+ "awd_id": "2435659",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: 3D ConvNets for Discovery of Nanoporous Materials",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Materials with nanoscale cavities are used in many industrial applications, enabling efficient chemical production and energy generation. Their performance relies upon precisely matching the nanocavity shape to the target application, similar to matching a lock to a key. However, identifying optimal structures among millions of possibilities through traditional experiments and physics-based simulations can be impractical or prohibitively labor- and resource-extensive. This project will develop new machine learning tools capable of rapidly predicting structure-performance relationships for nanoporous materials that have very small pore sizes, with a focus on complex molecules. The developments will accelerate the discovery of nanoporous materials for a diverse array of emerging applications for clean energy and sustainability, including gas storage (e.g., for clean fuel vehicles), membrane separations (traditional separations account for more than 10% of global energy consumption), solid-state batteries, and plastic waste upcycling. Additionally, the cross-disciplinary collaboration provides unique educational and outreach opportunities to train a broad, AI-literate next-generation workforce while bridging the gap between computer science and engineering research communities.\r\n\r\nWith the ever-expanding use of machine learning for materials discovery over the past decade, graph neural networks have emerged as the predominant choice for representing molecules and materials. Graph models are appealing as atoms and bonds intuitively map to nodes and edges, and it is relatively straightforward to ensure the invariance of input features with respect to translation and rotation. However, our preliminary tests indicate that graph models perform poorly in capturing confinement effects in nanoporous zeolites, which are effects controlled by the precise positioning of atoms in 3D space to create nanoscale channels and cages in these materials. In contrast, convolutional neural networks (ConvNets) operating on 3D volumetric grids offer the most efficient and accurate representation, essentially viewing materials structures as 3D analogues of images. Building on these preliminary results, the interdisciplinary research team will work together to develop scalable group-equivariant ConvNets to exploit the symmetry and invariance of the underlying materials structures, investigate unsupervised learning and multi-tasking to obtain transferable representations, and integrate ConvNets with graph representations to enable zero-shot learning for arbitrary host-guest systems. A successful outcome of the proposed work may lead to a general representation framework that can accurately describe subtle noncovalent interactions in extended 3D materials, which can broadly benefit a range of material systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peng",
+   "pi_last_name": "Bai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peng Bai",
+   "pi_email_addr": "pengbai@umass.edu",
+   "nsf_id": "000793956",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Wei",
+   "pi_last_name": "Fan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei Fan",
+   "pi_email_addr": "wfan@ecs.umass.edu",
+   "nsf_id": "000615814",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Subhransu",
+   "pi_last_name": "Maji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Subhransu Maji",
+   "pi_email_addr": "smaji@cs.umass.edu",
+   "nsf_id": "000699819",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

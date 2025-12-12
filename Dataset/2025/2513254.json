@@ -1,0 +1,98 @@
+{
+ "awd_id": "2513254",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Tight Relaxation Methods for Optimization",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "This project is on the development of a class of methods known as \"tight relaxation methods\" for solving optimization problems, such as polynomial optimization, generalized Nash equilibria, matrix constrained optimization, and other related research questions. These problems are usually nonlinear, nonconvex, and are often given by polynomial or rational functions. Locating their global optima is a crucial task in various applications. Tight relaxation methods are especially useful for solving these optimization problems globally, which, in the case of a nonconvex objective function, is a non-trivial task. Results produced by this project have broad applications in science and engineering and have the potential to provide tools for locating Nash equilibria, solving mixed integer nonlinear programming problems, and optimizing power flow.\r\n \r\nThis project works on research tasks for solving some hard optimization problems. In many applications, computing a critical point or local optimizer may not be satisfactory for the needs. Tight relaxation methods are preferable for computing the global optima. One problem, considered in this project, is the generalized Nash equilibrium problem (GNEP), which deals with solving several optimization problems simultaneously. Each optimization problem represents the strategy selection by a player. All players look for a common selection of strategies such that all players achieve their optimal decisions. The GNEP is particularly hard, since the objective function and feasible set for each player depend on strategy selections by other players. Another problem in this project is the matrix-constrained polynomial optimization problem (MCPOP). Its constraints are given by polynomial matrix inequalities, which are typically nonlinear and nonconvex. A major challenge in solving MCPOP is the lack of efficient computational methods for computing global optimizers. There are other types of hard optimization problems with behavior similar to the GNEP and MCPOP. Tight relaxation methods provide a computational framework for solving them. The tools used in constructing tight relaxation methods are Lagrange multiplier expressions, sum of squares, moment relaxations, and semidefinite programs. This project aims to develop efficient computational methods for solving these hard optimization problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiawang",
+   "pi_last_name": "Nie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiawang Nie",
+   "pi_email_addr": "njw@math.ucsd.edu",
+   "nsf_id": "000078688",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930112",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

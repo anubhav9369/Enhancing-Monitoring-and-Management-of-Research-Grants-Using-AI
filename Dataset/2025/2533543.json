@@ -1,0 +1,106 @@
+{
+ "awd_id": "2533543",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Novel Dynamics of Locally-Driven Quantum Systems",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924942",
+ "po_email": "dhess@nsf.gov",
+ "po_sign_block_name": "Daryl Hess",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 295279.0,
+ "awd_amount": 295279.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "NONTECHNICAL SUMMARY\r\nThis award supports theoretical and computational research and education to investigate a new and promising approach to dynamical control of quantum systems with potential applications to next-generation quantum technologies such as components of quantum computers and sensors. A major obstacle in this field is finding ways to manipulate quantum systems for desired functionalities without causing them to overheat or lose their fragile quantum properties. This research takes a novel path by exploring local drives\u2014targeted, controlled external forces applied to specific parts of a system rather than the whole. By developing new theoretical tools to understand how local drives interact with the broader system, the project aims to unlock new ways to design and control quantum states across a range of experimental platforms, from solid-state materials to ultracold atomic gases.\r\n\r\nIn addition to its scientific contributions, the project incorporates education, mentorship, and public engagement activities. Graduate and undergraduate students involved in the research will gain hands-on experience in advanced analytical and computational methods, preparing them for careers in the growing field of quantum science and technology, areas with strategic importance for national security and economic innovation. The PI also leads efforts to make cutting-edge physics more accessible through open-access publishing, online research forums, and public science events, such as Indiana University\u2019s Science Fest, inspiring the next generation of scientists and promoting broader public understanding of science.\r\n\r\nTECHNICAL SUMMARY\r\nThis award supports theoretical and computational research and education to investigate a promising approach to dynamical control of quantum systems. While periodic drives to control quantum properties, Floquet engineering, have shown promise in both theoretical and experimental settings for realizing nontrivial phases of many-body quantum systems, uncontrolled heating and decoherence pose significant challenges to their use. Most previous work has focused on global, uniform drives applied across the entire system. Motivated to limit heating, this project explores a different strategy by focusing on local drives. The overarching goal of this project is to develop the theoretical framework necessary to understand, characterize, and design such locally driven quantum systems.\r\n\r\nThe research is organized around three core aims that explore different realizations of local driving: 1) Floquet boundary drives, in which the confining edges of the system are periodically modulated; 2) Floquet proximity effects, where the interface between two equilibrium systems is coherently driven; and 3) Local quench dynamics in Floquet topological phases, where a driven topological system is coupled at its boundary to a trivial equilibrium system. These investigations will employ both analytical and computational methods, including Floquet Green\u2019s functions, Floquet perturbation and mean-field theories, and exact diagonalization methods. The results are expected to provide new insight into the interplay between topology and nonequilibrium dynamics of driven quantum systems, offer new perspectives on transient dynamics and potentially new thermodynamic principles of locally driven quantum systems, and establish design principles for their future applications in synthetic quantum matter and quantum technologies across a range of experimental platforms, such as solid-state materials, cold atoms, trapped ions, and optical cavities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Babak",
+   "pi_last_name": "Seradjeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Babak Seradjeh",
+   "pi_email_addr": "babaks@indiana.edu",
+   "nsf_id": "000621621",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Indiana University",
+  "inst_street_address": "107 S INDIANA AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BLOOMINGTON",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "3172783473",
+  "inst_zip_code": "474057000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IN09",
+  "org_lgl_bus_name": "TRUSTEES OF INDIANA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YH86RTW2YVJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Indiana University",
+  "perf_str_addr": "727 E 3rd St",
+  "perf_city_name": "BLOOMINGTON",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "474057105",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 295279.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2451680",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STTR Phase I: Accelerating Molecular Dynamics using Coarse-Grained Neural Network Potentials",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924392",
+ "po_email": "amonk@nsf.gov",
+ "po_sign_block_name": "Alastair Monk",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to revolutionize drug discovery by accelerating molecular dynamics simulations through advanced AI techniques. This project aims to reduce drug development timelines by 2-5 years and cut costs by $300 million to $1 billion per approved drug. By enhancing the speed and accuracy of simulations, this technology will enable faster screening of potential drug candidates, improving the prediction of drug efficacy and side effects, and potentially increasing clinical trial success rates by 20-30%. The innovation will enhance scientific understanding by revealing previously unknown protein conformations and binding sites, potentially leading to breakthroughs in personalized medicine and treatments for rare diseases. The market opportunity lies in the pharmaceutical industry, where the technology can provide a competitive advantage by significantly reducing the time and cost of drug development. The business model involves service to pharmaceutical companies, with potential annual revenues projected to reach $2-5 million by year three of production, targeting the initial market segment of pharmaceutical companies focused on rare diseases and personalized medicine.\r\n\r\nThis Small Business Technology Transfer (STTR) Phase I project addresses the limitations of current molecular dynamics simulations, including insufficient sampling, model inaccuracies, and complex data interpretation. The research objectives of this project are to develop a robust neural network model capable of simulating protein systems up to 500 times faster than current Graphics Processing Unit-based classical Molecular Dynamic simulators while maintaining accuracy and stability. The proposed research combines four key advancements: enhanced coarse-grained mapping to reduce inherent noise in atomic forces, advanced energy matching techniques for estimating absolute free energies, active learning for continuous model refinement, and Hessian matching for improved interpolation and extrapolation capabilities. The project involves rigorous mathematical derivations, extensive data generation, and iterative model improvements to overcome technical challenges including hidden entropy contributions and the need for comprehensive training datasets. The anticipated technical results include a platform that significantly accelerates drug discovery processes, enabling the exploration of rare molecular events and complex biological systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ashwin",
+   "pi_last_name": "Lokapally",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ashwin Lokapally",
+   "pi_email_addr": "ashwin@giwotech.com",
+   "nsf_id": "000883943",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mohammed",
+   "pi_last_name": "Mostajo-Radji",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohammed A Mostajo-Radji",
+   "pi_email_addr": "mmostajo@ucsc.edu",
+   "nsf_id": "000864601",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "GIWOTECH INC.",
+  "inst_street_address": "100 MORRISSEY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6176851246",
+  "inst_zip_code": "021253300",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MA08",
+  "org_lgl_bus_name": "GIWOTECH INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ZM6ETFVNBES2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "GIWOTECH INC.",
+  "perf_str_addr": "100 MORRISSEY BLVD",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021253300",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MA08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150500",
+   "pgm_ele_name": "STTR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1718",
+   "pgm_ref_txt": "BIOINFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

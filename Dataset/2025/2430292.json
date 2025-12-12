@@ -1,0 +1,106 @@
+{
+ "awd_id": "2430292",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-BSF:CIF:Small:Graph Machine Learning With Non-Canonical Symmetries",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 568008.0,
+ "awd_amount": 568008.0,
+ "awd_min_amd_letter_date": "2024-11-20",
+ "awd_max_amd_letter_date": "2024-11-20",
+ "awd_abstract_narration": "In many applications, data is expressed in terms of graphs (e.g., molecules or social networks), and those graphs are typically expressed as matrices or lists of edges and nodes for processing purposes. However, the representation of a graph as a matrix or list is not unique, and the non-uniqueness can be expressed as symmetries that machine-learning models on graphs should respect. Namely, the predictions of the model on two matrices that represent the same graph should be consistent. This is a classical idea and the fundamental concept behind the field of geometric deep learning. This project claims that one key factor that determines the computational capabilities of current graph neural networks (GNNs) is the choice of the data representation and its symmetries. Hence, in order to explore new computational capabilities, new ways to express graphs are proposed (called non-canonical representations), with new forms of approximate symmetries (non-canonical symmetries), and corresponding approximately symmetry-preserving GNNs (non-canonical GNNs). The design of these non-canonical GNNs is inspired by applications in social networks, spatiotemporal graphs such as traffic networks, and graphs arising from complex material design. The project includes collaborations with chemical engineers in the application of these models to protein and macromolecule design. In addition, this project will have an impact on many diversity outreach and educational activities, including mentoring Baltimore City public high-school students, and outreach and mentoring efforts targeting groups historically underrepresented in applied mathematics and computer science.\r\n\r\nThe project will explore the development of novel non-canonical representations, symmetries, and GNNs, as well as their applications. The research activities are divided into three main tasks: (1) The design of a non-canonical representation that expresses any graph as a combination of finitely many intersecting cliques or communities. The goal is to define a scalable representation and efficient data-processing algorithms. Applications to very large graphs, like social networks, will be considered. (2) The development of a procedure for fitting coarse piecewise-constant templates to graphs, using the structure of the templates to design non-canonical GNNs that are sensitive to the large-scale structure of the graph. This method is expected to shine in domains where sensitivity to large scale is important, such as classification of proteins or shapes, molecular dynamics, and predictions on traffic and power networks. (3) The design of methods that exploit symmetries of the graph in the spectral domain. The main applications will be molecular dynamics and spatiotemporal graphs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Soledad",
+   "pi_last_name": "Villar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Soledad Villar",
+   "pi_email_addr": "svillar3@jhu.edu",
+   "nsf_id": "000793672",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7936",
+   "pgm_ref_txt": "SIGNAL PROCESSING"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 568008.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2515046",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Engineering principles for sustainable organic electrode materials",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032922418",
+ "po_email": "cread@nsf.gov",
+ "po_sign_block_name": "Carole Read",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 512568.0,
+ "awd_amount": 512568.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Lithium-ion batteries are among the most widely used energy storage systems powering modern electronics, from smartphones to electric vehicles. However, their production depends on limited and unsustainably sourced transition metals like lithium and cobalt, which pose long-term challenges for cost and environmental impact. This research project aims to develop new organic electrode materials as sustainable alternatives for energy storage in batteries. These materials are composed of earth-abundant elements such as carbon, nitrogen, oxygen, and sulfur, offering a more economical and environmentally friendly path to renewable energy solutions. In addition to advancing sustainable battery technology, the project will provide hands-on training for graduate students in artificial intelligence, organic synthesis, and electrochemistry. The educational aims include developing a laboratory exercise for an undergraduate general chemistry course that will introduce students to connections between electrochemistry and environmental water quality testing and a mentoring program for these students which connects them with peer tutors and includes an outreach program to engage middle school students in Columbus, Ohio through interactive science activities. \r\n\r\nOrganic electrode materials represent a promising and sustainable alternative to transition metal\u2013based cathodes and anodes in lithium-ion batteries. However, the practical implementation of organic electrode materials remains limited due to their high synthetic costs, sloped or multi-step voltage profiles, and poor electronic conductivity. Currently, the discovery of these materials relies heavily on slow, trial-and-error experimental screening. This project aims to accelerate organic materials development through the development of SPARKLE (Symbolic Predictive Algorithm for Recognizing Key Molecular Elements), an interpretable, multi-objective machine learning tool. In Aim 1, the research will develop a multi-objective predictive model within the SPARKLE framework that evaluates candidate organic electrode materials based on solubility, specific energy, and synthetic accessibility. Aim 2 will extend SPARKLE's application to non-aqueous battery systems, including lithium-ion and magnesium-ion batteries. Finally, in Aim 3, the project will develop a new SPARKLE module capable of predicting organic material electrode performance under low conductive carbon loading conditions, with the goal of designing electrode materials that require less than 10% carbon additive while retaining high specific capacity. This systematic study will ultimately reveal unintuitive design principles for new organic electrode materials and enable more focused research efforts, replacing extensive trial-and-error screening.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joel",
+   "pi_last_name": "Paulson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joel Paulson",
+   "pi_email_addr": "paulson.82@osu.edu",
+   "nsf_id": "000817101",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shiyu",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shiyu Zhang",
+   "pi_email_addr": "zhang.8941@osu.edu",
+   "nsf_id": "000789467",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "OHIO STATE UNIVERSITY, THE",
+  "inst_street_address": "1960 KENNY RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBUS",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "6146888735",
+  "inst_zip_code": "432101016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OH03",
+  "org_lgl_bus_name": "OHIO STATE UNIVERSITY, THE",
+  "org_prnt_uei_num": "MN4MDDMN8529",
+  "org_uei_num": "DLWBSLWAJWR1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Ohio State University",
+  "perf_str_addr": "151 W. Woodruff Avenue",
+  "perf_city_name": "COLUMBUS",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "432101350",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OH03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "764400",
+   "pgm_ele_name": "EchemS-Electrochemical Systems"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 512568.0
+  }
+ ],
+ "por": null
+}

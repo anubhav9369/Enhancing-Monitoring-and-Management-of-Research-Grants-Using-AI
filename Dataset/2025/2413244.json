@@ -1,0 +1,162 @@
+{
+ "awd_id": "2413244",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "Research Infrastructure: NSF Mid-scale RI-2: Open Multimodal AI Infrastructure to Accelerate Science",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 75000000.0,
+ "awd_amount": 18113645.0,
+ "awd_min_amd_letter_date": "2025-08-13",
+ "awd_max_amd_letter_date": "2025-08-13",
+ "awd_abstract_narration": "Language models with billions of possible adjustments and trained on trillions of words are now powering the fastest-growing computing applications in history. Large Language models (LLM) are built using massive amounts of text, usually obtained by pulling data from multiple sources on the internet. Recent advances enable these models to process other kinds of data, including images, graphs and tables. Models with these abilities are known as multimodal LLMs. The best-performing LLMs currently deployed are proprietary, so their parameters, training data, code and documentation are not openly available. Thus, most artificial intelligence (AI) scientists cannot study, experiment directly with, or improve these state-of-the-art models. This project \u2013 Open, Multimodal Artificial Intelligence (OMAI) - will provide infrastructure in the form of a suite of powerful, well-documented, up-to-date, open models, and open-source interfaces designed for scientific work. Scientists will be able to access the models, use discipline-specific data and optimize the models. The project empowers researchers, provides documentation to accelerate research and education, and has an active program in early-career training to advance US economic and scientific competitiveness. In addition, opportunities provided through partnerships with a range of institutions and programs will enhance training. The long-term plan is to make the infrastructure available as a low- or zero-cost service to the research community in a manner like open-source code repositories and science-focused digital libraries, to maximize usage.\r\n\r\nThe OMAI research infrastructure consists of a series of open, multimodal language models kept up to date with recent scientific publications and open-source application programming interfaces that enable scientists to use, expand, and modify those models. It addresses priorities set forth in the White House AI Action Plan (https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) to accelerate AI-enabled science and ensure the United States is producing the leading open models. The infrastructure aims to accelerate scientific discovery across disciplines ranging from materials to protein function prediction and weather models. It will also enable new understanding and improvement of future LLMs while contributing to the development of a well-trained workforce capable of building, customizing, and maintaining such models. In allowing researchers to fine tune the models, researchers can optimize performance and understand design decisions that influence training speed and stability, which can impact the short-term and long-term economic costs of LLM development. The project emphasizes reproducibility, transparency, open data, open and evolving evaluations, multimodality, and scientific use-cases. It will enable a broad population of scientist-users across all disciplines to use and adapt artificial intelligence models to their own needs and lays the foundation for future research in AI for science. By supporting work in these novel, critical research areas, OMAI can ultimately benefit both science and the public.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Noah",
+   "pi_last_name": "Smith",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Noah A Smith",
+   "pi_email_addr": "nasmith@washington.edu",
+   "nsf_id": "000228357",
+   "pi_start_date": "2025-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hanna",
+   "pi_last_name": "Hajishirzi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hanna Hajishirzi",
+   "pi_email_addr": "hannaneh@uw.edu",
+   "nsf_id": "000634179",
+   "pi_start_date": "2025-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Travis",
+   "pi_last_name": "Mandel",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Travis S Mandel",
+   "pi_email_addr": "tmandel@hawaii.edu",
+   "nsf_id": "000805779",
+   "pi_start_date": "2025-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sarah",
+   "pi_last_name": "Dreier",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sarah K Dreier",
+   "pi_email_addr": "skdreier@unm.edu",
+   "nsf_id": "000834749",
+   "pi_start_date": "2025-08-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Samuel",
+   "pi_last_name": "Carton",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Samuel Carton",
+   "pi_email_addr": "samuel.carton@unh.edu",
+   "nsf_id": "000896921",
+   "pi_start_date": "2025-08-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+  "inst_street_address": "2157 N NORTHLAKE WAY STE 110",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "4152250940",
+  "inst_zip_code": "981039185",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2VSQE9MCUU5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+  "perf_str_addr": "2157 N NORTHLAKE WAY STE 110",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981039185",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "109Y00",
+   "pgm_ele_name": "Mid-scale RI - Track 2"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8812",
+   "pgm_ref_txt": "Midscale Research Infrastruct"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "05AFPYXXDB",
+   "fund_name": "NSF MAJOR RESEARCH EQUIPMENT",
+   "fund_symb_id": "040551"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "0500CYXXDB",
+   "fund_name": "NSF MAJOR RESEARCH EQUIPMENT",
+   "fund_symb_id": "040551"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "05002526DB",
+   "fund_name": "NSF MAJOR RESEARCH EQUIPMENT",
+   "fund_symb_id": "040551"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 18113645.0
+  }
+ ],
+ "por": null
+}

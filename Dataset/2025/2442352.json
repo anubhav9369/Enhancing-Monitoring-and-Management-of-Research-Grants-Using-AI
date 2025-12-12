@@ -1,0 +1,114 @@
+{
+ "awd_id": "2442352",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER:  Noise-free scalable quantum photonics with silicon carbide",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922980",
+ "po_email": "ddagenai@nsf.gov",
+ "po_sign_block_name": "Dominique Dagenais",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2025-09-11",
+ "awd_abstract_narration": "Quantum physics provides a powerful framework for exploring the natural world and creating transformative technologies. However, current quantum platforms are small, noisy, and isolated. This proposal seeks to overcome these challenges by developing scalable, coherent, and networked quantum systems based on optically active spin qubits in silicon carbide (SiC). These qubits emit photons that enable long-distance entanglement for quantum communication, while solid-state photonic integrated circuits offer a scalable and manufacturable approach to building quantum devices. The unique advantages of photons: high-speed, low-loss transmission and room-temperature operability\u2014 make them ideal quantum information carriers, unlocking applications such as unhackable secure networks, distributed sensors, and modular quantum computing. The educational and outreach components of this project are synergistic, developing new activities for middle school students, at the interface of materials engineering and quantum science \u2014 combined with efforts to expand the quantum ecosystem. As a result, recruitment and retention of students will be improved, shoring up the leaky pipeline to STEM careers.\r\n\r\nThe proposed research addresses a grand challenge in quantum photonics: coupling optically active quantum states to scalable photonic platforms while minimizing decoherence caused by device integration. Noise and decoherence, arising from multidisciplinary phenomena at the bulk and interfaces of solid-state materials, are fundamental obstacles across all quantum technologies. This work aims to develop a novel approach to suppress bulk and surface noise in solid-state quantum systems, enabling coherent qubits in devices operating near noisy interfaces. Our research will pave the way for wafer-scalable, 4 K operable spin-photon interfaces in thin-film silicon carbide (SiC). By creating in-house silicon carbide on insulator (SiCOI) substrates, we will fabricate photonics compatible lateral p-i-n devices and investigate the optical coherence of near-surface emitters, enhanced through semiconductor depletion. Additionally, we will develop existing alternate defect candidates enabled by photonic integration and explore recent proposals for experimentally unexplored defect qubits. Finally, we will demonstrate the first on-chip entanglement of optically active spin qubits in SiC by interfering photons emitted from two isolated emitters in separate SiCOI waveguides, providing the foundation for scalable quantum photonics with SiC.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Anderson",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher P Anderson",
+   "pi_email_addr": "cpand@illinois.edu",
+   "nsf_id": "000957032",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

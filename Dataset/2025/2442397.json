@@ -1,0 +1,126 @@
+{
+ "awd_id": "2442397",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Theory and methods to understand and predict how heterogeneous population structure shapes evolutionary dynamics",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 865988.0,
+ "awd_amount": 323642.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Living systems, from cancer cells to microbial colonies and human populations, are inherently spatial, meaning that individuals interact within complex networks of relationships. However, current theory attempting to understand and predict the future evolution of these systems largely overlooks this spatial complexity. This project will build new, more realistic frameworks to understand how the intricate \"shape\" of biological populations, such as their patterns of interaction and reproduction, influences their future evolution. This includes studying how quickly mutations spread, how pathogenic populations expand and how organisms adapt to new treatments and environments. By combining cutting-edge mathematics, computational tools, and data from real biological systems, the project will create open-source software and visualization tools to help researchers interpret emerging, highly detailed spatial datasets. These tools will provide a foundation for studying evolutionary dynamics in spatially structured populations across diverse areas, including cancer progression, aging and microbial ecosystems. The project also emphasizes education and public engagement, incorporating interactive visualizations and undergraduate and graduate research experiences to make complex evolutionary concepts accessible and inspiring to a broad audience and train the future US scientific and industrial workforce. \r\n\r\nAt a technical level, the project develops novel mathematical and computational models to study evolution in populations with complex spatial topologies, going beyond traditional assumptions of symmetry and homogeneity in the arrangement of individuals in a population. Key research objectives include modeling and understanding the role of heterogeneous spatial structure in shaping the competition between beneficial mutations, how populations cross rugged fitness landscapes, and understanding its effects on the genetic hitchhiking of neutral mutations on the background of advantageous ones. The project introduces new metrics to quantify how the topological properties of population structure amplify or suppress natural selection and affect the speed of evolutionary change. These models and topological metrics will then be used to develop inference tools for estimating the evolutionary forces shaping observed genetic data. A major innovation of the project is the creation of algorithms and tools to compare, compress, and visualize spatial population structures, providing both theoretical insights and practical applications for interpreting evolutionary processes in real-world biological systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Oana",
+   "pi_last_name": "Carja",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Oana Carja",
+   "pi_email_addr": "ocarja@andrew.cmu.edu",
+   "nsf_id": "000860520",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 323642.0
+  }
+ ],
+ "por": null
+}

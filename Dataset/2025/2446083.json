@@ -1,0 +1,93 @@
+{
+ "awd_id": "2446083",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CS2: DANUBE: Formal Methods for Scientific Computing Bridging the Data-Numerics Behavior Tug-of-War",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2029-03-31",
+ "tot_intn_awd_amt": 366160.0,
+ "awd_amount": 366160.0,
+ "awd_min_amd_letter_date": "2025-04-11",
+ "awd_max_amd_letter_date": "2025-04-11",
+ "awd_abstract_narration": "Computer simulations are central to science and engineering activities across tasks as varied as weather prediction and electrical grid optimization. Simulation relies on numerical solvers whose continued improvements in terms of speed and accuracy are of pivotal national importance. Unfortunately, the progress of solvers is hampered by two emerging challenges: (1) the problems being modeled and solved, including their data captured through matrices, are becoming numerically harder, causing many solvers to fail; (2) newer arithmetic hardware, increasingly second-purposed from those developed to support artificial intelligence (AI), ends up having suboptimal precision while also deviating from established numerical standards. The project's novelties are: (1) the development of practical formal methods that are capable of capturing the correctness expectations of numerical algorithm designers as formal requirements; (2) the development of formal models capable of modeling non-standard hardware while bridging their behavioral differences to present uniform higher level formal abstractions; and (3) methods to carry out end-to-end correctness verification that help establish that the formal models of the underlying hardware meet the numerical algorithm correctness requirements. The project's contributions will help advance the nation's simulation-based scientific exploration capabilities. It will also help recoup the investments already made in today's numerical solvers, allowing them to be easily and reliably adapted to new problems and hardware. Without these capabilities, scientific computing and data-enabled discoveries can experience multiple productivity gaps, negatively impacting scientific research and engineering advances. The project will also train students to have the debugging skills necessary to solve numerical issues arising in the context of future solver design and deployment.\r\n\r\nThis project handles data hardness using iterative refinement algorithms that are followed by the linear algebra routines underlying linear solvers. These algorithms can be verifiably guarded by novel formal properties that stem from how the problem eigenvalues appear in the problem\u2019s data matrices. This project's techniques adapt the numerical hardware to pre-existing solvers (and their assumptions) and help develop new solvers that employ mixed numerical precision schemes during iterative refinement. These adaptations will be aided by novel emulation schemes that help match and formally verify numerical precision, rounding rules, and floating-point exception handling rules. The goals of these techniques are to resolve the \"Data/Numerics Tug of War\" so that each solver developer obtains their preferred starting point: from algorithms down to hardware or vice-versa. This project will contribute key scientific principles and algorithms to support future research and development activities in adapting solvers to newer hardware. It will have a broad impact, including (1) sustain established solvers across new generations of hardware and (2) solve numerical issues that arise when solvers and optimizers used in AI are enhanced to handle larger scale and newer problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sreepathi",
+   "pi_last_name": "Pai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sreepathi Pai",
+   "pi_email_addr": "sree@cs.rochester.edu",
+   "nsf_id": "000754624",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rochester",
+  "inst_street_address": "910 GENESEE ST",
+  "inst_street_address_2": "STE 200",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5852754031",
+  "inst_zip_code": "146113847",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "UNIVERSITY OF ROCHESTER",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F27KDXZMF9Y8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rochester",
+  "perf_str_addr": "910 GENESEE ST",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146113847",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "307Y00",
+   "pgm_ele_name": "Correct SciComp Systems (CS2)"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 366160.0
+  }
+ ],
+ "por": null
+}

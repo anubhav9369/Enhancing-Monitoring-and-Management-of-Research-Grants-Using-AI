@@ -1,0 +1,126 @@
+{
+ "awd_id": "2504073",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "III: Medium: Human-in-the-loop Visual AI for Precise Scientific Measurement",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 999967.0,
+ "awd_amount": 999967.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Artificial intelligence (AI) is revolutionizing scientific discovery by enabling researchers to analyze large and complex datasets that are otherwise beyond the reach of traditional methods. However, AI is not without limitations\u2014it can introduce systematic errors, make unacceptable mistakes, and often lacks the statistical guarantees that scientists require. This project aims to unlock the full potential of AI in scientific research by developing techniques that integrate imperfect AI models with human-in-the-loop feedback and rigorous statistical estimation. These methods will enable high-throughput, high-precision scientific measurements with quantified uncertainty from large-scale datasets. The work will be grounded in four high-impact applications spanning environmental science and sensing\u2014using data from satellite imagery, radar, acoustics, and sonar. By systematically evaluating the approach in real-world settings, this project will help expand scientists\u2019 ability to use AI responsibly and effectively for discovery and decision-making in areas such as environmental monitoring and disaster response. The project will support interdisciplinary training for PhD students and undergraduate researchers by incorporating its research themes into undergraduate and graduate courses, designing course projects that address real-world challenges in deploying AI, and organizing community workshops that amplify the impact of AI in scientific domains.\r\n\r\nThe project will develop a new framework called active measurement, which combines imperfect AI predictions with targeted human feedback to produce unbiased, statistically grounded estimates of scientific quantities. Active measurement integrates Monte Carlo estimation of a scientific quantity into the full life-cycle of interactive AI model development. Unlike previous approaches, active measurement is fully adaptive: it can dynamically select samples for humans to label and update the underlying models when resources are available. The research will investigate new methods for improving computer vision models and adapting them to novel domains using limited human input, including (1) actively constructing validation sets to improve domain adaptation, and (2) a general-purpose vision model that can be efficiently adapted to specific measurement tasks using examples and text-based guidance. The approach will be deployed and evaluated in collaboration with experts from academia, government agencies, and NGOs, across four domain applications: ecological monitoring, habitat mapping, acoustic wildlife detection, and disaster impact assessment. These efforts will validate the statistical rigor, scalability, and generalizability of the methods for scientific and policy-relevant use cases.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Subhransu",
+   "pi_last_name": "Maji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Subhransu Maji",
+   "pi_email_addr": "smaji@cs.umass.edu",
+   "nsf_id": "000699819",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Sheldon",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel R Sheldon",
+   "pi_email_addr": "sheldon@cs.umass.edu",
+   "nsf_id": "000515483",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Grant",
+   "pi_last_name": "Van Horn",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Grant Van Horn",
+   "pi_email_addr": "gvanhorn@umass.edu",
+   "nsf_id": "000844605",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 999967.0
+  }
+ ],
+ "por": null
+}

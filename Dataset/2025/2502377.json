@@ -1,0 +1,134 @@
+{
+ "awd_id": "2502377",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MFAI: Any-Dimensional Equivariant Learning",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "Modern artificial intelligence (AI) systems provide a versatile toolkit for identifying solution maps for a variety of problems in a data-driven fashion -- some prominent application domains include imaging, signal processing, recommendation systems, and partial differential equations. In this paradigm, one is given a training dataset consisting of input-output -- inputs representing problem instances and outputs representing solutions -- and the objective is to learn a solution map that can be applied to future test inputs. For example, in image classification, the inputs correspond to images, and the outputs correspond to labels indicating the presence or absence of a person. While remarkably successful, a major drawback of this paradigm concerns the size or dimension of the training examples. Specifically, one can expect the size of the input problem instances in the training set to be different from that of the problem instances encountered at test time; indeed, even expecting all the data in the training set to lie in the same dimension is often unreasonable. For example, when learning image classifiers, contemporary methods usually require the training set to consist of images of the same size. Moreover, the model trained cannot handle larger or smaller images. A more natural learning objective is to identify an algorithm instead -- a sequence of solution maps that gracefully handles inputs of increasingly larger size. This project advances a research program to learn such an algorithm from training data consisting of inputs of different sizes, allowing for learned algorithms to be deployed on inputs of any size (including those not present in the training set).\r\n\r\nTo achieve this goal, the project utilizes a framework based on representation theory that facilitates the specification of parameterized families of sequences of solution maps, i.e., parameterized families of algorithms, with the parameters given by invariants in a sequence of group representations. The learning problem identifies the best element from such a parameterized family to minimize training error. At test time, one can simply apply the solution map that takes in the dimension of the test instance. Central to this development is the recently identified phenomenon of representation stability in the algebraic topology literature, which provides the mathematical underpinning of the framework. The project tackles approximation-theoretic, statistical, and computational research questions that arise from our framework, along with high-impact applications to imagining inverse problems and protein folding. The framework will provide a mathematical basis for training AI systems on low-dimensional training data while still being applicable to high-dimensional test data, thus offering the possibility of significant energy savings and making ML systems more sustainable. Furthermore, the research is integrated with a comprehensive educational component. The principal investigators will mentor high school students through the Johns Hopkins Center for Educational Outreach and undergraduates through the Caltech Student-Faculty Programs Office.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mateo",
+   "pi_last_name": "Diaz Diaz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mateo Diaz Diaz",
+   "pi_email_addr": "mateodd@jhu.edu",
+   "nsf_id": "000963642",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Venkat",
+   "pi_last_name": "Chandrasekaran",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Venkat Chandrasekaran",
+   "pi_email_addr": "venkatc@caltech.edu",
+   "nsf_id": "000618011",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jeremias",
+   "pi_last_name": "Sulam",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeremias Sulam",
+   "pi_email_addr": "jsulam1@jhu.edu",
+   "nsf_id": "000815626",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  },
+  {
+   "pgm_ele_code": "748400",
+   "pgm_ele_name": "IIS Special Projects"
+  },
+  {
+   "pgm_ele_code": "287800",
+   "pgm_ele_name": "Special Projects - CCF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

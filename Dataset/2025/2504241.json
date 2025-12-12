@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504241",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Medium: Language-guided Haptic Texture Modeling and Signal Generation",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": null,
+ "po_email": "",
+ "po_sign_block_name": "Thomas Martin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 850000.0,
+ "awd_amount": 850000.0,
+ "awd_min_amd_letter_date": "2025-07-19",
+ "awd_max_amd_letter_date": "2025-07-19",
+ "awd_abstract_narration": "This project seeks to make it easier for designers to add realistic and expressive touch sensations (i.e., haptic feedback), such as vibrations and textures, to digital experiences such as virtual reality, gaming, smartphones, and medical training systems. Currently, creating effective haptic feedback requires specialized knowledge in areas like human perception, data processing, and haptic hardware, which limits who can design these experiences. This research aims to lower those barriers by developing tools that allow designers to use everyday language, such as the descriptions \"a rough brick wall\" or \"a gentle heartbeat\", to guide the creation and refinement of haptic effects. By simplifying this process, this work could help expand the use of virtual touch in a wide range of applications and make designing interactive systems more accessible for a wide range of designers. The project will also produce open datasets and software tools that can be used by other researchers and developers. \r\n\r\nThis research will develop language-guided, iterative methods for generating haptic models, such as surface textures, and vibrotactile signals to enable human-AI co-creation of touch experiences. Building on prior work in iterative haptic texture modeling through evolutionary search, the project will integrate natural language processing techniques to allow designers to specify initial physical descriptions (e.g., \"a smooth ceramic tile\") and provide corrective language feedback (e.g., \"make it rougher\") to refine the models. The technical scope includes: (1) creating large, open datasets that pair physical object texture models and vibration signals with natural language annotations describing their properties or intended emotional valence; (2) designing a language-conditioned, interactive, generative framework that combines pretrained language models with haptic texture generation and search; and (3) conducting human-subject experiments to evaluate the efficiency, expressiveness, and perceptual fidelity of the resulting authoring tools. Expected outcomes include new algorithms for language-conditioned haptic content generation, two publicly available datasets to accelerate future research, and empirical insights into language-guided sensory design. This work advances the state of the art in haptics and AI, and lays a foundation for broader applications in human-computer interaction where intuitive and accessible multimodal authoring is critical.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Heather",
+   "pi_last_name": "Culbertson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Heather Culbertson",
+   "pi_email_addr": "hculbert@usc.edu",
+   "nsf_id": "000769776",
+   "pi_start_date": "2025-07-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jesse",
+   "pi_last_name": "Thomason",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jesse Thomason",
+   "pi_email_addr": "jessetho@usc.edu",
+   "nsf_id": "000855557",
+   "pi_start_date": "2025-07-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3710 McClintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900891044",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 850000.0
+  }
+ ],
+ "por": null
+}

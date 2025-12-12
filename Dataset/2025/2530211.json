@@ -1,0 +1,98 @@
+{
+ "awd_id": "2530211",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Strong convergence of numerical methods for solving nonlinear stochastic PDEs",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 249956.0,
+ "awd_amount": 249956.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Many natural and engineered systems from weather patterns and ocean currents to biological processes, are governed by dynamics that are inherently uncertain or randomly influenced. Understanding these systems requires accurate simulation of complex equations that combine deterministic laws with random effects. Stochastic partial differential equations (SPDEs) provide the mathematical foundation for modeling such systems under uncertainty. One particularly important example is the stochastic Navier\u2013Stokes equation, a probabilistic counterpart of the classical equation that underpins our understanding of fluid turbulence and remains an unsolved Millennium Prize Problem. This project develops rigorous and reliable numerical methods to approximate solutions of such SPDEs, addressing a key national need: predictive simulation tools that can operate robustly in uncertain, noisy, or data-limited environments. By improving the reliability of simulations in fields such as weather science, energy systems, and aerospace engineering, this work supports the NSF mission to advance science, promote national prosperity, and prepare a skilled STEM workforce.\r\n\r\nTechnically, this project focuses on the development and analysis of finite element methods for nonlinear SPDEs with provable strong convergence. In particular, the research establishes error estimates in strong norms and investigates how solution regularity, noise structure, and discretization interact to determine convergence rates. The primary goal is to build mathematically rigorous tools for computing individual sample paths and quantities of stochastic interests, such as the expectation of solutions with quantifiable accuracy. Key applications include the stochastic Navier\u2013Stokes equation in fluid turbulence, stochastic Keller\u2013Segel systems modeling chemotaxis in biological systems, and stochastically forced nonlinear wave equations. By combining techniques from numerical analysis, stochastic calculus, and computational science, the project will contribute both foundational mathematical results and practical tools for uncertainty-aware simulations across scientific and engineering disciplines.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Liet",
+   "pi_last_name": "Vo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Liet Vo",
+   "pi_email_addr": "liet.vo@utrgv.edu",
+   "nsf_id": "0000A3HL2",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Texas Rio Grande Valley",
+  "inst_street_address": "1201 W UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "EDINBURG",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9566652889",
+  "inst_zip_code": "785392909",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "TX15",
+  "org_lgl_bus_name": "THE UNIVERSITY OF TEXAS RIO GRANDE VALLEY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L3ATVUT2KNK7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Texas Rio Grande Valley",
+  "perf_str_addr": "1201 W UNIVERSITY DR",
+  "perf_city_name": "EDINBURG",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "785392909",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "TX15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 249956.0
+  }
+ ],
+ "por": null
+}

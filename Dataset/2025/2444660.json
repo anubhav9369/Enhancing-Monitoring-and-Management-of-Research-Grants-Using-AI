@@ -1,0 +1,126 @@
+{
+ "awd_id": "2444660",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SaTC: CORE: Medium: Fortifying and Enriching Confidential Computing Environments",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 900000.0,
+ "awd_amount": 900000.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "Deploying applications on cloud servers is increasingly popular due to their cost-efficiency and ease of management. However, these servers are controlled by companies that users may hesitate to trust with sensitive data. To keep sensitive data safe, Confidential Computing Environments (CCEs) use a mix of secure hardware and software to protect data from the cloud platform's operating system and other untrusted software. While companies like Intel, ARM, and AMD have improved the hardware for these systems, the associated software remains insufficient to protect modern cloud applications completely. This project aims to solve this problem by designing better software, studying security weaknesses, and creating new ways to block attacks from malicious software. A central idea in our project is to \"hide\" real data by mixing it with extra, meaningless (\u201cnoise\u201d) data to confuse attackers. The research will test these solutions in different cloud setups for popular applications like AI training, recommendation systems, and data analysis tools. Securing cloud applications is a key challenge for computing, and our work, if successful, will positively impact the security of cloud computing platforms.\r\n\r\nConfidential Computing Environments (CCEs) leverage a combination of trusted hardware and software to protect application data confidentiality and control-flow integrity from untrusted operating systems (OSes) and hypervisors in public cloud settings. While the hardware component has already seen two generations of updates, the system software support remains immature and fails to meet the needs of emerging cloud applications for two main reasons. First, existing approaches fail to define the right boundary between the trusted software that must run within the CCE and the untrusted system software that runs outside it to manage resources and provide common system services across applications. This results in a hard tradeoff between application performance, functionality, and data confidentiality. Second, interactions across the boundary \u2014 between the trusted software within the CCE and the untrusted system software outside it \u2014 present several side channels that the untrusted software can leverage to learn sensitive application data. This project aims to overcome these challenges through principled system design, security analysis, and development of algorithmic defenses. Our research will study and establish the appropriate boundaries between software within and outside the CCE for the two primary data paths available to applications: memory and I/O. We will study the vulnerabilities via side-channel leakages available to the untrusted software by developing novel attacks and devise novel defenses against them using the principles of noise injection, i.e., by injecting spurious interactions over the side channels along with legitimate ones to obfuscate the adversarial observations. We will evaluate our approach across a range of deployment settings and real-world cloud applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anurag",
+   "pi_last_name": "Khandelwal",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anurag Khandelwal",
+   "pi_email_addr": "anurag.khandelwal@yale.edu",
+   "nsf_id": "000821722",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lin",
+   "pi_last_name": "Zhong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lin Zhong",
+   "pi_email_addr": "lin.zhong@yale.edu",
+   "nsf_id": "000189041",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Seung-seob",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seung-seob Lee",
+   "pi_email_addr": "seung-seob.lee@yale.edu",
+   "nsf_id": "0000A0G1R",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Yale University",
+  "inst_street_address": "150 MUNSON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW HAVEN",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "2037854689",
+  "inst_zip_code": "065113572",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "CT03",
+  "org_lgl_bus_name": "YALE UNIV",
+  "org_prnt_uei_num": "FL6GV84CKN57",
+  "org_uei_num": "FL6GV84CKN57"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Yale University",
+  "perf_str_addr": "51 Prospect Street",
+  "perf_city_name": "NEW HAVEN",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "065118937",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "CT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 900000.0
+  }
+ ],
+ "por": null
+}

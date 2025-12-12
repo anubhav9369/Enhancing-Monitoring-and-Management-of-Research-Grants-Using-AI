@@ -1,0 +1,102 @@
+{
+ "awd_id": "2527011",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: eMB: Multiscale Flagellar Dynamics in Complex Biological Fluids",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-08",
+ "awd_max_amd_letter_date": "2025-08-08",
+ "awd_abstract_narration": "Bacteria commonly swim through complex biological fluids like mucus, playing a crucial role in health and disease, from infections in the lungs to microbial imbalances in the gut. Understanding how bacteria move through biological fluids is the first step toward developing new ways to cure and prevent such infections. Many mathematical tools describing how microorganisms swim through fluids like water were developed in the 1950s-1970s. These foundational theories continue to be used today. However, mucus is a far more complex and challenging environment than water. It is composed of macromolecular proteins (mucins) that confer it viscoelastic properties, simultaneously flowing like a fluid, yet capable of recoiling like elastic solids. Mathematical tools for studying bacterial locomotion through such complex biological fluids are lacking. This research will combine mathematics, computer simulations, and laboratory experiments to create a more comprehensive picture of this process. It will first investigate the fluid mechanics of propulsion through complex fluids using a single bacterial flagellum. This will be followed by a study of how multiple flagella bundle together, a standard feature of many bacteria like E. coli. Finally, the collective behavior of large groups of bacteria in fluids like mucus will be investigated. Knowledge so gained will be instructive in the design of new medicines, the prevention of dangerous infections of mucosal surfaces, and in the management of stubborn biofilms.\r\n\r\n\r\nThe research focuses on bacterial flagellar propulsion in mucus, and in a better-controlled anisotropic, viscoelastic fluid: a lyotropic liquid crystal (LC). Using mathematical modeling and analysis, numerical simulations, and experiments, this project will address three interconnected problems. First, a novel slender body theory will be derived from first principles, alongside controlled experiments, to quantify the forces, flow fields, and resulting dynamics of individual bacterial flagella within a nematic LC environment. Theories will be tested against full numerical simulations of Ericksen-Leslie and Beris-Edwards model LC fluids. The first aim will be extended to encompass the coordinated behavior of multiple flagella forming helical bundles, a key aspect of bacterial locomotion. Finally, the emergent behavior and dynamics of many bacteria interacting within LCs will be modeled and analyzed, bridging the gap between individual flagellar mechanics and population-level phenomena. The expected outcomes include significant advances in our understanding of general fluid-structure interactions in complex biological media. The mathematical machinery developed will be applicable to a wide range of nearby problems in biology and engineering and will illuminate new mechanical aspects of evolutionary biology.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Saverio",
+   "pi_last_name": "Spagnolie",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Saverio E Spagnolie",
+   "pi_email_addr": "spagnolie@math.wisc.edu",
+   "nsf_id": "000514625",
+   "pi_start_date": "2025-08-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

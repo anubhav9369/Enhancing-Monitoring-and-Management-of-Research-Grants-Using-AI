@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451636",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: OAC: Intelligent Error Control for Multi-tier Progressive Data Management",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2027-02-28",
+ "tot_intn_awd_amt": 174965.0,
+ "awd_amount": 174965.0,
+ "awd_min_amd_letter_date": "2025-01-15",
+ "awd_max_amd_letter_date": "2025-01-15",
+ "awd_abstract_narration": "Advances in computing capability have led to huge improvements in the resolution and validity of scientific simulations, which has enabled science breakthroughs that were not possible in the past. With the sheer amount of data generated, analysis has become increasingly cumbersome due to the high cost of data storage, transmission, and computing. Error-controlled progressive data management frameworks have been designed to address such issues but have a number of limitations. To overcome these limitations, this project develops intelligent error control for the progressive data management framework on multi-tier storage systems. The effort advances next-generation data reduction and management techniques for advanced cyberinfrastructures, benefiting scientific users and expediting discoveries.\r\n\r\nThis project develops an efficient progressive data management framework that controls reconstruction errors in fine-grained areas. The framework optimizes the data retrieval mechanism based on the interplay between error control factors and I/O size. Such optimization is designed as a derivation-free heuristic searching algorithm to identify the satisfactory error control factors towards the minimal I/O. The framework supports adaptive tuning of error control factors through a surrogate-based model that can identify the best configurations tailored for every application under the constraints of error tolerance and quantities of interest preservation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jinzhen",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jinzhen Wang",
+   "pi_email_addr": "jwang96@charlotte.edu",
+   "nsf_id": "0000A0B1Z",
+   "pi_start_date": "2025-01-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Carolina at Charlotte",
+  "inst_street_address": "9201 UNIVERSITY CITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTE",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "7046871888",
+  "inst_zip_code": "282230001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NC12",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
+  "org_prnt_uei_num": "NEYCH3CVBTR6",
+  "org_uei_num": "JB33DT84JNA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Carolina at Charlotte",
+  "perf_str_addr": "9201 UNIVERSITY CITY BLVD",
+  "perf_city_name": "CHARLOTTE",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "282230001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NC12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "026Y00",
+   "pgm_ele_name": "CRII CISE Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174965.0
+  }
+ ],
+ "por": null
+}

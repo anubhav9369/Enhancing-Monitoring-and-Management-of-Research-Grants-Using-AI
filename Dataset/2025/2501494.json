@@ -1,0 +1,102 @@
+{
+ "awd_id": "2501494",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Advanced Analytical Methods for Geometric Perturbation Agility in RF Resonators",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 199904.0,
+ "awd_amount": 199904.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Radio-frequency (RF) resonators are essential hardware building blocks for many electronic systems that we frequently use almost every day, including wireless phones, satellite Global Positioning System (GPS), microwave ovens, and automobile radars. They are responsible for selecting the frequencies over which the system operates or for crafting its antenna radiation pattern. As the systems evolve from one generation to next, these RF resonators face the demand to become more agile, with reconfigurability to tune their frequencies on-the-fly during operation. Making them agile and efficient, however, is challenging under the current state of the art and the traditional design approach, which suffer from having a limited set of advanced mathematical tools at the RF design engineer's disposal. Because of this limitation, the RF design engineers have only been able to explore, optimize, and create design solutions from a relatively small subset out of the vast set of all possible design solutions. Specifically, the resonator\u2019s geometric shape or topology is often the key for controlling its operation, and yet the traditional methods have only explored a few elementary shapes, which are intuitive to understand and model with existing commercial tools. This project aims at leveraging advanced tools from applied mathematics and theoretical physics to explore and utilized more complex shapes which have thus-far been untapped for designing novel RF resonators. It will fundamentally change the way of designing RF resonators and enable the RF engineers to unlock previously unexplored geometrical shapes that can significantly boost the system performance. The new design tools will benefit traditional and emerging technologies across many industry sectors, including telecommunications and biomedicine. For example, it will help the next-generation wireless systems beyond 5G achieve more efficient use of spectrum while boosting capacity. The project will benefit the nation's economy by maintaining the US leadership position in advanced RF technologies, which are critical in many electronic systems used in civilian and defense applications. \r\n\r\nThe traditional design cycle for RF resonators using existing commercial tools relies on optimizing a certain objective function by tuning dimensional or material parameters, in the vicinity of a given initial design. Searching the solution space for new topologies or shapes is typically not part of this cycle. Shape perturbation and topological tuning can be enabled by utilizing powerful Lagrangian techniques that were recently developed by the Principal Investigator and collaborators, together with level-set mathematical techniques for the spectral analysis of the Helmholtz operator. This not only enables the creation of novel geometries with desirable efficiency and reconfigurability, but also allow the RF design engineers to use \"smart\" shapes that offset any incurred power losses due to tuning elements by improve topology and locally tailoring the paths of surfaces currents to minimize insertion losses. The project will categorize and catalogue the key features (spectral signature and operator eigenvalue distributions) of different families of shapes or topologies for the purposes of RF agility. This enables the RF design engineers to have an enhanced design cycle that starts by picking the most promising shape/topology, informed by the findings and tools created from this project to meet the device specifications, before further optimizing its dimensions and materials using standard commercial tools. The outcome of this project will advance the knowledge of designing RF resonators and have broader impacts in science and engineering.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adham",
+   "pi_last_name": "Naji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adham Naji",
+   "pi_email_addr": "anaji@scu.edu",
+   "nsf_id": "0000A12WN",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Santa Clara University",
+  "inst_street_address": "500 EL CAMINO REAL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CLARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4085544764",
+  "inst_zip_code": "950504776",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "CA17",
+  "org_lgl_bus_name": "PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YE8LRJWSY3K9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Santa Clara University",
+  "perf_str_addr": "500 EL CAMINO REAL",
+  "perf_city_name": "SANTA CLARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950504776",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199904.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442418",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Large-Scale Multi-Objective Learning: Novel Algorithms and Fundamental Theory",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 549999.0,
+ "awd_amount": 549999.0,
+ "awd_min_amd_letter_date": "2025-04-09",
+ "awd_max_amd_letter_date": "2025-09-15",
+ "awd_abstract_narration": "Many real-world AI and big data applications, including 5G networks, autonomous systems, healthcare, finance, recommendation engines, and large foundation models, frequently involve multiple, often competing objectives arising from complex environments, conflicting goals, and vast datasets encompassing different domains and modalities. Multi-objective optimization (MOO) provides a robust theoretical framework for navigating these challenges by identifying sets of solutions that represent the best trade-offs among objectives. Despite notable efforts toward conflict-avoidant MOO approaches, algorithmic and theoretical progress in large-scale, data-driven settings remains limited. This project aims to significantly advance the theoretical and algorithmic foundations of MOO, offering provably convergent and efficient stochastic, bilevel, and fairness-aware MOO algorithms. Its outcomes hold the promise of propelling MOO research to new heights, with broad impacts on both theory and practice across wireless communication networks, multi-agent transportation and robotics systems, recommendation systems, and foundation models. The research outcomes are integrated into education and outreach activities for K-12 educators, graduate, and undergraduate students through (i) summer camp for K-12 students, (ii) student supervision, (iii) Experiential Learning and Research (ELR) undergraduate activity, (iv) CSE Colloquium and Upbeat events, and (v) course development.\r\n\r\nThe research efforts are organized around three complimentary thrusts: (i) Thrust A focuses on developing new theoretical and algorithmic foundations for stochastic MOO; (ii) Thrust B focuses on proposing efficient and scalable multi-objective bilevel optimization (MOBO) algorithms, and further characterizes their convergence rates, iteration and sample complexities, and (iii) Thrust C aims to substantially advance MOO frameworks by incorporating innovative concepts of fairness that differ from existing approaches.  This project aims to establish a fundamental understanding of stochastic MOO, MOBO, and fairness-aware MOO, covering aspects such as optimality, convergence guarantees, iteration requirements, and oracle complexities. The proposed methods are validated in real-world applications, including (i) fair resource allocation in communication networks, (ii) visual action prediction for multi-agent systems, and (iii) multi-task learning to rank in recommendation systems. By significantly advancing the field of MOO, this work is expected to attract interest from multiple communities, including machine learning, statistics, information science, networking, communication, robotics, and bioinformatics. Moreover, the project fosters new interdisciplinary research directions that bridge these areas.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kaiyi",
+   "pi_last_name": "Ji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kaiyi Ji",
+   "pi_email_addr": "kaiyiji@buffalo.edu",
+   "nsf_id": "000917751",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Buffalo",
+  "inst_street_address": "520 LEE ENTRANCE STE 211",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "7166452634",
+  "inst_zip_code": "142282577",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "NY26",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "GMZUKXFDJMA9",
+  "org_uei_num": "LMCJKRFW5R81"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Buffalo",
+  "perf_str_addr": "520 LEE ENTRANCE STE 211",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "142282577",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "NY26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 549999.0
+  }
+ ],
+ "por": null
+}

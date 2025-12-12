@@ -1,0 +1,102 @@
+{
+ "awd_id": "2450832",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: CNS: Dynamic Network Congestion Control Mechanisms for Large-scale Disaggregated Storage Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 149999.0,
+ "awd_amount": 149999.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "Modern society relies heavily on large-scale data centers to deliver a wide range of services. To make these data centers more flexible and energy-efficient, industry is quickly adopting disaggregated storage systems (DSSs), where high-speed networks connect groups of compute devices to groups of storage devices. While this architecture improves scalability, its unique characteristics also create heavy traffic bursts, cause network congestion, waste bandwidth, and delay critical services. This project develops innovative, machine-learning-driven network congestion control algorithms tailored for DSSs, which will help data flow smoothly during peak demand, thereby reducing delays and energy consumption in next-generation data centers. The improved efficiency will enhance economic competitiveness, particularly for data-intensive applications areas such as artificial intelligence model training and data analytics.\r\n\r\nThis project confronts network congestion that arises when compute nodes access remote storage nodes in large-scale disaggregated storage systems (DSSs). It targets a suite of machine-learning-driven network congestion-control algorithms to provide extremely low latency and high network throughput across varied I/O profiles and network topologies. The technical scope follows four phased tasks: I/O Profile and Topology Analysis, Algorithm Design, Simulation and Implementation, and Comparative Evaluation. Simulations run on the Storage-Network Iterative Simulation (SNIS) platform that couples MQSim with Network Simulator 3, before validating the best designs using a real-world testbed. The evaluation includes benchmarking against leading rate-control, packet-scheduling, and machine-learning baselines. All code, traces, and evaluation scripts are provided as open-source, providing a reference toolkit for scalable, energy-aware data center network design.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "XIAOQIAN",
+   "pi_last_name": "ZHANG",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "XIAOQIAN ZHANG",
+   "pi_email_addr": "XIAOQIANZHANG@UNOMAHA.EDU",
+   "nsf_id": "000991234",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Nebraska at Omaha",
+  "inst_street_address": "6001 DODGE ST EAB 209",
+  "inst_street_address_2": "",
+  "inst_city_name": "OMAHA",
+  "inst_state_code": "NE",
+  "inst_state_name": "Nebraska",
+  "inst_phone_num": "4025542286",
+  "inst_zip_code": "681820001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NE02",
+  "org_lgl_bus_name": "UNIVERSITY OF NEBRASKA",
+  "org_prnt_uei_num": "FZRNFQTKADH1",
+  "org_uei_num": "FZRNFQTKADH1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Nebraska at Omaha",
+  "perf_str_addr": "6001 DODGE ST EAB 209",
+  "perf_city_name": "OMAHA",
+  "perf_st_code": "NE",
+  "perf_st_name": "Nebraska",
+  "perf_zip_code": "681820001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NE02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 149999.0
+  }
+ ],
+ "por": null
+}

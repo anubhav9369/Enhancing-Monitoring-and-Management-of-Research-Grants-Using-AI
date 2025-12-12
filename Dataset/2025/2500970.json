@@ -1,0 +1,122 @@
+{
+ "awd_id": "2500970",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: Data-Driven Sensitivity Modeling and Safe Control of an Innovative Peripheral Nerve Implant for Postural and Reactive Balance",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924760",
+ "po_email": "osokolsk@nsf.gov",
+ "po_sign_block_name": "Oleg Sokolsky",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "This project aims to assist people with spinal cord injury (SCI) in walking and maintaining balance. It uses a technique called Functional Electrical Stimulation (FES), where small electrical currents, when sent to the muscles, help them move. However, muscles using FES rapidly fatigue, making it hard to stay balanced or walk safely. Current FES technology requires transformative advancements that reduce or delay the fatigue onset using approaches that mimic electrical signaling like natural muscle signals sent by the brain. In this project, the research team will develop a new approach to send signals to the muscles through specially designed electrical wires that wrap around the nerves in the leg.  This will be done by creating innovative computer programs that control the new stimulation approach, similar to the approach used by the brain, which will help the muscles maintain force for a longer duration. The team will also develop and test new computer programs to maintain balance in people who have trouble standing after SCI. In the future, this could help them avoid falls, walk more safely, and assist critical limb or organ functions like picking things up or breathing. \r\n\r\nFunctional Electrical Stimulation (FES) is a promising technique for assisting gait and improving impaired postural balance in individuals with spinal cord injury (SCI). Unlike voluntary muscle contractions, FES-induced contractions quickly lose their ability to generate force. Current FES technology is ineffective in delaying muscle fatigue, causing force declines and insufficient limb forces that make it difficult to recover from significant balance or gait disturbances. This project aims to develop a new stimulation approach using a neural cuff electrode (NCE) that wraps directly around a peripheral nerve in the lower limb. The central objective is to create computationally efficient, data-driven methods for controlling the NCE implant and a hybrid exoskeleton to support balance function. In the first objective, the research team will use a low dimensional data-driven model created using stimulation inputs and sensitivity of various electrode configurations. The derived control strategy will be optimized to mimic a physiologically similar muscle recruitment order. Both the data-driven model and NCE control algorithms will be validated in a porcine model. In the second objective, the team will evaluate algorithms with theoretically proven safety guarantees that will allow postural and reactive balance using transcutaneous FES and a wearable exoskeleton. This project is expected to result in next-generation balance control technologies that can retrain impaired balance in people with SCI, reduce fall risk, and restore functional walking. Once successful, these algorithms may also be applied to support other critical motor functions after SCI, such as reaching, grasping, breathing, and bladder control.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nitin",
+   "pi_last_name": "Sharma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nitin Sharma",
+   "pi_email_addr": "nsharm23@ncsu.edu",
+   "nsf_id": "000649116",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "He",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "He Huang",
+   "pi_email_addr": "hhuang11@ncsu.edu",
+   "nsf_id": "000522896",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Amol",
+   "pi_last_name": "Yadav",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amol P Yadav",
+   "pi_email_addr": "apyadav@unc.edu",
+   "nsf_id": "0000A1BVY",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "1840 Entrepreneur Dr, EBIII 4212C",
+  "perf_city_name": "Raleigh",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276077115",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

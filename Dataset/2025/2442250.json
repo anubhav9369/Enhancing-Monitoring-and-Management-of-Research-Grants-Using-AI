@@ -1,0 +1,126 @@
+{
+ "awd_id": "2442250",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Improved Approximation Algorithms for Graph Problems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 691413.0,
+ "awd_amount": 412038.0,
+ "awd_min_amd_letter_date": "2025-01-13",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "Graphs are used to model transportation networks, social networks, the internet, and many other systems of major significance. A number of important computational problems naturally arise on these graphs. For example, one may wish to find the shortest route visiting all points \u2013 in other words, to solve the traveling salesperson problem. Unfortunately, this problem and many others like it are believed to be computationally intractable, requiring lifetimes of computation to solve exactly. However, in many cases, it is computationally tractable to find an approximate solution, such that the cost of the proposed solution is guaranteed to be not much worse than the best cost achievable. The guarantee is usually that the ratio of the cost of the generated solution to the cost of the best solution is at most some quantity, called the approximation factor. This proposal aims to find fast algorithms with low approximation factors, obtaining high-quality approximate solutions to such problems. The project also aims to increase participation in mathematics and computing via undergraduate research, an educational website, and an interdisciplinary course.\r\n\r\nMore specifically, the goal of this research is to develop new tools for approximating NP-hard graph problems and to improve our understanding of powerful techniques such as max entropy sampling and iterative rounding. Through studying these methods, this project will deepen the connections between approximation algorithms and other areas of computer science and math like graph theory, graph sparsification, and the geometry of polynomials. To pursue these goals, the investigator will focus on finding better approximation algorithms for several time-tested, fundamental graph problems including the traveling salesperson problem, its asymmetric variant, and a generalization of the minimum spanning tree problem known as k-edge-connected spanning subgraph (k-ECSS). All the problems considered are related to long-standing conjectures in mathematics and combinatorial optimization which will be examined alongside the algorithmic questions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nathan",
+   "pi_last_name": "Klein",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nathan W Klein",
+   "pi_email_addr": "nklei1@bu.edu",
+   "nsf_id": "000932793",
+   "pi_start_date": "2025-01-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 412038.0
+  }
+ ],
+ "por": null
+}

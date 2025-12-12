@@ -1,0 +1,126 @@
+{
+ "awd_id": "2443017",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Efficient Distance Sketching on Graphs with Geometric Structures",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 631027.0,
+ "awd_amount": 368187.0,
+ "awd_min_amd_letter_date": "2025-02-20",
+ "awd_max_amd_letter_date": "2025-02-20",
+ "awd_abstract_narration": "Distance computation and estimation are among the simplest tasks performed daily by billions of humans and machines worldwide. They are also crucial steps in various optimization algorithms including routing, network design, and information clustering. Compared to distances between higher-dimensional data in abstract spaces, distances in real-life networks possess additional structures which often lead to extremely efficient algorithms that are impossible to achieve otherwise. This project aims to develop novel methods to represent, compress, and sketch distances on networks when geometry is present. This is a timely response to the ever-growing need to summarize massive geometric data. By focusing on simple and practical algorithmic solutions, the project provides a useful toolbox for algorithm designers, addressing important open questions at the frontier of human knowledge. In addition, the integrated education and mentoring plan sets the goal to enhance mathematical literacy and critical thinking skills among local college and high-school students in the New Hampshire and Vermont area. \r\n\r\nGeometric constraints on graph metrics arise from the interaction between the graph and its ambient space that often comes with simple topological or Euclidean structures. The project focuses on various types of geometric metrics, such as planar distances, p-norms (i.e., a norm on suitable real vector spaces given by the pth root of the sum \u2013 or integral \u2013 of the pth-powers of the absolute values of the vector components) and their generalizations, and hop distances on geometric shapes. These metrics are common in applications like computer graphics, vehicle routing, and shape analysis, and they also appear implicitly in string editing in bioinformatics and configuration spaces in robotics. The main theme is to design a robust and versatile distance sketching toolbox using geometry, with a tradeoff option between accuracy and efficiency, while remaining lightweight in resource usage. The techniques are involved and rely on the interplay between different research fields, such as metric embeddings, topological graph theory, and geometric algorithms, aiming to study optimization from a graph partitioning perspective. These tools will then be used to tackle problems where current algorithmic solutions are inefficient, inaccurate, or nonexistent. The long-term goal is to provide a systematic way to examine distance-related problems, choose the most effective tools, and estimate resource usage before implementation.\r\n\r\nThis project is jointly funded by Algorithmic Foundations program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hsien-Chih",
+   "pi_last_name": "Chang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hsien-Chih Chang",
+   "pi_email_addr": "hsien-chih.chang@dartmouth.edu",
+   "nsf_id": "000887858",
+   "pi_start_date": "2025-02-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Dartmouth College",
+  "inst_street_address": "7 LEBANON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HANOVER",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6036463007",
+  "inst_zip_code": "037552170",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NH02",
+  "org_lgl_bus_name": "TRUSTEES OF DARTMOUTH COLLEGE",
+  "org_prnt_uei_num": "T4MWFG59C6R3",
+  "org_uei_num": "EB8ASJBCFER9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Dartmouth College",
+  "perf_str_addr": "7 LEBANON ST",
+  "perf_city_name": "HANOVER",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "037552170",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NH02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 368187.0
+  }
+ ],
+ "por": null
+}

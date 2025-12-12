@@ -1,0 +1,118 @@
+{
+ "awd_id": "2436980",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-SEMICON: Manufacturing USA: Plasticity-Induced Cu-Cu Bonding for Scalable 3D Chip Integration in Advanced Semiconductor Packaging",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924813",
+ "po_email": "sbukkapa@nsf.gov",
+ "po_sign_block_name": "Satish Bukkapatnam",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 280000.0,
+ "awd_amount": 280000.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "Recent advancements in artificial intelligence (AI) are driving an unprecedented need for higher interconnect density in 3D-stacked semiconductor chips, with interconnect pitches scaling less than 1 micrometer. However, such ultrafine-scales cannot be achieved using current microbump technology, necessitating the development of novel approach such as \u2018bumpless\u2019 hybrid bonding that enables simultaneous copper-to-copper (Cu-Cu) and dielectric-dielectric (SiO2-SiO2) bonding. Despite its potential for next-generation AI chips, critical knowledge gaps exist in the fundamental understanding of the bonding processes and mechanisms in hybrid bonding. This research study focuses on understanding and improving Cu-Cu bonding by leveraging compressive stress between Cu pads in contact during annealing. Additionally, this research looks to foster collaboration among academia, national laboratories, and industry, providing hands-on training for students through an integrated collaboration network, preparing them for the future semiconductor workforce. This study also explores methods to lower bonding annealing temperature and reduce total energy consumption in chip manufacturing. Hybrid bonding experiments will be conducted at a Test, Assembly, and Packaging (TAP) facility of AIM Photonics, a Manufacturing USA institute focused on advancing integrated photonic circuit manufacturing. \r\n\r\nThis research aims to develop optimal Cu-Cu bonding microstructures by correlating post-bonding microstructure developments with hybrid bonding performance. The outcome seeks to enable the scalability of Cu pads and pitch spacings to sub-micron scales, where each bonded pad may contain only one or a few grains. A small number of grains introduces variability in bond quality, as dominant grain orientations differ from pad to pad. It is hypothesized that two key mechanisms govern strong Cu-Cu bonding: (i) interdiffusion across the interface between adjoining Cu pads; (ii) plastic deformation (local yielding, creep). It is crucial to track Cu microstructure evolution in situ from pre-bonding to post-bonding states, which will be monitored using the white beam 3D X-ray microdiffraction source, with a sub-micron spatial resolution, at Argonne National Lab (ANL). Bonding performance will be correlated with mechanical (interfacial adhesion energy) and electrical (electromigration-EM) testing. EM testing will be further enhanced by in-situ stress measurements using X-ray microdiffraction at ANL, evaluating Cu-Cu interconnect reliability under current stressing. Key microstructural factors such as grain size, orientation, and boundary characteristics will be analyzed for their impact on scalable and reliable hybrid bonding. In addition, atomistic simulation will complement experimental efforts by modeling bonding mechanisms and integrity at the atomic scale. The findings look to guide the development of low-temperature, high-reliability hybrid bonding for 3D chip integration, thereby advancing semiconductor packaging and manufacturing efficiency.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Junghyun",
+   "pi_last_name": "Cho",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Junghyun Cho",
+   "pi_email_addr": "jcho@binghamton.edu",
+   "nsf_id": "000296496",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Binghamton",
+  "inst_street_address": "4400 VESTAL PKWY E",
+  "inst_street_address_2": "",
+  "inst_city_name": "BINGHAMTON",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6077776136",
+  "inst_zip_code": "13902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "L9ZDVULCHCV3",
+  "org_uei_num": "NQMVAAQUFU53"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Binghamton",
+  "perf_str_addr": "4400 VESTAL PKWY E",
+  "perf_city_name": "BINGHAMTON",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "139024400",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  },
+  {
+   "pgm_ref_code": "1444",
+   "pgm_ref_txt": "SURFACE ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "088E",
+   "pgm_ref_txt": "THERMALLY DRIVEN PROCESSES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 280000.0
+  }
+ ],
+ "por": null
+}

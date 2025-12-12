@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504512",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Medium: EPOD: Data Reduction for Science through Efficient Processing Without Decompression",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 765000.0,
+ "awd_amount": 765000.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Data reduction holds paramount importance in scientific endeavors and various data-intensive domains. This necessity is compounded by the unprecedented surge in data volume propelled by advancements in facilities and scientific research. Data compression stands as a prevalent method for data reduction. But prevailing solutions are hindered by a fundamental constraint: the  requirement for decompression prior to processing. This introduces three primary challenges: (i) heightened strain on storage and memory resources, (ii) potentially lengthy decompression times for sizable datasets leading to significant workflow delays, and (iii) sometimes loss of accuracy when applications are compelled to operate on partial data views for space shortage. Aiming to develop a set of novel programming and runtime techniques, this project will create Efficient Processing without Decompression (EPOD), a novel approach to data reduction by lossless data compression while maintaining direct processability (without decompression) in the compressed state. The success of the project is poised to yield significant impacts, potentially reducing data sizes in numerous domains by one or two orders of magnitude without quality loss, while concurrently expediting data processing by multifold. The technique will help accelerate scientific research as well as improve the efficiency and productivity in various data-intensive domains.\r\n\r\nTo develop the idea of EPOD into a new paradigm and solution for data reduction, this project includes five research activities: (i) developing the basic EPOD method and expanding its data coverage to floating-point datasets and so on; (ii) creating multi-level support of EPOD operations (i.e., data accesses or manipulations working directly on the EPOD compressed format) in forms of an EPOD library and a scalable large language model-based EPOD synthesizer; (iii) enabling continuous compression for streaming to make EPOD seamlessly integratable in streaming workflows of scientific facilities; (iv) developing advanced optimization of EPOD to maximize the efficiency and scalability; (v) integrating with existing data analytics ecosystem and complementary techniques and applications, and demonstrating the impact on a broad range of scientific domains and applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xipeng",
+   "pi_last_name": "Shen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xipeng Shen",
+   "pi_email_addr": "xshen5@ncsu.edu",
+   "nsf_id": "000180293",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Frank",
+   "pi_last_name": "Mueller",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Frank Mueller",
+   "pi_email_addr": "fmuelle@ncsu.edu",
+   "nsf_id": "000484031",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 765000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2450515",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DESC: Type I: Water- and Carbon-Aware Design of Chiplet-based Systems with Reconfigurability for AI in Datacenters",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927116",
+ "po_email": "sghafoor@nsf.gov",
+ "po_sign_block_name": "Sheikh Ghafoor",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "As artificial intelligence (AI) applications become increasingly central to our daily lives, the datacenters that serve these applications are growing rapidly. However, this growth comes with a significant environmental cost. These datacenters rely on computer chips whose design, manufacturing, and operation consume substantial amounts of energy, water, and resources, posing challenges to environmental sustainability. This project addresses this critical challenge by rethinking how we design computer chips that power AI in today\u2019s datacenters. Current chip design methodologies often overlook their full environmental footprint, particularly the water and energy impacts across the chip lifecycle. As AI workloads expand, these factors, especially in chip manufacturing and datacenter cooling, are becoming increasingly important to sustainable computing. This project directly addresses these challenges by introducing three key strategies for a sustainability-aware approach to chip design. First, this project develops new models, tools, and metrics to quantify the environmental footprint of chips throughout their lifecycle - from design and manufacturing to deployment and eventual end-of-life. It includes detailed modeling of water and energy consumption, particularly for chip fabrication and chip cooling. Second, the project introduces a framework for splitting large complex chips into small modular chiplets, and replacing them with reconfigurable chiplets allowing their reuse across multiple different AI applications. This increases their operation lifetime in datacenters reducing wastage and cost. Third, the project builds software to optimize chip floor planning and interconnect design to minimize cooling requirements, fabrication energy and environmental costs. This project supports NSF\u2019s mission to advance American innovation, economic prosperity, and global leadership in emerging technologies. It strengthens U.S. leadership in AI and datacenter infrastructure by developing advanced tools to design more efficient, cost-effective computer chips that power these systems. By reducing unnecessary energy and water use, the project improves operational efficiency and lowers costs which are key priorities for sustainable growth and resilient infrastructure. Additionally, it supports workforce development by engaging K\u201312 and community college students in applied learning experiences that prepare them for high-demand jobs in AI, semiconductors, and advanced manufacturing. \r\n\r\nThis project aims to develop a framework for designing computing chips for AI datacenters. The overarching goal is to minimize the environmental footprint (EFP), including both carbon footprint (CFP) and water footprint (WFP), across the lifecycle of computing - from design to manufacturing to use. The project is structured around three thrusts: (1) Developing models and metrics for evaluating EFP with a special emphasis of WFP, (2) Disaggregating Systems-on-Chip (SoCs) into chiplet-based SiPs with a focus on integrating Field Programmable Gate Array (FPGA) chiplets, and (3) Physical design of chiplet-based Systems-in-Package (SiPs) considering EFP as a metric of optimization. To support EFP-aware chip design, the project introduces new metrics, such as Performance-per-Unit-EFP, to guide architectural and physical optimizations. The modeling framework will extend beyond traditional CFP-based models by incorporating water usage in both semiconductor fabrication and datacenter cooling. A design-space exploration (DSE) framework will be developed using graph-based partitioning methods to decompose SoCs into SiPs. This DSE process will optimize across multiple objectives, including bandwidth, latency, and power, while minimizing overall EFP. Furthermore, the project will model the EFP impact of physical implementation choices, including placement, routing, and 3D stacking, and integrate these models into traditional place-and-route algorithms to enable EFP-aware physical design. This project pioneers the integration of EFP with tools and methodologies used for the architecture and design of future chips. By incorporating WFP, it expands the scope of current sustainable computing research. The open-source software for SoC disaggregation and EFP-aware physical design will help accelerate the adoption of sustainable design practices in the chip design industry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aman",
+   "pi_last_name": "Arora",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aman Arora",
+   "pi_email_addr": "aman.kbm@asu.edu",
+   "nsf_id": "000953730",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vidya",
+   "pi_last_name": "Chhabria",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vidya A Chhabria",
+   "pi_email_addr": "vachhabr@asu.edu",
+   "nsf_id": "000928009",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "242Y00",
+   "pgm_ele_name": "Sustainability in Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

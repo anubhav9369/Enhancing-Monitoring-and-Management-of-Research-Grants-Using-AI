@@ -1,0 +1,142 @@
+{
+ "awd_id": "2434739",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-SNSF: Simulating Fracture in Structural Steel Members through Fracture-Mechanics-Enriched Frame Elements",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927732",
+ "po_email": "lsneed@nsf.gov",
+ "po_sign_block_name": "Lesley Sneed",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 399915.0,
+ "awd_amount": 399915.0,
+ "awd_min_amd_letter_date": "2024-11-22",
+ "awd_max_amd_letter_date": "2024-11-22",
+ "awd_abstract_narration": "Computer models are widely used for predicting the performance of buildings and other civil infrastructure under earthquakes and other extreme hazard events. During such events, parts (or members) of steel structures often undergo fracture or breakage. To safely design structures, and to examine their resilience to such hazards, it is critical to determine whether such fractures will propagate through the entire structure, destabilizing it, or remain confined to one part of the structure. Current computer models cannot effectively simulate these aspects of structural behavior. This award will support fundamental scientific research to understand the physical phenomena that are responsible for such behavior and to develop computer models to simulate it. The result will be a novel method that enables greatly improved predictions of whether structures will collapse under various hazards and loads. The findings and software developed from this research will enhance the resilience of buildings and other civil infrastructure, benefiting the nation\u2019s society and economy. The education of students with new knowledge and technology transfer to practitioners will result in broad impacts. This award will contribute to the US National Science Foundation (NSF) role in the National Earthquake Hazards Reduction Program (NEHRP). This research is a collaboration between researchers at the University of California, Davis, and the Ecole Polytechnique Federale de Lausanne (EPFL) in Switzerland, and is part of the joint collaboration between the US National Science Foundation and the Swiss National Science Foundation (NSF-SNSF).\r\n\r\nFracture is a common limit state in steel members and connections, often controlling structural collapse. However, effective approaches to predict fracture are almost entirely constrained to continuum-based finite element models that are infeasible to apply in frame-based structural simulation. The result is a knowledge gap, which hinders physics-based simulation of fracture in mainstream structural performance assessment, and precludes effective assessment of many structures, wherein coupling between member fracture and structural response controls safety and resilience. The main goal of this project is to develop a novel scientific formulation that integrates fracture mechanics with an enriched frame element formulation, resulting in a method that represents the initiation and propagation of fracture and fatigue in steel structures. The scientific approaches used will involve theoretical development, computational modeling, and experimentation for validation of the developed approach. The scientific formulation will be implemented in an open-source numerical platform, OpenSees, that is widely used by structural engineers and researchers. This approach (including its implementation and associated documentation) will be broadly disseminated to target audiences and user groups. Data generated from this project will be archived and made publicly available in the NSF-supported Natural Hazards Engineering Research Infrastructure (NHERI) Data Depot (https://www.DesignSafe-ci.org).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Amit",
+   "pi_last_name": "Kanvinde",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amit M Kanvinde",
+   "pi_email_addr": "amkanvinde@ucdavis.edu",
+   "nsf_id": "000488592",
+   "pi_start_date": "2024-11-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "1850 RESEARCH PARK DR, STE 300",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956186153",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "043E",
+   "pgm_ref_txt": "EARTHQUAKE ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "129Z",
+   "pgm_ref_txt": "U.S. NSF-Swiss Resrch Corp"
+  },
+  {
+   "pgm_ref_code": "1576",
+   "pgm_ref_txt": "NATIONL EARTHQK HZRD REDCT PRG"
+  },
+  {
+   "pgm_ref_code": "CVIS",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "1057",
+   "pgm_ref_txt": "CIS BASE RESEARCH"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "7231",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "041E",
+   "pgm_ref_txt": "HAZARD AND DISASTER REDUCTION"
+  },
+  {
+   "pgm_ref_code": "039E",
+   "pgm_ref_txt": "STRUCTURAL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "5950",
+   "pgm_ref_txt": "SWITZERLAND"
+  },
+  {
+   "pgm_ref_code": "040E",
+   "pgm_ref_txt": "Haz mitigation of structural sys"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 399915.0
+  }
+ ],
+ "por": null
+}

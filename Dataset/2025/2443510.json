@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443510",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Advancing Precision Nucleon Tomography through Deep Learning and Uncertainty Quantification",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 499309.0,
+ "awd_amount": 499309.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Understanding the internal structure of protons and neutrons\u2014collectively called nucleons\u2014is a long-standing challenge in nuclear physics. This project seeks to create a three-dimensional map of how quarks and gluons, the fundamental constituents of matter, move and interact inside nucleons. By analyzing data from high-precision experiments at Jefferson Lab and preparing for measurements at the future Electron-Ion Collider (EIC), the research will investigate how quark and gluon spin and motion contribute to nucleon structure. To interpret these complex datasets, the project applies advanced artificial intelligence (AI) tools\u2014specifically deep learning and statistical methods\u2014to improve measurement accuracy and quantify uncertainty. Beyond advancing fundamental knowledge, the project has broad societal impact. In alignment with the Nuclear Science Advisory Committee\u2019s recommendation to integrate AI in nuclear research, it will train students in physics and data science, develop reusable tools for analyzing complex data, and generate accessible educational resources through workshops and tutorials. These efforts will help cultivate the next generation of scientific leaders. Notably, AI methods developed by the team for nuclear physics have also been applied for other data-intensive applications, demonstrating their versatility and broad relevance. This project advances national priorities in nuclear science and AI while fostering discovery and education.\r\n\r\nThe project aims to study the three-dimensional partonic structure of nucleons through the analysis of semi-inclusive deep inelastic scattering (SIDIS) data collected with the CLAS12 detector at Jefferson Lab, focusing on kaon electro-production from unpolarized and polarized targets. By detecting final-state hadrons alongside the scattered lepton, SIDIS provides sensitivity to the transverse momentum of struck quarks. The central objective is to extract transverse momentum-dependent parton distributions (TMDs), which extend conventional parton distribution functions by incorporating transverse momentum in addition to longitudinal momentum fraction. These observables enable studies of spin-orbit correlations, such as the Boer-Mulders effect, offering insight into how quarks and gluons contribute to nucleon spin. The analysis will leverage two advanced deep learning tools developed by the PI\u2019s group: ELUQuant, for event-level uncertainty quantification, and Deep(er)RICH, for reconstructing images from Cherenkov detectors and improving particle identification. Bayesian inference will be employed for robust extraction of physics observables, complementing traditional unfolding methods. The team will also conduct sensitivity studies for the ePIC detector at the future EIC. This project will advance multidimensional nucleon tomography, addressing key questions such as the proton spin puzzle and the role of orbital angular momentum. It supports both precision nuclear physics and AI-driven workforce development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cristiano",
+   "pi_last_name": "Fanelli",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cristiano Fanelli",
+   "pi_email_addr": "cfanelli@wm.edu",
+   "nsf_id": "000918661",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "College of William and Mary",
+  "inst_street_address": "1314 S MOUNT VERNON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "WILLIAMSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7572213965",
+  "inst_zip_code": "23185",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "VA01",
+  "org_lgl_bus_name": "COLLEGE OF WILLIAM AND MARY",
+  "org_prnt_uei_num": "EVWJPCY6AD97",
+  "org_uei_num": "EVWJPCY6AD97"
+ },
+ "perf_inst": {
+  "perf_inst_name": "College of William and Mary",
+  "perf_str_addr": "1314 S MOUNT VERNON AVE",
+  "perf_city_name": "WILLIAMSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "231852817",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "VA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "755300",
+   "pgm_ele_name": "PHYSICS AT THE INFO FRONTIER"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499309.0
+  }
+ ],
+ "por": null
+}

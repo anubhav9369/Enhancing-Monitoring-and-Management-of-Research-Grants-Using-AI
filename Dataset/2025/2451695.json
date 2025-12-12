@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451695",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR Phase II: Generative Design Technology for Robust, Editable, Manufacturable Solutions",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032925041",
+ "po_email": "vinlee@nsf.gov",
+ "po_sign_block_name": "Vincent Lee",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 1245669.0,
+ "awd_amount": 1245669.0,
+ "awd_min_amd_letter_date": "2025-05-12",
+ "awd_max_amd_letter_date": "2025-05-20",
+ "awd_abstract_narration": "The broader impact of this Small Business Innovation Research (SBIR) Phase II project lies in transforming additive manufacturing design processes to enable broader adoption of additive manufacturing for end-use applications. Additive manufacturing offers substantial advantages over traditional manufacturing, such as reduced material waste, integrated part design, and the ability to fabricate complex geometries. However, existing challenges in the design and simulation processes, such as time-consuming manual methods and high costs, have hindered its widespread use. This project will develop a generative design tool that automates and optimizes additive manufacturing part designs, significantly reducing computational time and costs while improving part performance and sustainability. By streamlining the creation of editable, robust designs, the technology will reduce material usage, energy consumption, and environmental impact. This innovation is anticipated to drive adoption across industries, including aerospace, medical, and automotive, facilitating more efficient and sustainable manufacturing practices.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase II project seeks to address the inefficiencies in additive manufacturing design through three key innovations: a method for generating topology-optimized editable parametric computer aided design models, machine learning-enhanced simulation for accelerated topology optimization, and the integrated optimization of build orientation and support structures. Current design software often generates large, complex files that are difficult to edit, resulting in a time-consuming additive manufacturing model design process. By enabling a dual-option framework, the proposed generative design tool will allow users to choose between maximized performance or a balanced approach that includes both performance and editability, providing insights into how different design priorities affect the final output. The high computational demands of existing topology optimization techniques have limited their use in designing end-use parts. Additionally, many current additive manufacturing processes require sacrificial support structures for parts with certain inclination angles, which increases material and energy usage, as well as manufacturing time and cost. This project reduces design time, making the process faster and more cost-effective without compromising the quality of the optimized design. By generating optimized, support-free designs, the proposed technology will reduce material costs, manufacturing time, and environmental impact, making additive manufacturing more efficient and sustainable.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhichao",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhichao Wang",
+   "pi_email_addr": "zhichao.wang@novineer.com",
+   "nsf_id": "000884752",
+   "pi_start_date": "2025-05-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "NOVINEER, INC.",
+  "inst_street_address": "1511 AVIATION CENTER PKWY",
+  "inst_street_address_2": "MP 208",
+  "inst_city_name": "DAYTONA BEACH",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "5405531301",
+  "inst_zip_code": "321143857",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "FL06",
+  "org_lgl_bus_name": "NOVINEER, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YZCJBEAXLLT7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "NOVINEER, INC.",
+  "perf_str_addr": "1511 AVIATION CENTER PKWY",
+  "perf_city_name": "DAYTONA BEACH",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "321143857",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "FL06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537300",
+   "pgm_ele_name": "SBIR Phase II"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1245669.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2504555",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "III: Small: Neural Probabilistic Circuits: Towards Compositional and Interpretable Neuro-Symbolic AI",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-26",
+ "awd_max_amd_letter_date": "2025-07-26",
+ "awd_abstract_narration": "Despite the superior performance achieved by end-to-end deep neural networks, many of them are black-box models composed of complex operators with massive number of parameters, making it hard to interpret and understand how a decision is made. Existing methods often provide post-hoc explanations to explain the black-box model, but they are not reliable as the explanation model used to elucidate the black-box model may not be an accurate representation. In light of the above challenges, this project proposes an interpretable neuro-symbolic model, dubbed Neural Probabilistic Circuits, that decomposes the black-box prediction into a more transparent process by integrating neural networks for pattern recognition and probabilistic circuits for tractable reasoning. The project aims to build a theoretical foundation for neural probabilistic circuits, and investigate its robustness under both distribution shifts and adversarial attacks. The proposed research will have a significant impact on the design of interpretable neuro-symbolic AI systems, which are crucial for many high-stakes real-world applications. The outcomes of this project will be integrated into both undergraduate and graduate courses in artificial intelligence and machine learning to bolster the technical course material, available to all the students.\r\n\r\nNeural probabilistic circuits consist of two modules, a neural module implemented by deep neural networks to recognize different high-level physical attributes from low-level signals and a symbolic module implemented by a probabilistic circuit to reason over the attributes and make a prediction. The technical aims of this project contain three key thrusts: (1) Develop a three-stage joint learning algorithm to train the model and analyze its compositional generalization properties; (2) Provide different forms of model explanations to understand how a prediction is made (most probable explanations) and how to counterfactually correct a given prediction (counterfactual explanations); (3) Quantify the expressiveness of neural probabilistic circuits and develop generalization guarantees for the models under distribution shifts and adversarial attacks at test time. The proposed neuro-symbolic architecture will be applied to integrate existing foundation models for language and vision data. The team will share all the research outcomes through open-source software packages, and creating new tools for broader access.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Han",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Han Zhao",
+   "pi_email_addr": "hanzhao@illinois.edu",
+   "nsf_id": "000887440",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The Board of Trustees of the University of Illinois",
+  "perf_str_addr": "352 Henry Administration Building",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

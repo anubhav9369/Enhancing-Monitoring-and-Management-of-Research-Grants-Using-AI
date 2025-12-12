@@ -1,0 +1,102 @@
+{
+ "awd_id": "2513740",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "New stochastic algorithms for minimax-structured nonconvex nonsmooth optimization and applications in machine learning",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 220000.0,
+ "awd_amount": 220000.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "This project focuses on problems arising in game theory, statistics, engineering, and machine learning. Research on minimax problems dates back almost a century, when von Neumann published his minimax theorem about zero-sum games. The past several years have witnessed tremendous research interest in solving minimax problems, motivated by training deep learning models, including generative artificial intelligence and robust machine learning. Though well-trained deep learning models can deliver high-quality performance in many tasks, they are often vulnerable to adversarial attacks. Using such models can cause serious safety and security risks; thus, improving their robustness is very important. Most existing methods for solving minimax problems require certain strong conditions that do not hold for modern applications, such as training robust deep learning models. This project will develop new optimization algorithms for solving minimax problems, which can deliver guaranteed stability and reliability under weaker and more practical conditions. Software packages will be developed and released for public use to benefit both academic and industry researchers. The results from the project will be integrated into regularly offered or topical courses at RPI for both undergraduate and graduate students.\r\n\r\nDifferent algorithms will be designed by leveraging the structures of the considered minimax problems, and analysis will be conducted as well to show the convergence of these algorithms and their complexity. For solving nonconvex nonsmooth minimax problems that satisfy a certain regularity condition for the dual part, a momentum-accelerated primal-dual stochastic subgradient method (PDSsG) will be investigated, and a Moreau-envelope based smoothed PDSsG, as an alternative, will also be explored. For solving nonconvex-nonconcave nonsmooth minimax problems that do not satisfy regularity conditions, new approaches will be developed by using the log-exponential smoothing function to approximate the maximization part. On solving problems that involve too-big data, new distributed methods will be designed under the setting of either a complete network or an incomplete connected network. Low-precision communication and error-compensation techniques will be used, for the first time, to solve nonconvex minimax problems, to save communication, and achieve fast convergence. These investigations are expected to invent new analysis techniques and lead to novel and efficient algorithms for solving large-scale minimax structured optimization.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yangyang",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yangyang Xu",
+   "pi_email_addr": "xuy21@rpi.edu",
+   "nsf_id": "000730012",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 220000.0
+  }
+ ],
+ "por": null
+}

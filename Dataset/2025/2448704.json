@@ -1,0 +1,105 @@
+{
+ "awd_id": "2448704",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Likelihood-based Inference for Exponential Family Graphical Models",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 375000.0,
+ "awd_amount": 375000.0,
+ "awd_min_amd_letter_date": "2025-03-24",
+ "awd_max_amd_letter_date": "2025-03-24",
+ "awd_abstract_narration": "This research develops statistical methods for analyzing the relationships between the many variables resulting from psychometric studies. These relationships typically are represented in the form of graphs, with the nodes denoting the attributes and the edge strengths denoting the relationships among them. Due to the computational intractability of these graphical models, existing methods rely on approximate techniques that generally result in less efficient estimates and do not allow for the probabilistic quantification of uncertainty. This project develops tools to mitigate these issues and enable analyses that are simultaneously statistically efficient and computationally tractable. The developed methods are applied to study the relationships between symptoms of psychological diseases, latent skills, and attributes. As a part of the project, graduate students are trained, and publicly available software is made available for the broader scientific community. Additionally, the investigators design advanced courses that incorporate major research findings from this project.\r\n\r\nThis research develops a scalable computational toolbox that allows for likelihood-based inference for exponential family graphical models. Probabilistic graphical models used to study relationships between multiple variables often involve an intractable normalizing constant, which precludes both maximum likelihood and fully Bayesian inference. Approximate methods, such as those based on pseudo-likelihood or score matching, provide the usual workarounds. However, full likelihood-based inference, when feasible, is statistically efficient. This project develops statistical tools that allow full likelihood-based inference for intractable graphical models that are both computationally and statistically efficient. Crucially, this also includes fully Bayesian procedures that produce automatic uncertainty quantification. These tools are extended to cover a broader class of models that are obtained by marginalizing over certain variables in the graph. These new models allow for nonparametric dependence structures between variables building on basic parametric models and are useful for item-response theory. Finally, new longitudinal models are developed to study the evolution of relationships between variables over time. A key ingredient in these longitudinal models is the decoupling of time-varying and subject-specific effects.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Antik",
+   "pi_last_name": "Chakraborty",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Antik Chakraborty",
+   "pi_email_addr": "antik015@purdue.edu",
+   "nsf_id": "000869207",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Anindya",
+   "pi_last_name": "Bhadra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anindya Bhadra",
+   "pi_email_addr": "Bhadra@purdue.edu",
+   "nsf_id": "000660036",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133300",
+   "pgm_ele_name": "Methodology, Measuremt & Stats"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 375000.0
+  }
+ ],
+ "por": null
+}

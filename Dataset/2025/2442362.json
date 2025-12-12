@@ -1,0 +1,122 @@
+{
+ "awd_id": "2442362",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Intelligent Products for Mass Individualization in Manufacturing Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 688574.0,
+ "awd_amount": 688574.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-01-16",
+ "awd_abstract_narration": "Recent advances in manufacturing system technology and increasing customer expectations have led to a growing interest in mass individualization - the ability of manufacturing systems to create customized products on a large scale. For consumers, manufacturing systems with mass individualization capabilities will create enhanced customer experience and enable the development of tailored solutions based on their unique requirements. For manufacturers, developing mass individualization capabilities could offer significant competitive advantages over manufacturers offering a single product or product family. However, since control strategies for manufacturing systems have been primarily developed for mass production, there is a lack of fundamental knowledge about the impact of individualized control strategies and a lack of performance guarantees for these control strategies. This Faculty Early Career Development (CAREER) research project focuses on the integration of \u201cintelligent products\u201d in the production process to enable more customized and individualized production. An intelligent product consists of a physical part and a software component that contains the customer specifications, manufacturing capabilities, and production plans for the individual part. The developed intelligent products will adapt to various specifications, while ensuring that the manufacturing environment remains reliable and safe. In addition, through hands-on workshops and activities, the project will also focus on establishing a manufacturing technology education program to provide accessible opportunities for the development of an informed manufacturing workforce. \r\n\r\nThe overall goal of this research is to advance the individualization capabilities of manufacturing systems by establishing the concept of adaptive and safe intelligent products. Specific objectives are to: (i) understand and encode the relationship between customer/manufacturing requirements and intelligent product specifications, (ii) determine how to synthesize a product controller in a dynamic manufacturing environment based on product, process and system specifications, and (iii) investigate interactions between intelligent products and human workers to create safety guarantees. The following fundamental questions will be answered: (1) what is the relationship between customer specifications and an intelligent product controller? (2) how can an intelligent product make decisions in a dynamic environment while satisfying system-level requirements? and (3) what impact will intelligent products have on workers on the shop floor? This work will leverage formal logic to encode product and system specifications and use these specifications to automatically synthesize safe and reliable model-based intelligent product controllers. Communication and coordination methods will be developed for the intelligent product to interface with engineers, designers, and operators. The project will enable manufacturers to realize highly individualized production capabilities while providing guarantees for product behavior.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ilya",
+   "pi_last_name": "Kovalenko",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ilya Kovalenko",
+   "pi_email_addr": "iqk5135@psu.edu",
+   "nsf_id": "000923875",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "229Y00",
+   "pgm_ele_name": "MSI-Manufacturing Systms Integ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "016Z",
+   "pgm_ref_txt": "Cybermanufacturing Systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "118E",
+   "pgm_ref_txt": "GRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "1713",
+   "pgm_ref_txt": "WORKFORCE"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9148",
+   "pgm_ref_txt": "TOOLS & TECHNOL FOR MANUFACTURING DESIGN"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 688574.0
+  }
+ ],
+ "por": null
+}

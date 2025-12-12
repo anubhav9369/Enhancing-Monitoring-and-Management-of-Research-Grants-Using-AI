@@ -1,0 +1,102 @@
+{
+ "awd_id": "2434506",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DFG-NSF Physics: Entanglement, Thermalization and Hadronization for SU(N) Gauge Theories",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 256404.0,
+ "awd_amount": 256404.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "High energy collisions between atomic nuclei are known to produce a novel state of matter, called a quark-gluon plasma and containing unbound constituents, quarks and gluons, that has unusual properties. Existing descriptions of the formation and decay of this state are based on statistical concepts that ignore essential aspects of quantum physics, such as quantum entanglement and microscopic preservation of information. This project will develop descriptions of these processes that exactly respect the laws of quantum physics using a two-pronged approach: (i) The formation of a thermal gluon plasma is studied by exact numerical simulations of gluon dynamics starting from a highly excited quantum state and following it up to the formation of a thermal gluon plasma. (ii) The decay process, in which the quark-gluon plasma decays into many individual particles, is modeled extending ideas from string theory to systems of relevance to nuclear physics and enabling a study of quantum entanglement between emitted particles. The methods and insights developed in this project have broad relevance for the quantum description of dynamical processes in isolated quantum systems, utilizing heavy ion collisions as near-ideal prototype to the mutual benefit of nuclear physics and quantum information science.\r\n\r\nDynamical processes involving quarks and gluons at strong coupling are beyond the reach of perturbation theory and Euclidean lattice gauge theory. An important phenomenon of this type is the process of thermalization, which is pervasive in cosmology and high-energy nuclear and particle interactions but conceptually at odds with the microscopic reversibility ensured by the unitarity of quantum evolution. Another process that is usually described by statistical, rather than quantum mechanical techniques is multi-fragmentation as it occurs, e.g., during the deconfinement-confinement transition of a quark-gluon plasma. This proposal follows three interrelated tracks: (a) Delineation of the limits of feasibility of exact real-time lattice calculations with digital computers in the context of the simplest non-abelian gauge theory realized in nature, SU(2). (b) Identification of observable deviations from full thermal equilibrium due to quantum entanglement in exactly solvable low-dimensional models of strongly coupled non-abelian gauge theories using techniques derived from string theory. (c) Exploration of the capabilities of available quantum computers to study the thermalization and fragmentation processes that are accessible to digital computation within certain system size limits. The results obtained with digital computers serve as benchmarks for simulations on quantum computers and help determine the threshold for quantum supremacy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Berndt",
+   "pi_last_name": "Mueller",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Berndt Mueller",
+   "pi_email_addr": "mueller@phy.duke.edu",
+   "nsf_id": "000429617",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128500",
+   "pgm_ele_name": "NUCLEAR THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 256404.0
+  }
+ ],
+ "por": null
+}

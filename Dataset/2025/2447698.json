@@ -1,0 +1,114 @@
+{
+ "awd_id": "2447698",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Adapting Exoskeleton Assistance Using Game Theory Algorithms",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924420",
+ "po_email": "cbethel@nsf.gov",
+ "po_sign_block_name": "Cindy Bethel",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 908250.0,
+ "awd_amount": 908250.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "Lower-limb exoskeletons are robots worn on human legs to help with walking or running.  In the future, exoskeletons might be able to help workers, the elderly, or people with disabilities move more easily. Right now, exoskeletons do not work very well because they are programmed to assist in one rigid way nor are they able to adapt to individual users. This research project will create smarter control systems for exoskeletons to help robots and humans work together, even if their goals differ. For example, a person might want to save energy while walking, but the robot might want to save its battery. To address this problem, our research team is using ideas from game theory. These methods help us to understand how the human and exoskeleton adapt to each other. In the long term, the results can help design smarter exoskeleton systems that help people move in their daily lives. This project supports education for undergraduate and graduate students who will become the next generation of scientific leaders in the United States. This project will sponsor a week-long Alternative Spring Break program each year. During this program, undergraduate students will teach middle school students about exoskeletons. The research team will share the results at an annual public outreach event attended by hundreds of students and families.\r\n\r\nThe goal of this project is to design and test game theory algorithms that try to optimize the help delivered by a lower-limb robotic exoskeleton. The research explores the trade-offs in performance between a human\u2019s and the robot\u2019s goals. There are three primary research objectives to meet this goal. In the first objective, experiments and analysis will be conducted to quantify how people \"play the game\". The project will explore how humans change their behavior in response to exoskeleton assistance. These results will be used in the next objectives to inform what dimensions of human movement respond to the forces applied by the exoskeleton. These may include joint angles or walking patterns of the person wearing the exoskeleton. The second objective will test two algorithms that optimize performance from the perspective of a human or the robot. The first algorithm will attempt to reduce the person's energy expenditure. The second algorithm will attempt to steer the person's behavior to some desired movement. The third objective tests the algorithms that trade-off performance factors from the perspective of the human and the exoskeleton. The project seeks to find a balance between the competing goals of decreasing the person's energy expenditure and prolonging battery life. The results from this project will make fundamental advancements in the capabilities of robotic exoskeletons for augmenting and assisting human mobility in real-world deployments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kimberly",
+   "pi_last_name": "Ingraham",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kimberly Ingraham",
+   "pi_email_addr": "kingra@uw.edu",
+   "nsf_id": "000948455",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sam",
+   "pi_last_name": "Burden",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sam Burden",
+   "pi_email_addr": "sburden@uw.edu",
+   "nsf_id": "000704018",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 908250.0
+  }
+ ],
+ "por": null
+}

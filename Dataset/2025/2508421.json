@@ -1,0 +1,98 @@
+{
+ "awd_id": "2508421",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Reconstructing Ocean Sedimentation Rate Variability to Improve Age Estimates for Paleoclimate Data",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032928369",
+ "po_email": "scwhite@nsf.gov",
+ "po_sign_block_name": "Scott M. White",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 308843.0,
+ "awd_amount": 308843.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "The seafloor sediment provides an important archive of information about Earth\u2019s past. Sediment accumulates nearly continuously for thousands to millions of years. Interpreting the geologic and environmental changes recorded by these sediments relies on knowing the age of each sediment layer. Researchers often use software to create \u201cage models\u201d that estimate sediment age and the uncertainty of that age. This project aims to improve the accuracy of sediment ages.  It will compile radiometric ages in over 250 marine sediment cores. This new data will increase the constraints on the new modeling software, BIGMACS, by tenfold. This improvement will result in more accurate sedimentation rates, reduce age-model uncertainty, and broadly improve paleoclimate data compilations. This new software will be freely available to the scientific community. The project will advance the career of a postdoctoral researcher in applied math and geosciences, train graduate students in interdisciplinary paleoclimate studies, and expose an undergraduate student to research.\r\n\r\nThe accuracy of paleoclimate reconstructions used to validate the climate models rely on age models when identifying cause-and-effect relationships, creating snapshots of the climate at a specific point in time, or characterizing the magnitude of natural variability on different timescales. Such information is crucial for testing the effectiveness of climate models and improving their ability to simulate potential future climate states. Several software packages exist that use statistical methods and different assumptions about variability in sediment accumulation rates to produce age models that allow for ages to be estimated at depths between directly dated sediments, for every depth in a sediment core. However, very few studies have measured variability in ocean sedimentation accumulation rates or tested the statistical models used by these software packages and how they affect reconstructions of Earth\u2019s past. This study will employ two different techniques to measure sedimentation accumulation rate variability over the past 50,000 years using data from approximately 250 ocean sediment cores. These measurements will then be used to estimate parameter values that improve the statistical models used by age modeling software. The principal investigators will also develop improved statistical methods for a previously published software package to generate more accurate results. The improved model will also be made available as open-source, such as Python, for greater accessibility. The study also investigates how estimates of past climate change are impacted by different age modeling software packages and updated estimates of sedimentation rate variability. This project benefits the broader scientific community by providing improved age modeling tools for reconstructing past climate change and provides interdisciplinary training for the next generation of scientists, including graduate and undergraduate students in Earth Science and an interdisciplinary early career researcher in Applied Mathematics and Paleoclimate.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lorraine",
+   "pi_last_name": "Lisiecki",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lorraine Lisiecki",
+   "pi_email_addr": "lisiecki@geol.ucsb.edu",
+   "nsf_id": "000526134",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Barbara",
+  "inst_street_address": "3227 CHEADLE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA BARBARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8058934188",
+  "inst_zip_code": "931060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G9QBQDH39DF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Barbara",
+  "perf_str_addr": "3227 CHEADLE HALL",
+  "perf_city_name": "SANTA BARBARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "931060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "162000",
+   "pgm_ele_name": "Marine Geology and Geophysics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1620",
+   "pgm_ref_txt": "MARINE GEOLOGY AND GEOPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 308843.0
+  }
+ ],
+ "por": null
+}

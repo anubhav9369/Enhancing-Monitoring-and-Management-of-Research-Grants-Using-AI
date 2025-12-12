@@ -1,0 +1,97 @@
+{
+ "awd_id": "2434171",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: ACED: Developing Consistency Model-based Ultra-Long Stride Molecular Simulation to Unravel Long-Time Dynamics of Proteins",
+ "cfda_num": "47.070, 47.074",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-04-23",
+ "awd_max_amd_letter_date": "2025-04-23",
+ "awd_abstract_narration": "Proteins are essential for many biological and engineering functions, and their behavior is determined by how their three-dimensional structures change over time. Current computational methods for studying these dynamics, like molecular dynamics (MD) simulations, are limited by their inability to capture long-duration events crucial for understanding processes like protein folding or aggregation. To address this, this project will develop deep-learning models, specifically consistency models, to simulate protein dynamics more efficiently and over longer time scales. These models are expected to predict molecular changes without the tiny time steps required by traditional methods, significantly speeding up the process while maintaining accuracy. The success of this project will provide approaches that scientists can use to unlock insights into protein behavior that are currently inaccessible, paving the way for advancements in medicine, biotechnology, and materials science. This project also combines artificial intelligence with molecular engineering to train the next generation of researchers, fostering a skilled workforce. If successful, it could significantly accelerate our understanding the dynamic properties of proteins.\r\n\r\n This project addresses the limitations of molecular dynamics (MD) simulations in capturing the long-time-scale dynamics of protein structures, focusing on the integration of deep learning-based consistency models. MD simulations rely on Newtonian equations with small time intervals (1-2 femtoseconds), limiting their applications from studying milliseconds or longer processes. Consistency models, a recent advancement in generative modeling, offer an alternative by predicting probabilistic distributions of molecular states with significantly larger time steps. The central hypothesis is that well-trained consistency models can replace traditional force fields in MD simulations, enabling long-stride simulations without compromising physical accuracy. The research consists of three primary tasks: (1) developing prototype consistency models trained on MD trajectories of simplified systems like polyalanine peptides, (2) optimizing model architecture and encoding methods to balance efficiency and fidelity, and (3) benchmarking these models on complex systems such as the Pin1 WW domain and A\u03b2-42 peptide aggregation. This approach is expected to overcome current MD simulation barriers, laying a computational foundation for studying protein folding, aggregation, and other time-dependent processes with high precision and computational efficiency.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dong",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dong Xu",
+   "pi_email_addr": "xudong@missouri.edu",
+   "nsf_id": "000124927",
+   "pi_start_date": "2025-04-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Missouri-Columbia",
+  "inst_street_address": "121 UNIVERSITY HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "5738827560",
+  "inst_zip_code": "652113020",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MO03",
+  "org_lgl_bus_name": "UNIVERSITY OF MISSOURI SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SZPJL5ZRCLF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Missouri-Columbia",
+  "perf_str_addr": "121 UNIVERSITY HALL",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "652113020",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MO03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  },
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

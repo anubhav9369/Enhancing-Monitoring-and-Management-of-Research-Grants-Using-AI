@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532551",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Morse Theory in Contact Topology",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927972",
+ "po_email": "plimafil@nsf.gov",
+ "po_sign_block_name": "Paulo Lima Filho",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 194689.0,
+ "awd_amount": 194689.0,
+ "awd_min_amd_letter_date": "2025-07-17",
+ "awd_max_amd_letter_date": "2025-07-17",
+ "awd_abstract_narration": "In topology, a smooth manifold is an object with the local appearance of familiar, flat space which may have interesting global properties.  The surface of a ball or donut are typical examples of two-dimensional smooth manifolds.  Contact manifolds carry additional geometric structure which make them especially useful for modeling physical phenomena.  The unifying goal of this research project is to apply ideas from Morse theory, a powerful tool used in the study of smooth manifolds, to contact manifolds.  This project will help to clarify the foundations of higher-dimensional contact topology, opening the door to further breakthroughs in this quickly developing field.  In lower dimensions, software will be developed which carries out data science-style computations for knots in contact manifolds, and this software will be used to generate datasets which lead to further investigation.  Importantly, the project will involve undergraduate students in meaningful mathematical research.\r\n \r\nThis project has two parts, each falling under the general theme of Morse theory in contact topology.  The first goal is to rigorously establish the bypass-bifurcation correspondence in higher dimensions.  Contact topology in dimension 3 has seen enormous progress in the last quarter century, the vast majority of it through the use of convex surface theory.  A fundamental tool in that dimension is the bypass, which discretizes the failure of convexity for 1-parameter families of surfaces.  Honda and Huang have recently introduced bypasses in all dimensions as part of a more general convex hypersurface theory.  This project aims to clarify the nature of bypasses and their ability to capture the failure of convexity in higher dimensions.  The second part of this project focuses on computational tools for persistent Legendrian contact homology, an invariant of diagrams of Legendrian knots.  This invariant computes the persistent homology of the Chekanov-Eliashberg DGA and presents a linearized version of this homology in the form of a barcode.  In collaboration with undergraduate mentees, the Principal Investigator will develop and disseminate software which automates the computation of this invariant.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Austin",
+   "pi_last_name": "Christian",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Austin R Christian",
+   "pi_email_addr": "achris66@calpoly.edu",
+   "nsf_id": "000864690",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California Polytechnic State University Foundation",
+  "inst_street_address": "1 GRAND AVE BLDG 15",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN LUIS OBISPO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8057562982",
+  "inst_zip_code": "934079000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "CAL POLY CORPORATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MC4RJJM9XLT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California Polytechnic State University Foundation",
+  "perf_str_addr": "1 GRAND AVE BLDG 15",
+  "perf_city_name": "SAN LUIS OBISPO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "934079000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "062Z",
+   "pgm_ref_txt": "Harnessing the Data Revolution"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 194689.0
+  }
+ ],
+ "por": null
+}

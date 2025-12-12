@@ -1,0 +1,122 @@
+{
+ "awd_id": "2503055",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EXCELLENCE in RESEARCH: Real-Time Monitoring and Structural Validation for Continuous Fiber Printing",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 887740.0,
+ "awd_amount": 887740.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Continuous fiber printing is an additive manufacturing technique that places continuous fibers inside the polymer matrix of 3D-printed parts, creating stronger and lighter components than those printed using traditional polymer-only methods. However, ensuring the quality of these parts is challenging. Problems such as fiber misalignment and layer separation can weaken the structure. This project develops a real-time monitoring system that uses optical cameras, thermal imaging sensors, and acoustic emission sensors to monitor the printing process. By detecting defects early, the system can stop the production of defective parts, reduce material waste, and ensure that printed components meet design requirements and are ready for immediate use. The project is organized into three tasks. First, modeling techniques will be used offline to determine how different defects affect printed parts' structural performance. Second, multi-modal sensor data, including stereo imaging, thermal profiles, and acoustic signals, will be processed using deep learning models to segment surface anomalies. Statistical methods will be used to reduce data dimensionality, while topological data analysis will characterize the structure of the global data to identify patterns. Third, real-time decision-making algorithms will combine these structure-informed features to evaluate the integrity of printed parts during manufacturing. Together, these methods support the direct production of structurally validated components. \r\n\r\nThe broader impacts of this project include the development of open-source tools, datasets, and computational methods that integrate multi-modal sensing with predictive decision-making tools for advanced manufacturing. These resources will advance research in machine learning, adaptive manufacturing, and real-time decision-making. The project brings together investigators from Benedict College, North Carolina Agricultural and Technical State University, the University of South Carolina, and Iowa State University, building sustainable research and development capacity at two Historically Black Colleges and Universities (HBCUs). The project will provide students with high-impact research experience and technical training, preparing the next generation of engineers and data scientists for emerging careers in advanced manufacturing and cyber-physical systems. Research artifacts, including source code, datasets, analysis scripts, and simulation results, will be organized through the top-level public-facing page arts-laboratory.github.io/RealtimeContinuous-Fiber-Print-Monitoring with links to individual project repositories and data archives. Designs, data processing tools, and models under development will be stored in public repositories on GitHub, while finalized products and datasets will be hosted on the Center for Open Science\u2019s public repository (OSF.io) to ensure long-term public accessibility. Repositories will be maintained for at least three years after project completion to support reproducibility, collaboration, and broader dissemination of results.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yanzhou",
+   "pi_last_name": "Fu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanzhou Fu",
+   "pi_email_addr": "yanzhou.fu@benedict.edu",
+   "nsf_id": "0000A038C",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Simon",
+   "pi_last_name": "Laflamme",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Simon Laflamme",
+   "pi_email_addr": "laflamme@iastate.edu",
+   "nsf_id": "000601956",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Austin",
+   "pi_last_name": "Downey",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Austin Downey",
+   "pi_email_addr": "austindowney@sc.edu",
+   "nsf_id": "000785080",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Benedict College",
+  "inst_street_address": "1600 HARDEN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8037054589",
+  "inst_zip_code": "292041086",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "SC06",
+  "org_lgl_bus_name": "BENEDICT COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HSHMHVL8L7D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Benedict College",
+  "perf_str_addr": "1600 HARDEN ST",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "292041086",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "SC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "070Y00",
+   "pgm_ele_name": "HBCU-EiR - HBCU-Excellence in"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 887740.0
+  }
+ ],
+ "por": null
+}

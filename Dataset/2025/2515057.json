@@ -1,0 +1,98 @@
+{
+ "awd_id": "2515057",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "QCD Dynamics and Nucleon Structure",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Understanding how quarks and gluons\u2014the fundamental building blocks of matter\u2014combine to form protons and other hadrons is essential to uncovering the structure of the visible universe. This research investigates how these elementary particles are distributed inside hadrons and how they interact through the strong nuclear force, as described by quantum chromodynamics (QCD). This project combines modern machine learning tools\u2014especially transformer-based deep learning architectures\u2014with advanced theoretical approaches to extract detailed physical information from high-energy particle collision data. Another central focus is on energy-energy correlators (EECs), observables that provide sharp insight into the dynamics of quarks and gluons in hadronic final states. This work contributes to fullfilling the scientific mission of U.S. nuclear physics facilities and supports future discoveries at the Electron-Ion Collider, while also advancing techniques relevant to particle physics research at the Large Hadron Collider. By integrating theory, computation, and data-driven analysis, the project promotes a deeper understanding of matter at its most fundamental level.\r\n\r\nThis project develops new theoretical frameworks and global QCD analysis strategies that combine novel observables with machine learning to reveal the internal dynamics of strongly interacting particles. It incorporates hadron-in-jet observables to extract nonperturbative fragmentation functions within a QCD-based framework, enabling detailed insights into the dynamics of quarks and gluons as they fragment into observable hadrons. A major focus is the energy-energy correlator, where new theoretical developments extend its application to spin phenomena and the small\u2011x regime relevant for probing gluon saturation. By bridging lepton and hadron collision data through unified theoretical treatments, the project improves constraints on nonperturbative QCD effects across broad kinematic regimes. The resulting framework will enable robust comparisons with experimental data across a wide range of momentum scales. To overcome computational bottlenecks in global fits, transformer-based machine learning models are employed to emulate expensive calculations and enhance the precision of extracted information about quark and gluon dynamics. These methods directly support data interpretation at the Jefferson Lab, the Relativistic Heavy Ion Collider, and the Large Hadron Collider, and provide essential theoretical tools for the future Electron-Ion Collider and broader efforts in high-energy nuclear and particle physics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhongbo",
+   "pi_last_name": "Kang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhongbo Kang",
+   "pi_email_addr": "zkang@g.ucla.edu",
+   "nsf_id": "000737567",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Los Angeles",
+  "inst_street_address": "10889 WILSHIRE BLVD STE 700",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3107940102",
+  "inst_zip_code": "900244200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "36",
+  "st_cong_dist_code": "CA36",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RN64EPNH8JC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Los Angeles",
+  "perf_str_addr": "430 Portola Plaza, PAB",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900951547",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "36",
+  "perf_st_cong_dist": "CA36",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128500",
+   "pgm_ele_name": "NUCLEAR THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

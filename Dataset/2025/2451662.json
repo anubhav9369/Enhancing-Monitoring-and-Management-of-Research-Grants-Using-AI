@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451662",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SaTC: Foundations for Differentially Private Provenance",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925177",
+ "po_email": "asquicci@nsf.gov",
+ "po_sign_block_name": "Anna Squicciarini",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 174995.0,
+ "awd_amount": 174995.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Provenance tracks the origin, creation, usage, and modifications of data, and is  essential for verifying data integrity and conducting security audits. It supports compliance with strict privacy regulations in sectors like healthcare, finance, and government by maintaining detailed records of data activities. However, detailed provenance graphs can expose sensitive information and are vulnerable to adversarial attacks. Differential privacy provides a way to minimize privacy risks by reducing the impact of individual data contributions on analytical outcomes, offering robust protection against adversaries with extensive knowledge. However,  applying  differential privacy in practice remains challenging due to the need of balancing data utility with privacy. The project's novelty lies in bridging the gap between differential privacy's theoretical benefits and practical implementation in provenance graphs. The project's broader significance and importance include  translating the findings into refined methods and synthetic datasets, and disseminating outcomes to sectors like healthcare, finance, and public safety through educational workshops and seminars.  \r\n\r\nThis project is structured around two main thrusts. Thrust 1 focuses on 1) identifying  privacy risks in current provenance-based machine learning anomaly detectors by systematically applying property inference attacks, membership inference attacks, and graph reconstruction attacks; and 2)  developing  snapshot-level differential privacy with implications that align with enterprise privacy policies, compliance requirements, and performance needs . Thrust 2 aims to develop practical solutions by generating differentially private   graphs,  through the design of a subgraph synthesis method that addresses the dense correlations and large scale of raw provenance graphs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joann Qiongna",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joann Qiongna Chen",
+   "pi_email_addr": "jchen27@sdsu.edu",
+   "nsf_id": "0000A1079",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Diego State University Foundation",
+  "inst_street_address": "5250 CAMPANILE DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN DIEGO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6195945731",
+  "inst_zip_code": "921821901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "51",
+  "st_cong_dist_code": "CA51",
+  "org_lgl_bus_name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+  "org_prnt_uei_num": "H59JKGFZKHL7",
+  "org_uei_num": "H59JKGFZKHL7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Diego State University",
+  "perf_str_addr": "5500 CAMPANILE DR",
+  "perf_city_name": "SAN DIEGO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "921820001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "51",
+  "perf_st_cong_dist": "CA51",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174995.0
+  }
+ ],
+ "por": null
+}

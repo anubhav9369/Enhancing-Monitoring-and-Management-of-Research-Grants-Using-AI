@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442888",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Formal Verification of Stateful Distributed Systems and Their Compositions",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 675000.0,
+ "awd_amount": 540535.0,
+ "awd_min_amd_letter_date": "2024-12-26",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "Formal verification has made considerable progress in ensuring the correctness of system designs, but verifying distributed systems remains a significant challenge. Existing research on verifying distributed systems suggests general verification strategies that have limited scalability or concentrate on specific systems without sufficient attention to modularity and proof reuse. These limitations become apparent when verifying large-scale distributed systems with multiple distributed subsystems. Verifying different subsystems requires redundant work, and insufficient modularity impedes the verification process as a small code change entails a significant amount of proof rewriting. This project's novelties are composable semantic models that capture a variety of weakly consistent distributed system semantics and their correctness proofs and methodologies that reuse the models to simplify and scale the verification of distributed systems. The project's impacts are improved reliability and assurance of small to large-scale distributed systems, such as individual distributed key-value stores and cloud services that rely on multiple distributed systems. Additional impacts include new courses on verifying distributed systems.\r\n \r\nThis project focuses on modeling and verifying weakly consistent distributed systems, the most widely deployed distributed system family. The key approach is to first model and verify the distributed system semantics rather than a specific implementation for high utility. A semantic model modularly captures common behaviors and states of distributed systems that observe the same semantics as an object and hides node and network-level details of the system for simple reasoning. The model encompasses reusable proofs of safety and liveness properties that must be satisfied by the system implementation. The model's proofs are reused to verify different system implementations under the same semantics through refinement. Semantic models are designed to compose with each other. Composability facilitates the reuse of designs and proofs of weaker semantic models to create stronger semantic models. The semantic models simplify the verification of composite distributed systems. Individual subsystems can be verified using corresponding semantic models, and interactions of the subsystems can be reasoned and verified based on simple model-level behaviors rather than sophisticated implementation-level behaviors. The model-based reasoning of interactions and the model's compositionality allow for modularly defining and verifying existing and new distributed system semantics that span multiple distributed systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ji Yong",
+   "pi_last_name": "Shin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ji Yong Shin",
+   "pi_email_addr": "j.shin@northeastern.edu",
+   "nsf_id": "000819299",
+   "pi_start_date": "2024-12-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 540535.0
+  }
+ ],
+ "por": null
+}

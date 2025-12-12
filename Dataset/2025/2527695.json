@@ -1,0 +1,98 @@
+{
+ "awd_id": "2527695",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: An Analog Hardware Accelerator for Power Systems Feasibility Studies",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "The broader/commercial impacts of this Small Business Innovation Research (SBIR) Phase I project are to enhance national energy security and maintain U.S. competitiveness in key technology areas including high-performance computing. Connecting new energy resources and loads, like advanced nuclear power plants and large-scale data centers, currently involves complex studies that can take years, creating a major bottleneck that increases costs and delays deployment. This project introduces a new type of hardware that can run these critical simulations thousands of times faster, reducing study times from months to days. This innovation will help utilities and energy developers bring new power projects online faster and at a lower cost. The technology provides a durable competitive advantage through its unique hardware design. The initial market will be utility companies and engineering firms, addressed through a cloud-based, pay-as-you-go service model. \r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project will address the computational limitations of simulating modern power systems. The slow speed of conventional digital software makes it difficult to analyze the complex dynamics of today\u2019s electric grids. The primary research objective is to advance a proven analog computing architecture from a circuit board prototype to a scalable, integrated circuit. The proposed research involves the complete design and verification of a custom system-on-chip using a standard semiconductor process. This analog processor is designed to solve the full AC optimal power flow problem, a highly complex and nonlinear challenge. The project will also develop a software interface to allow the hardware to be controlled by existing industry-standard simulation tools. The anticipated technical result is a finalized, manufacturable chip design capable of simulating a standard 118-bus network with an accuracy of less than one percent error compared to traditional methods.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Palak",
+   "pi_last_name": "Jain",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Palak Jain",
+   "pi_email_addr": "palak@vellex.io",
+   "nsf_id": "000879230",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "VELLEX COMPUTING, INC.",
+  "inst_street_address": "528 PASEO BELLA MONTANA",
+  "inst_street_address_2": "UNIT B",
+  "inst_city_name": "SAN LUIS OBISPO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6504406286",
+  "inst_zip_code": "93405",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "VELLEX COMPUTING INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GM9PU5JC3Z81"
+ },
+ "perf_inst": {
+  "perf_inst_name": "VELLEX COMPUTING, INC.",
+  "perf_str_addr": "528 PASEO BELLA MONTANA",
+  "perf_city_name": "SAN LUIS OBISPO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "934051196",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

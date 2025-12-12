@@ -1,0 +1,114 @@
+{
+ "awd_id": "2443024",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Enhancing Human-AI Collaboration Toward Trustworthy Learning-Based Network Controllers",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 467622.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "Machine learning-based approaches are increasingly replacing manually designed heuristics in network controllers such as those used for adaptive bit rate video streaming and for Internet congestion control. However, these black-box learned models introduce new challenges for network operators. Key concerns include selecting appropriate training data, testing under realistic and variable network conditions, ensuring debuggability, and maintaining safety during online deployment. This project aims to develop novel explainability tools and techniques to enable effective human-AI collaboration during the design and deployment of learning-based network controllers.\r\n\r\nThis project plans to pursue three synergistic thrusts to realize trustworthy learning-based network controllers. First, this project focuses on developing a concept-based explainer that interprets model behavior using high-level, human-understandable concepts that are easy for an operator to understand. Second, it plans to create a hybrid explainability framework that integrates concept-based, low-level feature-based, and predictive future performance-based explanations to provide a comprehensive and multi-layered understanding of controller decisions. Third, the project will investigate how these explanations can enhance key operational tasks, including data curation for training, test coverage evaluation, debugging, and root cause analysis. Together, these thrusts aim to bridge the gap between black-box models and practical network management needs.\r\n\r\nThe domain-specific explainability solutions developed in this project will offer high-level insights into learned models, enabling network operators to better understand, trust, and manage learning-based controllers in real-world networks. By improving interpretability, these tools aim to lower the barrier to deploying high-performance learning-based solutions in practical network environments. In addition, they are expected to enhance the robustness and reliability of these controllers, enabling safer adoption of learning-based solutions in critical network applications. This project also involves close collaboration with industry partners and the development of a web-based platform to promote broader engagement, dissemination, and adoption of the developed tools.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sangeetha",
+   "pi_last_name": "Abdu Jyothi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sangeetha Abdu Jyothi",
+   "pi_email_addr": "sangeetha.aj@uci.edu",
+   "nsf_id": "000835794",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "3204 Donald Bren Hall",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 467622.0
+  }
+ ],
+ "por": null
+}

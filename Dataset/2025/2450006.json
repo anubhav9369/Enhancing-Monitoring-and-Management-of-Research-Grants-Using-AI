@@ -1,0 +1,118 @@
+{
+ "awd_id": "2450006",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CDS&E: Mechanics Informatics for Learning Constitutive Models: Theory, Computation, and Uncertainty Quantification",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "This Computational and Data-Enabled Science and Engineering (CDS&E) project aims to advance national prosperity and workforce development by enabling research that seeks to develop more efficient and cost-effective design of mechanical systems through automation. Traditional engineering design relies heavily on human expertise and extensive training, making it labor-intensive and expensive - especially in the context of preparing the next-generation workforce for the manufacturing sector. This research supports a shift toward data-enabled, computer-aided design by addressing a fundamental challenge: quantifying the amount of useful information obtained from a single mechanical test. By developing a theory that measures how much information each test provides, this project looks to lay the groundwork for automated design, testing, and analysis of materials and structures. The outcomes will benefit both industry and education by lowering training costs and enabling smarter, faster decision-making through artificial intelligence.\r\n\r\nThe research project seeks to introduce a new concept called mechanics informatics - a theoretical foundation for learning material properties from a single, optimized test instead of many. Using advanced information engineering methods, the research team will design specimens that produce the most informative data under complex loading conditions. A new inverse learning algorithm will be developed, combining finite element simulations and Bayesian optimization to iteratively identify unknown mechanical parameters. The approach also includes uncertainty quantification using Gaussian processes to account for variations in measurements and model choices. Initially, the framework will be applied to aluminum alloy sheets to learn their plastic deformation behavior, then extended to other sheet metals produced by new manufacturing technologies and fiber-reinforced composites to study elastic properties under uncertain conditions. This work seeks to open new avenues for integrating AI into engineering, while promoting hands-on learning and collaboration with industry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Juner",
+   "pi_last_name": "Zhu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juner Zhu",
+   "pi_email_addr": "j.zhu@northeastern.edu",
+   "nsf_id": "000907486",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Wei",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei Li",
+   "pi_email_addr": "we.li@northeastern.edu",
+   "nsf_id": "0000A054N",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808400",
+   "pgm_ele_name": "CDS&E"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "024E",
+   "pgm_ref_txt": "MATERIALS DESIGN"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2507344",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: AI Powered Invisible Fence to Foster Human-Wildlife Harmony",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928772",
+ "po_email": "patherto@nsf.gov",
+ "po_sign_block_name": "Peter Atherton",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 304996.0,
+ "awd_amount": 304996.0,
+ "awd_min_amd_letter_date": "2025-09-05",
+ "awd_max_amd_letter_date": "2025-09-05",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is the development of a humane, AI (artificial intelligence)-powered wildlife deterrent system that helps farmers, gardeners, and land managers prevent crops and landscape damage without relying on fences, chemicals, or lethal methods. Wildlife-induced losses billions annually for mid-sized farms\u2014create a significant economic burden and discourage entry by new and small-scale growers. This innovation offers an affordable, scalable alternative using computer vision and behavior-informed, non-lethal acoustic deterrence. It promotes biodiversity, reduces chemical runoff, and improves land access. By integrating open-source tools, behavior modeling, and real-time sensing, the system fosters public engagement, supports AI literacy, and enables interdisciplinary learning. This technology has global potential to advance food security, climate resilience, and ecosystem stewardship in both developed and resource-limited regions.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project addresses the growing challenge of wildlife-related crop loss and landscape damage by developing a non-invasive, AI (artificial intelligence)-powered deterrence system. Traditional solutions like fencing and chemical sprays are costly, ineffective at scale, and often harmful to the environment. This project aims to create an edge-based, modular system that detects wildlife using computer vision, localizes the animal, and deploys species-specific acoustic deterrents through directional sound waves. The research objectives include: (1) developing lightweight, real-time object detection models optimized for embedded hardware; (2) designing adaptive acoustic payloads tailored to animal behavior; and (3) analyzing long-term behavioral data to understand habituation patterns and refine deterrence logic. The system will integrate visual and acoustic components through a low-power, solar-compatible platform and incorporate a cloud-connected repository for feedback, model updates, and collaborative learning. Anticipated technical outcomes include a robust field-ready prototype, behavior-aware deterrence algorithms, and a scalable architecture for real-world deployment. By merging AI, ecological research, and embedded sensing, the project lays the foundation for a sustainable, responsive solution to human-wildlife conflict. Innovation advances state-of-the-art in species-specific deterrence and enables dynamic coexistence strategies across agricultural, residential, and conservation settings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "BIPENDRA",
+   "pi_last_name": "BASNYAT",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "BIPENDRA BASNYAT",
+   "pi_email_addr": "bipbasnyat@gmail.com",
+   "nsf_id": "0000A11B8",
+   "pi_start_date": "2025-09-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "AI SENSE LLC",
+  "inst_street_address": "3995 COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ELLICOTT CITY",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "6673453107",
+  "inst_zip_code": "210435501",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MD03",
+  "org_lgl_bus_name": "AI SENSE LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "S2LAUP52NE29"
+ },
+ "perf_inst": {
+  "perf_inst_name": "AI SENSE LLC",
+  "perf_str_addr": "3995 COLLEGE AVE",
+  "perf_city_name": "ELLICOTT CITY",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "210435501",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MD03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304996.0
+  }
+ ],
+ "por": null
+}

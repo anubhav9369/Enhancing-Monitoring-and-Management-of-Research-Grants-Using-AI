@@ -1,0 +1,98 @@
+{
+ "awd_id": "2515361",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Laplace approximation in survival data analysis",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 119952.0,
+ "awd_amount": 119952.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Survival data analysis is a vital area of statistics that helps researchers understand outcomes such as time to disease onset, recovery after treatment, or mortality. This type of analysis provides health professionals with insights into how various factors, such as treatments or risk exposures, affect patient outcomes over time. However, current methods for analyzing survival data using semiparametric linear models often face limitations: they either involve significant computational challenges or rely on inaccurate approximations. This project addresses these gaps by developing new and more accurate statistical methodologies that are also computationally efficient. These tools will improve our ability to assess the impact of clinical and environmental factors on survival, ultimately supporting better disease prevention and treatment strategies. In doing so, the research promotes national health, enhances healthcare effectiveness, and contributes to overall societal well-being. Beyond its technical contributions, the project delivers broad societal benefits through its strong commitment to education, collaboration, and open science. The investigators will mentor graduate students and create new interdisciplinary coursework at the intersection of statistics and medicine. All developed software tools will be made openly available to encourage reproducibility and accessibility in scientific research. By fostering collaboration across statistics, medicine, and computer science, the project helps train a next-generation workforce equipped to solve complex challenges in health data analysis.\r\n\r\nThe investigator will adopt the semiparametric accelerated failure time (AFT) model and use the Laplace approximation method to obtain a less biased estimator than existing approaches, followed by the development of a general bias correction method. The research program is structured around three key components, each addressing different modeling scenarios: (i) Developing Laplace approximated quasi-likelihood methods for both homoscedastic and heteroscedastic survival data in the framework of the AFT model. The Laplace approximation will incorporate the leading polynomial term as well as additional polynomial terms; (ii) Developing Laplace approximated penalized quasi-likelihood methods for both homoscedastic and heteroscedastic survival data with frailty in the framework of the AFT model; and (iii) Developing regularized penalized quasi-likelihood methods for both homoscedastic and heteroscedastic survival data with frailty and variable selection in the framework of the AFT model. Across all components, the investigators will undertake theoretical developments, develop efficient algorithms, and implement the methods in software. These tools will be applied to real-world datasets to demonstrate their practical utility and effectiveness.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lili",
+   "pi_last_name": "Yu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lili Yu",
+   "pi_email_addr": "lyu@GeorgiaSouthern.edu",
+   "nsf_id": "000510416",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Southern University Research and Service Foundation, Inc",
+  "inst_street_address": "261 FOREST DR STE 3000",
+  "inst_street_address_2": "",
+  "inst_city_name": "STATESBORO",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "9124785465",
+  "inst_zip_code": "304586724",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "GA12",
+  "org_lgl_bus_name": "GEORGIA SOUTHERN UNIVERSITY RESEARCH & SERVICE FOUNDATION INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "FL4AUYLFP7E8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Southern University Research and Service Foundation, Inc",
+  "perf_str_addr": "261 FOREST DR",
+  "perf_city_name": "STATESBORO",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "304586724",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "GA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 119952.0
+  }
+ ],
+ "por": null
+}

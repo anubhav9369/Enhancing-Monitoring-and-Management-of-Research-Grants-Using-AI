@@ -1,0 +1,98 @@
+{
+ "awd_id": "2534549",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "General Cognitive Diagnosis Models: Development, Estimation, and Applications",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032924490",
+ "po_email": "nnagle@nsf.gov",
+ "po_sign_block_name": "Nicholas N Nagle",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 360000.0,
+ "awd_amount": 130753.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "This research project will advance the frontiers of modern statistical theory and methodology in cognitive diagnosis modeling. Cognitive diagnosis models (CDMs) are psychometric tools designed to infer respondents' unobserved psychological attributes from their manifest responses to a set of items in a test or questionnaire. CDMs have been used in educational assessments and successfully applied in psychology and the social sciences. However, existing CDMs have limited utility because they often assume binary attributes. This project will further extend the applicability of CDMs by developing a general family of models that offer a unified framework for CDM analyses, and that also can be used as a basis for the development of new CDMs. The scientific products of this project will be disseminated via workshops, conference presentations, and publications in peer-reviewed journals. The project will develop open-source software to make advanced CDMs accessible to a broader audience. The outcomes of this project will be useful for applied researchers in education, psychology, and the social sciences. Both undergraduate and graduate students will be involved in the conduct of this research, and the investigators will make every effort to include students of underrepresented groups in their research teams.\r\n \r\nThis research project will develop, estimate, and apply a novel family of cognitive diagnosis models (CDMs) to simultaneously accommodate polytomous response data and multi-categorical psychological attributes. In particular, the project will (1) examine the theoretical properties of the proposed models, including model identifiability and model equivalence to ensure the principled use of CDMs in practice, (2) develop computationally efficient parameter estimation methods to make it possible to estimate parameters of CDMs of high dimensions in big data, (3) develop valid statistical inference methods for handling models of high dimensions and data of large sizes, and (4) conduct interdisciplinary collaborations to apply the new methods to representative datasets in various scientific fields to address substantive research questions of interest. To boost the impact of the proposed work, the investigators will create a free software program to make the methodological innovations accessible to applied researchers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wenchao",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wenchao Ma",
+   "pi_email_addr": "wma@umn.edu",
+   "nsf_id": "000835999",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "2221 UNIVERSITY AVE SE STE 100",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554143074",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133300",
+   "pgm_ele_name": "Methodology, Measuremt & Stats"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 130753.0
+  }
+ ],
+ "por": null
+}

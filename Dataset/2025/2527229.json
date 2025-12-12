@@ -1,0 +1,98 @@
+{
+ "awd_id": "2527229",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: eMB: Mathematical Models for Animal Movement, Memory, and Cognition with Applications to Quantitative Ecology",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 87088.0,
+ "awd_amount": 87088.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Understanding how and why animals move through different environments and habitats is a crucial challenge in ecology, conservation biology, and wildlife management. Though models of random particle motion provide ubiquitous and useful modeling tools for data analysis, real animal movement is influenced by both environmental and cognitive factors, such as perception, memory, and learning.  Recent advances into mathematical models have provided valuable insights into how species are geographically distributed and how their population abundances change over time. However, applying these mathematical models to real-world data on GPS tracked animals remains a significant challenge, because most mathematical models are constructed in terms of population density--the number of animals per unit area\u2014rather than the tracked locations of individual animals equipped with GPS tags and collars, even though GPS tracking data are the most informative data for understanding cognitive processes. This project aims to enhance our understanding of animal movement and its ecological implications by developing novel mathematical approaches that bridge the gap between theoretical models and empirical data.  Software will be developed for direct application to conservation and wildlife management.  The project will foster interdisciplinary collaboration between mathematicians, ecologists, and data scientists, while providing training opportunities for graduate and undergraduate students in applied mathematics and ecological modeling.\r\n\r\nWhereas dynamical partial differential equations (PDEs) have been at the forefront of modeling cognitive factors in animal movement, they do not straightforwardly provide a likelihood function that can be fit to animal tracking data with the substantial temporal autocorrelation that both typifies modern tracking data and informs cognitive processes. This project aims to develop novel mathematical approaches that integrate PDE and stochastic-process models with real-world tracking data. In contrast to location-based PDEs, continuous-velocity stochastic process models, such as the integrated Ornstein-Uhlenbeck process, and associated higher-dimensional Fokker-Planck equations offer a promising alternative that better aligns with available data. We will work from these higher-order stochastic differential equations and higher-dimensional PDE models to analyze their mathematical behavior, to solve for their transition probabilities and likelihoods, and to implement them in statistical software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Junping",
+   "pi_last_name": "Shi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Junping Shi",
+   "pi_email_addr": "shij@math.wm.edu",
+   "nsf_id": "000493303",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "College of William and Mary",
+  "inst_street_address": "1314 S MOUNT VERNON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "WILLIAMSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7572213965",
+  "inst_zip_code": "23185",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "VA01",
+  "org_lgl_bus_name": "COLLEGE OF WILLIAM AND MARY",
+  "org_prnt_uei_num": "EVWJPCY6AD97",
+  "org_uei_num": "EVWJPCY6AD97"
+ },
+ "perf_inst": {
+  "perf_inst_name": "College of William and Mary",
+  "perf_str_addr": "1314 S MOUNT VERNON AVE",
+  "perf_city_name": "WILLIAMSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "231852817",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "VA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 87088.0
+  }
+ ],
+ "por": null
+}

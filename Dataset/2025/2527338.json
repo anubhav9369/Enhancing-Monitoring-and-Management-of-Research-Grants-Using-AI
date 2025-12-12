@@ -1,0 +1,114 @@
+{
+ "awd_id": "2527338",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "eMB: Collective and multiscale dynamics of resource transfer in social insects",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924306",
+ "po_email": "vdinh@nsf.gov",
+ "po_sign_block_name": "Vu Dinh",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Honeybee colonies must solve difficult group challenges: locating food, sharing it effectively, and adjusting as their environment changes. This project explores how bees use simple behaviors\u2014like following scents, watching each other, or pausing to share food\u2014to accomplish these tasks as a group. Researchers will film bees in both lab and natural environments, then use these observations to understand how bees make group decisions without a leader. The team will build mathematical models to describe these behaviors and test them using detailed video recordings and new technologies for tracking bee movement and food sharing. The goal is to uncover the basic rules that guide effective group behavior and resource sharing. Understanding how bees coordinate as a group has far-reaching benefits. These lessons can be applied to design better systems for managing teams, guiding robots, or improving logistics\u2014especially when conditions are uncertain or constantly changing. The project supports federal education goals by offering hands-on learning for high school students, developing classroom materials for underserved communities, and connecting young learners with real-world science through public outreach events. Students will participate in research and data analysis, helping them build skills in science, technology, and problem-solving. By combining insights from biology and mathematics, this project advances both scientific understanding and the practical design of systems that rely on teamwork, communication, and adaptability.\r\n\r\nThis project develops and analyzes multiscale mathematical models of decentralized search and resource exchange in social insect groups, with a focus on honeybee foraging behavior. The investigators will characterize how local behavioral rules\u2014such as reorientation driven by chemical gradients or neighbor alignment\u2014shape group-level efficiency in food discovery and redistribution. Using velocity-jump stochastic processes, asymptotic analysis of first-passage problems, and data-informed simulations, the team will derive encounter rates, transfer dynamics, and order statistics for motile agents under variable interaction regimes. The research plan is structured into four aims: (1) model the dynamics of encounters at fixed resource sites; (2) incorporate multisensory communication to examine search optimization; (3) analyze mobile agent-based food sharing via trophallaxis; and (4) validate models in natural hive environments with fluctuating resource inputs. Experimental observations will include high-resolution video of bees in controlled arenas, infrared tracking in observation hives, and quantification of food exchange using fluorescent labeling. The models will address adaptive features such as variable pheromone emission, stopping behavior during transfers, and reorientation based on local conditions. Model validation will involve parameter inference from empirical data and comparison of predicted and observed collective dynamics. This integrated modeling\u2013experiment framework will establish general principles for information-guided resource allocation in decentralized systems and contribute new theoretical tools for understanding biologically informed search and exchange processes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zachary",
+   "pi_last_name": "Kilpatrick",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zachary P Kilpatrick",
+   "pi_email_addr": "zpkilpat@colorado.edu",
+   "nsf_id": "000539544",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Orit",
+   "pi_last_name": "Peleg",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Orit Peleg",
+   "pi_email_addr": "orit.peleg@colorado.edu",
+   "nsf_id": "000759607",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

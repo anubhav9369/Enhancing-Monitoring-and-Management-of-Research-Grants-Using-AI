@@ -1,0 +1,122 @@
+{
+ "awd_id": "2443515",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Bridging the Information Gap in Memory and Storage",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 652259.0,
+ "awd_amount": 239150.0,
+ "awd_min_amd_letter_date": "2025-04-02",
+ "awd_max_amd_letter_date": "2025-04-02",
+ "awd_abstract_narration": "Computer systems make use of \"memory\" to hold data in the short term and \"storage\" to hold data in the long term. Both memory and storage have experienced technological advances driven by the rise of data-intensive applications such as data analytics and machine learning and improvements in hardware. However, the performance of the combined hardware devices and software systems that manage device access is limited by the information available to and from systems and storage devices. This research project aims to bridge the information gap between software systems and hardware devices by embedding implicit hints in its communication channel that exists between systems and devices. The project's novelties are (1) the idea of implicit hints on performance to be passed over the channel , and (2) its practical application for hardware-software optimizations. The project's broader significance and importance are (1) the improved sustainability and performance of computer systems and (2) the enhancement of workforce development and education pipeline for computer systems.\r\n\r\nMore specifically, this project focuses the memory and storage stack whose interfaces are narrow. The key insight is that for both memory and storage, translation layers exists both above and below the interfaces (physical memory address and logical block addresses, respectively) that allow hints to be passed while maintaining backward compatibility. The research objectives are achieved through three planned thrusts. First, it architects a flash memory-based solid-state drive that supports differentiated performance by balancing its various internal techniques and implementing the address remap command through learned indexing. Second, the project rethinks file system policies for implicit differentiation by revisiting block allocation, page cache, and file defragmentation. Lastly, the project creates a holistic memory management scheme for far memory by considering their interconnect topology and device performance characteristics. The resulting techniques will also drive innovative classroom lessons in computer systems for advancing our technological work force.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bryan",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bryan S Kim",
+   "pi_email_addr": "bkim01@syr.edu",
+   "nsf_id": "000813175",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Syracuse University",
+  "inst_street_address": "900 S CROUSE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SYRACUSE",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "3154432807",
+  "inst_zip_code": "132444407",
+  "inst_country_name": "United States",
+  "cong_dist_code": "22",
+  "st_cong_dist_code": "NY22",
+  "org_lgl_bus_name": "SYRACUSE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C4BXLBC11LC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Syracuse University",
+  "perf_str_addr": "900 S CROUSE AVE",
+  "perf_city_name": "SYRACUSE",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "13244",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "22",
+  "perf_st_cong_dist": "NY22",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 239150.0
+  }
+ ],
+ "por": null
+}

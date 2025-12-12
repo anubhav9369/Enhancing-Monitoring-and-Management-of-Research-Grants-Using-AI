@@ -1,0 +1,134 @@
+{
+ "awd_id": "2441296",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Elicitation and Computational Challenges in Algorithmic Resource Allocation",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "eplaku@nsf.gov",
+ "po_sign_block_name": "Erion Plaku",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 261620.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "This project aims to develop algorithms and theoretical analysis for large-scale resource allocation, which involves distributing resources among various users, applications, or tasks. This process is essential in many contexts, including scheduling work shifts, providing aid during disasters, assigning courses to students, matching research papers with reviewers, and many other scenarios requiring distribution of goods, resources, or services. A key example is optimizing worker shift assignments to maximize efficiency while ensuring a balanced distribution of workloads among staff. Another example is coordinating the distribution of supplies and volunteers during disaster relief efforts to ensure that aid reaches those in need as quickly and effectively as possible. By improving resource allocation strategies, the project aims to enhance operational efficiency while achieving balanced distributions of resources to meet the needs of individuals and organizations across various fields. To achieve this, the project tackles three core challenges: (1) Effective Preference Elicitation \u2013 In many domains, users have complex preferences. For instance, a worker might be able to take either shift A or B but not both. This research direction focuses on developing methods to gather agent preferences effectively while minimizing cognitive burden. (2) Preference Uncertainty \u2013 Users may be uncertain about their preferences. For example, when assigning students to courses, match quality is inherently uncertain. The goal of this project is to develop allocation mechanisms that account for such inaccuracies in agent preferences. (3) Efficient Computation \u2013 Scaling algorithms to handle large problem instances is critical. For example, scheduling shifts in large organizations may involve hundreds of workers and thousands of shift slots. The project aims to design computational frameworks that produce balanced and efficient outcomes in such scenarios. The project will yield practical software tools that enhance AI-driven resource allocation. The educational activities will contribute to curriculum development on collective decision-making and further equip graduate students with essential academic skills, including public speaking, research methodologies, and scholarly writing. \r\n\r\nBy integrating techniques from machine learning and optimization, this research takes a comprehensive approach to resource allocation. It examines the full process from preference elicitation to algorithmic implementation and output guarantees. Specifically, the project will: (a) investigate methods for eliciting expressive yet tractable agent preferences; (b) explore automated prompting techniques to incentivize more complete preference reporting; (c) model preference uncertainty using learning-theoretic and statistical approaches; (d) develop simple, interpretable algorithms adaptable to various problem domains; and (e) ensure that final allocations are balanced, efficient, and robust. Through this interdisciplinary effort, the project seeks to advance the theoretical foundations and practical applications of balanced and efficient resource allocation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yair",
+   "pi_last_name": "Zick",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yair Zick",
+   "pi_email_addr": "yairzick@gmail.com",
+   "nsf_id": "000804690",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Amherst",
+  "inst_street_address": "101 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4135450698",
+  "inst_zip_code": "010039252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "UNIVERSITY OF MASSACHUSETTS",
+  "org_prnt_uei_num": "VGJHK59NMPK9",
+  "org_uei_num": "VGJHK59NMPK9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Amherst",
+  "perf_str_addr": "101 COMMONWEALTH AVE",
+  "perf_city_name": "AMHERST",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "010039252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 261620.0
+  }
+ ],
+ "por": null
+}

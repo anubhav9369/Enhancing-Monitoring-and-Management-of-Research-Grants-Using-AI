@@ -1,0 +1,102 @@
+{
+ "awd_id": "2516154",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Foundations of Super-Linearization",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-09-03",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "This award supports research on nonlinear dynamical systems that can model a wide range of engineered and natural processes in the real world, thereby promoting the progress of science, and advancing prosperity and welfare. Compared to linear systems, nonlinear dynamic systems are notoriously more challenging to analyze and control. The objective of this project is to leverage the more comprehensive theory of linear systems to address outstanding challenges in nonlinear dynamics. The project looks to achieve this goal through the concept of super-linearization of a nonlinear dynamical system. The application domains where such linearizations can be utilized include fluid dynamics, epidemiology, biology, neuroscience, chemical processes, plasma dynamics, finance, logistics, robotics, and power grids. In addition, the project includes an outreach plan that comprises organizing tutorials to introduce a larger part of the control community to super-linearization, and research opportunities to undergraduate students interested in dynamics and control.\r\n\r\nThis research aims to establish the groundwork for a unified theory of super-linearization, advancing the field forward. In essence, super-linearization of a nonlinear dynamical system involves transforming it into a linear system operating in a higher-dimensional state space, where its trajectories align with those of the original system after projection. This project comprises three research thrusts to address specific questions related to the existence, computation, and implementation of super-linearization. These thrusts are interconnected, yet none relies on the success of others to proceed, thereby mitigating the inherent risks associated with this research endeavor. More precisely, the first thrust employs algebraic methods to study super-linearizations, particularly focusing on the case of polynomial vector fields. The second thrust explores geometric aspects, to explore the properties of the space of super-linearizable vector fields, such as whether it is locally an infinite-dimensional manifold. The final thrust combines algebraic and graphical invariant theory to obtain practical insights into super-linearization and its implications to other relevant fields, including optimal control theory.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohamed-Ali",
+   "pi_last_name": "Belabbas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohamed-Ali Belabbas",
+   "pi_email_addr": "belabbas@illinois.edu",
+   "nsf_id": "000632905",
+   "pi_start_date": "2025-09-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

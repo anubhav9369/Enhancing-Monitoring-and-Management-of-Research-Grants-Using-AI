@@ -1,0 +1,114 @@
+{
+ "awd_id": "2515787",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Statistical estimation, inference, and discovery of complex PDEs using physics-informed neural networks",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927299",
+ "po_email": "yzeng@nsf.gov",
+ "po_sign_block_name": "Yong Zeng",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 239999.0,
+ "awd_amount": 239999.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Understanding dynamical processes/systems by learning the coefficients of partial differential equations (PDEs) is a fundamental problem in theoretical and applied sciences. In the statistical literature, recovering unknown parameters of PDEs from noisy observations belongs to a class of problems known as inverse problems. Researchers have long been developing methodologies for solving inverse problems, driven by their fundamental importance across a wide range of scientific and engineering domains. Recently, physics-informed neural networks (PINNs) have gained popularity for simultaneously solving partial differential equations (PDEs) and estimating their parameters from noisy observations. Despite their empirical successes, the statistical properties of these estimators remain poorly understood. In particular, due to the complexity of neural networks and the non-parametric function estimation involved, PINNs often produce biased estimates of PDE parameters. Such an estimation bias in this context can lead to inaccurate inference about the physical parameter of interest, with potentially serious implications for downstream applications. This project aims to develop a rigorous statistical framework to draw reliable inferences about the parameters learned by PINNs. The PIs will develop a novel debiasing technique to remove the bias of estimators obtained from PINNs, thus facilitating inference. The method is quite general and can be extended in multiple directions with real-world applications. \r\n\r\nThis project contributes to advancing the literature on the squared-root-rate estimation of finite-dimensional functionals in semiparametric models, especially in the context of PDE learning via neural networks. Current methods rely on undersmoothing the nonparametric component and cannot be applied directly to deep neural network models and PINNs. The debiasing method to be developed allows researchers to bypass this important challenge for PINN models, which is also easy to implement. Further important extensions to Physics-informed neural operators (PINO), where the nonparametric component is an operator, will be developed. This research also advances the literature on high-dimensional statistics. In many applications, the exact form of the observed PDE may be unknown, leading to the PDE discovery problem, a uniquely challenging version of sparse high-dimensional regression. By leveraging techniques from sparse high-dimensional regression literature combined with the debiasing method, this research will develop a framework for solving the PDE discovery problem with high probability, along with reliable statistical guarantees. Finally, on the applied side, this research also aims to contribute to atmospheric science. Using the developed PINN methodologies, the PIs aim to obtain a more precise understanding of the dynamics of the intertropical convergence zone (ITCZ) in West Africa, which will ultimately improve the ability to predict rainfall under the tropics on a seasonal scale.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Debarghya",
+   "pi_last_name": "Mukherjee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Debarghya Mukherjee",
+   "pi_email_addr": "mdeb@bu.edu",
+   "nsf_id": "000988256",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yves",
+   "pi_last_name": "Atchade",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yves Atchade",
+   "pi_email_addr": "atchade@bu.edu",
+   "nsf_id": "000090281",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 239999.0
+  }
+ ],
+ "por": null
+}

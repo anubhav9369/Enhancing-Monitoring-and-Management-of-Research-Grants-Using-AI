@@ -1,0 +1,142 @@
+{
+ "awd_id": "2531357",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCC-IRG: Measuring and Improving Traffic Stops: An AI-Powered Approach to Analyzing Bodyworn Camera Footage",
+ "cfda_num": "47.070, 47.075",
+ "org_code": "05050000",
+ "po_phone": "7032925034",
+ "po_email": "wbauchsp@nsf.gov",
+ "po_sign_block_name": "Wenda K. Bauchspies",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1250000.0,
+ "awd_amount": 1250000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Police traffic stops are common, complex interactions that can be a tool to improve public safety or escalate to violence. Effective communication in these situations is crucial to ensure officer and civilian safety, enforce the law, and build public trust. This project develops artificial intelligence (AI) tools that enable researchers to analyze footage from officers\u2019 body-worn cameras, learn about officer-driver communication and refine best practices for traffic stop outcomes. To achieve this, the project draws on collaborative research capacity developed between academic researchers, the Los Angeles Police Department, and over a dozen community organizations. The research team\u2019s multidisciplinary, community-engaged approach ensures that the AI tools being developed reflect a wide range of viewpoints and address the concerns of these different stakeholders. These AI tools are trained on assessments created by individuals from varied backgrounds, including retired police officers and Angelenos with a mix of past positive and negative experiences interacting with the police. After development, these tools can be used by police departments and local governments across the country to lower costs and enhance transparency, accountability and learning.\r\n\r\nThis project advances computer, social, and engineering science by developing video language models that incorporate multiple stakeholder perspectives and building infrastructure to support collaborative development of AI tools for public safety. The project moves beyond text-only analysis by developing novel video language models for body-worn video footage and using them to generate accurate, explainable summaries. These models achieve a high level of performance across all stakeholder groups by directly incorporating varied stakeholder viewpoints via personalized reinforcement learning from human feedback and novel multi-task learning. The project improves researcher data access, fosters collaborative annotation and shared-task evaluation, and advances AI for public safety by building a secure, anonymized research corpus of publicly released body-worn camera footage and hosting a community platform for video annotation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Morteza",
+   "pi_last_name": "Dehghani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Morteza Dehghani",
+   "pi_email_addr": "mdehghan@usc.edu",
+   "nsf_id": "000644831",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shrikanth",
+   "pi_last_name": "Narayanan",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shrikanth S Narayanan",
+   "pi_email_addr": "shri@sipi.usc.edu",
+   "nsf_id": "000377152",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Benjamin",
+   "pi_last_name": "Graham",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Benjamin Graham",
+   "pi_email_addr": "benjamin.a.graham@usc.edu",
+   "nsf_id": "000613217",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nicholas",
+   "pi_last_name": "Weller",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicholas Weller",
+   "pi_email_addr": "nweller@ucr.edu",
+   "nsf_id": "000805378",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3620 McClintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900892921",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "033Y00",
+   "pgm_ele_name": "S&CC: Smart & Connected Commun"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "042Z",
+   "pgm_ref_txt": "S&CC: Smart and Connected Communities"
+  },
+  {
+   "pgm_ref_code": "157Z",
+   "pgm_ref_txt": "Nat Security, Secure Border & Pub Safety"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1250000.0
+  }
+ ],
+ "por": null
+}

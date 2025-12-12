@@ -1,0 +1,98 @@
+{
+ "awd_id": "2514054",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Frameworks: MPI4AI: Enhancing Performance and Productivity of AI Science through Next-generation High Performance Communication Abstractions",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928104",
+ "po_email": "shabagch@nsf.gov",
+ "po_sign_block_name": "Sharmistha Bagchi-Sen",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 1200000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "This CSSI project is a multi-university collaboration between Tennessee Technological University, the University of Tennessee, Knoxville, Stony Brook University, and the Illinois Institute of Technology. This project improves how massively parallel computers run large-scale artificial intelligence (AI) applications by enhancing the Message Passing Interface (MPI), a widely used standard for coordinating work across many computers in parallel programs. Currently, the enabling data-transfer software used in AI, for communication between computers enhanced by Graphical Processing Units (GPUs), are often proprietary and/or limited in scope; they cannot be expanded or enhanced by an open community. That situation restricts innovation, making it harder for scientists to collaborate and enhance their science output on limited computer resources, while also creating dependency on a few vendors. By contrast, this project builds on and advances Open MPI, a major open-source implementation of MPI with a long history of broad impact, to make it more efficient, flexible, and better suited for modern AI tasks. In addition to improving the Open MPI implementation, MPI4AI aims at standardizing extensions to MPI so all implementations and users of MPI will benefit from this project's outcome.\r\n\r\nMPI4AI introduces key improvements to Open MPI, including native support for GPU communication, enhanced collective (group) communication operations including those that are AI-algorithm specific, compute stream integration, and optimized data movement. Specifically, these advances target performance bottlenecks in three AI patterns: neural architecture search with transfer learning, key-value prefix caching in large language model inference, and large-scale data-parallel training. The project improves resilience and malleability through fault-tolerant mechanisms, enabling AI applications to adapt dynamically to system changes and to use resources more efficiently. By forwarding these enhancements toward adoption in the upcoming MPI-5 and MPI-6 standards, the project ensures long-term impact across both academic research and industrial AI workflows. These contributions will lower the cost of running large AI workloads and broaden access to scalable AI infrastructure. MPI4AI's capabilities will enable researchers exploring new modalities of AI computation to express their algorithms and code efficiently and more effectively as compared to existing solutions that work within the confines of current MPI features and vendor-specific message-passing libraries. Underlying improvements devised for Open MPI will also be broadly beneficial to other use cases and users of this parallel programming system. Overall, key strengths of this effort are a strong commitment to standardization and emphasis on performance-portability across various hardware platforms with particular focus on AI-enablement.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anthony",
+   "pi_last_name": "Skjellum",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anthony Skjellum",
+   "pi_email_addr": "askjellum@tntech.edu",
+   "nsf_id": "000446874",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tennessee Technological University",
+  "inst_street_address": "1 WILLIAM L JONES DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "COOKEVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "9313723374",
+  "inst_zip_code": "385050001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "TN06",
+  "org_lgl_bus_name": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KZNHNMDUTJA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tennessee Technological University",
+  "perf_str_addr": "1 WILLIAM L JONES DR",
+  "perf_city_name": "COOKEVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "385050001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "TN06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1200000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2505011",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: NeTS: Medium: Intent-based Internet Ingress Routing",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 575515.0,
+ "awd_amount": 575515.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "This project aims to make the Internet more reliable by giving operators more control over how data reaches their network from other parts of the Internet. Today, network operators rely on trial and error, and often settle on subpar outcomes, because they do not have direct control over or visibility into which geographic locations and other networks the data will traverse to reach their network. This project aims to change that by creating a system where operators can simply specify their goals, such as improving performance or avoiding particular countries, and then the system figures out how to make that happen. This collaborative project brings together investigators from Columbia University, Northeastern University, and Federal University of Minas Gerais (UFMG) in Brazil.\r\n\r\nThe project envisions a system that allows a network operator to describe the policy for how to set preferences for possible ingress routes (which the project calls \u201cintents\u201d), then automatically configures routing announcements to achieve the most preferred (feasible) outcome. To realize this vision, the project will address the following research questions: 1) What intents are desired, and how can it be made easy for operators to express them? 2) How can a system predict the routes and traffic engineering metrics that will result from an announcement? 3) How can a system automatically learn which configurations are possible and what their semantics are? 4) What are efficient ways to search through large numbers of configurations spanning multiple networks to satisfy general intent? \r\n\r\nThe project will enable new ways for Internet providers and cloud services to improve the reliability and performance of Internet services on which society increasingly relies. For example, our project can help Internet providers maintain service during and after natural disasters, as well as identify and block Internet attacks. It will help improve performance for a wide range of services that include online educational technologies, telemedicine, remote work, and/or various forms of e-commerce and entertainment.  The research outcomes will also serve as a foundation for future academic and industrial innovation in Internet routing.\r\n\r\nProject updates and outcomes will be published at https://ingress-routing.ee.columbia.edu/, with the plan to maintain the site for at least three years beyond the award period.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ethan",
+   "pi_last_name": "Katz-Bassett",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ethan Katz-Bassett",
+   "pi_email_addr": "ethan@ee.columbia.edu",
+   "nsf_id": "000608978",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 575515.0
+  }
+ ],
+ "por": null
+}

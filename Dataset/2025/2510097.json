@@ -1,0 +1,106 @@
+{
+ "awd_id": "2510097",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Developing a Polarizable 3DRISM Implicit Solvent Model for AMOEBA Solutes to Enable Efficient and Accurate RNA Simulations",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 378025.0,
+ "awd_amount": 378025.0,
+ "awd_min_amd_letter_date": "2025-04-09",
+ "awd_max_amd_letter_date": "2025-04-09",
+ "awd_abstract_narration": "Xuhui Huang of University of Wisconsin, Madison and Pengyu Ren of University of Texas, Austin are supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develope a new polarizable implicit solvent model for efficient and accurate RNA modeling. RNAs play a key role in regulating gene expression and many other vital cellular processes. Understanding how RNAs bind and fold is key to uncovering their molecular mechanisms and advancing RNA-based molecular design. Traditional molecular dynamics (MD) simulations, which do not account for electronic polarization, often fail to accurately model highly charged RNAs. In particulalr, water molecules, being highly polarizable, behave differently near these charged RNAs compared to in bulk water. In addition, explicit sovent based MD simulations are computationally expensive. To address these chanllenge, Huang and Ren will develop a new polarizable solvation model that represents water molecules around RNAs implicitly through statistical descriptions of water density and correlations. This model will adapt to changes in the local electrostatic environment, ensuring high efficiency and accuracy in modeling RNAs. Huang and Ren will apply this model to study RNA hybridization, RNA-small molecule binding, and ion-induced RNA folding. As part of the educational and component of this project, they will integrate their research findings into undergraduate and graduate courses to enhance STEM education. The developed software will be publicly available through the TINKER software package on GitHub and training workshops will be organized to educate the scientific community on the efficient use of the software.\r\n\r\nCompared to the explicit solvent models, the 3-Dimensional Reference Interaction Site Model (3DRISM) simplifies the all-atom description of solvation into a density-based representation of the solvent surrounding the solute. 3DRISM eliminates the need to sample explicit solvent configurations and enables the explicit inclusion of ions (e.g., Mg\u00b2\u207a), which are crucial for accurate RNA modeling. However, current 3DRISM solvent models rely on pair correlation functions and cannot explicitly account for the many-body response in solvent. To overcome these limitations, Huang and Ren will develop a polarizable-3DRISM (p3DRISM) implicit solvent model to accurately model polarizable solvation for polarizable AMOEBA solutes. First, Huang and Ren will derive a new form of the 3DRISM equation that incorporates solute-solvent-solvent 3-body correlations and will develop an efficient implementation of this new equation, based on linear response theory. This approach accounts for changes in solvent-solvent correlation functions induced by polarization from the local electric field. Secondly, they will incorporate polarizable solute-solvent interactions through induced dipoles in the p3DRISM scheme. Huang and Ren will apply AMOEBA-p3DRISM to calculate free energies for RNA hybridization and RNA-small molecule binding, as well as to model Mg\u00b2\u207a-induced folding of RNA k-turns. The software and algorithms developed will benefit the pharmaceutical and biotech industries, especially in RNA-based therapy and computer-aided drug discovery. Additional broad impacts include outreach to undergraduates at University of Wisconsin, Madison and University of Texas, Austin, integration of research findings into coursework, and training workshops for the scientific community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xuhui",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xuhui Huang",
+   "pi_email_addr": "xhuang@chem.wisc.edu",
+   "nsf_id": "000873074",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 378025.0
+  }
+ ],
+ "por": null
+}

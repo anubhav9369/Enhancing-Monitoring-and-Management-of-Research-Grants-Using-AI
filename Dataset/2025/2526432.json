@@ -1,0 +1,110 @@
+{
+ "awd_id": "2526432",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Neural Network-Inspired Information Processing Beyond the Binary Digital Abstraction",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 211129.0,
+ "awd_min_amd_letter_date": "2025-04-02",
+ "awd_max_amd_letter_date": "2025-04-02",
+ "awd_abstract_narration": "This project approaches the question of higher performance and better energy efficiency in electronic chip design with two key insights from biological systems: non-Boolean information encoding (analog processing in brain), and co-localized memory and computation (as in brain synapses). The specific objective of this project is to create a design framework for efficient information processing with intrinsic non-binary representations and in-memory memory and computation. If successful, this project can shed light on the fundamental role of information encoding and its physical implementation in determining system energy efficiency, as well as provide practical design automation methodology to infuse computation and learning into the analog/mixed-signal (AMS) domain before the digitalization step. Apart from its technological impacts, the integrated educational plan of this project is to empower students from all backgrounds with interdisciplinary experience and to cultivate a community of lifelong learners with social awareness.\r\n\r\nThe project will enable joint optimization of circuit, architecture, and algorithm in a seamless manner across wide-range of applications including in-memory computing (IMC) and near-sensor processing (NSP), and consists of three major research thrusts: (1) to advance AMS design automation, novel neural network-inspired model abstraction, and hardware substrate will be developed to enable a streamlined design flow that uses AMS circuits as building blocks for information processing; (2) to support flexible and efficient in-memory computing architecture, this project will build intelligent and malleable peripheral interfaces and compilation framework by leveraging the AMS design methodology developed earlier; (3) to address the energy efficiency challenge in resource-constrained sensor systems, it will explore a context-aware analog-to-information frontend design by developing efficient near-sensor processing with multiple signal channels and multiple sensing modalities. These will serve as building blocks towards understanding the holistic interactions and design trade-offs of performance, efficiency, safety, and security in heterogeneous systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xuan",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xuan Zhang",
+   "pi_email_addr": "xuan.zhang@northeastern.edu",
+   "nsf_id": "000700363",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 211129.0
+  }
+ ],
+ "por": null
+}

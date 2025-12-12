@@ -1,0 +1,126 @@
+{
+ "awd_id": "2546265",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Modeling and Mitigating Error Propagation in High-Performance Computing Applications",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 590074.0,
+ "awd_amount": 51180.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "In the world of high-performance computing (HPC), the growing complexity and shrinking size of hardware components make systems more vulnerable to \"soft errors\"\u2014 temporary glitches that can disrupt calculations. Traditionally, these issues were managed through hardware-based solutions like redundancy, but these approaches consume significant energy, a major concern for modern processors. This project addresses the challenge of making HPC systems more resilient to soft errors without the high energy costs of traditional methods. It focuses on identifying and protecting the most vulnerable parts of a program \u2014 the specific states where errors are most likely to cause problems. By doing this efficiently, the project aims to ensure that programs can continue to function correctly even when errors occur. The broader benefits of this project include advancing the field of reliable computing, promoting energy-efficient technologies, and supporting education by making cutting-edge resilience techniques accessible to software developers and classrooms. Ultimately, this work contributes to the creation of more robust and efficient computing systems that can handle the increasing demands of modern technology, benefiting industries, education, and society as a whole.\r\n\r\nThis project aims to address the increasing vulnerability of HPC systems to transient hardware faults, or soft errors, which are exacerbated by larger system scales, advanced technology scaling, and lower operating voltages. Traditional hardware-only solutions such as dual modular redundancy are becoming less viable due to their high energy consumption, making it essential for future HPC applications to tolerate such faults. The project focuses on developing a compiler-directed framework that rapidly and accurately models error propagation, identifying and protecting only the most vulnerable program states to minimize performance and energy overheads. The project involves integrating static program analysis, dynamic input fuzzing, program invariants, redundancy, and compiler code transformations to create an efficient protection strategy. By automating the process of hardening programs to meet specific reliability targets, the investigator aims to advance the field of reliable computing, reducing the barriers to implementing resilience techniques in HPC systems, and contributing to the development of energy-efficient, fault-tolerant software.\r\n\r\nThis project is jointly funded by the Software and Hardware Foundations Program, the Office of Advanced Cyberinfrastructure, and the Established Program to Stimulate Competitive Research (EPSCoR) Program.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guanpeng",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guanpeng Li",
+   "pi_email_addr": "guanpeng-li@uiowa.edu",
+   "nsf_id": "000842522",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  },
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 51180.0
+  }
+ ],
+ "por": null
+}

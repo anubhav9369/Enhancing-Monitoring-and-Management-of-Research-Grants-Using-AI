@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443076",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Computational Modeling of Human-Robot Physical and Social Interactions through Shared Representations and Theory of Mind Reasoning",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927557",
+ "po_email": "amedinab@nsf.gov",
+ "po_sign_block_name": "Alexandra Medina-Borja",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 665000.0,
+ "awd_amount": 665000.0,
+ "awd_min_amd_letter_date": "2025-06-04",
+ "awd_max_amd_letter_date": "2025-06-04",
+ "awd_abstract_narration": "As robots become increasingly integrated into society, enabling rich, adaptive social interactions through physical actions is essential. Despite significant advances in human-robot interaction (HRI), current computational models are designed for specific types of interactions, making it difficult to generalize across different social and task-based scenarios. Research funded by this Faculty Early Career Development (CAREER) award attempts to address this limitation by incorporating shared representations and Theory of Mind (ToM) reasoning into robotic decision frameworks, enhancing their ability to interpret, predict, and respond to humans in a wide-range of physical-social interactions. This project looks to make fundamental contributions to HRI with potentially important applications to autonomous driving, healthcare, service, and home assistance applications.\r\n\r\nThis research aims to develop new computational frameworks that support a broad range of cooperative and non-cooperative physical interactions by integrating three key components: 1. Shared Representations for Physical Social Interaction \u2013 modeled as a symbol-grounding process, optimizing motion prediction and inverse planning to connect human actions and intentions to the robot\u2019s understanding of the scene. 2. Higher-Order ToM Reasoning \u2013 enabling robots to estimate human intentions at multiple cognitive levels, dynamically adapting to real-time task and motion changes. 3. Scalable Evaluation Framework \u2013 automating large-scale testing of novel interactions in simulation, followed by deployment on physical robots for real-world validation in household tasks. This project looks to also advance robotic social intelligence in AI education. It will develop open-source libraries and course materials that integrate psychological principles (e.g., ToM and social perception) into undergraduate AI and graduate robotics curricula and research mentorship.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yen-Ling",
+   "pi_last_name": "Kuo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yen-Ling Kuo",
+   "pi_email_addr": "ylkuo@virginia.edu",
+   "nsf_id": "000970151",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "058Y00",
+   "pgm_ele_name": "M3X - Mind, Machine, and Motor"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7632",
+   "pgm_ref_txt": "HUMAN-ROBOT INTERACTION"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 665000.0
+  }
+ ],
+ "por": null
+}

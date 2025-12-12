@@ -1,0 +1,114 @@
+{
+ "awd_id": "2530143",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RI: Small: Controlling Generative Models",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 594753.0,
+ "awd_amount": 594753.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Artificial intelligence (AI) systems that generate text and images, such as chatbots and image creation tools, have become increasingly powerful and widespread. However, these systems often produce unpredictable outputs that can be inappropriate, illogical, or harmful, especially in sensitive applications like healthcare, customer service, and education. For example, a medical chatbot might accidentally provide incorrect health information, or an image generator might create illogical content. This unpredictability prevents these technologies from being safely deployed in many important real-world applications where reliability is crucial. This project addresses this critical problem by developing new methods to give users precise control over what these artificial intelligence systems generate, while maintaining their creative capabilities. The research will enable safer deployment of generative artificial intelligence in sensitive settings and unlock new applications that require guaranteed reliability. The work will advance the field of artificial intelligence safety, support education through safer AI tools, and benefit society by enabling AI systems that can be confidently used in healthcare, education, and other critical domains.\r\n\r\nThis project develops novel approaches to control generative models through three interconnected research thrusts. First, the team will investigate language diffusion methods that integrate the controllability of diffusion models with autoregressive text generation, including guidance mechanisms for transformer posterior distributions and diffusion-based planning architectures for controllable internal reasoning at inference time. Second, the research will develop inference-time personalization methods for large language models using classifier-guided and classifier-free approaches that leverage conditional independence between preference dimensions to avoid exponential complexity. Third, the project will create a principled framework for fine-tuning image diffusion models using human preferences through iterative classifier-guided diffusion processes, where classifiers are trained with pseudo-labels from reward models. The research methodology combines theoretical analysis of probabilistic inference frameworks with empirical validation across text and image generation tasks. The project will produce new algorithms, software implementations, and evaluation frameworks that enable reliable control over generative model outputs while preserving their generative capabilities. This work will advance the theoretical understanding of controllable generation and provide practical tools for deploying generative artificial intelligence in safety-critical applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wen",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wen Sun",
+   "pi_email_addr": "ws455@cornell.edu",
+   "nsf_id": "000845240",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kilian",
+   "pi_last_name": "Weinberger",
+   "pi_mid_init": "Q",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kilian Q Weinberger",
+   "pi_email_addr": "kilianweinberger@cornell.edu",
+   "nsf_id": "000576980",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 Pine Tree Road",
+  "perf_city_name": "Ithaca",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 594753.0
+  }
+ ],
+ "por": null
+}

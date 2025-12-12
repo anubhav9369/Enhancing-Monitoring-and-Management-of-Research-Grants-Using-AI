@@ -1,0 +1,110 @@
+{
+ "awd_id": "2519938",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Comparing Decision Makers: Theory and Implications for AI",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032927280",
+ "po_email": "nlutz@nsf.gov",
+ "po_sign_block_name": "Nancy Lutz",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 460999.0,
+ "awd_amount": 460999.0,
+ "awd_min_amd_letter_date": "2025-07-22",
+ "awd_max_amd_letter_date": "2025-07-22",
+ "awd_abstract_narration": "This project develops a new method for comparing human and artificial intelligence (AI) decision-making, generating insight on how to combine human and AI input in high-stakes decisions like medical diagnoses. While researchers can easily observe an AI tool\u2019s prediction process, human decision-making is more complicated. For example, a radiologist\u2019s diagnostic decisions may reflect both their judgments about the presence of cancer and their assessments of the cost of an incorrect diagnosis, but researchers often only observe their final decision. This project develops a method for comparing human and AI decision-making that accounts for complex human preferences and judgements caused by factors that the researcher cannot directly observe. The researchers apply these methods to a radiology setting, using data from a large clinical trial to compare an AI tool\u2019s predictions of lung cancer to radiologists\u2019 diagnoses. This research helps determine the optimal use of AI in high-stakes decisions by answering questions like the following: What valuable information do humans infer that AI assessments miss? What are the intricacies of human preferences during decision-making, and how do these intricacies affect the quality of human decisions compared to AI decisions? This research generates insights that can be used to design better AI-supported decision systems in radiology and other high-stakes settings, leading to public health benefits, a deeper understanding of human and AI decisions, and more responsible use of AI.\r\n\r\nThe project makes three methodological and empirical contributions. First, the researchers show that commonly used approaches for comparing human experts against predictive algorithms are biased in favor of algorithms if the preferences of human experts vary due to factors not observed in the data. Second, the researchers construct bounds on the quality of human expert predictions in the presence of unobserved preference heterogeneity and identify in which specific cases the human expert observes useful private information. Third, the researchers characterize the distribution of preferences across human decision-makers and cases. In an application, the project uses data from the National Lung Screening Trial to compare an AI tool for lung cancer detection against radiologists, empirically quantifying the importance of private information observed by humans that is missed by the AI tool and the extent of preference heterogeneity across cases and radiologists. Using these results, the researchers consider two practical problems: the delegation of cases to humans or AI based on case characteristics, and the design of an automated decision-making tool that aligns AI predictions with the newly determined bounds on human decision-maker preferences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nikhil",
+   "pi_last_name": "Agarwal",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nikhil Agarwal",
+   "pi_email_addr": "agarwaln@mit.edu",
+   "nsf_id": "000663319",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ashesh",
+   "pi_last_name": "Rambachan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ashesh Rambachan",
+   "pi_email_addr": "asheshr@mit.edu",
+   "nsf_id": "0000A2W8N",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "132000",
+   "pgm_ele_name": "Economics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 460999.0
+  }
+ ],
+ "por": null
+}

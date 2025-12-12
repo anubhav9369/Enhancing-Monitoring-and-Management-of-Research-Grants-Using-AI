@@ -1,0 +1,102 @@
+{
+ "awd_id": "2501783",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Optimizing Switch-Based Metamaterials Using Machine Learning to Enhance Phased Array Performance",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 199109.0,
+ "awd_amount": 199109.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Due to the ubiquity of wireless systems, any advancement in their fundamental capabilities significantly impacts society. Such advancements can enhance the bandwidth of wireless networks, increase the precision of military and weather radar systems, and boost the performance of scientific instruments. Radio-frequency (RF) antennas play a crucial role in these wireless systems by converting electrical signals into electromagnetic fields that radiate in specific directions. By precisely controlling the direction of these electromagnetic waves (known as the radiation pattern), wireless systems can concentrate their signal power efficiently, enhancing their overall effectiveness. The advent of phased arrays, which are collections of antennas that can electronically alter their radiation patterns, has revolutionized the capabilities of wireless systems. However, traditional phased array performance is limited by the properties and placements of their individual antennas. These challenges can be addressed by integrating metamaterials (passive metallic structures that manipulate electromagnetic fields in beneficial ways) into the phased array. Recent advances in metamaterials equipped with programmable switches have shown promise in dynamically adjusting radiation patterns, paving the way for phased arrays with improved control over electromagnetic waves. This project aims to tackle the computational challenges associated with optimizing the settings of these programmable metamaterials. By leveraging recent advances in artificial intelligence (AI), a deep neural network is trained on both simulated and experimental data to uncover the relationships between switch settings and radiation pattern characteristics. The network is then analyzed to create a human-interpretable representation of these relationships. The insights gained then inform enhancements to the deep neural network, the optimization approach, and the design of improved metamaterials. Ultimately, the project seeks to advance the field of programmable metamaterial design and enhance the performance of antenna and phased array technologies. On the education side, this project establishes a new integrated research and education program in Hofstra University, a primarily undergraduate institution, to motivate and train students toward professional careers in RF engineering, contributing to the workforce development in the local civilian and military telecommunications industry.\r\n\r\nThis project characterizes the optimization problem presented by programmable metamaterials embedded in the near-field of a phased array, focusing on three main research objectives: (1) develop an effective deep learning approach that solves example problems and efficiently utilizes computational resources, (2) visualize and characterize the optimization problem's feature space while analyzing the electromagnetic properties of these features, and (3) identify methods to simplify the optimization problem and enhance metamaterial design by leveraging the feature space and its electromagnetic properties. To achieve objective (1), a convolutional neural network is trained using supervised learning with simulated training data. Transfer learning techniques fine-tune the neural network on an existing array with embedded programmable metamaterials; the array is also utilized to test the network's performance. For objective (2), feature visualization and attribution techniques extract and interpret the features identified by the neural network. These features undergo study through finite element analysis to identify the electromagnetic mechanisms driving performance improvements. Additionally, the features are examined to identify patterns that can be leveraged to reduce the complexity of the optimization problem. Finally, for objective (3), insights into the optimization problem's feature space inform strategies to simplify the optimization problem and enhance metamaterial designs, further improving the performance of both the neural network and the phased array.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Williamstyer",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "David E Williamstyer",
+   "pi_email_addr": "d.e.williamstyer@hofstra.edu",
+   "nsf_id": "0000A0V0M",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Hofstra University",
+  "inst_street_address": "128 HOFSTRA UNIVERSITY",
+  "inst_street_address_2": "",
+  "inst_city_name": "HEMPSTEAD",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5164636810",
+  "inst_zip_code": "115491280",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NY04",
+  "org_lgl_bus_name": "HOFSTRA UNIVERSITY",
+  "org_prnt_uei_num": "SR22RUJJ11H2",
+  "org_uei_num": "SR22RUJJ11H2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Hofstra University",
+  "perf_str_addr": "128 HOFSTRA UNIVERSITY",
+  "perf_city_name": "HEMPSTEAD",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "115491280",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NY04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199109.0
+  }
+ ],
+ "por": null
+}

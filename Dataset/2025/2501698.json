@@ -1,0 +1,110 @@
+{
+ "awd_id": "2501698",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Multiscale Electromechanical Modeling of Stomach Motility and Structure for Advancing Digital Twin Models",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924204",
+ "po_email": "shisharm@nsf.gov",
+ "po_sign_block_name": "Shivani Sharma",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 199208.0,
+ "awd_amount": 199208.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) project supports research that studies the fundamental biomechanics of stomach motility to better understand how its complex structure contributes to digestive function. Millions of Americans suffer from gastrointestinal disorders such as irritable bowel syndrome and gastroparesis, which cause significant discomfort and healthcare costs. These conditions are difficult to diagnose and treat because the stomach is not a uniform organ\u2014it has multiple layers, each with different mechanical properties and fiber orientations that influence its ability to contract and move food. This project aims to fill this knowledge gap by integrating medical imaging, computer modeling, and biomechanics to study the stomach\u2019s mechanical behavior in detail. By establishing a scientific foundation for stomach function, this research looks to help advance biomechanics and mechanobiology while training students in cutting-edge computational and experimental techniques. The project will also support science, technology, engineering, and mathematics education by offering hands-on training in biomedical engineering, computational modeling, and soft tissue mechanics, contributing to the development of a skilled workforce in biomedical research and healthcare technology.\r\n\r\nThis study intends to develop a multiscale, physics-based electromechanical modeling framework for stomach motility by integrating microstructure-based mechanics, ion-based electrophysiology, and four-dimensional medical imaging. A key focus is characterizing stomach heterogeneity by analyzing its layered structure, each with distinct fiber orientations and mechanical properties that affect contraction patterns. A microstructure-based constitutive model will be developed and validated through experimental mechanical testing, including tensile, indentation, and optical imaging-based assessments on porcine tissue. A computational pipeline will be designed to construct three-dimensional, patient-specific stomach models incorporating these experimentally derived properties, enabling high-fidelity simulations of stomach deformation and motility mechanics. By leveraging high-resolution, time-resolved computed tomography imaging, this project will attempt to establish a rigorous, first-principles-based approach to modeling stomach function. This research looks to represent a fundamental advance in biomechanics and mechanobiology by bridging critical gaps in stomach electromechanical modeling. The resulting digital twin framework hopes to provide a foundation for future studies on stomach biomechanics and functional disorders, with broad implications for biomedical research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Shi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Shi",
+   "pi_email_addr": "lshi@kennesaw.edu",
+   "nsf_id": "000948653",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kennesaw State University Research and Service Foundation",
+  "inst_street_address": "1000 CHASTAIN RD NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "KENNESAW",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4705786381",
+  "inst_zip_code": "301445588",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "GA11",
+  "org_lgl_bus_name": "KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G8DZHNRKWTN3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kennesaw State University Research and Service Foundation",
+  "perf_str_addr": "1000 CHASTAIN RD NW",
+  "perf_city_name": "KENNESAW",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "301445588",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "GA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "747900",
+   "pgm_ele_name": "BMMB-Biomech & Mechanobiology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "028E",
+   "pgm_ref_txt": "BIOMECHANICS"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199208.0
+  }
+ ],
+ "por": null
+}

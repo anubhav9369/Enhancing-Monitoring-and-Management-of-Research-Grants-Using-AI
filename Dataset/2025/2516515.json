@@ -1,0 +1,114 @@
+{
+ "awd_id": "2516515",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Computational discovery of block polymer materials",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922340",
+ "po_email": "rhoy@nsf.gov",
+ "po_sign_block_name": "Robert Hoy",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 372649.0,
+ "awd_amount": 244960.0,
+ "awd_min_amd_letter_date": "2025-03-05",
+ "awd_max_amd_letter_date": "2025-03-05",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY\r\n\r\nA polymer is a long chain created by bonding together many building blocks known as monomers. Polymers are essential to daily life, from technologies such as plastics to biopolymers such as DNA. A diblock copolymer is created by bonding two chemically different polymers at their ends. In most cases, different polymers do not want to mix, so they phase separate similar to the way that oil and water separate in salad dressing. In contrast, block polymers cannot phase separate because the two blocks are bonded at their ends. Rather, block polymers spontaneously undergo a process known as \u201cself-assembly\u201d to create an ordered structure with nanometer-sized domains that minimizes the frustration created by their inability to phase separate. These domains can have different physical properties, e.g., regularly spaced, rubbery spherical inclusions in an otherwise glassy material, creating multifunctional materials. Self-assembly occurs in a wide range of soft materials, from soaps to biomaterials, and block polymers serve as an important model system to understand the physics that drives self-assembly.\r\n\r\nA long-standing goal in this area is predicting the ordered structure that will result from self-assembly based on the chemistry of the different blocks, the number of monomers in each block, and the temperature. Such a predictive ability would remove the need for tedious trial-and-error experimentation. The theory of block polymer self-assembly is remarkably powerful but suffers from a \u201cchicken or the egg\u201d conundrum: To perform the required calculations, one needs to know the structure that will be formed in advance. While this need poses no problems for understanding what has already been observed in experiments, it makes it extremely difficult to discover new block polymer materials via theory. This project will overcome this challenge, using generative artificial intelligence methods, similar to those that create new pictures from a library of images, to generate new possible block polymer structures by learning from a library of known structures. Machine learning will then be used to identify block polymers with appropriate chemistries and processing temperatures that will spontaneously form these new structures. \r\n\r\nThis project will turn the theory of block polymer self-assembly from a tool primarily used for explanation to one that can be used for exploration and, ultimately, to design new materials with novel properties. The development of these computational techniques will provide graduate and undergraduate researchers with advanced training in polymer physics and high-performance computing, contributing to the US workforce, and the computer codes developed for this work will be released to the public so that others can use them for their research. High school students will be involved in the generative artificial intelligence part of the project, developing projects for the Minnesota Science Fair and sparking their interest in pursuing materials science as a future career path.\r\n\r\n\r\nTECHNICAL SUMMARY\r\n\r\nBlock polymers are amphiphilic materials created by bonding two or more different polymers at their ends. Below the order-disorder temperature, a block polymer melt selects an ordered state that balances chain stretching and interfacial tension, subject to the constraint of filling space at constant density. Self-consistent field theory (SCFT) has proven to be a remarkably successful approach for understanding the block polymer thermodynamics governing order state selection. However, the non-linear governing equations in SCFT require high quality initial guesses for convergence. These computational challenges pose an obstacle when using SCFT to discover new block polymer phases. To overcome this obstacle, this project will use a generative adversarial network that learns from existing SCFT solutions to propose starting points for subsequent SCFT calculations, which are expected to converge to novel solutions. Those solutions are anticipated to be metastable states. As a result, a hierarchical computational method will be developed to efficiently solve the inverse problem of identifying block polymer formulations that stabilize those new phases. This computational workflow will be used to identify novel phases in triblock terpolymers. In addition to exhibiting a wide variety of ordered states, triblock terpolymers are synthetically tractable with fast ordering kinetics, making experimental tests of the predictions from this project realistic.\r\n\r\nBlock polymers are the model system for understanding self-assembly in amphiphilic soft matter owing to their relatively simple thermodynamics, and SCFT\u2019s ability to capture those thermodynamics is a major success in soft matter theory. However, SCFT has largely been relegated to an explanatory role in block polymer self-assembly; discovery typically results from serendipitous experimentation and then theory provides a physical rationale. This project turns the paradigm on its head by developing a powerful computational approach to discover new candidate phases and then identify block polymer formulations to produce those materials. The tools developed through this research will be made available to the community as open-source software. This project will provide both graduate and undergraduate students with advanced training in polymer physics, materials science, computer science, and numerical methods. K-12 education will be enhanced through an outreach effort with the Breck School to develop projects for the Minnesota Science Fair. \r\n\r\n\r\nSTATEMENT OF MERIT REVIEW\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kevin",
+   "pi_last_name": "Dorfman",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kevin D Dorfman",
+   "pi_email_addr": "dorfman@umn.edu",
+   "nsf_id": "000208952",
+   "pi_start_date": "2025-03-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 OAK ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554552009",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 244960.0
+  }
+ ],
+ "por": null
+}

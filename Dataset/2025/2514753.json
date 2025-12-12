@@ -1,0 +1,106 @@
+{
+ "awd_id": "2514753",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: AF: Small: Efficient Algorithms for Optimal Transport in Geometric Settings",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 308000.0,
+ "awd_amount": 113834.0,
+ "awd_min_amd_letter_date": "2025-03-04",
+ "awd_max_amd_letter_date": "2025-03-04",
+ "awd_abstract_narration": "Optimal transport (OT) is a powerful tool for comparing probability distributions and computing maps between them. Simply put, optimal transport is the minimum-cost plan to transport mass from one distribution to the other, where the cost of transporting one unit of mass between two locations is the ground distance between the two locations. OT has been studied   extensively in mathematics, engineering, physics, economics, operations research, and computer science because of their numerous applications. Despite extensive work, computing OT plans has remained a computationally challenging problem, and  there is a large gap between the theory and practice of OT algorithms. The need for fast OT algorithms is becoming even more urgent with the proliferation of machine learning and algorithmic decision making in all disciplines. The scarcity of scalable algorithms that compute high quality transport plans  has limited the applicability OT to many applications.\r\n \r\nThe main goal of this project is to advance the theoretical underpinnings of OT and to bridge the gap between the theory and practice of OT algorithms. By exploiting combinatorial, geometric and statistical properties of OT, leveraging new approaches for min-cost flow, and exploiting approximation and probabilistic techniques, simple and scalable algorithms will be developed for computing high quality OT plans of both discrete and continuous distributions whose supports are compact regions in Euclidean space. The emphasis will be on designing combinatorial algorithms that not only have good worst-case running time  but that have better expected running time on stochastic or semi-stochastic inputs.  The project will also explore techniques to circumvent the curse of dimensionality, which arises in the OT of high-dimensional distributions. Building on these OT algorithms, new algorithms will be developed for data analysis (e.g. clustering, training neural networks) on a family of distributions in Wasserstein space, i.e., using OT as the distance between a pair of distributions; for quality assessment of algorithms that return a probability distribution (e.g., flood-risk-analysis algorithms that return a distribution of water over a region).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sharath",
+   "pi_last_name": "Raghvendra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sharath Raghvendra",
+   "pi_email_addr": "skraghve@ncsu.edu",
+   "nsf_id": "000679151",
+   "pi_start_date": "2025-03-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7929",
+   "pgm_ref_txt": "COMPUTATIONAL GEOMETRY"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 113834.0
+  }
+ ],
+ "por": null
+}

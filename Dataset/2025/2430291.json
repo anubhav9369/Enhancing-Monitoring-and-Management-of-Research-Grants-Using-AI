@@ -1,0 +1,117 @@
+{
+ "awd_id": "2430291",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Research Infrastructure: CC* Compute-Campus: A campus-wide computing resource for research and teaching at San Jose State University",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925184",
+ "po_email": "awapon@nsf.gov",
+ "po_sign_block_name": "Amy Apon",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 628773.0,
+ "awd_amount": 628773.0,
+ "awd_min_amd_letter_date": "2024-11-13",
+ "awd_max_amd_letter_date": "2024-11-13",
+ "awd_abstract_narration": "San Jos\u00e9 State University (SJSU) research activities are expanding at an accelerated pace. Interdisciplinary research across numerous fields has significant computational demands that outstrip current high-performance computing (HPC) capacity, directly impacting the productivity and effectiveness of the academic community. These coordinated, campus-level cyberinfrastructure improvements address this critical infrastructure gap, supporting researchers in colleges, departments, and research centers across the institution, and further accelerating SJSU\u2019s interdisciplinary research and education efforts. The HPC environment plays a critical role in supporting and increasing the diversity of SJSU, an MSI, PUI, and AANAPISIS.  It also raises the quantity of research and educational opportunities, providing excellent hands-on learning experiences for underrepresented student populations, aiding in efforts to recruit and retain faculty engaged in innovative computational research, and supporting long-term cross-institutional collaboration.\r\n\r\nThis award establishes the SJSU Enterprise HPC Cluster, which features high-end NVIDIA GPU nodes (8 H100 and 8 L40S GPUs) and 400TB of high-performance SSD storage. This new cluster does not simply replace existing equipment. It significantly improves speed and capability to serve researchers and students campus-wide, notably enhancing research productivity and educational curricula by providing three times the performance compared to existing GPU capacities. These resources, optimized for accelerating growing areas of data-intensive research at SJSU, including AI/ML, quantum science and material science, computational acoustics and mechanics, metamaterial design, bioinformatics, computational chemistry, spatial sciences, and more, will significantly improve the speed and capability needed to meet research and educational demands.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bob",
+   "pi_last_name": "Lim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bob Lim",
+   "pi_email_addr": "bob.lim@sjsu.edu",
+   "nsf_id": "0000A03JN",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ehsan",
+   "pi_last_name": "Khatami",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ehsan Khatami",
+   "pi_email_addr": "ehsan.khatami@sjsu.edu",
+   "nsf_id": "000690576",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Feruza",
+   "pi_last_name": "Amirkulova",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Feruza Amirkulova",
+   "pi_email_addr": "feruza.amirkulova@sjsu.edu",
+   "nsf_id": "000741898",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Jose State University Foundation",
+  "inst_street_address": "210 N 4TH ST FL 4",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN JOSE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4089241400",
+  "inst_zip_code": "951125569",
+  "inst_country_name": "United States",
+  "cong_dist_code": "18",
+  "st_cong_dist_code": "CA18",
+  "org_lgl_bus_name": "SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION",
+  "org_prnt_uei_num": "LJBXV5VF2BT9",
+  "org_uei_num": "LJBXV5VF2BT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Jose State University Foundation",
+  "perf_str_addr": "210 N 4TH ST FL 4",
+  "perf_city_name": "SAN JOSE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "951125569",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "18",
+  "perf_st_cong_dist": "CA18",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 628773.0
+  }
+ ],
+ "por": null
+}

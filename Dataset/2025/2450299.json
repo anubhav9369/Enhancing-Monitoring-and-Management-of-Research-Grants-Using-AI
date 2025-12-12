@@ -1,0 +1,102 @@
+{
+ "awd_id": "2450299",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Lattice Polytopes from Graphs and Networks",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922599",
+ "po_email": "sgdewint@nsf.gov",
+ "po_sign_block_name": "Stefaan De Winter",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 287952.0,
+ "awd_amount": 287952.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Lattice polytopes are convex polytopes where every vertex is an integer vector. They include simple examples like two-dimensional polygons with corners on a rectangular grid and extend to high-dimensional examples beyond our ability to visualize. Lattice polytopes are ubiquitous throughout mathematics and the sciences, including combinatorics, optimization, commutative algebra, algebraic geometry, transportation problems, and many other fields. A graph, also called a network, is a collection of objects that are connected pairwise. Two common examples are cities connected by interstates, or people connected when they are friends. Graphs and networks are a source of important lattice polytopes that allow us to study the structure of the pairwise connections among objects. In this proposal, the principal investigator will study three types of lattice polytopes and their structure. First, flow polytopes will be analyzed, which model the flow of material through transportation networks. Second, graphical Hermite normal form simplices will be studied, which are a new class of lattice polytopes whose structure is determined by a graph. Third, faces of symmetric edge polytopes will be investigated, which are lattice polytopes with connections to solving equations related to the behavior of coupled systems of oscillators. For these three classes of lattice polytopes, this project will study geometric and algebraic properties such as volume, faces, and integer point counting. These properties of lattice polytopes play a fundamental role in both pure and applied mathematics. In addition to contributing directly to the expansion of our understanding of lattice polytopes, the principal investigator will continue his ongoing work in advising doctoral students. Further, by contributing mathematical expertise to research teams in mathematics education and history of mathematics, the project will have an impact on the culture and teaching of mathematics. Finally, the PI will continue to lead workshops and seminars dedicated to teaching and learning in the mathematical sciences.\r\n\r\nMore technically, the goal of this project for flow polytopes is to understand how combinatorial properties of directed acyclic graphs influence volume and refined volume information obtained via Ehrhart theory. By studying the relation between invariants such as degree sequences of networks and volumes of their flow polytopes, the principal investigator expects to increase our collective understanding of how the edge structure of networks influences flow polytope volumes. The goal of this proposal for graphical Hermite normal form simplices is to classify the simplices having the Gorenstein and integer decomposition properties, and to obtain bounds on the values of vectors arising in Ehrhart theory for these objects. Further, by focusing on the recently-initiated study of Ehrhart h-star distributions of these polytopes, the principal investigator will contribute to our understanding of limits of these distributions. For symmetric edge polytopes, the goal of this project is to study the relationship between clustering metrics on graphs and facet numbers of the polytopes, in pursuit of a proof for a conjecture regarding facet maximizing and facet minimizing graphs. The methods used in these projects will involve a mix of computational experimentation and mathematical proof. In prior work of the Principal Investigator in these topics, computational experiments have proven crucial to the process of making conjectures and proving theorems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Benjamin",
+   "pi_last_name": "Braun",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Benjamin J Braun",
+   "pi_email_addr": "benjamin.braun@uky.edu",
+   "nsf_id": "000296979",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Kentucky Research Foundation",
+  "inst_street_address": "500 S LIMESTONE",
+  "inst_street_address_2": "109 KINKEAD HALL",
+  "inst_city_name": "LEXINGTON",
+  "inst_state_code": "KY",
+  "inst_state_name": "Kentucky",
+  "inst_phone_num": "8592579420",
+  "inst_zip_code": "405260001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "KY06",
+  "org_lgl_bus_name": "UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H1HYA8Z1NTM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Kentucky Research Foundation",
+  "perf_str_addr": "500 S LIMESTONE",
+  "perf_city_name": "LEXINGTON",
+  "perf_st_code": "KY",
+  "perf_st_name": "Kentucky",
+  "perf_zip_code": "405260001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "KY06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  },
+  {
+   "pgm_ele_code": "797000",
+   "pgm_ele_name": "Combinatorics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 287952.0
+  }
+ ],
+ "por": null
+}

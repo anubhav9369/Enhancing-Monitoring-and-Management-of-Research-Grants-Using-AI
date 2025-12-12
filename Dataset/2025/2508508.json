@@ -1,0 +1,102 @@
+{
+ "awd_id": "2508508",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: NSF-BSF: CIF: Small: An Information Theory for Out-of-Order Data: Applications in Genomics, Molecular Storage, and Beyond",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 260000.0,
+ "awd_amount": 260000.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "Most of the digital technology around us processes and stores information in a sequential, well-ordered manner. For example, a computer hard drive stores data bits in a structured way that allows them to be retrieved in order. Cell phone systems transmit and receive data as sequences of bits coded to allow the receiver to reconstruct the information in the same order it was sent. Recent technological advances such as DNA sequencing technologies, however, defy this ordered information paradigm. Such technologies generate data consisting of many short, out-of-order fragments. Processing this data is akin to assembling a jigsaw puzzle, where the desired information is only conveyed by the final assembled picture. Developing powerful algorithms for these tasks is important for several applications in the field of genomics and for the development of emerging molecular data storage technologies. The goal of this project is to extend techniques from the ordered digital world - codes, algorithms, and an information-theoretic framework - to these emerging out-of-order settings. This should enable new data storage paradigms to be deployed and lead to the development of new computational methods to analyze genomics data. \r\n\r\nThe project will seek to extend Information Theory techniques to out-of-order information scenarios and to characterize how much information can be reliably conveyed by an unordered set of data fragments. The research will be organized along three thrusts with important practical applications. Motivated by tasks in immunogenomics and resistomics, the first thrust will focus on the problem of recovering a set of similar-looking sequences (genes, in most applications) from a set of unordered fragments (the DNA sequencing reads). This will lead to new algorithms to characterize the presence of antimicrobial resistance genes in a microbial community. The second thrust will address the problem of reordering a set of unordered fragments given a noisy reference. This has applications in reference-based genome assembly (when the genome of a related species is available) and in the problem of aligning out-of-order data across two databases. Motivated by molecular data storage and its potential for addressing ever-increasing data storage demands, the third thrust will focus on fundamental limits and coding strategies for out-of-order channels. This includes the development of near-capacity-achieving codes for molecular storage, the analysis of the combined effects of fragmentation and symbol-level noise, and the design of efficient codes that minimize synthesis costs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alireza",
+   "pi_last_name": "Vahid",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alireza Vahid",
+   "pi_email_addr": "vahid.alireza@gmail.com",
+   "nsf_id": "000752860",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rochester Institute of Tech",
+  "inst_street_address": "1 LOMB MEMORIAL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5854757987",
+  "inst_zip_code": "146235603",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J6TWTRKC1X14"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rochester Institute of Technology",
+  "perf_str_addr": "1 Lomb Memorial Dr.",
+  "perf_city_name": "Rochester",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146235603",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7935",
+   "pgm_ref_txt": "COMM & INFORMATION THEORY"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 260000.0
+  }
+ ],
+ "por": null
+}

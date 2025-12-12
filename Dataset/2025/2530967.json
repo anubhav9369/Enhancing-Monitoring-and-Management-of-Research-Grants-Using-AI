@@ -1,0 +1,98 @@
+{
+ "awd_id": "2530967",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Physics-informed Machine Learning of Ice Calving and Sliding",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032922319",
+ "po_email": "mdierick@nsf.gov",
+ "po_sign_block_name": "Marion Dierickx",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 600397.0,
+ "awd_amount": 600397.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "Global sea level rise poses significant threats to coastal communities, ecosystems and economies worldwide. A major driver of sea level rise is ice mass loss from the Greenland and Antarctic ice sheets, where complex and poorly understood processes operating beneath and at the edges of the ice sheets control how fast ice flows into the ocean. However, precise tools are still lacking for predicting how quickly these vast ice sheets will respond to a warming climate. This project aims to improve these predictions by combining existing physical understanding of ice dynamics with the power of artificial intelligence, applied to datasets derived from satellite imagery of Greenland glaciers. This work will contribute to reducing uncertainty in sea level rise projections, which are crucial for planning infrastructure, protecting coastal populations, and informing policy decisions. The project will also invest in training the next generation of scientists through the Glaciology and Machine Learning Summer School, providing students and early career researchers with skills to bridge glaciology and machine learning. Additionally, this project will contribute to the broader scientific community through further development of open-source software tools.  \r\n\r\nThis project seeks to develop innovative, physics-informed models of two critical processes in ice dynamics: basal sliding and ice front calving. This project will extend the open-source Physics Informed Neural Networks for Ice and CLimatE (PINNICLE) framework to handle time-dependent modeling and assimilation of satellite data, while ensuring consistency with fundamental physical laws. Focusing on the three glaciers with the largest ice discharge on the Greenland Ice Sheet, the team will train neural nets on historical data over the 1980-2010 period, then test the model on observations between 2010 and 2020.  In the projection phase, the team will apply the trained model to estimate mass loss in future climate scenarios out to 2100. The uncertainty in the future evolution of each glacier will be quantified using an ensemble modeling approach based on a recently developed approximation of the Bayesian posterior distribution. Sensitivity to variables such as ocean thermal forcing, ice thickness and surface runoff will be explored to learn more about the physical processes governing the behavior of each glacier. Model outcomes and learned parameterizations will be openly available and integrated into broader community modeling efforts such as the Ice Sheet Model Intercomparison Project (ISMIP7) and the Coupled Model Intercomparison Project (CMIP).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jacob",
+   "pi_last_name": "Downs",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jacob Downs",
+   "pi_email_addr": "jacob.downs@umt.edu",
+   "nsf_id": "0000A4VJZ",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Montana",
+  "inst_street_address": "32 CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "MISSOULA",
+  "inst_state_code": "MT",
+  "inst_state_name": "Montana",
+  "inst_phone_num": "4062436670",
+  "inst_zip_code": "598120003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MT01",
+  "org_lgl_bus_name": "UNIVERSITY OF MONTANA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "DAY7Z8ZD48Q3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Montana",
+  "perf_str_addr": "32 CAMPUS DR",
+  "perf_city_name": "MISSOULA",
+  "perf_st_code": "MT",
+  "perf_st_name": "Montana",
+  "perf_zip_code": "598120003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600397.0
+  }
+ ],
+ "por": null
+}

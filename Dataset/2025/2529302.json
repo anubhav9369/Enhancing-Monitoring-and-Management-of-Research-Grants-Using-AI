@@ -1,0 +1,138 @@
+{
+ "awd_id": "2529302",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MATH-DT: Heterogeneous transfer and federated learning for digital twin in unmanned aerial vehicles",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 570000.0,
+ "awd_amount": 570000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "In recent years, the ambitious concept of Digital Twin (DT), with the aspiration of creating a virtual representation of a complex asset or process, has received enormous interest from industry leaders, engineers, policymakers, and scientists. The DT promises to digitally replicate the high-dimensional, multi-modal, and dynamic physical systems and assist decision-making with reliable predictions. For example, in aerospace applications, a DT that can accurately simulate flight operational conditions based on data and feedback from the \u201cflying twin\u201d has great potential to improve aerial vehicles' safety, reliability, and control, especially in extreme service conditions. However, the development of DTs has been largely ad hoc, and generalizable mathematical foundations are poorly understood. The investigators aim to develop Artificial Intelligence (AI) solutions in terms of heterogeneous transfer and personalized federated learning to solve mathematical and computing challenges in developing a DT for Unmanned Aerial Vehicles (UAVs). An interdisciplinary approach is taken that combines expertise in Statistics, Aerospace Engineering, and Computer Science to develop a holistic statistical and computational framework that is useful for the development of DTs generally, even beyond aerospace applications.  The team will undertake educational outreach programs in collaboration with university partners. The team will also teach and mentor middle school and high school students in a free summer camp to explore data science and analytics. In addition, the team will teach and train graduate and undergraduate students in interdisciplinary data science and engineering. Finally, to enable rapid translation of the proposed research to digital twins in academic and industry environments, the research team will create R and Python packages and libraries.\r\n\r\nThe project will develop (1) a flexible heterogeneous transfer learning approach that allows for unknown, possibly nonlinear functional relationships between the response and the features and allows for differing covariates or control conditions and (2) a personalized federated learning approach that accommodates diverse computational resources and storage capacities of local devices with applications to (3) solve challenges in developing DT in UAVs. The project will innovate in all three thrusts of this project. First, while the potential of DTs to improve the safety and reliability of their flying twins has been long recognized, there are very few principled approaches toward developing a DT with uncertainty quantification. The project contributes to understanding the mathematical challenges and building a mathematical foundation for DTs of UAVs. Second, while several methods exist for knowledge transfer between domains, most approaches assume the same set of features between a target domain and a source domain. Moreover, they do not provide rigorous uncertainty quantification.  The project will develop a heterogeneous transfer learning framework with statistical guarantees. Third, while federated learning (FL) has emerged as an important method for training DTs with distributed data across multiple edge devices, the main assumption of such methods is that agents or edge devices learn a model with the same parameters. However, in DT applications, agents may have different computational and storage resources. This project responds to the challenge by developing FL algorithms where the learning tasks are personalized to the agents' resource constraints.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mohammadmahdi",
+   "pi_last_name": "Khaliligarekani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohammadmahdi Khaliligarekani",
+   "pi_email_addr": "khaliligarekani.1@osu.edu",
+   "nsf_id": "000828264",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Subhadeep",
+   "pi_last_name": "Paul",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Subhadeep Paul",
+   "pi_email_addr": "paul.963@osu.edu",
+   "nsf_id": "000765376",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Debdipta",
+   "pi_last_name": "Goswami",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Debdipta Goswami",
+   "pi_email_addr": "goswami.78@osu.edu",
+   "nsf_id": "000985578",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "OHIO STATE UNIVERSITY, THE",
+  "inst_street_address": "1960 KENNY RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBUS",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "6146888735",
+  "inst_zip_code": "432101016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OH03",
+  "org_lgl_bus_name": "OHIO STATE UNIVERSITY, THE",
+  "org_prnt_uei_num": "MN4MDDMN8529",
+  "org_uei_num": "DLWBSLWAJWR1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Ohio State University",
+  "perf_str_addr": "1960 KENNY RD",
+  "perf_city_name": "COLUMBUS",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "432101016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OH03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 570000.0
+  }
+ ],
+ "por": null
+}

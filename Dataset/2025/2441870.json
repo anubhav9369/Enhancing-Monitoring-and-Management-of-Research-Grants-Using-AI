@@ -1,0 +1,122 @@
+{
+ "awd_id": "2441870",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: A Physics-Informed Machine Learning Framework for Surrogate Modeling of Geostructural Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922339",
+ "po_email": "gibiscon@nsf.gov",
+ "po_sign_block_name": "Giovanna Biscontin",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 607802.0,
+ "awd_amount": 607802.0,
+ "awd_min_amd_letter_date": "2025-04-14",
+ "awd_max_amd_letter_date": "2025-04-14",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) award will support research that attempts to advance a new computational framework that integrates high-fidelity physics and machine learning to transform earthquake engineering for geostructural systems. By reducing the high computational costs typically associated with accurate numerical models, this research intends to enable rapid and reliable seismic response predictions for geostructural systems. These predictive capabilities are critical for designing and safeguarding infrastructure, minimizing economic disruptions, and building more resilient communities. The approach will intends to pave the way for better sensor data integration, enhancing understanding of complex geologic conditions and improving risk-assessment tools for engineers and policymakers. Through complementary educational initiatives, including hands-on activities, online tools, and curricular enhancements, the project seeks to improve scientific machine learning literacy and train a new generation of engineers equipped to apply machine learning responsibly. Ultimately, this CAREER award supports national interest by promoting public safety, advancing the progress of science, and fostering robust workforce development.\r\n\r\nThis research aims to develop a physics-informed machine learning surrogate modeling framework for geostructural systems under seismic loading. Unlike traditional black-box machine learning approaches that require massive datasets and can yield physically unreasonable results, this framework attempts to embed the governing equations, boundary conditions, and constitutive relations directly into the model training process. By penalizing violations of these physical laws instead of relying solely on data, the project looks to substantially reduce the need for large-scale numerical simulations for training and improve interpretability. Specific objectives include (1) developing scalable machine learning algorithms for accurately modeling the dynamic response of geostructural systems to transient ground deformations due to seismic wave propagation, (2) developing optimal approaches to accommodate uncertainties in uncertainty quantification tasks, and (3) validating the framework and assessing its effectiveness using experimental data. This research looks to promote seamless integration of high-fidelity data into site-specific and rupture-to-structure seismic risk assessment workflows, advancing the fidelity of hazard mitigation and performance-based engineering decision tools. It will strives to enable optimal utilization and assimilation of sensing data at a system level to calibrate high-fidelity models and characterize biases and errors. The methodologies developed here seek to enhance state-of-the-art earthquake engineering and resilience strategies for geostructural systems, and to also be applicable to the dynamic response of other systems in engineering mechanics, cyber-physical systems, and earth sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elnaz",
+   "pi_last_name": "Esmaeilzadeh Seylabi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elnaz Esmaeilzadeh Seylabi",
+   "pi_email_addr": "elnaze@unr.edu",
+   "nsf_id": "000833512",
+   "pi_start_date": "2025-04-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Board of Regents, NSHE, obo University of Nevada, Reno",
+  "inst_street_address": "1664 N VIRGINIA ST # 285",
+  "inst_street_address_2": "",
+  "inst_city_name": "RENO",
+  "inst_state_code": "NV",
+  "inst_state_name": "Nevada",
+  "inst_phone_num": "7757844040",
+  "inst_zip_code": "895570001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NV02",
+  "org_lgl_bus_name": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER ED",
+  "org_prnt_uei_num": "WLDGTNCFFJZ3",
+  "org_uei_num": "WLDGTNCFFJZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Board of Regents, NSHE, obo University of Nevada, Reno",
+  "perf_str_addr": "1664 N VIRGINIA ST # 285",
+  "perf_city_name": "RENO",
+  "perf_st_code": "NV",
+  "perf_st_name": "Nevada",
+  "perf_zip_code": "895570001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NV02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "037E",
+   "pgm_ref_txt": "GEOTECHNICAL ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "041E",
+   "pgm_ref_txt": "HAZARD AND DISASTER REDUCTION"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "172E",
+   "pgm_ref_txt": "Geomechanics"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 607802.0
+  }
+ ],
+ "por": null
+}

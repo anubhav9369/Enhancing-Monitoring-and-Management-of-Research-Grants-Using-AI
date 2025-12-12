@@ -1,0 +1,106 @@
+{
+ "awd_id": "2500836",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: A Multi-Modal Transfer Learning Framework to Maximize Health Outcomes for Breast Cancer",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "Breast cancer is the second most common malignancy and the second leading cause of cancer death among women in the United States. Previous studies indicated that Black women have disproportionately higher mortality rates in breast cancer in the United States. With artificial intelligence (AI) and machine learning (ML) being increasingly applied to cancer research and clinical decision making, especially for breast cancer detection, diagnosis, prognosis and treatment, cancer data variability would lower the quality and utility of AI/ML models. This project aims to develop a novel AI framework to reduce health outcome variability for breast cancer based on multi-modal genomics data. In the long term, this project will enhance the quality of health outcomes in breast cancer detection, diagnosis, prognosis, and treatment. \r\n\r\nPrevious studies suggested that transfer learning could enhance health outcomes in breast cancer. However, its performance may be reduced when the number of samples is small, or only single-omics data are used. This project will develop novel machine learning and statistical approaches to establish an integrated multi-modal transfer learning framework  for breast cancer. The technical aims of this project are divided into three parts. The first aims to establish a multi-omics integration model to enhance breast cancer outcomes. Compared to single-omics data, multi-omics data provide a broader and more complete set of training data for ML models, which can increase the generalizability of the ML model and thus improve the model\u2019s capabilities. The second thrust aims to develop a novel transfer learning framework. Existing transfer learning models require substantial amounts of data for fine-tuning, which are difficult to obtain in clinical settings. To address this concern, this project will develop a multi-modal transformer for pre-training and a new data-augmentation method for the transfer learning framework. The third thrust aims to identify and validate informative biomarkers for breast cancer diagnosis and prognosis. Conventional methods for biomarker identification for breast cancer ignore cancer variability. Developing and utilizing such biomarkers can contribute to more equitable and personalized cancer care.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shibiao",
+   "pi_last_name": "Wan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shibiao Wan",
+   "pi_email_addr": "swan@unmc.edu",
+   "nsf_id": "000979158",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Nebraska Medical Center",
+  "inst_street_address": "4215 EMILE ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "OMAHA",
+  "inst_state_code": "NE",
+  "inst_state_name": "Nebraska",
+  "inst_phone_num": "4025597456",
+  "inst_zip_code": "68105",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NE02",
+  "org_lgl_bus_name": "BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G15AG3BLLMH4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Nebraska Medical Center",
+  "perf_str_addr": "987835 Nebraska Medical Center",
+  "perf_city_name": "Omaha",
+  "perf_st_code": "NE",
+  "perf_st_name": "Nebraska",
+  "perf_zip_code": "681987835",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NE02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  },
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

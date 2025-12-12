@@ -1,0 +1,110 @@
+{
+ "awd_id": "2533162",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RI: HCC: Medium: Trustworthy AI in Societal Resource Allocation",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 1199808.0,
+ "awd_amount": 1110356.0,
+ "awd_min_amd_letter_date": "2025-06-28",
+ "awd_max_amd_letter_date": "2025-06-28",
+ "awd_abstract_narration": "Governmental and non-governmental institutions use various prioritization practices for allocating scarce resources. For example, homeless services may prioritize households based on risk assessments, while schools may accept students into \"gifted and talented\" programs by a combination of test scores and classroom observation. Communities also must decide how to allocate human resources across space and time, such as deploying police officers across different beats for crime prevention or outreach workers across neighborhoods for eviction prevention. This project aims to understand the ways algorithmic techniques for prioritization and resource allocation can best be used for societal benefit in such domains. Results will inform researchers broadly studying fairness, accountability, and trustworthiness of AI, algorithmic game theory and mechanism design, multiagent systems, and human-AI interaction. In addition, the work will impact policy through collaborations with community partners and support the transdisciplinary training of diverse students. \r\n\r\nAt a technical level, the project will focus on several research problems important for developing fair and trustworthy AI. These include: (1) The design of algorithmic techniques for facilitating individualized deployment of scarce societal resources based on (potentially poorly calibrated and semantically ambiguous) risk scores, using rank information and/or learned transformations of cardinal risk scores. (2) Developing foundational models for fair and efficient deployment of human resources (e.g., police officers, caseworkers, schoolteachers, and specialists) across space and time, including definitions of fairness in such settings. (3) Using interpretable machine learning to characterize current human decision-making in public-facing positions and analyzing the efficiency and fairness of current approaches versus algorithmic ones. (4) Elicitation of truthful information to improve societal decision-making, using ideas from mechanism design and audit games. (5) The design of algorithmic decision support tools that can align the incentives of agents with the local agencies they represent while allowing continued use of discretion. Together, these research thrusts will advance the field of fair, accountable, and trustworthy AI, especially in the context of high-stakes societal decision-making.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sanmay",
+   "pi_last_name": "Das",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sanmay Das",
+   "pi_email_addr": "sanmay@vt.edu",
+   "nsf_id": "000508218",
+   "pi_start_date": "2025-06-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "3625 Potomac Avenue",
+  "perf_city_name": "Alexandria",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "223053084",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "VA08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  },
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 1110355.0
+  }
+ ],
+ "por": null
+}

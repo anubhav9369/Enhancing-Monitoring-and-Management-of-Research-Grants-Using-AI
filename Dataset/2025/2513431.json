@@ -1,0 +1,122 @@
+{
+ "awd_id": "2513431",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Elements: QuAIM: A Quantum Cyberinfrastructure with Automated Implementation Toolkits for Scientific Discovery",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927116",
+ "po_email": "sghafoor@nsf.gov",
+ "po_sign_block_name": "Sheikh Ghafoor",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 380000.0,
+ "awd_amount": 380000.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "As quantum computers continue to scale in terms of quantum bit (qubit) count and operational reliability, they offer great potential for solving complex scientific problems, including computational chemistry, material science, and geophysical monitoring. Despite the rapid progress in hardware, the practical use of quantum computers remains limited. This is largely due to the lack of accessible software infrastructure and the inherently complex and unique behavior of qubit operations. As a result, most implementations of quantum applications are manually crafted, creating a steep barrier for domain scientists who could otherwise benefit from quantum capabilities in their applications. To address this pressing issue and being inspired by electronic design automation for classical hardware design, this project aims to unlock the potential of quantum computing by developing an automated quantum design and implementation toolkit, namely QuAIM. With this toolkit, the project lowers barriers to entry for using quantum computers, making it easier and more reliable for scientists in various disciplines to leverage the power of quantum computing. This can enable complex scientific discoveries that, in turn, drive technological innovation and enhance societal resilience through improved early warning systems and hazard mitigation.\r\n\r\nWith the aim of enabling scientific domain experts to leverage the power of quantum computing cyberinfrastructure seamlessly, the project uses the emerging data-driven geophysical full-waveform inversion applications as a vehicle in building the QuAIM toolkits, including (1) a dataset creator, QA-D, that can generate a multi-scale and physics-in-accordance quantum waveform dataset; (2) an automated function synthesizer, QA-F, that can co-design data encoder and variational quantum circuit to implement quantum machine learning; (3) a noise management tool, QA-NA, that provides a reproducible solution under unstable noise in quantum devices; and (4) a novel visualization system, QA-V, that enables visual hardware quality assessment, program debugging, and circuit analysis. The QuAIM toolkit will be open source and will be integrated into existing platforms for dissemination. To enble domain experts to smoothly use QuAIM, the team organizes tutorials in different domain scientific communities at summer schools in National Laboratories and at international conferences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Weiwen",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weiwen Jiang",
+   "pi_email_addr": "wjiang8@gmu.edu",
+   "nsf_id": "000826656",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Yang",
+   "pi_email_addr": "lyang29@gmu.edu",
+   "nsf_id": "000856822",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Youzuo",
+   "pi_last_name": "Lin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Youzuo Lin",
+   "pi_email_addr": "yzlin@unc.edu",
+   "nsf_id": "000973968",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Mason University",
+  "inst_street_address": "4400 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAIRFAX",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7039932295",
+  "inst_zip_code": "220304422",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "VA11",
+  "org_lgl_bus_name": "GEORGE MASON UNIVERSITY",
+  "org_prnt_uei_num": "H4NRWLFCDF43",
+  "org_uei_num": "EADLFP7Z72E5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Mason University",
+  "perf_str_addr": "4400 UNIVERSITY DR",
+  "perf_city_name": "FAIRFAX",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "220304422",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "VA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 380000.0
+  }
+ ],
+ "por": null
+}

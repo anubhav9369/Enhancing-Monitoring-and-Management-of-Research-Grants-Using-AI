@@ -1,0 +1,102 @@
+{
+ "awd_id": "2506176",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Mathematical Minimalism in Generative Linguistics and its Applications",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Current technological developments have given rise to artificial simulations of human language production, in the form of large language models. Simulation, however, does not mean explanation, and a good theoretical understanding of language as a computational system is still an important, and urgently needed, scientific goal. Human language is a highly structured natural phenomenon that shares many of the qualities of physical systems: in particular it can be modelled mathematically with a high degree of precision and prediction power. The principal investigator (PI), in collaboration with Chomsky and Berwick, has developed a novel mathematical model of syntax in human languages, and this project aims at extending this model to capture all aspects of the human faculty of language. There have been various empirical tests attempting to evaluate to what extent artificial systems like large language models capture the intricate aspects of language syntax, and whether or not they resemble language as produced by human brains. Ultimately, a rigorous analysis of such questions requires the development of precise mathematical models of language in humans and in machines and a direct comparison of them through quantitative invariants that can be directly computed, which this proposal aims at developing. Given the current pace of technological development in AI research and the growing use of LLM technology in society, and the fact that rigorous scientific theory is dangerously lagging behind the technological developments, the introduction of more advanced and more powerful mathematical methods in the study of language is very timely and important to the national interests.\r\n\r\nRecently the PI, in joint work with Noam Chomsky and Robert Berwick, obtained a new mathematical formulation of the Merge structure-building operation of syntax that is key to the Minimalist Model, as a Hopf algebra Markov chain on a combinatorial Hopf algebra of binary rooted trees. This mathematical model shows that syntax is a computational process governed by a rigid algebraic structure, that many empirical assumptions of linguistics can be derived directly from algebraic properties, and that human language has certain optimality properties. The goal of this project is to extend and develop this mathematical model to capture all aspects of syntax, including interfaces with morphology and semantics and to obtain rigorous models of Externalization and syntactic parameters. The project also aims at the development of quantitative mathematical methods for comparing language formation in humans and in artificial systems like large language models and measuring the extent to which the latter can reconstruct the computational process of syntax from its imperfect embedding into data of semantic proximity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matilde",
+   "pi_last_name": "Marcolli",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matilde Marcolli",
+   "pi_email_addr": "matilde@caltech.edu",
+   "nsf_id": "000295907",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California Institute of Technology",
+  "inst_street_address": "1200 E CALIFORNIA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PASADENA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6263956219",
+  "inst_zip_code": "911250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U2JMKHNS5TG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California Institute of Technology",
+  "perf_str_addr": "1200 E CALIFORNIA BLVD",
+  "perf_city_name": "PASADENA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "911250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  },
+  {
+   "pgm_ele_code": "126700",
+   "pgm_ele_name": "TOPOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1311",
+   "pgm_ref_txt": "LINGUISTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2531023",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Optimized Testing Strategies for Fighting Pandemics:  Fundamental Limits and Efficient Algorithms",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 274774.0,
+ "awd_amount": 251493.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "Large-scale high-throughput prevalence and diagnostic testing is essential for the containment and mitigation of pandemics. The testing bottleneck in the COVID-19 pandemic has led to a resurgence of interest in group testing, where several people's biological samples are mixed together and examined in a single test. When the rate of infection in the population is low, this method can significantly reduce the total number of tests per subject and increase the throughput of the existing testing infrastructure. However, traditional group testing has the following limitations: First, efficient group testing based methods for the estimation of prevalence have been largely overlooked in the literature. Second, traditional group testing usually assumes that the testing results are qualitative (positive versus negative), not quantitative (providing viral load information). Third, the theoretical study of group testing rarely takes practical constraints, such as the sensitivity of the pooled tests and the dilution effect, into consideration, which hinders the applicability of the testing schemes in practice. The goal of this project is to overcome these limitations of traditional group testing and design advanced pooled testing strategies for efficient prevalence tracking and accurate infection diagnosis. It will develop optimized pooled testing strategies with strong theoretical performance guarantees yet feasible and cost-effective in practice.\r\n\r\nThe proposed research is organized in three research thrusts as follows. Thrust 1 aims to design effective sampling and testing algorithms to estimate the prevalence in communities and track its evolution, under scarce testing resource constraints. Thrust 2 focuses on the design of optimized pooling and decoding algorithms for compressed sensing based (COVID-19) virus diagnostic testing. Thrust 3 validates the accuracy and efficiency of the proposed pooled testing through experiments on anonymized COVID-19 samples. This project bridges group testing and online learning, the two largely disconnected areas, with the objective to effectively allocate limited testing resources for efficient prevalence tracking. Such integration leads to novel sampling strategies, broadens the paradigm of group testing, and advances the state of the art of online learning. Moreover, the proposed compressed sensing based diagnostic testing leverages quantitative measurements provided by advanced testing technologies, which can significantly increase test throughput, reduce the number of needed tests, decrease the consumption of scarce reagents, and provide results robust against observation noises and outliers. The rich compressed sensing theory provides possible approaches to the rigorous mathematical certification of the correctness of the decoded results. Besides, the clinical constraints on pooled testing also lead to novel problem formulation and theoretical characterization, enriching the study of compressed sensing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jing",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jing Yang",
+   "pi_email_addr": "akz2wg@virginia.edu",
+   "nsf_id": "000627186",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 251493.0
+  }
+ ],
+ "por": null
+}

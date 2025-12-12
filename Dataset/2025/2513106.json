@@ -1,0 +1,106 @@
+{
+ "awd_id": "2513106",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Robust and efficient high-order algorithms for fluid dynamics simulations: structure-preserving methods and optimization-based limiters",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 210000.0,
+ "awd_amount": 210000.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "The Navier-Stokes (NS) equations are fundamental mathematical models with a wide range of applications in computational math and various engineering fields. The major objective of this project is to explore high-order accurate structure-preserving methods for various NS equations, including compressible, incompressible, and compressible flow with incompressible limit. The outcomes have potential applications in aeronautics and astronautics, petroleum industries for enhancing oil recovery, and possibly extended to benefit computational materials science. In addition, this project will provide valuable research opportunities for graduate and/or undergraduate students in computational mathematics.\r\n\r\nDesigning high-order methods for NS equations that preserve fundamental principles such as conservation, bounds, and energy law, while ensuring efficiency for large-scale simulations, presents significant challenges. The current state of high-order accurate structure-preserving numerical methods for NS equations is still far from being practically satisfactory. The PI will explore high-order structure-preserving algorithms for various NS equations, emphasizing efficiency and robustness in simulating real-world problems. For compressible NS, a novel approach combining large-scale non-smooth optimization with discontinuous Galerkin methods will be applied to construct invariant-domain-preserving schemes. This methodology is extensible to other methods, such as finite volume and finite difference by incorporating constraints on cell averages and point values. For incompressible NS, the PI will explore both theoretical analysis and algorithm design on splitting methods. The outcomes are crucial for designing reliable simulators and can be extended to other fields, such as phase-field equations. High-order asymptotic-preserving methods for compressible flow and incompressible limit will be explored.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chen",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chen Liu",
+   "pi_email_addr": "chenl@uark.edu",
+   "nsf_id": "000867970",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arkansas",
+  "inst_street_address": "1125 W MAPLE ST STE 316",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAYETTEVILLE",
+  "inst_state_code": "AR",
+  "inst_state_name": "Arkansas",
+  "inst_phone_num": "4795753845",
+  "inst_zip_code": "727013124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "AR03",
+  "org_lgl_bus_name": "UNIVERSITY OF ARKANSAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MECEHTM8DB17"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arkansas",
+  "perf_str_addr": "850 West Dickson Street, Room 218",
+  "perf_city_name": "FAYETTEVILLE",
+  "perf_st_code": "AR",
+  "perf_st_name": "Arkansas",
+  "perf_zip_code": "727013124",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "AR03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 210000.0
+  }
+ ],
+ "por": null
+}

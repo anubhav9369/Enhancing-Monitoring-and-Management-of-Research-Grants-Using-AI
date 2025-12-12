@@ -1,0 +1,149 @@
+{
+ "awd_id": "2430361",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CC* Storage-Region: Introducing Archiving and Disaster Recovery into Utah\u2019s Regional Data Lifecycle Cyberinfrastructure",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925184",
+ "po_email": "awapon@nsf.gov",
+ "po_sign_block_name": "Amy Apon",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 1089887.0,
+ "awd_amount": 1089887.0,
+ "awd_min_amd_letter_date": "2024-11-21",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Data is central to the scientific process and a key enabler of innovations and discoveries across all disciplines, especially given the increasing use of computational techniques, including artificial intelligence and machine learning (AI/ML). This project provides a pilot data archiving and disaster management service as part of a more holistic data cyberinfrastructure plan to serve the various institutions in the State of Utah. This cyberinfrastructure serves the data needs of academic institutions across the State of Utah while also integrating with national cyberinfrastructure resources in a manner that does not impact the local performance, local capacity, and local security requirements.  Science areas supported include material manufacturing, genetics, biology, large language models, cardiac disease, image learning, human health, visual sciences, astronomy, climate, asthma and air quality, evolution, preserving scientific reproducibility, biomedicine, and others.\r\n\r\nThe data cyberinfrastructure will support the entire data lifecycle including data management, sharing, and broad and equitable data access to ensure that data is Findable, Accessible, Interoperable and Reusable (FAIR). The project also addresses the growing data services and support needs of multiple academic institutions across the state through live instructor online training courses, development and dissemination of specific training material, in-person and online one-on-one sessions for faculty and students, events highlighting integration with national resources, and outreach activities providing university students with hands-on experiences. The project deploys data cyberinfrastructure comprising a Ceph-based S3 object storage system at the University of Utah and an integrated offsite disaster recovery and archive storage infrastructure at the Tonaquint Data Center in St. George, Utah. This regional system federates with national cyberinfrastructure including the Open Science Data Federation (OSDF) Pelican Platform, and the National Data Platform via the direct peering of the Utah Education and Telehealth Network (UETN) with Internet2.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Manish",
+   "pi_last_name": "Parashar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Manish Parashar",
+   "pi_email_addr": "manish.parashar@utah.edu",
+   "nsf_id": "000148826",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Cheatham",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "III",
+   "pi_full_name": "Thomas E Cheatham",
+   "pi_email_addr": "tec3@utah.edu",
+   "nsf_id": "000095070",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Zachariah",
+   "pi_last_name": "Gompert",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zachariah Gompert",
+   "pi_email_addr": "zach.gompert@usu.edu",
+   "nsf_id": "000552448",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Penny",
+   "pi_last_name": "Atkins",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Penny R Atkins",
+   "pi_email_addr": "penny.atkins@utah.edu",
+   "nsf_id": "000985227",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Harish",
+   "pi_last_name": "Maringanti",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Harish K Maringanti",
+   "pi_email_addr": "harish.maringanti@utah.edu",
+   "nsf_id": "0000A06M1",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1089887.0
+  }
+ ],
+ "por": null
+}

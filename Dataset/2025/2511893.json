@@ -1,0 +1,114 @@
+{
+ "awd_id": "2511893",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "A Tool for Generating Synthetic Observations of Galactic Atmospheres",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032927297",
+ "po_email": "jmadrid@nsf.gov",
+ "po_sign_block_name": "Juan Madrid",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 384629.0,
+ "awd_amount": 384629.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "One of the most important problems in astrophysics today is understanding what physical processes occur in galaxies as they form and age. To resolve this problem, scientists are studying the low-density gas around galaxies, which is sometimes called a galaxy's atmosphere. New space telescopes are being designed to observe the faint light of these atmospheres. However, these efforts require theoretical models to help decipher what these observations mean. In this program, the investigators will write software to generate simulated observations of galaxies and their atmospheres from theoretical models. This software will be applied to several different galaxy simulations to make predictions for next-generation telescopes. Additionally, this proposal will sustain and build on the innovative public education program at Caltech Astro, which produces more than 50 science outreach events with over 20,000 attendees annually. This program is designed with both standard outreach events and activities to explicitly engage people in original settings like national parks. \r\n\r\nThis program will focus on better understanding the gas in and around galaxies known as the circumgalactic medium (CGM). The proposal team will develop and release an open-source software tool for generating synthetic observations of the CGM in both line emission and absorption in the ultraviolet, optical, and infrared. It will account for collisional ionization and local photoionizing sources, incorporating stellar populations and active galactic nuclei. This tool will be applied to state-of-the-art hydrodynamical simulations of galaxy evolution, such as FIRE, Tempest, and IllustrisTNG to produce synthetic observational data products including quasar and down-the-barrel spectroscopy, emission maps, and integrated field unit datacubes. This program includes, among its many outreach activities, public astronomy lecture series with associated guided stargazing, \u201cAstronomy on Tap\u201d events featuring local researchers presenting science to public audiences at a local pub, dark sky festivals featuring telescope viewing and science presentations hosted in collaboration with numerous national parks (e.g., Death Valley, Sequoia, Great Basin, and Grand Canyon).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cameron",
+   "pi_last_name": "Hummels",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cameron B Hummels",
+   "pi_email_addr": "chummels@caltech.edu",
+   "nsf_id": "000603056",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Philip",
+   "pi_last_name": "Hopkins",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Philip F Hopkins",
+   "pi_email_addr": "phopkins@caltech.edu",
+   "nsf_id": "000642465",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California Institute of Technology",
+  "inst_street_address": "1200 E CALIFORNIA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PASADENA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6263956219",
+  "inst_zip_code": "911250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U2JMKHNS5TG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California Institute of Technology",
+  "perf_str_addr": "1200 E CALIFORNIA BLVD",
+  "perf_city_name": "PASADENA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "911250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 384629.0
+  }
+ ],
+ "por": null
+}

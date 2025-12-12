@@ -1,0 +1,130 @@
+{
+ "awd_id": "2443697",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Price of Clustering in Geometric Spaces: Inapproximability, Conditional Lower Bounds, and More",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 649200.0,
+ "awd_amount": 268591.0,
+ "awd_min_amd_letter_date": "2025-01-08",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "Clustering is the task of grouping objects so that those in the same group are more similar to each other than to those in other groups. It is widely used in unsupervised learning, data analysis, information retrieval, and community detection. This project contributes to the theory of clustering by aiming to understand the extent to which clustering can be efficiently approximated by leveraging tools and ideas from metric embedding, coding theory, extremal combinatorics, and analysis of Boolean functions. Seeking the optimal inapproximability of clustering not only sheds light on problems important to the theoretical computer science community but also enriches other fields such as machine learning, data science, and computer vision, equipping future researchers in all these fields to tackle other geometric optimization problems effectively. The educational activities of this project include integrating findings into graduate and undergraduate courses, mentoring students, and broadening participation in theoretical computer science. \r\n\r\nIn technical terms, the primary goal of this project is to establish tight NP-hardness of approximation results for key clustering problems, such as minimizing k-means, k-median, and k-center objectives in L_p (i.e., L subscript p) metrics. A secondary goal is to study these objectives through the lenses of fine-grained complexity and the theory of stable instances. The three main research directions are: (i) resolving the Johnson Coverage Hypothesis, (ii) determining tight hardness of approximation factors for popular clustering objectives in the Euclidean metric, and (iii) proving conditional lower bounds for the Euclidean k-means problem with fixed k.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Karthik",
+   "pi_last_name": "Srikanta",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Karthik C Srikanta",
+   "pi_email_addr": "karthik.cs@rutgers.edu",
+   "nsf_id": "000865819",
+   "pi_start_date": "2025-01-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 268591.0
+  }
+ ],
+ "por": null
+}

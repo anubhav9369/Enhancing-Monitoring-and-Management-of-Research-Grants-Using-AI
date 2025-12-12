@@ -1,0 +1,114 @@
+{
+ "awd_id": "2503129",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Excellence in Research: Integrating Carbon Pricing in Power Systems Planning and Operations",
+ "cfda_num": "47.041, 47.083",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 350275.0,
+ "awd_amount": 350275.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "In the United States, individual states set their own carbon pricing policies based on their individual objectives. The variation in carbon prices set on the commonly shared electric power network, which is federally regulated through the Regional Transmission Operators (RTOs), can distort the operations and planning of the power grid, leading to environmental leakages, loss of carbon tax revenues, and other undesirable outcomes. The goal of this research project is to provide practical evaluation tools to support policy makers on carbon pricing integration, particularly modeling and setting the carbon border adjustment and carbon tax revenue recycling effectively into the operations and planning of the US electric power network such that electricity market distortion is reduced, environmental leakages are mitigated, impacts on ratepayers are minimized, individual interests of states and RTOs are balanced, and the impacts of carbon prices are quantified. Furthermore, this project presents an opportunity to train and educate K12/undergraduate/graduate students on the technical challenges of electricity market design, power systems economics, optimization, game theory, and operations research \r\n\r\nThis research project views the setting of regulatory policies, particularly carbon border adjustments and carbon tax revenues, as complementary mathematical optimization problems. Specifically, the project will incorporate and tune constraints representing policy intervention, which are imposed on the existing operations and planning optimization model of electric power network, to adjust the operations and planning\u2019s optimal solutions, both primal and dual, to balance the interests of states and RTOs and optimize certain economic, and environmental metrics representing carbon pricing impacts. For computational tractability, the mechanism design problem will be conducted on an aggregated power network model, while the evaluation of regulatory policies can be regarded as the sensitivity analysis of the power system operations and planning model.  The latter can be conducted on a realistic large-scale network using recent advances in grid modeling tools. The project looks to leverage machine learning approaches to adaptively model used in mechanism design, so that the policy evaluation conducted on the large-scale realistic grid model is improved.  The project seeks to produce formal mathematical models and planning and analysis tools that help policymakers with sustainable carbon pricing integration.  A collaboration with the Pacific Northwest National Laboratory will provide access to data and power systems expertise.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hieu",
+   "pi_last_name": "Nguyen",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hieu T Nguyen",
+   "pi_email_addr": "htnguyen1@ncat.edu",
+   "nsf_id": "000859082",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina Agricultural & Technical State University",
+  "inst_street_address": "1601 E MARKET ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GREENSBORO",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "3363347995",
+  "inst_zip_code": "27411",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "NC06",
+  "org_lgl_bus_name": "NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SKH5GMBR9GL3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina Agricultural & Technical State University",
+  "perf_str_addr": "1601 E MARKET ST",
+  "perf_city_name": "GREENSBORO",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "274110002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "NC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  },
+  {
+   "pgm_ele_code": "070Y00",
+   "pgm_ele_name": "HBCU-EiR - HBCU-Excellence in"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "5514",
+   "pgm_ref_txt": "OPERATIONS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 350275.0
+  }
+ ],
+ "por": null
+}

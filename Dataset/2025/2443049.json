@@ -1,0 +1,102 @@
+{
+ "awd_id": "2443049",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Information-Orthogonal Representations in Computational Imaging",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 558594.0,
+ "awd_amount": 558594.0,
+ "awd_min_amd_letter_date": "2025-06-02",
+ "awd_max_amd_letter_date": "2025-06-02",
+ "awd_abstract_narration": "Whereas traditional cameras form images exclusively through use of optics, computational-imaging systems are transforming how to see and what can be seen by sharing the imaging task across frontend optical hardware and backend computational algorithms. In such computational-imaging systems, the optical hardware collects informative measurements that are subsequently analyzed by computation to produce high-quality, human-interpretable images. Although these systems promise unprecedented access to previously unobserved physics and biology, existing mathematical techniques used to study their performance capabilities and jointly optimize their constituent frontend optics and backend algorithms are imprecise and deficient for many emerging applications. Consequently, this project aims to introduce new mathematical tools to tackle these deficiencies and establish a framework for unlocking the maximum potential of computational-imaging systems, especially in applications \u2013 such as single-photon lidar, focused-beam microscopy, and imaging with no line of sight \u2013 wherein images are to be computed from extremely weak and noisy measurements. Societal benefits include the integration of art-infused initiatives as a high-impact pedagogy that aims to improving student engagement in science and engineering.\r\n\r\nThe convention for assessing the conditioning of computational-imaging systems is based on computing condition numbers and singular values. This computation presupposes an interest in worst-case performance over some fixed, pre-chosen discretization. Unfortunately, this approach can lead to incorrect conclusions, including the impossibility of imaging even where imaging is possible, especially when conditioning is not spatially uniform. With the proliferation of computational imaging in myriad applications, the time is ripe for a precise and unified framework for studying the fundamental limits of computational-imaging systems. This project will achieve this goal by using the notion of information orthogonality to separate ill-conditioned spatial directions from well-conditioned ones, allowing for more precise characterizations of conditioning. Precise characterizations will enable system-level design optimizations and new, efficient algorithms that augment existing reconstruction methods to yield substantial improvements in imaging quality and efficiency and even unlock new imaging capabilities and modalities. While this project focuses on computational-imaging systems and corresponding inverse-imaging problems, it will also contribute more generally to the theory and practice of inverse problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Murray-Bruce",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "John Murray-Bruce",
+   "pi_email_addr": "murraybruce@usf.edu",
+   "nsf_id": "000847458",
+   "pi_start_date": "2025-06-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Florida",
+  "inst_street_address": "4202 E FOWLER AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "TAMPA",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8139742897",
+  "inst_zip_code": "336205800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "FL15",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NKAZLXLL7Z91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of South Florida",
+  "perf_str_addr": "4202 E FOWLER AVE",
+  "perf_city_name": "TAMPA",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "336205800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "FL15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7936",
+   "pgm_ref_txt": "SIGNAL PROCESSING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 558594.0
+  }
+ ],
+ "por": null
+}

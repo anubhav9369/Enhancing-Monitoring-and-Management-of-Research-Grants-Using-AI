@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443468",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: From Language Models to World Models: New Inference, Learning, and Modeling for Machine Reasoning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 381276.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "Developing intelligent machines capable of reasoning efficiently and robustly at a human level is of critical importance across numerous real-world domains, including healthcare, finance, entertainment, and beyond. Current large language models represent some of the most powerful intelligent systems created to date, demonstrating remarkable abilities in text generation and human-like conversation. However, these models often fail in surprising ways, particularly when confronted with complex reasoning challenges such as multi-step logical or mathematical inference or planning action sequences for tasks in physical environments. In contrast, humans approach reasoning in a fundamentally different way. Equipped with a mental model of the world, humans form a consistent understanding of their environment, enabling robust and deliberate reasoning. This world model allows us to simulate alternative actions, predict their outcomes, and refine our reasoning based on these simulations. This project aims to develop the next-generation machine reasoning capabilities by systematically incorporating the key concept of \u201cworld model\u201d into the design, training, and application of new reasoning models. The research will deliver a comprehensive set of innovative algorithms and models to elevate machine reasoning to a new level of flexibility, consistency, and robustness. Furthermore, the project will support the development of new undergraduate and graduate courses, provide mentorship to students in artificial intelligence research, and engage in extensive outreach efforts with K-12 students, the general public, and industry professionals.\r\n\r\nTo achieve these goals, the project will formulate and implement a new machine reasoning paradigm centered on world models. The research will deliver systematic innovations in three key areas: (1) new inference algorithms that induce the internal world model within pretrained large language models and conduct principled strategic planning that mirrors the deliberate reasoning in humans; (2) new learning methods with rich forms of experience beyond text, including embodied interactions for physical world knowledge and self-synthesized data for continual reasoning skill enhancement; (3) a new unified multi-modal world model for more comprehensive world understanding and efficient reasoning simulation in a unified latent representation space. These advances will be seamlessly integrated, representing a significant step forward in the pursuit of human-level reasoning capabilities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhiting",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhiting Hu",
+   "pi_email_addr": "zhh019@ucsd.edu",
+   "nsf_id": "000870336",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The Regents of Univ. of Calif., U.C. San Diego",
+  "perf_str_addr": "9500 GILMAN DR MC 0021",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 381276.0
+  }
+ ],
+ "por": null
+}

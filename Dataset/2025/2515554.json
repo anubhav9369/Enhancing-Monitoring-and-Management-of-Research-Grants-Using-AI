@@ -1,0 +1,110 @@
+{
+ "awd_id": "2515554",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: The Role of Inverse Energy Cascade in Tornadogenesis",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032924715",
+ "po_email": "nanderso@nsf.gov",
+ "po_sign_block_name": "Nicholas Anderson",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2027-03-31",
+ "tot_intn_awd_amt": 299311.0,
+ "awd_amount": 299311.0,
+ "awd_min_amd_letter_date": "2024-12-20",
+ "awd_max_amd_letter_date": "2024-12-20",
+ "awd_abstract_narration": "One supercell thunderstorm may produce a tornado, but another storm with similar vorticity and storm relative helicity (SRH) may not, which is a long-standing mystery in meteorology. This means that vorticity and SRH may not be sufficient to characterize the tornadogenesis process. To help NWS meteorologists to better assess which supercell thunderstorm has a high potential to produce a tornado, besides vorticity and SRH, this project will investigate one more parameter, which is the wind velocity spectra in supercell thunderstorm, when the tornado is forming and going through its life cycle. The characteristics of this parameter will lay the foundation to test the Research Hypothesis (RH) related to tornadogenesis of this project: only when the rear flank downdraft (RFD) facilitates the vortex tubes in the mesocyclone in experiencing inverse energy cascade, that is, only when the energy in the vortex tubes is transferred from smaller vortex eddies to larger vortex eddies, via the high pressure squeezing of RFD to the vortex tubes near the ground, a tornado will form. The Research Objective of this project is to test this RH by applying the coupled CM1 and high-resolution LES simulation approach to simulate the entire tornado life cycle to understand whether inverse energy cascade is a necessary (or indispensable) condition for forming a tornado, investigating the role of inverse energy cascade in tornadogenesis. If this RH is verified to be correct, this can be used to determine whether a certain supercell thunderstorm has a high potential to produce a tornado or not, improving the extreme weather forecasting of NOAA NWS. \r\n\r\nThis project may reveal the long-standing mystery of why some supercell thunderstorms can produce a tornado, while others with similar conditions cannot, by examining whether the vortex tubes near ground are experiencing inverse energy cascade, instead of energy cascade. In this project, first, the coupled simulation approach will be applied to numerically simulate a variety of tornadoes with different intensities, flow structures and surface roughness, through their entire tornado life cycle, from genesis, to maturation, and to dissipation/death, to extract wind velocity time histories in the wind field. Then, considering the non-stationary wind characteristics of tornadoes, at each measurement location, the extracted velocity time histories will be strategically segmented to obtain the energy spectra. The wind spectra will be compared along time to determine whether an inverse energy cascade occurs during a tornadogenesis and whether an energy cascade occurs during a tornado dissipation/death. The obtained spectra will also provide data to develop the function of tornadic wind spectrum in terms of surface roughness, height, radial distance from tornado center, mean wind speed at a certain radial distance (related to tornado intensity), and flow structure (swirl ratio). This project will offer a new way to interpret the genesis of the tornado spawn in a supercell thunderstorm. It will bridge the knowledge gap on how energy is transferred between large eddies and small eddies at each stage of tornado life cycle. The developed wind spectra will help establish the standardization of tornado simulation, including simulation using a tornado simulator in the lab and simulation using CFD (numerical). This will lead to accurate tornadic wind loading, which in turn will inform tornado hazard mitigation to enhance community resilience.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Grace",
+   "pi_last_name": "Yan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Grace Yan",
+   "pi_email_addr": "yang@mst.edu",
+   "nsf_id": "000642655",
+   "pi_start_date": "2024-12-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yanguang",
+   "pi_last_name": "Li",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanguang C Li",
+   "pi_email_addr": "liyan@missouri.edu",
+   "nsf_id": "000200531",
+   "pi_start_date": "2024-12-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Missouri University of Science and Technology",
+  "inst_street_address": "300 W. 12TH STREET",
+  "inst_street_address_2": "202 CENTENNIAL HALL",
+  "inst_city_name": "ROLLA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "5733414134",
+  "inst_zip_code": "654091330",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MO08",
+  "org_lgl_bus_name": "UNIVERSITY OF MISSOURI SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Y6MGH342N169"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Missouri University of Science and Technology",
+  "perf_str_addr": "300 W. 12TH STREET",
+  "perf_city_name": "ROLLA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "654091330",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MO08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152500",
+   "pgm_ele_name": "Physical & Dynamic Meteorology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299311.0
+  }
+ ],
+ "por": null
+}

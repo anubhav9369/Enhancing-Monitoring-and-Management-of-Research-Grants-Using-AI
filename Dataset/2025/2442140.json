@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442140",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Multifidelity Scientific Machine Learning for Design",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599972.0,
+ "awd_amount": 599972.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) award supports research looking to develop of a new approach to multifidelity scientific machine learning that combines data from both high- and low-fidelity simulations in a mathematically rigorous way, yielding new machine-learned models that issue high-accuracy predictions at low computational cost. In engineering design, predictive computational simulations enable design engineers to analyze the expected performance and cost of designs without needing to go through the expensive process of building and experimenting on physical prototypes. In typical settings, engineers have access to both high-fidelity simulations, which issue the most accurate predictions but at high computational cost, and low-fidelity simulations, which issue lower accuracy predictions more cheaply. If only high-fidelity simulations are used, the high computational cost of each simulation can limit the number of designs that can be considered, leading to sub-optimal designs. On the other hand, if only low-fidelity simulations are used, the low accuracy of the predictions can lead to less reliable designs. This CAREER award will support research focused on enabling engineers to create more optimal and robust designs across all engineering disciplines, ranging from space missions to biomedical devices to renewable energy systems, thereby advancing national defense, welfare, and prosperity. This award will also support the development of new educational modules for training both undergraduate engineering students and practicing engineers in industry in modern computational design methods, thereby promoting the development of a globally competitive STEM workforce.\r\n\r\nThe intellectual contributions intend to yield new machine learning methods that enable design engineers to rapidly explore high-dimensional design spaces and quantify design-relevant uncertainties, opening up a new class of design problems that can be solved with the new methods. The multifidelity scientific machine learning approach intends to train models on both limited high-fidelity data and more abundant low-fidelity data by combining these data in a multifidelity control variate framework. Multifidelity control variates, which exploit correlations between high- and low-fidelity data, have been successfully used for uncertainty quantification for engineering design to yield provably more accurate uncertainty estimates at lower cost. The research activities of this project are to (i) develop and analyze new multifidelity control variate frameworks for linear and nonlinear regression, and (ii) validate the multifidelity learned models on a range of computational design problems including reliability analysis, optimization, and sensitivity analysis. The educational activities will (i) develop a short course on the methods for industry engineers, (ii) create curricular modules on computational design that complement existing undergraduate design courses, and (iii) involve undergraduate students and industry collaborators in the evaluation and validation of the research methods. These educational contributions will be widely disseminated at national conferences, promoting the development of modern computational design skills for all learners.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elizabeth",
+   "pi_last_name": "Qian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elizabeth Qian",
+   "pi_email_addr": "eqian@gatech.edu",
+   "nsf_id": "000936019",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "072Y00",
+   "pgm_ele_name": "EDSE-Engineering Design and Sy"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "8043",
+   "pgm_ref_txt": "System Design and Simulation"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599972.0
+  }
+ ],
+ "por": null
+}

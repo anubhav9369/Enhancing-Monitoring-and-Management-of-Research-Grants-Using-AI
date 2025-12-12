@@ -1,0 +1,114 @@
+{
+ "awd_id": "2531754",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Disciplinary Improvements: Dark Matter Data Commons - A FAIR and Open Science Infrastructure for Astrophysical Discovery",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032924278",
+ "po_email": "plsmith@nsf.gov",
+ "po_sign_block_name": "Plato Smith",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "The Dark Matter Data Commons project addresses a pressing need in experimental astrophysics by creating an open, reusable, and accessible data infrastructure to support discovery in dark matter research. There has been an important investment in dark matter detection experiments, but the field still lacks standardized mechanisms for sharing data and analysis workflows. This gap hinders transparency, reproducibility, and innovation in science.  By aligning with FAIR principles (i.e., Findable, Accessible, Interoperable, and Reusable), the project builds a data platform that broadens access to high-value experimental datasets, enabling participation of students, early career researchers, and institutions with limited infrastructure. The project advances scientific progress and national research capacity through this data infrastructure while supporting educational development and the research community. It contributes to national interest by accelerating discovery in a federally prioritized scientific area and fostering access to cyberinfrastructure for data-intensive science.\r\n\r\nThe project establishes an end-to-end infrastructure for curating, storing, accessing, and analyzing dark matter experiment data. It delivers a FAIR-compliant repository enriched with standardized metadata, integrated with scalable AI and machine learning (AI/ML) workflows, and accessible through user-friendly command-line and Python interfaces. Built atop NSF-funded resources, the commons begins with time-series data from the Cryogenic Dark Matter Search and DELight experiments. It also includes tutorials, training materials, and an affinity group to foster community engagement and reproducibility. This work is a template for similar data infrastructure across rare-event physics, providing a foundation for long-term open science and AI-enabled discovery.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Physics at the Information Frontier (PIF) Program within the Division of Physics in the Directorate for Mathematical and Physical Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michela",
+   "pi_last_name": "Taufer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michela Taufer",
+   "pi_email_addr": "taufer@utk.edu",
+   "nsf_id": "000486752",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Amy",
+   "pi_last_name": "Roberts",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amy L Roberts",
+   "pi_email_addr": "amy.roberts@ucdenver.edu",
+   "nsf_id": "000758861",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "741400",
+   "pgm_ele_name": "NSF Public Access Initiative"
+  },
+  {
+   "pgm_ele_code": "755300",
+   "pgm_ele_name": "PHYSICS AT THE INFO FRONTIER"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2532469",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Unlocking the Potential of Carbones as Metal-Free Catalysts",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927416",
+ "po_email": "selshall@nsf.gov",
+ "po_sign_block_name": "Samy El-Shall",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 223656.0,
+ "awd_amount": 223656.0,
+ "awd_min_amd_letter_date": "2025-08-25",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "In this project, funded by the MPS-LEAPS (Launching Early-Career Academic Pathways) Program and managed by the Division of Chemistry, Professor Ogba and his students at Harvey Mudd College will perform computational mechanistic studies that support the development of organocatalysts, specifically carbones, for use in efficient chemical reactions. Catalysis plays a vital role in the chemical industry, significantly facilitating the production of various manufactured goods. However, many conventional catalytic processes rely on metal-based systems, which can be costly and have detrimental environmental impact. Professor Ogba and his students will utilize molecular modeling, cheminformatics, and machine learning to investigate the structure-function relationships of carbones, a unique class of reactive carbon species, which could serve as potential metal-free catalysts. Their study aims not only to deepen the understanding of carbone reactivity but also to develop publicly accessible reactivity databases for carbones and machine learning programs that facilitate the use of these species in reaction design. Additionally, they will support the development and retention of all first-year STEM students by providing structured research rotations and community-building activities during their first semester.\r\n\r\nKey aims of the proposed work include the development and use of cheminformatics techniques to automate the computation of structural and electronic descriptors of over 80 synthesized carbones using density functional theory (DFT) methods. This will involve rigorous conformational searches and DFT calculations to identify critical molecular descriptors of carbones that affect catalytic performance. Furthermore, the project will quantify the kinetic hydricities of pinacolborane-bound carbones through energy barrier calculations, establishing a nucleophilicity index for these species. By employing supervised machine learning techniques, Professor Ogba and his students will predict kinetic hydricities based on derived molecular descriptors. This hypothesis-driven and machine learning approach will facilitate a deeper understanding of the fundamental chemical principles governing carbones as hydride-donor catalysts. The project also includes creating publicly-accessible databases of steric parameters and nucleophilicity indexes for carbones, alongside a machine-learning program that predicts the reactivity of carbones. These resources will allow scientists to design novel carbone architectures and explore their reactivity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Onyekwere",
+   "pi_last_name": "Ogba",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Onyekwere M Ogba",
+   "pi_email_addr": "mogba@g.hmc.edu",
+   "nsf_id": "000808331",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Harvey Mudd College",
+  "inst_street_address": "301 PLATT BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLAREMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9096218121",
+  "inst_zip_code": "917115901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "HARVEY MUDD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C76JKA5JY2B3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Harvey Mudd College",
+  "perf_str_addr": "301 PLATT BLVD",
+  "perf_city_name": "CLAREMONT",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "917115901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 223656.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2449228",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: LOCI Software Consortium",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 298676.0,
+ "awd_amount": 318676.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-09-03",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project enables the rapid advancement of computational modeling approaches and their transition to practical applications. Development of computational tools requires collaboration among applied mathematicians and physicists, who develop the models of physical systems; computational scientists, who understand the complexity of programming high performance computing systems; and application engineers, who understand the physics of the engineering system. One of the biggest challenges for computational tool development is the lack of collaboration between these experts. LOCI, a general-purpose framework for developing numerical solvers and computational simulations, encourages collaboration by providing a modular framework where independently developed physical, numerical, or computational models can be integrated seamlessly. The project improves a community-driven open-source ecosystem (OSE) that allows porting of advances from different disciplines into the application with ease.  LOCI also enables innovation in the computational engineering discipline through rapid community feedback. In particular, the consortium will help advance Loci-CHEM, a high-speed flow solver widely used for space launch and hypersonic system applications.   \r\n\r\nThis POSE project focuses on the development of an open-source ecosystem for the LOCI framework, providing a data-driven paradigm for specifying solver algorithms. LOCI provides an auto-parallelizing capability which simplifies the development and deployment of complex, large-scale simulation software, enabling efficient execution on supercomputers. The LOCI consortium facilitates community-driven enhancements to the code base, promoting the exploration and development of new scientific use cases, and implementing a governance structure that aligns LOCI's development with community needs. The consortium will maintain and sustain LOCI\u2019s existing capabilities and acts as a catalyst for future advancements. To achieve these objectives, the project will: 1) determine the best non-profit structure for the consortium; 2) develop the framework for governance including an advisory board and working groups to represent the community's interests; 3) document and streamline the onboarding process for new users and developers; and 4) develop strategies for the integration of external contributions to the LOCI source code. Wider adoption of the framework will transform the way computational models are developed, while its modular nature will make scientific software development more efficient.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shanti",
+   "pi_last_name": "Bhushan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shanti Bhushan",
+   "pi_email_addr": "shanti@cavs.msstate.edu",
+   "nsf_id": "000616162",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sara",
+   "pi_last_name": "Fuller",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sara C Fuller",
+   "pi_email_addr": "sfuller@cavs.msstate.edu",
+   "nsf_id": "0000A0Y6V",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Mississippi State University",
+  "inst_street_address": "245 BARR AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "MISSISSIPPI STATE",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6623257404",
+  "inst_zip_code": "39762",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MS03",
+  "org_lgl_bus_name": "MISSISSIPPI STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTXJM52SHKS7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Mississippi State University",
+  "perf_str_addr": "245 BARR AVE",
+  "perf_city_name": "MISSISSIPPI STATE",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "39762",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MS03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  },
+  {
+   "pgm_ele_code": "226Y00",
+   "pgm_ele_name": "Special Projects"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 318676.0
+  }
+ ],
+ "por": null
+}

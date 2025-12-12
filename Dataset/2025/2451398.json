@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451398",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: III: Compression-Aware Computing for Sustainable Machine Learning Model Inference",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927978",
+ "po_email": "racharya@nsf.gov",
+ "po_sign_block_name": "Raj Acharya",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 171387.0,
+ "awd_amount": 171387.0,
+ "awd_min_amd_letter_date": "2025-06-28",
+ "awd_max_amd_letter_date": "2025-06-28",
+ "awd_abstract_narration": "This project aims to advance the efficiency of machine learning model inference by developing a compression-aware computing framework. As large machine learning models become increasingly essential across science and industry, their substantial resource demands, particularly memory, computation, and energy, have limited their deployment to expensive, specialized hardware. Lossy compression techniques, such as sparsification and quantization, have emerged as solutions for running these models on consumer devices, such as laptops and smartphones. However, these methods often reduce predictive accuracy and require extensive tuning. This project proposes an approach to address this accuracy-efficacy trade-off by building self-aware machine learning models over lossy compression. By enabling models to detect and adapt to their own compression, this project will unlock pathways for cost-effective machine learning model inference.\r\n\r\nTechnically, the project consists of two core research objectives. The first focuses on developing machine learning models capable of self-awareness in response to lossy compression. This includes enabling models to determine whether they have been compressed, identify the type of compression used, and localize the affected components. The second objective leverages this self-awareness to recover and enhance model performance without retraining. Techniques include instruction-based recovery, sparse zeroth-order optimization that adjusts a small subset of model parameters, and a collaborative inference framework where multiple compressed models work together. The project will evaluate these methods on real-world tasks such as long-context language modeling and biomedical question answering. By addressing fundamental limitations in compressed machine learning model inference, this project will contribute practical tools for efficient machine learning model deployment.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhaozhuo",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhaozhuo Xu",
+   "pi_email_addr": "zxu79@stevens.edu",
+   "nsf_id": "000992691",
+   "pi_start_date": "2025-06-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "1 CASTLEPOINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 171387.0
+  }
+ ],
+ "por": null
+}

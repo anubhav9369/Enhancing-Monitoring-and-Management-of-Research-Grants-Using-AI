@@ -1,0 +1,146 @@
+{
+ "awd_id": "2513009",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Frameworks: TURBO: Towards Ultra-high Resolution Community Earth System Model (CESM) with MOM6 and Ocean Biogeochemistry",
+ "cfda_num": "47.050, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 4499035.0,
+ "awd_amount": 4499035.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "Weather events, such as heat waves, winter storms, droughts, floods, and hurricanes, severely impact human well-being. Such events also cause severe disruptions to agriculture, infrastructure, energy delivery and use, industrial activity, and fisheries. To better protect life, property, and food sources, it is in the national interest to provide policymakers and local and regional stakeholders with the reliable information they need to make informed decisions. The provision of such information requires Earth system model simulations that can run fast at increasingly finer scales on emerging computational platforms. In addition, advancing the scientific understanding of the processes occurring at these scales and how they feed back to the larger scales is needed. The project aims to address this Earth system modeling challenge by advancing the capabilities of one of the most widely used Earth system models through the creation of optimized configurations of its ocean component that can run efficiently on advanced supercomputers. The project will make a crucial contribution to the Earth system model, providing critical information at local and regional scales and enhancing the planet's resilience to natural hazards. The project will support the training and education of undergraduate and graduate students, as well as the broader research, policymaking, and stakeholder communities, through specific classes, tutorials, and workshops.\r\n\r\nThe project creates an innovative cyberinfrastructure for the latest version of the Community Earth System Model (CESM3), particularly for its ocean component, Modular Ocean Model version 6 (MOM6). It enables new high-resolution (HR; ~10-25 km) and ultra-HR (~3-5 km) frontier applications and science, thus broadening CESM3's use cases down to the kilometer scale. Specifically, the project aims to create Graphics Processor Unit (GPU)-enabled and optimized configurations of MOM6, anticipating the availability of more GPU-based systems in the future. One of the cyberinfrastructure innovations is the introduction of the AMReX software framework within MOM6. The project has the potential to transform the scientific understanding of physical processes, including upper-ocean and air-sea interactions, teleconnection patterns, and their interplay with ocean biogeochemistry at unprecedentedly small spatial scales.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gokhan",
+   "pi_last_name": "Danabasoglu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gokhan Danabasoglu",
+   "pi_email_addr": "gokhan@ucar.edu",
+   "nsf_id": "000418051",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Dennis",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "John M Dennis",
+   "pi_email_addr": "dennis@ucar.edu",
+   "nsf_id": "000414921",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Keith",
+   "pi_last_name": "Lindsay",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Keith Lindsay",
+   "pi_email_addr": "klindsay@ucar.edu",
+   "nsf_id": "000567558",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Gustavo",
+   "pi_last_name": "Marques",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gustavo M Marques",
+   "pi_email_addr": "gmarques@ucar.edu",
+   "nsf_id": "000792256",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University Corporation For Atmospheric Res",
+  "inst_street_address": "3090 CENTER GREEN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOULDER",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034971000",
+  "inst_zip_code": "803012252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YEZEE8W5JKA3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "National Center for Atmospheric Research",
+  "perf_str_addr": "3090 CENTER GREEN DR",
+  "perf_city_name": "BOULDER",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803012252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "161000",
+   "pgm_ele_name": "PHYSICAL OCEANOGRAPHY"
+  },
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 4499035.0
+  }
+ ],
+ "por": null
+}

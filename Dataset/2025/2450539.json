@@ -1,0 +1,142 @@
+{
+ "awd_id": "2450539",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "CIRC: GRAND: Enabling the Next Generation of Cryptographic Computing with Cryptolets",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 3800000.0,
+ "awd_amount": 2699593.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "An emerging form of data processing named cryptographic computing enables computation on encrypted data, providing unprecedented levels of privacy and security. However, these techniques are not widely used today as they run very slowly on existing processors and hardware. This project will implement the infrastructure needed to enable researchers to develop new hardware designs that can overcome these performance limitations and enable cryptographic computing. Throughout this project, named Cryptolets, the team will implement the hardware and software needed to accelerate core cryptographic computing functions in hardware, the infrastructure to connect these pieces, and software to validate it. \r\n\r\nCryptolets will focus on three intertwined efforts. First, it will implement and open source a hardware library of key operators and kernels used in cryptographic computing (e.g., modular multiplication, number theoretic transform, and multi-scalar multiplication), and prototypes of existing full protocol accelerators (e.g., homomorphic encryption). Second, it will develop infrastructure needed to connect and build chips. This includes automated scripts to run necessary hardware tools and chiplet interfaces. Since cryptographic computing kernels are complex and large, Cryptolets provides users the ability to break designs into smaller chips and connect them. Third, it will provide tooling support for formal verification, testing for side-channels, and test vectors for validation. \r\n\r\nCryptolets will develop suites of educational resources and conduct numerous community building events to advance cryptographic computing. First, the Cryptolets team will develop, record, and release lectures on the fundamentals of cryptographic computing, hardware for cryptographic computing, chiplets, formal verification, and benchmarking. Community building exercises will be done via workshops and online events for experts and newcomers across disciplines to connect. Finally, by releasing Cryptolets infrastructure, the barrier to entry is significantly lowered. Coupled with education and community building activities, the research community is expected to grow markedly. All aspects of the project (e.g., code, lectures, slides, and papers) will be made publicly available for all to access and use.\r\n\r\nAll Cryptolet material and code can be found on the website: cryptolets.org. Websites and repositories are expected to be hosted indefinitely. In addition, archival records of the Cryptolets project (e.g., code, data, reports) will be taken and uploaded at the midway (end of year 2) and final (end of year 4) phases of the project. This will provide a permanent and open backup on the internet for all to access.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Siddharth",
+   "pi_last_name": "Garg",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Siddharth Garg",
+   "pi_email_addr": "sg175@nyu.edu",
+   "nsf_id": "000680915",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Brandon",
+   "pi_last_name": "Reagen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brandon Reagen",
+   "pi_email_addr": "bjr5@nyu.edu",
+   "nsf_id": "000838915",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ramesh",
+   "pi_last_name": "Karri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ramesh Karri",
+   "pi_email_addr": "rkarri@nyu.edu",
+   "nsf_id": "000488450",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Austin",
+   "pi_last_name": "Rovinski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Austin Rovinski",
+   "pi_email_addr": "ar8798@nyu.edu",
+   "nsf_id": "000949141",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7359",
+   "pgm_ref_txt": "COMPUTING RES INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2699593.0
+  }
+ ],
+ "por": null
+}

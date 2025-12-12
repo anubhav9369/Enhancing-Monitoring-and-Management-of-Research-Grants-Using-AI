@@ -1,0 +1,93 @@
+{
+ "awd_id": "2514508",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Micro-pHAT: A re-envisioned sensor design for measuring seawater pH and Total Alkalinity in situ",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032927577",
+ "po_email": "kbinkley@nsf.gov",
+ "po_sign_block_name": "Kandace Binkley",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 456440.0,
+ "awd_amount": 315353.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "The oceans play an integral role in the global carbon cycle and increased carbon dioxide emissions to the atmosphere have resulted in ocean warming and ocean acidification with cascading effects on marine ecosystems. Ocean-based carbon dioxide removal strategies are gaining a lot of attention and will require monitoring, reporting, and verification as well as evaluation of potential environmental impact. Traditionally, ship-based platforms have been used to collect seawater samples for benchtop analyses which has generated high quality snapshots of the ocean carbon chemistry. However, ship-based platforms are limited in their spatiotemporal resolution which has led to the development of a variety of autonomous platforms for filling in the gaps in both space and time. To date, there is no commercially available, single sensor for measuring the full seawater carbon dioxide system suitable for in situ, autonomous platforms. This project will focus on advancing the technology readiness level of a prototype sensor (Sea-pHAT) for measuring both pH and Total Alkalinity. This two-parameter sensor does not require external reagents, is low power, is fast (about 60 seconds per measurement), has a small footprint, and is solid-state all of which lend it to be suitable and ideal for in situ, autonomous platforms. This sensor is unique because most other developing technologies for measuring the seawater carbon dioxide system require reagents, have complex moving parts, and cannot measure two parameters near simultaneously. \r\n\r\nThe Sea-pHAT is an ISFET-based (ion sensitive field effect transistor) pH sensor that has been modified through the addition of a coulometric actuator device to additionally perform an alkalinity titration on the chip. In its current configuration, the actuator electrode (anode) is deposited directly on the surface of the ISFET chip. We will design a microfluidic-type housing that will instead suspend the anode above the ion sensing region of the chip (gate) with adjustable vertical positioning. This has several benefits including on the fly adjustment of the anode-gate. A rigorous characterization of the anode-gate distance will be performed side-by-side with the tunable Micro-pHAT and modified ISFETs of the Sea-pHAT sensor. The optimal anode-gate distance will be determined over various ranges of AT and sensitivity of the measurement to temperature and salinity will be assessed. Signal conditioning routines will be explored to optimize the sensor output and will be integrated in the sensor software. The results from all the configurations tested will be synthesized in a user manual to aid future users in selecting optimal operating parameters and understanding system options. All of this will result in bringing us several steps closer to having a commercially available, user friendly, single dip probe for measuring the full aqueous carbon dioxide system that can be integrated on a variety of platforms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ellen",
+   "pi_last_name": "Briggs",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ellen M Briggs",
+   "pi_email_addr": "ebriggs@ucsd.edu",
+   "nsf_id": "000835447",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "inst_street_address": "8622 DISCOVERY WAY # 116",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585341293",
+  "inst_zip_code": "920931500",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+  "org_prnt_uei_num": "QJ8HMDK7MRM3",
+  "org_uei_num": "QJ8HMDK7MRM3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "perf_str_addr": "8622 DISCOVERY WAY # 116",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920931500",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "168000",
+   "pgm_ele_name": "OCEAN TECH & INTERDISC COORDIN"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 315353.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,166 @@
+{
+ "awd_id": "2536578",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FIRE: An Integrated AI System Tackling the Full Life Cycle of Wildfires in Hurricane Prone Regions",
+ "cfda_num": "47.050, 47.076",
+ "org_code": "06010000",
+ "po_phone": "7032925047",
+ "po_email": "lpatino@nsf.gov",
+ "po_sign_block_name": "Lina Patino",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 2322053.0,
+ "awd_amount": 2322053.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Wildfire management in the Florida Panhandle faces unprecedented challenges due to the unique interaction between hurricanes and fire behavior. This fire-dependent ecosystem relies on regular wildfire for ecological health, yet hurricane disturbances can dramatically alter this natural balance by creating massive fuel accumulations that transform beneficial fires into devastating threats to rural communities. Unlike other fire-prone regions, the Florida Panhandle experiences hurricane disturbances that can increase fuel loads by an order of magnitude, creating conditions where ecologically necessary fires become uncontrollable disasters. Current wildfire management approaches usually do not account for these hurricane-fire interactions, leaving communities vulnerable during evacuation and recovery. This research will develop the first comprehensive artificial intelligence system specifically designed to address hurricane-fueled wildfire dynamics throughout the complete wildfire lifecycle. The project will enhance community resilience by providing emergency managers with predictive tools for fuel accumulation, real-time roadway monitoring during evacuations, and automated infrastructure damage assessment. The research includes workforce training for emergency personnel and community-centered educational programs. The open-source system will be deployable across the hurricane-affected southeastern United States, potentially transforming wildfire risk management for millions of residents while establishing new standards for interdisciplinary disaster science.\r\n\r\nThis project develops an integrated artificial intelligence system that addresses the full lifecycle of hurricane-fueled wildfire through four interconnected research thrusts. The first thrust creates pre-wildfire capabilities using spatial-temporal graph neural networks to model hurricane-driven fuel dynamics and physics-informed learning for ignition forecasting. The second thrust advances in-wildfire response through AI-enhanced roadway disruption prediction and real-time evacuation support using crowd-sourced observations. The third thrust establishes post-wildfire assessment capabilities using multimodal foundation models for infrastructure damage evaluation and fuel-ecosystem recovery modeling. The fourth thrust develops comprehensive workforce training and community-centered educational outreach to ensure operational feasibility. The research leverages partnerships with local stakeholders in the Florida Panhandle to access field data and perform implementation. Research outcome can be widely disseminated through deployable tools, educational modules, and community partnerships.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yushun",
+   "pi_last_name": "Dong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yushun Dong",
+   "pi_email_addr": "yd24f@fsu.edu",
+   "nsf_id": "0000A0SJ9",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Eren",
+   "pi_last_name": "Ozguven",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eren E Ozguven",
+   "pi_email_addr": "eozguven@eng.famu.fsu.edu",
+   "nsf_id": "000667403",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Reynolds",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "James R Reynolds",
+   "pi_email_addr": "jreynolds@lsi.fsu.edu",
+   "nsf_id": "000861908",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jie",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jie Sun",
+   "pi_email_addr": "jsun2@fsu.edu",
+   "nsf_id": "000997155",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "874 TRADITIONS WAY",
+  "perf_city_name": "TALLAHASSEE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "345Y00",
+   "pgm_ele_name": "Fire Science Innovations"
+  },
+  {
+   "pgm_ele_code": "741200",
+   "pgm_ele_name": "Advanced Tech Education Prog"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "SMET",
+   "pgm_ref_txt": "SCIENCE, MATH, ENG & TECH EDUCATION"
+  },
+  {
+   "pgm_ref_code": "1032",
+   "pgm_ref_txt": "ADVANCED TECHNOLOGY EDUCATION"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2322053.0
+  }
+ ],
+ "por": null
+}

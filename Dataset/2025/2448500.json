@@ -1,0 +1,98 @@
+{
+ "awd_id": "2448500",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Robust and Explainable Artificial Intelligence (AI) Tools for Detecting Deepfakes",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-01-14",
+ "awd_abstract_narration": "The broader impact of this I-Corps project is the development of robust and explainable artificial intelligence (AI) tools for detecting deepfakes. Deep Fakes or AI-generated images, audio, and videos mimicking real people have emerged across various sectors, posing significant threats. The deepfake AI market is expected to undergo significant growth, rising from a value of $564 million in 2024 to an impressive $5,134 million by 2030. This technology is designed to meet the needs of industries highly vulnerable to deepfake threats. Journalists and news organizations require reliable tools to verify content authenticity, preserving credibility and public trust. In media and entertainment sectors, this technology protects intellectual property and ensures content integrity. The finance sector benefits from enhanced fraud detection, while cybersecurity firms can use the developed tools to strengthen defenses against sophisticated cyber-attacks. By providing robust and explainable AI tools, this project enhances detection accuracy, builds public trust, and holds significant commercial potential.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of generalizable deepfake detectors by focusing on extracting common forgery features from various deepfakes. These features will be used to train a highly accurate deepfake detector, enhanced with robust approaches to improve detector reliability. This robust detector will be integrated with physical and physiological-based explainable methods to provide clear explanations for detection results. To achieve this, a comprehensive library of high-quality, reusable physical/physiological-based models is built. The library makes these methods easily accessible with readable, usable, and maintainable code. To simplify the end user's understanding of detection results, large language models are integrated into the system to provide concise textual explanations and reports.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shu",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shu Hu",
+   "pi_email_addr": "hu968@purdue.edu",
+   "nsf_id": "000946365",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8027",
+   "pgm_ref_txt": "Cyber Secur - Cyberinfrastruc"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

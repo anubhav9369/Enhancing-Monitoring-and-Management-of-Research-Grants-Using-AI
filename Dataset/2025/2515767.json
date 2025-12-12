@@ -1,0 +1,110 @@
+{
+ "awd_id": "2515767",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Performance Guaranteed Statistical Learning with Multiple Classes of Models (guided by PCS)",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032925307",
+ "po_email": "tmaiti@nsf.gov",
+ "po_sign_block_name": "Tapabrata Maiti",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 140000.0,
+ "awd_amount": 140000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "This project will develop a next-generation statistical framework to improve the reliability and reproducibility of data science (DS) and artificial intelligence (AI). As DS and AI play an increasingly central role in science, healthcare, technology, and national security, it is essential that the methods used to analyze data are trustworthy and transparent. However, current data analysis tools often rely on the traditional assumption that data come from a specific form of probabilistic model\u2014a practice that often fails to capture the complexity of modern data, leading to misleading conclusions and contributing to a growing crisis of scientific replication. This project studies a new framework called Predictability-Computability-Stability Inference (PCSI) for veridical data science (VDS) to help ensure that conclusions drawn from data are not only accurate but also stable, interpretable, and computationally practical. The research will also help train the next generation of data scientists, promote interdisciplinary collaboration, and support the responsible development of AI. By improving how uncertainty is measured and communicated, the project serves the national interest by strengthening scientific research integrity and public trust in data-driven decisions.\r\n\r\nThe PCSI approach evaluates multiple predictive algorithms and filters out those with insufficient performance, avoiding dependence on any single model and focusing uncertainty assessment on those that are adequately predictive. It uses multiple bootstrap samplings to address uncertainty in an integrated manner with the new form of uncertainty in PCSI: stability over pred-checked algorithms. It also employs a novel multiplicative calibration technique to ensure valid prediction coverage, improving robustness to subgroup structures. The project specifically aims to advance the PCS framework for veridical data science (VDS) by developing PCSI methods for key areas of machine learning, including classification, deep learning, and ensemble learning. The research consists of three thrusts: (1) developing PCSI for classification to improve uncertainty quantification, robustness, and accuracy in both binary and multi-class settings; (2) designing PCSI methods for deep learning and large language models using computationally feasible perturbations and calibrations to enhance stability, interpretability, and performance in modern AI; and (3) establishing theoretical foundations for PCSI and PCS-guided ensemble learning, showing that even under model mis-specification, PCSI can remain valid and outperform existing methods such as conformal inference under reasonable conditions. These developments will result in statistically sound, computationally efficient tools, along with software, publications, and educational materials to broaden participation and ensure broad dissemination.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bin",
+   "pi_last_name": "Yu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bin Yu",
+   "pi_email_addr": "binyu@stat.berkeley.edu",
+   "nsf_id": "000465148",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1269",
+   "pgm_ref_txt": "STATISTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 140000.0
+  }
+ ],
+ "por": null
+}

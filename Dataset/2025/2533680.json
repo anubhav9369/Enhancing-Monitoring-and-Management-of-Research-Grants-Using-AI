@@ -1,0 +1,110 @@
+{
+ "awd_id": "2533680",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Optical Phase Detection and Imaging by a Multimode Silicon Photonic Chip",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 435000.0,
+ "awd_amount": 435000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Optical phase gives rise to the most fundamental and defining features of light. Light waves interfere constructively or destructively with each other, depending on their relative phase relation. Based on interferometry, precise detections of optical phase have enabled transformative discoveries and technologies including the observation of gravitational waves, biomedical pathology diagnosis, coherent optical communications, imaging, and computer vision. Hence, leveraging the advanced photonic technology to build highly efficient phase detection systems on-chip has been at the forefront of integrated optical informatics. However, current integrated phase detection architectures require the integration of interferometers that must be accurately calibrated and flexibly programmed to offset the undesired fabrication imperfections. Such interferometer hardware takes up the majority of the footprint budget and hinders the scalability of the detectable information space on-chip. In this project, a novel multimode phase detection scheme for silicon photonics will be investigated. Utilizing the mode degree of freedom in silicon photonic multimode waveguides, the on-chip photonic hardware planning will be minimal, without a deliberate hardware design of an interferometer. Rather, the phase detection will be carried out through numerical optimization and digital signal processing. The advantages of this novel detection scheme in terms of device footprint and detection speed will be identified. The proposed multimode phase detection scheme categorically eliminates the stringent hardware requirements in the interferometer-based phase detections, defies current integrated phase detection architecture by liberating immense space budget on the photonic chip, and has the potential to revolutionize the next generation of optical communication, imaging and beyond. This research will also be a medium to boost increased experimental learning in graduate and undergraduate students by involving them in meaningful research activities related to integrated photonics, coupled with software algorithms for digital signal processing in optical imaging and microscopy. A variety of outreach programs will be conducted to attract talented students to STEM and increase the participation from K-12 students.\r\n\r\nDetecting optical phase on-chip can empower disruptive technologies in optical signal processing and metrology, bearing far-reaching significance in optical communications, sensing, and imaging. Most integrated phase detection platforms to date perform on-chip interferometry using integrated interferometers. However, such interferometers 1) inevitably inherit variations from the nanofabrication processes and require tunability from either electro-optic or thermal phase shifters, adding fabrication cost and complexity to the photonic hardware, and 2) occupy a significant amount of space, where most of the on-chip footprint budget is yielded to wiring of the optical and electronic interconnects, leaving limited space for an aperture to receive the impinging optical signal, and the detection scalability is in turn compromised. In this project, a software-hardware synergy will be built to initiate a novel software-augmented phase detection scheme in a multimode silicon photonic platform, without the need for deliberately-designed interferometer hardware. As a result, large spatial superposition of optical states with arbitrary amplitude and phase combinations can be detected on-chip with minimal hardware design. The multimode waveguide, with its mode degree of freedom, inherently houses a higher order of information channels in a single waveguide, reducing the footprint consumption. Notably, any deviation in the photonic hardware due to fabrication error will be accounted for during a calibration process and effectively neutralized by digital signal processing, posing no challenge to the detection accuracy. This novel multimode detection scheme releases the footprint throttle in the photonic hardware by digital processing in the software, and carries great technological potential in advanced detection tasks involving high-dimensional, multiple degrees-of-freedom optical signals, directly on an integrated silicon photonic chip.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Liang",
+   "pi_last_name": "Feng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Liang Feng",
+   "pi_email_addr": "fenglia@seas.upenn.edu",
+   "nsf_id": "000651441",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3205 Walnut Street",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191043405",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "094E",
+   "pgm_ref_txt": "Optoelectronic devices"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 435000.0
+  }
+ ],
+ "por": null
+}

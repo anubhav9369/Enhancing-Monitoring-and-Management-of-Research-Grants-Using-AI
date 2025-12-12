@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516189",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Geometric Vulnerabilities in Networked Robotic Systems: Analysis of Affine Transformation-Based False Data Injection Attacks and Their Countermeasures",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 691375.0,
+ "awd_amount": 691375.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "This award supports research that addresses critical vulnerabilities in remotely controlled robotic systems through a comprehensive study of a particularly sophisticated class of cyber attacks, thereby advancing the national health, promoting the progress of science, advancing prosperity and welfare, and securing the national defense. Modern robotic systems rely heavily on networked communication for coordination and control, creating opportunities for malicious actors to inject false data that can cause robots to perform unintended and potentially dangerous actions. Traditional cybersecurity approaches designed for computer networks are insufficient for robotic systems because robots operate in physical environments where security breaches can result in property damage, personal injury, or disruption of essential services. This project looks to address this critical gap by studying affine transformation-based perfectly undetectable attacks that exploit the geometric properties inherent in robotic systems to remain completely undetectable by conventional security measures. Understanding and defending against these attacks is crucial for maintaining public trust in robotic technologies and ensuring their safe deployment in critical applications. The project seeks to advance fundamental knowledge in robotic cybersecurity while training graduate students in interdisciplinary research combining robotics, cybersecurity, and mathematical theory, thereby strengthening the national workforce in critical technology areas. Additionally, the project will implement comprehensive outreach initiatives designed to engage students from various backgrounds, thereby strengthening the pipeline of future talent in cybersecurity and robotics.\r\n\r\nThis research aims to make fundamental contributions to a comprehensive theoretical framework using Lie group theory and differential geometry to characterize geometric vulnerabilities in networked robotic systems and establishes novel countermeasures based on state monitoring signature functions. The project investigates affine transformation-based false data injection attacks that exploit coordinate transformations to maintain mathematical consistency in robotic dynamics while altering physical behaviors. This project looks to derive fundamental mathematical relationships between system symmetries and attack vulnerability, then plans to develop signature functions that create mathematical incompatibilities, making them irresolvable by potential attackers. The approach looks to be validated through theoretical analysis and experimental testing on three distinct robotic platforms: bilateral teleoperation systems, mobile robots, and robotic manipulators. The signature function countermeasures exploit the principle that while attackers can maintain consistency in plant dynamics through geometric transformations, they cannot simultaneously preserve consistency in carefully designed nonlinear monitoring functions. This research looks to establish new mathematical tools for analyzing robotic security, provide practical defense mechanisms for real-world systems, and create fundamental knowledge about the intersection of geometry, dynamics, and cybersecurity in robotic systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jun",
+   "pi_last_name": "Ueda",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jun Ueda",
+   "pi_email_addr": "jun.ueda@me.gatech.edu",
+   "nsf_id": "000508370",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Institute of Technology",
+  "perf_str_addr": "801 Ferst Dr. NW.",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "152E",
+   "pgm_ref_txt": "Cyber-Physical Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 691375.0
+  }
+ ],
+ "por": null
+}

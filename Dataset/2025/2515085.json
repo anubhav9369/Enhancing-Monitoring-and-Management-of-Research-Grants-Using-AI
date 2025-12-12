@@ -1,0 +1,110 @@
+{
+ "awd_id": "2515085",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: NAIRR Pilot Expansion: FA1: RUI: Bridging the Gap: Coalescing Research into Educational Labs for the Application of Machine Learning Methodologies to Cybersecurity Threats",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "This project strengthens national cybersecurity and artificial intelligence education efforts by building a comprehensive collection of hands-on labs that simulate real-world security challenges through cloud-based virtual environments. These labs are hosted through the National Artificial Intelligence Research Resource (NAIRR) platform to remove common technical barriers that limit lab usage in many classrooms. The labs are designed to integrate into cybersecurity, data science, and broader computing programs, while also offering on-ramps for non-computing students seeking digital fluency. The project\u2019s engagement with AI technologies and threat analysis scenarios contributes to the nation\u2019s workforce readiness and skill development in fields critical to national security and economic competitiveness.\r\n\r\nThe project uses the containerization framework and virtual machines hosted on public cloud platforms to simulate research-grade cybersecurity scenarios derived from academic papers and/or real-world use cases. Each lab walks students through the full AI lifecycle, including data generation, preprocessing, feature engineering, model training, validation, and deployment. The environment integrated with NAIRR allows labs to run on GPU-enabled cloud servers for accelerated training and reproducibility. The modular and adaptable curriculum supports integration into various computing environments, course levels, and institutional types. Labs include, but are not limited to, topics such as encrypted traffic classification, intrusion detection, distributed denial-of-service mitigation using reinforcement learning, adversarial machine learning, and generative models for password security.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Suleyman",
+   "pi_last_name": "Uludag",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Suleyman Uludag",
+   "pi_email_addr": "uludag@umich.edu",
+   "nsf_id": "000505445",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Halil",
+   "pi_last_name": "Bisgin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Halil Bisgin",
+   "pi_email_addr": "bisgin@umich.edu",
+   "nsf_id": "000939532",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Flint",
+  "inst_street_address": "303 E KEARSLEY ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "FLINT",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "3137623000",
+  "inst_zip_code": "485021907",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MI08",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L8QSLB2KCRE5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Flint",
+  "perf_str_addr": "303 E KEARSLEY ST",
+  "perf_city_name": "FLINT",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "485021907",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MI08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "296Y00",
+   "pgm_ele_name": "NAIRR-Nat AI Research Resource"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

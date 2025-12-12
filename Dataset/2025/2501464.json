@@ -1,0 +1,110 @@
+{
+ "awd_id": "2501464",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Passive Seismic Protection for Nuclear Power Plants Using Embedded Particle Dampers",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 199064.0,
+ "awd_amount": 199064.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) award supports research that focuses on the development of a novel, location-independent seismic protection system (SPS) for nuclear power plants (NPPs) called the Globally Responsive Absolute Seismic Protection (GRASP). GRASP seeks to utilize locally resonant particle dampers (PDs), a passive vibration control technology composed of a particle-filled cavity that dissipates energy through particle-particle collisions and friction, as the SPS The GRASP system plans to incorporate a meta-surface of sub-surface PDs that surround a nuclear reactor to create frequency band gaps, preventing the transmission of seismic waves across a broad frequency range. To enable the GRASP system, the long-standing challenge of designing resonant PDs needs to be overcome and will be a focus of the research as the inherently nonlinear and stochastic nature of particle-particle interactions makes it challenging to predict and optimize their resonant behavior. The research is integrated with educational and outreach efforts that support the University of Wyoming's strategic goal to expand the nuclear energy workforce, including industry-sponsored design projects and high school engagement initiatives.\r\n\r\nThis award will support research that looks to develop of a novel topology optimization (TO) based design framework to systematically design PDs for elastic waveguide control and vibration-damping applications. The project\u2019s research objectives are to: (1) Develop a topology optimization algorithm based on Sequential Linear Programming (SLP), a method well-suited for modelling non-linear dynamic systems, and (2) Apply this algorithm to design PD-based meta-surfaces that create tunable frequency bandgaps for elastic waveguide control. The research looks to establish a new design paradigm for particle dampers, where objective functions can be adapted to a wide range of vibration control goals beyond seismic applications. The findings are expected to impact a broad range of engineering systems in addition to NPPs, including aerospace, robotics, energy harvesting, and mechanical metamaterials.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ankit",
+   "pi_last_name": "Saxena",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ankit Saxena",
+   "pi_email_addr": "asaxena@uwyo.edu",
+   "nsf_id": "0000A15Y6",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wyoming",
+  "inst_street_address": "1000 E UNIVERSITY AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "LARAMIE",
+  "inst_state_code": "WY",
+  "inst_state_name": "Wyoming",
+  "inst_phone_num": "3077665320",
+  "inst_zip_code": "820712000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "WY00",
+  "org_lgl_bus_name": "UNIVERSITY OF WYOMING",
+  "org_prnt_uei_num": "FDR5YF2K32X5",
+  "org_uei_num": "FDR5YF2K32X5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wyoming",
+  "perf_str_addr": "1000 E UNIVERSITY AVE",
+  "perf_city_name": "LARAMIE",
+  "perf_st_code": "WY",
+  "perf_st_name": "Wyoming",
+  "perf_zip_code": "820712000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "WY00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "072Y00",
+   "pgm_ele_name": "EDSE-Engineering Design and Sy"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8043",
+   "pgm_ref_txt": "System Design and Simulation"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199064.0
+  }
+ ],
+ "por": null
+}

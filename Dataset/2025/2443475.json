@@ -1,0 +1,102 @@
+{
+ "awd_id": "2443475",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Synergistic Urban Environmental Modeling: From Microclimate Dynamics to Community Resilience",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924539",
+ "po_email": "lcamacho@nsf.gov",
+ "po_sign_block_name": "Lucy Camacho",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 549999.0,
+ "awd_amount": 549999.0,
+ "awd_min_amd_letter_date": "2025-05-30",
+ "awd_max_amd_letter_date": "2025-05-30",
+ "awd_abstract_narration": "By 2050, 70% of the global population is expected to live in urban areas, intensifying challenges such as rising temperatures, urban heat islands and degraded air quality (AQ). Although cities occupy only 3% of Earth's land, they contribute up to 80% of energy consumption and 75% of carbon emissions. Prolonged heat waves in urban settings could drastically increase mortality rates while straining energy systems and public health infrastructure. Addressing these challenges requires creating resilient and sustainable urban environments. This CAREER project aims to improve understanding of Urban Microclimate (UMC) dynamics, including local wind patterns, turbulence, and pollutant dispersion. By combining experimental, computational, and analytical research methods, the project will provide critical insights for applications in building energy modeling, public health, distributed energy systems, and advanced air mobility. Educational efforts include creating open-source materials and immersive Virtual Reality (VR) tools to inspire students and local communities to engage with UMC modeling. These tools, co-designed with community stakeholders, will promote interdisciplinary learning and contribute to expanding the science and engineering workforce of the future. The project results will be shared through community workshops, academic conferences, and public resources. By addressing critical urban challenges, this research will contribute to the development of sustainable cities and aligns with NSF's mission of promoting science and innovation for societal benefit.\r\n\r\nThis project seeks to advance the understanding of Urban Microclimate (UMC) dynamics and their interactions with urban morphology, natural heat sources, and anthropogenic activities using a comprehensive analytical, computational, and experimental framework. UMC dynamics play a pivotal role in addressing climate challenges, including urban heat islands, rising temperatures, and air quality (AQ) degradation. The research focuses on three core objectives: (1) characterize and parameterize UMC dynamics and building characteristics; (2) quantify multi-scale, multi-variant interactions between UMC dynamics and building characteristics, incorporating natural/anthropogenic heat and surface energy balance parameters for correlation analysis, establishing validated and scalable benchmarks to advance urban sustainability; and (3) advance students and communities through educational initiatives and innovative visualization technologies. The project leverages the NSF-supported NHERI Boundary Layer Wind Tunnel (BLWT) facility at the University of Florida to validate Multi-Fidelity Surrogate Models (MFSM). These models integrate unsteady Multi-Fidelity Computational Fluid Dynamics (MF-CFD) simulations, feature extraction via Reduced Order Modeling (ROM), and machine learning (ML) techniques for efficient surrogate modeling. By simulating complex interactions for a high-rise target surrounded by neighboring structures, the research will extend findings from single-building studies to neighborhood scales. Outputs will provide high-resolution, scalable predictions of UMC dynamics, including pollutant dispersion and urban heat phenomena. This project addresses critical knowledge gaps in UMC dynamics, contributing to sustainable and resilient urban systems while aligning with NSF's mission to advance fundamental science in the national interest.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Navid",
+   "pi_last_name": "Goudarzi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Navid Goudarzi",
+   "pi_email_addr": "n.goudarzi@csuohio.edu",
+   "nsf_id": "000950722",
+   "pi_start_date": "2025-05-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cleveland State University",
+  "inst_street_address": "2121 EUCLID AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEVELAND",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "2166873630",
+  "inst_zip_code": "44115",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "OH11",
+  "org_lgl_bus_name": "CLEVELAND STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YKGMTXA2NVL6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cleveland State University",
+  "perf_str_addr": "2121 EUCLID AVE",
+  "perf_city_name": "CLEVELAND",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "441152214",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "OH11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "764300",
+   "pgm_ele_name": "EnvS-Environmtl Sustainability"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 549999.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2508145",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RI: Small: Gradient-Based Discrete Markov Chain Monte Carlo: Algorithms, Theoretical Foundations, and Applications",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "This project addresses a central challenge in artificial intelligence (AI) and data science: how to make accurate and reliable decisions when dealing with complex, discrete data; that is, data made up of distinct elements like words, networks, or molecular structures. Many important tasks in science, engineering, and everyday technology rely on the ability to reason under uncertainty in these settings. However, current algorithms often struggle to efficiently explore the vast space of possibilities such data can represent. This research will develop a new class of sampling algorithms designed to be faster, more scalable, and more statistically reliable, making it easier for machine learning systems to handle discrete data effectively. These advances will support the development of trustworthy AI systems, improve scientific simulations, and enable more controllable generative models in areas like drug design, recommendation systems, and natural language processing. By releasing open-source tools and training a diverse group of students and researchers, the project also contributes to the broader scientific community and helps build a skilled workforce. In doing so, it supports the national interest by advancing the progress of science, promoting innovation, and enhancing economic and societal well-being.\r\n\r\nThis project develops a new framework for discrete Markov chain Monte Carlo (MCMC) algorithms that leverages gradients. The proposed gradient-based discrete MCMC (GD-MCMC) approach provides more informed exploration and significantly improves convergence compared to traditional methods. The research plan is structured into three thrusts. The first thrust focuses on developing algorithmic innovations for MCMC in non-log-concave and non-smooth discrete distributions. The second thrust establishes theoretical foundations by providing convergence guarantees for both log-concave and non-log-concave settings. The third thrust demonstrates practical impact in both machine learning and scientific domains, with applications in discrete generative models and molecular optimization.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ruqi",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ruqi Zhang",
+   "pi_email_addr": "ruqiz@purdue.edu",
+   "nsf_id": "000916964",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PURDUE UNIVERSITY",
+  "perf_str_addr": "2550 Northwestern Avenue",
+  "perf_city_name": "West Lafayette",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

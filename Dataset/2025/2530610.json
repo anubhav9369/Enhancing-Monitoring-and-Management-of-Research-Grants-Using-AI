@@ -1,0 +1,98 @@
+{
+ "awd_id": "2530610",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Emulating Water Isotopes in Fully-coupled Global Climate Models using Knowledge-guided Machine Learning",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032928527",
+ "po_email": "edeweave@nsf.gov",
+ "po_sign_block_name": "Eric DeWeaver",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 319907.0,
+ "awd_amount": 319907.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Deep inside every drop of water lie tiny signatures from rare forms of hydrogen and oxygen, known as isotopes. These isotopes contain different numbers of neutrons and act like nature\u2019s recorder, revealing where water vapor came from and how it traveled across the globe and formed precipitation. Sensitive to both temperature and humidity along their pathways, these isotopes are stored in natural archives such as ice cores, lake beds, and cave formations. Scientists can read them like time capsules, unlocking stories of Earth\u2019s past climate: how hot it was, how much it rained, and how climate patterns shifted over thousands of years. These records also help scientists evaluate and improve water cycles in climate models, offering insights into how our planet may change in the future. However, adding isotopes into today\u2019s complex climate models requires cutting-edge scientific and engineering expertise and vast amounts of computing power. The goal of this project is to build a smart shortcut based on machine learning: an \u201cemulator\u201d that can predict water isotope patterns from climate variables in existing climate simulations quickly and efficiently. This is a powerful step forward for climate science, hydrology, and understanding our planet\u2019s past and future. The project fosters interdisciplinary collaboration between climate scientists and AI experts. Its success could lead to new ways of modeling other passive tracers in the Earth system. The project products such as code and data will be open to the community, and results will be shared through university courses, training programs, and K-12 outreach at NSF NCAR, Pitt, and UMD.\r\n\r\nUsing simulations from fully-coupled global climate models (GCMs) with isotope capabilities, such as the isotope-enabled Community Earth System Model (iCESM1), this project aims to build a machine-learning-based emulator that learns a mapping from climate fields to water isotope fields. This mapping can then be applied to other GCMs that lack built-in isotope capabilities, enabling cost-efficient generation of isotopic outputs. Scientifically, the project will improve understanding of the leading drivers of isotopic variability, enhance model\u2013data comparison using both modern and paleoclimate observations, and support isotope-enabled climate model development. It also contributes to ongoing (paleo)climate data assimilation efforts in the broader community, where the lack of isotopic prior simulations has been a limiting factor.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yiqun",
+   "pi_last_name": "Xie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yiqun Xie",
+   "pi_email_addr": "xie@umd.edu",
+   "nsf_id": "000838452",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 319907.0
+  }
+ ],
+ "por": null
+}

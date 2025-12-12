@@ -1,0 +1,114 @@
+{
+ "awd_id": "2503725",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AI Embodied Biomimetic Soft Robot for Superior Vision in Minimally Invasive Surgery",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1038318.0,
+ "awd_amount": 1038318.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "This project advances foundational robotics research by developing a miniature, artificial intelligence (AI)-enhanced soft robotic system that mimics key protective functions of the human eye such as blinking, tear flow, and corneal sensing to autonomously maintain visual clarity during minimally invasive surgeries. In these procedures, surgeons rely entirely on laparoscopic cameras for visual guidance, but lens contamination from smoke, fluids, condensation, and debris frequently impairs visibility. These visual obstructions often disrupt the procedure and require repeated manual or instrument-based interventions to restore clarity. The system integrates soft actuation, programmable fluidics, and real-time AI control to enable autonomous lens cleaning, adaptive airflow shaping, and vision enhancement within a compact robotic platform. In addition to addressing this important medical need, the knowledge gained in this project will enable applications in robotic perception for space exploration, disaster response, and advanced industrial automation. The project also contributes to STEM education through interdisciplinary training in robotics, AI, and engineering applications via curriculum development, summer camps, and other outreach activities.\r\n\r\nThis research aims to develop a bioinspired, multifunctional soft robotic platform that integrates mechanical actuation, fluidic control, and embedded AI to autonomously manage visual clarity in constrained surgical environments. Inspired by ocular physiology, the platform includes five components: a concealed, eyelid-like soft robotic wiper; a cornea-like cover for sealing the camera lens and imaging sensors; an array of soft tubing that mimics the lacrimal gland to introduce airflow and tear-like liquid; a lacrimal-passage-like soft robotic nozzle connected to the tubing channels; and AI algorithms that emulate corneal nerve functions to enhance vision in real time. The research is structured around three technical aims: (1) the design and fabrication of a miniature soft robotic wiper capable of autonomous contamination removal; (2) the development of a programmable, closed-loop soft robotic nozzle to dynamically modulate airflow in response to intraoperative conditions; and (3) the development of AI-driven control strategies to coordinate actuation and deliver real-time image enhancement using techniques such as joint super-resolution and deblurring. The approach uses parameterized model predictive control, optimized via deep reinforcement learning, to ensure persistent feasibility and robustness to uncertainty.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shuai",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shuai Li",
+   "pi_email_addr": "shuai.li@essie.ufl.edu",
+   "nsf_id": "000755036",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jindong",
+   "pi_last_name": "Tan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jindong Tan",
+   "pi_email_addr": "tan@utk.edu",
+   "nsf_id": "000321503",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1038318.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,117 @@
+{
+ "awd_id": "2530889",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: CloudSec: Collaborative Policy Alignment for Secure Scientific Computing Infrastructures",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 597124.0,
+ "awd_amount": 597124.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "The CloudSec project leverages Artificial Intelligence (AI) to protect sensitive scientific resources and data. Scientific computing relies heavily on secure and efficient access control systems to protect sensitive resources and data. However, there is no effective tool to ensure these critical access control policies truly reflect the intentions of users.  As a result, sensitive data and resources have been exposed and this threat persists despite the best intentions of both scientists and cybersecurity experts. To counter this threat, CloudSec helps researchers and developers of scientific infrastructure to collaboratively work to develop access control policies that align with user intent. \r\n\r\nImproving the security of access control policies requires overcoming the disconnect between high-level scientific workflows and low-level infrastructure policies. To accomplish this, CloudSec uses Large Language Models (LLMs) and Natural Language Processing (NLP) to provide a new tool-assisted approach.  CloudSec supports cross-layer policy analysis to compare user level policy with system-level policy to detect discrepancies. When mismatches are found, Cloudsec explains how they may lead to security vulnerabilities, guiding suggestions to refine policies to better align with user intent. The project\u2019s intellectual contributions advance foundational tools and methods for securing cyberinfrastructure, including innovative policy analysis techniques, intuitive tools for capturing user intent, and interactive workflows for refining access policies. Its broader impacts include enhancing the security of scientific discovery and workflows, fostering collaboration between researchers and developers on policy design, and integrating findings into computer science and scientific computing curricula at partner institutions. CloudSec is piloted and validated using real-world applications hosted on the Tapis project, a secure platform for managing computational research. The resulting CloudSec methodology is designed to be broadly applicable across other cyberinfrastructure systems and made available as open source, hosted on GitHub, and a publicly available web application and API.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Stubbs",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph Stubbs",
+   "pi_email_addr": "jstubbs@tacc.utexas.edu",
+   "nsf_id": "000708804",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Eunsuk",
+   "pi_last_name": "Kang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eunsuk Kang",
+   "pi_email_addr": "eskang@cmu.edu",
+   "nsf_id": "000791099",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Smruti",
+   "pi_last_name": "Padhy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Smruti Padhy",
+   "pi_email_addr": "spadhy@tacc.utexas.edu",
+   "nsf_id": "000995159",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 597124.0
+  }
+ ],
+ "por": null
+}

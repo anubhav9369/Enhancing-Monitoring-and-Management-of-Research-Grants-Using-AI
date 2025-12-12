@@ -1,0 +1,122 @@
+{
+ "awd_id": "2439867",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Flexible Electronic Structure Methods for Strongly Correlated Systems",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 699999.0,
+ "awd_amount": 699999.0,
+ "awd_min_amd_letter_date": "2025-03-21",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Ramon Alain Miranda Quintana of the University of Florida is supported by an award from the Chemical Theory, Models, and Computational Methods program in the Division of Chemistry to develop, implement, and test general methods capable of describing strongly correlated systems. A precise understanding of the behavior of electrons in molecules and materials is needed to reliably predict their properties. Such understanding provides an enticing way to explore new compounds in lieu of performing many delicate and expensive experiments. Unfortunately, current theoretical approaches fail catastrophically when applied to systems with a particular kind of complicated electronic structure: strongly correlated electron systems. Examples of strong correlation can be found in compounds with several metallic centers with unpaired electrons, such as rare-earth metals, lanthanides, and actinides. In these situations, the trade-off between the reliability and tractability of traditional computational techniques is unacceptable, so they can only be used in the simplest cases. Solving this problem will facilitate the design of new organometallic catalysts, and more efficient energy-conversion and high-density data-storage devices. Dr. Miranda\u2019s goal is to develop accurate, computationally efficient, and universal methods capable of treating strongly correlated systems. Dr. Miranda will use the software packages developed in his group to boost the undergraduate quantum chemistry curriculum at UF, allowing the students to tackle more realistic problems in their classes. Moreover, he will create videos and other types of online content to introduce topics in algebra, coding, and computational chemistry to a broader audience.\r\n\r\nThis project has three key aims: (1) design, implement, and test new wavefunction ans\u00e4tze capable of describing multi-reference problems; (2) develop a new perturbation theory framework as a robust way to optimize flexible wavefunctions and to help calculate various molecular properties; and (3) extend the domain of applicability of our methods using novel embedding techniques and apply them to realistic chemical compounds and processes. Dr. Miranda\u2019s team will develop and exploit a framework (the Flexible Ansatz for N-body Configuration Interaction, FANCI) that greatly expedites the development and testing new wavefunction ans\u00e4tze. In particular, the focus will be on new families of wavefunction methods, combining traditional ans\u00e4tze (CI, CC) with novel ideas (quasi-particles, symmetry breaking, seniority) in non-traditional ways. The second goal will be centered on a flexible Perturbation Theory (PT) framework that could suit any possible multi-determinant wavefunction. This approach will be leveraged to facilitate calculation of Reduced Density Matrices and response functions. The final focus on general wavefunction-in-wavefunction embedding protocols will help to model changes in the spin state, redox behavior, etc. of strongly correlated systems. Dr. Miranda\u2019s team will exploit the Fanpy/FANCI/FANPT framework as a way to enhance the preparation in computational chemistry at the undergraduate and high school level. With the help of UF\u2019s Center for Precollegiate Education and Training (CPET), they will interact with teachers to develop hands-on tools for their classrooms, while also hosting high school students. They will also work to engage the community through materials (mostly, videos/lectures) aimed to introduce coding, mathematic tools, and computational chemistry concepts and applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ramon",
+   "pi_last_name": "Miranda Quintana",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ramon A Miranda Quintana",
+   "pi_email_addr": "quintana@chem.ufl.edu",
+   "nsf_id": "000864480",
+   "pi_start_date": "2025-03-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "115E",
+   "pgm_ref_txt": "RESEARCH EXP FOR TEACHERS"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 699999.0
+  }
+ ],
+ "por": null
+}

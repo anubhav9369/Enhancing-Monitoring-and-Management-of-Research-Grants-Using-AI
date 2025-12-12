@@ -1,0 +1,98 @@
+{
+ "awd_id": "2504859",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: OAC Core: Cyberinfrastructure for AI-Enabled Multimodal Prediction of Extreme Events in Space Weather",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 290285.0,
+ "awd_amount": 290285.0,
+ "awd_min_amd_letter_date": "2025-05-28",
+ "awd_max_amd_letter_date": "2025-05-28",
+ "awd_abstract_narration": "Extreme space weather events can disrupt satellite communications, GPS systems, and power grids and even pose risks to astronauts. Understanding and predicting these events is essential for protecting critical infrastructure and ensuring national security. This project aims to develop an advanced cyberinfrastructure that integrates artificial intelligence (AI) with diverse space weather data to improve the forecasting of extreme space weather events. By incorporating generative AI models for data creation, the project enables predictive analyses that are both data-rich and scalable. This significantly enhances the ability to forecast extreme events, including solar flares, coronal mass ejections, and solar energetic particle events, thus helping mitigate their effects on technological systems. Additionally, the project fosters collaboration between computer scientists and heliophysicists while providing open-access tools and datasets to the research community. The project also involves student groups in hands-on research and training, offering mentorship opportunities, and partnering with high schools. This contributes to building a skilled STEM workforce, advancing scientific knowledge through data-driven analysis, advancing core scientific knowledge and contributing to national security.\r\n\r\nThis project develops a cyberinfrastructure for AI-enabled multimodal extreme space weather events forecasting. The cyberinfrastructure enables predictive modeling of solar transient events by integrating solar photospheric magnetogram data spanning three solar cycles or more than 30 calendar years. A key technical advancement is the application of generative AI, with a physics-infused conditional diffusion model, to enhance historical datasets by filling spatial and temporal resolution gaps. Another significant contribution is using multimodal machine learning and explainability techniques to improve the current state-of-the-art space weather prediction methods. The project builds a homogenized dataset of vector magnetograms, open-access computational tools, and machine learning models to process vector magnetograms, time series, and derived metadata parameters. The cyberinfrastructure integrates scalable generative AI techniques and multimodal learning frameworks to optimize forecasts of solar flares, coronal mass ejections, and solar energetic particle events while providing an interoperable learning framework for heliophysics research, benefiting both the scientific community and sectors reliant on accurate space weather predictions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Berkay",
+   "pi_last_name": "Aydin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Berkay Aydin",
+   "pi_email_addr": "baydin2@gsu.edu",
+   "nsf_id": "000776694",
+   "pi_start_date": "2025-05-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia State University Research Foundation, Inc.",
+  "inst_street_address": "58 EDGEWOOD AVE NE",
+  "inst_street_address_2": "FL 3",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4044133570",
+  "inst_zip_code": "303032921",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MNS7B9CVKDN7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia State University",
+  "perf_str_addr": "25 Park Place",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303032921",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "090Y00",
+   "pgm_ele_name": "OAC-Advanced Cyberinfrast Core"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 290285.0
+  }
+ ],
+ "por": null
+}

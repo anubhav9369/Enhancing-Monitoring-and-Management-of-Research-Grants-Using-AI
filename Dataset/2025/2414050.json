@@ -1,0 +1,106 @@
+{
+ "awd_id": "2414050",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Data Science-Enabled Learning, Prediction and Simulation of Nanoparticle Population Behavior for Advanced Nanomanufacturing",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924813",
+ "po_email": "sbukkapa@nsf.gov",
+ "po_sign_block_name": "Satish Bukkapatnam",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 280405.0,
+ "awd_amount": 280405.0,
+ "awd_min_amd_letter_date": "2025-04-11",
+ "awd_max_amd_letter_date": "2025-04-11",
+ "awd_abstract_narration": "This project funds research that looks to combine numerical-experimental approach to understand and model the synthesis of large populations of advanced materials that are a hundred thousand times smaller than human hair. The research looks to develop a data science-based framework to enable learning, predicting, and simulating hard-to-model nanoscale fabrication processes, which underpin a variety of emerging applications in electronics, energy storage, and biomedicine. Proposed research resonates with the global quest towards realizing the potential of artificial intelligence and machine learning in boosting American competitiveness in advanced manufacturing. The scientific community can benefit from this research by extending the approach to a broader set of nanoscale material systems including different oxide-supported metal nanoparticles. Research will study the evolution of alumina-supported iron nanoparticles which serve as nanocatalysts for the chemical vapor deposition (CVD) growth of vertically aligned carbon nanotubes (VACNTs) for next generation thermal interfaces and electrical interconnects. Educational impact intends to include upskilling STEM students and junior scientists on timely topics at the nexus of data and manufacturing sciences. Moreover, the project will strive to generate jargon-free outreach materials explaining topics in machine learning and advanced nanomanufacturing to the general audience. \r\n\r\nThe collective behavior and interactions among substrate-bound nanoparticles during the coupled physicochemical processes of oxidation/reduction, dewetting, coarsening, and catalysis are not well understood. This severely constrains the ability to reliably manufacture dense populations (hundreds of billions per square centimeter) of functional nanoparticles or active nanocatalysts. This research project intends to combine probabilistic data science methods with in-situ environmental transmission electron microscopy (E-TEM) to elucidate the dynamics of spatial proximity effects among ensembles of adjacent nanoparticles. The research looks to leverage spatio-temporal point process theory, a branch of probabilistic machine learning, for quantifying, predicting, and simulating the time evolution of location and size distributions and spatial dependencies during the formation and evolution of metal nanoparticles from thin films. In pursuit of these goals, the following tasks will be undertaken: (1) In-situ E-TEM measurements of population behavior of metal oxide reduction, nanoparticle formation by dewetting, coarsening by Ostwald ripening, and catalytic activation; (2) Automated image segmentation of in-situ E-TEM videos to extract salient information about the time evolution of locations, sizes, areal densities, shapes and activation of nanoparticles; (3) Learning from experimental observations: spatio-temporal statistical modeling of segmentation data using point process theory to characterize, predict, and simulate the evolution of interaction potentials; (4) Learning beyond experimental constraints: elucidating the physicochemical dynamics of metal/support interfacial phenomena for larger spatial domains, finer temporal resolutions, and unsampled conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mostafa",
+   "pi_last_name": "Bedewy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mostafa Bedewy",
+   "pi_email_addr": "mbedewy@pitt.edu",
+   "nsf_id": "000742776",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pittsburgh",
+  "inst_street_address": "4200 FIFTH AVENUE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4126247400",
+  "inst_zip_code": "152600001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MKAGLD59JRL1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pittsburgh",
+  "perf_str_addr": "4200 FIFTH AVENUE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152600001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "081E",
+   "pgm_ref_txt": "NANO SCALE ASSEMBLY"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "084E",
+   "pgm_ref_txt": "NANOMANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 280405.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2443553",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Additive Manufacturing of Property-Certified Metamaterials",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924813",
+ "po_email": "sbukkapa@nsf.gov",
+ "po_sign_block_name": "Satish Bukkapatnam",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "Metamaterials are engineered materials with structures that can exhibit mechanical and other properties not found in natural materials. They are being increasingly considered for diverse industrial applications, such as in aerospace and healthcare. Achieving the desired properties of a metamaterial hinges largely on the precise fabrication of its complex geometry, and Additive manufacturing (AM) is well-suited for metamaterial fabrication. However, geometric imperfections introduced during the AM-fabrication of a metamaterial compromises its properties. This Faculty Early Career Development (CAREER) project supports research that aims to integrate advanced sensing and artificial intelligence (AI) for characterizing geometry-property relationship of metamaterials in the presence of certain geometric imperfections. This project seeks to enable high-quality and scalable fabrication of metamaterials, potentially reducing manufacturing costs and enhancing product performance, which in turn will broaden applications of metamaterials and strengthen the competitiveness of the US manufacturing sector. This project will also integrate research outcomes into educational and outreach activities, preparing the next generation of AI-savvy manufacturing professionals and engaging small and medium-sized manufacturers to drive lasting societal and economic impact.\r\n\r\nThe goal of this research is to establish a computational framework for property-centric monitoring and optimization of AM to achieve property-as-desired metamaterials. This framework will be built by exploring crucial interdependencies among AM process parameters, as-built metamaterial geometries, and the resulting metamaterial properties. To achieve this, the research is structured around four key objectives: The first, in-process characterization of geometric imperfections aims to efficiently represent high-resolution point cloud data, collected layer by layer, as a concise yet comprehensive profile that captures as-built geometry with imperfections. Second, linking as-built geometry to properties based on the obtained profile, aims to extract a geometric imperfection-pertinent probability distribution and integrate it into predictive models linking between as-built geometries and properties of the metamaterial. Third, property-centric monitoring and control that leverages the geometry-property relationship to develop a property-centric monitoring scheme for identifying deviations that substantially impact the desired properties. These insights will be fed back to optimize and control the AM process. Fourth, cross-geometry generalization aims to enable researched models to generalize across metamaterial geometries with minimal re-training, ensuring broad applicability in diverse AM-produced metamaterials. Findings from this research seek to enhance manufacturing decision-making across broader advanced manufacturing domains, particularly in addressing the impact of process uncertainties on product properties.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chen",
+   "pi_last_name": "Kan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chen Kan",
+   "pi_email_addr": "chen.kan@uta.edu",
+   "nsf_id": "000796992",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Arlington",
+  "inst_street_address": "701 S NEDDERMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ARLINGTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8172722105",
+  "inst_zip_code": "760199800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT ARLINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LMLUKUPJJ9N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Arlington",
+  "perf_str_addr": "701 S NEDDERMAN DR",
+  "perf_city_name": "ARLINGTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "760199800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "088E",
+   "pgm_ref_txt": "THERMALLY DRIVEN PROCESSES"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

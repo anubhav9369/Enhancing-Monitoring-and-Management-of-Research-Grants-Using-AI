@@ -1,0 +1,110 @@
+{
+ "awd_id": "2530726",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: ECHO: Environmental Context-aware geoHazard mOnitoring AI for Sinkhole Precursor Detection",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032927199",
+ "po_email": "ramartin@nsf.gov",
+ "po_sign_block_name": "Raleigh Martin",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 490382.0,
+ "awd_amount": 490382.0,
+ "awd_min_amd_letter_date": "2025-07-17",
+ "awd_max_amd_letter_date": "2025-07-17",
+ "awd_abstract_narration": "This project establishes an artificial intelligence (AI)-driven framework to accurately detect sinkhole precursors based on multiple Earth monitoring data sources. Sinkholes are a pervasive and destructive geohazard, threatening critical infrastructure and public safety. Yet accurately detecting sinkhole precursors is challenging due to the subtle and varying nature of these signals. While recent advances in remote sensing and AI have improved our ability to monitor ground movement, existing methods often rely on general-purpose AI algorithms that overlook the specific complexities of sinkhole development. This project introduces novel AI algorithms specifically designed to meet these unique challenges. In particular, the proposed AI-driven framework is capable of integrating different data types, automatically identifying and grouping environmental conditions and adapting detection criteria accordingly. The findings from this research will improve the early detection of sinkhole precursors, supporting public safety and hazard mitigation. The findings will also help city planners make better decisions about zoning, site stability, and infrastructure resilience. Additionally, the project will develop educational materials and outreach programs by organizing a geoscience AI challenge for students and creating new AI-driven geoscience curricula for undergraduate and graduate courses.\r\n\r\nThis research aims to establish advanced multimodal AI methodologies that fuse large heterogeneous geoscience data streams using a shared latent representation and a nonparametric Bayesian clustering algorithm. The primary objectives include: (i) establishing a structured data processing pipeline for collecting, organizing, and aligning multimodal geoscience datasets; (ii) creating a multimodal dual-variational autoencoder architecture for accurate detection and localization of sinkhole precursor signals; (iii) developing an adaptive nonparametric Bayesian clustering algorithm to support interpretable analysis; and (iv) validating the proposed framework using real-world datasets from known sinkhole-prone regions. The contributions of this research span both geoscience and AI. In geoscience, it will advance our understanding of the predictive mechanisms of sinkhole formation. In AI, it will introduce novel algorithms capable of handling multimodal and incomplete data, performing adaptive anomaly detection, and enhancing model interpretability in complex settings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Minhee",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Minhee Kim",
+   "pi_email_addr": "mkim3@ufl.edu",
+   "nsf_id": "000928964",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Chunli",
+   "pi_last_name": "Dai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chunli Dai",
+   "pi_email_addr": "chunlidai@ufl.edu",
+   "nsf_id": "000723633",
+   "pi_start_date": "2025-07-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 490382.0
+  }
+ ],
+ "por": null
+}

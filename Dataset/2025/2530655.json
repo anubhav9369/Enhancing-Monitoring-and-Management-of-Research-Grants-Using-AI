@@ -1,0 +1,105 @@
+{
+ "awd_id": "2530655",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: IPAAI: Multi-Layer Data Provenance and Federated Learning for Securing Scientific AI Pipelines",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 900000.0,
+ "awd_amount": 900000.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-07-28",
+ "awd_abstract_narration": "Artificial intelligence (AI) is becoming essential to scientific discovery in areas, such as biomedical research, environmental modeling, and genomics. However, the reliability of AI systems depends on the quality and integrity of the data used to train them. Scientific datasets are often collected from multiple sources, including laboratory instruments, simulations, and collaborative institutions. This variability makes it difficult to verify how data were generated, processed, or applied. This project supports the NSF's mission to advance trustworthy computing by developing an infrastructure that tracks the full lifecycle of scientific datasets using data provenance methods. By enabling end-to-end traceability, the work improves transparency and accountability in AI-driven science.\r\n\r\nThe project introduces a three-layer architecture for capturing data provenance from hardware devices, operating systems, and scientific applications. The resulting provenance events are merged into a unified provenance graph that supports scalable storage and analysis across institutional boundaries. The research also develops privacy-preserving anomaly detection techniques using federated machine learning, allowing institutions to identify suspicious data behaviors without sharing sensitive raw data. To reduce barriers to adoption, the system includes an investigation interface that supports natural language queries over provenance graphs, helping researchers understand how data were used or potentially manipulated. Expected outcomes include open-source tools, curriculum materials for AI data integrity, and evaluation on real-world datasets from biomedical and environmental workflows. These results will enhance secure collaboration, foster reproducible science, and improve public trust in data-intensive research across academia, healthcare, and government.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wajih Ul",
+   "pi_last_name": "Hassan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wajih Ul Hassan",
+   "pi_email_addr": "hur7wv@virginia.edu",
+   "nsf_id": "000919085",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Aidong",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aidong Zhang",
+   "pi_email_addr": "aidong@virginia.edu",
+   "nsf_id": "000341960",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 900000.0
+  }
+ ],
+ "por": null
+}

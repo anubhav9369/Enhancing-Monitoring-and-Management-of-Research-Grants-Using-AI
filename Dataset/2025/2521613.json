@@ -1,0 +1,102 @@
+{
+ "awd_id": "2521613",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Exploring Automatic Optimization of Multi-tiered HPC Storage Systems via Practical Reinforcement Learning",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 133980.0,
+ "awd_amount": 133980.0,
+ "awd_min_amd_letter_date": "2025-03-04",
+ "awd_max_amd_letter_date": "2025-03-04",
+ "awd_abstract_narration": "Nowadays, scientific discovery increasingly involves generating and analyzing large amounts of data. These data-intensive scientific applications pose significant challenges to the storage systems of high-performance computing (HPC) clusters, that are heterogeneous and extremely complex. Scientists who need high-speed data access often experience frustration in effectively using these heterogeneous storage options. There is need to build the long-missing automated HPC I/O (Input/Output) middleware to transparently help scientists achieve optimal data access performance without their manual efforts. Designing automated HPC I/O middleware for large-scale, heterogeneous, and shared HPC storage systems is an extremely challenging task. The researchers supported by this grant plan to  leverage machine learning techniques to understand the requests and the current system status, intelligently and adaptively scheduling and coordinating I/O requests. The outcomes of this research are expected to work with existing storage components and minimize the impacts on both scientific applications and the HPC systems.\r\n\r\nThis project plans to tackle this grand challenge by exploring practical reinforcement learning-based (RL) methods and building relevant software infrastructure in an HPC environment. There are two main focuses in the project: 1) RL-based data placement for high storage utilization, and 2) RL-based I/O coordination for shared storage. Both tasks depend on identifying effective reinforcement learning methods and integrating these methods effectively into HPC systems. To achieve this goal, a novel, system-centric reinforcement learning framework will be developed. Moreover, in each research focus, various RL algorithms, deep neural network designs, and reward shaping will be proposed, implemented, rigorously benchmarked, and compared with state-of-the-art solutions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dong",
+   "pi_last_name": "Dai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dong Dai",
+   "pi_email_addr": "dai@udel.edu",
+   "nsf_id": "000696153",
+   "pi_start_date": "2025-03-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "550 S COLLEGE AVE",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197131324",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 133980.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2442160",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: A New Robust Power System Dynamic Estimation Paradigm with High Penetration of Black-box Inverter-based Resources: Theory, Algorithms, and Applications",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2025-10-31",
+ "tot_intn_awd_amt": 501908.0,
+ "awd_amount": 397111.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "This NSF CAREER project aims to enhance electric power grid operators' situational awareness, improve dynamic model quality, and enable online controls to ensure secure power system operation with high penetration of inverter-based resources (IBRs). The project will bring transformative changes to the use of measurements for dynamic state estimation, model deficiency diagnosis and calibration, and measurement configuration, thereby enhancing system reliability and security. This will be achieved through innovative dynamic estimation theories and algorithms that leverage the increasing diversity of sensors and communication infrastructure, as well as advancements in robust estimation, uncertainty quantification, optimization, and data analytics. The intellectual merits of the project include i) a generalized, computationally efficient derivative-free observability theory, with observability indices tailored for dynamic systems with black-box models, ii) integration of Bayesian inference with robust estimation to develop novel nonlinear dynamic estimation methods and iii) a scalable Bayesian framework for dynamic parameter estimation and uncertainty quantification. The broader impacts of the project include developing the next generation of robust dynamic estimation paradigms for IBR-dominated power systems, and industry-academia collaborative initiatives to promote industry-driven research, course renovation, and training to equip students (including K-12 students) with unique experiences in sustainable energy technologies, data analytics and power engineering.\r\n \r\nThe rapid deployment of inverter-based resources (IBRs) and battery energy storage is changing the dynamic landscape of electric power grids. Traditional steady-state-based static state estimation, used in current energy management systems, is insufficient for capturing these dynamics in real-time operations. This project addresses the critical need for improved dynamic observability and reliable models for system reliability analysis and decision-making. The research objectives include i) developing a generalized derivative-free state and parameter observability theory for black-box and hybrid dynamic systems, overcoming limitations of linearization-based and Lie-derivative-based theories for IBR-dominated systems, ii) fusing robust statistics with estimation and optimization to create nonlinear dynamic estimation methods capable of addressing black-box IBR models, control mode switches, current limiters, anti-windup constraints, unknown controls, and multi-timescale dynamics and iii) designing observability-informed, scalable parameter estimation and uncertainty quantification algorithms to continuously refine power system dynamic models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Junbo",
+   "pi_last_name": "Zhao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Junbo Zhao",
+   "pi_email_addr": "junbo.zhao@dartmouth.edu",
+   "nsf_id": "000865120",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut",
+  "inst_street_address": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "inst_street_address_2": "",
+  "inst_city_name": "STORRS",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604863622",
+  "inst_zip_code": "062699018",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNTPS995QBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut",
+  "perf_str_addr": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "perf_city_name": "STORRS",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "062699018",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 0.0
+  }
+ ],
+ "por": null
+}

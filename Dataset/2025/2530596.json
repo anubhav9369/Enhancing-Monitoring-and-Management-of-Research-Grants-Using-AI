@@ -1,0 +1,98 @@
+{
+ "awd_id": "2530596",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Reliable Generative Downscaling for Geoscience Data",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032922319",
+ "po_email": "mdierick@nsf.gov",
+ "po_sign_block_name": "Marion Dierickx",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "High-resolution geoscience data are essential for understanding and predicting extreme weather events, yet producing such data remains a major challenge due to limitations in observational infrastructure and computational cost. This project introduces a transformative AI-based framework to overcome these barriers by generating high-fidelity, physically consistent, and uncertainty-calibrated geoscience data. These enhanced datasets will empower better decision-making in disaster preparedness, emergency response, and infrastructure planning. The project\u2019s broader societal impacts include advancing tools for tropical cyclone prediction and wildfire detection, training a new generation of interdisciplinary scientists in AI and geosciences, and releasing open-source software for broad accessibility. By integrating explainable AI with physical principles and expert knowledge, the research aims to improve public trust in scientific models and provide actionable insights for meteorologists, policymakers, and emergency managers. Outreach efforts and mentoring initiatives will promote participation in STEM and foster the development of future leaders in climate resilience and AI for natural hazards.\r\n\r\nThis project develops a next-generation generative downscaling framework that combines diffusion-based generative models with physical constraints, domain expertise, and probabilistic uncertainty quantification. Key innovations include physics-guided loss functions to enforce geophysical realism, text-prompted guidance from expert knowledge for tailored downscaling, and conformal prediction techniques to provide rigorous confidence intervals for model outputs. The approach will be validated using diverse, high-impact datasets such as IMERG, CMORPH, and radar observations, with specific applications focused on improving precipitation estimation in tropical cyclones and enhancing wildfire risk detection. By unifying advances in machine learning, statistical modeling, and atmospheric science, the project will establish a new foundation for trustworthy AI-driven downscaling and support critical scientific and societal needs in a changing climate.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Haizhao",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Haizhao Yang",
+   "pi_email_addr": "haizhaoyang@yahoo.com",
+   "nsf_id": "000806215",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2501863",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: RAG-empowered Context-aware Extended Reality",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 199444.0,
+ "awd_amount": 199444.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Extended reality (XR) technologies, including virtual reality (VR) and augmented reality (AR), are transforming how people interact with the world by merging virtual content with the physical world and creating immersive, interactive experiences. To reach their full potential, next-generation XR systems demand a high degree of context awareness, that is, a detailed understanding of both user behaviors and surrounding environmental conditions. With enhanced context awareness, XR systems can deliver virtual content that is personalized, timely, and highly relevant, adapting to user interactions and responding to changes in the surrounding environments. To achieve this goal, this project builds a new class of retrieval-augmented generation (RAG)-empowered XR systems that bring together the power of large language models (LLMs) and localized, context-rich knowledge databases to make XR systems more intelligent and adaptive. The project builds and maintains an accurate, up-to-date, and diverse knowledge database, which integrates diverse sources of contextual information, such as 3D object data, egocentric images, text inputs, and user-specific data like head pose, eye gaze, and user preferences. The project also makes context-aware XR more resource-efficient and low-latency, by strategically leveraging the collaboration of XR devices with nearby edge servers to process complex and dynamic contextual inputs. This project will lay the foundation for context-aware XR applications across multiple domains, such as commerce, entertainment, manufacturing, and social interactions. It will support a wide range of use cases, including smart homes, intelligent manufacturing, and collaborative social XR platforms, where systems can intelligently adapt to both individual and group user behaviors, as well as dynamic environmental conditions. The project will train several cohorts of undergraduate and graduate students. The findings of this project will be presented at K-12-oriented events, and at multiple venues in the field. \r\n \r\nThis project designs, implements, and evaluates context-aware XR systems that can understand and respond to user states and environmental conditions. The research focuses on three thrusts. The first thrust builds a RAG system with a comprehensive knowledge database that integrates multimodal context data of XR users and environments. The second thrust designs resource-efficient update mechanisms that minimize latency for executing context-aware XR algorithms while maintaining high accuracy of context awareness under the resource constraints of edge servers. The third thrust tests the context-aware XR systems through building XR emulators and implementing real-world prototypes, with user studies evaluating performance based on real-time interactions. The project makes intellectual contributions to the studies of XR, edge computing, and machine learning. It augments LLMs with a personalized, localized knowledge database collected in real time from users\u2019\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ying",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ying Chen",
+   "pi_email_addr": "yfc5578@psu.edu",
+   "nsf_id": "0000A0WRL",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kennesaw State University Research and Service Foundation",
+  "inst_street_address": "1000 CHASTAIN RD NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "KENNESAW",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4705786381",
+  "inst_zip_code": "301445588",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "GA11",
+  "org_lgl_bus_name": "KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G8DZHNRKWTN3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kennesaw State University Research and Service Foundation",
+  "perf_str_addr": "1000 CHASTAIN RD NW",
+  "perf_city_name": "KENNESAW",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "301445588",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "GA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  },
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199444.0
+  }
+ ],
+ "por": null
+}

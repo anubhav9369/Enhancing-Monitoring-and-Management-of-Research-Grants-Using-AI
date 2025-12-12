@@ -1,0 +1,106 @@
+{
+ "awd_id": "2514066",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Balanced graph cuts: algorithms, analysis and applications",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 148127.0,
+ "awd_amount": 148127.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "The project focuses on answering the question \"How to divide a collection of objects into two groups such that the objects within each group can interact while the objects from different groups rarely interact?\" As is well known, the past two decades have witnessed an exponential increase in the use of social or other networks, which consist of objects and connections between them, and carry a lot of information. These networks can be used to detect different groups of objects, each with similar characteristics or preferences. In materials science, advanced engineering alloys, such as steels and high-entropy alloys, may be thought of as 3-dimensional graphs with atoms residing at the nodes of a graph and its edges as bonds. These materials are often polycrystalline, and sudden, unexpected failures occur frequently in the form of fractures along crystal boundaries. Such failures are extremely costly, resulting in, for example, oil and gas spills and even bridge collapses. All the above problems can be cast as balanced graph cut problems, which are very challenging. In the literature, many existing approaches resort to approximate solutions. However, these solutions may differ significantly from the optimal ones. This proposal mainly focuses on the development of efficient and reliable methods for finding optimal graph cuts, which could significantly promote their applications to practical problems in the fields of materials science and social sciences.  \r\n\r\nPartitioning a large data set into a prescribed number of subsets is a fundamental problem in machine learning, and it assumes wide applications in fields such as social networks, computer science, chemical engineering, and materials science. To conduct the partition, different balanced graph cuts have been proposed, including the Cheeger cut, the ratio cut, and the normalized cut. As one of the most important balanced graph cuts, the Cheeger cut is a challenging NP-hard problem. Existing approaches only provide approximate solutions. Recently, a novel nonlinear spectral graph theory was developed, and finding the Cheeger cut amounts to solving a constrained optimization problem with a non-smooth objective function over a non-convex set that consists of many different-dimensional simplex cells. The number of these cells is an exponential function of the number of vertices of a graph. Therefore, this raises another tough optimization problem. The proposed research in this project consists of three parts: 1) developing novel efficient and reliable numerical algorithms to solve the above-mentioned problem by using optimization techniques; 2) extending the existing nonlinear spectral graph theory to weighted graphs to enrich the theory and significantly expand its applications to real problems; 3) applying the proposed methods to tackle practical problems in metallurgical engineering and materials science. The projects discussed in this proposal also offer training opportunities for graduate and undergraduate students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wei",
+   "pi_last_name": "Zhu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei Zhu",
+   "pi_email_addr": "wzhu7@bama.ua.edu",
+   "nsf_id": "000555455",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Alabama Tuscaloosa",
+  "inst_street_address": "801 UNIVERSITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUSCALOOSA",
+  "inst_state_code": "AL",
+  "inst_state_name": "Alabama",
+  "inst_phone_num": "2053485152",
+  "inst_zip_code": "35401",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ALABAMA",
+  "org_prnt_uei_num": "RCNJEHZ83EV6",
+  "org_uei_num": "RCNJEHZ83EV6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Alabama Tuscaloosa",
+  "perf_str_addr": "801 UNIVERSITY BLVD",
+  "perf_city_name": "TUSCALOOSA",
+  "perf_st_code": "AL",
+  "perf_st_name": "Alabama",
+  "perf_zip_code": "354012029",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 148127.0
+  }
+ ],
+ "por": null
+}

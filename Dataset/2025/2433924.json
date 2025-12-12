@@ -1,0 +1,106 @@
+{
+ "awd_id": "2433924",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Multi-User Access to Sub-THz Spectrum",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2024-11-15",
+ "awd_max_amd_letter_date": "2024-11-15",
+ "awd_abstract_narration": "To scale data rates in the face of rapidly growing application performance demands, next-generation wireless networks must provide efficient and low-latency access to the next spectrum frontier above 100 GHz. At such high frequencies, wider bandwidths will be available, enabling significantly higher data rates approaching terabits per second. Moreover, highly directive beams will be required to focus the transmission on the mobile user. This project provides two key building blocks for realizing such networks. First, this project will yield a rapid localization method so that highly directive transmissions can dynamically track mobile users. Second, this project will yield the first experimental network above 100 GHz in which an access point can simultaneously transmit to multiple mobile users. Such a multi-user capability is critical for realizing high data rates with low-latency access in dense user populations. One demonstration will be to simultaneously form signal spotlights to mobile users, adapting both the center and size of the spotlights according to the user mobility. \r\n\r\nThis project will demonstrate a sub-THz multi-user data-plane and control-plane via three integrated research thrusts, each of which includes implementation and experimental validation. The first project thrust will realize multi-user sub-THz spectrum access with a radically simplified architecture requiring no RF chains and no antenna arrays. The key technique is to dynamically reconfigure a transmissive metasurface with high-entropy wavefronts that yield different data symbols in different directions. Namely, off-line pre-characterization of the metasurface\u2019s angular response will enable the metasurface itself to simultaneously generate multiple independent directional data streams. Designs will realize beamforming gains, angular symbol diversity, and robustness to client mobility. \r\nThe second project thrust will realize multi-user spectrum access by generating custom-sized and shaped \u201cspotlights\u201d for each user. Exploiting the fact that the sub-THz near field can extend to tens of meters or more, the key technique is to reconfigure the metasurface\u2019s meta-atoms to dynamically shape each user\u2019s electromagnetic energy in space according to their location, mobility and potential interference, thereby enabling both robust and high-rate access. Spotlight shapes can be custom tailored to a user\u2019s needs, even including curved trajectories to better support mobility around corners and to reduce inter-user interference. The third project thrust will realize a low-latency sub-THz control plane that yields high accuracy location and channel information. The key technique is for the access point to generate beacons with pre-characterized high-entropy wavefronts such that a small change in receiver position will yield a distinct spectral signature. The method enables one-shot localization and promises to significantly advance the state-of-the-art in both spatial resolution and time required. Consequently, it provides a key building block for realizing highly directional sub-THz access.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Mittleman",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel M Mittleman",
+   "pi_email_addr": "daniel_mittleman@brown.edu",
+   "nsf_id": "000463831",
+   "pi_start_date": "2024-11-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140Y00",
+   "pgm_ele_name": "SWIFT-Spectrum Innov Futr Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

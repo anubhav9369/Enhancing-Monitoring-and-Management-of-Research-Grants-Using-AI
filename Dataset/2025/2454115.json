@@ -1,0 +1,106 @@
+{
+ "awd_id": "2454115",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AF: Small: Towards Theoretical Foundations of Multi-agent Learning - Algorithms, Dynamics and their Limitations",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 398990.0,
+ "awd_amount": 398990.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "This research project explores fundamental principles underlying how groups of intelligent decision-makers\u2014called \"agents\"\u2014interact and learn within shared environments. Understanding these interactions is increasingly important because they directly impact critical areas such as autonomous driving, economics, evolutionary biology, robotics, artificial intelligence safety, and strategic decision-making. By developing theoretical insights and efficient learning algorithms, the project aims to determine when and how these complex multi-agent systems can reach equilibrium, resulting in predictable and stable outcomes. Beyond scientific advancement, the project will actively integrate its research findings into undergraduate and graduate curricula. Additionally, through the organization of workshops, the project will provide students hands-on opportunities to engage with current research, thus preparing students to effectively tackle emerging challenges at the intersection of multi-agent systems and game theory.\r\n\r\nThis research project aims to develop a robust theoretical framework for analyzing learning processes in multi-agent systems\u2014environments in which independent agents interact repeatedly to achieve their objectives. The project's primary goals include designing computationally efficient algorithms that provably converge to equilibrium states, particularly in scenarios characterized by both cooperative and competitive interactions and in games where agents have large action spaces. Additionally, the project seeks to address long-standing open problems concerning classical learning methods, specifically the rate of convergence for well-known learning algorithms, such as fictitious play. Methodologically, the research will leverage approaches from algorithmic game theory, optimization theory, and dynamical systems analysis. The outcomes of this work are expected to significantly advance the understanding of multi-agent learning dynamics, offer new algorithmic solutions for structured games, and impact applications in artificial intelligence and online decision-making.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ioannis",
+   "pi_last_name": "Panageas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ioannis Panageas",
+   "pi_email_addr": "ipanagea@ics.uci.edu",
+   "nsf_id": "000855342",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California, Irvine",
+  "perf_str_addr": "324 Aldrich Hall Office of Research",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "7932",
+   "pgm_ref_txt": "COMPUT GAME THEORY & ECON"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 398990.0
+  }
+ ],
+ "por": null
+}

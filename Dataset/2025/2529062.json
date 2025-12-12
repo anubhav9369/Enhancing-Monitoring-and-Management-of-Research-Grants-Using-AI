@@ -1,0 +1,166 @@
+{
+ "awd_id": "2529062",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-AFRL-REFLEQTS: Floquet effects at ultra-low driving fields for steady state quantum devices",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 3000000.0,
+ "awd_amount": 3000000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Nontechnical Description\r\nThe ability to engineer and manipulate quantum materials using light lies at the heart of emerging technologies in quantum sensing, optoelectronics, and ultrafast information processing. This project pioneers a new approach to such control through steady-state Floquet engineering\u2014a method of using continuous-wave electromagnetic fields to create and stabilize novel quantum states of matter. Traditional Floquet methods have required extremely intense laser pulses, limiting practical applications. In contrast, the collaborative team at Columbia and University of Michigan will exploit modern nano-optics strategies to enhance light-matter interactions by orders of magnitude. These innovations will enable low-power, chip-scale implementation of enigmatic Floquet effects across a broad range of materials including two-dimensional semiconductors, superconductors, and magnetic systems. The proposed research will address foundational and technological challenges across five key goals: (1) developing steady-state Floquet platforms using enhanced cavities; (2) exploring Floquet-driven topological and superconducting phases; (3) enabling reconfigurable terahertz hardware; (4) creating tunable quantum emitters and low-noise short-wave infrared detectors; and (5) designing frequency transducers and nonlinear optical diodes. These breakthroughs promise to unlock new regimes of quantum control with broad implications for quantum communications, sensing, and materials science. In addition to its scientific contributions, the project will train a new generation of quantum engineers and scientists through interdisciplinary research, nanofabrication, and quantum device integration. The team\u2019s documented commitment to education, innovation and technology transfer will help seed a robust workforce for the nation\u2019s rapidly growing quantum technology sector.\r\n\r\nTechnical Description\r\nFloquet engineering (FE) has emerged as a capable resource for creating new properties on demand in solids, and in atomic/molecular and circuit-QED systems. Despite its immense promise, the widespread application of FE to quantum technologies remains constrained by the fundamental challenges. To overcome these challenges, the Columbia \u2013 University of Michigan team, will employ a multi-pronged strategy: A) Cavity enhancement of light-matter coupling \u2013 plasmonic, nanotip, and photonic cavities will be used to dramatically enhance local field intensities by 102-104, further reducing the required external field strength. B) Low-frequency driving for favorable 1/\u03c9 scaling \u2013 driving at GHz\u2013THz or targeting intra-excitonic transitions maximizes F while remaining within an achievable power regime; and C) Using moir\u00e9 superlattices for enhanced lattice constant a \u2013 the larger moir\u00e9 periodicity (10-nm scale) leads to proportional increases in F, enabling strong FE at lower field strengths. Integrating these methods on a chip-scale platform, with novel forms of Floquet field and across THz to optical frequencies, we will overcome challenges #1-3 and uncover pathways to on-chip Floquet device concepts closely aligned with REFLEQTS and NSF Quantum Leap Big Idea goals.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dimitri",
+   "pi_last_name": "Basov",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dimitri N Basov",
+   "pi_email_addr": "db3056@columbia.edu",
+   "nsf_id": "000186115",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Abhay",
+   "pi_last_name": "Pasupathy",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Abhay N Pasupathy",
+   "pi_email_addr": "apn2108@columbia.edu",
+   "nsf_id": "000527015",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hui",
+   "pi_last_name": "Deng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hui Deng",
+   "pi_email_addr": "dengh@umich.edu",
+   "nsf_id": "000535215",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Schuck",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter J Schuck",
+   "pi_email_addr": "p.j.schuck@columbia.edu",
+   "nsf_id": "000778898",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ana",
+   "pi_last_name": "Asenjo-Garcia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ana Asenjo-Garcia",
+   "pi_email_addr": "ana.asenjo@columbia.edu",
+   "nsf_id": "000797476",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  },
+  {
+   "pgm_ref_code": "1775",
+   "pgm_ref_txt": "ELECTRONIC/PHOTONIC MATERIALS"
+  },
+  {
+   "pgm_ref_code": "097E",
+   "pgm_ref_txt": "High Freq Devices & Circuits"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 3000000.0
+  }
+ ],
+ "por": null
+}

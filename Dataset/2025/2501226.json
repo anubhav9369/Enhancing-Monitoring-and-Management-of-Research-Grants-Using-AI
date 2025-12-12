@@ -1,0 +1,98 @@
+{
+ "awd_id": "2501226",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Portable Sensor for Detecting Harmful PFAS Chemicals in Water in Real Time",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928012",
+ "po_email": "adodabal@nsf.gov",
+ "po_sign_block_name": "Ananth Dodabalapur",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "Per- and polyfluoroalkyl substances (PFAS), often called \"forever chemicals,\" are widespread pollutants that do not break down easily and have been linked to health concerns. These chemicals, commonly found in industrial waste, firefighting foams, and consumer products, have contaminated water sources across the United States, including New Jersey, where high levels have been detected. Exposure to PFAS has been associated with health risks, making reliable detection critical. However, current testing methods, such as liquid chromatography-mass spectrometry (LC-MS), are expensive, time-consuming, and require highly specialized laboratory facilities. This makes it challenging to monitor PFAS contamination in real time, especially in rural or underserved communities that may not have access to advanced lab testing. This project aims to develop a portable, low-cost sensor system that detects PFAS in water on-site and in real time. The sensor integrates a specially designed fluorous electrochromic polyaniline material with an extended gate field-effect transistor, allowing it to provide both electrical and optical dual-mode detection. This approach ensures high accuracy and reliability, even for very low contamination levels. Beyond scientific innovation, this project will have a broader impact on education and community engagement. The findings will be incorporated into the PI\u2019s physics courses to help students connect theory with real-world applications. The project will contribute to outreach efforts, such as the Rowan STEAM program for high school students, encouraging young scholars to explore interdisciplinary research in physics, materials, and environmental science. The local communities in southern Jersey will also benefit from this work through lab open houses, Earth Day events, and public engagement initiatives. This project will help raise awareness about PFAS risks and empower individuals with knowledge about water quality and chemical sensing.\r\n\r\n\r\nThis project aims to develop a compact, real-time sensor for detecting PFAS in water, addressing an important technological need. By integrating electrochromic materials with field effect transistors, the sensor offers a reliable, portable, and low-cost alternative to conventional laboratory methods. The research focuses on four key objectives: 1) Developing a selective sensing material- modifying polyaniline with fluorous surfactants to create F-PANI, improving its ability to selectively capture perfluoroalkyl acids (PFAs) based on the fluorous effect, and enhancing detection sensitivity to low ppt levels. 2) Designing a dual-modal extended gate transistor sensor by measuring both electrical conductivity changes and electrochromic color shifts when PFAS interact with F-PANI, allowing for cross-verification to improve accuracy and reduce errors at extremely low concentrations. 3) Miniaturizing and integrating the sensor by developing a portable, user-friendly device that incorporates a microcontroller for real-time data processing, ensuring ease of use even for non-expert users. 4) Field testing in PFAS-contaminated sites across New Jersey- deploying the sensor in industrial areas, military sites, and agricultural runoff zones, and comparing its performance with LC-MS benchmark tests to validate accuracy and reliability. This study will advance the fundamental knowledge of PFAS detection by investigating how fluorous-functionalized materials interact with fluorinated pollutants at the molecular level. By combining electrochemical and optical sensing, the technology bridges the gap between precise laboratory methods and practical field applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dongmei",
+   "pi_last_name": "Dong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dongmei Dong",
+   "pi_email_addr": "dongd@rowan.edu",
+   "nsf_id": "000984270",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rowan University",
+  "inst_street_address": "201 MULLICA HILL RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "GLASSBORO",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8562564057",
+  "inst_zip_code": "08028",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NJ01",
+  "org_lgl_bus_name": "ROWAN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "DMDEQP66JL85"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rowan University",
+  "perf_str_addr": "201 MULLICA HILL RD",
+  "perf_city_name": "GLASSBORO",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "080281700",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NJ01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

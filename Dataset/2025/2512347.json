@@ -1,0 +1,118 @@
+{
+ "awd_id": "2512347",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Integration of Computational Modeling and Machine Learning for Clot Mechanics",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924204",
+ "po_email": "shisharm@nsf.gov",
+ "po_sign_block_name": "Shivani Sharma",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 199728.0,
+ "awd_amount": 138894.0,
+ "awd_min_amd_letter_date": "2024-12-12",
+ "awd_max_amd_letter_date": "2024-12-12",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) award will support research that will contribute new knowledge related to the mechanics of blood clots. A clot is a solid substance that can form spontaneously from the cells and proteins of blood.  Clots are essential to stopping bleeding from a wound, but also can be dangerous if they improperly block a blood vessel causing, for example, a heart attack or stroke. Decades of research have led to an understanding of the biochemistry and cell biology of clot formation, but how clots are affected by the mechanical forces of blood flow is not well understood. Clots that cause heart attack and stroke often form in flowing blood, thus understanding how the flow forces  affect clot formation may be important to preventing or treating these conditions.  This research will develop a model for clotting. The project will use artificial intelligence to make a generalized predictive model of clot strength using clot composition data.  The research will benefit society by enabling patient-specific clot modeling with the goal of improving personalized medicine. The project spans several disciplines including mechanical engineering, computational science, biomedical engineering, and art and design. The multi-disciplinary approach will be used as part of an outreach effort to broaden participation of underrepresented groups in research.\r\n\r\nThe objective of this research is to characterize clot mechanical response under external load through integration of a novel mesoscopic model and machine learning to extract its strength, toughness, and dynamic modulus. The novel model will consider clot components such as red blood cells, platelets, fibrin networks, and plasma. The specific aims of the research are to develop and validate a multiphysics model for clot mechanics based on a hybrid particle-continuum approach with heterogeneous components and apply machine learning models to predict clot strength, toughness, and dynamic modulus under various compositions using neural networks. The project will advance our knowledge of how the interplay between individual components, including the time-dependent platelet contraction, contribute to the overall mechanical response of the clot and also to predict the clot mechanical properties with given composition by developing novel open-source high performance computing mesoscale models and machine learning models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jifu",
+   "pi_last_name": "Tan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jifu Tan",
+   "pi_email_addr": "jifutan@binghamton.edu",
+   "nsf_id": "000797455",
+   "pi_start_date": "2024-12-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Binghamton",
+  "inst_street_address": "4400 VESTAL PKWY E",
+  "inst_street_address_2": "",
+  "inst_city_name": "BINGHAMTON",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6077776136",
+  "inst_zip_code": "13902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "L9ZDVULCHCV3",
+  "org_uei_num": "NQMVAAQUFU53"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Binghamton",
+  "perf_str_addr": "4400 VESTAL PKWY E",
+  "perf_city_name": "BINGHAMTON",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "139024400",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  },
+  {
+   "pgm_ele_code": "747900",
+   "pgm_ele_name": "BMMB-Biomech & Mechanobiology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "028E",
+   "pgm_ref_txt": "BIOMECHANICS"
+  },
+  {
+   "pgm_ref_code": "070Z",
+   "pgm_ref_txt": "MB-Mechanobiology"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 138893.0
+  }
+ ],
+ "por": null
+}

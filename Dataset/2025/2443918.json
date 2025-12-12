@@ -1,0 +1,106 @@
+{
+ "awd_id": "2443918",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Advanced Implantable Interface for Chronic Chemical and Electrophysiological Monitoring of Neural Activity",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 540458.0,
+ "awd_amount": 540458.0,
+ "awd_min_amd_letter_date": "2025-07-22",
+ "awd_max_amd_letter_date": "2025-07-22",
+ "awd_abstract_narration": "Neural communication relies on both chemical and electrical signals, with neurotransmitters acting across multiple timescales to regulate brain function. To fully understand this complexity, we need implantable devices capable of simultaneously monitoring multiple types of brain signals over extended periods. Although significant progress has been made, current technologies still lack reliable, long-term, multimodal detection capabilities. This CAREER project aims to develop a transformative neural interface designed to monitor multiple brain signals with high spatial resolution and across various timescales. By integrating advanced materials with innovative fabrication techniques, the device will enhance signal detection accuracy while minimizing the brain\u2019s immune response, ensuring stable, long-term functionality. In addition to advancing fundamental scientific knowledge, this research has the potential to improve human health by enabling the development of better treatments for neurological and psychiatric disorders. The project supports national priorities by promoting scientific progress and enhancing public health through next-generation neurotechnologies. It also includes a strong educational component, offering hands-on training and research opportunities for undergraduate and graduate students. Outreach efforts will engage K-12 students and the broader community through interactive demonstrations and discussions on neurotechnologies, their applications, and ethical implications. \r\n\r\nThis project addresses a critical gap in neural interface technologies by developing an implantable multielectrode array (MEA) capable of simultaneously detecting electroactive and non-electroactive neurotransmitters, along with electrophysiological signals, across multiple timescales and over extended periods in vivo. The main objectives focus on three core innovations: (1) developing a high-resolution, double-layer, transfer-free lithographic process to integrate glassy carbon (GC) electrodes and interconnections on thin, subcellular-sized shanks (GC-MEA); (2) enabling simultaneous detection of multiple neurotransmitters over varying timescales by implementing advanced enzyme immobilization techniques and combining electrochemical methods with different temporal resolutions; and (3) designing zwitterionic hydrogel coatings to prevent nonspecific protein adsorption and maintain long-term device functionality. As a testbed, this technology will concurrently measure dopamine (DA, electroactive) and acetylcholine (ACh, non-electroactive), two neurotransmitters known to interact in the striatum during reward-related and behavioral processes. Device performance\u2014including chemical sensitivity, electrophysiological recording stability, and biocompatibility\u2014will be evaluated through acute and chronic in vivo experiments, both with and without antifouling coatings. This project advances neural interface technology by enhancing multimodal sensing capabilities and ensuring long-term stability, enabling deeper insights into brain function and dysfunction. The resulting platform could catalyze breakthroughs in neuroscience, therapeutic development, and bioinspired computing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elisa",
+   "pi_last_name": "Castagnola",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elisa Castagnola",
+   "pi_email_addr": "elisa@latech.edu",
+   "nsf_id": "000985146",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Louisiana Tech University",
+  "inst_street_address": "RAIL ROAD AVE WYLY TWR 1620",
+  "inst_street_address_2": "",
+  "inst_city_name": "RUSTON",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "3182575075",
+  "inst_zip_code": "71272",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "LA05",
+  "org_lgl_bus_name": "LOUISIANA TECH UNIVERSITY",
+  "org_prnt_uei_num": "PAMDY6DMVVE7",
+  "org_uei_num": "PAMDY6DMVVE7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Louisiana Tech University",
+  "perf_str_addr": "RAIL ROAD AVE WYLY TWR 1620",
+  "perf_city_name": "RUSTON",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "712720001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "LA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "8028",
+   "pgm_ref_txt": "Sensor Technology"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 540458.0
+  }
+ ],
+ "por": null
+}

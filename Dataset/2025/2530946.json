@@ -1,0 +1,122 @@
+{
+ "awd_id": "2530946",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: Synthetic Data Generation for Solar Energetic Particle Events by Multimodal Augmentation",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032924943",
+ "po_email": "thuang@nsf.gov",
+ "po_sign_block_name": "Tai-Yin Huang",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 749989.0,
+ "awd_amount": 749989.0,
+ "awd_min_amd_letter_date": "2025-07-08",
+ "awd_max_amd_letter_date": "2025-07-08",
+ "awd_abstract_narration": "Solar Energetic Particle (SEP) events are powerful bursts of radiation from the Sun that can endanger astronauts, damage satellite electronics, disrupt high-frequency radio communication, and increase risks for high-altitude aviation. While these events have significant societal and technological implications, they remain difficult to predict due to their rarity and complex origins. This project addresses a key limitation in space weather forecasting: the lack of high-quality, diverse training data for artificial intelligence (AI) models. By generating realistic synthetic data representing SEP conditions across multiple observational sources, the project will enable the development of more accurate and generalizable forecasting models. These contributions will directly support national efforts to safeguard space operations and infrastructure.\r\n\r\nThe project will proceed in three integrated research thrusts. First, it will construct a multimodal dataset of SEP events by aligning multivariate time series data from multiple satellite missions that record x-ray and proton flux, solar wind properties, and photospheric magnetic fields. Second, to overcome data scarcity, the project will develop a generative modeling framework that synthesizes realistic SEP data across modalities, ensuring both temporal and cross-modal consistency. This approach is designed to preserve physical interdependencies between data types while expanding the pool of training samples. Third, the team will develop a hybrid learning framework that combines unimodal and multimodal representations for SEP prediction and applies unsupervised clustering to group events by energy level and precursor characteristics. The resulting tools and datasets will be shared with the scientific community via open-source repositories. Educational impacts include interdisciplinary training of graduate students in computer science and physics, curriculum integration in data science courses, outreach to K\u201312 students through STEM events, and public dissemination of research through community science programs and national workshops.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shah Muhammad",
+   "pi_last_name": "Hamdi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shah Muhammad Hamdi",
+   "pi_email_addr": "s.hamdi@usu.edu",
+   "nsf_id": "000831317",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ludger",
+   "pi_last_name": "Scherliess",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ludger Scherliess",
+   "pi_email_addr": "ludger@gaim.cass.usu.edu",
+   "nsf_id": "000493184",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Soukaina",
+   "pi_last_name": "Filali Boubrahimi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Soukaina Filali Boubrahimi",
+   "pi_email_addr": "soukaina.boubrahimi@usu.edu",
+   "nsf_id": "000839876",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Utah State University",
+  "inst_street_address": "1000 OLD MAIN HL",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOGAN",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "4357971226",
+  "inst_zip_code": "843221000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UTAH STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPE2YDWHDYU4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Utah State University",
+  "perf_str_addr": "1000 OLD MAIN HL",
+  "perf_city_name": "LOGAN",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "843221000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 749989.0
+  }
+ ],
+ "por": null
+}

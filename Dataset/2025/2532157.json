@@ -1,0 +1,98 @@
+{
+ "awd_id": "2532157",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Photonic Analog-to-Digital Converters",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "This I-Corps project is based on the development of a photonics (light-based) analog-to-digital converter (ADCs) system used in telecommunications, sensing, and computing. Analog-to-digital converters are indispensable hardware in modern technology as they play a crucial role in connecting the signal from an analog device such as a sensor with the digital world. However, current ADCs operate in the electrical domain and have strict trade-offs between speed, precision, and power due to the nature of electronic architectures. This technology is a light-based solution utilizing photonic integrated circuits (PICs) to address this challenge. To date, no photonic ADCs are available on the market due to fabrication and energy consumption issues associated with existing methods. The technology may provide the high-speed data processing required by artificial intelligence (AI) and internet of things (IOT) applications and may satisfy the need for energy-efficient, high-performance solutions across many industries.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of photonic analog-to-digital converters (ADCs). The technology is focused on two approaches: all-optical passive (zero-power) and high-speed electro-optical converters using scalable and Complementary Metal-Oxide-Semiconductor (CMOS)-compatible photonic integrated platforms. The designs incorporate photonic integrated resonators modulated via thermo-optic or electro-optic effects to trigger a single output channel, selected based on the power of an analog input signal. The output channel is then guided through photonic circuitry to photodetectors that identify each binary bit. Both methods are expected to demonstrate efficient performance, CMOS compatibility, and scalability that surpasses conventional electronic approaches. Current ADC technologies are impractical due to energy speed requirements. The ADC technology addresses these challenges as it is also light-based, and avoids electro-optical conversions entirely. This technology may help to unlock the full potential of any photonic computing chip.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carlos",
+   "pi_last_name": "Rios Ocampo",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carlos A Rios Ocampo",
+   "pi_email_addr": "riosc@umd.edu",
+   "nsf_id": "000870081",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8990",
+   "pgm_ref_txt": "Optics and Photonics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

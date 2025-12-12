@@ -1,0 +1,126 @@
+{
+ "awd_id": "2522502",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DMREF: NSF: DFG: Incorporating Disorder and Defects in the Design of Ferroelectric Nitrides",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032927766",
+ "po_email": "jschluet@nsf.gov",
+ "po_sign_block_name": "John Schlueter",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 490272.0,
+ "awd_amount": 490272.0,
+ "awd_min_amd_letter_date": "2025-09-12",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Non-technical Description: Ferroelectric wurtzites show great promise for enabling advanced communications technologies and for reducing computational energy consumption, both of which are key goals of the nation and the National Science Foundation. Their commercial deployment is hindered by limited understanding of the impacts of defect populations on properties, but current state-of-the-art computational techniques rely on unrealistic dilute-limit assumptions that ignore defect interactions with one another and/or with interfaces. This research aims to rigorously capture the interactions and effects of point defects such as heterovalent substitutions (e.g., oxygen replacing nitrogen) and extended defects (e.g., structural damage from bombardment during sputter growth) on properties in wurtzite nitrides. The team includes world experts in simulation, synthesis, characterization, and testing from the U.S. and Germany, and it includes partners from the Army Research Laboratory (ARL) and an industrial advisory board (IAB) who will build on relevant findings to accelerate scale-up and deployment as appropriate. The goal is to bridge the gap between calculations requiring simplifying assumptions and real films grown using commercial techniques to accelerate deployment of these and future DMREF-developed materials. \r\n\r\n\r\nTechnical Description: To-date, when charged defects are simulated computationally (particularly within the electronic nitride space), they are assumed to be dilute and non-interacting, which is invalid for substitution levels in the several- to tens of atomic percent, such as those common in ferroelectric wurtzite alloys. This research will treat defects as components of complex alloys to capture disordered configurations as well as interactions of defects with one another and, eventually, with interfaces. Such calculations will be informed and validated by high resolution electron microscopy capable of measuring not only structural and chemical but also\u2014via electron energy loss spectroscopy (EELS)\u2014local bonding characteristics. The rigorous mechanistic understanding will enable predictive capabilities around interacting (non-dilute) point defects including heterovalent substitutions and will advance towards quantitative predictions of coercive fields, multiscale switching dynamics, and potential degradation processes important to the very devices that the ARL and industry partners on our team will be simultaneously advancing towards deployment.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prashun",
+   "pi_last_name": "Gorai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prashun Gorai",
+   "pi_email_addr": "goraip@rpi.edu",
+   "nsf_id": "000791004",
+   "pi_start_date": "2025-09-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  },
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "177500",
+   "pgm_ele_name": "ELECTRONIC/PHOTONIC MATERIALS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "5936",
+   "pgm_ref_txt": "GERMANY (F.R.G.)"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "106Z",
+   "pgm_ref_txt": "Microelectronics and Semiconductors"
+  },
+  {
+   "pgm_ref_code": "1253",
+   "pgm_ref_txt": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 490272.0
+  }
+ ],
+ "por": null
+}

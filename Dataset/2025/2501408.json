@@ -1,0 +1,110 @@
+{
+ "awd_id": "2501408",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Advancing Design of Highly Chaotic Systems with Higher-Dimensional Analysis and Human-in-the-Loop Reinforced Learning",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) project supports research that aims to establish a new foundation for the analysis and design of chaotic systems by investigating how higher-dimensional representations and topological modeling can fundamentally alter the way engineers perceive and interact with complex dynamics. Many critical engineering challenges, such as trajectory design for space missions, occur within chaotic regimes where small changes in initial conditions can lead to vastly different outcomes. Traditional approaches often reduce these systems to oversimplified, low-dimensional representations that obscure their full complexity, leading to inefficiencies and blind spots in design. To address these challenges, this project seeks to answer two research questions \u2013 1) how can expanding the dimensionality of the problem space, while incorporating topological methods from knot theory, enhance the analysis, visualization, and design of complex chaotic systems to reveal previously unattainable solutions? 2) how does knot theory-informed reinforcement learning with human-in-the-loop interactions enhance design quality, guidance, and decision efficiency and accuracy? This project hypothesizes that by expanding the dimensionality of the design space and integrating human-in-the-loop learning with mathematical insights from knot theory, it is possible to reveal new solutions and guide users toward more efficient, accurate, and interpretable design decisions. This work seeks to offer a new lens for understanding chaos, one that integrates visual, mathematical, and symbolic reasoning, while also engaging broader audiences in science and engineering through immersive learning tools and curriculum. Outreach efforts will include curriculum development and hands-on activities for all K-12 students to support engagement with advanced STEM concepts.\r\n\r\nThe research will pursue the two key questions through a multi-pronged investigation that merges topological dynamics, human-centered learning, and engineering design theory. First, the project will explore how universal templates from knot theory can be used to represent the qualitative structure of chaotic flows in four or more dimensions, enabling novel insights into the organization of phase space. The research will focus on identifying patterns and structures that organize chaotic motion, using knot theory as a mathematical framework to symbolically classify and interpret complex behaviors. These classifications will then support the development of new methods for exploring and navigating chaotic design spaces. As the system\u2019s complexity scales beyond three dimensions, the project will explore methods for projecting and visualizing this behavior through dimensionality reduction techniques, enabling interpretation of 5D+ datasets (3D position, 3D velocity, divergence measure) while preserving topological integrity, enabling semi-analytical identification of stability boundaries and transition surfaces within high-dimensional phase space. Augmented reality (AR) will serve as an interactive research environment for exploring, testing, and refining mathematical hypotheses about chaotic structure. An investigation will be carried out on how symbolic insights from chaos theory can inform early-stage meta-reinforcement learning approaches for human-in-the-loop design, providing a conceptual basis for adaptive decision-making. This project will advance the theoretical foundations of chaotic system design while generating new pathways for integrating topology, dynamical systems, and visualization into engineering education.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Canales Garcia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Canales Garcia",
+   "pi_email_addr": "canaled4@erau.edu",
+   "nsf_id": "000908508",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Embry-Riddle Aeronautical University",
+  "inst_street_address": "1 AEROSPACE BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAYTONA BEACH",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3862267695",
+  "inst_zip_code": "321143910",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "FL06",
+  "org_lgl_bus_name": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5MMBAC9XAM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Embry-Riddle Aeronautical University",
+  "perf_str_addr": "1 AEROSPACE BLVD",
+  "perf_city_name": "DAYTONA BEACH",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "321143910",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "FL06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "072Y00",
+   "pgm_ele_name": "EDSE-Engineering Design and Sy"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "8043",
+   "pgm_ref_txt": "System Design and Simulation"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

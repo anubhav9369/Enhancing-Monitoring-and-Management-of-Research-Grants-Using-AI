@@ -1,0 +1,98 @@
+{
+ "awd_id": "2531191",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Statistical Physics for Maritime Diagnostics",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924749",
+ "po_email": "mwasko@nsf.gov",
+ "po_sign_block_name": "Molly Wasko",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 0.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "The I-Corps project focuses on the development of a generalizable diagnostic tool to tie together disconnected, disparate information sources at scale into a transparent, auditable system. The base technology for this diagnostic tool is platform-independent and can be applied to many areas, including maritime diagnostics. This solution addresses challenges presented by users and systems being inundated with vast quantities of disparate, disconnected, but relevant information sources. Such information sources include sensors, text reports, and existing models. The tool can provide detailed diagnoses of failures by facilitating the communication of relevant and contextualizing information between these sources. The private and public maritime sectors are undergoing rapidly increasing digitalization and maintenance costs. The diagnostic tool explored in this project leverages these new digital information sources, which are often disconnected from one another. It provides the maritime space with an all-encompassing diagnostic tool that can reduce maintenance costs by providing workers with detailed diagnostic information that may not be currently available without significant effort. Additionally, the tool will be fully transparent to the user in its diagnostic decision-making to enable users to fully trust the system and its diagnoses, as compared to current state-of-the-art methods relying on black box-based approaches.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a statistical physics-based diagnostic system utilizing a network of sensors to connect disconnected, disparate information sources. Entities within the system can ping one another and send concise, informational probability distributions describing their respective states. This state-based, lightweight communication protocol enables the system to scale to systems of any size and be applied to any state-based system. Its actions are fully transparent. Current state-of-the-art approaches typically leverage machine learning-based solutions, which are black boxes, and the reasoning behind their decisions is not readily apparent. Users benefit by receiving rapid, concise diagnostic information that leverages information from all over the system while maintaining traceability to enable user confidence and trust.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Singer",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "David J Singer",
+   "pi_email_addr": "djsinger@umich.edu",
+   "nsf_id": "000525489",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE STE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091015",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8032",
+   "pgm_ref_txt": "Software Services and Applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2513795",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF MPS/DMS-EPSRC: A novel theory-based framework for coarse-graining and simulating stochastic differential equations for crystalline materials",
+ "cfda_num": "47.049, 47.079",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 270000.0,
+ "awd_amount": 270000.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "Computer simulations have revolutionized materials discovery, allowing scientists to test thousands of possibilities digitally before conducting expensive laboratory experiments, which accelerates innovation while dramatically reducing costs. There are critical national challenges that require advanced materials that perform under extreme conditions. Examples include next-generation computer chips essential for AI and quantum computing, and nuclear energy infrastructure materials that can withstand extreme radiation and heat in reactors. This project develops new mathematical tools and simulation methods enabling more efficient, accurate, and reliable materials modeling, accelerating breakthroughs in national nanotechnologies, clean energy systems, and resilient infrastructure. In addition, the project strengthens the U.S. scientific workforce by training students in advanced mathematical techniques that span multiple disciplines. Through international collaboration with the University of Warwick in the UK, both graduate and undergraduate students will engage in hands-on research experiences, inspiring them to pursue careers in science, technology, engineering, and mathematics. Overall, this project bridges mathematics, engineering, and computing to address real-world challenges in designing advanced materials, while supporting federal priorities in technological leadership, energy security, infrastructure resilience, and fostering the next generation's STEM talent pipeline.\r\n\r\nThis project establishes a new theoretical framework and methodologies for coarse-grained dynamics and numerical simulation to model materials defect evolution. The central intellectual merit lies in developing rigorous mathematical foundations for coarse-graining strategies that capture spatiotemporal correlations and in creating novel algorithms for efficient and robust computing. The research delivers three key contributions: (1) a robust theoretical framework for selecting coarse-graining variables, quantifying model deviations, and addressing non-Markovian effects while incorporating high-dimensional phase space geometry; (2) numerical methods ensuring stability and accuracy of large time-step integrators, investigating scheme ergodicity, and optimizing parameters to balance error sources; and (3) a software package applying these findings to real computational materials science problems. The proposed methods will improve accuracy and efficiency in modeling lattice vacancy generation, crystal solid annealing, and dislocation motion, benefiting materials science, mathematics, and education. This project will train students in challenging, multidisciplinary applied mathematics at the UNC Charlotte in the U.S. and the University of Warwick in the U.K. Moreover, the ability to travel will give the U.S.-based students access to beneficial interdisciplinary, international research networks, outreaches and training.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xingjie",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xingjie Li",
+   "pi_email_addr": "xli47@uncc.edu",
+   "nsf_id": "000739921",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of North Carolina at Charlotte",
+  "inst_street_address": "9201 UNIVERSITY CITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTE",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "7046871888",
+  "inst_zip_code": "282230001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NC12",
+  "org_lgl_bus_name": "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
+  "org_prnt_uei_num": "NEYCH3CVBTR6",
+  "org_uei_num": "JB33DT84JNA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of North Carolina at Charlotte",
+  "perf_str_addr": "9201 UNIVERSITY CITY BLVD",
+  "perf_city_name": "CHARLOTTE",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "282230001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NC12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "054Y00",
+   "pgm_ele_name": "GVF - Global Venture Fund"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5946",
+   "pgm_ref_txt": "UNITED KINGDOM"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 270000.0
+  }
+ ],
+ "por": null
+}

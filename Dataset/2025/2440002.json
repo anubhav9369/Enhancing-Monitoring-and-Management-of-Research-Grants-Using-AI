@@ -1,0 +1,102 @@
+{
+ "awd_id": "2440002",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Quantum Engineering with Superconducting Fourier Qubits to Create Robust Quantum Processors",
+ "cfda_num": "47.041",
+ "org_code": "07010003",
+ "po_phone": "7032928012",
+ "po_email": "adodabal@nsf.gov",
+ "po_sign_block_name": "Ananth Dodabalapur",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 550000.0,
+ "awd_amount": 550000.0,
+ "awd_min_amd_letter_date": "2025-05-29",
+ "awd_max_amd_letter_date": "2025-05-29",
+ "awd_abstract_narration": "Computers and supercomputers have transformed every aspect of our world and provided essential tools for science, engineering, the economy, and society. The key to the success of this technology lies in the intrinsic error protection of classical bits, which enables us to preserve and process information in a noisy environment. Inspired by the triumph of this approach, the PI of the proposal will leverage error protection to enhance the reliability of newly developed quantum computers. Quantum computers are innovative machines that exploit the intriguing features of the quantum world, such as quantum superposition and entanglement, to accelerate the execution of certain algorithms and simulate complex systems. Among the various pathways to create quantum computers, nanofabricated electrical circuits made from metals with zero resistance, also known as superconductors, form a promising platform. However, these superconducting qubits are highly sensitive to environmental noise, which limits their performance. By employing Fourier engineering, where information is redundantly encoded in higher harmonics of the quantum states in space and time, the PI will design and fabricate novel quantum circuits that are resilient against information loss. A central feature of these Fourier qubits is that they possess multiple circuit nodes, leading to complex circuit potentials with intrinsic error protection. The objective of this work is to demonstrate the logical operation and scalability of these qubits in proof-of-concept experimental devices. These devices can pave the way for robust superconducting quantum processors and open new routes toward solving challenging computational problems in academia and beyond. In parallel with the research efforts, the PI\u2019s integrated education and outreach program intends to bridge the gap between engineering studies and quantum sciences. By emphasizing the engineering aspects of designing quantum devices, broadly disseminating lecture notes of new quantum engineering classes, and enhancing the exposure of communities to quantum engineering education, this program will lead to a paradigm shift in training the next generation of the quantum workforce.\r\n\r\nThis work will develop a quantum engineering program that focuses on the experimental realization of new types of superconducting circuits and strengthen the quantum education of engineering students in tandem. The PI will engineer controllable quantum Fourier qubits that are immune to decoherence and develop classical analogs of these qubits to introduce engineering students to quantum hardware. The research will evolve along two directions. First, the PI will focus on engineering multi-mode circuits, where multiple potential valleys in the phase space of the superconducting wavefunction will host protected quantum states. At the initial stage of the research, exploration of new circuit topologies using numerical methods will play a crucial role. After identifying the circuit layout, the devices will be simulated, nanofabricated, and characterized. The PI will demonstrate extended qubit lifetimes and high-fidelity control of the qubit states. The second research direction of the proposal focuses on active Fourier qubits, where protection arises from strongly oscillating the external parameters of a well-established quantum circuit, the fluxonium. As part of the project, single- and two-qubit operations will be characterized to demonstrate the feasibility of active Fourier qubits in quantum processors. The research projects are strongly tied to quantum engineering education and outreach because the realization of the classical counterparts of Fourier qubits, as multi-mode complex mechanical oscillators, form engaging research projects for undergraduate students and help demystify convoluted quantum concepts for engineers interested in quantum research. Furthermore, the PI will improve the quantum engineering curriculum by developing engineering-focused approaches, with hands-on components in a fabrication facility, to introduce students from broad backgrounds to the cutting-edge techniques of the quantum industry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andras",
+   "pi_last_name": "Gyenis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andras Gyenis",
+   "pi_email_addr": "andras.gyenis@colorado.edu",
+   "nsf_id": "000921100",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST",
+  "inst_street_address_2": "STE 481 572 UCB",
+  "inst_city_name": "Boulder",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803090001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "100E",
+   "pgm_ref_txt": "Novel devices & vacuum electronics"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 550000.0
+  }
+ ],
+ "por": null
+}

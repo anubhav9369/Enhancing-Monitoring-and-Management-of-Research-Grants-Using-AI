@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504613",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: CIF: Medium: Robustness to Distribution Shifts in Computational Imaging - Inference, Sampling, and Adaptation",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 478638.0,
+ "awd_amount": 352098.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "Modern imaging technologies are central to progress in science, medicine, and engineering. Yet, many advanced imaging systems operate under physical or resource limitations that make it difficult to directly acquire high-quality images. Computational imaging addresses these challenges by using algorithms to reconstruct images from incomplete or indirect measurements. In recent years, deep learning has enabled new capabilities in computational imaging, but current methods assume that the training and test data share the same conditions. This assumption often does not hold in real-world settings. This project addresses this critical gap by developing new methods to ensure that deep-learning models for image reconstruction remain reliable and accurate even when the data conditions shift. The outcomes of this research will have broad use and transformative effects across a wide range of scientific, engineering, and biomedical applications, where robust image reconstruction is essential. Broader-impact activities include the organization of special sessions, workshops, and journal issues for the computational-imaging community, dissemination via open-source code, and curriculum development at both institutions.\r\n\r\nThis project focuses on score-based models \u2014 a class of deep generative models that solve imaging problems by learning the score function of the image distribution. The central goal is to develop a unified mathematical framework for analyzing and improving the robustness of these models under distribution shifts between training and test data. The project introduces Robust Score-based Inversion (RoSI) as a foundation for (i) quantifying the extent of such shifts using the model's own score function; (ii) characterizing the effect of shifts on reconstruction and sampling performance; and (iii) enabling principled adaptation of models to new imaging settings. The research will be validated in real-world imaging systems, including lensless cameras, computational microscopes, and magnetic resonance imaging, providing both theoretical insights and practical tools for reliable computational imaging. The project will also promote education and engagement in the areas of computational imaging and machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ulugbek",
+   "pi_last_name": "Kamilov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ulugbek Kamilov",
+   "pi_email_addr": "kamilov@wustl.edu",
+   "nsf_id": "000758969",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "1 BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631304862",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7936",
+   "pgm_ref_txt": "SIGNAL PROCESSING"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 352098.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2536952",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DESC: Type II: REFRESH: Revisiting Expanding FPGA Real-estate for Environmentally Sustainability Heterogeneous-Systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 1500000.0,
+ "awd_amount": 1341907.0,
+ "awd_min_amd_letter_date": "2025-07-22",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Computing systems can exert substantial environmental impacts across their entire life cycles, encompassing manufacturing, usage, and end-of-life disposal. For example, manufacturing processes often require significant amounts of energy and produce substantial carbon emissions. When computers reach the end of their life, they become electronic waste (e-waste). E-waste, if not properly managed, can pose risks to human health and the environment due to the presence of hazardous materials. Mitigating these impacts is a significant challenge for sustainable computing. This project introduces innovative approaches to minimize the environmental impact of computing systems by recycling decommissioned chips, integrating them to extend their lifespans, and achieving near state-of-the-art performance with the newly integrated chips. The project will be carried out by a team of investigators from the University of Pittsburgh and the University of Notre Dame. The project's impacts are twofold: significantly reducing carbon emissions from manufacturing and mitigating environmental risks associated with e-waste by keeping these toxic, non-biodegradable devices out of landfills. This project is making valuable contributions to society through education and outreach activities designed to engage K-12 students with an interest in environmental science, biology, and artificial intelligence (AI).\r\n\r\nThe primary goal of this project is to achieve sustainable computing by reusing recently retired field-programmable gate array (FPGA) chips to build REFRESH FPGA devices and employing 2.5-dimensional (2.5D) integration with an underlying interposer for interconnection. This approach aims to significantly reduce carbon emissions incurred from the fabrication process of new chips. The project consists of four research thrusts. Thrust 1 focuses on developing REFRESH FPGA architecture and design automation toolflow, tailored to address the challenge of targeting hardware designs onto non-monolithic FPGAs. Thrust 2 investigates REFRESH FPGA hardware analysis and prototyping through a design automation framework capable of automatically selecting the optimal design configuration including inter-chip connection topology, connection bandwidth, and the selection of FPGA chips based on their aging condition. Thrust 3 is dedicated to developing a system-in-a-package sustainability analysis, validation, and optimization process, aiming to accurately model and assess the environmental impacts stemming from the 2.5D integrated REFRESH FPGAs including fabrication, integration, and packaging. Thrust 4 extensively explores the most effective methodologies for accelerating a wide range of applications from machine learning to genomics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peipei",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peipei Zhou",
+   "pi_email_addr": "peipei_zhou@brown.edu",
+   "nsf_id": "000870658",
+   "pi_start_date": "2025-07-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "242Y00",
+   "pgm_ele_name": "Sustainability in Computing"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 1341906.0
+  }
+ ],
+ "por": null
+}

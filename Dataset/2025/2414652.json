@@ -1,0 +1,146 @@
+{
+ "awd_id": "2414652",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "SaTC: CORE: Medium: Robust Machine Learning at the Edge",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1100000.0,
+ "awd_amount": 755040.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Many safety-critical applications depend on the robustness of machine learning (ML) algorithms, i.e., their ability to make good predictions when exposed to previously unseen inputs. These safety-critical applications, such as autonomous vehicles, medical applications, wireless networks, and smart cities, often involve \"edge devices\" such as phones, sensors, and Internet-of-Things devices (e.g., wearable and smart home technology). These edge devices have computational, storage, and power limitations that raise new challenges for machine learning robustness against attack. These limitations make it hard to use common methods designed to make ML algorithms more robust against attackers, such as, previously unseen input designed to confuse the algorithms. Previous techniques designed to address these limitations, such as simplifying ML models to make them smaller, may also harm robustness. This project will develop new algorithmic techniques that achieve favorable tradeoffs between the robustness of machine learning algorithms and compression, thereby enabling the deployment of robust machine learning algorithms at the edge.\r\n\r\nThe project team will design new robustness-enhancing training regularization penalties and adversarial training techniques, and will apply them to last-generation, large-scale transformer architectures fine-tuned to new tasks. It will also combine them with model compression techniques such as pruning, quantization, distillation, and neural architecture search, to enable robustness at the edge, and with continual learning approaches, to enable dynamic adaptation. These approaches will be tested and evaluated on large foundation models and applications of machine learning over wireless signals. Graduate and undergraduate students will be trained and acquire skills in diverse areas including machine learning, networking, and systems, while the research activities will be integrated with both educational and outreach programs in the researcher team's host institutions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stratis",
+   "pi_last_name": "Ioannidis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stratis Ioannidis",
+   "pi_email_addr": "IOANNIDIS@ECE.NEU.EDU",
+   "nsf_id": "000711788",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jennifer",
+   "pi_last_name": "Dy",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jennifer G Dy",
+   "pi_email_addr": "jdy@ece.neu.edu",
+   "nsf_id": "000286912",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kaushik",
+   "pi_last_name": "Chowdhury",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kaushik R Chowdhury",
+   "pi_email_addr": "kaushik@utexas.edu",
+   "nsf_id": "000541186",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yanzhi",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanzhi Wang",
+   "pi_email_addr": "yanzhiwang@northeastern.edu",
+   "nsf_id": "000695637",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 755040.0
+  }
+ ],
+ "por": null
+}

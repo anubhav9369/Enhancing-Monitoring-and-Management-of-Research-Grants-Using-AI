@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442172",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Expediting Next-Generation AI for Health via KG-LLM Co-Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 599714.0,
+ "awd_amount": 347570.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "Large language models (LLMs) have reshaped artificial intelligence (AI) research and implementations. In the healthcare domain, extensive enthusiasm has been witnessed on the exploration of LLMs in answering medical questions, extracting clinical information, and assisting clinical decisions. Studies have also revealed the limitations of LLMs regarding their lack of knowledge, fuzzy inference, and hallucination. Knowledge graphs (KGs) have been widely studied due to their advantages in storing accurate, explicit and easily-modifiable knowledge. In the healthcare domain, various medical KGs have been used to support basic science research, pharmaceutical research, clinical decisions, and policy making. However, healthcare data are notoriously noisy and complex, where datasets about specific concepts and conditions come from various sources and include multiple data modalities. While pioneering studies have started to explore the combination of KGs and LLMs for healthcare, most of these studies have focused on applying existing methods and do not aim to fundamentally improve the KGs and LLMs towards solving various healthcare problems. In this project, the research team aims to comprehensively investigate and address the data, model and application challenges in healthcare, through Knowledge Graphs-Large Language Model Co-Learning (KG-LLM Co-learning), a systematic framework that will provide most (if not all) major functionality needed to build high-quality KGs that integrate complex healthcare data, enhance LLMs to obtain reliable healthcare models, and leverage multi-agent systems to account for data privacy, human values and broader factors in healthcare applications.\r\n\r\nThe proposed KG-LLM Co-learning framework includes several transformative technical innovations. First, the investigator's team will develop novel LLM-based methods for constructing comprehensive healthcare KGs, where they will study: (1) ontology-infused prompt designs for unifying existing healthcare KGs collectable from different sources, (2) structure-oriented retrieval augmented generation to continuously improve the healthcare KG based on evolving biomedical literature, and (3) alignment-based instruction tuning to further enrich the healthcare KG based on multi-modality patient data. Second, the investigator's team will design novel usage of KGs to obtain reliable healthcare LLMs, where they will focus on (1) enhancing the planning capability of LLMs through providing biomedical knowledge from KGs, (2) enhancing the reasoning capability of LLMs through enabling biomedical neural symbolic rule learning over KGs, and (3) enhancing the grounding capability of LLMs through enforcing post-hoc biomedical error detection based on KGs. Third, the investigator's team will explore a new way of integrating data and models through the collaboration of LLMs in a flexible federated multi-agent system, which can rigorously facilitate (1) protection of data privacy, (2) alignment with human values, and (3) consideration of broader health factors. Finally, the investigator's team will conduct comprehensive evaluations regarding the important healthcare applications of risk prediction, treatment suggestion and disease subtyping based on de-identified patient data from publicly available databases, Emory Hospitals and the NIH Bridge2AI CHoRUS Consortium, through collaborations with healthcare professionals and clinical experts. If successful, the studies will fill critical gaps between AI advances and healthcare, informing methodology and technology designs in data management and AI/Machine Learning communities, while potentially generating new biomedical and disease knowledge for improving healthcare.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carl",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carl Yang",
+   "pi_email_addr": "j.carlyang@emory.edu",
+   "nsf_id": "000855346",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Emory University",
+  "inst_street_address": "201 DOWMAN DR NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4047272503",
+  "inst_zip_code": "303221061",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "EMORY UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "S352L5PJLMP8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Emory University",
+  "perf_str_addr": "201 DOWMAN DR NE",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303224250",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 347570.0
+  }
+ ],
+ "por": null
+}

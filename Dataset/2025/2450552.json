@@ -1,0 +1,118 @@
+{
+ "awd_id": "2450552",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIRC: NEW: iVoyager: Internet Voyager for gathering cyber threat intelligence",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 1600000.0,
+ "awd_amount": 1600000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Researchers have deployed 32-bit Internet address-based (IPv4) network telescopes and honeypots in academic networks and public cloud infrastructure to capture and react to unsolicited Internet traffic that often carries threat intelligence signals. However, the transition to 128-bit Internet addressing (IPv6) presents a fundamental challenge: its vast address space renders traditional (brute force) IPv4 scanning techniques ineffective, requiring new approaches for traffic collection and threat detection.  This project introduces iVoyager, a cyberinfrastructure (CI) designed to empower researchers to effectively explore the evolving landscape of Internet threats by gathering cyber threat intelligence across both IPv4 and IPv6 network deployments. \r\n\r\nThis project plans to design and implement iVoyager that provide three capabilities: (1) a flexible virtualized environment to facilitate development and deployment of distributed dual-stack (IPv4 and IPv6) telescopes and honeypots; (2) a proactive telescope that applies novel active techniques to attract malicious IPv6 traffic; (3) deployment of lightweight telescope and honeypot vantage points in public clouds and collaborating networks. The project plans to operationalize the reference design of iVoyager to collect longitudinal datasets that facilitate use of machine learning/artificial intelligence (ML/AI) for cyber threat hunting, anomaly detection, and malware analysis. iVoyager will complement existing CIs by providing additional datasets for more comprehensive cyber threat analysis. \r\n\r\nThe data collected by IPv4 telescopes has enabled hundreds of network researchers to study Internet-wide cybersecurity incidents, such as denial-of-service attacks, malware propagation, and malicious scanning activities.  The datasets produced by iVoyager will expand this capability to a dual-stack IPv4 and IPv6 world,  with a focus on advanced applications of machine learning and artificial intelligence (ML/AI) for cyber threat hunting, anomaly detection, and malware analysis. The infrastructure will also support deployment of novel experiments and ML/AI-driven methodologies for characterizing IP spoofing, scanning strategies, and other malicious behaviors. These capabilities will inform and enhance cybersecurity practices and policy development. A link to the project website will be provided from https://www.caida.org/funding/circ-ivoyager/\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ka Pui",
+   "pi_last_name": "Mok",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ka Pui Mok",
+   "pi_email_addr": "cskpmok@caida.org",
+   "nsf_id": "000788795",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kimberly",
+   "pi_last_name": "Claffy",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kimberly C Claffy",
+   "pi_email_addr": "kc@caida.org",
+   "nsf_id": "000230361",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930505",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "289000",
+   "pgm_ele_name": "CISE Research Resources"
+  },
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7359",
+   "pgm_ref_txt": "COMPUTING RES INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "7231",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1600000.0
+  }
+ ],
+ "por": null
+}

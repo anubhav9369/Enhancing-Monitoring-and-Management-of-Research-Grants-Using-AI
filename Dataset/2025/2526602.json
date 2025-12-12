@@ -1,0 +1,98 @@
+{
+ "awd_id": "2526602",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF/BIO-UKRI/BBSRC: Computational Proteomics in a New Physical Dimension",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2029-10-31",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 1200000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Determining the sequence of amino acids in a peptide\u2014peptide sequencing\u2014is a foundational technique in drug discovery, food safety, and environmental monitoring. This project aims to enable confident identification of challenging classes of peptides for which current state-of-the-art methods fail or produce unreliable results. Today\u2019s dominant technology for peptide identification is mass spectrometry (MS), which performs well when peptides match sequences in a reference database. However, MS struggles in two important scenarios: (i) de novo sequencing, where no reference sequence is available and (ii) heavily modified peptides, which are common in post-translational modifications (PTMs) relevant to epigenetic regulation and drug development. This project addresses both challenges by developing new computational tools for a next-generation mass spectrometry approach: two-dimensional mass spectrometry (2D-MS). This technique introduces fragment-fragment correlation (FFC)\u2014the ability to determine whether two fragments originated from the same peptide molecule. FFC dramatically improves the ability to reconstruct peptide sequences and pinpoint chemical modifications, even in complex or novel peptides. At the core of this approach is a concept adapted from coincidence/covariance spectroscopy (CCS), a Nobel Prize-winning technique traditionally applied to atoms and small molecules. Our team recently pioneered the application of CCS to proteomics through the development of two-dimensional partial covariance mass spectrometry (2D-PC-MS). While this breakthrough offers clear advantages over conventional MS/MS, fully realizing its potential requires the development of new algorithms and software for de novo sequencing and PTM analysis by 2D-PC-MS, which are being developed with this project. \r\n\r\nThe project will target three long-standing challenges in proteomics. Sequencing long, multi-charged peptides is essential for antibody characterization. Identifying cyclopeptides is critical for antibiotic discovery as well as understanding in basic biology. Analyzing mixture spectra of co-fragmented peptides is crucial for understanding combinatorial post-translational modifications (PTMs) in epigenetics, which can then inform basic biological regulation. The novel tools being developed, which are enabled by two-dimensional partial covariance mass spectrometry (2D-PC-MS) and fragment-fragment correlation (FFC), will provide biologists with unprecedented capabilities in peptide sequencing. By unlocking these previously intractable problems, the project will catalyze a shift in proteomics, accelerating progress in understanding of basic biology as well as in various areas of biomedical and other research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pavel",
+   "pi_last_name": "Pevzner",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pavel A Pevzner",
+   "pi_email_addr": "ppevzner@ucsd.edu",
+   "nsf_id": "000486154",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1200000.0
+  }
+ ],
+ "por": null
+}

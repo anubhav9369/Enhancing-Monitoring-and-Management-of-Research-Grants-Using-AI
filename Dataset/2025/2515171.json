@@ -1,0 +1,106 @@
+{
+ "awd_id": "2515171",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Statistical Frameworks for Self-Supervised Representation Learning and Their Biomedical Applications",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "While recent advancements in large-scale machine learning models have shown impressive capabilities, they often rely on hundreds of millions of labeled samples. However, obtaining high-quality labels in many fields is extremely costly, so most available data remain unlabeled. For example, although millions of images and videos can be easily collected from social media platforms, manually labeling them is a tedious and time-consuming process. To address the challenge of limited labeled data, self-supervised representation learning has emerged as a promising approach in computer vision and natural language processing. It has already played a key role in the success of recent large language models. Despite its strong performance in practice, the theoretical understanding of self-supervised representation learning remains limited. Moreover, the problem of scarce labeled data also affects biomedical research, but the existing self-supervised methods cannot be directly applied due to the unique nature of biomedical datasets. This project aims to address these gaps by developing new theoretical frameworks for self-supervised representation learning, along with computational tools tailored to biomedical studies. It also includes educational efforts to engage students and the broader public with this growing area of research.\r\n\r\nThis project aims to advance the theoretical foundations of self-supervised representation learning and transform how unlabeled data are utilized in biomedical research. On the theoretical front, the project will investigate self-supervised learning on a low-dimensional nonlinear model, which effectively captures the invariant and intrinsic low-dimensional structure underlying observed data. Building on this nonlinear modeling framework, this project will develop a novel theory that explains the empirical success of self-supervised learning and clarifies the role of pseudo labels generated from unlabeled data. This theoretical foundation will inform the design of innovative and principled learning methodologies. On the application side, the project will integrate self-supervised representation learning into biomedical applications, including microbiome studies and omics-based longitudinal (trajectory) data. The project will develop new computational tools and software tailored to these contexts, enabling the effective use of large-scale unlabeled biomedical data. These advancements are expected to help address critical scientific questions and contribute to a deeper understanding of biological systems and human health.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shulei",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shulei Wang",
+   "pi_email_addr": "shuleiw@illinois.edu",
+   "nsf_id": "000843120",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

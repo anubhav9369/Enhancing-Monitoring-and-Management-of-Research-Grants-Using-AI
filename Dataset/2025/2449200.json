@@ -1,0 +1,105 @@
+{
+ "awd_id": "2449200",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase II: An Open-Source Ecosystem to Coordinate Integration of Cyber-Physical Systems",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 1500000.0,
+ "awd_amount": 1500000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project creating an open-source ecosystem (OSE) around software for cyber-physical systems (CPS), which integrate software with physical-world processes. CPS applications have great societal and national importance; They include manufacturing, robotics, transportation, energy systems, and healthcare. Achieving the required levels of safety and reliability in these systems is increasingly challenging. Since the intelligence and network connectivity required for the software adds to system complexity, system designers must become experts in concurrent software, distributed computing, real-time software, and virtualization technologies, on top of their domain expertise. To address these challenges, this project focuses on developing an open-source software framework that provides developers with an intuitive programming model for managing complex system demands that is tightly matched to the requirements of CPS applications. This project provides the framework to strengthen the OSE, expand its community of users, and apply the results in real-world industrial applications.\r\n\r\nThis POSE project replaces traditional embedded software running on bare metal or a real-time operating system (RTOS) with containerized applications mixing edge computing, specialized hardware for machine learning (ML)-based artificial intelligence (AI), and cloud computing. The project has four primary objectives: 1) strengthening the OSE infrastructure; 2) maturing existing experimental capabilities; 3) enhancing OSE community culture; and 4) creating the OSE governance structure. The project strengthend the continuous-integration/continuous-deployment (CI/CD) infrastructure around the OSE to include continuous testing on embedded platforms, distributed platforms, real-time systems, and virtualized platforms. This is necessary to build trust in the framework for use in critical applications. The project matures existing experimental capabilities, such as fault detection and management, distributed real-time scheduling, self-adaptive programs, integration of ML-based AI, and libraries of reusable components. The project team focuses on improving the culture of code quality and security, testing and verification, quality documentation, community interactions, and maintenance. Key stakeholders in industry and academia, working with the project team, contribute to creating a governance structure with steering and governance committees, core teams, and key processes such as those for reviewing and accepting code changes. Dissemination and outreach of OSE resources will be done through workshops, bootcamps, tutorials, and community-focused instructional materials.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hokeun",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hokeun Kim",
+   "pi_email_addr": "hokeun@asu.edu",
+   "nsf_id": "000946344",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Edward",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Edward A Lee",
+   "pi_email_addr": "eal@berkeley.edu",
+   "nsf_id": "000479285",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1500000.0
+  }
+ ],
+ "por": null
+}

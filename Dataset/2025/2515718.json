@@ -1,0 +1,102 @@
+{
+ "awd_id": "2515718",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Resampling bridges for complex data",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032925307",
+ "po_email": "tmaiti@nsf.gov",
+ "po_sign_block_name": "Tapabrata Maiti",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 99924.0,
+ "awd_amount": 99924.0,
+ "awd_min_amd_letter_date": "2025-07-23",
+ "awd_max_amd_letter_date": "2025-07-23",
+ "awd_abstract_narration": "This research aims to produce efficient and accurate statistical methodology that can be applied in practice without strong assumptions about data. In many industrial and scientific applications, current statistical analyses often require an adequate model for data, which can often be uncertain and practically difficult to choose. This situation can be problematic, though, because any conclusions drawn from a mistaken model may be unreliable or misleading. As a remedy, a direct benefit of this project is to provide alternative statistical tools for complex data that are valid without the dangers of model choice or other stringent conditions about data. This research would therefore advance data-based inference in subject areas such as environmetrics, economics, finance, geology, astronomy, etc., which encounter different types of data and where model-free statistical methods can play an important role in data analysis. The project will also support the professional development of students through training in data science and modern, computer-intensive statistical methods.\r\n\r\nThis project particularly aims to produce \u201cbridged\u201d resampling methods for complex data, in the sense of connecting and combining separate approaches for resampling (or re-using) data, in order to achieve better and more accurate statistical inference. Some of the problems to be addressed include the investigation and development of blended bootstrap techniques as a novel and general strategy for merging the strengths of subsampling and bootstrap, as two philosophically distinct resampling approaches for data. Further research goals involve the development of more versatile and effective empirical likelihood and bootstrap methods for time series and spatial data based on combining different types of empirical likelihood for dependent data (i.e., data-transformations and data-blocking) with new bootstrap schemes. These formulations of bridged resampling intend statistical methodology that has wide applicability and favorable performance under mild conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Haihan",
+   "pi_last_name": "Yu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Haihan Yu",
+   "pi_email_addr": "haihan.yu@uri.edu",
+   "nsf_id": "0000A2503",
+   "pi_start_date": "2025-07-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rhode Island",
+  "inst_street_address": "75 LOWER COLLEGE RD RM 103",
+  "inst_street_address_2": "",
+  "inst_city_name": "KINGSTON",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018742635",
+  "inst_zip_code": "028811974",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "RI02",
+  "org_lgl_bus_name": "UNIVERSITY OF RHODE ISLAND",
+  "org_prnt_uei_num": "NSA8T7PLC9K3",
+  "org_uei_num": "CJDNG9D14MW7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rhode Island",
+  "perf_str_addr": "75 LOWER COLLEGE RD RM 103",
+  "perf_city_name": "KINGSTON",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "028811974",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "RI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 99924.0
+  }
+ ],
+ "por": null
+}

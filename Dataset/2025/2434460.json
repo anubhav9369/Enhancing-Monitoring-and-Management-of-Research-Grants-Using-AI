@@ -1,0 +1,122 @@
+{
+ "awd_id": "2434460",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CPS: Medium: Latent Representation Learning for Verifiable Sensor Rich Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 1200000.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Recent advances in artificial intelligence and machine learning offer a unique opportunity to develop the next generation of autonomous systems for high-impact applications such as search and rescue missions, natural disaster prevention, and personalized robotics. However, because AI systems inevitably exhibit some degree of error, a major obstacle to their widespread deployment is ensuring they operate safely and reliably in real-world environments\u2014while minimizing the risk of catastrophic failures that could compromise mission success. Existing approaches to these challenges are either bottlenecked by their computational requirements, or rely on heuristic methods that lack formal guarantees. This project addresses these challenges by designing algorithmic frameworks that offer rigorous risk quantification and control, without sacrificing computational tractability. The successful completion of this work will mark a significant step toward the safe and reliable deployment of AI-driven autonomous systems at scale.\r\n\r\nThis project advances state-of-the-art control design and verification techniques for Cyber-Physical Systems (CPS) that make decisions based on partial information collected from high-dimensional sensor modalities, such as cameras and LiDAR\u2014settings where conventional methods become intractable due to scalability limitations. To overcome computational barriers, this project develops algorithms that use representation learning to summarize the semantic information required for decision-making into compact latent representations. These representations are equipped with high-probability confidence sets using modern uncertainty quantification techniques. Crucially, this project also addresses the distribution shift challenges that inevitably arise when incorporating learned components into feedback loops. With calibrated uncertainty sets in place, formal methods are used to design controllers directly in the latent space, enabling safety and correctness guarantees to be transferred to the original CPS. The proposed approach is validated both in simulation and on real hardware across a wide range of benchmark tasks, including wildfire monitoring and intervention, robotic manipulation, and autonomous navigation in cluttered environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stephen",
+   "pi_last_name": "Tu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stephen Tu",
+   "pi_email_addr": "stephen.tu@usc.edu",
+   "nsf_id": "0000A07L1",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lars",
+   "pi_last_name": "Lindemann",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lars Lindemann",
+   "pi_email_addr": "llindema@usc.edu",
+   "nsf_id": "000926438",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yue",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yue Wang",
+   "pi_email_addr": "yue.w@usc.edu",
+   "nsf_id": "000964424",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3740 Mcclintock Ave",
+  "perf_city_name": "Los Angeles",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900891047",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1200000.0
+  }
+ ],
+ "por": null
+}

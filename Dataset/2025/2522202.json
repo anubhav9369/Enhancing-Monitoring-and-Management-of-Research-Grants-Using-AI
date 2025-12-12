@@ -1,0 +1,106 @@
+{
+ "awd_id": "2522202",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Combining category learning with machine vision models to test aesthetic valuation",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032924886",
+ "po_email": "sfischer@nsf.gov",
+ "po_sign_block_name": "Simon Fischer-Baum",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 443888.0,
+ "awd_amount": 443888.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "People constantly make value judgments about visual objects and images, such as whether they like the design of a laptop, find a public space to be beautiful or are moved by AI-generated artwork. These perceptual valuations are surprisingly unique from person to person. Despite how important these judgments are for how people spend their time, how they feel, how they learn, and what they buy, very little is understood about how people make them. Using advanced machine learning and artificial intelligence (AI) techniques, this project tests the idea that perceptual valuations reflect how visual objects relate to the internal knowledge each person has about the visual world as a result of their personally lived experience. Is it familiar? Is it unique? This depends on what a person has been exposed to. Testing theories of perceptual valuation is important for understanding how and why people are curious to learn about the world around them, and for the development of the next generation of artificial intelligence systems. Perceptual valuation also has important translational science consequences for the design of public spaces, workplaces and hospitals, and for the use of the arts in therapies for mental and physical health.\r\n\r\nThis project aims 1) to test whether \u201cdeep neural network\u201d (DNN) machine learning models can serve as proxies for peoples\u2019 internal models about objects in the visual world, 2) to use generative AI to create sets of novel images that can be used to probe these internal models in specific ways, and 3) to test the hypothesis that perceptual value is highest in a \u201czone of learning\u201d that neighbors existing knowledge, for objects are similar to what is already known but also offer the opportunity to learn something new. Human observers participate in experiments during which they learn to categorize a training set of images (visual artworks) into two categories. In parallel, a set of DNNs are \u201ctuned\u201d using the same task and exposure, resulting in models that mimic the observers\u2019 learning of new knowledge. Measurements from the DNNs are used as models of what observers know about the images, and are used to predict their perceptual value judgments about new images that are more or less similar to the training set. By using AI and machine learning to measure the similarity between visual images and to model individuals\u2019 highly personal mental states and how they are changed by learning, this project develops tools for understanding state- and person-dependent cognition and contributes to the design of advanced self-supervised learning algorithms for AI. The project also includes training activities for students in how to use machine learning and artificial intelligence in the behavioral sciences, helping to create an AI workforce and spread AI literacy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Edward",
+   "pi_last_name": "Vessel",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Edward A Vessel",
+   "pi_email_addr": "evessel@ccny.cuny.edu",
+   "nsf_id": "000993187",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "CUNY City College",
+  "inst_street_address": "160 CONVENT AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2126505418",
+  "inst_zip_code": "100319101",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L952KGDMSLV5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "CUNY City College",
+  "perf_str_addr": "160 CONVENT AVE",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100319101",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "725200",
+   "pgm_ele_name": "Perception, Action & Cognition"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  },
+  {
+   "pgm_ref_code": "7252",
+   "pgm_ref_txt": "Perception, Action and Cognition"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 443888.0
+  }
+ ],
+ "por": null
+}

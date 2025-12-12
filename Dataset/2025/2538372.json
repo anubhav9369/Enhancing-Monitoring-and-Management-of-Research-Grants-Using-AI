@@ -1,0 +1,126 @@
+{
+ "awd_id": "2538372",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: AI-Enabled Digital Twin Framework to Advance Safety of Lithium-Ion Batteries Under Extreme Conditions",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 289431.0,
+ "awd_amount": 289431.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Lithium-ion (Li-ion) batteries are essential components of modern energy storage, transportation, and mission-critical systems. However, their performance and safety under extreme conditions\u2014such as high temperatures, fast charging and discharging at very hot or very cold conditions\u2014 remain poorly understood. This project aims to enhance the long-term reliability of Li-ion batteries through the development of an AI-enabled digital twin framework.  Using an extensive battery aging and cycling dataset collected by the research team, the digital twin will enable the simulation and prediction of battery performance and aging in challenging operating environments. This work is especially significant as data centers powered by artificial intelligence (AI) technologies increasingly rely on high-performance, resilient energy storage. The results of this research will support the design of safer, longer-lasting battery systems and serve as a critical foundation for future work in demanding environments such as eVTOLs, small modular reactors (SMRs), data centers and space applications. This project brings together complementary expertise from the Electrical and Mechanical Engineering disciplines at SMU to address a nationally significant challenge. It advances workforce development in the critical field of battery analytics and leverages SMU\u2019s high-performance computing capabilities to support the development of safe and reliable Li-ion batteries. \r\n\r\nThe research will be conducted in two phases. In the first year, the team will develop a high-fidelity digital twin using experimental data collected from long-term thermal aging and charge-discharge cycling of various Li-ion battery chemistries. The model will incorporate key electrochemical dynamics operate in real time. In the second year, the model will be validated through laboratory experiments simulating extreme conditions, specifically high-temperature operation and fast charging in very cold environments. By understanding how these stressors influence internal battery mechanisms\u2014such as lithium plating and thermal degradation\u2014the digital twin will enable the development of adaptive battery control strategies that mitigate safety risks and extend battery lifespan. This project also serves as a critical steppingstone for future research on radiation-hardened batteries for nuclear and defense applications, providing a safe and cost-effective method for simulating harsh environments within controlled laboratory settings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mahesh",
+   "pi_last_name": "Krishnamurthy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahesh Krishnamurthy",
+   "pi_email_addr": "mkrishnamurthy@smu.edu",
+   "nsf_id": "000525064",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Adel",
+   "pi_last_name": "Alaeddini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adel Alaeddini",
+   "pi_email_addr": "aalaeddini@smu.edu",
+   "nsf_id": "000641170",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Methodist University",
+  "inst_street_address": "6425 BOAZ ST RM 130",
+  "inst_street_address_2": "",
+  "inst_city_name": "DALLAS",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2147684708",
+  "inst_zip_code": "752051902",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "SOUTHERN METHODIST UNIVERSITY",
+  "org_prnt_uei_num": "S88YPE3BLV66",
+  "org_uei_num": "D33QGS3Q3DJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Methodist University",
+  "perf_str_addr": "6425 BOAZ ST RM 130",
+  "perf_city_name": "DALLAS",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "752051902",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7423",
+   "pgm_ref_txt": "Energy collection & storage"
+  },
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 289431.0
+  }
+ ],
+ "por": null
+}

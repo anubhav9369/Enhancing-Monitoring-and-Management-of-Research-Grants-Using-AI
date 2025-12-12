@@ -1,0 +1,125 @@
+{
+ "awd_id": "2429988",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CC* Network-Campus: AMNH Modern Unified Science Ethernet Network (MUSENet)",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032924220",
+ "po_email": "kthompso@nsf.gov",
+ "po_sign_block_name": "Kevin Thompson",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 635319.0,
+ "awd_amount": 635319.0,
+ "awd_min_amd_letter_date": "2024-11-21",
+ "awd_max_amd_letter_date": "2025-05-28",
+ "awd_abstract_narration": "The American Museum of Natural History (AMNH) has progressed steadily to advance research and education (R&E) by removing barriers facing scientists, researchers, and educators at AMNH through support from the National Science Foundation (NSF). Since the initial investments in a network science DMZ, institutional high-performance computing, and large-scale research data storage, the over 170 scientists across five scientific divisions at AMNH have collaborated more effectively with colleagues across the nation and globe, shared data with multiple communities of interest, and published computationally intense research. Under this award, AMNH addresses key limitations that surfaced at the networking layer as collaborations scaled and deepened.\r\n\r\nThe initial implementation of the Science DMZ with a 10 Gbps connection was successful, and eventually outpaced capacity externally. Internally, the science network DMZ did not include every campus lab or every computational resource for research. This award allows AMNH to connect all labs and all computational resources through a shared backbone and provides 100 Gbps for collaboration, enabling greater institutional access to national services such as the National Research Platform and Open Science Pool. In addition, the improved Data Transfer Nodes in the network now operate at 100 Gbps along with the perfSONAR nodes that monitor network performance. The DMZ-based science network is a key building block for innovation at the Museum and will positively affect education and exhibitions, which educate the public about science and inspire young minds to pursue scientific inquiry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Juan",
+   "pi_last_name": "Montes",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juan Montes",
+   "pi_email_addr": "jmontes@amnh.org",
+   "nsf_id": "000769332",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Frank",
+   "pi_last_name": "Burbrink",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Frank T Burbrink",
+   "pi_email_addr": "fburbrink@amnh.org",
+   "nsf_id": "000304248",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Benedetto",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael J Benedetto",
+   "pi_email_addr": "mbenedetto@amnh.org",
+   "nsf_id": "000769392",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "American Museum Natural History",
+  "inst_street_address": "200 CENTRAL PARK W",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2127695975",
+  "inst_zip_code": "100245102",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NY12",
+  "org_lgl_bus_name": "THE AMERICAN MUSEUM OF NATURAL HISTORY",
+  "org_prnt_uei_num": "MNJDKB4FXLM6",
+  "org_uei_num": "MNJDKB4FXLM6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "American Museum Natural History",
+  "perf_str_addr": "200 CENTRAL PARK W",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100245102",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NY12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 635319.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2438416",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: EvoFab - A Fully Automated Robotic Factory that Designs, Builds, and Tests Soft Actuators",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 306200.0,
+ "awd_amount": 306200.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This award supports research to create a proof-of-concept robotic factory for the automated design, fabrication, and testing of novel soft actuators, powered by pressurized air. Such actuators are important for food handling, wearable devices, surgical tools, and other applications requiring the safe manipulation of easily damaged items. The robotic factory can print an actuator from multiple polymer feedstocks covering a wide range of mechanical properties, in order to custom tailor the component to the needs of the user. Combining multiple materials to achieve a desired result is a challenging process even for human experts, made more difficult when producing novel parts for one-off tasks. Therefore the robotic factory embeds an intelligent design capability, using high-fidelity simulations to test and evolve millions of possible solutions. Even the best simulations depend on accurate knowledge of physical parameters. Therefore, after a part is manufactured, the robotic factory will test it against the simulator predictions. If the performance is acceptable, the part is used. Otherwise the simulator is recalibrated and the process repeats. With each cycle, the algorithm can explore an increasingly rich design space. To extend the number of iterations that can be performed without human intervention, failed parts are recycled and the material reused. The robotic factory draws on previous results to continually improve the parts it makes. Future generations of robotic factories will produce increasingly complex devices, up to and including fully functional soft robots.\r\n\r\nThis project seeks to transform the design and discovery of novel soft components and devices. The system, called EvoFab, is an autonomous robotic factory that combines innovative evolutionary algorithms with fully automated fabrication and in-situ characterization to design, manufacture, and test pneumatically powered soft components. EvoFab designs and simulates parts, which are then 3D printed, probed, and placed in a pneumatic test fixture, all without human intervention. Material from failed parts is recovered in an integrated recycling process. This collaborative project has five innovative threads: (1) a fabrication-aware evolutionary design system that rapidly and efficiently searches a design space for responsive configurations; (2) simulations of designs that minimize differences between numerical predictions and real behaviors; (3) an automated fabrication pipeline that prints and (4) characterizes those designs; and (5) an integrated recycling process that maximizes untended operation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Rieffel",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "John A Rieffel",
+   "pi_email_addr": "rieffelj@union.edu",
+   "nsf_id": "000546439",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Union College",
+  "inst_street_address": "807 UNION ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "SCHENECTADY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5183886101",
+  "inst_zip_code": "123083256",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHENECTADY IN THE STATE OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HE9HQBNZHHB5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Union College",
+  "perf_str_addr": "807 UNION ST",
+  "perf_city_name": "SCHENECTADY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "123083256",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 306200.0
+  }
+ ],
+ "por": null
+}

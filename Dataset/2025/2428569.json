@@ -1,0 +1,122 @@
+{
+ "awd_id": "2428569",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIF: Small: Tackling Demand and Service Uncertainty in Multi-Access Parallel Computing",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 564958.0,
+ "awd_amount": 564958.0,
+ "awd_min_amd_letter_date": "2024-11-20",
+ "awd_max_amd_letter_date": "2024-11-20",
+ "awd_abstract_narration": "Modern computing systems, especially those supporting machine learning applications, are increasingly burdened by highly variable and unpredictable workloads and service capabilities. For example, machine learning tasks such as generating movie recommendations or interacting with large language models exhibit significant variation in arrival times, user characteristics, and computational demands. Service variability and uncertainty also become pervasive as computing systems scale, due to differences in hardware generations and the dynamic sharing of resources among many applications. These challenges render traditional resource allocation algorithms ineffective as they rely on knowing specific details about job demand and server capabilities. This project aims to advance the fundamental knowledge and to innovate algorithm design for resource allocation in modern computing systems, addressing the challenges posed by high variability and uncertainty in both demand and service. The resulting algorithms aim to improve the performance and energy efficiency of data centers, thereby reducing their carbon footprint while maintaining flexibility, affordability, and scalability in computing services. Additionally, the project will promote interdisciplinary collaboration and educational initiatives, offering mentorship opportunities for underrepresented groups in STEM and contributing to high school and undergraduate curricula in data science and machine learning.\r\n\r\nThe demand and services have become highly heterogeneous and unpredictable in modern computing systems, especially those serving machine learning applications. Such uncertainty poses great challenges to developing performant resource allocation algorithms. Existing performance analyses and algorithms based on traditional methods of queueing and stochastic systems that rely on the knowledge of arrival and service rates are ineffective in these modern ML-workload-dominated computing systems. Although significant progress has been made from the systems perspective to address these challenges, there lacks a theoretical foundation that can offer a deeper understanding of the fundamental limits of system performance and guide the designs of resource allocation algorithms. This project aims to make fundamental advances to queueing and scheduling algorithms for modern computing systems with machine learning workloads. It focuses on two dimensions of uncertainty in computing systems, namely, demand uncertainty (Thrust 1) and service uncertainty (Thrust 2). The proposed research brings two new techniques to the design of computing servers and resource allocation algorithms: 1) coding-theoretic techniques to design more flexible servers to handle multiple job types and heterogeneous demands without having to overprovision resources, and 2) online-learning-based job scheduling strategies that dynamically estimate service capabilities. The research exploit the cross-pollination of ideas between the queueing theory, information/coding theory and online learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Weina",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Weina Wang",
+   "pi_email_addr": "weinaw@cs.cmu.edu",
+   "nsf_id": "000800768",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Gauri",
+   "pi_last_name": "Joshi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gauri Joshi",
+   "pi_email_addr": "gaurij@andrew.cmu.edu",
+   "nsf_id": "000732900",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7937",
+   "pgm_ref_txt": "NETWORK CODING AND INFO THEORY"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 564958.0
+  }
+ ],
+ "por": null
+}

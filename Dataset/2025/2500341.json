@@ -1,0 +1,105 @@
+{
+ "awd_id": "2500341",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SCH: Personal Determinants of Health Enhanced Machine Learning Models for Early Prediction of Alzheimer's Disease and Related Dementias",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 375840.0,
+ "awd_amount": 375840.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "This project advances national health and promotes science and technology development by providing algorithms, software, and systems that can train machine learning models on electronic health records (EHRs) for accurate and early prediction of Alzheimer\u2019s Disease and Related Dementias (ADRD). ADRD is a severe neurodegenerative disorder that effects over 5,000,000 people over the age of 65 that is characterized by progressive memory, cognitive impairment and personality changes, which can further evolve to dementia and death. Early prediction of ADRD is crucial for timely intervention and improved patient outcomes. Recent studies have shown that personal risk factors such as education, employment, and lifestyle or family history significantly influence ADRD onset and progression. However, these factors are not recorded in a structured format within the existing EHRs. In contrast, personal risk factors are often embedded within the free text of clinical notes or discharge summaries that are not easily searchable, computable, or standardized. This creates a major technical barrier for their integration into the ADRD prediction models. To address this, this project develops a computational platform using novel machine learning and natural language processing to automatically extract personal risk factors from EHR clinical narratives and leverage them for accurate and early prediction of ADRD. This research significantly improves ADRD prediction accuracy and timeliness, with potential generalizations to other neurological disorders. By exploring the interaction between personal and clinical factors in disease development, this project pushes the boundaries of current knowledge in machine learning and ADRD research, potentially transforming approaches to early detection and management of complex neurological disorders.\r\n\r\nTo achieve the goal of developing personal risk factor enhanced machine learning models for early ADRD prediction, this project develops four thrusts of novel approaches, each addressing key methodological challenges. First, the project develops a domain knowledge guided large language model to extract risk factors from EHR clinical narratives, which can adeptly cope with the complexities inherent in real world EHR clinical narratives, such as noise and incomplete data entries. Second, the project develops an interpretable method using neural additive models that automatically identifies the individual risk factor\u2019s contribution to the early ADRD prediction. Building upon this interpretable result, in the third thrust, the project develops a survival-based ADRD prognosis model that can be used to estimate the likelihood of ADRD development at any given point in the future, capturing the dynamics of risk trajectory. This approach can enhance clinical decision-making by identifying high-risk individuals who may benefit from more intensive care or early intervention. Fourth, this project constructs a personalized knowledge graph that integrates personal and other clinical risk factors into a unified format for capturing the overall health status for everyone at risk of developing ADRD. Moreover, this project develops adaptive machine learning algorithms that can dynamically update this knowledge graph to incorporate the evolving risk factors. Together, these approaches converge to address the fundamental limitations of existing ADRD risk prediction models, such as inability to handle complex and unstructured data, insufficient interpretability, and high computational overhead.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aidong",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aidong Zhang",
+   "pi_email_addr": "aidong@virginia.edu",
+   "nsf_id": "000341960",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Carol",
+   "pi_last_name": "Manning",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carol Manning",
+   "pi_email_addr": "cm4r@virginia.edu",
+   "nsf_id": "0000A0YD7",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 375840.0
+  }
+ ],
+ "por": null
+}

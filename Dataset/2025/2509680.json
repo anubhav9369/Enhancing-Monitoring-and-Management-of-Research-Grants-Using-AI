@@ -1,0 +1,117 @@
+{
+ "awd_id": "2509680",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Planning: AI-Ready: TRACE: Testbed for Disaster Resilience Auditing and Crisis Evaluation",
+ "cfda_num": "47.070, 47.084",
+ "org_code": "05020000",
+ "po_phone": "7032922828",
+ "po_email": "sjayawee@nsf.gov",
+ "po_sign_block_name": "SUDHARMAN KANKANAMGE JAYAWEERA",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "The increasing frequency and severity of natural disasters\u2014such as forest fires, earthquakes, snowstorms, tornadoes, and hurricanes\u2014are significantly impacting U.S. cities and coastal communities, displacing thousands of people and incurring billions of dollars in government spending. To address these growing challenges, this project proposes the development of TRACE (Testbed for Disaster Resilience Auditing and Crisis Evaluation), an innovative cross-cutting platform integrating Social Cyber-Physical Systems (CPS), Internet of Things (IoT), Robotics, and AI/ML technologies. TRACE is designed to assist multidisciplinary search and rescue teams in accelerating mission-critical response and recovery operations in post-disaster scenarios. The project's integrative approach aims to build a scalable, multidimensional, and resilient AI-ready testbed to assess the effects of natural hazards\u2014including fires, earthquakes, floods, hurricanes, and tornadoes\u2014on the built environment (buildings, bridges), infrastructure (roads, utilities), and communities. By combining TRACE with scalable AI/ML algorithms, the project will support community-level disaster resilience through: (i) Characterization of risks and vulnerabilities, (ii) Anticipation of failures and losses, (iii) Data-driven planning and decision-making in partnership with civic agencies. Resilience metrics will be quantified at both system and application levels and reevaluated in terms of community strategies across the five disaster management phases: prevention, preparedness, response, mitigation, and recovery.\r\n\r\nTo achieve these objectives, the project will design, develop, implement, and evaluate the following components: (i) Novel AI/ML techniques for navigation in rugged terrains affected by wildfires, earthquakes, snowstorms, and hurricanes, (ii) Real-time multi-agent communication and coordination among robotic systems (UAVs, UASs, and UGVs), including operation in network-denied environments, (iii) Social sensing and human-in-the-loop feedback mechanisms to support intelligent decision-making and situational awareness, (iv) AI/ML algorithms for near real-time simulation of dynamic disaster environments using virtual-physical co-simulation platforms, (v) Responsible AI models for perception, awareness, and life-sign detection leveraging multimodal sensor inputs (e.g., camera, LiDAR, mmWave radar). The project will further develop spatio-temporal analytics, real-time streaming data analysis, and disaster mapping toolkits to empower emergency responders with actionable insights during natural disasters using the TRACE platform. Workshops and bi-weekly planning meetings with collaborators, domain experts, and guest researchers are being conducted during the initial phases to co-design the AI-Ready testbed TRACE and ensure its relevance and impact.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nirmalya",
+   "pi_last_name": "Roy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nirmalya Roy",
+   "pi_email_addr": "nroy@umbc.edu",
+   "nsf_id": "000615120",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sharad",
+   "pi_last_name": "Mehrotra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sharad Mehrotra",
+   "pi_email_addr": "sharad@ics.uci.edu",
+   "nsf_id": "000491471",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nalini",
+   "pi_last_name": "Venkatasubramanian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nalini Venkatasubramanian",
+   "pi_email_addr": "nalini@ics.uci.edu",
+   "nsf_id": "000315745",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland Baltimore County",
+  "inst_street_address": "1000 HILLTOP CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4104553140",
+  "inst_zip_code": "212500001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RNKYWXURFRL5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland Baltimore County",
+  "perf_str_addr": "1000 HILLTOP CIR",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212500001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "306Y00",
+   "pgm_ele_name": "TIP-CHIPS KTA-1 AI-ML"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

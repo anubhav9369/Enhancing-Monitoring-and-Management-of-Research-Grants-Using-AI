@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442984",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Achieving Autonomous Symbolic Execution through Learning from Humans",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2030-07-31",
+ "tot_intn_awd_amt": 499609.0,
+ "awd_amount": 292081.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "Vulnerability discovery for software security poses significant challenges due to the vast program state space in complex, real-world programs. This project tackles the challenge of vulnerability discovery in software systems through the enhancement of binary symbolic execution, a technique that simplifies the vast and complex landscape of software operations. Despite its potential, symbolic execution requires substantial expert intervention to manage its complexity, making the process cumbersome and prone to errors. By advancing the automation of this technique, the project promises to significantly boost the efficiency and reliability of detecting vulnerabilities. Advances will improve security for critical infrastructure and software systems by reducing susceptibility to cyber-attacks. The results of the research will be integrated into teaching, outreach and capture-the-flag competitions. \r\n\r\nThis project introduces an innovative approach to improve the scalability of binary symbolic execution, a technique essential for detecting software vulnerabilities. The research will develop a system, referred to as SE-bot, which automates the detection process traditionally performed by human cybersecurity experts. This involves analyzing strategies used by experts in handling symbolic execution tools. These strategies will be decomposed into tasks that can be automated using machine learning techniques to predict and address performance bottlenecks. The system will not only replicate current expert strategies but will also proactively prevent issues before they arise. The proposed research includes three components: 1) detecting performance bottleneck using a combination of machine learning and heuristics, 2) mitigating the slowdown through a number of techniques such as path prioritization and partial execution, and 3) predicting performance bottlenecks and mitigating them.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Youzhi",
+   "pi_last_name": "Bao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Youzhi Bao",
+   "pi_email_addr": "tbao@asu.edu",
+   "nsf_id": "000805570",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 292081.0
+  }
+ ],
+ "por": null
+}

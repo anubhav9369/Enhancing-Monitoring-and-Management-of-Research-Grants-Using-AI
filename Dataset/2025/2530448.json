@@ -1,0 +1,98 @@
+{
+ "awd_id": "2530448",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Using statistical neural networks to learn ocean microbial ecology from flow cytometry data",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032927575",
+ "po_email": "skennan@nsf.gov",
+ "po_sign_block_name": "Sean Kennan",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 554004.0,
+ "awd_amount": 554004.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "This project will combine large flow-cytometry datasets with novel machine learning models to reveal the geographical distribution of phytoplankton and show how the environment shapes these patterns. Neural network methods for flow-cytometry data analysis will be applied to data from over 100 cruises across the Pacific and Atlantic Oceans. The project will develop computationally efficient mixture of neural network models, a generative model framework for changepoint detection, and spatially dependent convolutional neural networks. These methods will make oceanographic data analysis more automatic and efficient while also allowing for model-based rediscovery of ocean provinces as well as predictive mapping of ocean microbe populations and traits. The proposed methodology will advance AI and statistics, data science, and oceanography while also being useful across a broad range of disciplines that deal with complex high-dimensional dependent data such as environmental science, ecology, agriculture, epidemiology, and econometrics. The methodology will also be useful for various data science industries that handle high-dimensional mixture data or flow cytometry. Public-use software packages will be created.\r\n\r\nThe project will develop computationally efficient neural network models that automatically classify cell level data with environmental covariates. This will streamline the analysis and reveal biological responses to changing environments. Generative neural networks will be used for changepoint detection. Latent variables will identify shifts in phytoplankton communities and help redefine ecological ocean provinces. Finally, convolutional neural networks will be applied to density regression and spatial interpolation of flow cytometry data. This predicts complete cytogram \u201cimages\u201d extending data value beyond cruise tracks, to help create global phytoplankton biogeographies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fran\u00e7ois",
+   "pi_last_name": "Ribalet",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fran\u00e7ois Ribalet",
+   "pi_email_addr": "ribalet@uw.edu",
+   "nsf_id": "000650582",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 554004.0
+  }
+ ],
+ "por": null
+}

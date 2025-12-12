@@ -1,0 +1,114 @@
+{
+ "awd_id": "2527135",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: eMB: The immunological signature of a changing world: mathematical models to infer historical patterns of infectious disease",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924306",
+ "po_email": "vdinh@nsf.gov",
+ "po_sign_block_name": "Vu Dinh",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 224888.0,
+ "awd_amount": 224888.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Spillover of infectious diseases from wildlife to humans and livestock is a pervasive risk to the health and welfare of human populations around the world. Effective management of this risk is facilitated by early detection of changes in the frequency of spillover events.  This research will develop new mathematical models and statistical methods that allow changes in the rate of spillover to be detected from the fossil record of past infection that remains imprinted on human and animal immune systems. The general methodology developed by this project will be rigorously tested using simulated data and applied to Rift Valley fever virus, a pathogen that poses a high risk of global expansion with potentially devastating consequences for human health and agriculture. Work on this project will train students in cutting edge mathematical and statistical methods and support an international workshop where software developed by the project will be introduced and instruction on its use provided.  \r\n \r\nPredicting how zoonotic infectious diseases change over time is a fundamentally important challenge with few general mathematical solutions. Central to addressing this problem is disentangling historical changes in the rate or \u201cforce\u201d of spillover from background biological processes, such as age-specific infection and wanning immunity, which can cloak or mimic the signal of temporal change. Existing statistical methods to infer historical changes in the force of spillover for zoonotic pathogens rely on piecemeal solutions tailored to specific scenarios, ignore interacting background processes, use only single immunological markers, and have failed to rigorously evaluate parameter identifiability. To fill this gap, this project will develop a general mathematical framework describing the probability that an individual is in a specific multivariate immune state as a function of age and time using a coupled system of partial differential equations (PDEs). Approximate and numerical solutions to this system of PDEs will enable a Bayesian statistical framework for inferring recent historical changes in the force of spillover in the presence of alternative biological processes. Testing this statistical framework using extensive, biologically realistic simulated datasets will allow the identifiability of historical change in force of spillover to be evaluated. Application of this methodology to Rift Valley fever virus, a pathogen with significant pandemic potential, will determine whether increasing case counts in East Africa result from fundamental shifts in disease epidemiology or from increased disease surveillance.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Scott",
+   "pi_last_name": "Nuismer",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Scott L Nuismer",
+   "pi_email_addr": "snuismer@uidaho.edu",
+   "nsf_id": "000285582",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Remien",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher H Remien",
+   "pi_email_addr": "cremien@uidaho.edu",
+   "nsf_id": "000701360",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Idaho",
+  "inst_street_address": "875 PERIMETER DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "MOSCOW",
+  "inst_state_code": "ID",
+  "inst_state_name": "Idaho",
+  "inst_phone_num": "2088856651",
+  "inst_zip_code": "838449803",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "ID01",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF IDAHO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QWYKRJH5NNJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Idaho",
+  "perf_str_addr": "875 PERIMETER DR",
+  "perf_city_name": "MOSCOW",
+  "perf_st_code": "ID",
+  "perf_st_name": "Idaho",
+  "perf_zip_code": "838449803",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "ID01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 224888.0
+  }
+ ],
+ "por": null
+}

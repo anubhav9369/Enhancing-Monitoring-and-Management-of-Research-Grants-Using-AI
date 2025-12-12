@@ -1,0 +1,110 @@
+{
+ "awd_id": "2437375",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CPS: Medium: ML-Assisted Marine Plume Identification using Networked Intelligent Underwater Vehicle Swarms",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927375",
+ "po_email": "adubey@nsf.gov",
+ "po_sign_block_name": "Abhishek Dubey",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 625000.0,
+ "awd_amount": 625000.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "This project aims to design a Cyber-Physical System (CPS) comprising networked Autonomous Underwater Vehicles (AUVs) to perform Machine Learning (ML)-assisted identification of marine plumes via modeling, multi-AUV coordination and swarming, and dynamic collaboration between AUVs and a Land-based computational cluster. Although ground and air settings have seen the increased use of Internet-of-Things (IoTs) systems, robot swarms, and distributed sensor networks, CPSs remain extremely rare in the underwater domain. To address this and promote the progress of science, this project aims to use an adaptive and intelligent network of heterogeneous AUVs for plume search, classification, and mapping in scientific understanding and forecasting. The ability to sense in real time the ocean is highly beneficial for oceanography and environmental monitoring as well as for national defense/port surveillance and industry, such as aquaculture and oil & gas. This project will help answer the fundamental question of whether there is a correlation between plumes and the presence of gas/oil hydrocarbons. This project will perform sampling/mapping of ocean bottom plumes such as oil spills and chemical release from minerals, which is useful for exploration and extraction of ocean resources or for the monitoring of seabed mineral exploitation activities. This project will provide a better understanding of temporally and spatially limited ocean features, and could well be adapted for sensing other small-scale and dynamic phenomena, such as biological distributions in the water column. Last but not least, this project will develop a pipeline of computer-literate individuals who can solve research-related scientific problems trying to generalize to CPS as a science.\r\n\r\nThis project includes three interconnected high-risk/high-reward innovative research tasks centered on science and engineering: (1) Developing multi-fidelity numerical models of multiphase plumes to understand their current state and enable real-time forecasting. (2) Designing the physical underwater sensor network, which will consist of heterogeneous AUVs acting as mobile sensor nodes, equipped with heterogeneous plume sensors and acoustic array communications and positioning systems, and a surface gateway acting both as an underwater and above-water communication relay as well as as a centralized node for AUV positioning and operator command and control of the network; and devising novel adaptive control schemes that allow the AUVs to autonomously explore the extent of the plume. (3) Proposing novel ML-based methods for collaboration between AUVs and the Land-based computational cluster to balance network resources while taking into account communication failures, constraints on data storage on each node, their processing resources, the limited acoustic communication bandwidth and high latency, and the sensing and control capabilities of each node. This project will verify and quantify the capabilities of this CPS using a combination of hardware-in-the-loop emulations, field tests, and experimentations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dario",
+   "pi_last_name": "Pompili",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dario Pompili",
+   "pi_email_addr": "pompili@rutgers.edu",
+   "nsf_id": "000501685",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ruo-Qian",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ruo-Qian Wang",
+   "pi_email_addr": "rq.wang@rutgers.edu",
+   "nsf_id": "000784314",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 625000.0
+  }
+ ],
+ "por": null
+}

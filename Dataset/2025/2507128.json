@@ -1,0 +1,146 @@
+{
+ "awd_id": "2507128",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Teacher-Involved Adaptive Learning with Explainable Generative AI",
+ "cfda_num": "47.076",
+ "org_code": "11090000",
+ "po_phone": "7032927593",
+ "po_email": "wuhe@nsf.gov",
+ "po_sign_block_name": "Wu He",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 841392.0,
+ "awd_amount": 841392.0,
+ "awd_min_amd_letter_date": "2025-07-27",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "Adaptive learning systems provide personalized education experience to students based on their individual strengths and needs. However, traditional adaptive learning systems suffer from several challenges: (1) it is time-consuming to create custom assessment materials for different students, and (2) there is often not enough data to effectively train recommendation systems that guide learning. This project will address these challenges by leveraging recent advances in Generative AI to automatically generate high-quality learning content and recommendations, while ensuring educators remain central to the instructional process. Importantly, the system will include transparent and explainable AI tools that allow teachers to guide and tailor AI outputs to meet different learner needs. Designed for use in introductory physics courses, the system will be tested with approximately 5 instructors and 950 undergraduate students. By making the software open-source and accessible to instructors nationwide, the project will promote the progress of science and support broader educational access. The project will further advance AI literacy among educators and lay the foundation for human-centered AI systems in education.\r\n\r\nThis project will develop and evaluate a scalable, explainable, teacher-in-the-loop adaptive learning system built on large language models (LLMs). It consists of three key modules: (1) Assessment Module \u2013 uses LLMs to assist instructors in generating aligned and explainable assessment tasks; (2) Recommendation Module \u2013 creates a cold-start recommendation system for personalizing learning pathways using a novel Sparse Autoencoder-based explanation technique to support instructor understanding and control; and (3) Conversation Module \u2013 facilitates real-time interaction with both students and teachers to support engagement and clarification. The system will be piloted in undergraduate introductory physics courses, where it will be co-designed with educators. Usability and feasibility will be evaluated using mixed methods, including user surveys and semi-structured interviews with both teachers and students. To assess impact, a quasi-experimental pretest-posttest control group design will be employed to compare instructional outcomes between treatment and control classes. Quantitative data on learning gains will be complemented by qualitative insights into system usability and instructor engagement. The findings will contribute to the fields of AI in education, human-centered computing, and scalable learning design, with long-term goals of cross-disciplinary adaptation and broader societal impact.\r\n\r\nThis project is funded by the Research on Innovative Technologies for Enhanced Learning (RITEL) program that supports early-stage exploratory research in emerging technologies for teaching and learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DRL",
+ "org_div_long_name": "Division of Research on Learning in Formal and Informal Settings (DRL)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaoming",
+   "pi_last_name": "Zhai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaoming Zhai",
+   "pi_email_addr": "xiaoming.zhai@uga.edu",
+   "nsf_id": "000810678",
+   "pi_start_date": "2025-09-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Former Principal Investigator",
+   "pi_first_name": "Ninghao",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ninghao Liu",
+   "pi_email_addr": "ninghao.liu@uga.edu",
+   "nsf_id": "000868006",
+   "pi_start_date": "2025-07-27",
+   "pi_end_date": "2025-09-17"
+  },
+  {
+   "pi_role": "Former Co-Principal Investigator",
+   "pi_first_name": "Xiaoming",
+   "pi_last_name": "Zhai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaoming Zhai",
+   "pi_email_addr": "xiaoming.zhai@uga.edu",
+   "nsf_id": "000810678",
+   "pi_start_date": "2025-07-27",
+   "pi_end_date": "2025-09-17"
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nicholas",
+   "pi_last_name": "Young",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicholas Young",
+   "pi_email_addr": "nicholas.young@uga.edu",
+   "nsf_id": "000919763",
+   "pi_start_date": "2025-07-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yizhu",
+   "pi_last_name": "Gao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yizhu Gao",
+   "pi_email_addr": "yizhu.gao@uga.edu",
+   "nsf_id": "000992979",
+   "pi_start_date": "2025-07-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Georgia Research Foundation Inc",
+  "inst_street_address": "310 E CAMPUS RD RM 409",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATHENS",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "7065425939",
+  "inst_zip_code": "306021589",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "GA10",
+  "org_lgl_bus_name": "UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NMJHD63STRC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Georgia",
+  "perf_str_addr": "310 E CAMPUS RD RM 409",
+  "perf_city_name": "ATHENS",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "306021589",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "GA10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802000",
+   "pgm_ele_name": "Cyberlearn & Future Learn Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "092Z",
+   "pgm_ref_txt": "AI-Supported Learning"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 841392.0
+  }
+ ],
+ "por": null
+}

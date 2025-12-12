@@ -1,0 +1,102 @@
+{
+ "awd_id": "2528376",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I:  Autonomous Drone System for Predicting Erosion and Safeguarding Coastline Communities",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "The broader/commercial impact of this SBIR Phase I project is the development of a breakthrough autonomous Unmanned Aerial System (UAS) designed to monitor coastal erosion with high precision over time. This innovation addresses urgent needs in vulnerable coastal communities where rising sea levels and shoreline loss threaten homes, infrastructure, and ecosystems. The system enables faster, safer, and more consistent data collection than manual or satellite methods, helping decision-makers identify erosion patterns and plan effectively. This project supports the national interest by strengthening disaster resilience, reducing public costs, and improving safety through better geographic data for planning and response. Beyond monitoring, the technology has commercial potential in infrastructure inspection, land surveying, and emergency response. By lowering operational barriers and expanding access to high-quality aerial data, this innovation enables safer, smarter, and more sustainable monitoring. It offers communities a clearer view of coastal changes, supporting evidence-based decisions for long-term protection.\r\n\r\nThis project addresses the high-risk challenge of developing an autonomous flight control system capable of guiding Unmanned Aerial Systems (UAS) through unpredictable and dynamic coastal environments. The innovation lies in combining three essential components\u2014path planning, sensor-based position estimation, and onboard flight adjustment\u2014into a single control system that operates continuously during flight. The system must maintain high accuracy despite wind, terrain changes, and sensor interference\u2014factors that are difficult for others to replicate without deep integration and field experience. The goal of this Phase I effort is to test and validate the control system in a software-based simulation environment, proving its ability to carry out coastal monitoring missions more accurately and efficiently than current methods. The key technical contribution is the design of a flexible flight control framework that can adjust its course based on real-time environmental inputs.\r\n\r\nThe system will use principles from advanced control theory to calculate efficient flight paths, while combining data from onboard sensors such as LiDAR, inertial motion units, and GPS to improve positioning and stability during each flight. The onboard system will make mid-course adjustments when conditions change, helping the UAS stay on track and gather reliable, repeatable data over time. By the end of Phase I, the project aims to show that this approach works through simulation testing, providing a strong basis for building and flying a working prototype in Phase II to support future coastal monitoring efforts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gabriel",
+   "pi_last_name": "Hanohano",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gabriel K Hanohano",
+   "pi_email_addr": "primepacificenterprises@gmail.com",
+   "nsf_id": "0000A4GGY",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "PRIME PACIFIC ENTERPRISES LLC",
+  "inst_street_address": "476 KEOPUA ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HONOLULU",
+  "inst_state_code": "HI",
+  "inst_state_name": "Hawaii",
+  "inst_phone_num": "8082208555",
+  "inst_zip_code": "96813",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "HI01",
+  "org_lgl_bus_name": "PRIME PACIFIC ENTERPRISES LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UWK4UK5L5M71"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PRIME PACIFIC ENTERPRISES LLC",
+  "perf_str_addr": "476 KEOPUA ST",
+  "perf_city_name": "HONOLULU",
+  "perf_st_code": "HI",
+  "perf_st_name": "Hawaii",
+  "perf_zip_code": "968131225",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "HI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "059P",
+   "pgm_ref_txt": "SCIENCE IN MOTION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

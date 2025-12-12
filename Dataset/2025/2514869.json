@@ -1,0 +1,98 @@
+{
+ "awd_id": "2514869",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "A computational framework for studying context-specific enhancer targeting",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 713180.0,
+ "awd_amount": 713180.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "This project aims to study an important type of controlling switches in DNA, enhancers. Enhancers are distal regulatory regions, whose interaction with their target genes can significantly boost the activity levels of target genes. These activity levels are critical for shaping the development and functioning of our bodies. However, due to their distance from target genes and the context-specific nature of their activity, identifying which genes enhancers target and when these interactions occur presents a major challenge. Existing experimental methods for detecting these context-dependent enhancer targets are expensive and have limitations, while current computational approaches are not fully optimized. This project seeks to develop an innovative computational framework to identify context-specific enhancer targets in mammalian genomes, which will greatly enhance our understanding of the genetic code and its functional implications. Additionally, it will integrate research with educational initiatives to create novel computational tools for general gene regulation studies and inspire the next generation of computational biologists.\r\n\r\nThe project has three main objectives. Aim 1 will focus on creating computational methods and tools to predict known enhancer targets in new samples. Aim 2 will develop computational approaches to predict novel enhancer targets in new samples. Aim 3 will examine the functional impact of enhancer targeting on gene expression in new samples. To achieve these goals, the project will model the complex, nonlinear relationships between chromatin environments and enhancer targeting, explore how enhancers collectively influence gene expression, and study how enhancer targeting affects gene activity. The project will also combine research with educational activities by mentoring high school, undergraduate, and graduate students, developing tools for broader gene regulation studies, and disseminating findings through publications, software tools, summer camps, presentations at conferences and symposia, etc. By addressing a fundamental challenge in gene regulation and providing a suite of reliable tools, this project will make significant contributions to the fields of gene regulation, genome annotation, and the improvement of human health.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaoman",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaoman Li",
+   "pi_email_addr": "xiaoman@mail.ucf.edu",
+   "nsf_id": "000487357",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 713180.0
+  }
+ ],
+ "por": null
+}

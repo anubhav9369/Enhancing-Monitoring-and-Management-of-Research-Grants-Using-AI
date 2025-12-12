@@ -1,0 +1,126 @@
+{
+ "awd_id": "2504906",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RI: Medium: Universal Deformable Shape Models with Varying Skeletal Structures",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2029-06-30",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 1200000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Understanding the three-dimensional (3D) structure of animals and humans from everyday images and videos is essential for a wide range of real-world applications - from analyzing animal motion in biological research to planning surgeries for children with variations in hand anatomy. This project supports the development of a new class of digital shape models capable of accurately representing deformable objects like animal bodies and human hands, even when their internal skeletal structures deviate from the norm. Unlike existing models that rely on a fixed skeleton, this project enables adaptive, learnable models that can accommodate diverse and atypical anatomies. By supporting flexible modeling across a broad spectrum of species and conditions, this work has the potential to advance research in biology, medicine, and education. The project includes plans for public release of tools and datasets, along with educational outreach involving students and domain experts.\r\n\r\nThe research will develop a universal deformable shape modeling framework that integrates data from 3D scans, images, and videos to handle objects with varied skeletal topologies. The research includes three main thrusts: (1) learning mesh-based and implicit shape generators with disentangled latent representations for object type, shape, and pose; (2) constructing bone-driven shape priors that generalize to previously unseen skeletal structures, enabling modeling of rare or pathological forms; and (3) applying these models to inverse problems in 3D and 4D reconstruction from visual inputs. The project also introduces novel methods for keypoint detection, skeletal graph inference in open-vocabulary settings, and multimodal shape alignment, supporting robust reconstruction of deformable structures from visual cues. These capabilities will enable new applications, such as reconstructing animal morphologies for evolutionary studies and modeling hand deformities to assist surgical planning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Georgios",
+   "pi_last_name": "Pavlakos",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Georgios Pavlakos",
+   "pi_email_addr": "pavlakos@cs.utexas.edu",
+   "nsf_id": "000965320",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ibrahim",
+   "pi_last_name": "Isler",
+   "pi_mid_init": "V",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ibrahim V Isler",
+   "pi_email_addr": "isler@cs.utexas.edu",
+   "nsf_id": "000233463",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Qixing",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qixing Huang",
+   "pi_email_addr": "huangqx@cs.utexas.edu",
+   "nsf_id": "000682606",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1200000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2434081",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "From Open RAN to Open Spectrum - Sharing Spectrum, Services, and Infrastructure in Spectrum Era 4",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 759422.0,
+ "awd_amount": 759422.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Radio signals power many everyday services such as wireless internet, Global Positioning Systems (GPS), weather and climate forecasts, and navigation systems for ships and planes. This project explores smarter methods for different services to share radio waves and the devices that use them. Its goal is to ensure that everyone can benefit from these services while making the best possible use of the radio signals. Overall, the project strives to make communication systems work more reliably, safely, and easily for all. \r\n\r\nThe project introduces the concept of Open Spectrum by extending the idea of open and programmable Radio Access Networks to manage shared spectrum systems beyond cellular networks, for example radar and radio sensing systems. Its core idea is to pool spectrum, infrastructure, and, when possible, services so that access and deployment are automated and coordinated through dynamic deconfliction policies. The work is organized into four main thrusts. The first thrust focuses on designing a flexible architecture for spectrum management. The second thrust involves sharing heterogeneous services, such as sensing, using automated systems built on cellular infrastructure. The third thrust develops algorithms and frameworks for policy and conflict management to maintain quality of service. The fourth thrust creates testbeds and dynamic research platforms to validate the ideas.\r\n\r\nThe broader impact of the project is its potential to transform how radio spectrum and network resources are shared and managed. The project is set to pioneer techniques that can improve public safety communications, emergency response systems, and commercial wireless services. It will produce open-source software, openly accessible data sets, and educational resources that benefit both industry and academic researchers. This initiative will help develop a future workforce skilled in sophisticated spectrum engineering and policy and is expected to influence regulations by demonstrating that advanced, efficient, and secure spectrum sharing is achievable for a more connected and sustainable society.\r\n\r\nThe project website can be found at https://openspectrum.dev. This site provides links to the repositories, tutorials, and other resources developed during the project. The software, data, and other research outputs will be hosted on digital archival platforms and will remain accessible beyond the duration of this project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michele",
+   "pi_last_name": "Polese",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michele Polese",
+   "pi_email_addr": "m.polese@northeastern.edu",
+   "nsf_id": "000877263",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tommaso",
+   "pi_last_name": "Melodia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tommaso Melodia",
+   "pi_email_addr": "melodia@northeastern.edu",
+   "nsf_id": "000676111",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 759422.0
+  }
+ ],
+ "por": null
+}

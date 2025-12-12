@@ -1,0 +1,106 @@
+{
+ "awd_id": "2533356",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Structure and Dynamics of Low-Energy Excitations in Glassy Materials",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922340",
+ "po_email": "rhoy@nsf.gov",
+ "po_sign_block_name": "Robert Hoy",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "NON-TECHNICAL SUMMARY\r\n\r\nThe history of spin glasses is a fascinating study into the intellectual power of statistical physics and its far-reaching consequences, especially for the understanding of complex materials. Once devised as an abstraction of some rare materials with peculiar magnetic properties, they have become a foundation for the study of complexity in some of the hardest computational problems in the sciences and engineering: from memory and learning in neural networks such as the brain or in artificial intelligence, to the structure and dynamics of a very broad range of real amorphous materials \u2013 granular, colloidal, polymeric, or magnetic. Their wide-ranging importance has been recognized with the 2021 Nobel Prize in Physics. \r\n\r\nAn \"Ising\" spin glass is a simple model in which the spin variables can take on merely two values, up or down (+/-), similar to a bit (0/1) in a computer. By coupling each pair of these variables with a randomly selected positive (enhancing) or negative (suppressing) bond, it becomes an elementary model of a glass, i.e., a disordered amorphous material that fails to condense into a regularly ordered, crystalline state on cooling. Since finding such ground states is among the hardest known computational problems in science, their low-temperature properties are still poorly understood.  While a mean-field theory of spin glasses that is mathematically tractable but ignores spatial embedding is well developed, results for real glasses that exist in 2 or 3 dimensions (thin films or bulk materials, respectively) are in contradiction with this theory.  \r\n\r\nThis project applies exact and approximate algorithms to find ground states of Ising spin glasses and explore the low-temperature properties of disordered materials. The methods to be developed will allow us to bridge the gap between the mean-field theory and those real-world materials.  Specifically, the algorithms that will be developed can interpolate the behavior of physical quantities characterising the spin glass ground state between the finite-dimensional case and the regime described by the theory. Gaining such insights is a worthwhile goal because the very complexity that makes these materials hard to study in turn allows to employ them for efficient storage and processing of information at many levels.  Broader impacts will include the applicability of the abovementioned algorithms to computationally-hard optimization problems in other fields of science & engineering, and training two Ph.D. students annually.\r\n\r\n\r\nTECHNICAL SUMMARY\r\n\r\nIn this project, the research team will focus on applying exact algorithmic as well as efficient heuristic methods the PI is currently developing to explore the low-temperature properties of the complex energy landscape associated with Ising spin glasses. The scaling of finite volume corrections will be employed to study as-of-yet-elusive geometric aspects of low-energy excitations of finite-dimensional glasses, both with and without an external field. In its own right, a direct measurement of the structure and the energetics of droplet excitations near the ground state, a fundamental task for these glassy materials, will provide essential input for many ongoing theoretical and experimental studies. In particular, this project will allow calculation of their fractal exponent and, in the process, determine their energy barriers with significantly improved accuracy. The self-overlaps of systems in an external field at zero temperature will be measured; such overlaps have been the focus of much recent theoretical work.  The efficiency of the computational methods will allow to make direct connection between real-space systems and mean-field theory at the upper critical dimension to test recent theoretical predictions. These are unique capabilities of the algorithm that will provide transformative results for the study of spin glasses. Its development entails a foray into the non-equilibrium dynamics of spin glasses and relaxation in complex energy landscapes, generally. The insights gained from these investigations will motivate and guide theoretical inroads towards extending exact solutions of spin glass models beyond mean-field limits to structured systems.\r\n\r\nThe efficient heuristic methods for hard combinatorial problems that will be developed in this project are of broader utility within the science and engineering community. They have the ability to find good solutions for many technical problems, such as in scheduling, routing, and packing. Our alternative heuristic approach will challenge the dominance of commercial solvers, supplying researchers with a publicly-available option. In the process, these research projects provide the training of PhD students who are the bedrock of an innovation-driven society intent on sustaining its competitive edge in science and technology.\r\n\r\n\r\nSTATEMENT OF MERIT REVIEW\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stefan",
+   "pi_last_name": "Boettcher",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stefan Boettcher",
+   "pi_email_addr": "sboettc@emory.edu",
+   "nsf_id": "000214945",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Emory University",
+  "inst_street_address": "201 DOWMAN DR NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4047272503",
+  "inst_zip_code": "303221061",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "EMORY UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "S352L5PJLMP8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Emory University",
+  "perf_str_addr": "201 DOWMAN DR NE",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303221061",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

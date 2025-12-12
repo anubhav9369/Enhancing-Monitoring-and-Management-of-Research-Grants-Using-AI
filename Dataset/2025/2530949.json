@@ -1,0 +1,105 @@
+{
+ "awd_id": "2530949",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI:TCR: B-CU Fortifying Cyberinfrastructure Operations for Research and Education",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 897563.0,
+ "awd_amount": 897563.0,
+ "awd_min_amd_letter_date": "2025-07-25",
+ "awd_max_amd_letter_date": "2025-07-25",
+ "awd_abstract_narration": "As smaller, teaching-focused institutions increasingly expand their research missions, they face critical challenges in securing sensitive research data, maintaining operational resilience, and meeting evolving compliance obligations. The ForCORE (Fortifying Cyberinfrastructure for Research and Education) project directly addresses these issues by implementing scalable, risk-based security solutions that preserve usability while defending against sophisticated cyber threats. Led by Bethune-Cookman University in Daytona Beach, Florida, the approach focuses on securing scientific workflows and enabling safe, collaborative research for faculty and students involved in multi-institutional and data-intensive projects. By aligning its cybersecurity posture with the National Institute of Standards and Technology Cybersecurity Framework and embedding security into the daily operations of a research-active campus, ForCORE creates a model that other small, under-resourced institutions can adapt to strengthen their cyberinfrastructure while advancing their research and student success goals.\r\n\r\nAt the core of ForCORE is a research-driven evaluation of real-time monitoring, automated incident response, and context-aware authentication methods designed to reduce cyber risk while maintaining seamless access to computing resources. This approach investigates the effectiveness of behavior-based trust models and AI-powered detection systems in enforcing security policy without disrupting productivity. Key metrics including intrusion detection logs, unauthorized access attempts, authentication patterns, and response times are used to assess the precision, efficiency, and adaptability of these controls in live academic settings. By improving data integrity and confidentiality through proactive threat management and adaptive risk-based access control, ForCORE yield insights into the design of scalable security architectures for campus environments.  The resulting training materials, assessment tools, and implementation guides are available to help other institutions and support the adoption of similar models for cybersecurity innovation at a wide range of institutions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Grace Silviane",
+   "pi_last_name": "Kouadjo",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Grace Silviane A Kouadjo",
+   "pi_email_addr": "kouadjog@cookman.edu",
+   "nsf_id": "000996337",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kekeli",
+   "pi_last_name": "Nuviadenu",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kekeli K Nuviadenu",
+   "pi_email_addr": "nuviadenuk@cookman.edu",
+   "nsf_id": "0000A3R1C",
+   "pi_start_date": "2025-07-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Bethune-Cookman University",
+  "inst_street_address": "640 DR MARY MCLEOD BETHUNE BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAYTONA BEACH",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3864812547",
+  "inst_zip_code": "321143012",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "FL06",
+  "org_lgl_bus_name": "BETHUNE-COOKMAN UNIVERSITY, INC.",
+  "org_prnt_uei_num": "DRH4VVXLZBZ6",
+  "org_uei_num": "DRH4VVXLZBZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Bethune-Cookman University",
+  "perf_str_addr": "640 DR MARY MCLEOD BETHUNE BLVD",
+  "perf_city_name": "DAYTONA BEACH",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "321143012",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "FL06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 897563.0
+  }
+ ],
+ "por": null
+}

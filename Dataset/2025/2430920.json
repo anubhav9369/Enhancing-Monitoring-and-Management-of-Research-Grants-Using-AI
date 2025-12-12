@@ -1,0 +1,110 @@
+{
+ "awd_id": "2430920",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-SEMICON: Integrated synthetic dimensions for reconfigurable modal control and topological nanophotonics",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2028-01-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2024-12-31",
+ "awd_abstract_narration": "Next-generation communications and computing, both in the classical and quantum regimes, stands to gain significantly from compact, dense encoding and manipulation of information using scalable, tightly integrated photonic circuits in silicon-based and beyond-silicon materials. Photonic integrated circuits (PICs) enable such information processing using many degrees of freedom of light, such as the wavelength (i.e., the color). Despite being well understood, the transverse modes of multimode waveguides, another degree of freedom, remain vastly underexplored, with current demonstrations limited to passive, bulky (0.1mm - 1mm-scale) conversion between a few modes. To enable their full potential, new materials with active reconfiguration are clearly needed. Phase change materials, which can dramatically change their electronic, optical, and physical properties during solid-solid phase transitions, offer a promising solution. This project will explore a new class of low-loss phase change materials that allows to control light propagating within photonic circuits and, in particular, trigger the transitions between modes within a waveguide. Furthermore, this project aims to use these mode conversions in creating \u201csynthetic dimensions\u201d, which expand the possibilities for processing and computing with light while preserving the compactness and low energy of a single device. The project has a comprehensive educational plan. The team will jointly provide a 10-week research experience for undergraduates on nonlinear integrated photonics through the UMD TREND program supported by NSF. Moreover, the team\u2019s efforts would support the development of a workforce in photonics, from unconventional undergraduate programs in Materials and Mechanical Engineering, to alleviate the shortage of Electrical Engineers in this field; thus, supporting current national needs.\r\n\r\nThis project leverages interference between many transverse spatial modes of multimode waveguides to create a \u201csynthetic modal dimension\u201d and dynamically reconfigure their connectivity using nonvolatile phase-change materials (PCMs). The central hypothesis is that suitable design of transverse mode converters will enable a wide range of lattice connectivities due to the ability to design any desired coherent coupling between these modes, while the large index tunability of PCMs will enable compact, active reconfiguration of this coupling. This research includes the design, fabrication and demonstration of passive multimode synthetic dimension platforms and the realization of topological Hamiltonians, all on a low-loss, high-confinement photonic integrated circuit. Moreover, the team will explore PCM-driven dynamic reconfiguration of optical modes through suitably patterned PCMs for ultra-compact post-fabrication mode coupling and conversion, and eventually use them to realize reconfigurable synthetic modal dimensions for fundamental studies of phase transitions in topological nanophotonics and applications in quantum and analog unconventional optical computing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Avik",
+   "pi_last_name": "Dutt",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Avik Dutt",
+   "pi_email_addr": "avikdutt@umd.edu",
+   "nsf_id": "000876732",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Carlos",
+   "pi_last_name": "Rios Ocampo",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carlos A Rios Ocampo",
+   "pi_email_addr": "riosc@umd.edu",
+   "nsf_id": "000870081",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

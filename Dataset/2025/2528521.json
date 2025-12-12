@@ -1,0 +1,110 @@
+{
+ "awd_id": "2528521",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Mining biological functions from single cell multi-omics data",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032922975",
+ "po_email": "jcdebell@nsf.gov",
+ "po_sign_block_name": "John Steven C. De Belle",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 798501.0,
+ "awd_amount": 591893.0,
+ "awd_min_amd_letter_date": "2025-03-11",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "Biological functional activities include intracellular functions such as transcriptional regulation,  metabolism, and signaling transduction, and intercellular activities such as cell-cell interactions.  With the advent of single cell multi-omics (scMulti-seq) biotechnology, researchers can study the  biological functions of a complex biological system at the cellular resolution. The integrative  analysis of scMulti-seq data and multiple study objects produces a wealth of rich information that enables the characterization of species or tissue specific biological functions, and at the same  time, poses great challenge on how to identify and extract biologically meaningful data patterns. Though substantial amount of efforts has been made to interpret data patterns in single cell multi omics data, most of the existing methods focused on unsupervised learning in a completely data driven manner without considering the rich existing knowledge. In addition, depending on the  types of biological functions, their underlying mathematical representation forms are different in scMulti-seq data. This calls for systems biology models and machine learning concepts to target  true biological functions from scMulti-seq data. The first challenge to study biological functions  from scMulti-seq data is to derive the data patterns that correspond to true biological functions and develop proper computational models for specific biological mechanisms and pathways. The  second challenge lies in the difficulty of knowledge representation and sharing across the studies  for different species, tissue types and experimental conditions. There remains an urgent need to integrate knowledge derived from disparate data sources to optimize the biological functional  modeling, such that the learned knowledge could be utilized to study other biological systems or  data types and promote the generation of new hypotheses. The PI\u2019s long-term career goal is to develop mathematical formulations and computational  methods to model biological functions from multi-omics data. \r\n\r\nThis project will develop new  mathematical models and an advanced computational framework to optimize the mining of  biological functions, by integrating scMulti-seq data with context specific and general knowledge  derived from independent data sets or experiments. The PI's research team will achieve the goals  through the following three objectives. First, a novel subspace representation model will be  developed to identify transcriptional regulation and functional gene modules. The proposed  method will be empowered by a novel local low-rank matrix detection method to detect gene co regulation modules and a meta-learning framework to optimize results interpretation. Second, the  PI's research team will develop a new graph neural network architecture to estimate cell-wise  functional activities for flux carrying networks and a graph data clustering method to identify cell  groups with varied functional states and distinct pathways. Thirdly, a knowledge graph will be  constructed to represent the biological functions derived from scMulti-seq data, which enables the  integration of independent knowledge derived from literature data and development of new  biological hypotheses. The project is expected to deliver novel computational tools that can  effectively explore biological functions from a wide range of heterogeneous datasets, and it could  provide new capabilities for functional interpretation of individual data sets by maximizing the utilization of existing scMulti-seq and literature data, and reasoning of new biological hypotheses  and mechanisms. Educationally, the scientific discoveries, including developed methods and  biological knowledge, will be seamlessly integrated into an online educational knowledge base  for large-scale public engagement, and will also lead to new project-based interdisciplinary  training for high school, undergraduate and graduate students. The results of this project can be  found at: https://zcslab.github.io/.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chi",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chi Zhang",
+   "pi_email_addr": "zhangchi@ohsu.edu",
+   "nsf_id": "000756872",
+   "pi_start_date": "2025-03-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon Health & Science University",
+  "inst_street_address": "3181 SW SAM JACKSON PARK RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5034947784",
+  "inst_zip_code": "972393011",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OR01",
+  "org_lgl_bus_name": "OREGON HEALTH & SCIENCE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPSNT86JKN51"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon Health & Science University",
+  "perf_str_addr": "3181 SW SAM JACKSON PARK RD",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972393011",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OR01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 421550.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 170343.0
+  }
+ ],
+ "por": null
+}

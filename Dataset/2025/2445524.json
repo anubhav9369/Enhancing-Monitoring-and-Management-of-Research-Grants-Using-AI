@@ -1,0 +1,93 @@
+{
+ "awd_id": "2445524",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: 3D Label-Free Imaging of Ciliary Beating Dynamics in Human Airway Organoids",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927014",
+ "po_email": "szehnder@nsf.gov",
+ "po_sign_block_name": "Steve Zehnder",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Understanding how airway cells function is essential for studying lung diseases and developing improved treatments. The tiny hair-like structures on airway cells, known as cilia, play an important role clearing mucus and harmful particles from the lungs. When cilia do not function properly, conditions such as cystic fibrosis and chronic respiratory diseases can develop. Current imaging methods for studying cilia have limitations. These methods require artificial dyes that may interfere with the cells or lack the ability to capture the complex motion of cilia in three dimensions. This project aims to develop a new imaging technology which will allow scientists to image cilia movement in 3D without the need for labeling dyes. This advancement will provide a clearer picture of how airway cells function in health and disease. The proposed capabilities could aid in the development of better treatments for respiratory disorders.  Through partnerships with the Colorado Photonics Industry Association (CPIA) and the Washington University Cardiovascular Research Summer (CardS) Program, undergraduate and graduate students will gain valuable experience in advanced imaging technologies. The project will also help prepare a skilled workforce for future biophotonics innovations, addressing industry needs and supporting economic growth in science and technology fields.\r\n\r\nThis project will develop the first high-speed 3D Dynamic Contrast Microscopic Optical Coherence Tomography (3D DyC-\u03bcOCT) system, a label-free optical imaging technology designed to study human airway organoids with high temporal and spatial resolution. Traditional imaging methods either lack sufficient depth and speed for real-time volumetric studies or require fluorescent labels that introduce experimental complexity and phototoxicity. 3D DyC-\u03bcOCT overcomes these challenges by integrating a novel swept-source laser architecture with parallel imaging using space-division multiplexing and lithium niobate on insulator (LNOI) photonic integrated circuit technology. The project is structured around four key objectives: (1) engineering a broadband, high-coherence LNOI-based swept laser source to achieve superior axial resolution and imaging depth, (2) designing a scalable optical imaging platform to overcome current voxel rate limitations, (3) integrating 3D DyC-\u03bcOCT with widefield fluorescence microscopy to allow cross-validation of imaging data, and (4) applying 3D DyC-\u03bcOCT to study ciliary beating in airway organoids, demonstrating its potential for pulmonary research. The system will provide a new tool for studying airway physiology in disease models with applications in respiratory health research, drug screening, and personalized medicine.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chao",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chao Zhou",
+   "pi_email_addr": "chaozhou@wustl.edu",
+   "nsf_id": "000616511",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "ONE BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631101010",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "723600",
+   "pgm_ele_name": "BioP-Biophotonics"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

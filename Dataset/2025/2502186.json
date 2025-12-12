@@ -1,0 +1,106 @@
+{
+ "awd_id": "2502186",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Towards Smarter Roads: Leveraging Cooperative Perception and Generative Models for Next-Generation Intelligent Transportation Systems",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 199760.0,
+ "awd_amount": 199760.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) project funds research that intends to advance fundamental knowledge in Intelligent Transportation Systems by leveraging cooperative perception and generative models to address increasing complexity in urban traffic environments. As cities expand and traffic systems become more dynamic, there is a heightened demand for advanced transportation solutions capable of managing real-time traffic conditions effectively. Although recent advancements in Internet of Things technologies, artificial intelligence, and edge computing have improved road safety and traffic efficiency, significant challenges persist. Current Intelligent Transportation System frameworks rely heavily on individual vehicle sensors, such as cameras, which, despite providing rich semantic information, face limitations including occlusions, blind spots, and restricted coverage. Additionally, uploading all raw data to edge servers for downstream analysis and decision-making leads to communication congestion and redundant data, reducing overall system efficiency. This research project aims to overcome these limitations by developing a cooperative perception framework that aggregates data from a strategically selected subset of cameras to build a comprehensive map of traffic conditions. By minimizing the amount of data required while maximizing situational awareness, this approach intends to enhance traffic monitoring efficiency and effectiveness. The experimental results from this research intend to be be utilized to develop intelligent, scalable, data-efficient, and sustainable smart city solutions. The outcomes look to significantly improve downstream applications such as collision avoidance, autonomous vehicle navigation, and intelligent traffic management systems, ultimately promoting national health, safety, and welfare.\r\n\r\nDespite extensive research on cooperative perception, the complex nature of Intelligent Transportation Systems, characterized by temporal, spatial, and topological properties, makes graph neural networks particularly suitable for this application.  The project looks to integrate graph neural networks with deep reinforcement learning to optimize the selection of camera data, minimizing the volume of data transmitted while maximizing environmental coverage and situational awareness. Additionally, a generative model will be developed that strives to enhance the quality and accuracy of the synthesized surround-view images, using the aggregated data from cooperative perception. This comprehensive framework aims to provide a more accurate and unified understanding of traffic environments, addressing key limitations in current transportation systems and contributing valuable insights to the field of intelligent transportation research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wen",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wen Zhang",
+   "pi_email_addr": "wen.zhang@wright.edu",
+   "nsf_id": "000949065",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wright State University",
+  "inst_street_address": "3640 COLONEL GLENN HWY",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAYTON",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "9377752425",
+  "inst_zip_code": "454350002",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "OH10",
+  "org_lgl_bus_name": "WRIGHT STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPT2UNTNHJZ1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wright State University",
+  "perf_str_addr": "3640 COLONEL GLENN HWY",
+  "perf_city_name": "DAYTON",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "454350002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "OH10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163100",
+   "pgm_ele_name": "CIS-Civil Infrastructure Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "029E",
+   "pgm_ref_txt": "INFRASTRUCTURE SYSTEMS MGT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199760.0
+  }
+ ],
+ "por": null
+}

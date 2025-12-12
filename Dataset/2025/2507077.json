@@ -1,0 +1,102 @@
+{
+ "awd_id": "2507077",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "The formal theory of higher categories",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927972",
+ "po_email": "plimafil@nsf.gov",
+ "po_sign_block_name": "Paulo Lima Filho",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 197643.0,
+ "awd_amount": 197643.0,
+ "awd_min_amd_letter_date": "2025-07-08",
+ "awd_max_amd_letter_date": "2025-07-08",
+ "awd_abstract_narration": "Computer proof assistants, software programs that verify the logical reasoning of mathematical proofs written in precise formal language, offer an exciting new paradigm for mathematical research, enabling large-scale collaborations and empowering individual researchers to interact with theorems in other subfields that can be found in large open-source libraries of formalized mathematics. Computer proof assistants are likely to become more integral to the working life of mathematicians in the future.  As different proof assistants often implement the rules of different formal systems, mathematicians may even elect to prove certifiably-correct theorems in a non-standard \u201csynthetic\u201d foundation system. The PI will develop three project clusters that involve computer formalization of higher category theory in parallel with theoretical projects necessary to facilitate this work. The formalization projects each have several student collaborators, who are developing their skills with these tools while making significant scientific contributions.\r\n\r\nThe first project will introduce (\u221e, 1)-category theory to Lean\u2019s otherwise broad-ranging library Mathlib via the formalism of an \u221e-cosmos, developed in prior joint work of the PI. This approach will leverage Mathlib\u2019s existing bicategories library and largely sidestep the apparent difficulty in formalizing proofs that directly deploy the quasi-categories model. A second project also aims to formalize theorems about (\u221e, 1)-categories, but in a non-standard foundation system designed to make conceptually-simpler constructions and proofs fully rigorous. There is an experimental computer proof assistant Rzk that verifies proofs written in simplicial homotopy type theory, a formal system developed in prior joint work of the PI, and ongoing work to formalize (\u221e, 1)-category theory in this synthetic framework. This project aims to expand this system, which is insufficiently expressive to encompass the full theory of (\u221e, 1)-categories, without narrowing its semantics, which include (\u221e, 1)-categories defined internally to an arbitrary \u221e-topos. The final project aspires to develop a prototypical synthetic theory of (\u221e, n)-categories by developing a new type theory for marked shapes to provide a finitary syntactic encoding of (\u221e, n)-categorical data with semantics in the new comical spaces model. These pen-and-paper developments will enable (\u221e, n)-category theory to be formalizable in the future, once a suitable computer proof assistant is built to implement the rules of this new proposed formal system. The medium-term objectives include specific formalization targets that will then be available to other users of Lean\u2019s Mathlib and Rzk\u2019s simplicial homotopy type theory libraries. The long-term objective is to make (\u221e, 1)-category theory and eventually also (\u221e, n)-category theory more accessible to non-experts, who could use the computer formalized proofs as ingredients in their work.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Emily",
+   "pi_last_name": "Riehl",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emily Riehl",
+   "pi_email_addr": "eriehl@jhu.edu",
+   "nsf_id": "000572405",
+   "pi_start_date": "2025-07-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126700",
+   "pgm_ele_name": "TOPOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "062Z",
+   "pgm_ref_txt": "Harnessing the Data Revolution"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 197643.0
+  }
+ ],
+ "por": null
+}

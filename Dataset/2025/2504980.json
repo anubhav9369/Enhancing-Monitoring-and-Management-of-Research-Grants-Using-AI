@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504980",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Medium: Software-Hardware Codesign for Real-Time Ray Tracing",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922533",
+ "po_email": "hshen@nsf.gov",
+ "po_sign_block_name": "Han-Wei Shen",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Computer graphics uses a range of techniques to create and manipulate both 2D and 3D images. Graphics users have to balance quality and timing when creating or adjusting images. This project addresses this tradeoff with both hardware and software techniques to accelerate ray tracing - a technique for computer graphic rendering that generates tremendously realistic images by simulating the physics of how light interacts with physical objects. While ray tracing is the gold standard for rendering realistic images where the time taken to do the rendering is less important than the quality of the final result, interactive rendering (games, data visualization, virtual reality, etc.) rely on a different technique, rasterization. Rasterization is well-supported by commercial graphics processing units (GPUs), but does not accurately represent realistic optical effects such as shadows, reflections, refraction, global illumination, glossy/specular materials. Improving the performance of ray tracing can bring its power to generate highly realistic images to bear on a whole new range of important problems that must run at interactive rates.\r\n\r\nDespite the clear advantages of ray tracing, virtually all GPUs are designed primarily to accelerate rasterization. The ray tracing cores included in some GPUs automate the ray traversal and intersection routines, but data movement remains a fundamental problem to improving performance. This project targets the data movement problem with ray tracing by compressing ray data and reordering the related computations. It investigates methods for coalescing rays that access the same memory block so that they may be processed together, thereby reducing repeated and unstructured memory accesses. This involves keeping track of the rays in flight and interrupting ray traversal to prevent premature memory access before they can be coalesced and handled efficiently. One specific technique being explored is reduced precision data representations with specialized hardware support and optimized storage of triangles within treelets. This project is also exploring alternative scene data representations other than bounding volume hierarchies (BVHs). While BVHs are known to provide good performance with traditional ray tracing on existing hardware, custom hardware could favor different representations. Therefore, the project explores both software/algorithmic modifications to ray traversal and special-purpose hardware designs targeting the modified traversal and data movement patterns. A modular and parallel cycle-level hardware simulator is developed to test the novel hardware designs, identify the bottlenecks, and iteratively improve them. This hardware simulator will also be publicly released and maintained as a part of this project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cem",
+   "pi_last_name": "Yuksel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cem Yuksel",
+   "pi_email_addr": "cem@cs.utah.edu",
+   "nsf_id": "000636940",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Erik",
+   "pi_last_name": "Brunvand",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erik L Brunvand",
+   "pi_email_addr": "elb@cs.utah.edu",
+   "nsf_id": "000423397",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,134 @@
+{
+ "awd_id": "2443404",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: A Hybrid Parametric and Nonparametric Approach for Grounding Visual Intelligence in the Real World",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 599944.0,
+ "awd_amount": 227673.0,
+ "awd_min_amd_letter_date": "2025-03-03",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "The real world is abundant with visual information, demanding both humans and intelligent systems to navigate and adapt to its complexity efficiently. Human visual processing can be broadly categorized into two types: intuitive processing, which enables rapid, experience-driven decision-making, and deliberate processing, which involves focused and systematic reasoning for complex tasks. Robust visual intelligence, the ability to integrate these types of processing, is fundamental to real-world problem solving and developing common-sense understanding. However, current artificial intelligence (AI) systems lack this level of robustness, as they often rely heavily on language models to compensate for deficiencies in visual architecture. This reliance becomes a critical bottleneck as tasks and scenarios grow more complex, limiting the adaptability and reliability of AI systems in practical applications. The project aims to build a hybrid, vision-centric framework that integrates intuitive and deliberate visual processing to create more robust visual intelligence. This improved capability has the potential to empower research in many other fields. For example, robotics researchers could use the system to help robots see, move and act more intelligently in challenging environments. Similarly, scientists and educators could use it to better understand complex diagrams, making it easier to uncover new insights and improve learning.\r\n\r\nThe project aims to develop a hybrid approach that combines parametric (intuitive) and non-parametric (deliberate) visual processing methods to build robust visual intelligence. The first direction focuses on developing new ways to learn visual representations using techniques like visual self-supervised learning, language guidance, and generative modeling. And the goal for this direction is to advance vision-centric parametric knowledge to form the foundational layer of intuitive understanding. Building on this, the second direction incorporates human-like non-parametric mechanisms, such as visual search and working memory, to enhance deliberate reasoning capabilities. The third direction integrates these two approaches into a unified, hybrid architecture, where a high-level controller is capable of activating either method as needed for task-specific demands. Finally, the system will be tested in real-world, dynamic environments that extend beyond static image datasets, including tasks requiring long-form video analysis and visual-spatial reasoning. By applying the framework to these new challenges, the project aims to produce more adaptable, reliable, and broadly useful methods that expand the possibilities of vision-based applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Saining",
+   "pi_last_name": "Xie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Saining Xie",
+   "pi_email_addr": "sx352@nyu.edu",
+   "nsf_id": "000924776",
+   "pi_start_date": "2025-03-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 227673.0
+  }
+ ],
+ "por": null
+}

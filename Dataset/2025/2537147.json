@@ -1,0 +1,110 @@
+{
+ "awd_id": "2537147",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Harnessing Heterogeneous Sources of Data and Artificial Intelligence for Informed Flood Management",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 520799.0,
+ "awd_amount": 245799.0,
+ "awd_min_amd_letter_date": "2025-08-13",
+ "awd_max_amd_letter_date": "2025-08-13",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) project supports the nation's research priority in climate adaptation through advancing scientific understanding of urban and coastal floodings and establishing a new generation of intelligent flood early warning systems and smart flood control infrastructure. The project will address gaps in flood data availability and in present-day flood modeling by harnessing heterogeneous data sources, such as ground-based images and videos taken by traffic cameras, smartphones and drones, to provide faster and more distributed flood timeseries data and visual information. The use of multi-source, heterogeneous data, along with accelerated flood modeling and data analytics, will support the transformation of existing flood infrastructure into Active Flood Control Infrastructure through real-time model updating, active measurements, and active flood management. The project integrates research activities with educational and outreach plans to (i) train the next generation of AI-enabled engineers and scientists, (ii) foster flood-aware communities, and (iii) inform decision-makers by developing an integrated looped learning framework consisting of four phases of flood modeling, planning and response, behavioral analysis, and virtual reality gameplay and outreach.  The project will study two coastal watersheds in South Carolina, one dominantly urbanized and the other natural, with potential transferability to other urban and coastal systems.\r\n\r\nNovel Artificial Intelligence and image processing tools will be deployed to process different types of inputs at different stages of flood management: data acquisition, flood detection, monitoring, simulation, and forecasting. The research core of this project revolves around the detailed design and development of an integrated modeling platform consisting of Multi-Deep Learning Models (MDLM) for flood data analysis, modeling, and management. In the data analysis phase, deep learning models, alone or in combination with the reconstruction of a 3-Dimensional of the study area, will be used to provide numerical data, such as water levels, and inundation area, from ground-based images, and videos. Moreover, a multi-source data fusion module will be developed to feed data from different satellites and bands to a multi-branch deep learning network for flood detection and feature extraction. In the modeling phase, this CAREER project will enhance the understanding of compound flooding by developing a fully coupled model for simulating coastal compound floods through the integration of distributed hydrologic and surface hydraulics mathematical models into a single modeling framework. Then, a set of machine learning-based surrogate models will be developed to mimic the knowledge of fine-scale physics-based flood models and provide timely flood predictions. Finally, this project will provide adaptive design guidelines to turn existing infrastructure into active flood control infrastructure through real-time model updating, active measurements, and active flood management. New technologies and tools created in this project will allow stakeholders, decision-makers, and the public to make choices regarding their direct and indirect involvement pre-, peri-, and post-flooding and evaluate their impacts using integrated numerical simulations and virtual reality gameplay.\r\n\r\nThis CAREER project is jointly funded by the Civil Infrastructure Systems (CIS) and the Established Program to Stimulate Competitive Research (EPSCoR) programs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Erfan",
+   "pi_last_name": "Goharian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erfan Goharian",
+   "pi_email_addr": "egoharian@sdsu.edu",
+   "nsf_id": "000787133",
+   "pi_start_date": "2025-08-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Diego State University Foundation",
+  "inst_street_address": "5250 CAMPANILE DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN DIEGO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6195945731",
+  "inst_zip_code": "921821901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "51",
+  "st_cong_dist_code": "CA51",
+  "org_lgl_bus_name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+  "org_prnt_uei_num": "H59JKGFZKHL7",
+  "org_uei_num": "H59JKGFZKHL7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Diego State University",
+  "perf_str_addr": "5500 CAMPANILE DR",
+  "perf_city_name": "SAN DIEGO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "921821324",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "51",
+  "perf_st_cong_dist": "CA51",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  },
+  {
+   "pgm_ele_code": "163100",
+   "pgm_ele_name": "CIS-Civil Infrastructure Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "029E",
+   "pgm_ref_txt": "INFRASTRUCTURE SYSTEMS MGT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 245799.0
+  }
+ ],
+ "por": null
+}

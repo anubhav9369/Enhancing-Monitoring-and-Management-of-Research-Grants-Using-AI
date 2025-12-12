@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514495",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Phase Behavior of Ternary Lipid Mixtures in Asymmetric Membranes",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "Markus Deserno of Carnegie Mellon University is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to investigate how the asymmetry of cell membranes affects the phase behavior of their lipid constituents. While it is well established that the two leaflets of most biological membranes differ in their lipid composition, recent evidence shows that this asymmetry extends to many other properties, such as elastic material parameters or mechanical stresses. Prof. Deserno will develop theoretical and computational techniques to elucidate how these new facets of asymmetry alter lipid mixing in each leaflet. He will focus on three-component model mixtures (saturated lipids, unsaturated lipids, and cholesterol), whose thermodynamics is well characterized, at least in the symmetric case. Prof. Deserno will predict how such membranes react to controlled perturbations (e.g. changing cholesterol content), which will be tested in collaboration with experimental groups. By uncovering a new dimension of membrane organization, this award will advance fundamental understanding of vital physiological processes. At the same time, it affords academic training for graduate and undergraduate students and incorporates educational activities involving a local high school, as well as an ongoing physics teachers training program.\r\n\r\nProf. Deserno will develop the theoretical framework and computational tools necessary to integrate differential stress into predictions for the phase behavior and mechanical stability of asymmetric ternary lipid bilayers. He will examine how trans-leaflet cholesterol partitioning and mechanical stress/torque balance constrain the choice of proper thermodynamic variables for such membranes. Elastic and thermodynamic drivers for cholesterol distribution and leaflet-specific non-ideal lipid mixing will be captured in a continuum-level free energy model, further tested and refined using coarse-grained simulations. Perturbations that move leaflets between two-phase coexistence regions, and their read-out in terms of cross-leaflet phase imprinting and curvature creation, will be analyzed and compared against experiments. Since transient scrambling has been proposed as a means to create raft-like domains in asymmetric but leaflet-wise well-mixed membranes, Prof. Deserno will examine the viability of such a \u201ctransient raft hypothesis\u201d by determining what bounds the underlying dynamics of scrambling versus lipid diffusion. This project will also advance science education across multiple constituencies, ranging from graduate and undergraduate students conducting this research, to tailored outreach events given at a local high school, and \u201cPhysics Teachers Workshops\u201d that have been run at CMU since 2021.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Markus",
+   "pi_last_name": "Deserno",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Markus Deserno",
+   "pi_email_addr": "deserno@andrew.cmu.edu",
+   "nsf_id": "000486512",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  },
+  {
+   "pgm_ref_code": "8083",
+   "pgm_ref_txt": "Big Data Science &Engineering"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

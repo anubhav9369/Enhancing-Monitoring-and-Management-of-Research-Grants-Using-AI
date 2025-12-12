@@ -1,0 +1,170 @@
+{
+ "awd_id": "2513757",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Frameworks: The Community Resource for Innovation in Materials and Chemistry (CRIMaC)",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 3000000.0,
+ "awd_amount": 3000000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Building on fundamental innovations in the study of the intersection of chemistry and data science, the Community Resource for Innovation in Polymer Technology (CRIPT) project built a stable and scalable data ecosystem that makes polymer data widely available to and usable by a broad community. The current project, the Community Resource for Innovation in Materials and Chemistry (CRIMaC), substantially enhances CRIPT to grow beyond the community of 160,000 polymer researchers into a tool that potentially enables millions of innovators in chemistry and materials research to find data faster, collaborate more easily, and to use trustworthy data to drive innovations in artificial intelligence, machine learning, and automation. CRIMaC includes innovations to address user needs for visualization and data reliability, and its functional scope is broadened through extensions of innovations in data science originally developed for polymers to be relevant to chemical and materials science data more broadly. The technical innovations and cyberinfrastructure operations are coupled with educational and outreach efforts to grow the CRIMaC user community, including curricula material for undergraduates, online tutorials for self-learning, and train-the-trainer opportunities for advanced users and instructors.\r\n\r\nCRIPT is a stable, scalable, and robust platform for polymer data based upon key innovations in data structures, molecular representations, search technologies, and similarity rankings that enable cheminformatics beyond small molecules.  This project transforms CRIPT into a more general cyberinfrastructure called CRIMaC through three key pillars of cyberinfrastructure development that substantially enhance functionality and broaden CRIMaC\u2019s reach beyond polymer science.  With improved interactive data visualization, CRIMaC will transform CRIPT data structure to develop a novel concept of \u201cgraph as comment\u201d using the Vega-Lite notation, enabling domain experts to drive conversations about data based on graphical objects.  To ensure data trustworthiness (a major challenge for data systems based on user contributions), CRIMaC designs a 4-pronged validation scheme using rules-based validation, transparent data provenance, AI-driven outlier detection, and crowdsourced validation.  Moving beyond polymer science requires the innovation of new cheminformatics tools that extend CRIMaC\u2019s foundational BigSMILES technologies into biochemistry, theory/simulation, and organic/inorganic hybrid materials, capturing the full range of chemistry and soft materials.  To support and expand adoption of CRIMaC, the project also teaches the next generation of knowledge workers to use these types of data systems using an approach that a) develops educational materials to teach informatics and data systems directly in undergraduate curricula, b) provides tutorials to allow users to self-learn the CRIMaC system, and c) implements a train-the-trainers course that enables individuals to gain a marketable credential in the use of CRIMaC data system as a tool. This approach simultaneously promotes the uptake of CRIMaC, encourages super-users of the open-source ecosystems, and provides professional development to the community of practitioners.\r\n\r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Materials Research and the Office of Strategic Initiatives in the Directorate for Mathematical and Physical Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bradley",
+   "pi_last_name": "Olsen",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bradley D Olsen",
+   "pi_email_addr": "bdolsen@mit.edu",
+   "nsf_id": "000573386",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Juan",
+   "pi_last_name": "De Pablo",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juan J De Pablo",
+   "pi_email_addr": "jjd8110@nyu.edu",
+   "nsf_id": "000467495",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Arvind",
+   "pi_last_name": "Satyanarayan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arvind Satyanarayan",
+   "pi_email_addr": "arvindsatya@mit.edu",
+   "nsf_id": "000786204",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ludwig",
+   "pi_last_name": "Schneider",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ludwig Schneider",
+   "pi_email_addr": "ludwigschneider@uchicago.edu",
+   "nsf_id": "000987014",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "171200",
+   "pgm_ele_name": "DMR SHORT TERM SUPPORT"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 3000000.0
+  }
+ ],
+ "por": null
+}

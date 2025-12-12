@@ -1,0 +1,98 @@
+{
+ "awd_id": "2534860",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Multi-Modal Sensing with Robust, Unified, and Scalable Diffractive Optical Neural Networks",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-15",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-09-02",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "Modern artificial intelligence (AI) and data-intensive applications, from language models to scientific simulations, demand ever-growing computational capability. Yet, conventional electronic-based computing systems face a critical bottleneck: the energy and time required to move data between processors and memory now exceed the costs of performing the calculations themselves. This imbalance has slowed progress in AI and deep learning, while contributing to rising energy demands. This project explores a transformative computing paradigm grounded in photonic-based, in contrast to the conventional electronic-based paradigm, enabling information processing through light. Using diffractive optical neural networks (DONNs), our team will develop specialized, ultrathin computing systems composed of engineered nanostructures that manipulate light waves. These DONN-based systems are capable of performing inference tasks at the speed of light while consuming significantly less energy than conventional electronic platforms. These breakthroughs will support future embedded and edge devices, from smart sensors to autonomous systems, enabling AI to scale sustainably. The project will expand the American workforce in AI and optical computing by integrating education and outreach. The PIs will connect students from local community colleges to research opportunities and build upon successful undergraduate and K-12 outreach programs at both NC State and the University of Minnesota. The team will introduce new AI- and photonics-focused courses into the undergraduate curriculum and engage students through REU programs, design projects, and public-facing events such as youth AI labs, science competitions, and museum activities. Together, these efforts will prepare students with expertise in optics, nanofabrication, and machine learning, ensuring they are equipped to lead future innovations in photonic computing.\r\n\r\nThis project seeks to design, fabricate, and experimentally validate a new generation of metasurface-based diffractive optical neural networks (DONNs) that overcome key limitations of existing optical accelerators. The research targets three major advances: (1) Multi-modality: developing a unified DONN framework capable of processing diverse data types, including images, text, and graphs, and integrating programmable metasurface layers to significantly broaden its application scope. (2) Scalability: enabling deep, large-scale network inference using iterative train-prune-retrain, weight clustering, and tile-wise sparsification to minimize diffraction errors and optical crosstalk, combined with nonlinear activation reduction techniques such as low-degree polynomial network approximations for efficient, stable inference; and (3) Robustness to physical non-idealities: integrating fabrication-aware optimization and phase smoothing to mitigate meta-atom geometry variations, inter-element crosstalk, and environmental instabilities. The DONNs will employ multi-channel metasurface layers that leverage wavelength and polarization multiplexing for parallel, multi-task processing, and will incorporate architectural strategies such as shared diffractive layers, spatially distinct task routing, and optical skip connections to extend functionality to transformer and graph-style architectures. Fabrication will follow a staged cleanroom-to-foundry pipeline, with TiO2 nanofin metasurfaces prototyped at NC State and scaled through commercial foundry tape-outs to achieve device areas exceeding 250 \u03bcm2. The resulting systems will be experimentally benchmarked for accuracy, energy efficiency, and throughput across different workloads. By tightly integrating algorithmic innovation, photonic device engineering, and experimental validation, this work will establish the foundations for compact, energy-efficient, and adaptive optical AI processors, offering a pathway toward practical deployment in embedded and edge-computing applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qing",
+   "pi_last_name": "Gu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qing Gu",
+   "pi_email_addr": "qgu3@ncsu.edu",
+   "nsf_id": "000730165",
+   "pi_start_date": "2025-09-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106E",
+   "pgm_ref_txt": "Mixed signal technologies"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

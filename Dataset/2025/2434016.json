@@ -1,0 +1,102 @@
+{
+ "awd_id": "2434016",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "S3Era4: Securing Spectrum Sharing in Era 4",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 380000.0,
+ "awd_amount": 380000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Wireless and mobile communications are one of the most prominent technological successes of the last few decades. They provide great economic and societal benefits. However, as very well-articulated in the National Science Foundation program solicitation for the Next Era of Wireless and Spectrum, existing approaches to spectrum access and management are increasingly showing inadequacy in addressing rising challenges for this emerging era of wireless systems. A plethora of emerging applications, such as Massive IoT (MIoT), autonomous cars, robotics, and augmented reality are driving the demand for spectrum to new heights. Spectrum scarcity is becoming a critical issue. Simultaneously, wireless systems, especially their physical layers, are increasingly implemented in software. Software Defined Radios (SDRs) are becoming more capable, featuring small form factors and low costs. This development is a double-edged sword: it facilitates the creation of innovative wireless communication techniques to tackle spectrum access and management challenges (such as flexibility, agility, and sensing). However, it also lowers the barrier for misbehaving devices and increases the potential for attacks on robustness, privacy, and security. Unfortunately, current methods for enforcing spectrum access policies are inadequate to handle the combined challenges of scarcity, rising demand, and the ease with which malicious behavior can occur. This project addresses the critical need for mechanisms that can prevent, detect, localize, and attribute misbehavior while preserving user privacy.\r\n\r\nEnsuring security and privacy during spectrum management enforcement is a significant challenge. This proposal focuses on developing RF-centric machine learning techniques for real-time situational awareness, including sensing, classification, detection, and localization of misbehaving devices. It aims at analyzing and mitigating a wide range of attacks, sharing open-source prototypes and datasets, and training the next generation of spectrum scientists. The research activities are organized in the following main tasks.\r\n - Threat Models and Attack Surface Analysis: This critical first task focusses on conducting a security analysis of spectrum management, specifically considering adversaries using advanced SDR platforms and machine learning to evade detection. This includes adversaries consisting of colluding emitters attempting to evade detection and attribution.\r\n - Real-Time Situational Awareness: The project aims at creating RF-centric machine learning models for real-time sensing and classification of RF emissions. These models are architected to handle misbehavior, collisions, and interference, leveraging multiple antenna sources in congested and contested environments.\r\n - Identification and Localization of Misbehaving Devices: To secure spectrum access and towards enforcing policing, this project targets the development of techniques to accurately locate and attribute misbehavior, overcoming evasion tactics like mimicry and collusion. At the same time, these techniques by-design embed user privacy guarantees to prevent unlawful tracking.\r\n - Mitigating Misbehaving Devices: In order to provide short-term mitigation solution to spectrum attacks, the project aims at developing algorithms to tolerate misbehavior, ensuring resilience and performance in contested environments. This work builds on the PI\u2019s prior RF-centric machine learning models for beamforming and interference nulling.\r\n - Prototypes, Testbeds, and Datasets: An important activity within this project is to evaluate and demonstrate practicality and realism. It consists of prototyping the proposed techniques and comprehensively evaluating them on increasingly large-scale testbeds. To ensure reproducibility, the code for our prototypes and the ML models, will be open-sourced and designed to run on popular SDR platforms. The target evaluation environments include Northeastern University 60x60x30 ft. anechoic chamber, NSF-sponsored testbeds such as the DARPA/NSF Colosseum emulator, and the NSF POWDER City-Scale testbed. Building on his prior research, Principal Investigator Noubir, plans to systematically build and release curated datasets to support the spectrum science and education community in transfer learning, training, and evaluating new RFML models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guevara",
+   "pi_last_name": "Noubir",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guevara Noubir",
+   "pi_email_addr": "noubir@ccs.neu.edu",
+   "nsf_id": "000403438",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 380000.0
+  }
+ ],
+ "por": null
+}

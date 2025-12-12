@@ -1,0 +1,130 @@
+{
+ "awd_id": "2443410",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Extending the reach of empirical Bayes: Calibration, nuisance parameters, likelihood asymptotics, and machine learning",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032925307",
+ "po_email": "tmaiti@nsf.gov",
+ "po_sign_block_name": "Tapabrata Maiti",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 75343.0,
+ "awd_min_amd_letter_date": "2025-03-10",
+ "awd_max_amd_letter_date": "2025-03-10",
+ "awd_abstract_narration": "Scientists across various fields face the challenge of answering numerous related questions with limited or noisy data. For example, genomicists may need to assess thousands of genes using data from only a few subjects, while survey statisticians might analyze average incomes in many towns based on limited surveys. To address these challenges, researchers often borrow information from related questions, a process that requires sophisticated statistical reasoning due to varying underlying characteristics. Empirical Bayes offers a method to enhance individual question inference by sharing information, potentially improving statistical accuracy. However, it relies on strong modeling assumptions, limiting its applicability. This research aims to make empirical Bayes more powerful and accessible by integrating it with modern machine learning and causal inference, demonstrating its effectiveness under fewer assumptions, and developing methods to assess uncertainty more effectively. These advancements will help practitioners utilize empirical Bayes in various scientific and industry contexts without extensive statistical modeling. Additionally, the project will produce a monograph and provide training for students and preceptors on modern data science challenges using empirical Bayes.\r\n \r\n \r\nThis research aims to advance empirical Bayes by developing new methodologies and statistical theories to address four key limitations: the assumption of known likelihoods, the treatment of nuisance parameter heterogeneity, the development of nonparametric inference methods, and the integration with machine learning. The project will create new inference methods for primary parameters by using empirical partially Bayes methods and Bayesian nonparametrics, enhancing frequentist Bayes multiple testing theory with guarantees like false discovery rate control. Additionally, the research seeks to learn the unknown Bayes rule through neural networks with a specialized loss function, incorporate James-Stein shrinkage for combining unbiased estimates with semisupervised machine learning, and integrate empirical partially Bayes inference with doubly robust double machine learning for large-scale causal inference.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nikolaos",
+   "pi_last_name": "Ignatiadis",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nikolaos Ignatiadis",
+   "pi_email_addr": "ignat@uchicago.edu",
+   "nsf_id": "000943509",
+   "pi_start_date": "2025-03-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Chicago",
+  "inst_street_address": "5801 S ELLIS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "7737028669",
+  "inst_zip_code": "606375418",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IL01",
+  "org_lgl_bus_name": "UNIVERSITY OF CHICAGO",
+  "org_prnt_uei_num": "ZUE9HKT2CLC9",
+  "org_uei_num": "ZUE9HKT2CLC9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Chicago",
+  "perf_str_addr": "5801 S ELLIS AVE",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606375418",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "IL01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 75343.0
+  }
+ ],
+ "por": null
+}

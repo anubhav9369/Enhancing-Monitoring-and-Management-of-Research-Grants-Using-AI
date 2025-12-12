@@ -1,0 +1,93 @@
+{
+ "awd_id": "2515821",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Nonlinear Functional Time Series Analysis",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 240000.0,
+ "awd_amount": 240000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "This research will contribute to the analysis of modern and complex data observed as functions or curves. One example of such data is provided by yield curves used in economics as an indicator for future growth, inflation and interest rate expectations, and investor sentiment. Since data of this type is often observed across time, there will be a focus on developing theoretically justified and empirically validated forecasting algorithms, which can find applications in many fields of inquiry including finance, where practitioners are interested in predicting the volatility curves of intraday tick-by-tick transaction data of financial assets. The research is therefore of immediate interest in areas of application and will further connect statistics and fields significantly relying on data-analytic tools. In addition, the research will advance mathematical and computational statistics. It will produce doctoral students, who are theoretically and practically versed in both statistics and an area of application. The training and involvement of undergraduate students is also included through regular coursework, independent study and projects. \r\n\r\nThis research concerns the development of a comprehensive framework for the analysis of nonlinear and possibly non-Gaussian functional time series. Such functions naturally arise in a variety of contexts such as the modeling of cumulative intraday returns of financial assets. The research aims at providing a statistical foundation to analyze functional observations that exhibit non-linearity and are possibly heavy-tailed. Key outcomes to be achieved include new probabilistic results concerning the structure of nonlinear functional time series, the introduction of two new functional time series models as lead examples of the theoretical groundwork, namely a fully general version of generalized autoregressive conditional heteroscedastic processes as well as a novel random coefficient autoregressive model. These models are accompanied by a suite of inference procedures for further statistical analysis. Achieving the goals of the research projects will require non-standard approaches, as traditional sets of assumptions for the analysis of linear functional time series are expected to be of limited use in the setting studied under this research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Aue",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander Aue",
+   "pi_email_addr": "aaue@ucdavis.edu",
+   "nsf_id": "000063921",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "1850 RESEARCH PARK DR STE 300",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956186153",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 240000.0
+  }
+ ],
+ "por": null
+}

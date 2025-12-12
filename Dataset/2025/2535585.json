@@ -1,0 +1,102 @@
+{
+ "awd_id": "2535585",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: Data Analysis and Modeling of the Grounding Zone of Thwaites Glacier, West Antarctica",
+ "cfda_num": "47.078",
+ "org_code": "06090300",
+ "po_phone": "7032920000",
+ "po_email": "kbrunt@nsf.gov",
+ "po_sign_block_name": "Kelly Brunt",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-01-31",
+ "tot_intn_awd_amt": 53681.0,
+ "awd_amount": 53681.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Global sea levels have fluctuated dramatically in the past and are expected to continue doing so in the future. It is crucial to be able to forecast future global sea level as a significant portion of the world\u2019s population and built environment is located along vulnerable coastlines. The most crucial uncertainty in predicting future sea level rests with the behavior of the great ice sheets, particularly the marine-based Thwaites Glacier in West Antarctica. As glaciers melt and calve into the ocean, they contribute to a rise in the global sea level. It is necessary to collect all existing observational data in the ocean surrounding the Thwaites Glacier and to put that data into a mathematical equation, allowing a glacier forecast to be created. This is analogous to a weather forecast typically found on a smartphone. The estimates would provide society with a prediction of the global sea level change over this current century and beyond.\r\n\r\nThis project will incorporate recently collected observational data in and around the Thwaites Glacier into a computational ocean model with a dynamically static, thermodynamically interactive representation of the ice shelf. This project is a follow-up to the International Thwaites Glacier Collaboration project, which focused on observing and modeling the Thwaites Glacier system. There is an urgent need to integrate the collected data into a model, particularly at the grounding zone of the glacier, while the necessary familiarity and expertise to understand the data and incorporate it into a modeling framework are available to the community. This data-model assimilation holds strong promise for delivering a deeper insight into the physical mechanisms that guide the evolution of the Thwaites system and its potential to impact the rise of global sea levels significantly. We will use the MITgcm ocean model to simulate ocean circulation within the ocean cavity beneath the glacier. A high-resolution mesh will enable increased resolution in critical regions, such as the grounding zone and areas with complex coastal geometry. The high-resolution mesh will also accurately represent the geometry of the seaside, seabed, and ice base. The model developed for this project will be the most detailed model ever made of the ocean cavity and potentially represent a significant step forward for modeling ocean\u2013ice interaction in general.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OPP",
+ "org_div_long_name": "Office of Polar Programs (OPP)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Holland",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "David M Holland",
+   "pi_email_addr": "dmh4@nyu.edu",
+   "nsf_id": "000153243",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "511600",
+   "pgm_ele_name": "ANT Glaciology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "5116",
+   "pgm_ref_txt": "ANTARCTIC GLACIOLOGY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "0100CYXXDB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 53681.0
+  }
+ ],
+ "por": null
+}

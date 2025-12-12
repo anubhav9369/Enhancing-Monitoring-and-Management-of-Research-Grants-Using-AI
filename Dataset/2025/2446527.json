@@ -1,0 +1,114 @@
+{
+ "awd_id": "2446527",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Reinforcement Learning-Based Control of Heterogeneous Multi-Agent Systems in Structured Environments: Algorithms and Complexity",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 541016.0,
+ "awd_amount": 356488.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "Reinforcement learning (RL) is a popular framework for learning optimal decision-making in complex environments, and many RL algorithms have been developed to improve decision-making of a single agent in normal environments. However, modern large-scale distributed learning applications usually involve multiple heterogeneous agents that interact with complex environments, making the optimal decision-making fundamentally more challenging to learn. For example, when navigating multiple drones in an open area, the drones need to properly cooperative with each other and take the environment uncertainty into account. As another example, in distributed wireless networks, the interaction of the agents (e.g., base stations or mobile phones) are subject to heterogeneous constraints on power and bandwidth, etc. This project aims to develop a resilient RL framework for managing heterogeneous multi-agent systems in complex environments, and systematically design efficient multi-agent RL algorithms with comprehensive convergence and complexity analysis. The project will produce RL algorithm packages that are fully accessible to the public. The research activities will also generate positive educational impacts on undergraduate and graduate students. The materials developed by this project will be integrated into courses on machine learning and optimization, and will benefit interdisciplinary students majoring in electrical and computer engineering, statistics and computer science. The project will actively involve underrepresented students and integrate research with education for undergraduate and graduate students in STEM.  It will also produce introductory materials for K-12 students to be used in engineering summer research programs.\r\n\r\nThe overarching goal of this project is to develop a resilient RL framework for managing multi-agent systems that involve heterogeneous agents in complex and structured environments, and systematically design scalable and computation-efficient RL algorithms with rigorous and comprehensive convergence and complexity analysis for managing such systems. The proposed research includes three major thrusts. First, to manage cooperative agents with heterogeneous constraints in various types of structured environments (e.g., homogeneity and uncertainty), the environment model structure will be leveraged to develop fully decentralized policy optimization algorithms with convergence and complexity analysis. Second, to manage competitive agents with heterogeneous constraints in uncertain environment, new tractable notions of constrained and robust equilibrium will be proposed. Their fundamental structures and properties will be studied, based on which fully-decentralized primal-dual type policy optimization algorithms and robust value-based algorithms with convergence guarantees will be developed. Lastly, to improve the generalizability of agents\u2019 policies across heterogeneous environments, a new assistive RL framework that can substantially enhance the generalizability using few rounds of information exchange without data sharing will be developed. These RL algorithms will be applied to learn resilient and optimal control policies for interference management in wireless networks and energy control in power networks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yi",
+   "pi_last_name": "Zhou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yi Zhou",
+   "pi_email_addr": "yi.zhou@tamu.edu",
+   "nsf_id": "000805869",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M Engineering Experiment Station",
+  "inst_street_address": "3124 TAMU",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778433124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A&M ENGINEERING EXPERIMENT STATION",
+  "org_prnt_uei_num": "QD1MX6N5YTN4",
+  "org_uei_num": "QD1MX6N5YTN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M Engineering Experiment Station",
+  "perf_str_addr": "3124 TAMU",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778433124",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 230681.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 125807.0
+  }
+ ],
+ "por": null
+}

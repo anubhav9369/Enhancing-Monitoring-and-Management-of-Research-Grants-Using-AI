@@ -1,0 +1,122 @@
+{
+ "awd_id": "2535540",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: CNS Core: Large: Runtime Programmable Networks",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 1200000.0,
+ "awd_amount": 541363.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "Programmability is fuel for network innovation. In today\u2019s programmable networks, new features can be easily developed without having to rely on vendor support. However, deploying new features still requires fleet-wide maintenance to avoid disruption because device reprogramming incurs downtime. This severely constrains the speed of change, as maintenance operations require meticulous planning well ahead of time. This project proposes runtime programmable networks, where the end-to-end network infrastructure, vertically from the host kernels down to the network interface cards, and horizontally extending across switches to the other end of the network, can be reprogrammed on-the-fly without packet drops and with strong consistency guarantees. This represents a major leap from today\u2019s programmable networks, which are reconfigurable at compile time but become fixed functions at runtime after deployment.\r\n\r\nAccording to this project's vision, FlexNet, the network infrastructure provides a collection of basic utilities and, on demand, extensions are partially reconfigured into the infrastructure by injecting, removing, or overriding specific functions. This accelerates the speed of delivering new features to end users, increases the manageability of large networks by lowering the barrier for change, and creates new possibilities unavailable in today\u2019s programmable networks, such as powerful, dynamic security defenses. With FlexNet, this project can summon security defenses into the network precisely when needed. Defenses can migrate to the attack location or replicate across the network to maximize their effectiveness. They can even shapeshift in real time to mitigate changing attacks. When attacks subside, these defenses can be soon removed from the network to reduce overhead. This project aims to elevate network programming from a \u201cone-shot\u201d endeavor at compile time to \u201ccontinuous\u201d activities throughout the lifecycle of the network.\r\n\r\nIn order to realize our vision, this project needs to innovate across the stack. Concretely, this project proposes a four-pronged approach to programing, compiling, verifying, and managing runtime programmable networks end-to-end. First, runtime network programming requires controlling disparate datapaths and their real-time changes as a whole, while ensuring runtime portability across devices; thus, this project will develop a new programming system. Compiling a whole-network program to a heterogeneous substrate, while continuously reoptimizing for runtime changes, requires a new compiler design. To ensure the safety of network changes, this project must simultaneously innovate on runtime verification and validation. Finally, FlexNet programs have dynamic footprints in the network\u2014migrating, expanding, and shrinking across devices\u2014so this project needs a new management system to control such unprecedented dynamics. This project will produce an integrated platform upon which the FlexNet techniques will be evaluated comprehensively at various scales and with diverse workloads. To achieve a wider community engagement, this project will release software and hardware prototypes and educational materials in open source, and by collaborating with industry partners, this project will transition the FlexNet technologies into practice.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ang",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ang Chen",
+   "pi_email_addr": "chenang@umich.edu",
+   "nsf_id": "000755779",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE STE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091015",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7925",
+   "pgm_ref_txt": "LARGE PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 31074.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 307414.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 202875.0
+  }
+ ],
+ "por": null
+}

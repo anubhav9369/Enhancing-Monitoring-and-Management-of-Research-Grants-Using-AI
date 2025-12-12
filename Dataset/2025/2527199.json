@@ -1,0 +1,106 @@
+{
+ "awd_id": "2527199",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Quantum Computing for Topological and PDE Solvers to Accelerate Finite Element Modeling of Heterogeneous Porous Materials",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922339",
+ "po_email": "gibiscon@nsf.gov",
+ "po_sign_block_name": "Giovanna Biscontin",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 593965.0,
+ "awd_amount": 593965.0,
+ "awd_min_amd_letter_date": "2025-08-25",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "This project aims to advance how porous materials such as foams and energy-absorbing materials are modeled and designed by integrating quantum computing with classical simulation tools. These materials play a critical role in various industries, from healthcare to aerospace, and understanding their failure mechanisms is key to improving safety, performance, and sustainability. The research combines cutting-edge technologies of quantum computing, which enables faster and more efficient problem solving, along high-resolution experimental imaging, which reveals how these materials behave under stress. By developing new modeling tools that are both more accurate and computationally scalable, this work supports scientific discovery, promotes technological innovation, and helps prepare the next generation of engineers and scientists. The project will also provide open-source tools and training opportunities in quantum-enhanced simulation to a broader research community.\r\n\r\nThis project develops a hybrid quantum-classical finite element method (FEM) framework for modeling fracture in heterogeneous porous materials. The methodology integrates quantum solvers for partial differential equations (PDEs) with topological data analysis (TDA) to extract key structural features from porous microstructures, which are then used to inform the homogenized FEM model. High-resolution in-situ mechanical and fracture tests on porous structures will be performed to provide ground-truth data for validation. The final deliverable is a reproducible and extensible computational platform that unifies data-driven microstructural analysis with scalable, accurate simulation of deformation and fracture in porous solids. This research advances the state-of-the-art in multiscale modeling and enables broader application of quantum computing in engineering mechanics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pania",
+   "pi_last_name": "Newell",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pania Newell",
+   "pi_email_addr": "pania.newell@utah.edu",
+   "nsf_id": "000751458",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  },
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "172E",
+   "pgm_ref_txt": "Geomechanics"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 593965.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2513073",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Decoupling algorithms for fluid-structure interaction problems: Advances in theory, methodology, and applications",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 303199.0,
+ "awd_amount": 303199.0,
+ "awd_min_amd_letter_date": "2025-06-26",
+ "awd_max_amd_letter_date": "2025-06-26",
+ "awd_abstract_narration": "Understanding how fluids interact with elastic or porous materials, such as blood flowing through arteries or water filtering through soil, is crucial for addressing practical challenges in medicine, environmental science, and engineering. This type of modeling, known as fluid-structure interaction (FSI) or fluid-poroelastic structure interaction (FPSI), involves complex physics and mathematics because the fluid and the structure influence each other in strongly coupled ways. Traditional domain decomposition approaches solve the fluid and structure parts separately, then iteratively exchange information, but this process can be computationally expensive, especially for large systems. This research aims to develop new and efficient numerical methods that can solve these coupled problems more accurately and with reduced computational cost, enhancing simulation capabilities across diverse applications from hemodynamics to subsurface flow.\r\n\r\nThis project is on a rigorous development and analysis of numerical schemes for solving FSI and FPSI problems, using a unified, monolithic framework with Lagrange multipliers to enforce interface conditions. The core of the work includes: (1) formulating and analyzing a monolithic system to establish well-posedness, stability, and finite element error estimates; (2) deriving a Schur complement equation to decouple the subdomain problems and enable efficient computation of the Lagrange multipliers; (3) applying projection-based reduced order modeling (ROM) to the Schur system, stabilized by supremizer enrichment, to reduce computational cost; and (4) extending the framework to a novel three-dimensional fluid\u2013two-dimensional plate interaction model. These advancements aim to significantly enhance the computational efficiency and robustness of simulations for strongly coupled multiphysics systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hyesuk",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hyesuk K Lee",
+   "pi_email_addr": "hklee@clemson.edu",
+   "nsf_id": "000366907",
+   "pi_start_date": "2025-06-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Clemson University",
+  "inst_street_address": "201 SIKES HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEMSON",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8646562424",
+  "inst_zip_code": "296340001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "SC03",
+  "org_lgl_bus_name": "CLEMSON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2BMNX7DSKU8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Clemson University",
+  "perf_str_addr": "230 Kappa Street",
+  "perf_city_name": "CLEMSON",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "296340001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "SC03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 303199.0
+  }
+ ],
+ "por": null
+}

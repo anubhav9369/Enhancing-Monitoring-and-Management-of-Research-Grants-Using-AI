@@ -1,0 +1,122 @@
+{
+ "awd_id": "2531030",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAIG: Leveraging AI for Watershed-Scale Transport to Subgrid-Scale Wetland Processes in LSMs",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032928369",
+ "po_email": "scwhite@nsf.gov",
+ "po_sign_block_name": "Scott M. White",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 899998.0,
+ "awd_amount": 899998.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "Wetlands provide vital ecosystem services despite covering only a small area of the Earth\u2019s land surface. Earth System Models are increasingly used to inform decisions on land use and water quality conservation. However, wetlands are poorly represented because of their small size and complex interactions with surrounding rivers and landscapes. This project develops novel artificial intelligence (AI) tools that simulate wetland processes in Earth System Models. Three AI tools will be developed to simulate different aspects of wetlands for integration in Earth System Models. A transformer-based AI model will model nutrient and pollutant transport. A graph neural network will simulate wetland flow connectivity. A contrastive-learning model will predict wetland distribution from remote sensing data. The project will also support interdisciplinary education and training in geoscience and AI. It will provide new learning opportunities for students and advance public understanding of wetlands.\r\n\r\nWetlands play a vital role in maintaining ecosystem health by storing organic material, cycling nutrients, and protecting water quality. Despite covering a small area of the Earth\u2019s land surface, they are a critical buffer for waterborne pollutants. However, because of their small size and complex interactions with surrounding rivers and landscapes, wetlands are poorly represented in large-scale Earth System Models used to predict atmospheric circulation and manage water resources. This project will create a unified, physics-guided AI framework to improve models of wetland hydrology and biogeochemical modeling across sub-grid to watershed scales. The project will develop three AI models to represent wetlands within Earth System Models. First, a two-level transformer-based model will integrate mass balance and biochemical kinetics to predict wetland inundation and nutrient transport. Second, hydrology-aware graph neural network will use flow-conditioned attention and memory mechanisms to model wetland connectivity. Third, a contrastive learning-based model will predict wetlands in unmonitored regions using remote sensing data. All components will be integrated into a feedback system to enhance prediction accuracy, scalability, and generalizability. The models will be tested using data from the Western Lake Erie Basin and applied in other U.S. wetland regions. By embedding physical constraints into advanced AI architectures, this work bridges a key gap in Earth system modeling and enables robust, interpretable predictions of wetland function under broad environmental conditions. The project will also support interdisciplinary education and training at the intersection of environmental science and AI. Societal benefits include new learning opportunities for students and advancing public understanding of wetlands. All models and data will be openly shared to ensure accessibility and reuse.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ting",
+   "pi_last_name": "Zhu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ting Zhu",
+   "pi_email_addr": "zhu.3445@osu.edu",
+   "nsf_id": "000602328",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Gil",
+   "pi_last_name": "Bohrer",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gil Bohrer",
+   "pi_email_addr": "bohrer.17@osu.edu",
+   "nsf_id": "000506281",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Asmita",
+   "pi_last_name": "Murumkar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Asmita Murumkar",
+   "pi_email_addr": "Murumkar.1@osu.edu",
+   "nsf_id": "000728168",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "OHIO STATE UNIVERSITY, THE",
+  "inst_street_address": "1960 KENNY RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBUS",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "6146888735",
+  "inst_zip_code": "432101016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OH03",
+  "org_lgl_bus_name": "OHIO STATE UNIVERSITY, THE",
+  "org_prnt_uei_num": "MN4MDDMN8529",
+  "org_uei_num": "DLWBSLWAJWR1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Ohio State University",
+  "perf_str_addr": "1960 KENNY RD",
+  "perf_city_name": "COLUMBUS",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "432101016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OH03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 899998.0
+  }
+ ],
+ "por": null
+}

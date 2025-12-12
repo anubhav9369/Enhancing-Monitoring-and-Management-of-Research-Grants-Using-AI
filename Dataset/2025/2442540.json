@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442540",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Compositional Learning and Understanding of the Physical World",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 539051.0,
+ "awd_amount": 450626.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "The physical world is compositional. A scene is composed of various objects arranged in a way that is governed by physical laws. Each object consists of distinct parts that determine its functionality and affordances. For example, in a scene, the laws of gravity mean that chairs will be arranged on the floor and the rules of functionality dictate that the chair will have enough balance through its base or legs to support a person. Because the image is arranged based on the physical laws and functionality, it makes understanding the scene simpler. This project aims to develop a computer vision framework that learns and understands the physical world in a compositional manner, offering two significant benefits. First, a compositional interpretation of objects and scenes enables intelligent systems to engage in richer physical interactions and accomplish more complex tasks. Second, by decomposing complex entities into simpler constituents and modeling their relationships, this compositional approach addresses fundamental challenges faced by purely data-driven methods, including data inefficiency, the curse of dimensionality, and limited explainability. The outcomes of this project will impact a wide range of emerging applications, including robots that support manufacturing or assist with daily tasks, autonomous vehicles that enhance mobility and safety, and virtual or augmented reality interfaces that facilitate assistive workflows and remote collaboration. This project will tightly integrate research and education through curriculum development, research training for high school, undergraduate, and graduate students, and community outreach.\r\n\r\nThis project will develop new methodologies for learning and understanding the innate compositionality of objects and scenes in the physical world. It consists of three innovative thrusts. Thrust I aims to establish a unified framework for representing, parsing, and learning the compositionality of physical objects, through disentangled modeling of large shape variations, constituent parts, and detailed deformations of each part as multi-granularity neural fields. Thrust II aims to develop a new compositional model that parses 3D dynamic scenes from streaming video into an explainable layout graph on the fly, by constructing distributed representations of low-level geometry and motion and performing explicit reasoning about high-level scene compositionality. Thrust III will extend the first two thrusts by modeling the compositionality of generic articulated objects and investigating test-time adaptation for 3D dynamic scene parsing. Distinct from purely data-driven methods, this new compositional paradigm reduces reliance on extensive 3D annotations, naturally handles the high dimensionality of geometry and motion, and enables a deeper, more explainable understanding of the physical world. This project will advance and enrich fundamental research in visual compositionality, physical object and scene understanding, and explainable parsing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wei",
+   "pi_last_name": "Tang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wei Tang",
+   "pi_email_addr": "tangw@uic.edu",
+   "nsf_id": "000810196",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450626.0
+  }
+ ],
+ "por": null
+}

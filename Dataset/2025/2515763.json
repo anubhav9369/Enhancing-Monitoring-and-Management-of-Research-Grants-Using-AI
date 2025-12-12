@@ -1,0 +1,105 @@
+{
+ "awd_id": "2515763",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Causal Inference under Interference: External Validity",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "An open problem in causal inference is the external validity of causal conclusions in connected populations with spillover. A well-designed experiment ensures internal validity, in the sense that causal conclusions are valid in the sample on which the causal conclusions are based. The problem of external validity concerns the question of whether - and how - the causal conclusions can be extended from the sample to the population of interest. For example, the federal government may wish to know whether an economic, financial, or public health intervention improves the welfare of population members. To do so, the government may conduct a pilot study, by sampling a subset of population members, applying the intervention to all sampled population members, and extending the conclusions from the sample to the population of interest. Extending conclusions from the sample to the population is complicated by spillover: e.g., an economic intervention may improve the welfare of treated population members along with the welfare of family members, friends, and neighbors due to spillover. In these and other applications in science and technology, it is essential to understand how causal conclusions can be extended from a sample to the population of interest in the presence of spillover.  This project will tackle the open problem of external validity in causal inference under interference. The project will also result in software available to the general public, and in workshops for high school students.\r\n\r\nThis project will address the question: How can causal conclusions based on a sample be generalized to the population of interest, when the observed outcomes of sampled units depend on the unobserved outcomes of unsampled units due to treatment spillover and outcome spillover in connected populations? It will make three primary contributions. First, it will characterize the direct and indirect causal effects of treatments on outcomes as explicit mathematical functions of the effects of treatment, treatment spillover, and outcome spillover. Second, it will provide scalable statistical procedures for estimating the direct and indirect causal effects of treatments on outcomes based on a sample from the population of interest. Third, it will provide theoretical guarantees for generalizing causal conclusions from a sample to the population of interest, when outcomes are dependent due to treatment spillover and outcome spillover.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Schweinberger",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Schweinberger",
+   "pi_email_addr": "mus47@psu.edu",
+   "nsf_id": "000670734",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jonathan",
+   "pi_last_name": "Stewart",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jonathan R Stewart",
+   "pi_email_addr": "jrstewart@fsu.edu",
+   "nsf_id": "000919099",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

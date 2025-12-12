@@ -1,0 +1,126 @@
+{
+ "awd_id": "2443885",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Holistic Cross-layer Solution Towards Instant, Adaptive, and Evolving Intelligence for Battery-less Systems",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 553041.0,
+ "awd_amount": 219227.0,
+ "awd_min_amd_letter_date": "2025-03-21",
+ "awd_max_amd_letter_date": "2025-03-21",
+ "awd_abstract_narration": "Battery-less sensors that harvest energy from ambient sources are revolutionizing the possibilities for IoT applications, particularly in remote or challenging environments where sustainable, maintenance-free operation is crucial. When combined with tiny machine learning technologies, these devices are further enabled with in-situ data processing and real-time decision-making capabilities. However, integrating tiny machine learning algorithms into battery-less IoT devices presents significant challenges involving data acquisition, model training, and model deployment, all under stringent constraints of power, cost, memory, and computation. Operational intermittence due to frequent power failures, further complicates functionality. Once deployed, tiny machine learning models typically operate under fixed sensor sampling rates and are only able to make timely decisions when there is sufficient power. Moreover, the extended operational life of these systems introduces a novel challenge: the obsolescence of AI algorithms or programs as sensory inputs and/or environmental conditions evolve. There is a need for a holistic framework that offers energy efficient solutions capable of responding to sensory input, adapting to environmental changes, and maintaining code currency to ensure continued accuracy and responsiveness. This project seeks to address these challenges by developing innovative methods for adaptive tiny machine learning integration in battery-less IoT systems, ensuring long-term, reliable operation in dynamic, energy-variable environments.\r\n\r\nThis research will advance battery-less systems through three coherent advancements: 1) fundamental redesign and optimization of tiny machine learning models for self-powered IoT devices to enable timely data analysis and decision-making; 2) development of a holistic framework that supports adaptive data collection, decision-making, and communication strategies attuned to the dynamics of varying ambient environments; and 3) design of reliable and efficient code update mechanism to maintain program currency under frequent power interruptions. The proposed co-design techniques will lay a foundation for designing intelligent self-powered IoT devices and applications. The outcomes of this research will include novel cross-layer co-design techniques, tiny machine learning model design methods, software packages, and end-to-end deployment solutions. In addition, this project will encourage the participation of all groups including underrepresented groups and K-12 students in STEM, enrich the current curriculum, and prepare future engineers in machine learning, embedded systems, and IoT applications. All designs and outcomes will be made publicly available.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mimi",
+   "pi_last_name": "Xie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mimi Xie",
+   "pi_email_addr": "mimi.xie@utsa.edu",
+   "nsf_id": "000813197",
+   "pi_start_date": "2025-03-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at San Antonio",
+  "inst_street_address": "1 UTSA CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN ANTONIO",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2104584340",
+  "inst_zip_code": "782491644",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "TX20",
+  "org_lgl_bus_name": "THE UNIVERSITY OF TEXAS AT SAN ANTONIO",
+  "org_prnt_uei_num": "U44ZMVYU52U6",
+  "org_uei_num": "U44ZMVYU52U6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at San Antonio",
+  "perf_str_addr": "1 UTSA CIR",
+  "perf_city_name": "SAN ANTONIO",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "782491644",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "TX20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 219227.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2440610",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Advancing Federated Learning: Incentivizing Privacy-Preserving Collaborative Learning in Dynamic Environments",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 513998.0,
+ "awd_amount": 513998.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Federated learning is a method that enables multiple devices or organizations, referred to as clients, to collaboratively train a shared machine learning model without sharing their private data. Although it has shown promise in real-world applications, it still faces several challenges. One major issue is the lack of fairness, where clients who contribute higher-quality data do not often see their efforts properly reflected in the final model, especially in applications where each client's data is large and valuable. Another challenge is that federated learning algorithms are often not designed to cope in real-time environments, such as traffic and autonomous systems, where data is received continuously. Furthermore, in real-world environments, clients are susceptible to poor network conditions or limited communication capacity, which can inhibit collaboration. Moreover, federated learning is liable to privacy leakage from a powerful adversary. Although local differential privacy can prevent privacy leakage, it reduces model performance, making it hard to balance privacy and accuracy. This project aims to address these pressing issues by designing strategies to fairly incentivize clients in challenging, dynamic environments while maintaining strong privacy protections. It overcomes the limitations of the existing game theory approach, which requires knowledge of a utility function difficult to compute in federated learning. Moreover, unlike the game theory approach, it does not utilize money to incentivize clients to contribute high-quality data because budget constraints will result in inadequate compensation, which will discourage clients with high-quality data from further collaboration. Other existing methods based on reinforcement learning are computationally demanding and impractical under resource-limited conditions. Therefore, this project will incentivize clients based on the quality of their data contributions in real-world harsh environments for various applications while ensuring data privacy. Moreover, it will foster collaborations among industry partners necessary for economic growth. \r\n\r\nThis project aims to develop effective methods for incentivizing clients to contribute high-quality data in cross-silo federated learning, while ensuring privacy in dynamic environments. Unlike existing game-theoretic or deep reinforcement learning approaches, it introduces novel strategies across three thrusts. Thrust 1 focuses on incentive mechanisms when there are no communication bottlenecks, using optimistic mirror descent and Hedge techniques to assess and reward data quality. Thrust 2 addresses communication constraints, based on bandit optimization and difference compression. Thrust 3 enhances privacy through local differential privacy with tree-based aggregation and the optimistic follow-the-regularized-leader technique. The project will provide rigorous mathematical foundations and will ensure reproducibility by sharing open-source implementations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Olusola",
+   "pi_last_name": "Odeyomi",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Olusola T Odeyomi",
+   "pi_email_addr": "otodeyomi@ncat.edu",
+   "nsf_id": "000898925",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina Agricultural & Technical State University",
+  "inst_street_address": "1601 E MARKET ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "GREENSBORO",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "3363347995",
+  "inst_zip_code": "27411",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "NC06",
+  "org_lgl_bus_name": "NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SKH5GMBR9GL3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina Agricultural & Technical State University",
+  "perf_str_addr": "1601 E MARKET ST",
+  "perf_city_name": "GREENSBORO",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "274110002",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "NC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 513998.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2527518",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "eMB: Algebraic methods for microbiome keystone analysis",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924306",
+ "po_email": "vdinh@nsf.gov",
+ "po_sign_block_name": "Vu Dinh",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 409940.0,
+ "awd_amount": 409940.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Microbiomes are communities of bacteria, fungi, and other microorganisms that are vital to nearly every ecosystem on Earth, influencing everything from soil health to human well-being. These communities often contain thousands of interacting species, forming complex webs of relationships that are difficult to observe directly. A key challenge in microbiome research is identifying keystone species\u2014organisms that play a disproportionately important role in maintaining community stability and function. Traditional methods to detect these keystone species rely on constructing detailed microbial interaction networks, a process that is both time- and computation-intensive. This project introduces a new interdisciplinary framework that uses tools from algebra and geometry to develop new tools for analyzing microbiome data. By applying this approach to microbial communities across stream, land, and sea environments, the researchers will identify keystone species and test their influence through laboratory experiments. This project will enhance interdisciplinary education, student research, and workforce preparation in mathematical biology.\r\n\r\nThis project develops algebraic approaches to analyze microbial co-occurrence and ecological structure using tools from computational algebraic geometry and algebraic statistics. The research focuses on three core aims: (1) developing a low-rank method for identifying keystone taxa using algebraic conditions on sample covariance matrices, circumventing the need for full network inference; (2) using pseudo-monomial and toric ideals to study species niche space geometry and distribution continuity based on presence/absence data; and (3) constructing statistical tools for comparing microbial networks via exponential random graph models, enabling rigorous assessment of network structure across environmental conditions. These methods will be applied to a large microbiome dataset collected across an environmental gradient in Hawai'i, and predictions of keystone species will be validated through co-culturing experiments that test community responses to species removal.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elizabeth",
+   "pi_last_name": "Gross",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elizabeth A Gross",
+   "pi_email_addr": "egross@hawaii.edu",
+   "nsf_id": "000628864",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nicole",
+   "pi_last_name": "Hynson",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nicole A Hynson",
+   "pi_email_addr": "nhynson@hawaii.edu",
+   "nsf_id": "000540328",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mengting",
+   "pi_last_name": "Yuan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mengting Yuan",
+   "pi_email_addr": "myuan2@hawaii.edu",
+   "nsf_id": "0000A3M3Z",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Hawaii",
+  "inst_street_address": "2425 CAMPUS RD SINCLAIR RM 1",
+  "inst_street_address_2": "",
+  "inst_city_name": "HONOLULU",
+  "inst_state_code": "HI",
+  "inst_state_name": "Hawaii",
+  "inst_phone_num": "8089567800",
+  "inst_zip_code": "968222247",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "HI01",
+  "org_lgl_bus_name": "UNIVERSITY OF HAWAII",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NSCKLFSSABF2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Hawaii",
+  "perf_str_addr": "2425 CAMPUS RD SINCLAIR RM 1",
+  "perf_city_name": "HONOLULU",
+  "perf_st_code": "HI",
+  "perf_st_name": "Hawaii",
+  "perf_zip_code": "968222247",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "HI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 409940.0
+  }
+ ],
+ "por": null
+}

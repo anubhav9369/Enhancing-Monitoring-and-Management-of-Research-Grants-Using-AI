@@ -1,0 +1,110 @@
+{
+ "awd_id": "2533605",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Miniaturized Sagnac Gyroscope in Lithium Tantalate on Insulator Integrated Photonics: Engineering Exceptional Points for Enhanced Sensitivity and Stability",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-10-15",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 472120.0,
+ "awd_amount": 472120.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "Nontechnical Description\r\nGyroscopes are essential tools used in many technologies, such as navigation systems, drones, and camera stabilization. Thanks to advances in MicroElectroMechanical Systems (MEMS), mechanical gyroscopes have become much smaller and more efficient. However, for the highest levels of accuracy and stability, optical gyroscopes\u2014like Ring Laser Gyroscopes (RLGs) and Fiber Optic Gyroscopes (FOGs)\u2014are still the top choice. These devices use a physical principle called the Sagnac effect to detect rotation with incredible precision. Making these optical gyroscopes smaller could lead to major breakthroughs in low-power navigation systems for wearable devices and consumer electronics. One exciting direction is using integrated photonics\u2014tiny optical circuits on a chip\u2014to shrink these systems even further. A particularly innovative idea involves using something called exceptional points (EPs) in specially designed optical structures to boost sensitivity. This project explores a new type of photonic chip made from lithium tantalate thin films layered on silicon, known as the LTOI platform. The goal is to build a compact and stable optical gyroscope using this platform, controlled by electro-optic and acousto-optic modulators, and operating at these exceptional points. If successful, this new gyroscope could have a big impact on fields like navigation, aerospace, and virtual/augmented reality. Beyond that, the technology could also benefit areas like quantum computing, microwave communications, and advanced sensing\u2014including gas detection, infrared imaging, and other motion-sensing devices.\r\n\r\nTechnical Description\r\nThis project explores the use of EPs in integrated coupled photonic cavities within the LTOI platform to enhance the scale factor (sensitivity) of a Sagnac gyroscope based on coupled optical racetrack resonators. The goal is to engineer methods to stabilize operation at EPs against environmental factors using high-performance acousto-optic and electro-optic modulators that can be directly integrated into the LTOI substrate. Vertical cavity surface-emitting lasers and photodetectors will be heterogeneously integrated on the same platform to create a very compact gyroscope. The ultimate technological objective is to develop a temperature-stable, miniaturized, and integrated Sagnac gyroscope with significantly improved size, weight, and power (SWaP) characteristics. We expect the proposed gyroscope to achieve an angle random walk of a few mdeg/\u221ahr (comparable to the best state-of-the-art RLG) in a 100x reduced volume and 10x reduced power consumption compared to commercial RLGs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gianluca",
+   "pi_last_name": "Piazza",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gianluca Piazza",
+   "pi_email_addr": "piazza@ece.cmu.edu",
+   "nsf_id": "000491421",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "104E",
+   "pgm_ref_txt": "MEMS/NEMS"
+  },
+  {
+   "pgm_ref_code": "100E",
+   "pgm_ref_txt": "Novel devices & vacuum electronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 472120.0
+  }
+ ],
+ "por": null
+}

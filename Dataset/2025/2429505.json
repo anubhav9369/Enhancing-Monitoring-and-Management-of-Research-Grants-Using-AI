@@ -1,0 +1,98 @@
+{
+ "awd_id": "2429505",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EPSCoR Research Fellows: NSF: Robust Data-Driven Formations of Multi-Robot Exploring Systems",
+ "cfda_num": "47.083",
+ "org_code": "01060100",
+ "po_phone": "7032927088",
+ "po_email": "jcolom@nsf.gov",
+ "po_sign_block_name": "Jose Colom",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 269069.0,
+ "awd_amount": 269069.0,
+ "awd_min_amd_letter_date": "2024-11-19",
+ "awd_max_amd_letter_date": "2024-11-19",
+ "awd_abstract_narration": "This project aims to advance space exploration by improving how an assembly of systems collaborate in extreme environments like the Moon or Mars through the design of smart data-driven mechanisms capable of overcoming unexpected changes in the component systems and their sensors. By using smaller and smarter robotic systems, the proposed research seeks to replace complex and heavy rovers with multi-vehicle platforms that permit more efficient and resilient exploration. By partnering with NASA's Jet Propulsion Laboratory (JPL), the project contributes to the current push to return to the moon and the exploration of earth-surrounding celestial bodies enabling the establishment of a permanent human presence. In this vein, the project will demonstrate the efficacy of the proposed methodologies on state-of-the-art testing platforms and drive innovations in robotic technology that could benefit other fields like disaster response, environmental monitoring, and national security. Additionally, the research supports education and diversity by training the next generation of engineers and scientists in advanced robotics. This collaboration with experts at JPL will also strengthen U.S. leadership in space technology while fostering scientific progress in the national interest. The outcomes will contribute to the NSF\u2019s mission to promote the advancement of science, national health, prosperity, and defense.\r\n\r\nThe proposed project aims to enhance the performance and resilience of multi-agent systems (MAS) in space exploration by developing data-driven robustification mechanisms in collaboration with experts at NASA\u2019s Jet Propulsion Laboratory (JPL). The primary goal is to improve the fault tolerance of MAS formations, consisting of multiple autonomous vehicles capable of distributively managing complex tasks in harsh and/or unknown environments. A novel model-free (MF) approach, based on the ultralocal model (ULM), will be used to simplify the control dynamics of heterogeneous agents (e.g., hoppers, hedgehogs, and tumbling robots) collaborating on tasks that when combined fulfill a common mission interest while maintaining performance. This method will enable real-time adaptation and robust control of a MAS by leveraging group redundancy and sensing capabilities to overcome structural and sensor failures. Additionally, integrating these methodologies into the high-level MAS controller may introduce new types of outliers or faults, which the proposed resulting algorithms are designed to mitigate. The project's key objectives are: (1) establishing a link between robust statistical methods and MAS resiliency against faults, (2) developing self-tuning control mechanisms to optimize formation dynamics and reduce control effort, and (3) validating these techniques on cutting-edge platforms at JPL. The research has the potential to significantly advance MAS technology for space missions, enabling more efficient and reliable exploration of celestial bodies, particularly the moon. Ultimately, this project will help position the University of Vermont as a leader in autonomous systems research for space exploration and foster long-term collaboration with JPL.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "O/D",
+ "org_dir_long_name": "Office Of The Director",
+ "div_abbr": "OIA",
+ "org_div_long_name": "OIA-Office of Integrative Activities",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Luis",
+   "pi_last_name": "Duffaut Espinosa",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Luis A Duffaut Espinosa",
+   "pi_email_addr": "lduffaut@uvm.edu",
+   "nsf_id": "000628991",
+   "pi_start_date": "2024-11-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Vermont & State Agricultural College",
+  "inst_street_address": "85 S PROSPECT STREET",
+  "inst_street_address_2": "",
+  "inst_city_name": "BURLINGTON",
+  "inst_state_code": "VT",
+  "inst_state_name": "Vermont",
+  "inst_phone_num": "8026563660",
+  "inst_zip_code": "054051704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "VT00",
+  "org_lgl_bus_name": "UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z94KLERAG5V9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Vermont & State Agricultural College",
+  "perf_str_addr": "85 S PROSPECT STREET",
+  "perf_city_name": "BURLINGTON",
+  "perf_st_code": "VT",
+  "perf_st_name": "Vermont",
+  "perf_zip_code": "054051704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "VT00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "196Y00",
+   "pgm_ele_name": "EPSCoR RII: EPSCoR Research Fe"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 269069.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2506074",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Integration and Geometric Quantization in Derived Differential Geometry",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927972",
+ "po_email": "plimafil@nsf.gov",
+ "po_sign_block_name": "Paulo Lima Filho",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "The aim of this project is to extend the theory of calculus to more complex geometric settings, particularly those relevant to theoretical physics. Traditionally, calculus is defined on flat spaces like lines or planes, while modern differential geometry expands these concepts to smoothly curved spaces\u2014such as spheres or donuts\u2014and their higher-dimensional analogues, called manifolds. This theory plays a central role in physics, from Einstein\u2019s description of gravity as the curvature of spacetime to the Standard Model of particle physics. The algebraic process of solving equations corresponds geometrically to the intersection of graphs, a principle that extends naturally to manifolds. However, intersections of manifolds are not always manifolds themselves, rendering differential geometry insufficient. The PI has made significant contributions to derived differential geometry (DDG), an advanced framework designed to handle such non-smooth intersections. Yet, integration\u2014a cornerstone of calculus\u2014has not been fully developed in this setting. The first aim of the project is to fill in this gap by building a robust theory of integration in DDG, with particular relevance to the computation of Feynman path integrals in physics. The second aim is to generalize geometric quantization\u2014a powerful method traditionally used to describe the transition from classical mechanics to quantum mechanics\u2014to more sophisticated systems such as classical field theories. Classical mechanics describes the motion of point particles, while field theories govern the behavior of extended objects, such as electromagnetic fields, and arise from purely mathematical constructions. Concrete outcomes of this project will include the development of new mathematical formalisms for integration and quantization over derived stacks, which can be used for computations in quantum field theory, such as path integrals and quantum invariants arising from topological field theories. These tools are expected to be applicable in both physics and mathematics, and the project will also foster interdisciplinary education by supporting the design of joint coursework in geometry, topology, and field theory for students in both disciplines.\r\n \r\nThe project consists of two complementary components. The first involves constructing a comprehensive theory of geometric integration applicable to quasi-smooth derived higher stacks within derived differential supergeometry. This will be accomplished by developing a six-functor formalism, identifying dualizing complexes as Berizinians of cotangent complexes, and defining integration through the co-unit of exceptional inverse and direct image functors. The second aim of this project is to develop a notion of geometric quantization for shifted symplectic derived smooth stacks whose output is a fully extended topological field theory with values in higher categorical vector spaces. The resulting program will be a refinement of the shifted geometric quantization program of Safranov, appropriately adapted to the smooth setting, and will build on work of Calaque-Haugseng-Scheimbauer on TQFTs. The functorial field theories constructed using this method should yield new quantum invariants. By the cobordism hypothesis, such a theory is determined by what it assigns the point, and this should correspond to the underlying higher vector space of polarized sections of a higher prequantum line bundle. The PI proposes to prove that the fully extended framed TQFT associated to Chern-Simons theory is determined by a certain linear 2-category of representations of the string 2-group.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Carchedi",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "David J Carchedi",
+   "pi_email_addr": "dcarched@gmu.edu",
+   "nsf_id": "000733089",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Mason University",
+  "inst_street_address": "4400 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAIRFAX",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7039932295",
+  "inst_zip_code": "220304422",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "VA11",
+  "org_lgl_bus_name": "GEORGE MASON UNIVERSITY",
+  "org_prnt_uei_num": "H4NRWLFCDF43",
+  "org_uei_num": "EADLFP7Z72E5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Mason University",
+  "perf_str_addr": "4400 UNIVERSITY DR",
+  "perf_city_name": "FAIRFAX",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "220304422",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "VA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

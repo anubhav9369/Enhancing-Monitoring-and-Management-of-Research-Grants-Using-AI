@@ -1,0 +1,122 @@
+{
+ "awd_id": "2443219",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Towards Disaggregated Persistent Key-Value Stores",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 730883.0,
+ "awd_amount": 274942.0,
+ "awd_min_amd_letter_date": "2024-12-31",
+ "awd_max_amd_letter_date": "2024-12-31",
+ "awd_abstract_narration": "Modern data centers are evolving to become more environmentally sustainable and efficient by adopting resource-disaggregated infrastructure, known as disaggregated data centers. This approach separates computing, storage, and networking resources to improve scalability, flexibility, and energy efficiency. Persistent key-value stores (PKVS)-which are essential for storage systems, databases, data deduplication, and big data analytics-are widely used in today's technology landscape. As cloud computing, big data, and large language models (LLMs) continue to grow rapidly, it is becoming crucial to adapt PKVS for use in disaggregated data centers. However, current PKVS face significant challenges in this environment, such as managing diverse hardware resources, scaling effectively, and handling risks like system failures, data corruption, and security threats. This CAREER proposal aims to create a flexible framework to redesign and optimize different types of PKVS for disaggregated data centers. The project will focus on better use of mixed hardware, scalable performance, and stronger reliability and security. Ultimately, this work will lead to greater resource and energy savings, extended hardware life, and better performance-to-cost balance for large-scale data systems. These improvements will benefit applications in cloud computing, machine learning, and scientific research.\r\n\r\nThis project will devise new techniques to achieve key-range- and hotness-aware compute and data tiering with LLMs-assisted management, component-level scaling up and instance-level scaling out, and decentralized handling of execution failures and data protection with multi-level checksums and encryption. The proposed methodologies, system designs, and implemented components will benefit the memory and storage research communities in further developing storage systems and data infrastructures in disaggregated data centers. The project also tightly integrates research with education through various educational activities, including curriculum development and updates with the concept of \"disaggregation,\" expanding winter and summer research camps to engage more students for cutting-edge research, especially undergraduates students, and enhancing interactions and collaborations with industry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhichao",
+   "pi_last_name": "Cao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhichao Cao",
+   "pi_email_addr": "zhichao.cao@asu.edu",
+   "nsf_id": "000915415",
+   "pi_start_date": "2024-12-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 274942.0
+  }
+ ],
+ "por": null
+}

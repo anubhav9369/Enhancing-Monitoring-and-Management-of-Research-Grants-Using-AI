@@ -1,0 +1,106 @@
+{
+ "awd_id": "2532014",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CPS: Medium: Data Driven Modeling and Analysis of Energy Conversion Systems -- Manifold Learning and Approximation",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-26",
+ "awd_max_amd_letter_date": "2025-08-26",
+ "awd_abstract_narration": "This NSF CPS project aims to develop new techniques for modeling cyber-physical systems that will address fundamental challenges associated with scale and complexity in modern engineering. The project will transform human interaction with complex cyber-physical and engineered systems, including critical infrastructure such as interconnected energy networks. This will be achieved through a novel combination of data-driven techniques and physics-based approaches to give mathematical and computational models that are at once abstract enough to be understood by humans making key engineering decisions and precise enough to make quantitative predictions. The intellectual merits of the project include a novel confluence of emerging data science and model-analysis methods, including manifold learning and information geometry. The broader impacts of the project include the training of undergraduates, including those from underrepresented communities, several outreach activities, and publicly available open-source software.\r\n\r\nEngineering requirements often make incompatible demands on models. Detailed models make highly accurate predictions, but coarse models are easier to interpret. This project will develop techniques to overcome this inherent contradiction. On the one hand, data science and machine learning techniques allow us to efficiently construct black box predictive models with limited generalizability. At the same time, recent advances in information geometry have produced model reduction methods that systematically derive simple, interpretable models from physical first principles that summarize relevant mechanisms needed for model transferability. Combining these technologies will enable useful mappings between \u201cphysically explainable\u201d reduced models and quantitative data. These data-driven tools will enable \u201cthe best of both worlds\u201d \u2013 physically interpretable models that make quantitative predictions.  We will combine a meaningful, qualitatively correct but quantitatively inaccurate reduced model with a data-driven transformation. The project team brings together domain-specific expertise in physical modeling, energy systems, and data-driven learning. We will apply this approach to address key operational challenges in interconnected energy networks. The enabling technology will apply to modeling any complex cyber-physical system.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aleksandar",
+   "pi_last_name": "Stankovic",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aleksandar Stankovic",
+   "pi_email_addr": "astankov@ece.tufts.edu",
+   "nsf_id": "000563813",
+   "pi_start_date": "2025-08-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Santa Clara University",
+  "inst_street_address": "500 EL CAMINO REAL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CLARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4085544764",
+  "inst_zip_code": "950504776",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "CA17",
+  "org_lgl_bus_name": "PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YE8LRJWSY3K9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Santa Clara University",
+  "perf_str_addr": "500 EL CAMINO REAL",
+  "perf_city_name": "SANTA CLARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950504776",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7918",
+   "pgm_ref_txt": "CYBER-PHYSICAL SYSTEMS (CPS)"
+  },
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

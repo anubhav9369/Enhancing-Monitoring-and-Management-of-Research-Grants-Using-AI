@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442581",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Safety-Centered Multi-Agent Reinforcement Learning: Algorithms, Testing Tools, and Benchmarks",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "eplaku@nsf.gov",
+ "po_sign_block_name": "Erion Plaku",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 598609.0,
+ "awd_amount": 520013.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Artificial Intelligence has made significant advancements in enhancing the capabilities of autonomous systems to process information and make decisions. Reinforcement learning has emerged as a powerful approach, enabling agents to optimize their actions through trial and error by interacting with their environment. Multi-agent reinforcement learning (MARL) builds on this concept by enabling multiple agents to learn and collaborate, making it particularly effective for complex tasks that require coordination, such as those involving unmanned aerial vehicles. However, the complexities of interaction among multiple agents, especially when operating in dynamic environments and safety-critical situations, can lead to unexpected behaviors that may affect safety and reliability. As the deployment of MARL systems increases, it is essential to enhance their robustness, ensuring that these systems can operate safely and reliably in real-world applications.\r\n \r\nThis CAREER project seeks to develop a framework that increases safety in MARL settings, spanning the three phases of learning, testing, and deployment. It will focus on four key innovations: (1) developing learning algorithms that allow MARL systems to improve performance while staying within safety boundaries, even in unfamiliar environments; (2) building interactive tools that help developers and users test, visualize, and refine the MARL systems' decision-making behavior before deployment; (3) developing certification techniques to ensure the system remains safe even when parts of it are attacked or compromised; and (4) designing benchmark environments and standardized metrics to evaluate and compare the safety and performance of current and future MARL algorithms. In doing so, the project has the potential to improve the performance and reliability of multi-agent systems, particularly in safety-critical applications like those involving unmanned aerial vehicles. The educational activities will focus on developing new courses, providing hands-on projects, and engaging students in research to foster their understanding of AI and multi-agent systems, and preparing them for successful careers in the field.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sarra",
+   "pi_last_name": "Alqahtani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sarra Alqahtani",
+   "pi_email_addr": "sarra-alqahtani@wfu.edu",
+   "nsf_id": "000841246",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wake Forest University",
+  "inst_street_address": "1834 WAKE FOREST RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "WINSTON SALEM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "3367585888",
+  "inst_zip_code": "271096000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NC10",
+  "org_lgl_bus_name": "WAKE FOREST UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MBU6HCLNZ431"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wake Forest University",
+  "perf_str_addr": "1834 WAKE FOREST RD",
+  "perf_city_name": "WINSTON SALEM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "271096000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NC10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 520013.0
+  }
+ ],
+ "por": null
+}

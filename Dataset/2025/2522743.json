@@ -1,0 +1,138 @@
+{
+ "awd_id": "2522743",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "AIMing: AI Theorem Proving Beyond Limited Data: Efficient Learning of Mathematicians' Ecosystem",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "03040000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Mathematical breakthroughs have historically driven advances in technology, national security, and economics. Examples of these breakthroughs include cryptography methods that protect digital infrastructure or algorithms that power modern computing, such as planning, supply chain, and navigation optimization. However, the pace of mathematical discovery is limited by the capacity of human mathematicians to explore increasingly complex problems. This project addresses a critical need by developing artificial intelligence (AI) systems that can accelerate mathematical research and theorem proving at scale. The goal is to create the first AI system capable of proving graduate-level mathematical theorems and tackling unsolved problems that challenge even world-class mathematicians. One motivating observation is that current AI systems for theorem-proving are trained in a way vastly different from how mathematicians learn. In reality, mathematicians develop their skills by working collectively within an ecosystem by taking on different roles at various times. Mathematicians also specialize in various areas and skill sets while actively collaborating across areas to build connections and transfer knowledge. The key approach is to train AI systems that imitate the evolution and interactions of mathematicians. This research would serve the national interest by accelerating scientific discovery across fields that depend on advanced mathematics, from quantum computing and cybersecurity to materials science and economics. It will also produce new techniques for training AI systems with limited high-quality data, a challenge that extends far beyond mathematics, such as scientific discovery research, medical diagnosis, and national defense applications. The project will also strengthen American competitiveness in AI by training the next generation of researchers through new coursework and mentorship programs, while making all developed tools freely available to the broader scientific community.\r\n\r\nThis project addresses a fundamental limitation in automated theorem proving: while current large language models (LLMs) can solve International Mathematical Olympiad problems and college-level theorems, they remain unable to prove graduate-level theorems or tackle conjectures that challenge world-class mathematicians. The hypothesis is that existing AI systems are fundamentally different from how mathematicians develop expertise, which is through collaborative ecosystems with diverse roles and cross-field knowledge transfer. The project\u2019s goal is to train multiple LLMs to simulate the mathematicians' learning, ideation, specialization, interaction, and cross-pollination process. Furthermore, they will enhance these neural models\u2014which are good at capturing human intuition and insights\u2014with software tools such as search and Python executors, in a computationally efficient manner, enabling AI to surpass human capabilities. Concretely, the project has the following three thrusts. In Thrust 1 (Learning Roles of Mathematicians), LLMs will be trained to take on various roles, such as conjecturers, provers, reviewers, agenda setters, and synthesists, while providing supervising signals to each other. In Thrust 2 (Specialization, Cross-Field Unification, and Knowledge Transfer), expert models will be trained using customized state representations and design higher-level or merged provers that address more general mathematical problems by leveraging the efficiency of the individual provers in a unified framework. Finally, in Thrust 3 (Scalable Serving and Training Systems), the project will innovate various efficiency optimization techniques for inference-time search, reward assignments, and high-throughput serving infrastructure. The expected contributions include an AI theorem-proving tool that transforms mathematical research by enabling a systematic way to explore and validate complex proofs across disciplines. This tool could accelerate mathematical discovery, providing a powerful mechanism for testing, validating, and extending mathematical knowledge. Moreover, the findings on learning from limited data and the ecosystem of AI-based mathematicians can be generalized to other adjacent domains, such as physics and computer science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Azalia",
+   "pi_last_name": "Mirhoseini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Azalia Mirhoseini",
+   "pi_email_addr": "azalia@stanford.edu",
+   "nsf_id": "0000A0JZM",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lexing",
+   "pi_last_name": "Ying",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lexing Ying",
+   "pi_email_addr": "lexing@stanford.edu",
+   "nsf_id": "000148894",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tengyu",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tengyu Ma",
+   "pi_email_addr": "tengyuma@stanford.edu",
+   "nsf_id": "000784440",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "287800",
+   "pgm_ele_name": "Special Projects - CCF"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  },
+  {
+   "pgm_ele_code": "748400",
+   "pgm_ele_name": "IIS Special Projects"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

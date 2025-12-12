@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451320",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I:  Two-stage Causal AI modeling for Causally-Aware, Edge-Deployable Healthcare AI",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924392",
+ "po_email": "amonk@nsf.gov",
+ "po_sign_block_name": "Alastair Monk",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 304929.0,
+ "awd_amount": 304929.0,
+ "awd_min_amd_letter_date": "2025-04-30",
+ "awd_max_amd_letter_date": "2025-04-30",
+ "awd_abstract_narration": "The broader impact /commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of new Artificial Intelligence (AI) models that may be capable of human-like causal understanding and reasoning. These algorithms could be more trustworthy and accurate than existing AI due to the integration of causal understanding, making them useful for applications in healthcare where the reliability of modern AI is problematic. Furthermore, using causal information to construct these Causal AI models will enable the creation of smaller, less computationally intensive versions of AI that can be used on devices such as smartphones and embedded computers in medical devices that can operate without a central server. This will make AI technologies more generally available for use in medical applications, as well as enable AI to be used in applications where a device may need to operate in a stand-alone mode for privacy and/or reliability reasons, such as to avoid transmitting private data to a central AI server or in a field or emergency situation where connecting to a central server is not possible.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project is intended to create a methodology in Healthcare for creating and utilizing Artificial Intelligence models that comprehend and utilize formal casual logic (e.g. in the form of Directed Acyclic Graphs and/or Structural Causal Models) to overcome the fundamental limitations of statistically-based AI algorithms such as Large Language Models (LLMs). By using causal information, these AI models will provide reliable, traceable, and human-comprehensible analytics and decision-making that outperforms existing approaches in accuracy and trustworthiness. These improvements may make Casual AI models suitable for use in high-trust healthcare applications. In addition, this project will investigate leveraging causal information to produce smaller edge-deployable causal AI models that can be deployed on devices that need to operate in a stand-alone mode for privacy and/or reliability reasons, such as to avoid transmitting private data to a central AI server or in a field or emergency situation where connecting to a central server is not possible, thus expanding the usability of casual AI to many situations where server-based AI solutions are impractical or impossible to use.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ganapati",
+   "pi_last_name": "Srinivasa",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ganapati Srinivasa",
+   "pi_email_addr": "gans@causalit.ai",
+   "nsf_id": "000739202",
+   "pi_start_date": "2025-04-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "CAUSALIT LLC",
+  "inst_street_address": "1020 SW TAYLOR ST STE 550",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5035022557",
+  "inst_zip_code": "972052527",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OR01",
+  "org_lgl_bus_name": "CAUSALIT LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V21ARAZPML98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "CAUSALIT LLC",
+  "perf_str_addr": "1020 SW TAYLOR STREET",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972052527",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OR01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8023",
+   "pgm_ref_txt": "Health Care Enterprise Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304929.0
+  }
+ ],
+ "por": null
+}

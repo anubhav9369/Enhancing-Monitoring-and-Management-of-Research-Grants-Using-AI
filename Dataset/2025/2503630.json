@@ -1,0 +1,114 @@
+{
+ "awd_id": "2503630",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Sub-Shot-Noise Limited Distributed Quantum Sensing on a Commercial Metro-Scale Quantum Network via Deep-Learning-Aided Noise Suppression",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 447621.0,
+ "awd_amount": 447621.0,
+ "awd_min_amd_letter_date": "2025-05-29",
+ "awd_max_amd_letter_date": "2025-05-29",
+ "awd_abstract_narration": "This project explores how quantum technology can improve the way we measure and detect small changes in our environment, such as temperature shifts, pollution levels, or even tiny vibrations, across large areas like cities. Researchers at the University of Tennessee at Chattanooga will use a special kind of light, a so-called \"squeezed light\", to create a network that senses these changes more precisely than current methods allow. By testing this innovative approach on a real-world fiber-optic network in Chattanooga, built in collaboration with industry partners like the Electric Power Board (EPB) and IonQ, Inc., the project demonstrates how quantum science can move beyond laboratory experiments into practical, everyday use. Imagine a system so sensitive it could help monitor air quality in neighborhoods or ensure clocks worldwide stay perfectly in sync; those are the kinds of possibilities this work opens up. This effort funded by NSF will push scientific boundaries while offering real-world benefits. Beyond the technology, the project trains students and professionals in cutting-edge skills, preparing them for future careers in quantum information science and engineering. It also strengthens ties between universities and local industries, showing how federal investment can spark innovation, improve lives, and inspire the next generation to tackle big challenges with creative solutions.\r\n\r\nThis research focuses on achieving sub-shot-noise-limited (sub-SNL) distributed quantum sensing using continuous-variable (CV) entanglement on a commercial metropolitan-scale quantum network. The team will construct a table-top CV-entangled network utilizing two-mode squeezed states, generated through four-wave mixing in atomic rubidium-85 vapor, to measure distributed phase shifts with sensitivity surpassing classical limits. Deep learning, specifically Q-learning, which is a reinforcement learning technique, will be employed to suppress excess noise without requiring pilot tones or training sequences, by adapting similar noise mitigation strategies from CV quantum key distribution (CV-QKD). This approach leverages homodyne detection and real-time phase estimation to optimize local oscillators across the network, addressing noise introduced by beam splitters and environmental interactions. A single-mode squeezed light source at the telecom wavelength of 1570 nm will extend this methodology to the EPB Bohr-IV Quantum Network, a software-reconfigurable fiber-optic infrastructure deployed by IonQ, Inc., featuring a hybrid ring/spoke topology with scalable quantum nodes. The project\u2019s intellectual significance lies in its novel integration of machine learning (ML) with CV quantum sensing, offering the first practical demonstration of sub-SNL distributed sensing on a deployed commercial metro-scale quantum network. Through partnerships with Arizona State University and industry collaborators like EPB and IonQ, Inc., this work advances quantum information science and engineering, providing a scalable framework for future quantum networking applications and contributing to both theoretical and experimental progress in the field.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tian",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tian Li",
+   "pi_email_addr": "tian-li@utc.edu",
+   "nsf_id": "000897046",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Donald",
+   "pi_last_name": "Reising",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Donald Reising",
+   "pi_email_addr": "Donald-Reising@utc.edu",
+   "nsf_id": "000678455",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Chattanooga",
+  "inst_street_address": "615 MCCALLIE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHATTANOOGA",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "4234254431",
+  "inst_zip_code": "374032504",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "TN03",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "RZ1YV5AUBN39",
+  "org_uei_num": "JNZFHMGJN7M3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Chattanooga",
+  "perf_str_addr": "615 MCCALLIE AVE",
+  "perf_city_name": "CHATTANOOGA",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "374032504",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "TN03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "154E",
+   "pgm_ref_txt": "Computat systems & security"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 447621.0
+  }
+ ],
+ "por": null
+}

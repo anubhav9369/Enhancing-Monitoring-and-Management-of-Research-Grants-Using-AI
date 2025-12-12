@@ -1,0 +1,134 @@
+{
+ "awd_id": "2446130",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CS2: Modular Verification of Scientific Software using Model Checking, Symbolic Execution, and Abstraction",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-05-29",
+ "awd_max_amd_letter_date": "2025-05-29",
+ "awd_abstract_narration": "Software plays an increasingly important role in scientific discovery and innovation. Nuclear fusion, quantum science, space exploration, cancer research, and biotechnology are just a few of the many scientific disciplines benefitting from software. However, like all software, programs used in science may contain defects (\"bugs\") --- errors in the code or mistaken assumptions ---that can render the output erroneous. Consequently, developers of scientific software expend significant effort debugging their code, reducing their productivity. Worse, some defects evade even the most extensive debugging efforts. This project is developing tools to help developers easily find subtle defects in their code and even verify (under reasonable assumptions) that the code is defect-free. The project's novelties are: a new modular approach to the specification of program components based on simple mathematical abstractions that are familiar to scientists; simple-to-use, automated methods to verify a program component adheres to its specification (or report a defect when it does not); and the application of these techniques to two state-of-the-art scientific software packages. The project's impacts are, first, the advancement of software verification technology generally, which can reduce development costs and increase software quality throughout industry, government laboratories, and academia. Second, improving public confidence in the soundness of conclusions based on scientific software. Third, the training of students and scientists in the use of advanced verification techniques, contributing to a cultural change in the way scientific software is constructed. \r\n\r\nThese advances are based on new symbolic execution techniques implemented in the CIVL model checker. Libraries are being developed to support abstract mathematical concepts such as \"vector\" and \"matrix\". Symbolic \"representation functions\" are used to tie these abstractions to the significantly more complex data structures in a scientific program. Such a function consumes a data structure (which may be distributed across multiple processes) in the program and returns the abstract construct represented by that structure. This allows the user to specify correctness properties on the abstract level while the model checker verifies that the program structures implement the abstract operations correctly. Model checking techniques are used to verify concurrent algorithms, such as those expressed using Message Passing Interface (MPI), OpenMP, or Compute Unified Device Architecture (CUDA). These techniques are being applied to select components of PETSc, a widely used numerical linear algebra library and core component of numerous software projects, and to Flash-X, a state-of-the-art multiphysics simulation system used in astrophysics and other scientific disciplines.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stephen",
+   "pi_last_name": "Siegel",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stephen F Siegel",
+   "pi_email_addr": "siegel@udel.edu",
+   "nsf_id": "000264334",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Anshu",
+   "pi_last_name": "Dubey",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anshu Dubey",
+   "pi_email_addr": "adubey@anl.gov",
+   "nsf_id": "000349899",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jan",
+   "pi_last_name": "Hueckelheim",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jan C Hueckelheim",
+   "pi_email_addr": "jhueckelheim@anl.gov",
+   "nsf_id": "0000A0QV7",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Junchao",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Junchao Zhang",
+   "pi_email_addr": "jczhang@anl.gov",
+   "nsf_id": "0000A0QVJ",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Delaware",
+  "inst_street_address": "550 S COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "3028312136",
+  "inst_zip_code": "197131324",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "UNIVERSITY OF DELAWARE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "T72NHKM259N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Delaware",
+  "perf_str_addr": "220 HULLIHEN HALL",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "DE",
+  "perf_st_name": "Delaware",
+  "perf_zip_code": "197160099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DE00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "307Y00",
+   "pgm_ele_name": "Correct SciComp Systems (CS2)"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

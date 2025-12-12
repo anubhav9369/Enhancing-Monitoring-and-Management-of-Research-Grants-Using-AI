@@ -1,0 +1,114 @@
+{
+ "awd_id": "2507597",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Fellowship Award",
+ "awd_titl_txt": "Postdoctoral Fellowship: SPRF: Characterizing Children's Language Processing Across Development",
+ "cfda_num": "47.075",
+ "org_code": "04010000",
+ "po_phone": "7032927376",
+ "po_email": "jwmirand@nsf.gov",
+ "po_sign_block_name": "Josie Welkom Miranda",
+ "awd_eff_date": "2026-01-15",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 160000.0,
+ "awd_amount": 160000.0,
+ "awd_min_amd_letter_date": "2025-08-25",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "Under the sponsorship of Dr. Roger Levy at Massachusetts Institute of Technology, this postdoctoral fellowship award supports an early career scientist using computational models to understand children's language processing. It is important for children to understand spoken language and learn how to read. Understanding language involves different skills like recognizing a word, putting words together into a sentence, and understanding the overall meaning. Most reading research has looked at two things: how children recognize words and how they understand the big picture. We don't know as much about how children put words together, even though this is a key part of using language. In this project, we are studying how quickly children can put words together as they read. We are designing a web-based task to measure how quickly children read each word in a sentence, to determine when words are easier or harder for each child to understand. We will collect reading times from children reading stories and use AI language models to model how children\u2019s language abilities change over development. The proposed work will make new connections between developmental psychology and computational psycholinguistics while furthering our understanding of both fields. This project has the potential for broad societal impact by providing tools for educational research, generating open resources, and informing educational interventions.\r\n\r\nWe are developing an incremental reading task (Maze) into a scaleable, web-based measure for collecting word-by-word reading times from children and building a dataset of children\u2019s reading times. We will build a computational model of the functional relationship between word frequency, word predictability, and children\u2019s processing effort to determine what model best captures change across development. We will then extend the framework to incorporate syntactic parsing and re-analysis by collecting reading time data on targeted syntactic constructions, adding syntactic predictors to the computational model, and testing it on the new dataset. By implementing an incremental processing method, we will address the current methodological challenges and collect data to measure quantitative relationships between predictors and processing time in children, thus addressing theories about language acquisition and sentence processing mechanisms\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SMA",
+ "org_div_long_name": "SBE Office of Multidisciplinary Activities",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Veronica",
+   "pi_last_name": "Boyce",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Veronica Boyce",
+   "pi_email_addr": "",
+   "nsf_id": "0000A1LPC",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Roger",
+   "pi_last_name": "Levy",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Roger P Levy",
+   "pi_email_addr": "",
+   "nsf_id": "000508659",
+   "pi_start_date": "2025-08-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Boyce, Veronica",
+  "inst_street_address": "",
+  "inst_street_address_2": "",
+  "inst_city_name": "Stanford",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "",
+  "inst_zip_code": "94305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "",
+  "org_prnt_uei_num": "",
+  "org_uei_num": ""
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": null,
+  "perf_city_name": "Cambridge",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394307",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "040Y00",
+   "pgm_ele_name": "(SPRF-FR) SBE Postdoctoral Res"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7137",
+   "pgm_ref_txt": "POSTDOCTORAL FELLOWSHIPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 160000.0
+  }
+ ],
+ "por": null
+}

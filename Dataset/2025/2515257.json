@@ -1,0 +1,105 @@
+{
+ "awd_id": "2515257",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Quantifying the Benefits of IoT-AI Optimization Frameworks for Reducing Combined Sewer Overflows: A Study of Two Real-World Sewer Systems",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927858",
+ "po_email": "cjiang@nsf.gov",
+ "po_sign_block_name": "Sunny  Jiang",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 420000.0,
+ "awd_amount": 420000.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "Sewer overflows are a serious threat to public health and the environment, causing contamination of drinking water, beach closures, and property damage. These overflows often happen during heavy rainfall when sewer systems are overwhelmed and spill into streets and waterways. This research aims to address sewer overflows by using artificial intelligence (AI) to predict and prevent them. By combining real-time data from sensors with advanced AI models, the project will help cities manage their sewer systems more effectively and stop overflows before they happen. This approach can reduce cleanup costs and make sewer systems run more efficiently. Preventing sewer overflows also keeps harmful pollutants from reaching rivers and oceans, ensuring cleaner water for drinking and recreation. As urban areas continue to grow, upgrading sewer systems has become even more important. Through AI, this project helps cities respond to changing conditions and manage health risks. The results of this research will be shared with government agencies, utility companies, and researchers for managing sewer systems. These technologies will give engineers and city planners the tools they need to fix and upgrade sewer systems, lower the chances of overflows, and protect the environment.\r\n\r\nCombined Sewer Overflows (CSOs) pose serious risks to both public health and the environment, requiring intelligent, data-driven solutions for effective prediction and mitigation. While artificial intelligence (AI) and machine learning (ML) offer transformative potential for optimizing sewer system operations, their practical deployment remains hindered by key technical barriers: insufficient guidance on the optimal spatial density and placement of Internet of Things (IoT) sensors for capturing unsteady hydraulic behavior; limited methods for distinguishing between physical events and sensor-related anomalies; and a lack of comprehensive field-scale studies validating AI/ML applications in operational settings. The goal of this proposal is to develop an integrated AI-based optimization framework that unifies IoT sensing, physics-based hydraulic modeling, and scalable ML algorithms to support proactive, system-wide CSO management. The research is structured around three core objectives: (1) identifying sensor configurations that balance spatial coverage with cost-efficiency; (2) developing high-precision anomaly detection algorithms that isolate non-physical noise from genuine hydraulic events; and (3) empirically evaluating AI and ML performance in mitigating CSOs across diverse operational conditions. Field deployments in two urban sewer networks, enhanced by high-resolution Computational Fluid Dynamics (CFD) simulations, will inform sensor deployment strategies and refine flow prediction models. AI-enhanced anomaly detection will improve data reliability, while ML models trained on heterogeneous datasets will enable accurate, real-time forecasts of CSO volumes and locations. Key deliverables include open-source, AI-physics hybrid modeling tools, advanced anomaly detection techniques, and a field-validated assessment of AI\u2019s role in enhancing the resilience of urban wastewater infrastructure. Project outcomes will be disseminated through technical workshops and open-access digital platforms, fostering widespread adoption of AI-driven sewer management solutions and advancing the state of smart urban water systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Arturo",
+   "pi_last_name": "Leon",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Arturo S Leon",
+   "pi_email_addr": "arleon@fiu.edu",
+   "nsf_id": "000588645",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Zeda",
+   "pi_last_name": "Yin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zeda Yin",
+   "pi_email_addr": "zyin@fiu.edu",
+   "nsf_id": "0000A0TJP",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida International University",
+  "inst_street_address": "11200 SW 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MIAMI",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3053482494",
+  "inst_zip_code": "331992516",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "FL26",
+  "org_lgl_bus_name": "FLORIDA INTERNATIONAL UNIVERSITY",
+  "org_prnt_uei_num": "Q3KCVK5S9CP1",
+  "org_uei_num": "Q3KCVK5S9CP1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida International University",
+  "perf_str_addr": "11200 SW 8TH ST",
+  "perf_city_name": "MIAMI",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "331992516",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "FL26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144000",
+   "pgm_ele_name": "EnvE-Environmental Engineering"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 420000.0
+  }
+ ],
+ "por": null
+}

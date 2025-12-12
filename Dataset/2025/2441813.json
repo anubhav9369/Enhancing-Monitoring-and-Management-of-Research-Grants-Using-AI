@@ -1,0 +1,154 @@
+{
+ "awd_id": "2441813",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Damage control in ReAl alloys: from fundamental understanding to microstructure-sensitive design of intermetallic-containing Recycled Aluminum alloys",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922937",
+ "po_email": "jmadison@nsf.gov",
+ "po_sign_block_name": "Jonathan Madison",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2030-01-31",
+ "tot_intn_awd_amt": 579723.0,
+ "awd_amount": 108067.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "PART 1:   NON-TECHNICAL SUMMARY \r\nRecycling aluminum alloys offers significant energy savings and reductions in carbon dioxide emissions compared to primary extraction from ore. Yet, closed-loop recycling is hindered by the high impurity content in post-consumer scrap and the tight compositional bounds of commercial alloys, leading to either downcycling of scrap or its dilution with primary metal. To minimize the use of non-renewable and carbon-intensive primary aluminum, this project is identifying the chemical limits of scrap-related impurities that can be tolerated without sacrifices to mechanical performance. To this end, a combination of experiments, simulations, and machine learning are employed to elucidate how impurities impact the microscopic structure of alloys and their mechanical behavior across length scales. The insights sought in this project have the potential to significantly reduce the carbon footprint of aluminum alloys and maximize their reuse in advanced structural components. Although focused on aluminum alloys, the developments of this project are applicable to the design of a broader range of advanced structural alloys, such as steels. \r\n\r\nPART 2:   TECHNICAL SUMMARY \r\nThis project is investigating how damage depends on the composition and microstructure of aluminum alloys with a high content of scrap-related impurities. The goal is to establish compositional limits that identify alloys suitable for wrought applications and to understand the corresponding transitions in the damage behavior. In pursuit of this goal, the project is integrating experiments, crystal plasticity simulations, and multimodal machine learning. The experiments aim to elucidate the interplay among intermetallic compounds (IMCs), polycrystalline microstructure, dislocation content, and damage as a function of composition and processing. Crystal plasticity finite element simulations are exploring how void nucleation, growth, and coalescence depend on the microstructure with a focus on spatial, size, and shape distributions of IMCs. Data from these simulations are being used to calibrate an efficient machine learning model to capture the microstructure dependence of damage evolution under loading. Additionally, the project is developing a language-image model to predict microstructure as a function of composition and processing in aluminum alloys. Together, these models are seeking the compositional limits of multicomponent aluminum alloys with damage behavior suitable for high-performance applications. Beyond research, the project is developing an educational program to promote computational literacy among materials science students and contribute to interdisciplinary materials workforce by attracting applied mathematics students to the field of materials science. In aggregate, this project is thereby supporting NSF\u2019s goals of helping to produce a next generation STEM workforce while also pursuing science at the frontiers of such grand challenges as sustainability, resource stewardship and accelerated, intelligent materials design as called for by the Materials Genome Initiative.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Marat",
+   "pi_last_name": "Latypov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Marat Latypov",
+   "pi_email_addr": "latmarat@arizona.edu",
+   "nsf_id": "000871806",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arizona",
+  "inst_street_address": "845 N PARK AVE RM 538",
+  "inst_street_address_2": "",
+  "inst_city_name": "TUCSON",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "5206266000",
+  "inst_zip_code": "85721",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "AZ07",
+  "org_lgl_bus_name": "UNIVERSITY OF ARIZONA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ED44Y3W6P7B9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arizona",
+  "perf_str_addr": "1235 E. James E. Rogers Way",
+  "perf_city_name": "TUCSON",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "857210012",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "AZ07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "177100",
+   "pgm_ele_name": "METAL & METALLIC NANOSTRUCTURE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8249",
+   "pgm_ref_txt": "Sustainable Materials"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "062Z",
+   "pgm_ref_txt": "Harnessing the Data Revolution"
+  },
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 108067.0
+  }
+ ],
+ "por": null
+}

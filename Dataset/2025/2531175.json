@@ -1,0 +1,106 @@
+{
+ "awd_id": "2531175",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FET: Small: Non-Boolean computer based on dynamical Ising machines",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "The exponential growth of amorphous data needed to solve real-time industrial and commercial problems is rapidly outpacing the sluggish advancements of Silicon technology, thereby warranting discoveries of revolutionary non-Boolean architectures and algorithmic paradigms.    This project tackles these emerging challenges by exploring, enhancing, and utilizing novel quantum-inspired architecture, relaxation based dynamical Ising machines (RDIM), which introduce a new   approach to representing and solving data-processing problems. The research will lay the foundations for a full-range implementation of a novel computational platform, from specialized low-level hardware implementations to human and programming interfaces. This initiative will drive innovations of new algorithms and problem-solving approaches. Furthermore, the research will be integrated with education, training, and workforce development activities, as well as outreach activities with industries to create a pathway for technology transfer.\r\n\r\nThe capabilities of the architecture advanced within the project stem from the computational significance of the lowest-energy state of classical spin networks (classical Ising model). Consequently, a key characteristic of architecture is the ability to reliably and quickly reach the desired state. To meet this requirement, the project prioritizes developing methods and techniques that ensure the delivery of high-quality solutions. These techniques will be employed within the project to develop general-purpose and specialized algorithms that leverage the unique properties of the novel architecture for solving real-time optimization and data-processing problems in industrial and commercial applications. Additionally, the core architecture will be enhanced by incorporating a hierarchy of higher (beyond binary) spins, thereby improving performance of the machine while solving complex optimization problems. The project will broaden efficient applications of the non-Boolean architecture by developing a framework for incorporating optimization and data-processing constraints directly into the dynamics of the Ising machine.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pinaki",
+   "pi_last_name": "Mazumder",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pinaki Mazumder",
+   "pi_email_addr": "mazum@eecs.umich.edu",
+   "nsf_id": "000309312",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE STE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091015",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  },
+  {
+   "pgm_ref_code": "086Z",
+   "pgm_ref_txt": "Neuromorphic Computing"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

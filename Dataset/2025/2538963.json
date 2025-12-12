@@ -1,0 +1,134 @@
+{
+ "awd_id": "2538963",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: DMREF: Data-Driven Prediction of Hybrid Organic-Inorganic Structures",
+ "cfda_num": "47.049, 47.084",
+ "org_code": "03070000",
+ "po_phone": "7032927766",
+ "po_email": "jschluet@nsf.gov",
+ "po_sign_block_name": "John Schlueter",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 346684.0,
+ "awd_amount": 286822.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Non-technical Description: Hybrid Organic Inorganic Structures (HOIS), specifically in the form of metal-halide perovskites, have recently attracted much attention due to unprecedented performance advancements in solar cells, light emitting diodes, as well as emerging applications in transistors, sensors, spintronics and catalysts. The extremely wide chemical and structural space engendered by hybrid organic-inorganic systems presents both exciting opportunities for property tunability, but also substantial challenges associated with the laborious process of exploring this wide space for suitable structures for a given application. This project aims to strongly accelerate structure prediction within the HOIS space through exploitation of recently curated X-ray structure databases, molecular dynamics simulation, machine learning (ML), synthetic and structural studies in an iterative feedback loop. The research will provide critical insights into composition-structure relationships, including the preferred structural dimensionality, distortions in the inorganic lattice, relative stabilities of different perovskite-like structures, and the underlying molecular features. The outcome will be the rapid prediction of hybrid organic-inorganic perovskite-type structures from the starting materials, which is essential to optimize optical, electronic and spin properties for a wide range of applications. Approximately one thousand new HOIS will be explored, more than doubling the range of known structures. External collaborations with federal partners at the Air Force Research Laboratory and at the National Renewable Energy Laboratory will test applications of newly synthesized structures and theoretical models. The team includes four Principal Investigators at three universities, including New Mexico Highlands University, a Hispanic-serving institution. The project will train undergraduate, graduate, and PhD-level researchers, including under-represented minorities and females. The PIs also plan to organize symposia at national meetings to disseminate the results and engage further experts in this activity. \r\n\r\nTechnical Description: This research will utilize approximately 1000 reported crystal structures in multiple HOIS databases and molecular dynamics simulations with the INTERFACE force field to inform descriptors and train ML algorithms to predict the relative stability and dimensionality of crystal structures, structural features such as distortions between adjoining octahedra, and lattice parameters. The tools will then be applied to predict the structure of ~1000 yet unknown perovskite compositions in an iterative feedback loop with synthesis and characterization, expecting at least 10 times acceleration relative to serial experimental discovery. Iterations in synthesis, characterization, modeling, and database development will significantly increase the number of known HOIS and elucidate the role of critical intermolecular interactions such as multipolar charge distributions, atomic radii, \u03c0-stacking, unusual hydrogen bonds, and chirality of building blocks for the crystal structure and relative stability of HOIS polymorphs. The activity will address a grand challenge in materials science, which consists in obtaining weighted descriptors for precise structural control of HOIS and relationships to crystal growth. The effort will bring together experts and co-advised students across the fields of materials science, chemistry, computation, and data science for accelerated creation of knowledge by Harnessing the Data Revolution and convergent multidisciplinary research. The descriptors, ML algorithms, and training data for structure prediction will be openly shared, taking multiple structure databases, cyberinfrastructure tools, and computing resources to the next level. New database entries, ML algorithms, iteratively improved force field parameters, and experimental techniques can be used for HOIS beyond the scope of this project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hanna",
+   "pi_last_name": "Terletska",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hanna Terletska",
+   "pi_email_addr": "Hanna.Terletska@mtsu.edu",
+   "nsf_id": "000776110",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Middle Tennessee State University",
+  "inst_street_address": "1301 E MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "MURFREESBORO",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6154947848",
+  "inst_zip_code": "371320001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "TN04",
+  "org_lgl_bus_name": "MIDDLE TENNESSEE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "VMWUDBTMF4C9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Middle Tennessee State University",
+  "perf_str_addr": "1301 E MAIN ST",
+  "perf_city_name": "MURFREESBORO",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "371320001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "TN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 219153.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 67668.0
+  }
+ ],
+ "por": null
+}

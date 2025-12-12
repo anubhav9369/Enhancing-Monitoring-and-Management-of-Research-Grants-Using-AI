@@ -1,0 +1,98 @@
+{
+ "awd_id": "2504568",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: NeTS: Medium: Learning Network Dynamics from Data",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924624",
+ "po_email": "amatta@nsf.gov",
+ "po_sign_block_name": "Abraham Matta",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 720000.0,
+ "awd_amount": 720000.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "This collaborative project, involving investigators from the Massachusetts Institute of Technology and the University of Washington, focuses on developing new ways to quickly and accurately predict how computer networks perform. Traditional methods for predicting network behavior either simulate each network event in detail, which is extremely slow, or simplify too much, sacrificing accuracy. This project uses machine learning to build fast yet accurate models of network performance. These models will help operators design better, more efficient networks, improving the reliability and speed of services such as online applications, artificial intelligence, and cloud computing.\r\n\r\nThe intellectual merit of the project lies in its innovative use of machine learning to overcome the trade-offs traditionally faced in network modeling. It is structured into three main research activities. First, it develops models that accurately predict critical performance metrics like latency and packet loss using a large corpus of training data. Second, it creates deep learning models capable of forecasting how network performance evolves over time, especially for dynamic applications whose behavior depends on network performance. Lastly, the project investigates how these learned models can be utilized to optimize network configuration in real-time, ensuring networks consistently meet desired performance objectives despite changing conditions.\r\n\r\nThe broader impacts of this project include benefits to both industry and education. Improved network models can lead to significant enhancements in data center efficiency and quality of service, improving user experience, reducing operational costs, and decreasing environmental impact through reduced energy consumption and electronic waste. Industries such as finance, cloud computing, and large-scale AI will particularly benefit from increased efficiency, reliability and real-time adaptability, reducing outages and enhancing resilience against unexpected conditions. For education, the project will generate open-source educational resources that help students and practitioners better understand network dynamics and performance.\r\n\r\nMore information, along with data, code, and results from this project, will be available online at https://github.com/netiken. The repository and related resources will be actively maintained and updated for at least five years beyond the duration of the project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohammad",
+   "pi_last_name": "Alizadeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohammad Alizadeh",
+   "pi_email_addr": "alizadeh@csail.mit.edu",
+   "nsf_id": "000703497",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 720000.0
+  }
+ ],
+ "por": null
+}

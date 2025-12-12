@@ -1,0 +1,130 @@
+{
+ "awd_id": "2418270",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Medium: Pentimenti - Securing Cloud FPGAs from Analog Temporal Side Channels",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032920000",
+ "po_email": "qyu@nsf.gov",
+ "po_sign_block_name": "Qiaoyan Yu",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2028-11-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2024-12-03",
+ "awd_max_amd_letter_date": "2025-09-19",
+ "awd_abstract_narration": "Cloud service providers offer Field Programmable Gate Arrays (FPGAs) as a time-shared service for efficiently accelerating high-value workloads such as machine learning, genome sequencing, databases, encryption, and other applications with strict security requirements. While the hardware is time-shared between multiple tenants, there is generally believed to be no information leakage between subsequent users since the FPGA bitstream and memories are digitally erased after each tenant\u2019s use. The project studies \u201cFPGA pentimenti\u201d data that leaks between subsequent users through analog effects. The project\u2019s broader significance and importance are developing techniques for securing cloud infrastructure and promoting education and research in FPGA security.\r\n \r\nThis project studies, characterizes, and develops mitigations for FPGA pentimenti. Specifically, this project investigates how data from previous users is leaked via an analog side channel due to bias temperature instability effects. This project establishes bounds of data-recovery capabilities within the cloud FPGA model and identifies effective defenses for all stakeholders. This project also characterizes techniques for extracting FPGA pentimenti. With this knowledge, this project develops mitigations to reduce or eliminate these analog side-channel attacks from the perspective of the manufacturer, cloud provider, and end-user.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Kohlbrenner",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Kohlbrenner",
+   "pi_email_addr": "dkohlbre@cs.washington.edu",
+   "nsf_id": "000837313",
+   "pi_start_date": "2024-12-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ele_code": "919900",
+   "pgm_ele_name": "Unallocated Program Costs"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

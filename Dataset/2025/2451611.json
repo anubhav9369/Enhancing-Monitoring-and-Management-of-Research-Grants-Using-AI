@@ -1,0 +1,98 @@
+{
+ "awd_id": "2451611",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII:OAC:United Learning: Data-Shareable Heterogeneous Distributed Learning",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-01-15",
+ "awd_max_amd_letter_date": "2025-01-15",
+ "awd_abstract_narration": "Many organizations and households possess heterogeneous computing resources, including personal computers, smartphones, and Internet of Things (IoT) devices, many of which often remain underutilized. By harnessing this idle computing power to train deep learning models, the need for additional equipment can be reduced, environmental impacts from manufacturing and electronic waste can be minimized, and sustainability can be promoted. As the prevailing heterogeneous learning framework, Federated Learning does not allow data sharing among devices. However, many applications in smart homes, industrial environments, and institutions could benefit from distributed learning systems that enable data sharing across heterogeneous devices. For example, a hospital can use its existing computers to train a large language model for healthcare services without sending any sensitive health information to an external provider, while the data can be shared internally across these computers to improve model performance. Such systems face challenges, particularly when training complex models, as devices with low computational power are often excluded because they cannot handle the complexity of these models. Efficient data sharing and utilization across heterogeneous devices is another significant hurdle. To address these challenges, United Learning unites all devices in a distributed system to train complex models efficiently while allowing data sharing among devices. This project also contributes to designing new learning modules focused on distributed learning across devices with constrained resources. It offers students direct and practical experience to work with real devices that have limited resources. Such engaging experiences can inspire and support underrepresented minorities in pursuing careers and research in computing.\r\n\r\nUnited Learning aims to integrate low-resource devices into the training of complex deep learning models, handling diverse input modalities and data distribution. The approach consists of two primary components: Knowledge Expansion and Supplementary Exemplar Augmentation. Knowledge Expansion organizes devices into learning groups based on their computational capabilities, with each group training a model that expands progressively as it moves to groups with higher resources. The model expansion may involve adding new neural network blocks for different data modalities or increasing the depth of the model to enhance its expressive power. This iterative process ensures that models evolve toward the desired complex form. Supplementary Exemplar Augmentation addresses efficient data sharing by collecting exemplars from each device and training a Supplementary Exemplar Generator. Supplementary Exemplar Generator generates supplementary exemplars from other devices\u2019 data in a self-supervised manner. These exemplars are sent back to augment each device\u2019s local dataset, improving efficiency by only exchanging representative data. Supplementary Exemplar Augmentation and Knowledge Expansion are integrated, with Supplementary Exemplar Augmentation dynamically generating exemplars during the Knowledge Expansion process, further balancing resource usage and maximizing efficiency. Evaluation includes simulations to assess model performance, on-device prototypes to measure device performance, and real-world system deployment to examine system performance.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaopeng",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaopeng Jiang",
+   "pi_email_addr": "xiaopeng.jiang@siu.edu",
+   "nsf_id": "0000A0X0N",
+   "pi_start_date": "2025-01-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Illinois University at Carbondale",
+  "inst_street_address": "900 S NORMAL AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CARBONDALE",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "6184534540",
+  "inst_zip_code": "629014302",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "IL12",
+  "org_lgl_bus_name": "BOARD OF TRUSTEES OF SOUTHERN ILLINOIS UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Y28BEBJ4MNU7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Illinois University at Carbondale",
+  "perf_str_addr": "900 S NORMAL AVE",
+  "perf_city_name": "CARBONDALE",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "629014302",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "IL12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "026Y00",
+   "pgm_ele_name": "CRII CISE Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

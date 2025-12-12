@@ -1,0 +1,98 @@
+{
+ "awd_id": "2448823",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR Phase II: Pre-Hospital Detection of Large Vessel Occlusion Strokes",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032927069",
+ "po_email": "hahn@nsf.gov",
+ "po_sign_block_name": "Henry Ahn",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 1249995.0,
+ "awd_amount": 1249995.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase II project is to improve health outcomes and reduce disability associated with delays in diagnosis and treatment for large vessel clot strokes (LVOs). Nearly 800,000 people suffer a stroke in the US annually and 40% are left with a permanent disability, with an annual cost of $72 Billion. While LVOs represent 35% of strokes, they are responsible for >95% of disability and mortality.  LVOs require endovascular therapy (removal of the clot by threading a thin catheter through a vein that is then guided under x-ray guidance to the clot) which only comprehensive stroke centers have the capability to perform.  Addressing this challenge with a rapid, accurate stroke triage tool represents a $2 billion commercial opportunity by reducing time to intervention, optimizing patient routing to endovascular-capable centers, and significantly improving outcomes for patients with large vessel occlusions (LVOs), the most devastating type of stroke.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase II project will validate an electroencephalogram (EEG)-based product for emergency personnel to use in the pre-hospital setting for the fast and objective diagnosis of LVO in suspected stroke patients. EEG relies on small scalp sensors that record electrical brain activity. Using comprehensive historical datasets of EEG-data from stroke patients a machine learning model was developed to classify patients into LVO vs non-LVO stroke. This model was then validated with novel EEG data collected at two clinical sites with a resulting sensitivity >94% and specificity >89%. This Phase II project will support expansion of a multi-center study, specifically in the pre-hospital setting, and allow for commercial development of the software algorithm. The project will refine the user experience in the pre-hospital setting and ensure that paramedics can collect high-fidelity data in an ambulance with minimal training. Lastly, the project will explore the utility of our technology for use in other areas of neurological assessment, further validating the specificity of the LVO detection algorithm and expanding use of the technology in the clinic to help doctors identify causes of acute changes in mental status.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ezekiel",
+   "pi_last_name": "Fink",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ezekiel Fink",
+   "pi_email_addr": "efink@hspmgroup.com",
+   "nsf_id": "000857707",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "ASTERION AI INC.",
+  "inst_street_address": "12700 HILLCREST RD STE 147",
+  "inst_street_address_2": "",
+  "inst_city_name": "DALLAS",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "3109759558",
+  "inst_zip_code": "752307105",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "TX24",
+  "org_lgl_bus_name": "ASTERION AI INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EXPQYYQEL9W1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "ASTERION AI INC.",
+  "perf_str_addr": "12700 HILLCREST RD STE 147",
+  "perf_city_name": "DALLAS",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "752307105",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "TX24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537300",
+   "pgm_ele_name": "SBIR Phase II"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "004E",
+   "pgm_ref_txt": "BIOMEDICAL ENG AND DIAGNOSTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1249995.0
+  }
+ ],
+ "por": null
+}

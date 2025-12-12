@@ -1,0 +1,110 @@
+{
+ "awd_id": "2517565",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Medium: Hardware and Software Support for Memory-Centric Computing Systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 333000.0,
+ "awd_amount": 172156.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "Modern data-center applications are becoming increasingly memory-intensive and severely constrained by the limitations of the traditional von Neumann architecture. The emerging hardware ecosystem of Compute Express Link (CXL) opens an unprecedented opportunity to enable a radically new in-memory computing paradigm that can effectively mitigate the von Neumann bottleneck for future memory-centric applications. However, to fully unlock the potential of this emerging technology, several fundamental research challenges must be adequately addressed. This research project takes a holistic and cohesive approach to develop solutions that tackle the challenges head-on, paving the way for the future of in-memory computing infrastructure and fundamentally impacting memory-centric applications. Furthermore, the academic activities in this project extend their impact by providing training opportunities to students, enriching curriculum and classroom teaching, and contributing to educational and outreach initiatives. \r\n \r\nThis project spearheads the fundamental research aimed at overcoming three pivotal challenges that hinder the realization of in-memory computing: fragmented memory resources, insufficient architectural support for memory sharing, and inefficient separation between hardware and software models. Leveraging the emerging CXL technology, this project adopts a systematic design methodology to address these intricate issues. It involves comprehensive efforts spanning multiple layers within the system stack, featuring the development of advanced hardware functionalities, the optimization of memory resource utilization in the system, and the integration of hardware support into general programming platforms to expedite applications. The research undertaken in this project lays the groundwork for fundamental studies that cater to the pressing demands of data-intensive applications in the realm of future memory-centric computing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Feng",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Feng Chen",
+   "pi_email_addr": "fchen25@iu.edu",
+   "nsf_id": "000652127",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Indiana University",
+  "inst_street_address": "107 S INDIANA AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BLOOMINGTON",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "3172783473",
+  "inst_zip_code": "474057000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IN09",
+  "org_lgl_bus_name": "TRUSTEES OF INDIANA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YH86RTW2YVJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Indiana University",
+  "perf_str_addr": "700 N Woodlawn Ave",
+  "perf_city_name": "BLOOMINGTON",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "474083901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7941",
+   "pgm_ref_txt": "COMPUTER ARCHITECTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 172156.0
+  }
+ ],
+ "por": null
+}

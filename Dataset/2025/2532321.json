@@ -1,0 +1,93 @@
+{
+ "awd_id": "2532321",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Ventures in Geometric Combinatorics",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922271",
+ "po_email": "asalerno@nsf.gov",
+ "po_sign_block_name": "Adriana Salerno",
+ "awd_eff_date": "2026-01-15",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 249254.0,
+ "awd_amount": 249254.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Geometric combinatorics deals with the study of geometric objects through their combinatorial structure. Some geometric objects that are of interest are known as polytopes. H.S.M. Coxeter wrote that \u201ca polytope is a geometrical figure bounded by portions of lines, planes, or hyperplanes; e.g., in two dimensions it is a polygon, in three a polyhedron\u201d. Arguably, the foundations for the study of polytopes were laid by the Greeks over two millennia ago, as many can recall their study of what are regarded as Platonic solids. In the 1700\u2019s the study of polytopes heightened with Leonhard Euler\u2019s polyhedral formula, which gave birth to the enumerative geometric combinatorics on the number of faces of polytopes. Almost a hundred and fifty years later, Georg Pick discovered a formula, which calculates the area of a lattice polygon using only its discrete information; this started the study of lattice point enumeration of polytopes. In the 1960s, in an attempt to generalize Pick\u2019s formula to higher dimensions, Eugene Ehrhart started the study of counting the numbers of lattice points in dilations of polytopes, which established Ehrhart theory. Studying a combinatorial object\u2019s associated polytope often reveals intriguing geometric results about the polytope, but the results\u2019 implications about the original combinatorial object (and related objects) is not always well understood. The PI will focus on how geometric results about a polytope can provide information about the original combinatorial object. Throughout the course of this project, the PI will actively involve undergraduate students in the research process. Key initiatives include supporting the Summer@Mudd research program at Harvey Mudd College and establishing the Mathematical Connections Seminar to further engage students in mathematical exploration.\r\n\r\nThis project seeks to derive combinatorial results from geometry and use combinatorics to guide the geometry. The focus is on the geometry and Ehrhart theory of polytopes, particularly the challenge of computing their volume. One approach is to obtain the discrete volume (the Ehrhart polynomial/function), from which the continuous volume can be recovered. In this way, Ehrhart theory serves as a discrete version of integration, measuring a polytope through lattice-point enumeration. This project is centered around the relationship between three fundamental objects in combinatorics and discrete geometry: parking functions, posets, and polytopes. Generalizations of parking functions have been studied from an enumerative perspective by many mathematicians; the PI will work to further solidify the connection between generalized parking functions and polytopes. The PI will also explore the interplay between posets and polytopes, through the valuation polytope. The valuation polytope has not been studied as extensively as other poset polytopes, such as the chain or order polytopes. It has been asked whether the coefficients of the Ehrhart polynomial of valuation polytopes are nonnegative. This question serves as the primary motivation for the PI to undertake a comprehensive study of valuation polytopes. The PI will employ methods from algebraic and geometric combinatorics, polyhedral geometry, and computational experimentation to extend the knowledge of the geometry and Ehrhart theory of combinatorially-defined polytopes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andres",
+   "pi_last_name": "Vindas Melendez",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andres R Vindas Melendez",
+   "pi_email_addr": "avindasmelendez@g.hmc.edu",
+   "nsf_id": "000824100",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Harvey Mudd College",
+  "inst_street_address": "301 PLATT BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLAREMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9096218121",
+  "inst_zip_code": "917115901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "HARVEY MUDD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C76JKA5JY2B3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Harvey Mudd College",
+  "perf_str_addr": "301 PLATT BLVD",
+  "perf_city_name": "CLAREMONT",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "917115901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 249254.0
+  }
+ ],
+ "por": null
+}

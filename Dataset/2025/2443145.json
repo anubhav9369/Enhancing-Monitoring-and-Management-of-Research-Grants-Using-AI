@@ -1,0 +1,130 @@
+{
+ "awd_id": "2443145",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: New Frontiers in Time Series Analysis",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 35878.0,
+ "awd_min_amd_letter_date": "2025-03-13",
+ "awd_max_amd_letter_date": "2025-03-13",
+ "awd_abstract_narration": "Modern time series data present complexities; these complexities, along with the rapidly growing array of new statistical and machine learning (ML) methods, have driven the demand for novel solutions to emerging problems. This CAREER project is driven by three fundamental research questions: (1) How to balance interpretability and accuracy in high-dimensional time series modeling and inference? (2) How to adaptively select time series models in real time for nonstationary data, while managing uncertainty? and (3) How to efficiently combine information from time series data with varying quality? This project aims to advance the field of time series analysis by developing novel statistical models, theories, and inference methods to address these issues. The results of this research will enhance dynamic network inference, facilitate real-time decision-making, and promote the integration of diverse time series data sources. This project will achieve educational impacts by integrating our research with mentoring undergraduate and graduate students, developing courses, and high-school outreach. Additionally, an interdisciplinary time series seminar series will be organized to promote cross-disciplinary interactions and provide students and junior researchers with exposure to diverse research in time series analysis.\r\n\r\nThis project will advance time series analysis on three main fronts: (1) develop Granger causality interpretable, recurrent neural network-based high-dimensional time series models to balance interpretability and accuracy; (2) develop an online, distribution-free procedure for adaptive time series model selection in nonstationary settings, addressing uncertainty via conformal miscoverage rate calibration; and (3) introduce new methods to efficiently combine time series data with different granularities and to impute data under general missing patterns. Underlying this research agenda is our overarching goal to tackle challenges due to the high-dimensionality, nonlinearity, nonstationarity, different granularity, and mixed quality and completeness of modern time series data. With an emphasis on statistical inference, we seek novel solutions by integrating existing statistical frameworks (Granger causality, model confidence sets, and factor models) with contemporary ML approaches (RNNs, model predictive control, and transfer learning). The results developed through our project will advance innovation in time series analysis, bridge the gaps between interpretability, uncertainty quantification, and black-box algorithms, and promote the use of time series data collected from diverse sources.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yao",
+   "pi_last_name": "Zheng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yao Zheng",
+   "pi_email_addr": "yao.zheng@uconn.edu",
+   "nsf_id": "000832820",
+   "pi_start_date": "2025-03-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut",
+  "inst_street_address": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "inst_street_address_2": "",
+  "inst_city_name": "STORRS",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604863622",
+  "inst_zip_code": "062699018",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNTPS995QBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut",
+  "perf_str_addr": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "perf_city_name": "STORRS",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "062699018",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 35878.0
+  }
+ ],
+ "por": null
+}

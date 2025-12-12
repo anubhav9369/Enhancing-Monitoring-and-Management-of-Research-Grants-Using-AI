@@ -1,0 +1,98 @@
+{
+ "awd_id": "2450987",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Unregistered Spectral Image Fusion in Remote Sensing: Foundations and Algorithms",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 320000.0,
+ "awd_amount": 320000.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Remotely sensed spectral images, such as hyperspectral images (HSIs) and multispectral images (MSIs), are widely used across science and engineering fields, including agriculture, oceanography, forest monitoring, mineral discovery, and space exploration. These image modalities involve an inherent trade-off between spatial and spectral resolution: HSIs provide fine spectral detail but coarse spatial resolution, whereas MSIs offer the reverse. Spectral image fusion techniques seek to combine the strengths of both by integrating an HSI and MSI of the same region to produce fused images with high-resolution information in both domains, supporting various tasks such as pixel classification, target identification, and change detection. However, many existing fusion methods operate under the assumption that the spectral images are co-registered (i.e., covering the same region and sharing the same coordinates), whereas in practice the data are often spatially misaligned by pixel shifts, rotations, and other distortions (collectively referred to as \u201cunregistered\u201d), typically arising from differences in sensors or imaging platforms. Despite its fundamental practical importance and considerable interest, the fusion of unregistered spectral images still lacks rigorous theoretical underpinnings and reliable algorithms. This project addresses these gaps by developing new analytical and computational methods to establish a solid theoretical and algorithmic foundation for this long-standing and practically significant problem, enabling performance-guaranteed fusion of unregistered spectral data in real-world scenarios. Beyond remote sensing, the outcomes are expected to benefit areas such as cross-platform medical imaging and domain adaptation/transfer in machine learning. The project also offers undergraduate research opportunities, providing students with training in machine learning, optimization, and image/signal processing.\r\n\r\nThis project develops a unified, unsupervised framework for fusion of unregistered spectral images with provable guarantees, tackling key challenges including spatial misalignment, lack of training data, and nonrigid deformation. Thrust 1 focuses on establishing theoretical foundations by integrating spectral unmixing with adversarial learning through diversified distribution matching in a latent spatial domain, enabling provable spatio-spectral super-resolution under practical, unregistered scenarios. Thrust 2 extends this framework to more complex real-world cases such as those involving unknown and potentially large nonrigid deformations. Thrust 3 develops stable and efficient optimization algorithms for the proposed fusion formulations, tailored to adversarial learning in latent domains and addressing the limitations of standard optimizers. Validation on semi-realistic and real-world datasets is used to assess the robustness and generalizability of the proposed methods. Expected outcomes include new theoretical insights, practical algorithms with convergence guarantees, and reproducible benchmarks to advance unregistered spectral image fusion and its applications in machine learning, signal processing, and scientific imaging.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiao",
+   "pi_last_name": "Fu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiao Fu",
+   "pi_email_addr": "xiao.fu@oregonstate.edu",
+   "nsf_id": "000709147",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 320000.0
+  }
+ ],
+ "por": null
+}

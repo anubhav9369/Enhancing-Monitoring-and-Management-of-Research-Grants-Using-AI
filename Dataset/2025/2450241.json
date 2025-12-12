@@ -1,0 +1,98 @@
+{
+ "awd_id": "2450241",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Elements: FaaSr: Enabling Cloud-native Event-driven Function-as-a-Service Computing Workflows in R",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 439355.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "This project develops FaaSr, a new software that will facilitate the programming and deployment of scientific computing applications written in the R language in Function-as-a-Service (FaaS) cloud computing infrastructures. The FaaS model of cloud computing supports dynamic, on-demand execution of computing functions in servers that are automatically provisioned and managed, in a way that is both cost-effective and scalable: users do not need to manage cloud servers (including on-demand scaling) nor pay for idle time of unutilized servers. The FaaS model thus has much potential for reducing the complexity and cost of performing scientific computing in cloud infrastructures. To date, however, FaaS platforms have been primarily designed to support Web-based applications, resulting in a major gap between existing FaaS platforms and the scientific community. This gap is particularly evident in the environmental sciences, where R is the focal programming language. This is because: 1) there is no native support for the R language in FaaS platforms, and 2) each FaaS platform has a unique interface to deploy and manage workflows consisting of multiple functions, thereby creating barriers for users to develop and deploy applications on one or more FaaS platforms. This project bridges this gap by developing open-source software to accelerate the adoption of event-driven FaaS workflows for scientific applications. The FaaSr software will be distributed as an easy-to-install R package and will provide simple interfaces to programmers, while supporting multiple open-source and commercial cloud computing infrastructures. The software will support a wide range of scientific computing applications, in particular those that require dynamic event-driven processing (such as forecasting and continuous data quality) in environmental science subfields (including ecology and biodiversity). Ultimately, the project aims to develop scalable, generalizable, and robust workflows that will advance the capacity, practice, and training opportunities for ecological forecasting, an active area of scientific research poised to significantly increase predictive capacity for effective environmental decision-making and management. \r\n\r\nThe FaaSr software developed in this project will greatly expand the adoption of FaaS cloud computing infrastructure. Currently, there are significant challenges to be overcome before scientific applications written in the R language can fully realize the potential of FaaS platforms, because R is not supported natively, and because different platforms have different, incompatible programming interfaces. Furthermore, scientific applications require workflows consisting of multiple functions that are executed dynamically and communicate by exchanging data as files in cloud storage. Different FaaS platforms have different programming interfaces to accomplish these capabilities, leading to increased complexity for developers and users. This collaborative, interdisciplinary project overcomes these challenges by integrating expertise in distributed systems, ecology, and forecasting together to design and implement software that: is driven by scientific computing use cases; creates easy-to-use interfaces; and builds on state-of-the-art distributed computing techniques and frameworks. Specifically, the FaaSr software will make multiple novel technical contributions, including: 1) it will allow end users to program a workflow at a high abstraction level and with the R language; 2) it will include a unified, easy-to-use interface for handling event invocation and argument parsing that hides the complexity of programming for multiple FaaS interfaces from developers, while supporting multiple FaaS frameworks, including GitHub Actions, OpenWhisk, IBM Cloud Functions, and Amazon Web Services Lambda; 3) it will include an easy-to-use interface for handling cloud data storage and access that hides low-level details (e.g., access endpoints and credentials) using de-facto standard interfaces and file formats; and 4) it will implement a unified approach to compose directed acyclic graph workflows that can be automatically mapped to programming interfaces supported by different FaaS platforms. Experiences with the design, implementation, and deployment of FaaSr will contribute new techniques and technologies in distributed/cloud computing, with lakes and reservoirs studied as part of this project providing a realistic testbed for assessing performance, extensibility, and availability of the software. Furthermore, the team will build on and expand its existing program for cross-disciplinary research exchanges of undergraduate and graduate students that provide novel training at the intersection of computer science, freshwater science, and ecosystem modeling.\r\n\r\nThis award by the NSF Office of Advanced Cyberinfrastructure is jointly supported by the NSF Directorate for Biological Sciences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Renato",
+   "pi_last_name": "Figueiredo",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Renato J Figueiredo",
+   "pi_email_addr": "renato.figueiredo@oregonstate.edu",
+   "nsf_id": "000286908",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 439355.0
+  }
+ ],
+ "por": null
+}

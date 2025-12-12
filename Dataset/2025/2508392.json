@@ -1,0 +1,93 @@
+{
+ "awd_id": "2508392",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Planning: AI-Ready: Testbed for Optimization of Municipal Governments.",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 102399.0,
+ "awd_amount": 102399.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "The 90,000 different local governments in the USA provide essential services and protections for the American people, including running schools, libraries, and public parks, and delivering front-line services during emergencies. While governments strive for efficient use of time and resources, due to the variety of size, structure, and complexity of local governments, it is currently prohibitively difficult to collect data and study these functions comprehensively. As a result, much of the research into the effectiveness of service delivery focuses on institutions at the federal or state level. This project will improve the capacity for studying local governments service delivery by providing new datasets and tools that make it possible to do comprehensive, comparative research at scale. Doing so will empower local governments with new research at the intersection of public policy, civic engagement, and artificial intelligence.\r\n\r\nThis proposal builds upon the team's current open-source testbed. The long-term vision for the testbed is to facilitate rigorous experimentation through the robust, secure, and safe deployments of AI. To achieve this vision the proposed planning grant will carry out four activities: 1. Prototype safely integrating AI in the current testbed; 2. Convene government staff and researchers across a variety of computational fields to build a research agenda; 3. Govern robust AI deployments to operate safely and manage risk; and, 4. Validate the ability of the prototypes to answer research questions. Collectively, these four activities will lay the foundation for a long-horizon project with the potential to catalyze the study of local government through robust AI. The existing testbed that this project builds on is an open-source software platform that provides federated search and retrieval of data about city councils in multiple major US cities. The project will build upon the current data retrieval and processing capabilities of this testbed by integrating novel AI prototypes - using techniques from machine learning to improve interaction with testbed data, and to produce valuable datasets for research and policymaking.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sabina",
+   "pi_last_name": "Tomkins",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sabina Tomkins",
+   "pi_email_addr": "stomkins@umich.edu",
+   "nsf_id": "000926610",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "341Y00",
+   "pgm_ele_name": "AI-Ready Testbeds"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 102399.0
+  }
+ ],
+ "por": null
+}

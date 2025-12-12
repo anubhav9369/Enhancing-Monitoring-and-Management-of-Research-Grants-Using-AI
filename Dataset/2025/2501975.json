@@ -1,0 +1,93 @@
+{
+ "awd_id": "2501975",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Real-Time Analysis of Communication-Based Attacks on Energy Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 199992.0,
+ "awd_amount": 199992.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Cyberattacks on the energy systems, the backbone of modern society, can cause nationwide disruptions, making them an attractive target for state-sponsored threat actors. This Engineering Research Initiation (ERI) project will analyze the impacts of communication-based cyberattacks targeting the electric grid infrastructure and provide solutions to enhance the security and resilience of the energy sector. The project will bring transformative changes enabling the integrated simulation of both the electric and communication systems. Given the interdependence of these two systems, analyzing them in a unified framework is essential to uncover vulnerabilities that may remain obscured when examined independently. This will be achieved by examining the impact of communication-based cyberattacks on power systems, identifying weaknesses, and formulating strategies for the optimal deployment of secure communication devices. The intellectual merit of the project includes the joint evaluation of the electric and communication systems to identify cybersecurity risks that could compromise grid stability. The resulting insights will strengthen power system design, enhance operational resilience, and thereby contribute to national efforts to improve the security of the critical energy infrastructure. The broader impacts encompass the development of tools that will support the design of cyber-secure power systems, where communication devices play a pivotal role. The research outcomes will enrich academic courses and seminars on power system security, and provide students at the University of Massachusetts Boston with research opportunities, broadening participation in STEM education and nurturing the next generation of cybersecurity-aware power engineers.\r\n\r\nThe integration of information and communication technologies and remotely controlled devices, such as smart inverters, has improved power system efficiency; however, insufficient security in these components has introduced new communication-based attack vectors. Given the interdependence between the physical power grid and the cyber communication network, isolated simulations of these subsystems can overlook critical vulnerabilities emerging from their dynamic cyber-physical interactions. This project employs co-simulation to identify vulnerabilities, evaluate the impact of communication-based cyberattacks, and develop mitigations for these adverse conditions. The research objectives focus on: i) simulating key interconnection points and analyzing operational dependencies of high-risk communication vulnerabilities that could maximize disruptions, ii) creating heatmaps of communication contingencies to inform the deployment of secure communication devices, and iii) developing reconfiguration schemes, e.g., secure communication islands, to support continuous operation during cyberattacks. These insights will guide the development of adaptive and resilient communication architectures to improve the resilience of national power grids, allowing them to withstand and operate effectively even under compromised conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ioannis",
+   "pi_last_name": "Zografopoulos",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ioannis Zografopoulos",
+   "pi_email_addr": "i.zografopoulos@umb.edu",
+   "nsf_id": "0000A00ZQ",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Massachusetts Boston",
+  "inst_street_address": "100 WILLIAM T MORRISSEY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "DORCHESTER",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172875370",
+  "inst_zip_code": "021253300",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MA08",
+  "org_lgl_bus_name": "UNIVERSITY OF MASS AT BOSTON",
+  "org_prnt_uei_num": "CGCDJ24JJLZ1",
+  "org_uei_num": "CGCDJ24JJLZ1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Massachusetts Boston",
+  "perf_str_addr": "100 WILLIAM T MORRISSEY BLVD",
+  "perf_city_name": "DORCHESTER",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021253300",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MA08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199992.0
+  }
+ ],
+ "por": null
+}

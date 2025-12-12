@@ -1,0 +1,93 @@
+{
+ "awd_id": "2452105",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Scott Analysis of Discrete and Continuous Structures",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 109999.0,
+ "awd_amount": 109999.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "Mathematicians study many different mathematical objects, and some of these objects are more complicated than others. Combining ideas from different areas of mathematical logic, from computability theory, descriptive set theory, and infinitary model theory, the Scott analysis is a way of measuring and understanding the complexity of mathematical objects. The Scott analysis is robust in the sense that it captures several different kinds of complexity that all coincide: the complexity of describing an object, the complexity of identifying two copies of an object, and the complexity of an object's internal structure. Though there remain many questions, the Scott analysis has now been well-developed for the case of discrete structures such as many structures appearing in algebra. More recently there has been increasing interest in studying continuous structures such as those appearing in analysis, a setting in which we do not have a robust Scott analysis, as there are further complication which do not arise in the discrete setting. This project will develop a robust Scott analysis in this continuous setting, including applications, while also further applying developing the Scott analysis in the more classical discrete setting. The long-term goals are to give a more rigorous and formal understanding of why certain mathematical questions are difficult or even impossible to solve, and what the barriers are to solving them. This project includes the training of undergraduate and graduate students.\r\n\r\nConsider a discrete structure such as a graph, group, or Boolean algebra. The Scott analysis assigns to this structure an ordinal-valued Scott rank or more finely a Scott complexity. This is robust in the sense that it measures, simultaneously, the complexity of defining the automorphism orbits of the structure, the complexity of characterizing the structure up to isomorphism in infinitary logic, the Borel complexity of the set of copies of that structure in the topological space of all structures, and the computational complexity of building isomorphisms between copies of that structure. This project will develop such a theory in the continuous setting where the structures are metric or topological structures such as Banach spaces or manifolds. The main goal is to develop a bridge between syntactic characterizations in infinitary continuous logic and semantic characterizations in terms of computation or topology and descriptive set theory. Applications of this include studying how the Scott complexity of n-manifolds changes as n increases, or of studying the Scott complexity of Banach spaces and, for example, the impact of whether or not they have a Schauder basis. The project will also include further developments in the discrete setting, both in developing the theory at a finer level and in further applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Harrison-Trainor",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew A Harrison-Trainor",
+   "pi_email_addr": "mht@uic.edu",
+   "nsf_id": "000864344",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 109999.0
+  }
+ ],
+ "por": null
+}

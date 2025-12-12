@@ -1,0 +1,114 @@
+{
+ "awd_id": "2452029",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Automated Model Calibration of Soft Material Fracture from Full-Field Deformation Measurements by Resolving Crack-Tip Inaccuracies",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 453738.0,
+ "awd_amount": 453738.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "Soft materials, including hydrogels, elastomers, and biological tissues, play an essential role in biomedical applications, flexible electronics, and soft robotics. However, understanding their fracture behavior remains a fundamental challenge due to nonlinear deformation and strain localization near crack tips. Current experimental techniques, such as methods based on full-field deformation measurements, provide valuable data but lack the resolution needed to capture localized damage. Additionally, existing computational tools to model fracture fail to efficiently integrate these full-field deformation measurements, leading to predictive inaccuracies. This award supports fundamental research that looks to overcome these limitations by developing an integrated experimental and computational framework for analyzing soft material fracture behavior. The outcomes of this research seek to advance the design of more reliable soft materials, enhancing the durability of medical implants, the resilience of soft robotic components, and the efficiency of energy-absorbing materials. Furthermore, the project looks to contribute to workforce development by integrating research findings into engineering courses, engaging students in interdisciplinary research, and supporting outreach programs to inspire the next generation of scientists and engineers.\r\n\r\nThe objective of this award is to understand and model soft material fracture mechanics from full-field deformation measurements by resolving crack-tip inaccuracies. This research will develop high-resolution experimental methods for tracking crack propagation using improved digital image correlation and digital volume correlation techniques, combined with state-of-the-art machine learning algorithms. These measurements will be used to inversely calibrate phase-field fracture models, enabling precise calibration of material parameters such as stiffness and fracture toughness. The approach will also include development of an automated constitutive modeling framework based on physics-augmented machine learning to refine phenomenological models and minimize model form errors introduced by manual model selection. The modeling scheme will be validated through experiments on brittle hydrogels, demonstrating the effectiveness in capturing complex fracture behavior. By combining experimental and computational approaches, this effort looks to provide a robust framework for soft material fracture analysis, thereby establishing a foundation for future advancements in soft materials and their uses.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jan Niklas",
+   "pi_last_name": "Fuhg",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jan Niklas Fuhg",
+   "pi_email_addr": "jan.fuhg@utexas.edu",
+   "nsf_id": "000951923",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jin",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jin Yang",
+   "pi_email_addr": "jin.yang@austin.utexas.edu",
+   "nsf_id": "000881253",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "9161",
+   "pgm_ref_txt": "SINGLE DIVISION/UNIVERSITY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 453738.0
+  }
+ ],
+ "por": null
+}

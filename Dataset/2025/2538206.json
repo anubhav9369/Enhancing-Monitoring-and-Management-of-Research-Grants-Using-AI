@@ -1,0 +1,102 @@
+{
+ "awd_id": "2538206",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Developing Concept-based Reasoning Approaches for Health",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "The success of deep neural networks (DNNs) and large foundation models such as vision language models (VLMs) and large language models (LLMs) has called for incorporating them in sensitive domains, such as medical applications. However, widespread clinical adoption remains extremely limited. Prototypes of these systems suffer from fundamental problems, such as the black-box nature of AI models; that is, a lack of transparency and interpretability. One critical issue that holds back the widespread adoption of machine learning in healthcare is the lack of accountability in the system's predictions. To make these models useful for healthcare, these systems must be designed with a bedrock of solid accountability and sound rational decisions before focusing on raw performance metrics. This EArly-concept Grant for Exploratory Research (EAGER) project develops concept-based reasoning approaches to improving interpretable DNN model design and improving rationales in large pre-trained models. The concept-based reasoning attempts to learn high-level \u2018concepts\u2019, which are abstract entities that align with human understanding and provide explicit rationales for model predictions to achieve interpretability.\r\n\r\nThis EAGER project conducts two innovative research tasks: (1) Build inherently explainable concept-based DNN Models for Health. Concept learning models attempt to learn high-level concepts, abstract entities that align with human understanding, and thus provide interpretability to DNN architectures. This approach can be effectively utilized in domains such as medical diagnosis where concepts are sometimes undefined, for example, shape of bone in an X-ray where the shape itself is undefined, but a doctor can easily tell it is irregular. (2) Improve the pre-trained foundation models\u2019 trustworthiness by incorporating concepts as structured entities that provide human-understandable reasoning. This task designs a neurosymbolic framework which provides concept-based reasoning through learning visually grounded concepts, linked neurosymbolically through rules. The framework is particularly effective on medical data, which is typically underrepresented in the pre-training of the large VLMs. A hierarchical concept tree structure is designed to provide a symbolic reasoning process through a vast search space created using knowledge banks to improve VLM predictions during inference. This research has the potential to have a significant impact in designing state-of-the-art medical diagnostic systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aidong",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aidong Zhang",
+   "pi_email_addr": "aidong@virginia.edu",
+   "nsf_id": "000341960",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

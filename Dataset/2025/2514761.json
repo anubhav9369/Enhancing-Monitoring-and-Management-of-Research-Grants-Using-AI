@@ -1,0 +1,130 @@
+{
+ "awd_id": "2514761",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Foundations for a Resource-Aware, Cyber-Physical Vehicle Autonomy",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928950",
+ "po_email": "rwachter@nsf.gov",
+ "po_sign_block_name": "Ralph Wachter",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-01-31",
+ "tot_intn_awd_amt": 499968.0,
+ "awd_amount": 332019.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Unmanned Aircraft Systems (UASs), or drones, have tremendous scientific, military, and civilian potential for data collection, monitoring, and interacting with the environment. These activities require high levels of reasoning, perception, and control, and the flexibility to adapt to changing environments. However, like other automated agents, UAS don't possess the ability to refocus their attention or reallocate resources to adapt to new scenarios and adjust performance. This project will provide a new class of control and planning algorithms capable of adjusting performance as computing resources are continually reallocated, such as when transitioning from waypoint navigation to environmental sample collection. A computing framework to make use of freed resources will be developed allowing autonomous agents to focus attention where it is needed, for example, away from navigation and to perception. Together, these will provide a blueprint for making use of similar algorithms with adjustable performance (e.g., anytime algorithms) which can be adapted to other robotics platforms, as well as water, space, or ground vehicles.\r\n\r\nThese technology innovations will improve the ability of agents to learn more, perceive more accurately, collect better data, and respond more appropriately to changing environments and mission objectives. Specific to UAS, this project will help maintain U.S. air superiority goals through agile planning, targeted and persistent Intelligence, Surveillance, and Reconnaissance (ISR), and flexibility and adaptability. The project goals are coupled with outreach and educational activities focused on increasing the understanding of rural populations of the value of investing in scientific and technological research. The educational efforts, targeted at K-12, undergraduate, graduate, and adult engagement are designed to dramatically increase the CPS educational pipeline in the Midwest.\r\n\r\n\r\nThe project focuses on achieving its goals by providing a complete framework for a class of performance-adjustable, resource-aware algorithms called \"co-regulation.\" First, a new modeling and analysis framework, Co-regulated Hybrid Systems (CHS), will provide a mathematical foundation for optimal control, control synthesis, and performance analysis for systems that can dynamically vary sampling rate and other computational resources to adjust performance. Next, using the CHS formalism, computational workload is predicted forming the basis for a novel Co-regulated Real-Time Kernel (CRTK) to dynamically reallocate computing resources while guaranteeing real-time schedule feasibility. Finally, a co-regulated Markov Decision Process (MDP) forms the planning portion of a resource-aware autopilot for adaptable UAS. The system will be implemented in a multi-agent, rainforest monitoring scenario requiring periods of surveillance, sampling of plants, and emplacement of sensors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Justin",
+   "pi_last_name": "Bradley",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Justin M Bradley",
+   "pi_email_addr": "jmbradley@ncsu.edu",
+   "nsf_id": "000695540",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  },
+  {
+   "pgm_ele_code": "791800",
+   "pgm_ele_name": "CPS-Cyber-Physical Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7918",
+   "pgm_ref_txt": "CYBER-PHYSICAL SYSTEMS (CPS)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 209309.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 20000.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 102710.0
+  }
+ ],
+ "por": null
+}

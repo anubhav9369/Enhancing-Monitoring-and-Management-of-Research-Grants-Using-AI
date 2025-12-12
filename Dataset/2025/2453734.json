@@ -1,0 +1,122 @@
+{
+ "awd_id": "2453734",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "GOALI: Advancing a Mechanism-Driven Predictive Model for the Catalyst-controlled Asymmetric Rh(I)-Catalyzed Pauson-Khand Reaction",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032928441",
+ "po_email": "kmoloy@nsf.gov",
+ "po_sign_block_name": "Kenneth Moloy",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 725000.0,
+ "awd_amount": 725000.0,
+ "awd_min_amd_letter_date": "2025-04-11",
+ "awd_max_amd_letter_date": "2025-04-11",
+ "awd_abstract_narration": "With the support of the Chemical Catalysis program in the Division of Chemistry, Professor Kay M. Brummond of the University of Pittsburgh is developing a predictive model for catalyzing the asymmetric Pauson\u2013Khand reaction, a powerful reaction in organic synthesis. Through this GOALI project, scientific expertise and infrastructure at the University of Pittsburgh and Merck, Inc. will be leveraged to create opportunities for the design of more targeted and effective pharmaceuticals. Through an innovative technological process designed to deliver general and effective catalysts, this project will allow for the synthesis of new chemical matter, with the additional potential for widespread improvement of crucial societal ecosystems beyond the discovery and development of new and enhanced pharmaceuticals into improved agrochemicals, organic materials, and natural product synthesis. The proposed process will also serve as a case study for future researchers developing predictive models, supporting better predictive control over other reactions that support the design and synthesis of the complex molecular targets used to improve pharmaceutical options and create new avenues of treatment. This project will provide excellent training for the next generation of experimental and computational chemists, with the expertise provided by this collaboration between the University of Pittsburgh and Merck providing graduate students with the opportunity to expand their technical and professional expertise while gaining knowledge of research questions and future innovations important to drug discovery. \r\n\r\nWith the support of the Chemical Catalysis program in the Division of Chemistry, Professor Kay M. Brummond of the University of Pittsburgh (Pitt) is studying the Advancement of a Mechanism-Driven Predictive Model for the Catalyst-Controlled Asymmetric Rh(I)-Catalyzed Pauson-Khand Reaction (PKR). This project will deliver a predictive model for identifying effective chiral PKR catalysts for specific enynes and with high substrate generality. Key PKR reactivity and selectivity drivers will be realized through a Reaction Development Workflow involving four steps: Existing Knowledge, Dataset Design, Data Collection, and Model Training. The milestones for each step will be achieved through synergetic activities involving co-PIs at Pitt and Merck, Inc utilizing synthesis (e.g., experimental yield and enantiomeric excess data obtained via conventional wet-lab and Merck high-throughput experimentation), computation (e.g., TSs and descriptors obtained via DFT), and data science tools (e.g., multivariate linear regression, random forest models). Computed and experimental descriptors will be used to develop machine learning models to quantitatively predict ee and yield of asymmetric PKRs with different substrates, chiral ligands, and experimental conditions (temperature, solvent, CO concentration). New mechanistic insight will be uncovered on the complex, multi-step process of transition metal-catalyzed PKR, for which the impact of the catalyst and substrate properties on reactivity and selectivity are currently not well understood. Investigations will focus on introducing key stereocenters in non-racemic chiral building blocks for high-value PKRs. Mechanistic insights will improve model performance both by allowing the model to identify the preferred mechanism under a given reaction conditions (i.e., whether a 4-coordinated or 5-coordinated pathway is favored), and by including reaction-specific descriptors that will be more effective to describe catalyst and substrate effects on reactivity and selectivity (e.g., substrate binding energy, ligand/CO exchange energy, and ligand dispersion descriptors). Predictive models for a catalyst-controlled Rh(I)-catalyzed asymmetric PKR of enynes will deliver a unique and reliable way to synthesize chiral non-racemic cyclopentenones and enable widespread integration into crucial societal ecosystems such as the discovery and development of pharmaceuticals, agrochemicals, organic materials, and natural product synthesis. The complexity of the Rh(I)-catalyzed asymmetric PKR make it an ideal case study for the development of predictive models for reactivity and selectivity; this work will provide a foundation for mechanism-driven model development for other transition metal-catalyzed asymmetric carbocyclizations, promoting inclusion of these complexity-generating transformations in the design and synthesis of complex molecular targets.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kay",
+   "pi_last_name": "Brummond",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kay M Brummond",
+   "pi_email_addr": "kbrummon@pitt.edu",
+   "nsf_id": "000406164",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peng",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peng Liu",
+   "pi_email_addr": "pengliu@pitt.edu",
+   "nsf_id": "000698041",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jamie",
+   "pi_last_name": "McCabe Dunn",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jamie M McCabe Dunn",
+   "pi_email_addr": "jamie.mccabe.dunn@merck.com",
+   "nsf_id": "000961498",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pittsburgh",
+  "inst_street_address": "4200 FIFTH AVENUE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4126247400",
+  "inst_zip_code": "152600001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MKAGLD59JRL1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pittsburgh",
+  "perf_str_addr": "4200 FIFTH AVENUE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152600001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688400",
+   "pgm_ele_name": "Chemical Catalysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1504",
+   "pgm_ref_txt": "GRANT OPP FOR ACAD LIA W/INDUS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 725000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2529672",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Multiscale Physics-Based, Data-Driven Studies of Ammonia Combustion Kinetics",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927281",
+ "po_email": "hchellia@nsf.gov",
+ "po_sign_block_name": "Harsha Chelliah",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 429999.0,
+ "awd_amount": 429999.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "Predictive modeling can accelerate the design of fuel-efficient, fuel-flexible engines important to a robust energy future, industry competitiveness, and a resilient national defense.  To meet these needs, models must accurately represent the key reactions that occur during combustion of the fuel inside the engine.  Such models would be especially useful for ammonia, a fuel of significant recent interest with unusual combustion characteristics.  However, substantial gaps remain in understanding ammonia combustion, particularly at the operating conditions of advanced engines. The goal of this project is to create and validate a model for ammonia combustion that is specifically tailored to make accurate predictions at desired engine conditions.  A novel approach, which leverages modern computational chemistry, data science, and optimal experimentation, will be used to identify, confirm, and characterize the chemistry important to desired applications.  The resulting model will provide a valuable predictive tool for designing ammonia-powered engines while also establishing the foundation for other nitrogen chemistry models.  Likewise, the overall methodology will aid future investigations of many other chemically reacting gases.  This project also provides student research opportunities in an interdisciplinary, collaborative setting and partners with industry to enable research to lead to better engine designs immediately.\r\n\r\nThe technical objective is to create a multiscale, physics-based, data-driven model for ammonia combustion by optimally selecting, creating, and exploiting data, including data for new chemical pathways. The approach integrates (1) automated theoretical calculations to identify and characterize previously undiscovered chemistry impacting engine predictions, (2) targeted experimental measurements to validate new chemical pathways of importance and optimally inform engine predictions, and (3) uncertainty-quantified modeling based on theoretical and experimental data to create models that are physically sound and accurate.  Ultimately, the research will address key knowledge gaps in ammonia combustion and produce the first ammonia combustion model whose reaction sets and data-informed parameters are specifically tailored to meet the needs of engine design.  The new data, models, and multiscale data-driven approach will also enable better predictive understanding of many other complex reacting systems, including energetic materials/propellants, planetary atmospheres, and hypersonics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Burke",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael P Burke",
+   "pi_email_addr": "mpburke@columbia.edu",
+   "nsf_id": "000674870",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140700",
+   "pgm_ele_name": "CFS-Combustion & Fire Systems"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 429999.0
+  }
+ ],
+ "por": null
+}

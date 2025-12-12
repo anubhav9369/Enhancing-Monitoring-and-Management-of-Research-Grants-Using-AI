@@ -1,0 +1,117 @@
+{
+ "awd_id": "2435808",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: Hardware-Accelerated Graph Neural Networks for Real-Time Decision-Making in High Energy Particle Physics",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924516",
+ "po_email": "jshank@nsf.gov",
+ "po_sign_block_name": "James Shank",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 499934.0,
+ "awd_amount": 499934.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Real-time artificial intelligence (AI) has become increasingly popular due to its ability to increase the accuracy of those tasks that need to be executed quickly, like the decision made by self-driving vehicles. In recent years, more complex use cases in different areas of science and beyond are emerging, where even higher accuracy is needed for sub-milliseconds tasks. In these conditions, more complex architectures need to be accelerated with dedicated hardware, by deploying them, for example, on specialized chips like field-programmable gate arrays (FPGAs). This award will develop a FPGA-accelerated graph neural networks (GNNs) to improve the real-time data filtering systems employed by high energy particle physics experiments. This work will not only promote the progress of science, but its impact can potentially transcend the field of high-energy particle physics, with potential applications in quantum computing, where it can improve the readout and control of qubits, or in autonomous navigation, where hardware-accelerated GNNs can improve the simultaneous localization and mapping of drones used for search and rescue.\r\n\r\nThe Large Hadron Collider (LHC) at CERN  will undergo a high-luminosity (HL) upgrade in 2030. It will deliver denser collisions, which will result in a dataset ten times larger, suitable for searches for rarer physics processes, as well as for higher precision measurement of particle properties. However, more particles per collision will be produced with increasing radiation. To cope with this, the Compact Muon Solenoid (CMS) experiment will upgrade its detector by installing a new radiation-hard high-granularity calorimeter (HGCAL). The HGCAL will have six million read-out channels and will produce hundreds of terabytes of data per second. Therefore, new techniques are required to reconstruct and select in real-time the most physics-sensitive collisions. This award will build a research program to improve the online HGCAL particle reconstruction used in the CMS real-time data filtering system, known as the ``trigger'', with cutting-edge GNNs deployed on FPGAs. By processing detector \"images\" as compressed by an auto-encoder, using directly the latent space and avoiding the decoding, the GNNs will perform a reconstruction that fits within the latency budget while, at the same time, making use of the information from the full detector. To achieve this, lightweight learning models that can balance simplicity and efficiency will be produced. In particular, for this project, virtual nodes augmented GNNs will be used to effectively capture both short and long-range interactions in spatially extended cell groups. Lightweight models for predicting particle groups will be explored, by for example, fast clustering in the latent space. The project will develop an ultra-low-latency FPGA accelerator to implement these new GNNs, which is also generic to enable algorithm/hardware co-design. The project will utilize Smart Network Interface Cards (SmartNIC) to perform GNN-specific edge embedding computation together with cross-machine communication, to reduce system-level latency and to improve scalability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matteo",
+   "pi_last_name": "Cremonesi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matteo Cremonesi",
+   "pi_email_addr": "mcremone@andrew.cmu.edu",
+   "nsf_id": "000980998",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yusu",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yusu Wang",
+   "pi_email_addr": "yusuwang@ucsd.edu",
+   "nsf_id": "000250744",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cong",
+   "pi_last_name": "Hao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cong Hao",
+   "pi_email_addr": "callie.hao@gatech.edu",
+   "nsf_id": "000847652",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 499934.0
+  }
+ ],
+ "por": null
+}

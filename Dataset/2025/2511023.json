@@ -1,0 +1,93 @@
+{
+ "awd_id": "2511023",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Singular and Ill-Posed Problems for Partial Differential Equations in Continuum Mechanics",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-06-18",
+ "awd_max_amd_letter_date": "2025-06-18",
+ "awd_abstract_narration": "This project concerns the mathematical analysis and also the computation of certain phenomena in fluid mechanics and elasticity that are modeled using so-called partial differential equations. The aim of the project is both to advance a scientific understanding of important physical phenomena, as well as to make quantitative predictions whenever possible. The problems under study are motivated by real-life applications with potential societal benefits. In the first part of the project, the Principal Investigator studies the interaction between incompressible fluid flows and walls, focusing on two problems. The first problem pertains to the motion of inviscid fluids in containers with permeable walls that allow for injection and suction, and how the rate and direction of injection and suction affects the flow. This problem has many applications from the study of fluids in sections of pipelines, to modeling of underground wells. The second problem focuses on a simplified model of the Earth, consisting in a fluid-filled solid shell, representing the Earth\u2019s crust and mantle, containing a solid core, and on the long-time combined motion of the fluid-solid system. In the second part of the project, the Principal Investigator examines the effects of material transport and diffusion in certain fluid models. Two problems are considered. The first problem concerns flame front propagation in combustion and phase separation in fluid mixtures, for instance binary alloys. The second problem concerns modeling of fluid planets, such as certain exoplanets, combining the effects of rotation, gravitation, convection and magnetism. The last part of the project focuses on elastic materials, more specifically problems stemming from applications in seismology, where the Earth\u2019s crust is modeled as an elastic solid. Remote monitoring of buried faults and magma chambers from satellite data during quiescent periods with no detectable seismic activity is investigated. The project includes also training activities for both graduate and undergraduate students.\r\n\r\nThe focus of this proposal is to study various problems characterized by singularities and ill-posedness of partial differential equations modeling the behavior of incompressible fluids and elastic solids. These problems are tackled using primarily analytic techniques, but also computational tools. The goal of the project is to make progress in our understanding of important processes, such as phase separation in mixtures, and make quantitative predictions, such as the reconstruction of unknown parameters in inverse problems. The project consists in three main parts: I. Wall interactions in hydrodynamics models; II. Transport, dissipation, and their interplay in non-linear systems; III. Boundary inverse problems for geophysical models. The project addresses questions motivated by fundamental physical phenomena. Hence, the project is both timely and relevant. Part I concerns the behavior of incompressible flows near rigid walls. Injection and suction can stabilize boundary layers. Fluid-structure interaction is mediated by boundary forces. Part II concerns the combined effect of advection and dissipation in non-linear systems. Long-wave instability can be mitigated by dissipation. Strong advection can accelerate phase separation. Convection, dissipation, and geodynamo all contribute to planetary motion. Part III concerns remote probing of geophysical systems. Fault monitoring is key to predicting earthquake nucleation. In volcanoes, the magma chamber is often inaccessible. The three parts of the project are distinct, but connected in a cohesive research program by the underlying themes of singularity and ill-posedness.This research brings about challenging mathematical questions, which requires novel ideas and techniques: singularities in various forms, from non-smooth domains, to non-standard interface and boundary conditions, to ill-posedness and instability, for instance, permeate the entire project. Several of the problems under study, such as shape optimization in Part III, have a computational component that is also addressed. Progress on these problems is likely to have impact in other fields. The project offers training opportunities for both graduate and undergraduate students, as well as dissemination to the broader scientific community and outreach to society.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anna",
+   "pi_last_name": "Mazzucato",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anna L Mazzucato",
+   "pi_email_addr": "alm24@psu.edu",
+   "nsf_id": "000253923",
+   "pi_start_date": "2025-06-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

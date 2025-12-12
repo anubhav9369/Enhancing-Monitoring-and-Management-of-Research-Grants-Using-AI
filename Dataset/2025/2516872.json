@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516872",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Minipatch Learning for Selection, Stability, Inference, and Scalability",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927299",
+ "po_email": "yzeng@nsf.gov",
+ "po_sign_block_name": "Yong Zeng",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 261146.0,
+ "awd_amount": 195479.0,
+ "awd_min_amd_letter_date": "2025-02-05",
+ "awd_max_amd_letter_date": "2025-02-05",
+ "awd_abstract_narration": "Massive amounts of data are now collected by nearly every industry and academic discipline. Uncovering the hidden insights in such data holds the key to major scientific challenges such as understanding how the brain works, discovering mechanisms leading to diseases such as cancer and Alzheimer's disease, and combating climate change, among many others. But discovering key features and important relationships in complex and huge data poses major statistical and computational challenges. The investigator aims to develop new statistical machine learning approaches and theory for this task that break up huge data sets into small random subsets called minipatches to facilitate both faster computation and improved statistical efficiency. The new methods will be implemented in open-source software and applied to huge biomedical datasets in genomics and neuroscience. The project will provide undergraduate and graduate students training and professional development opportunities.\r\n\r\nDiscovering key features and important relationships in complex and huge data commonly found in biomedicine poses not only major computational challenges but also critical statistical challenges. To tackle these challenges, the investigator plans to develop a new framework termed minipatch learning. Inspired by the successes of random forests, stability approaches in high-dimensional statistics, and stochastic optimization strategies, the investigator will build ensembles from many random tiny subsets of both observations and features or variables called minipatches. While ensemble learning strategies are commonly used in supervised machine learning, the investigator will use minipatch learning for the tasks of feature selection, model-agnostic inference for feature importance, and learning relationships amongst features through graphical models. The approach, which trains on very tiny subsets of the data, is expected to have dramatic computational and memory savings. The investigator aims to show both theoretically and empirically that such a strategy poses significant statistical advantages as well.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Genevera",
+   "pi_last_name": "Allen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Genevera Allen",
+   "pi_email_addr": "genevera.allen@columbia.edu",
+   "nsf_id": "000605885",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Columbia University",
+  "inst_street_address": "615 W 131ST ST",
+  "inst_street_address_2": "MC 8741",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2128546851",
+  "inst_zip_code": "100277922",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "NY13",
+  "org_lgl_bus_name": "THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F4N1QNPB95M4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Columbia University",
+  "perf_str_addr": "615 W 131ST ST",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100277922",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "068Z",
+   "pgm_ref_txt": "URoL-Understanding Rules of Life"
+  },
+  {
+   "pgm_ref_code": "8091",
+   "pgm_ref_txt": "BRAIN Initiative Res Support"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 195479.0
+  }
+ ],
+ "por": null
+}

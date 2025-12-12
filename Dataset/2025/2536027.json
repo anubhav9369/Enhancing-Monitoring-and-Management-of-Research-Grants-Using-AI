@@ -1,0 +1,110 @@
+{
+ "awd_id": "2536027",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Polarization-Enabled Self-Quasi-Phase Matching for Quantum and Classical Nonlinear Optics",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 204879.0,
+ "awd_amount": 204879.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Nontechnical Description\r\nNonlinear optical wave mixing processes are a key component of modern optical diverse technologies in fields such as communication, health, and environmental sensing. However, wave mixing processes in nonlinear optics present significant challenges, among them the vanishingly small magnitude of the nonlinear susceptibility of most materials, the consequent high pump power densities required, and phase matching. The pursuit of phase matching has shaped the development of nonlinear optics as a field. Most strategies to achieve it rely on the natural birefringence of most materials; however, the certain materials and nonlinear processes cannot use birefringent phase matching schemes. In these cases, quasi-phase matching (QPM) is required. QPM, in particular as achieved through periodic poling (PP) of nonlinear media, is a crucial technique today for a broad swath of technologies relying on nonlinear optics. This is especially true in quantum optics, where PP is used to create sources of entangled photons for use in quantum computing, networking, and sensing. However, PP is an intensive, fickle, and extreme process, and moreover many nonlinear materials of interest are not ferroelectric and cannot undergo PP. Alternatives to PP are thus highly desirable, particularly schemes in which light could possibly facilitate its own QPM. This project will investigate such \u201cself\u201d-QPM schemes which are expected to offer enhanced nonlinear interactions for laser technology and quantum light sources.\r\n\r\nTechnical Description\r\nThe overarching goal of this EAGER project is to investigate a new means of QPM that we term \u201cPolarization-Enabled Self-Quasi-Phase Matching\u201d (PESQPM). In PESQPM, pump light enters a specially designed waveguide which causes periodic variation of light\u2019s polarization state inside the waveguide. This periodic variation of the polarization state facilitates a QPM effect, one which requires no PP and is compatible with standard lithographic fabrication procedures. In this EAGER, we will 1) Develop a complete theory of PESQPM in arbitrary wave mixing processes governed by arbitrary susceptibility matrix elements, and 2) Implement a proof-of-concept demonstration of the PESQPM effect for phase matching second-harmonic generation in lithium niobate. The work of this EAGER, then, will facilitate a new way of phase matching for a broad class of nonlinear optical materials without requiring PP. This offers the potential to simplify any systems which rely on phase-matched wave mixing interactions, including technologies such as frequency doublers, OPOs, and OPAs. This work also offers significant potential for quantum computing, networking, and sensing applications which are poised to have significant societal and economic impact within the United States. Here, scalable, mass-producible integrated sources of entangled photons are desirable, a need which current techniques based on PP (with PP\u2019s accordant difficulties) do not fully meet. Finally, this project will support the training of postdoctoral and graduate student researchers at UCSD.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Noah",
+   "pi_last_name": "Rubin",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Noah A Rubin",
+   "pi_email_addr": "noahrubin@ucsd.edu",
+   "nsf_id": "0000A0260",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 204879.0
+  }
+ ],
+ "por": null
+}

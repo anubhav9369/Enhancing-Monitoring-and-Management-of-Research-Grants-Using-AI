@@ -1,0 +1,118 @@
+{
+ "awd_id": "2502667",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DMREF: Data-Driven Discovery of the Processing Genome for Heterogenous Superalloy Microstructures",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "03070000",
+ "po_phone": "7032927766",
+ "po_email": "jschluet@nsf.gov",
+ "po_sign_block_name": "John Schlueter",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 534000.0,
+ "awd_amount": 534000.0,
+ "awd_min_amd_letter_date": "2025-04-03",
+ "awd_max_amd_letter_date": "2025-04-03",
+ "awd_abstract_narration": "This Designing Materials to Revolutionize and Engineer our Future (DMREF) project aims to revolutionize the creation of novel engineering alloys by focusing on the relationship between the process of production and the material's resultant microstructure - the internal structure invisible to the naked eye. This relationship is a crucial but less-explored segment of the material science lifecycle, yet directly connects processing to performance. Using cutting-edge machine learning and data science, the project team will build a platform, named as DRAGONS (Data-driven Recursive AI-powered Generator of Optimized Nanostructured Superalloys), to discover these connections, enabling more nuanced control over material production. DRAGONS will prescribe ideal processing conditions to achieve a specific material microstructure. This project carries broad significance, with the potential to drive advancements in diverse sectors that rely on novel materials including electronics, healthcare, energy, and transportation. Additionally, the project's educational outreach activities aim to inspire the next generation of scientists and engineers by providing a more diverse, inclusive, and sustainable pathway into these fields. Hence, this research carries potential to catalyze scientific advancement, foster economic growth, and enhance educational outcomes.\r\n\r\nThis DMREF project focuses on harnessing machine learning and data science to advance understanding of the processing-microstructure relationships in the production of novel materials, a key, yet underexplored facet of the Materials Genome Initiative (MGI). The research team will develop a data-driven platform, named as Data-driven Recursive AI-powered Generator of Optimized Nanostructured Superalloys (DRAGONS), to demystify the complex relationships inherent in the creation of multi-phase, heterogeneous nanostructured materials (HNMs). DRAGONS will utilize predictive models to interpret microstructure attributes based on given processing conditions and, in a reciprocal manner, provide processing parameters required to generate a predefined microstructure. Capitalizing on expertise in magnetron sputtering and heat treatment (MS+HT), the research team aims to engineer intricate heterogeneous designs in Ni-based superalloys. An iterative research framework encompasses synthesis and microstructural design, microstructure characterization, atomistic simulation, and mesoscale modeling, and each cycle will refine DRAGONS, fostering stronger links between processing descriptors and microstructure features. The broader impacts of this work span the potential to reshape engineered alloy development and to foster collaborations with NIST scientists. Furthermore, educational programs targeted at developing a diverse, skilled workforce in materials engineering underscore the project's commitment to society.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Timothy",
+   "pi_last_name": "Rupert",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Timothy J Rupert",
+   "pi_email_addr": "tim.rupert@jhu.edu",
+   "nsf_id": "000600526",
+   "pi_start_date": "2025-04-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "089Z",
+   "pgm_ref_txt": "Materials Under Extreme Conditions"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 534000.0
+  }
+ ],
+ "por": null
+}

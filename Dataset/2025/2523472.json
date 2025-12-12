@@ -1,0 +1,106 @@
+{
+ "awd_id": "2523472",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: A study on the Complementary-Quantum Correlation (CQC) conjecture - An information exclusion relation with applications in quantum information processing",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927049",
+ "po_email": "ebehrman@nsf.gov",
+ "po_sign_block_name": "Elizabeth Behrman",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 180989.0,
+ "awd_amount": 180989.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "Information obtained from a quantum system is often unpredictable. There are many types of equations that attempt to capture this unpredictability. These equations play vital roles in many fundamental questions in nature, such as the wave-particle duality, and in tasks such as long-distance quantum communications. One such attempted equation, called the Complementary-Quantum Correlation (CQC) conjecture, has been open for more than a decade. It states that the quantum correlation shared between two parties can be used as an upper bound on the sum of two classical correlations obtained by two different measurements on them. This important conjecture has many interdisciplinary applications, including the tasks of determining whether these two parties are entangled or not, measuring how much information an adversary could have obtained if these two parties engaged in a secure quantum communication protocol, as well as improving a fundamental equation that captures the unpredictability of quantum measurement outcomes. \r\n\r\nWith the recent developments of quantum technologies, these uncertainty relations, like the CQC conjecture, are becoming more relevant. This project (1) identifies a sufficient condition for which this conjecture's validity will be proven beyond known classes of states such as the pure or entangled states, (2) extends this conjecture to cover more than two quantum measurement bases, (3) identifies a sufficient condition for this extended version of the conjecture, (4) explores the structures of states that respect this conjecture, and (5) its new applications. Novel usage of existing results involving generalized entropic uncertainty relations, information exclusion relations with classical-quantum states as well as experimenting with random bipartite quantum states will help with the identified tasks.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hasan",
+   "pi_last_name": "Iqbal",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hasan Iqbal",
+   "pi_email_addr": "hiqbal@uwyo.edu",
+   "nsf_id": "0000A0T9C",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wyoming",
+  "inst_street_address": "1000 E UNIVERSITY AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "LARAMIE",
+  "inst_state_code": "WY",
+  "inst_state_name": "Wyoming",
+  "inst_phone_num": "3077665320",
+  "inst_zip_code": "820712000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "WY00",
+  "org_lgl_bus_name": "UNIVERSITY OF WYOMING",
+  "org_prnt_uei_num": "FDR5YF2K32X5",
+  "org_uei_num": "FDR5YF2K32X5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wyoming",
+  "perf_str_addr": "1000 E UNIVERSITY AVE",
+  "perf_city_name": "LARAMIE",
+  "perf_st_code": "WY",
+  "perf_st_name": "Wyoming",
+  "perf_zip_code": "820712000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "WY00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7928",
+   "pgm_ref_txt": "QUANTUM COMPUTING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 180989.0
+  }
+ ],
+ "por": null
+}

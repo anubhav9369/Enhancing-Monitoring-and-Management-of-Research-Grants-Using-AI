@@ -1,0 +1,102 @@
+{
+ "awd_id": "2524994",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Flocculation dynamics in estuarine boundary layers - advancing new understanding through an integrated field, laboratory, and computational study",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032924557",
+ "po_email": "bmuz@nsf.gov",
+ "po_sign_block_name": "Baris Uz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 439620.0,
+ "awd_amount": 439620.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Flocculation, a dynamic process that binds fine muddy sediments with organic material in saltwater to form larger porous aggregates, is a fundamental process in estuarine and coastal zones that controls particle settling velocity and the vertical distribution of sediment; hence, it plays an important role in sediment deposition/erosion patterns, light attenuation in the water column, nutrient and carbon cycling, and water quality. To advance the general understanding and predictive capability of coupled flocculation dynamics and sediment transport, this project will integrate field, laboratory, and modeling approaches to address the knowledge gaps in 1) understanding the control of floc size and settling velocity in the estuarine boundary layer and their relationship to bottom shear stress and suspension and deposition; 2) evidence-based model coefficients for a flocculation model that reflects natural mud properties; 3) the relationship between floc size and settling velocity, especially for high organic content environments and muds with varying amounts of silt; 4) computationally efficient yet reliable coupling of flocculation dynamics in coastal models. This study has the potential to transform our ability to understand and include flocculation dynamics in coastal modeling under different levels of primary productivity due to seasonal and spring-neap variability. As such, it will impact broader research communities in biogeochemistry, carbon cycling, ecosystems and water quality. Field and laboratory data will inform the development of flocculation models to be effectively coupled with the existing open-source coastal models COAWST and OpenFOAM, already widely used by researchers from different disciplines. The project will support two PhD students for their research and three undergraduate students for their research experience in field experiments and sensors. The project also utilizes two international collaborations on FLOCMOD model development and quantifying transparent exopolymer particles (TEP) which the flocculation aggregates are made of. The investigators leading the project and the graduate students involved will participate in outreach efforts organized in their respective institutions. All the codes, numerical models are open-source, and all field and laboratory data will be made publicly available.\r\n\r\nThis collaborative study will integrate four focused field campaigns (spring/fall during neap and spring tide), uniquely designed laboratory experiments, and numerical and data-driven modeling to address the knowledge gaps with the objectives to 1) quantify the importance of flocculation and its seasonal variabilities on sediment transport in the estuarine boundary layer via field observations that integrate several in-situ techniques to concurrently measure profiles of floc size, settling velocity, sediment concentration, turbulence, as well as characterization of organic content and concentration such as chlorophyll-a and TEP; 2) carry out extensive laboratory experiments to characterize floc size distributions and settling velocities over a large range of environmental conditions with an emphasis on varying organic and silt content in natural muds and measuring the transient response of the flocs to inform flocculation models solving the size-class population balance equations (PBE) and other reduce-complexity models; 3) provide an enhanced size-class PBE flocculation model for settling velocity coupled with existing hydrodynamic and sediment transport models COAWST and OpenFOAM to simulate cohesive sediment transport in the estuarine boundary layer, including validation with field observations; 4) implement machine learning methods to tackle upscaling challenges in flocculation, including the development of evidence-based model coefficients for the PBE flocculation model and surrogate models for solving PBEs. Novel aspects of this work include the concurrent deployment of unique instrumentation (e.g., PICS, LISSTS, and FlocARAZI) to provide unprecedented details of in-situ data to reveal the interplay of turbulent shear, resuspension/deposition, and floc properties in the water column; the design of new laboratory experiment focusing on the transient response of flocs beyond equilibrium state to provide the largest dataset of floc sizes under different conditions produced to date; and rigorous specification of flocculation model coefficients informed by lab data and a data-driven approach for tackling the upscaling challenge of including flocculation effects in coupled sediment transport and hydrodynamic modeling.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kyle",
+   "pi_last_name": "Strom",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kyle Strom",
+   "pi_email_addr": "strom@vt.edu",
+   "nsf_id": "000506264",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "300 TURNER ST NW",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240603359",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "161000",
+   "pgm_ele_name": "PHYSICAL OCEANOGRAPHY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1610",
+   "pgm_ref_txt": "PHYSICAL OCEANOGRAPHY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 439620.0
+  }
+ ],
+ "por": null
+}

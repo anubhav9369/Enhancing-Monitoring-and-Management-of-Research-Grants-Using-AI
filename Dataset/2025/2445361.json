@@ -1,0 +1,93 @@
+{
+ "awd_id": "2445361",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "First-Principles Simulation of Lattice Thermal Transport Beyond the Quasiparticle Approximation",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032924736",
+ "po_email": "fcao@nsf.gov",
+ "po_sign_block_name": "Fangyu Cao",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 344743.0,
+ "awd_amount": 344743.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "Heat conduction in materials plays a critical role in applications ranging from microelectronics to energy conversion. However, accurately predicting heat transfer becomes challenging in complex materials where traditional particle-like models of heat-carrying atomic vibrations, or phonons, break down. To address this, the project will develop advanced computational methods that go beyond the standard approximations and capture the full spectrum of phonon behavior. By incorporating the effects of strong phonon interactions that are often overlooked, the research will provide more reliable predictions of thermal properties, especially in technologically important materials like thermoelectrics and thermal barrier coatings. The outcomes will guide the rational design of novel materials with tailored thermal characteristics for improved device performance and energy efficiency. The project will also promote interdisciplinary education and training of students from high school to graduate school, providing them with valuable research experience and computational skills.  \r\n\r\nThis project will develop a first-principles computational framework to simulate lattice vibrations and heat transfer in the regime beyond the quasiparticle approximation. The key advancements include explicit treatment of higher-order phonon coupling and a unified thermal transport formalism applicable to both crystals and glasses. These features will be implemented in open-source software packages to facilitate broad adoption and accelerate research in the field. The framework will be applied to elucidate the microscopic mechanisms governing thermal transport in several material classes, such as halide perovskites for photovoltaics, thermal barrier coatings for gas turbines, thermoelectrics for waste heat recovery, and ferroelectrics for thermal switches.  Of particular interest is understanding how complex phonon interactions impact the fundamental lower limits of thermal conductivity. Furthermore, a data-driven approach employing machine learning techniques will be undertaken to uncover broader insights across diverse material chemistries and structures, enabling rapid screening and discovery of materials with desired thermal properties. The project integrates research with educational and outreach activities, including the development of a new course on atomistic simulations, involvement of students from high school to graduate levels in advanced research, and public engagement through science outreach events. These efforts will enrich student learning, encourage pursuit of advanced degrees and careers in STEM fields, and promote public appreciation of computational materials research and its societal benefits.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yi",
+   "pi_last_name": "Xia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yi Xia",
+   "pi_email_addr": "yxia@pdx.edu",
+   "nsf_id": "000923634",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Portland State University",
+  "inst_street_address": "1600 SW 4TH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5037259900",
+  "inst_zip_code": "972015508",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OR01",
+  "org_lgl_bus_name": "PORTLAND STATE UNIVERSITY",
+  "org_prnt_uei_num": "WWUJS84WJ647",
+  "org_uei_num": "H4CAHK2RD945"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Portland State University",
+  "perf_str_addr": "1600 SW 4TH AVE",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972015508",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OR01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140600",
+   "pgm_ele_name": "TTP-Thermal Transport Process"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 344743.0
+  }
+ ],
+ "por": null
+}

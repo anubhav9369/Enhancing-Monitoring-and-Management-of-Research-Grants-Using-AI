@@ -1,0 +1,98 @@
+{
+ "awd_id": "2521369",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Non-Fermi liquids and criticality from quantum baths",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924920",
+ "po_email": "aklirono@nsf.gov",
+ "po_sign_block_name": "Alexios Klironomos",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2029-06-30",
+ "tot_intn_awd_amt": 584000.0,
+ "awd_amount": 584000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "NONTECHNICAL SUMMARY\r\n\r\nOne of the most exciting discoveries of the last century is quantum entanglement, a phenomenon in which distant quantum particles, such as ordinary electrons in a material, exhibit correlations (become affected by the existence and behavior of the others) that defy our everyday intuition that objects carry their own pre-existing properties. Quantum entanglement is at the heart of technologies such as quantum computing, and is also crucial to several unusual properties of materials at low temperatures. However, entanglement is typically fragile, i.e., easily disrupted by interactions with a quantum system's environment. One of the key questions, therefore, concerns the phenomena occurring precisely at the boundary where quantum entanglement is lost, giving way to intuition familiar in everyday life. Such \"phase transitions\" remain poorly understood, especially in systems composed of a macroscopic number of interacting electrons. This project will focus on such transitions in a variety of contexts, ranging from materials where electrons are strongly entangled with each other, to \"quantum hard drives\", systems which can serve as storage space for information exploiting entanglement.\r\n\r\nThe PI will utilize a combination of analytical tools and state-of-the-art numerical simulations to explore the research. Graduate students supported by this proposal will actively lead and carry out a substantial portion of the described research. To broaden societal engagement, the PI will organize an annual multi-session physics workshop designed specifically for high-school students. This workshop will emphasize back-of-the-envelope calculations inspired by everyday phenomena and will also introduce fundamental principles of quantum mechanics, including applications such as quantum computing.\r\n\r\n\r\nTECHNICAL SUMMARY\r\n\r\nThis project addresses questions at the intersection of quantum condensed matter physics, quantum information theory, and statistical mechanics by focusing on scenarios where one macroscopic quantum subsystem acts as a bath for another one, leading to an interesting exchange of quantum entanglement between the two subsystems. One broad aspiration is to foster deeper connections between fruitful concepts from ground-state physics and emerging insights from the study of open quantum systems. For example, consider a composite system where electrons are weakly entangled with quantum spins that are in a topologically ordered state. One can imagine a scenario where the electrons act as a quantum bath for the spins leading to an information-theoretic phase transition where the topological order residing in the spin system is destroyed without any singularity in local correlation functions. Another example is a topologically ordered system where quantum fluctuations in the ground state driven by some parameter, say, a magnetic field, are superimposed on the fluctuations driven by decoherence. What is the global phase diagram of such a system? Can the combination of decoherence and quantum fluctuations lead to new phases that cannot exist if only one of them is present? Finally, motivated by the broad theme of quantum baths, the PI will also study phase transitions in heavy-fermion systems where the entanglement between the spins and the electrons can lead to analogs of a topologically ordered \"symmetric mass generation\" phase. The PI will explore the analogs of such phases also in open quantum systems.\r\n\r\nTo make progress on the above themes, the PI will utilize a combination of tools such as renormalization group, Quantum Monte Carlo and mapping to solvable models in various limits. Many of the concepts explored in this project are inspired by interdisciplinary exchanges among quantum condensed matter physics, quantum field theory and quantum information science, and addressing the questions posed here is expected to further enhance their mutual synergy. Moreover, progress on these topics is anticipated to have practical implications for advancing quantum technologies, including quantum computing and quantum memory devices. Graduate students supported by this proposal will actively lead and carry out a substantial portion of the described research. To broaden societal engagement, the PI will organize an annual multi-session physics workshop designed specifically for high-school students. This workshop will emphasize back-of-the-envelope calculations inspired by everyday phenomena and will also introduce fundamental principles of quantum mechanics, including applications such as quantum computing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tarun",
+   "pi_last_name": "Grover",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tarun Grover",
+   "pi_email_addr": "tagrover@ucsd.edu",
+   "nsf_id": "000753213",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR MC0021",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 584000.0
+  }
+ ],
+ "por": null
+}

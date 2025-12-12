@@ -1,0 +1,118 @@
+{
+ "awd_id": "2504339",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Medium: OASIS: An Open-Source AI-Driven EDA Tool for Real-Time Synthesis of Short-Distance Wireless Interconnects on Silicon",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Physics-Informed Neural Networks (PINNs) are an emerging class of Artificial Intelligence (AI) models that incorporate physical laws directly into their architecture, enabling fast and accurate simulations even with limited or noisy data. They show significant promise for electromagnetic (EM) simulations, particularly in managing parameter variations in real time. However, ensuring both accuracy and stability in PINN training remains a major challenge, often requiring large datasets and exhibiting sensitivity to minor input changes. To address these limitations, researchers from Stevens Institute of Technology (SIT) and The Ohio State University (OSU) are developing an Open-Source AI-Driven Electronic Design Automation (EDA) Tool for Real-Time Synthesis of Short-Distance Wireless Interconnects on Silicon (OASIS), the first open-source, AI-powered EDA tool for real-time parametric EM simulation. OASIS will explore scalable strategies for training large-scale PINNs efficiently and robustly. This research will focus on the design of short-range (~10 mm) wireless interconnects on silicon for two cutting-edge applications: (1) contactless connectors that leverage spatial multiplexing to minimize interference and enhance data throughput, and (2) batteryless brain-machine interfaces (BMIs) that depend on real-time signal cancellation and sensitivity optimization. By replacing traditional slow solvers with a faster, AI-driven alternative, OASIS aims to transform next-generation EM design. \r\n\r\nTo achieve the project\u2019s objectives, the investigators will pursue six key research directions. First, the team of researchers will develop a graph-based importance sampling framework to accelerate the training and convergence of physics-informed neural networks (PINNs) on large-scale point clouds. Second, they will implement a stability-guided training approach to enable robust and efficient parametric EM simulations using PINNs. Third, the team will design a novel proximity communication method capable of multi-gigabit data transfer in dense, low-power environments where traditional EM solvers are ineffective. Fourth, they will investigate spatial multiplexing techniques to scale interconnect bandwidth. Fifth, the project will explore a new class of wireless, batteryless brain implants that utilize signal backscattering and AI-driven leakage cancellation to improve sensitivity. Sixth, the researchers will introduce real-time adaptive specifications for brain-machine interfaces (BMIs) to accommodate dynamic environmental conditions. To broaden the project\u2019s impact, the investigators at SIT and OSU will also develop new courses that integrate advanced machine learning concepts into software-hardware co-design education. Collectively, this research aims to advance the frontiers of millimeter-wave and RF integrated circuit design, computer-aided design (CAD), machine learning, scientific computing, and biomedical engineering.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhuo",
+   "pi_last_name": "Feng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhuo Feng",
+   "pi_email_addr": "zfeng12@stevens.edu",
+   "nsf_id": "000555056",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yanghyo",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yanghyo R Kim",
+   "pi_email_addr": "yanghyokim@umass.edu",
+   "nsf_id": "000857772",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "ONE CASTLE POINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

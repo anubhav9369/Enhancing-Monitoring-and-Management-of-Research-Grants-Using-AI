@@ -1,0 +1,93 @@
+{
+ "awd_id": "2438854",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Multi-scale modeling of surface tension-driven dynamics with physics-informed sub-grid closures",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032928045",
+ "po_email": "sshojaei@nsf.gov",
+ "po_sign_block_name": "Shahab Shojaei-Zadeh",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 337000.0,
+ "awd_amount": 337000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "This project aims to advance simulations of gas-liquid mixtures, especially when they break apart into small droplets or bubbles and when small droplets or bubbles come together. These fluid behaviors are commonplace in nature, for example in the breaking of waves at the ocean surface or formation of raindrops in clouds. They are also crucial for many engineering applications, such as the injection of fuel in combustion engines, the spraying of crop protection products, or the production of powders in the food and pharmaceutical industries. The most common simulation methods struggle to capture small but important details, such as very thin liquid sheets or tiny droplets, which limits accuracy and utility of the results. This project will develop new ways to represent and model these fine details of fluid behavior, resulting in more accurate simulations without requiring expensive computer resources. The approach will allow scientists and engineers to better predict how gas-liquid mixtures behave in complex situations, making engineering design more affordable and more accurate. The proposed research will also contribute to modernizing course content for training  undergraduate and graduate students, while fostering collaboration with industry to promote the widespread adoption of open-source software tools.\r\n\r\nMulti-scale two-phase flows play a central role in many natural phenomena but also in several key industrial sectors, such as energy production, transportation, manufacturing, and the food and pharmaceutical industries. Traditional Eulerian interface capturing methods fail to accurately predict topology changes of the gas-liquid interface due to mesh resolution limits and numerical errors. To address these limitations, this project proposes two key innovations: (1) a new piecewise-quadratic interface representation that enables the capture of sub-grid scale structures such as thin films/sheets and ligaments, and (2) a new volume-filtered framework in which sub-grid scale surface tension-driven physics are accounted for through closure models. The outcome will be a framework capable of accurately predicting break-up and coalescence events as well as droplet size distributions in multi-scale two-phase flows, a feat that has so far remained elusive to even the most refined simulation frameworks. This project marks a shift from expensive and often insufficient direct numerical simulation to efficient, physics-informed modeling, through the introduction of novel sub-grid scale interface representation. This promises both more affordable and more predictive simulations of multi-scale two-phase flows. Industrial impact will be maximized by the open-source release of the developed numerical tools, their integration in commercial codes, and the organization of user workshops. The project will also modernize course content on multiphase flows to benefit engineering education.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fabien",
+   "pi_last_name": "Evrard",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fabien Evrard",
+   "pi_email_addr": "fevrard@illinois.edu",
+   "nsf_id": "0000A0D3L",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "141500",
+   "pgm_ele_name": "PMP-Particul&MultiphaseProcess"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 337000.0
+  }
+ ],
+ "por": null
+}

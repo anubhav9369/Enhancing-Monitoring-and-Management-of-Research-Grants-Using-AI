@@ -1,0 +1,170 @@
+{
+ "awd_id": "2513734",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Elements: Infrastructure for Accurate Data Extraction from Research Papers Using Large Language Models",
+ "cfda_num": "47.049, 47.070, 47.076",
+ "org_code": "05090000",
+ "po_phone": "7032927116",
+ "po_email": "sghafoor@nsf.gov",
+ "po_sign_block_name": "Sheikh Ghafoor",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 599370.0,
+ "awd_amount": 599370.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Technologies that are essential for modern life, from computers to jet engines, rely on advanced materials. Easily accessible data on materials properties is critical to allowing developers of technologies to determine what materials they need and to helping guide researchers in the development of new materials. However, materials data is typically shared through millions of scientific papers, making it difficult to develop a database of relevant properties. The recent advent of large language models (LLMs), like ChatGPT, now make it possible to automate the complex task of reading thousands of papers and extracting key data. This project refines the use LLMs to extract data and related knowledge from scientific papers, including from text, tables, and plots. The project then develops an easy to use web interface to allow people to apply these methods and quickly access large amounts of automatically curated materials data. If successful, it will allow entrepreneurs, engineers, and scientists to quickly extract specialized curated databases from the vast scientific literature and help accelerate technological developments across the many industries that used advanced materials.\r\n\r\nThe platform allows users to extract structured materials data from text, tables, and plots, and extract complex Processing-Structure-Property-Performance (PSPP) relationships. Designed for accessibility, the interface will require no expertise in LLMs or coding, making it a powerful tool for researchers across disciplines. The service will utilize state-of-the-art LLM text and image capabilities and integrate cutting-edge LLM workflows, including prompt engineering, chain-of-thought reasoning, and retrieval-augmented generation, supported by a robust backend architecture (FastAPI, React.js, Material-UI). The Intellectual Merit of the project includes both the development of practical methods for accurate materials data extraction with LLMs and development of online resources to deliver those methods to non-experts. The project develops methods to overcome limitations in existing data extraction techniques by leveraging LLMs  advanced capabilities in zero-shot learning, chain-of-thought reasoning, and multimodal data analysis. Key broader impacts include (i) advancing data-centric science by enabling rapid database creation, (ii) improving education by putting outcomes into summer schools, conferences, and courses, (iii) increasing training of undergraduates in hands-on research building skills in coding, machine learning, and project management, and (iv) increasing training for graduate students in both materials science and advanced data science, preparing them for leadership in these critical fields.\r\n   \r\n   \r\nThis award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Graduate Education within the Directorate for STEM Education and Division of Material Research within the Directorate of Mathematical and Physical Science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dane",
+   "pi_last_name": "Morgan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dane Morgan",
+   "pi_email_addr": "ddmorgan@wisc.edu",
+   "nsf_id": "000108542",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hyunseok",
+   "pi_last_name": "Oh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hyunseok Oh",
+   "pi_email_addr": "hoh73@wisc.edu",
+   "nsf_id": "000883520",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Maciej",
+   "pi_last_name": "Polak",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maciej P Polak",
+   "pi_email_addr": "mppolak@wisc.edu",
+   "nsf_id": "0000A2DMF",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171200",
+   "pgm_ele_name": "DMR SHORT TERM SUPPORT"
+  },
+  {
+   "pgm_ele_code": "798000",
+   "pgm_ele_name": "ECR-EDU Core Research"
+  },
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "9216",
+   "pgm_ref_txt": "ADVANCED SOFTWARE TECH & ALGOR"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 599370.0
+  }
+ ],
+ "por": null
+}

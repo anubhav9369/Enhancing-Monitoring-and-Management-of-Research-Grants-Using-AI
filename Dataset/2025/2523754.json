@@ -1,0 +1,110 @@
+{
+ "awd_id": "2523754",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Control of Deformable Systems Using Structure-Aware Density Models and Density Steering Algorithms",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924588",
+ "po_email": "yuewang@nsf.gov",
+ "po_sign_block_name": "Yue Wang",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This award supports research that seeks to enable new theory and algorithms for modeling and control of deformable systems with an emphasis on soft robots, thereby advancing the national health, promoting the progress of science, advancing prosperity and welfare, and securing the national defense. Deformable systems are infinite-dimensional systems that can undergo continuous deformations while moving in their configuration space. Control methods for deformable systems are scarce and their applicability is limited to certain types of systems (e.g., rod-like soft robots). In principle, one can design (model-based) controllers for deformable systems by using Finite Element Models (FEMs). Model reduction methods and/or local linearization techniques can reduce the complexity of FEMs but also lead to the design of unreliable controllers. This project looks to solve this challenge by developing a coarse deterministic FEM whereas its state is represented by a multi-modal density model and synthesizing control methods leveraging multi-modal density steering problems and Koopman operator theory. The special property of deformable systems allows them to find many applications in manufacturing (e.g., handling fragile objects during assembly and packaging), healthcare (e.g., soft robotic prosthetics), search and rescue (e.g., reaching locations under the ruins of collapsed buildings), and agriculture (e.g., soft gripping and harvesting of fruits and vegetables), to name but a few. In addition, the combined educational, research and outreach activities in this project will attract talented and motivated students to learn more about deformable systems and work on relevant research problems.\r\n\r\nThis research aims to establish the theoretical foundations for the creation of novel modeling and control methods for deformable (continuum) systems which can strike the right balance between model complexity and controller accuracy/performance depending on the requirements of the application at hand. In this project, the dynamics of a deformable system will be described by a reduced-order coarse deterministic FEM whereas its shape will be represented by multi-modal density models that adhere to the spatial structure of the FEM but their expressiveness is not necessarily limited by the latter. To handle the nonlinearities in the dynamics of our model, Koopman Operator theory plans to be used to characterize linear predictors which globally approximate the original nonlinear dynamics. Subsequently, control algorithms look to be created by solving relevant multi-modal density steering problems. The research will be verified and validated with the aid of specialized simulation tools.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Efstathios",
+   "pi_last_name": "Bakolas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Efstathios Bakolas",
+   "pi_email_addr": "bakolas@austin.utexas.edu",
+   "nsf_id": "000642073",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  },
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

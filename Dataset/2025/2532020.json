@@ -1,0 +1,126 @@
+{
+ "awd_id": "2532020",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DMREF/Collaborative Research: Inverse Design of Architected Materials with Prescribed Behaviors via Graph Based Networks and Additive Manufacturing",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07030000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 1428383.0,
+ "awd_amount": 337580.0,
+ "awd_min_amd_letter_date": "2025-05-16",
+ "awd_max_amd_letter_date": "2025-05-16",
+ "awd_abstract_narration": "A material's force-displacement response, modal response, and wave transmission and absorption response to dynamic loadings, all can be construed as its characteristic fingerprints. The behaviors of materials under dynamic loads that are applied within a fraction of a second remain poorly understood due to the complex, nonlinear interplay between material microstructure, geometry, and applied load. The complexity increases manifold for architected materials, in which topological considerations are paramount to achieve specific responses or functions. Consequently, methodical design of architected materials with optimal dynamic fingerprints is a challenge that has not been adequately addressed. By seamlessly integrating advances in graph network theory, machine learning, numerical simulations, and high-speed additive manufacturing approaches, this Designing Materials to Revolutionize and Engineer our Future (DMREF) award will accelerate the understanding, inverse design, and fabrication of architected materials with tailorable dynamic fingerprints. The outcome will be materials with inversely designed three-dimensional micro-architectures fabricated via desktop additive manufacturing with prescribed behaviors, such as impact shielding and wave transmission. Applications include energy and shock absorption, acoustic wave filtering, stretchable electronics, and other multifunctional material systems. The project will also train graduate and undergraduate students in the new paradigm of autonomous inverse design and additive manufacturing based on desired behaviors. Moreover, demonstration modules, design games, and additive printing activities will be used for outreach to K-12 students.\r\n\r\nThis project will extend graph-based generative machine learning modeling techniques to identify the underlying motifs within architected materials to understand their dynamic behaviors as well as provide an inverse design framework for optimized functional responses. The first step is to develop a graph space model to represent an arbitrary architected material composed of an arbitrarily complex 3D micro-architecture, by size, scale, hierarchy, lattice topology, and material attributes. The next step involves obtaining high-fidelity experimental data and higher-order simulation data with large amounts of lower-order experimental data to accelerate the training and discovery process. A forward graph-based machine learning model will be trained on the combined data for functional response prediction. Lastly, the graph neural network with reinforcement learning will be used to generate graphs with the desired properties based on the forward predictive model. This extensive and experimentally validated framework will be used to discover fundamental knowledge pertaining to structural and dynamic characteristics, which will then be leveraged to inversely design materials with prescribed dynamic fingerprint.\r\n\r\nThis project is co-funded by the Division of Civil, Mechanical and Manufacturing Innovation (CMMI) in the Directorate for Engineering (ENG) and the Division of Information and Intelligent Systems (IIS) in the Directorate for Computer and Information Science and Engineering (CISE).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaoyu",
+   "pi_last_name": "Zheng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaoyu Zheng",
+   "pi_email_addr": "rayne23@berkeley.edu",
+   "nsf_id": "000700484",
+   "pi_start_date": "2025-05-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "829200",
+   "pgm_ele_name": "DMREF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  },
+  {
+   "pgm_ref_code": "024E",
+   "pgm_ref_txt": "MATERIALS DESIGN"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "8400",
+   "pgm_ref_txt": "DMREF"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 337579.0
+  }
+ ],
+ "por": null
+}

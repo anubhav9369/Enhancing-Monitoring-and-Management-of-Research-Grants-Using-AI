@@ -1,0 +1,122 @@
+{
+ "awd_id": "2510292",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Contextualizing Cometary Activity and Coma Structure: Exploring the Influence of Nucleus Shape on Coma Formation and Nucleus Spin Evolution",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032928123",
+ "po_email": "jkeane@nsf.gov",
+ "po_sign_block_name": "Jacqueline Keane",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 538876.0,
+ "awd_amount": 538876.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "Spacecraft missions have revolutionized our understanding of cometary science, but the costs associated with such missions are too high to characterize a statistically significant number of comet nuclei using this approach.  Therefore, most comet nuclei will still be studied remotely using techniques that analyze their comae to infer properties of the underlying and unresolvable nuclei.  A thorough investigation into the consequences of an assumed spherical or nearly spheroidal nucleus shape on the analysis techniques of remote observations is necessary.  This project will develop new code to incorporate the effects of nucleus self-shadowing to understand the underlying causes for the differences and similarities in the physical, chemical, and structural properties of comets.  The project will support an early career scientist.  The project will also produce nine episodes of the Daily Space television show focused on comet science and a graphic novel highlighting the role of comets throughout history.\r\n\r\nThe project will investigate the manifestation of \"coma features\" (i.e., inhomogeneities in the spatial distribution of coma gas or dust) and the temporal evolution of them as well as the coma brightness distributions due to different nuclear shapes and their connections to the nucleus spin state.  The project will also explore the effects on the rotational evolution of cometary nuclei caused by activity derived torques due to different nucleus shapes.  An existing 3-D Monte Carlo Coma model will be updated to include the effects of shadowing providing a parameterization of whether an individual surface facet on a shape model is active or inactive. The simulations will be carried out for a selected range of shape models (both known and synthetically generated new shapes), different spin axis orientations, and different surface activity distributions.  The results will have direct applications for assessing previous cometary studies and observations of newly discovered comets in the near future.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Schambeau",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles A Schambeau",
+   "pi_email_addr": "charles.schambeau@ucf.edu",
+   "nsf_id": "000810809",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nalin",
+   "pi_last_name": "Samarasinha",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nalin Samarasinha",
+   "pi_email_addr": "nalin@psi.edu",
+   "nsf_id": "000042389",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Pamela",
+   "pi_last_name": "Gay",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pamela L Gay",
+   "pi_email_addr": "plg@psi.edu",
+   "nsf_id": "000736422",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121400",
+   "pgm_ele_name": "PLANETARY ASTRONOMY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 538876.0
+  }
+ ],
+ "por": null
+}

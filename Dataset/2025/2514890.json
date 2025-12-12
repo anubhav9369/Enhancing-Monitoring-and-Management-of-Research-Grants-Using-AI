@@ -1,0 +1,102 @@
+{
+ "awd_id": "2514890",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Nanoscale Quantum Sensing of Correlations using NV Centers in Diamond",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927421",
+ "po_email": "msbyrd@nsf.gov",
+ "po_sign_block_name": "Mark S. Byrd",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "Magnetic field sensing provides a powerful lens for understanding materials. By measuring magnetic fields one can discover the magnetic structure of a material, how electrical currents flow, and exotic phenomena such as superconductivity and topology. Most magnetic measurements until now have focused primarily on measuring the magnitude and direction of the field, just as a compass measures the earth\u2019s magnetic field. However, more can be learned about materials if magnetic noise signals where the magnetic field fluctuates in time can be measured, and the average field is zero. Furthermore, many materials phenomena can be best characterized by measuring correlations in the magnetic noise\u2014how the noise in different parts of the material and different moments in time change in concert with each other. Such magnetic noise correlations are difficult to measure directly, and they are often inferred from indirect measurements by measuring the scattering of particles off the material, which discards much of the information. This project will develop methods to directly measure magnetic noise correlations in materials using quantum sensors based on nitrogen vacancy (NV) centers in diamond, which will provide a new way to understand materials that can drive new technologies. In the context of this research program the PI will also pursue technology transfer to start-up and industry efforts, leveraging pre-existing relationships with industrial partners like Element Six. Synergistically, and will leverage a highly successful summer research program, the Quantum Undergraduate Research Program in industry and Princeton (QURIP), by expanding QURIP into a multi-partner program.\r\n\r\nThe PI and their team have recently demonstrated that NV centers in diamond can be used to measure correlations in both space and time by computing the correlation between individual measurements with pairs of NV centers before signal averaging. This proposal would expand the capabilities of the covariance magnetometry quantum sensing platform to access new quantities for many body physics. First, the team will extend the technique to pairs of NV centers that are optically and spectrally unresolvable by performing super-resolution covariance magnetometry.  They will also use strongly coupled (entangled) NV centers to perform entanglement-enhanced covariance sensing through differential measurements among Bell states. Second, the team will develop new protocols to measure higher order correlators among NV centers. This will require multiplexed readout and higher state preparation fidelity in order to be feasible and scalable. Third, we will develop new surface chemistries and fabrication schemes for improving the properties of NV centers within nanometers of the surface.  The PI and team will focus on improving the charge dynamics of shallow NV centers to enable high fidelity readout, while preserving or improving their spin properties. This project will catalyze a new frontier in nanoscale quantum sensing by utilizing measurements of nonlocal correlation functions, expanding the scope of quantum sensors beyond local measurements of magnetic fields and noise. This quantum sensing platform adds a qualitatively new capability to the arsenal of materials measurement techniques, providing access to information about nonlocal properties and correlation functions that can report on dynamics and inhomogeneous systems. This research program will enable widespread adoption of this advanced sensing platform and the investigation of the dynamics of diverse many-body systems that have been stubbornly resistant to traditional spectroscopy probes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nathalie",
+   "pi_last_name": "de Leon",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nathalie P de Leon",
+   "pi_email_addr": "npdeleon@princeton.edu",
+   "nsf_id": "000704651",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Princeton University",
+  "perf_str_addr": "1 NASSAU HALL",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085442001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "728100",
+   "pgm_ele_name": "QIS - Quantum Information Scie"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

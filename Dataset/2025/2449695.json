@@ -1,0 +1,106 @@
+{
+ "awd_id": "2449695",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Small: Toward Personalized and Trustworthy Mobile App Recommendations via Grounding App Behaviors",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Mobile applications (apps), though useful, can create privacy risks for their users by leaking sensitive information from SMS text messages, location data, contacts, and photos, etc. to the app developers or to data brokers. This is a critical problem since both the number of mobile applications and people's use of them have grown greatly over the last decade. This expansion of choices and uses makes it hard for people to find apps that meet both their functional and privacy needs. Recommender systems, which provide personalized suggestions based on user ratings, usage, and other data, are often used in other domains to help people decide between many choices. However, applying existing recommendation methods to mobile apps can expose users to options that may appear useful but pose substantial privacy risks. This project introduces a new genre of recommender systems that selects a small set of candidate apps that might work for people based on their functional needs; analyzes the way those apps access, transform, and share data; and combines those rankings with people's privacy expectations to suggest apps that best meet individual people's needs. Further, the system will be designed to clearly communicate the privacy risks involved with suggested apps. Together, the work will promote safer, more trustworthy mobile experiences while advancing people's understanding of privacy online.\r\n\r\nThe project will achieve this goal by grounding conflicting information about app behavior, such as discrepancies between app metadata and findings from static software analysis, through simulated user interactions with apps. First, new static analysis techniques will be developed by introducing novel program slicing methods for mobile apps that emphasize user-interpretable actions, incorporate permission awareness, and account for critical code in life cycle methods, event callbacks, and inter-component communication. Next, a multi-step deep reinforcement learning framework will be designed to simulate user interactions with apps under different configurations, enabling estimation of true app behavior in realistic settings. Finally, an interactive conversational recommendation system will be created to integrate privacy considerations through targeted interventions on app aspects derived from users' historical interactions and to refine recommendations based on insights from grounded app behaviors. This approach will enhance user safety while maintaining satisfaction by effectively balancing privacy and functionality.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Muhammad",
+   "pi_last_name": "Siddique",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Muhammad A Siddique",
+   "pi_email_addr": "siddique@cs.uky.edu",
+   "nsf_id": "000862613",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Kentucky Research Foundation",
+  "inst_street_address": "500 S LIMESTONE",
+  "inst_street_address_2": "109 KINKEAD HALL",
+  "inst_city_name": "LEXINGTON",
+  "inst_state_code": "KY",
+  "inst_state_name": "Kentucky",
+  "inst_phone_num": "8592579420",
+  "inst_zip_code": "405260001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "KY06",
+  "org_lgl_bus_name": "UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H1HYA8Z1NTM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Kentucky Research Foundation",
+  "perf_str_addr": "500 S LIMESTONE",
+  "perf_city_name": "LEXINGTON",
+  "perf_st_code": "KY",
+  "perf_st_name": "Kentucky",
+  "perf_zip_code": "405260001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "KY06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

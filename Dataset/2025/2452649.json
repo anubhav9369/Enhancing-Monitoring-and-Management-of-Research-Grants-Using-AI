@@ -1,0 +1,93 @@
+{
+ "awd_id": "2452649",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Dynamic Free Boundary Problems",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "This project addresses motions of interfaces that arise from physical applications such as the freezing of water into ice, the wetting of water drops on a rough surface, and density-constrained tumor growth. These motions generate a diverse set of singularities: some are topological ones, for instance created by merging and splitting of water drops, and some involve dendrite-like growth, such as in ice crystals or in aggressive tumor growth, due to scale-dependent instability of the evolution dynamics. The Principal Investigator (PI) aims to analyze basic properties of solutions and clarify the critical scale of instability, to validate or invalidate available models in the literature. The project involves collaboration with students and researchers at all stages. \r\n \r\nThe presence of lower-dimensional structure is ubiquitous in the physical literature, either as a boundary of a domain or as a singular part of an evolution. Many problems which are otherwise well-understood face significant challenges when coupled with a moving interface, even in seemingly simple settings. Besides the nonlinearity of the problem, the difficulty lies in the nonlocality of the problem, in the sense that the behavior of solutions depends on the global geometry of the interface. Compared with stationary problems, the aforementioned interface motions face an additional difficulty, due to the presence of the time variable which often is of hyperbolic nature. The project aims to develop general methods to investigate the aforementioned problems and the interesting singularities they feature. The first research direction of the project develops a new perspective on the Stefan problem, in the context of optimal transport and interacting particle systems. This viewpoint was recently introduced by the PI and others to prove global well-posedness of the supercooled Stefan problem, a famously borderline ill-posed problem, in all space dimensions. The project builds on this framework to study geometric properties of the solutions as well as to extend the theory to a broader context. The second direction concerns the motion of liquid droplets on solid surfaces with microscopic defects. The presence of defects results in hysteresis, where there is pinning and de-pinning of the droplets during the motion, due to the microscopic contact angle between the surface and the drop. A simplified model is considered, where the problem is formulated as the homogenization of Bernoulli-type free boundary problems, and the goal is to study the dependence of the large-scale geometry of the droplet on the shape and distribution of the defects. The third research direction is on several types of tumor growth models, where the tumor cell density evolves subject to the maximal density constraint. The density then forms a patch where it reaches its maximal density, yielding a Hele-Shaw type flow with a growth term. Here the goal is to understand the effect of different parameters, such as the diffusion strength of the nutrient or the viscosity of the fluid, by focusing on the stability or the instability property of the patch evolution.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Inwon",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "c",
+   "pi_sufx_name": "",
+   "pi_full_name": "Inwon c Kim",
+   "pi_email_addr": "ikim@math.ucla.edu",
+   "nsf_id": "000474121",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Los Angeles",
+  "inst_street_address": "10889 WILSHIRE BLVD STE 700",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3107940102",
+  "inst_zip_code": "900244200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "36",
+  "st_cong_dist_code": "CA36",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RN64EPNH8JC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Los Angeles",
+  "perf_str_addr": "520 Portola Plaza",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900951555",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "36",
+  "perf_st_cong_dist": "CA36",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

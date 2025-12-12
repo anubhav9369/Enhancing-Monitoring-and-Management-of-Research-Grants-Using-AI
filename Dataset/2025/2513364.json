@@ -1,0 +1,93 @@
+{
+ "awd_id": "2513364",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Research Infrastructure: Leveraging the Research Data Ecosystem for ICPSR's Comprehensive Data Archive",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032927808",
+ "po_email": "jwhitmey@nsf.gov",
+ "po_sign_block_name": "Joseph Whitmeyer",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 1753908.0,
+ "awd_amount": 1753908.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "This project enhances the ability of the Research Data Ecosystem (RDE) to improve access to the Inter-university Consortium for Political and Social Research\u2019s (ICPSR) Comprehensive Data Archive, the world\u2019s largest social science data archive. In this project, ICPSR at the University of Michigan transitions its vast repository of over 20,000 studies and 6 million variables to RDE\u2019s cutting-edge digital platform. This enhances the findability and usability of essential data resources. RDE\u2019s modern technology gives scientists across the fields of science and engineering the ability to efficiently access and analyze different data types, increasing the reproducibility of their research. Such improvements are vital for advancing scientific breakthroughs that can lead to groundbreaking discoveries and for supporting data-driven policy decisions that can bolster national health, prosperity, and welfare and contribute to national security. Moreover, metadata mapping and enrichment analysis align existing data to FAIR standards, ensuring the discoverability and interoperability of various data types, including video and geospatial data, and increasing AI readiness. These invaluable data resources are made more accessible to all Americans, thereby enriching data literacy and strengthening the U.S. data workforce.\r\n\r\nThis project migrates ICPSR's extensive data archives to the modernized Research Data Ecosystem (RDE) software platform, enabling improved data accessibility, usability, and security. Utilizing a robust ETL (Extract, Transform, Load) process, ICPSR's over 20,000 studies and 6 million variables are transitioned from outdated systems using a scalable and robust Data Migration Framework involving backend services and infrastructure for security and storage. Metadata mapping and enrichment analysis align existing data to FAIR standards, ensuring the discoverability and interoperability of various data types, including video and geospatial data. Workflow mapping analysis consolidates complex and disparate workflows from ICPSR\u2019s legacy systems to a streamlined workflow in the modernized RDE platform, delivering a significantly better user experience for depositors, curators, project managers, reviewers, and administrative staff. Through three phases, the migration progressively integrates self-published, high-value public-use, and restricted datasets into the RDE software platform. This enables new and advanced functionalities, including for metadata enhancement, data exploration, and secure cloud-based analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Margaret",
+   "pi_last_name": "Levenstein",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Margaret C Levenstein",
+   "pi_email_addr": "maggiel@umich.edu",
+   "nsf_id": "000104656",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "277Y00",
+   "pgm_ele_name": "RI Social & Behavioral Science"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1753908.0
+  }
+ ],
+ "por": null
+}

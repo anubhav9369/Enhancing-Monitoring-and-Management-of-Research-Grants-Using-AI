@@ -1,0 +1,106 @@
+{
+ "awd_id": "2420975",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: AMPS: Optimal Design and Implementation of Capacity Markets under Market Failure Using Bilevel Financial Market Models",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 83522.0,
+ "awd_amount": 83522.0,
+ "awd_min_amd_letter_date": "2025-04-08",
+ "awd_max_amd_letter_date": "2025-04-08",
+ "awd_abstract_narration": "This project addresses the critical issue of determining the best way to incentivize electricity producers to build sufficient power plant capacity to keep the electrical grid resilient, reliable and sustainable, all this while satisfying consumers. The goal is to provide regulators with tools to promote beneficial portfolios of battery storage and electricity production technologies, while also accounting for risks, transmission limitations and unpredictable events. Other outcomes of this project are expected to include development of new classes on Electricity Markets, support of new graduate students working in this area, and industrial collaborations.\r\n\r\n\r\nA recurring question in electric power markets has been: are spot prices sufficient to incentivize enough investment in generation capacity, storage, and demand-side management in order to ensure reliable and sustainable operating conditions? In other words, are spot prices enough by themselves to stimulate efficient mixes of electricity supply and storage that ensure that the resulting grid is resilient, reliable and sustainable? This question will be addressed by a new framework that will incorporate realistic market features and explore their implications for short- and long-run equilibria, optimal capacity prices, and net benefits of market designs. These features include battery storage and variable wind and solar resources, as well as risk-aversion, incomplete markets, transmission congestion, optimal demand management, and other features. The new framework will use a unique set of analytical and computational methods to solve for Nash equilibria in market models that are unique in their combining representations of stochastic demand processes, market participant risk attitudes, and simultaneous consideration of the role of regulators, market operators, suppliers, and consumers. The proposed framework can be simplified to have tractable dynamics, and also is general enough to incorporate all the desired features of real markets, including battery storage, variable renewables, transmission limits, evolution of capacities, and optimal demand management. The goal will then be to find Nash equilibria among the supply capacities of producers, together with the regulator's optimal capacity payments that maximize net market benefits. The aim is to compare energy-only and capacity markets, find the combination of capacity payments and price caps that maximize the reliability and net benefits of the market. In the near future, the demands upon the grid are expected to dramatically increase, as more applications switch from fossil-fuels to electricity (e.g., electric vehicles), and new uses appear (e.g., AI, bitcoin mining). Therefore, it is vital to study how to keep supply reliable and affordable, and desired generation facilities financially sustainable (in a Nash equilibrium sense), while achieving social goals of renewable power by providing incentives to the producers to \"do the right thing.\"\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Benjamin",
+   "pi_last_name": "Hobbs",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Benjamin F Hobbs",
+   "pi_email_addr": "bhobbs@jhu.edu",
+   "nsf_id": "000198365",
+   "pi_start_date": "2025-04-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "045Y00",
+   "pgm_ele_name": "AMPS-Algorithms for Modern Pow"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8396",
+   "pgm_ref_txt": "Clean Energy Technology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 83522.0
+  }
+ ],
+ "por": null
+}

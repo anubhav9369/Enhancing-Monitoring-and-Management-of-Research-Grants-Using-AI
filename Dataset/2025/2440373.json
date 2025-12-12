@@ -1,0 +1,102 @@
+{
+ "awd_id": "2440373",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Harnessing Artificial Intelligence to Improve the Efficiency of Transportation Control Infrastructure",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 518552.0,
+ "awd_amount": 518552.0,
+ "awd_min_amd_letter_date": "2025-04-11",
+ "awd_max_amd_letter_date": "2025-04-11",
+ "awd_abstract_narration": "This Faculty Early Career Development (CAREER) project will fund research that leverages individual trajectory data to study traffic flow dynamics using a multiscale formulation, so that one can learn from microscopic driving behavior to infer macroscopic traffic flow dynamics. The research intends to support the creation of new traffic models by integrating high-fidelity trajectory data and machine learning techniques and will create novel traffic control strategies under both current and future transportation infrastructure settings. Properties of highway traffic flow, such as the relationship between flow (e.g., vehicles per hour) and density (number of vehicles per mile), depend on highly complex nonlinear interactions between individual drivers on the roadway. Traditionally, traffic control has been conducted using an aggregate approximation of the flow dynamics based on average observed driver behavior. However, recent advances in artificial intelligence allow for development of more nuanced and complex physics-informed models that can readily and quickly predict traffic behavior after observing driving behavior of individual vehicles in the flow. The development of such artificial-intelligence-guided traffic models will allow researchers and practitioners to leverage new data streams and integrate these into a framework for traffic control that is customized for specific observed traffic. Developed novel traffic control techniques intend to result in more efficient traffic control without the need for a major overhaul of our transportation infrastructure, saving investments and costs for infrastructure managers while improving traffic efficiency and reducing traffic congestion and travel time. The research, education and outreach plans are tightly integrated to further disseminate impacts through active and interactive learning opportunities that broaden participation in STEM.\r\n\r\nTo enable next generation traffic control that considers the dynamics of individual vehicles and their impact on the aggregate traffic flow, this research intends to (i) develop methods that rely on low-rank characterizations of time-series driving data to rapidly and reliably identify an individual vehicle driving signature, (ii) develop an artificial intelligence-guided modeling framework that relies on physics-informed learning to quickly predict the resulting aggregate traffic flow dynamics of a particular collection of vehicles with distinct driving signatures and a specified local interaction network topology, and (iii) design a suite of next-generation traffic control options including both control at fixed locations in the infrastructure, as well as control distributed throughout the flow that leverage more precise knowledge of the macroscopic dynamics to adjust control strategies based on the driving signature of individual vehicles and the anticipated resulting aggregate flow dynamics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Raphael",
+   "pi_last_name": "Stern",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Raphael Stern",
+   "pi_email_addr": "rstern@umn.edu",
+   "nsf_id": "000821501",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 OAK ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554552009",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163100",
+   "pgm_ele_name": "CIS-Civil Infrastructure Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "029E",
+   "pgm_ref_txt": "INFRASTRUCTURE SYSTEMS MGT"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 518552.0
+  }
+ ],
+ "por": null
+}

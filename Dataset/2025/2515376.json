@@ -1,0 +1,114 @@
+{
+ "awd_id": "2515376",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Bayesian Model Selection and Model Combination Using Novel Developments of Stein's Unbiased Risk Estimator",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927299",
+ "po_email": "yzeng@nsf.gov",
+ "po_sign_block_name": "Yong Zeng",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 240000.0,
+ "awd_amount": 240000.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Statistical models \u2014 probabilistic descriptions of the processes that give rise to observed data \u2014 are an integral component of modern science across various disciplines, enabling researchers to learn from the data they collect and make predictions about future events. This research addresses the important challenges of model selection and model combination within the Bayesian statistical framework. Model selection involves choosing, from a collection of candidate models, the single model that best describes the data, while model combination involves constructing a hybrid model that outperforms any single model. The Bayesian framework has gained prominence in recent decades because it enables researchers to fit complex models to data, simultaneously account for multiple sources of uncertainty, and combine the information in newly observed data with prior scientific knowledge. This research will develop new, computationally efficient techniques for estimating a model\u2019s prediction accuracy in the Bayesian framework and will apply these techniques to the problems of model selection and model combination. In the process, it will contribute to STEM education by training statisticians at the graduate level. It will also lead to publicly available software for researchers across a broad range of disciplines.\r\n\r\nThis research will include several novel projects aimed at developing Stein\u2019s unbiased risk estimate (SURE) as a practical and computationally efficient tool for Bayesian analysis. SURE has become an established tool for model selection and parameter tuning in frequentist settings. However, SURE requires the computation of a penalty term, sometimes referred to as the generalized degrees of freedom, which adds a significant computational burden for complex estimators. Consequently, SURE has been applied considerably less for more computationally demanding Bayesian and machine learning models.  This research will: (1) develop a novel expression of SURE that is straightforward to compute via Markov chain Monte Carlo for Bayes estimators of a Gaussian mean resulting from essentially arbitrary prior distributions, along with extensions to unknown variances and continuous tuning parameters; (2) introduce methodology for fully Bayesian M-open inference for both Gaussian, improving upon existing model combination/selection techniques and allowing for fully Bayesian uncertainty quantification for machine learning models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jonathan",
+   "pi_last_name": "Bradley",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jonathan R Bradley",
+   "pi_email_addr": "jrbradley@fsu.edu",
+   "nsf_id": "000769107",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Michael",
+   "pi_last_name": "Jauch",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michael Jauch",
+   "pi_email_addr": "mj22y@fsu.edu",
+   "nsf_id": "0000A2KT1",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Florida State University",
+  "inst_street_address": "874 TRADITIONS WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "TALLAHASSEE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "8506445260",
+  "inst_zip_code": "323060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "FL02",
+  "org_lgl_bus_name": "FLORIDA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF2BLNN4PJC3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Florida State University",
+  "perf_str_addr": "874 TRADITIONS WAY",
+  "perf_city_name": "TALLAHASSEE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "323060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "FL02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 240000.0
+  }
+ ],
+ "por": null
+}

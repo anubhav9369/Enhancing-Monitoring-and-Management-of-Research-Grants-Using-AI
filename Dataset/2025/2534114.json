@@ -1,0 +1,126 @@
+{
+ "awd_id": "2534114",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "U.S.-Ireland R&D Partnership: MAARS: Multi-Bessel Antenna systems for Angle-Range Spatial multiplexing",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Wireless communication technology has become a vital part of our daily lives, connecting everything from mobile phones and computers to smart cars and smart homes. However, along with the benefits of wireless connectivity comes significant challenges. Radio waves naturally spread out in all directions, which helps increase connectivity but also makes interception of signals possible, leading to security concerns. On the other hand, as more people and devices use wireless networks, the airwaves are becoming increasingly crowded, which causes interference and can slow down or disrupt communications. This U.S.-Ireland R&D Partnership project offers a new and innovative solution: location-specific, pocket-like wireless communications. Current wireless technologies cannot limit the communication range to specific locations: the signals continually propagate in space. By limiting the reach of the information to specific locations, a small \"communication pocket\" is created to exist in only a specific area. Outside of this area, the signal is very weak or completely undetectable. The result is a wireless communication system that is more private, more secure, and more efficient. This new approach has the potential to improve next-generation wireless systems like 5G and 6G, allowing smart cars to communicate more reliably with roads and other vehicles and Internet of Things (IoT) devices to work more smoothly and securely. In addition to impacting these real-world applications, this project plays an important role in education. The outcomes of this project contribute to training the next generation of engineers by offering new methods for studying how radio waves behave and how to control them. By making wireless communications more targeted and intelligent, the research of this project enables a future where wireless connections are faster, safer, and more reliable -- wherever and whenever they are needed.\r\n\r\nWireless communication systems have always faced a critical challenge: vulnerability to eavesdropping due to the open nature of radio wave propagation. While encryption algorithms offer protection at higher layers of the network, physical-layer security remains limited as raw wireless signals can still be intercepted and demodulated, potentially exposing sensitive information. This research advances knowledge in wireless communications through a fundamentally new approach: location-specific radio communication enabled by using non-diffractive beams such as Bessel beams, which represents a major shift in wireless system design. Non-diffractive beams are unique in that the beams retain their shape as they propagate in space and can even self-heal after encountering obstructions. These properties allow for the formation of precisely controlled electromagnetic fields in the near-field region close to the transmitting antennas. By superimposing and coordinating multiple Bessel beams using distributed antenna apertures, the project studies focused \"communication pockets\" that are spatially confined and extremely difficult to intercept or disrupt from outside the intended area. The research aims to achieve four key objectives: i) Near-field beamforming using synchronized multi-Bessel-beam launchers to generate highly localized communication zones; ii) Design of multi-Bessel-beam antenna systems for spatially selective wave shaping; iii) Development of reconfigurable systems using liquid crystal materials to adapt beam patterns in real-time to dynamic changes in environment or security threats; and iv) Creation of new methodologies for security analysis, addressing timing channels, encryption, authentication, and near-field attack vectors. The results of this project enhance wireless communications by making them more secure, spatially aware, and adaptive to the increasingly complex demands of current and future wireless systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mauro",
+   "pi_last_name": "Ettorre",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mauro Ettorre",
+   "pi_email_addr": "ettorre@msu.edu",
+   "nsf_id": "000923323",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jeffrey",
+   "pi_last_name": "Nanzer",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeffrey A Nanzer",
+   "pi_email_addr": "nanzer@msu.edu",
+   "nsf_id": "000721653",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan State University",
+  "inst_street_address": "426 AUDITORIUM RD RM 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST LANSING",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "5173555040",
+  "inst_zip_code": "488242600",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "MICHIGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "VJKZC4D1JN36",
+  "org_uei_num": "R28EKN92ZTZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan State University",
+  "perf_str_addr": "Engineering Bldg, 428 S Shaw Ln Room 3241",
+  "perf_city_name": "EAST LANSING",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "488241226",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5946",
+   "pgm_ref_txt": "UNITED KINGDOM"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  },
+  {
+   "pgm_ref_code": "6869",
+   "pgm_ref_txt": "US/IRELAND R & D"
+  },
+  {
+   "pgm_ref_code": "098E",
+   "pgm_ref_txt": "Antennas and Electromagnetics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

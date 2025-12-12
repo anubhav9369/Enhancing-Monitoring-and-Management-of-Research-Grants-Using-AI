@@ -1,0 +1,110 @@
+{
+ "awd_id": "2435532",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ACED: From Radiation Therapy to the High Energy Universe: Generative AI for Particle Tracking",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928111",
+ "po_email": "ccyang@nsf.gov",
+ "po_sign_block_name": "Christopher Yang",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 491530.0,
+ "awd_amount": 491530.0,
+ "awd_min_amd_letter_date": "2025-05-28",
+ "awd_max_amd_letter_date": "2025-05-28",
+ "awd_abstract_narration": "Artificial intelligence is rapidly expanding across all fields of science, including physics. The 2024 Nobel Prize in Physics was awarded for groundbreaking advancements in artificial intelligence that have led to significant discoveries in various physics applications, including the IceCube's observation of astrophysical neutrinos from the Galactic Plane. Here, we propose to use generative AI to transform the simulation of high-energy particle interactions, enabling faster and more efficient modeling. Traditional simulation methods require immense computational resources, with a single particle collision at high energies involving billions of calculations. By applying AI-driven techniques, we aim to dramatically accelerate these processes, reducing computational costs while preserving accuracy. The expected outcomes include advances in fundamental physics, fostering discoveries in astrophysics, and new applications in medical physics, such as radiation therapy. Beyond research, we will integrate the outcomes of this project into the successful augmented reality (AR) app ICEcuBEAR, using AI-generated particle showers to create interactive holograms. This will enhance physics education by bringing AR experiences into K-12 classrooms and after-school programs, introducing students to the fundamentals of particle physics in an engaging and accessible way.\r\n\r\nThis interdisciplinary research will be carried out through a close collaboration between computer scientists and physicists, combining expertise in artificial intelligence, Monte Carlo simulations, and high-energy particle interactions. To achieve these advancements, we will develop graph-based generative AI models that efficiently simulate particle showers\u2014cascades of secondary particles following high-energy collisions. Particle showers exhibit an inherent tree-like structure, where each parent particle branches into multiple secondary particles, forming a hierarchical pattern. Our approach will use generative models that preserve this structure, capturing complex correlations in particle interactions. Recent breakthroughs in large language models (LLMs) and diffusion-based AI provide a foundation for this work, as these methods are well-suited for learning structured dependencies in sequential data. By incorporating physics-informed constraints, we aim to improve simulation accuracy while dramatically reducing computational costs. This approach will enable faster and more precise event reconstruction\u2014critical for time-domain multi-messenger follow-up and more effective background and signal modeling. Achieving a breakthrough in our simulations will allow these advances to be fully applied to neutrino source analyses, significantly increasing the overall sensitivity and discovery potential of neutrino observatories such as IceCube. Moreover, our refined simulation framework is expected to facilitate rare event searches by overcoming limitations due to insufficient background statistics or the prohibitive computational expense of accurate signal modeling, thereby enhancing discovery potential in both particle astrophysics and high-energy collider experiments. Expected outcomes also include open-source algorithms and software, as well as the application of this framework to high-energy neutrino analyses, such as those targeting neutrino discoveries at the Galactic Center with IceCube data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lu",
+   "pi_last_name": "Lu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lu Lu",
+   "pi_email_addr": "lu.lu@icecube.wisc.edu",
+   "nsf_id": "000869540",
+   "pi_start_date": "2025-05-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yong Jae",
+   "pi_last_name": "Lee",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yong Jae Lee",
+   "pi_email_addr": "yongjaelee@cs.wisc.edu",
+   "nsf_id": "000678292",
+   "pi_start_date": "2025-05-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "291Y00",
+   "pgm_ele_name": "ACED-Accl Comp Enabled Sci Dis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 491530.0
+  }
+ ],
+ "por": null
+}

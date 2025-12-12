@@ -1,0 +1,106 @@
+{
+ "awd_id": "2514415",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "GOALI: CNS: Medium: Communication-Computation Co-Design for Rural Connectivtiy and Intelligence under Nonuniformity: Modeling, Analysis, and Implementation",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 623312.0,
+ "awd_min_amd_letter_date": "2025-03-04",
+ "awd_max_amd_letter_date": "2025-04-18",
+ "awd_abstract_narration": "Urban societies throughout the world have come to depend on access to reliable and high-speed wireless, as well as the intelligent data-driven services they can deliver to end users. Low population densities and sparse infrastructure in rural areas, however, make them less attractive for investment in network connectivity. Fifth generation (5G)\u2019s support for vertical industry integration has further magnified the broadband access inequalities between urban and rural environments. Technologies that have been proposed to provide rural broadband access are not designed to address the non-uniformity in demand for communication and computation resources that are found throughout these environments; for example, many automated farming services will have stringent delay requirements for short periods during the day while residential areas exhibit traditional diurnal patterns. This project aims to address this challenge by establishing a core set of methodologies that synergize the design of rural connectivity and computing. Emerging massive multiple-input multiple-output (MIMO) technology is integrated with the design of hierarchical data processing architectures across the rural infrastructure to adapt based on spatial and temporal demand variations. Extensive evaluations are conducted based on a massive MIMO platform and wireless device equipment available from the industrial partner. The project contributes to the development of a diverse workforce in rural broadband and intelligence through the formation of research teams integrating undergraduate and graduate students across institutions.\r\n\r\nProject research activities are organized into three thrusts. Thrust 1 develops agile communication techniques under non-uniform rural settings, addressing the needs for multi-user management and resource allocation for massive MIMO infrastructure. This includes the development of novel network control algorithms with scheduling policies that are customized for heterogeneous rural connectivity needs. The developed algorithms are further enhanced by reducing scheduling overhead through position-aided channel representation techniques. Thrust 2 investigates the orchestration of computation tasks under rural non-uniformity, focusing on establishing intelligent rural data processing architectures leveraging the broadband connectivity provided by Thrust 1. Techniques for distributing data processing among clusters of rural devices aiming to execute collaborative tasks rapidly are developed via joint optimization of device-to-device communications and task utility metrics. The orchestration of data processing and intelligence synchronization steps along the rural network hierarchy is also considered to adapt based on task demand variations. Thrust 3 consists of proof-of-concept implementation and testing of the methodologies in Thrust 1&2. This employs a testbed developed leveraging a commercial-grade hybrid massive MIMO base station system engineered by the industrial partner. \r\n\r\nThis project is jointly funded by CNS and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Taejoon",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Taejoon Kim",
+   "pi_email_addr": "taejoonkim@asu.edu",
+   "nsf_id": "000763443",
+   "pi_start_date": "2025-03-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 623311.0
+  }
+ ],
+ "por": null
+}

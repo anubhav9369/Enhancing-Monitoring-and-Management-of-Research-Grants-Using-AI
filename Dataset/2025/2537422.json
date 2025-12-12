@@ -1,0 +1,138 @@
+{
+ "awd_id": "2537422",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: SmartCAD: Shaping The Next Revolution in Computer-Aided Design",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": null,
+ "po_email": "",
+ "po_sign_block_name": "Martin Thomas",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 588956.0,
+ "awd_amount": 186617.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "The rapid advancement of artificial intelligence (AI) is reshaping various sectors, yet the field of design for manufacturing has not fully capitalized on these innovations. This project aims to bridge this gap by developing new design tools that combine AI with traditional design algorithms and principles. A central challenge for design tools in manufacturing is the need to simultaneously nurture the creative ability to conceive novel designs and the analytical prowess to critically evaluate and optimize functionality and production. The goal of this project is to address these challenges and develop novel tools that make it easier for both new and experienced designers to create a wide range of high-quality products. These tools are expected to not only improve product quality and variety, but also enhance sustainable manufacturing. Additionally, the project includes an educational component to make STEM fields more accessible and engaging through design and manufacturing.\r\n\r\n\r\nTo unite design precision with creative exploration, this project will develop tools that combine neural abstractions with formal reasoning. Treating computer-aided design (CAD) models as programs that generate geometry, this initiative interprets design as program synthesis, benefiting from formal reasoning and advancements in AI-driven code generation. This approach ensures verifiability and constraint-adherent synthesis, essential for precise engineering analysis. The project will develop a new domain-specific language (DSL) to better support AI-driven design, create algorithms for generating DSL programs from diverse inputs using models like Generative Pre-trained Transformers (GPT) integrated with geometric knowledge, and devise methods to identify and explore design variations efficiently. Additionally, it will establish techniques for design decomposition and recomposition, enhancing the DSL's flexibility and users\u2019 ability to innovate in design generation and iteration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adriana",
+   "pi_last_name": "Schulz",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adriana Schulz",
+   "pi_email_addr": "adriana_schulz@brown.edu",
+   "nsf_id": "000786155",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 83732.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 102885.0
+  }
+ ],
+ "por": null
+}

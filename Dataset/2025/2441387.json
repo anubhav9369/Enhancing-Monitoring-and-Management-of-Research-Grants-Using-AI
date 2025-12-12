@@ -1,0 +1,114 @@
+{
+ "awd_id": "2441387",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER:  Modeling Services as Interactions: A New Direction in Design and Control of Services",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922681",
+ "po_email": "ruzsoy@nsf.gov",
+ "po_sign_block_name": "Reha Uzsoy",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 525009.0,
+ "awd_amount": 525009.0,
+ "awd_min_amd_letter_date": "2025-04-11",
+ "awd_max_amd_letter_date": "2025-04-11",
+ "awd_abstract_narration": "The service sector contributes over 70 percent to the nation's Gross Domestic Product (GDP) and engages a workforce of more than 130 million. This Faculty Early Career Development Program (CAREER) grant will support research that attempts to contribute to the progress of science and the advancement of national prosperity and welfare by introducing and analyzing stochastic models at the level of interactions between customers and service providers, rather than via traditional system-level models. By capturing micro-level details that were previously overlooked, this project intends to address novel and societally important operational problems in the service sector, offering to recover wasted time and improve customer outcomes without additional resources. This project aims to improve managerial decision making, introduce new operational problems, and generally open novel avenues of analysis specifically for services. In its education plan, the award aims to expose students to modeling and quantitative reasoning through the development and dissemination of instructor-facing tools for integrating artificial intelligence and data science in undergraduate business education. As undergraduate business students comprise an extensive and representative population of future team members and leaders of the Nation's commercial enterprises, their understanding, involvement, and support of modeling can improve the overall quantitative literacy of the workforce and public, advancing the scientific and industrial competitiveness of the nation. \r\n\r\nTowards these aims, the research objectives of this award are to establish and analyze stochastic models of service at the level of interactions. In traditional queuing theory, a service time is viewed as a realization of a single random variable.  However, service interaction data reveals that this perspective is too coarse: it overlooks the facts that (i) each service interaction is composed by a unique collection of multiple contributions, and (ii) these contributions come from two distinct and interacting sides, the customer and the service agent.  This project\u2019s interaction framework views service time not as a single random variable, but rather as a finite point process (modeled initially as a Hawkes process) of contributions driven by its history.  The random variable describing service duration can arise in two different ways: either at the moment of the final contribution (if the service closes \u201cnaturally\u201d) or at a stopping time on the filtration of the point process (if the service must be closed \u201csystematically\u201d).  By moving from the prevailing macro-level perspective to the micro, these interaction models will identify and solve a new class of control and design problems and also re-contextualize classic approaches to these managerial decisions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Daw",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew M Daw",
+   "pi_email_addr": "dawandre@usc.edu",
+   "nsf_id": "000938549",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3670 Trousdale Parkway",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900890701",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "006Y00",
+   "pgm_ele_name": "OE Operations Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "072E",
+   "pgm_ref_txt": "NETWORKS & QUEUING SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "078E",
+   "pgm_ref_txt": "ENTERPRISE DESIGN & LOGISTICS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "5514",
+   "pgm_ref_txt": "OPERATIONS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 525009.0
+  }
+ ],
+ "por": null
+}

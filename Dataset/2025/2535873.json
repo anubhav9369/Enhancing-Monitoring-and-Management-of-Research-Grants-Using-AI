@@ -1,0 +1,126 @@
+{
+ "awd_id": "2535873",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Pioneering the Next Spectrum Frontier: Transitioning Line-of-Sight Systems from Sub-10 GHz to Higher Bands",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05050000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 285000.0,
+ "awd_amount": 285000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "This project addresses the critical challenge of optimizing the use of radio frequency spectrum, a limited and finite resource essential for modern communications. Currently, lower frequency bands (below 10 GHz) are highly congested due to the legacy line-of-sight systems, limiting their availability for vital applications such as rural broadband, emergency services, and infrastructure applications. Simultaneously, higher frequency bands (12-40 GHz), such as Ku-, K-, and Ka-bands, remain largely underutilized due to uncertainties about their reliability. The goal of this project is to develop methodology that will enable satellite communication links operating in these higher, less congested bands to achieve the same level of reliability and performance as systems in the lower bands. Demonstrating this capability will free up valuable low-frequency spectrum for broader societal benefit, promoting national health, prosperity, and welfare by enabling wider access to critical communication services. The project will also develop tools and train future engineers, fostering evidence-based decision-making for spectrum management and ensuring flexible access to this crucial resource.\r\n\r\nThe project's primary goal is to establish the feasibility of transitioning line-of-sight communication systems, specifically satellite-to-ground links, from congested sub-10 GHz frequencies to higher-frequency bands (12-40 GHz). This will be accomplished through developing a comprehensive framework that integrates spectrum policy considerations with advanced propagation-aware service assessments. The methodology involves training deep learning models on real-world weather and radio-frequency telemetry data to predict atmospheric disruptions at high frequencies. Furthermore, the project will develop adaptive control mechanisms, utilizing reinforcement learning agents, to maintain service continuity under challenging environmental conditions like rain attenuation and cloud cover. A modular digital twin simulation environment will be employed to validate these predictive and control models across diverse operational scenarios. The anticipated contribution is the establishment of a robust technical foundation for resilient, high-frequency satellite operations, alongside a replicable methodology for future spectrum reallocation initiatives, providing actionable insights for regulatory bodies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sabit",
+   "pi_last_name": "Ekin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sabit Ekin",
+   "pi_email_addr": "sabitekin@tamu.edu",
+   "nsf_id": "000743583",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Sprintson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander Sprintson",
+   "pi_email_addr": "asprints@gmu.edu",
+   "nsf_id": "000486084",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Theodore",
+   "pi_last_name": "Rappaport",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Theodore S Rappaport",
+   "pi_email_addr": "tsr@nyu.edu",
+   "nsf_id": "000617109",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M Engineering Experiment Station",
+  "inst_street_address": "3124 TAMU",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778433124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A&M ENGINEERING EXPERIMENT STATION",
+  "org_prnt_uei_num": "QD1MX6N5YTN4",
+  "org_uei_num": "QD1MX6N5YTN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M Engineering Experiment Station",
+  "perf_str_addr": "106 Ross Street",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778433367",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151Y00",
+   "pgm_ele_name": "SII-Spectrum Innovation Initia"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 285000.0
+  }
+ ],
+ "por": null
+}

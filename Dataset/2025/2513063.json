@@ -1,0 +1,98 @@
+{
+ "awd_id": "2513063",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Optimization Solutions based on Quantum and Quantum-Inspired Techniques",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-05-08",
+ "awd_max_amd_letter_date": "2025-05-08",
+ "awd_abstract_narration": "This I-Corps project focuses on the development of time and energy efficient solutions for mathematical optimization, a cornerstone of industries such as finance (portfolio optimization), supply chain management (routing and scheduling), medical imaging and treatment development, power grid control, and more. Traditional solvers often fail to fully leverage emerging hardware like graphics processing units and quantum devices due to limitations in both theoretical algorithm design and implementation strategies. The optimization engine solution is uniquely suited to harness the potential of such hardware, aiming to significantly enhance the efficiency of solving complex, industry-scale optimization problems. By providing critical decision-making intelligence in industrial production processes, this optimization solution has the potential to drastically reduce production costs and increase revenues.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a novel algorithm for optimization called quantum Hamiltonian descent which is inspired by physical processes and designed to be compatible with quantum devices (e.g., quantum Ising machines) and high-performance classical processors like graphics processing units. The prototype for graphics processing units has demonstrated a 100x performance improvement over the state-of-the-art commercial solvers on well-established benchmarks for quadratic programming problems. Additionally, prototypes for quantum and semi-quantum devices have shown orders-of-magnitude improvements in either time efficiency (quantum) or energy efficiency (semi-quantum) for small-scale problem instances allowed by current hardware. To ensure seamless integration, a user-friendly software interface has been developed, which is tailored to existing optimization software ecosystems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaodi",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaodi Wu",
+   "pi_email_addr": "xwu@cs.umd.edu",
+   "nsf_id": "000753578",
+   "pi_start_date": "2025-05-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland, College Park",
+  "inst_street_address": "3112 LEE BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE PARK",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "3014056269",
+  "inst_zip_code": "207425100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MD04",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+  "org_prnt_uei_num": "NPU8ULVAAS23",
+  "org_uei_num": "NPU8ULVAAS23"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland, College Park",
+  "perf_str_addr": "3112 LEE BUILDING",
+  "perf_city_name": "COLLEGE PARK",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207425100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MD04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8083",
+   "pgm_ref_txt": "Big Data Science &Engineering"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

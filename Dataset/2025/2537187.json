@@ -1,0 +1,130 @@
+{
+ "awd_id": "2537187",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Networked Multi-User Augmented Reality for Mobile Devices",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 538942.0,
+ "awd_amount": 240879.0,
+ "awd_min_amd_letter_date": "2025-09-08",
+ "awd_max_amd_letter_date": "2025-09-08",
+ "awd_abstract_narration": "Augmented reality (AR) is an emerging technology with potential applications in many fields, including education, entertainment, and public safety. In single-user AR, a user's perception is augmented by overlaying virtual objects onto the real world. In multi-user AR, multiple users are able to view and interact with a common set of virtual objects. However, in today's multi-user AR applications, users can experience poor performance (such as high latency or inconsistent views of the virtual objects by different users) due to the AR application's lack of advanced networking capabilities. This project seeks to address such user experience issues by developing the network capabilities of the underlying AR platform, in order to support future multi-user AR applications.\r\n\r\nThe vision of this project is to create AR-enabling technology where multiple users can visually scan the environment, and a common set of relevant virtual objects swiftly pop up on top of the real-world objects. To accomplish this, the AR devices need to efficiently compute and exchange information amongst themselves, in order to synchronize their joint understanding of the real and virtual worlds. The planned research has three main technical components: (1) measuring and characterizing multi-user AR applications; (2) adapting an AR application to the computing and networking conditions; and (3) adapting the network to the needs of an AR application. Evaluation scenarios include an educational AR classroom application, as well as mobile clients in a 5G testbed.\r\n\r\nThe success of this project will open up a new class of multi-user AR applications in a broad range of fields, including education (for example, multiple AR-equipped students in a classroom) and public safety (for example, multiple AR-equipped first responders in a disaster scenario). The findings from this project will impact how application developers design AR applications and how network operators manage AR network traffic. The multi-user AR platform will be incorporated into undergraduate classes and a campus makerspace, as well as in outreach efforts at local hackathons and high school workshops, with the aim of encouraging women to enter and stay in engineering fields.\r\n\r\nResults from this project, including papers, simulation and application code, and AR quality evaluation and benchmarking tools, will be available at the project website https://github.com/multi-user-ar. The website and code will be available and supported for the duration of this project, and preserved online thereafter.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jiasi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiasi Chen",
+   "pi_email_addr": "jiasi@umich.edu",
+   "nsf_id": "000702623",
+   "pi_start_date": "2025-09-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE STE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091015",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7363",
+   "pgm_ref_txt": "RES IN NETWORKING TECH & SYS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 18472.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 110021.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 112386.0
+  }
+ ],
+ "por": null
+}

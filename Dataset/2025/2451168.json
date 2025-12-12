@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451168",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SaTC: Securing Real-world Speaker Recognition Models against Practical Adversarial Attacks",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 174728.0,
+ "awd_amount": 174728.0,
+ "awd_min_amd_letter_date": "2025-07-11",
+ "awd_max_amd_letter_date": "2025-07-11",
+ "awd_abstract_narration": "This project's goal is to assess and improve the safety of real-world speaker recognition models against advanced adversarial attacks. These models are used by voice-controlled devices such as Amazon Echo, Apple Siri, and Google Home that are increasingly integrated into people's lives. However, these models are at risk of being fooled by attackers trying to create requests that imitate legitimate users' voices but issue unauthorized commands. For now, most known attacks are impractical because the adversary needs to be able to make numerous requests to the model before they can create examples that fool it. More effective attacks may exist, however, and the goal of this project is to learn more about them. In particular, it may be possible for attackers with minimal access to, and limited knowledge of, the speaker and the recognition model -- maybe only a single speech sample from the target speaker -- to develop methods for generating adversarial examples with high transferability that can effectively spoof speaker recognition models without requiring any additional queries. The research team will evaluate these vulnerabilities in current commercial voice-controlled systems and propose robust defense mechanisms to build more secure next-generation voice applications.\r\n\r\nTo meet these goals, this project will focus on three core areas. First, the project leverages generative models to develop a Parrot Training attack that uses voice conversion techniques. By generating supplementary speech samples from a single speech instance of a target speaker, the system builds surrogate models that approximate black-box speaker recognition systems, increasing the effectiveness of adversarial example transfer. Second, this project evaluates the interplay between human perception and attack effectiveness by analyzing the perceptual quality of adversarial speech. This involves assessing how various state-of-the-art adversarial examples affect both transferability and human-perceived audio quality, with the goal of identifying optimal perturbation strategies. Finally, the project incorporates human perception into the development of defense mechanisms. It explores human-in-the-loop adversarial training techniques that are resilient against diverse adversarial examples while reducing computational costs compared to conventional Lp-norm-based training methods. This project will strengthen the security of voice-driven technologies by developing human-aware methods to generate and defend against adversarial attacks on speaker recognition systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rui",
+   "pi_last_name": "Duan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rui Duan",
+   "pi_email_addr": "ruiduan@umkc.edu",
+   "nsf_id": "0000A0QW5",
+   "pi_start_date": "2025-07-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Missouri-Kansas City",
+  "inst_street_address": "118 UNIVERSITY HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "8162355839",
+  "inst_zip_code": "652113020",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MO03",
+  "org_lgl_bus_name": "THE CURATORS OF THE UNIVERSITY OF MISSOURI",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J9CDGR596MN3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Missouri-Kansas City",
+  "perf_str_addr": "118 UNIVERSITY HALL",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "652113020",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MO03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 174728.0
+  }
+ ],
+ "por": null
+}

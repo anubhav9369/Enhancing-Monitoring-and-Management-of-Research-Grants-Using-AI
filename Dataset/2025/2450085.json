@@ -1,0 +1,93 @@
+{
+ "awd_id": "2450085",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: DESC: Type II: Enhancing Data Center Efficiency through Intelligent Tiered Memory Management",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928910",
+ "po_email": "jafowler@nsf.gov",
+ "po_sign_block_name": "James Fowler",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-20",
+ "awd_max_amd_letter_date": "2025-07-20",
+ "awd_abstract_narration": "Modern data centers rely on large-scale memory systems to support everything from search engines to scientific computing. However, the increasing demand for memory leads to significant resource and energy use, particularly when older hardware is discarded before its useful life ends. This project addresses that challenge by developing MemWise, an intelligent system that efficiently manages memory across a range of hardware types. The project\u2019s novelties are a programmable memory controller that coordinates how data is moved and stored across different generations of memory; a technique for reusing older memory modules alongside newer ones to reduce cost; and new fault-tolerant methods to ensure reliability even as memory components age. The project's broader significance and importance are in demonstrating that thoughtful system design can extend hardware lifespans and reduce waste, without sacrificing performance. MemWise is tested in a range of real-world environments, including public cloud services, private infrastructures, and direct-to-hardware computing setups, highlighting its adaptability and impact across the data center ecosystem.\r\n\r\nSpecifically, the project designs a tiered memory architecture connected via a flexible hardware interface called Compute Express Link (CXL). A programmable controller dynamically moves data among memory types based on usage patterns, age, and reliability. To guide decision-making, the research introduces a new metric that jointly considers system efficiency and application performance. This allows both software developers and system tools to make informed trade-offs in real time. The controller also supports automatic data migration and transparent fault handling across unreliable memory units, which is essential for mixed-hardware environments. By co-designing hardware and software and validating ideas with real prototypes, the project advances the state of memory system research and offers practical strategies for improving the long-term efficiency of computing infrastructure. Expected impacts include lower operational costs, reduced waste, and broader educational opportunities for students involved in the research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mosharaf",
+   "pi_last_name": "Chowdhury",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mosharaf Chowdhury",
+   "pi_email_addr": "mosharaf@umich.edu",
+   "nsf_id": "000702601",
+   "pi_start_date": "2025-07-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "242Y00",
+   "pgm_ele_name": "Sustainability in Computing"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,126 @@
+{
+ "awd_id": "2529303",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MATH-DT: Mathematical underpinnings of population-based cardiac digital twins",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 594001.0,
+ "awd_amount": 594001.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Cardiovascular diseases are the leading cause of death in the United States, with arrhythmic heart disease and heart failure as common final pathways. The engineering and design of therapies, devices, and drugs to combat these diseases is challenging due to a limited understanding of both patient-specific and population-level characteristics of cardiac anatomy and physiology. A promising approach for supporting the development of precision medicine in addressing these challenges is the simulation-based, data-driven paradigm of cardiac digital twins (CDTs). This project makes core advances in the science and application of CDTs by leveraging mathematical and statistical foundations to enhance the trustworthiness of CDT simulations. This project will then demonstrate the potential of CDTs in clinical settings by deploying them on state-of-the-art cardiac simulation models and utilizing real-world clinical data.\r\n\r\nThe project aims will be achieved through three technical tasks. The first task builds a framework for assessing and constructing CDTs through statistical inference of virtual heart populations (VHPs) using novel data sources, optimization-based calibration of simulation models, and the introduction of customized methods for surrogate modeling and quantification of aleatoric and epistemic uncertainty. The second task involves developing new exploration-exploitation meta-algorithms to enhance the predictive capabilities of CDTs through innovative paradigms for ensemble learning, model management, and computational budget allocation. The foundational algorithmic advances from the first two tasks will be applied to establish a new holistic CDT framework in the third task. This new framework integrates models across cellular, tissue, and organ-level scales with multimodal and multifaceted clinical data. Exploratory scientific tasks using this new CDT and VHP framework include the development of VHPs for populations affected by specific classes of diseases and the investigation of population-level progression mechanisms that lead to cardiac disease.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Karli",
+   "pi_last_name": "Gillette",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Karli Gillette",
+   "pi_email_addr": "karli.gillette@utah.edu",
+   "nsf_id": "0000A19TJ",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Akil",
+   "pi_last_name": "Narayan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Akil Narayan",
+   "pi_email_addr": "akil@sci.utah.edu",
+   "nsf_id": "000632029",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 594001.0
+  }
+ ],
+ "por": null
+}

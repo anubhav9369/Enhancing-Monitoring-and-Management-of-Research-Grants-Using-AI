@@ -1,0 +1,110 @@
+{
+ "awd_id": "2502925",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ECCS-EPSRC: Compact high-power 3 micrometer light source for biomedical applications.",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922980",
+ "po_email": "ddagenai@nsf.gov",
+ "po_sign_block_name": "Dominique Dagenais",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 400021.0,
+ "awd_amount": 400021.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Regenerative medicine has the potential to heal or replace tissues and organs damaged by age, disease, or trauma, as well as treat disorders occurring across a wide array of organ systems and contexts, including full thickness skin wounds, cardiovascular diseases and traumas, treatments for certain types of cancer, and more. Currently, the transplantation of intact donor organs and tissues faces challenges due to a limited supply and significant immune complications. Bioprinting is an emerging discipline that leverages 3D printing technology to create complex biological structures, including tissues and organs. Among the various innovative bioprinting methods, laser-induced forward transfer (LIFT) is notable for its use of a laser to accurately transfer cells or bioinks onto a substrate, facilitating the development of intricate 3D architectures characterized by high printing precision, improved cell viability, and remarkable technical adaptability. Nevertheless, the characteristics of existing ultra-violet and near-infrared lasers necessitate the use of a dynamic release layer (DRL), which restricts the research and commercial viability of contemporary LIFT technology. We aim to overcome this challenge by developing a novel hybrid laser source that operates near 3 \u00b5m, thereby enabling DRL-free LIFT bioprinting technology. With this new laser source, we will print the tissue constructs and assess their viability and integrity after printing. The proposed initiatives, characterized by their international and multi-disciplinary aspects, will create a distinctive learning atmosphere for students involved in the project.\r\n\r\nTechnical description\r\n\r\nThe project involves the design and development of a novel semiconductor master oscillator fiber power amplifier high peak power pulsed light source that operates at the peak of water absorption. Current 3 \u03bcm laser sources are limited by either low repetition rates, low pulse energy, or extended pulse widths, resulting in inadequate control over printing parameters when applied to LIFT. To address this, a type-I quantum well cascade diode laser will be developed as the master oscillator to achieve the necessary high power, short pulse, and high repetition rate operation, which is essential for the effective seeding of a specially designed and fabricated multi-stage fiber amplifier. This hybrid mid-infrared laser system will be incorporated into the LIFT bioprinting setup to showcase DRL-free LIFT bioprinting of functional, clinically relevant 3D biotissues. The advanced control capabilities of the new bioprinting system will facilitate the mapping of the donor stage, allowing for the printing of individual cells and, through stage rotation, the creation of a network of fully aligned cells. The use of a galvo scanner will provide a substantial printing area (up to 10x10cm) and enable rapid printing speeds (up to 1M cells/s), thereby enhancing the ability to print cells onto the construct matrix.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Leon",
+   "pi_last_name": "Shterengas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Leon Shterengas",
+   "pi_email_addr": "leon.shterengas@stonybrook.edu",
+   "nsf_id": "000150691",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Stony Brook",
+  "inst_street_address": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STONY BROOK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6316329949",
+  "inst_zip_code": "11794",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "NY01",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "M746VC6XMNH9",
+  "org_uei_num": "M746VC6XMNH9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Stony Brook",
+  "perf_str_addr": "W5510 FRANKS MELVILLE MEMORIAL LIBRARY",
+  "perf_city_name": "STONY BROOK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "117940001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NY01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5946",
+   "pgm_ref_txt": "UNITED KINGDOM"
+  },
+  {
+   "pgm_ref_code": "090E",
+   "pgm_ref_txt": "Chem/Bio and Physical Diagnostics"
+  },
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400021.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,129 @@
+{
+ "awd_id": "2515371",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EFRI BEGIN OI: Biocomputation of Dynamic Patterns with Cortical Neuronal Organoids",
+ "cfda_num": "47.041",
+ "org_code": "07040000",
+ "po_phone": "7032927014",
+ "po_email": "szehnder@nsf.gov",
+ "po_sign_block_name": "Steve Zehnder",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 2000000.0,
+ "awd_amount": 2000000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Information processing in the brain has inspired advances in artificial intelligence. However, some aspects of information processing in the brain have been difficult to translate to conventional hardware and software. Neurons in the cortex of the brain can process temporal and spatial information simultaneously, unlike artificial neural networks. This may explain why human brains can make sense of moving visual scenes accurately and without significant effort. This award will support a project to explore the use of layered biological neural networks for processing dynamic visual information. Connections between layers will be guided by harnessing natural development to mimic the visual pathway in the brain. Fully developed and trained, these layered biological neural networks will be used for identification of moving objects in videos. Ethical, legal, and social implications (ELSI) of the use of human-derived neurons to create organoids will be examined. Technology developed during the project may have significant impact on national needs such as improving energy efficiency of artificial intelligence and endowing autonomous systems with improved vision. Research findings will be incorporated into courses, and undergraduate students will be recruited to participate in the project to promote their interest in research. K-12 outreach will also be undertaken to promote student interest in higher education and engineering.\r\n\r\nThis project will address long-standing challenges in computation with living neurons through the development of functional and structural networks in multilayer organoids. These challenges include transfer of two-dimensional information, aggregation and compaction of neurons, undesirable spontaneous activity, random connectivity, and synaptic scaling. Networks of neurons will be organized into stacked layers. Inter-layer connectivity will be retinotopic, while intra-layer connectivity will provide recurrent connectivity. This network structure is optimized for processing of spatiotemporal information. It takes advantage of the rich repertoire of intracellular dynamic processes and energy-efficient recurrent connectivity of biological neurons that endows them with complex temporal properties. Creation of layered organoids is made possible by advances in 3D-printed scaffolds that stabilize three-dimensional neuronal cultures and address aggregation and synaptic scaling challenges. An all-optical interface will be used to encode and decode information and to prevent spontaneous activity. Neuronal activity will be harnessed to develop desired connectivity. Computational models will be created to assist with the development of encoding, decoding, and training algorithms, as well as with secure information processing. Performance of structured organoids on optical flow and moving object segmentation tasks will be assessed. This project should lead to the creation of fundamental new knowledge in computer engineering, bioengineering, and neuroscience.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "EFMA",
+ "org_div_long_name": "Office of Emerging Frontiers in Research and Innovation (EFRI)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yevgeny",
+   "pi_last_name": "Berdichevsky",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yevgeny Berdichevsky",
+   "pi_email_addr": "yeb211@lehigh.edu",
+   "nsf_id": "000607529",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lesley",
+   "pi_last_name": "Chow",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lesley W Chow",
+   "pi_email_addr": "lac415@lehigh.edu",
+   "nsf_id": "000703587",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yuntao",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuntao Liu",
+   "pi_email_addr": "yule24@lehigh.edu",
+   "nsf_id": "0000A116W",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ally",
+   "pi_last_name": "Peabody Smith",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ally Peabody Smith",
+   "pi_email_addr": "ahp324@lehigh.edu",
+   "nsf_id": "0000A2N1C",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lehigh University",
+  "inst_street_address": "526 BRODHEAD AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BETHLEHEM",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "6107583021",
+  "inst_zip_code": "180153008",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "PA07",
+  "org_lgl_bus_name": "LEHIGH UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E13MDBKHLDB5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lehigh University",
+  "perf_str_addr": "526 BRODHEAD AVE",
+  "perf_city_name": "BETHLEHEM",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "180153008",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "PA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "763300",
+   "pgm_ele_name": "EFRI Research Projects"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2000000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,93 @@
+{
+ "awd_id": "2501213",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SHINE--Coronal Physics with Total Solar Eclipse Data and Magnetohydrodynamic Simulations",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032927834",
+ "po_email": "akeiling@nsf.gov",
+ "po_sign_block_name": "Andreas Keiling",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 182730.0,
+ "awd_amount": 182730.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "This project aims to improve our understanding of the Sun\u2019s corona, the hot outermost layer of the solar atmosphere, by analyzing data from total solar eclipses (TSEs). Eclipses provide a rare opportunity to study the corona in detail, offering insights into how it is heated and how the solar wind forms. Telescope observations of different coronal emission lines, the background continuum, and broadband white light will allow us to infer physical properties of the corona such as temperature, density, and magnetic field structure. Using data from five eclipses, spanning nearly a full solar cycle (2015\u20132024), this research will track changes in the corona over time and across different structures. The project will also compare these TSE observations to advanced computer simulations to refine models of the Sun\u2019s atmosphere. These findings will enhance our ability to predict space weather, which has implications for satellites, power grids, and space travel. Additionally, undergraduate students will gain hands-on research experience, contributing to the next generation of scientists.\r\n\r\nIn this project, imaging data from five total solar eclipses (2015, 2017, 2019, 2023, and 2024) will be analyzed and compared with new and existing Magnetohydrodynamic (MHD) simulations using the Predictive Science Inc. MAS model. We will analyze visible and near-infrared broadband and narrowband imaging observations made during each eclipse to study the coronal electron temperature (Te), electron density, and the structure of the coronal magnetic field. In particular, imaging data of the coronal emission lines of Fe X, Fe XI, Fe XIV, and Ca XV will be used to infer Te via a Radiative Differential Emission Measure (RDEM) analysis. Each emission line requires a narrowband continuum observation, which is used to subtract the background from each line, and will be used to separate electron and dust scattering (K and F corona). The broadband white-light data will then be analyzed using a Rolling Hough Transform (RHT) to infer the projected magnetic field vectors throughout the corona. The overarching goal is to benchmark and improve coronal and solar wind models by constraining key physical parameters. The results will provide valuable empirical constraints on coronal heating and solar wind formation, and will be valuable for informing future space weather forecasting.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cooper",
+   "pi_last_name": "Downs",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cooper Downs",
+   "pi_email_addr": "cdowns@predsci.com",
+   "nsf_id": "000622936",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Predictive Science Incorporated",
+  "inst_street_address": "9990 MESA RIM RD",
+  "inst_street_address_2": "STE 170",
+  "inst_city_name": "SAN DIEGO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "3039993801",
+  "inst_zip_code": "921213933",
+  "inst_country_name": "United States",
+  "cong_dist_code": "51",
+  "st_cong_dist_code": "CA51",
+  "org_lgl_bus_name": "PREDICTIVE SCIENCE INCORPORATED",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C2XFYLH7Y977"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Predictive Science Incorporated",
+  "perf_str_addr": "9990 MESA RIM RD",
+  "perf_city_name": "SAN DIEGO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "921213933",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "51",
+  "perf_st_cong_dist": "CA51",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152300",
+   "pgm_ele_name": "SOLAR-TERRESTRIAL"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 182730.0
+  }
+ ],
+ "por": null
+}

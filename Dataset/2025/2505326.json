@@ -1,0 +1,138 @@
+{
+ "awd_id": "2505326",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: FuSe: Efficient Situation-Aware AI Processing in Advanced 2-Terminal SOT-MRAM",
+ "cfda_num": "47.070, 47.084",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 696516.0,
+ "awd_min_amd_letter_date": "2024-11-15",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "The amount of data required to be analyzed by computing systems has been increasing drastically to exascale (i.e., billions of gigabytes) and beyond. Meanwhile, owing to the boom in artificial intelligence (AI), especially Deep Neural Network (DNN), there is a need for high performance, efficient, fast, and adaptive AI-based big data processing systems. However, those requirements are not sufficiently met by existing computing solutions due to the power-wall in silicon-based semiconductor devices, memory-wall in traditional Von-Neuman computing architecture, and ultra computation- and memory-intensive DNN-based AI algorithms. This project brings together an interdisciplinary group of researchers, with expertise spanning from material science, device fabrication, integrated circuit design, computer architecture, and AI algorithms to undertake innovative device-circuit-algorithm co-design for developing an AI Processing-In-Memory (AI-PIM) system that could leverage the emerging non-volatile magnetic memory technology to implement efficient AI data processing, as well as situation-aware on-chip continual learning. This project targets to significantly improve the AI data processing energy efficiency, with 100X higher efficiency than that of state-of-the-art Graph Processing Units (GPUs). The project will greatly benefit various application areas, such as autonomous driving, robotics, personalized cognitive speech, and smart connected health, etc. This project will also involve education and workforce development activities, including K-12 STEM outreach, undergraduate/graduate training, curriculum development in semiconductor, semiconductor industry internship mentoring, cleanroom fab internships, advance integrated circuit design courses. It will also encourage broader participation of female and under-represented minorities in the microelectronics and semiconductor chip industry. \r\n\r\nThis project will advance knowledge and conduct cross-layer research spanning from emerging Spin-Orbit Torque Magnetic Random Access Memory (SOT-MRAM) material, device, circuit, architecture, to AI algorithm exploration with three main interweaved thrusts. Thrust 1 will explore unconventional spins in SOT materials, e.g., MnPd3, and novel device geometry to fabricate a new design of 2-terminal SOT-MRAM, which simultaneously delivers unlimited endurance, nano-seconds programming time, very high cell density, deterministic programming without external magnetic field, zero leakage, and non-volatility. Leveraging the developed 2-terminal SOT-MRAM, Thrust 2 will design and tape-out an AI Processing-in-Memory (PIM) chip to implement fully digital \u2018in-memory sparse multiplication-and-accumulation (MAC)\u2019 operations that support both forward and backward computations of neural networks. Following a co-design methodology, Thrust 3 will first investigate automated network architecture search methods to construct AI model best suitable for given situation while considering our AI-PIM system constraint. This thrust will further develop novel PIM-friendly, compute- and memory-efficient, situation-aware continual learning algorithms that could minimize the power-hungry on-chip weight update (i.e., memory write) complexity, while learning new situation- and user-specific data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Deliang",
+   "pi_last_name": "Fan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Deliang Fan",
+   "pi_email_addr": "dfan@asu.edu",
+   "nsf_id": "000699728",
+   "pi_start_date": "2024-11-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "216Y00",
+   "pgm_ele_name": "FuSe-Future of Semiconductors"
+  },
+  {
+   "pgm_ele_code": "241Y00",
+   "pgm_ele_name": "NSF-Intel Semiconductr Partnrs"
+  },
+  {
+   "pgm_ele_code": "254Y00",
+   "pgm_ele_name": "NSF-Samsung Partnership"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082CYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 220929.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 405587.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 70000.0
+  }
+ ],
+ "por": null
+}

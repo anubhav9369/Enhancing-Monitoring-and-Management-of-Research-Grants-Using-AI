@@ -1,0 +1,138 @@
+{
+ "awd_id": "2513480",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "EAGER: Development of an Experimental Basis for Large Language Model (LLM) Hypothesis Generation toward Materials Design",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032922937",
+ "po_email": "jmadison@nsf.gov",
+ "po_sign_block_name": "Jonathan Madison",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2027-01-31",
+ "tot_intn_awd_amt": 299964.0,
+ "awd_amount": 150843.0,
+ "awd_min_amd_letter_date": "2025-01-15",
+ "awd_max_amd_letter_date": "2025-01-15",
+ "awd_abstract_narration": "PART 1: NON-TECHNICAL SUMMARY\r\nLarge Language Models (LLMs) are an advanced artificial intelligence method to generate innovative ideas from the processing of copious volumes of information at speeds for which human engagement is simply infeasible, if not impossible. This research project focuses on developing a framework for extracting valuable information from non-text-based, sources to improve, grow and enhance LLMs with a focus on the design of new metallic systems with superior properties and performance. By helping LLMs to ingest and learn from data formats such as graphs, tables, microscopy images and other rich, layered and complex scientific data, this project is using LLMs to uncover relationships in materials that might be overlooked or never discovered by relying solely on textual data from scientific papers, written studies or textbooks. This work supports the realization of broadly democratizing the design process for materials investigations while fostering innovations that could surpass materials performance limits as commonly held today. In this way, this work aligns well with NSF\u2019s mission to promote the progress of science. This project also coincides with the goals of the U.S. Materials Genome Initiative by harnessing the power of materials data and developing a skilled workforce to drive innovation and strengthen U.S. competitiveness in materials science.\r\n\r\n\r\n\r\nPART 2: TECHNICAL SUMMARY\r\nThis project aims to establish an effective framework to ingest, inform and leverage multimodal data directly from experiments to advance large language models (LLMs) for hypotheses generation toward the design of new and superior metallic alloys. LLMs have significant potential to produce novel and innovative design hypotheses by integrating textual information across extensive domains of literature at speeds and volumes far beyond human capacity. A even more revolutionary opportunity however, lies in expanding the variety of formats of information available for LLMs to learn from. Presently, LLMs are restricted largely to data contained in text. This research project is actively expanding this also include the rich, complex, layered and multi-modal data found in materials science experiments including, but not limited to: segmented, annotated, quantified and labeled micrographs from SEM and TEM; x-ray diffraction patterns; graphical constructs; and even images. To achieve this aim, this project is building and training enhanced LLMs for the generation of metallurgical design inquiries through the use of high-quality, high provenance, context-rich, metallurgical dataset standards derived from a variety of sources including the research team\u2019s very own experimental data and datasets obtained from open-source literature with all the metadata and context required to ensure high confidence in interpretability and repeatability. This work supports the realization of broadly democratizing the design process for materials investigations while fostering innovations that could surpass materials performance limits as commonly held today. In this way, this work aligns well with NSF\u2019s mission to promote the progress of science. This project also coincides with the goals of the U.S. Materials Genome Initiative by harnessing the power of materials data and developing a skilled workforce to drive innovation and strengthen U.S. competitiveness in materials science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hyunseok",
+   "pi_last_name": "Oh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hyunseok Oh",
+   "pi_email_addr": "hoh73@wisc.edu",
+   "nsf_id": "000883520",
+   "pi_start_date": "2025-01-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Dane",
+   "pi_last_name": "Morgan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dane Morgan",
+   "pi_email_addr": "ddmorgan@wisc.edu",
+   "nsf_id": "000108542",
+   "pi_start_date": "2025-01-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "177100",
+   "pgm_ele_name": "METAL & METALLIC NANOSTRUCTURE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "8614",
+   "pgm_ref_txt": "Nanomaterials"
+  },
+  {
+   "pgm_ref_code": "094Z",
+   "pgm_ref_txt": "Materials Data"
+  },
+  {
+   "pgm_ref_code": "095Z",
+   "pgm_ref_txt": "Materials AI"
+  },
+  {
+   "pgm_ref_code": "054Z",
+   "pgm_ref_txt": "(MGI) Materials Genome Initiative"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150843.0
+  }
+ ],
+ "por": null
+}

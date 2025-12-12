@@ -1,0 +1,126 @@
+{
+ "awd_id": "2525359",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMitF: Track III: Teaching Program Specifications to the Scientific Computing Community",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2026-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 248779.0,
+ "awd_amount": 248779.0,
+ "awd_min_amd_letter_date": "2025-06-28",
+ "awd_max_amd_letter_date": "2025-06-28",
+ "awd_abstract_narration": "This project develops educational resources to train the scientific computing community on how to formally describe the expected behavior of scientific programs. The skill of formally specifying program behavior lies at the core of ensuring the correctness of scientific software. Thus, the project impacts improvements in the reliability and quality of scientific software applications. The project\u2019s novelties are in identifying specifications that are relevant to scientific domain experts and implementing a tool that automatically generates tests from those specifications. The investigators apply these discoveries to design and teach an interdisciplinary Vertically Integrated Project course for Boise State University scientific computing students. In addition, the investigators disseminate the produced educational material to the scientific community through workshops and tutorials. \r\n\r\nThe correctness of a scientific program is described by different types of program specifications. This project focuses on identifying and developing the application-level specifications that directly describe computations of physical phenomena. The course material incorporates numerical algorithms written in C and the American National Standards Institute (ANSI) / International Organization for Standardization (ISO) C specification language (ACSL) to express application-level program specifications for those algorithms. A key deliverable of the project is a Frama-C plug-in that generates test cases directly from ACSL specifications. Furthermore, the project explores the sufficiency of ACSL for expressing these application-level specifications. The insights gained from this research will inform the future development of formal methods and tools specifically tailored for scientific software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Elena",
+   "pi_last_name": "Sherman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elena Sherman",
+   "pi_email_addr": "elenasherman@boisestate.edu",
+   "nsf_id": "000643807",
+   "pi_start_date": "2025-06-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Grady",
+   "pi_last_name": "Wright",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Grady B Wright",
+   "pi_email_addr": "gradywright@boisestate.edu",
+   "nsf_id": "000424027",
+   "pi_start_date": "2025-06-28",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nasir",
+   "pi_last_name": "Eisty",
+   "pi_mid_init": "U",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nasir U Eisty",
+   "pi_email_addr": "neisty@utk.edu",
+   "nsf_id": "000899037",
+   "pi_start_date": "2025-06-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Boise State University",
+  "inst_street_address": "1910 UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOISE",
+  "inst_state_code": "ID",
+  "inst_state_name": "Idaho",
+  "inst_phone_num": "2084261574",
+  "inst_zip_code": "837250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "ID02",
+  "org_lgl_bus_name": "BOISE STATE UNIVERSITY",
+  "org_prnt_uei_num": "HYWTVM5HNFM3",
+  "org_uei_num": "HYWTVM5HNFM3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Boise State University",
+  "perf_str_addr": "1910 UNIVERSITY DR",
+  "perf_city_name": "BOISE",
+  "perf_st_code": "ID",
+  "perf_st_name": "Idaho",
+  "perf_zip_code": "837250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "ID02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "094Y00",
+   "pgm_ele_name": "FMitF: Formal Methods in the F"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "071Z",
+   "pgm_ref_txt": "FMitF-Formal Methods in the Field"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 248779.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2520163",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Open-source Ecosystem for Light-Weight Geospatial Data Sharing and Exploration",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 298683.0,
+ "awd_amount": 298683.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project lowers technical barriers and empowers city and county agencies, researchers, educators, and citizen scientists to easily explore and exchange rich spatial datasets. StarMap, an open-source ecosystem (OSE) for geospatial data, provide software infrastructure as well as student training, public workshops, and outreach events. Geospatial data, such as maps, satellite imagery, and location-based statistics, play a critical role in science, public policy, and emergency response, yet accessing this data remains challenging despite previous efforts to make it more available. The introduction of StarMap enables lightweight sharing and exploration of geospatial data increasing its accessibility and interactivity. This project advances open science, promotes transparency, strengthens reproducibility in research, and fosters interdisciplinary collaboration. The project aligns with the National Science Foundation\u2019s mission to advance scientific progress in critical areas such as agriculture and geosciences, ultimately benefiting society through enhanced education and data-informed decision-making.\r\n\r\nThis POSE project is built on the Star platform, a widely used platform for hosting terabytes of geospatial data. The StarMap OSE consists of three key components. First, a standalone library builds lightweight data and visualization indexes optimized for efficient integration into existing data portals to enhance interactive exploration. Second, a secure sharing platform that enables data providers to exchange datasets and visualization styles. This platform features automated validation of interactivity and responsiveness to systematically verify robustness and safety of community contributions. Third, the OSE has a community engagement framework that includes comprehensive documentation, deployment guides, and training materials to assist researchers and developers in adopting and deploying StarMap.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ibrahim",
+   "pi_last_name": "Sabek",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ibrahim Sabek",
+   "pi_email_addr": "sabek@usc.edu",
+   "nsf_id": "000990490",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ahmed",
+   "pi_last_name": "Eldawy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ahmed Eldawy",
+   "pi_email_addr": "eldawy@cs.ucr.edu",
+   "nsf_id": "000728303",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Riverside",
+  "inst_street_address": "200 UNIVERSTY OFC BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "RIVERSIDE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9518275535",
+  "inst_zip_code": "92521",
+  "inst_country_name": "United States",
+  "cong_dist_code": "39",
+  "st_cong_dist_code": "CA39",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MR5QC5FCAVH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Riverside",
+  "perf_str_addr": "200 UNIVERSTY OFC BUILDING",
+  "perf_city_name": "RIVERSIDE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "925210001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "39",
+  "perf_st_cong_dist": "CA39",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 298683.0
+  }
+ ],
+ "por": null
+}

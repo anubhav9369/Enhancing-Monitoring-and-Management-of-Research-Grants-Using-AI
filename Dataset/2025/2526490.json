@@ -1,0 +1,98 @@
+{
+ "awd_id": "2526490",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SWIFT: MEDUSA: Mid-band Environmental Sensing Capability for Detecting Incumbents during Spectrum Sharing",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 470166.0,
+ "awd_amount": 167647.0,
+ "awd_min_amd_letter_date": "2025-03-04",
+ "awd_max_amd_letter_date": "2025-03-04",
+ "awd_abstract_narration": "Spectrum sharing in mid-band offers unprecedented opportunity to harness desirable frequencies for commercial 5G operators and for unlicensed use, although higher priority incumbents need to be reliably detected. As an example, the requirement of detecting naval ship-borne radar signals by the environmental sensing capability (ESC) sensors in the 3.55-3.7GHz Citizens Broadband Radio Service (CBRS) band severely limits the transmission power for 5G operators. The objective of this project called MEDUSA: Mid-band Environmental sensing capability for Detecting incUmbents during Spectrum shAring is to detect the presence of static/mobile radar and anomalous transmissions within concurrent and comparatively higher power 5G and 4G-LTE signals. It achieves this through machine learning (reacting to existing interference) and receiver antenna design (proactively avoiding interference). MEDUSA will enable ESC sensors to work with different types of wireless signals, both for individual spectrum monitoring and via collaborative methods for enhanced incumbent detection accuracy. The project will result in open-source release of antenna design files, datasets and learning algorithms for the research community. It also includes several outreach and dissemination activities such as hosting recordings of interviews with spectrum experts on the project website, recruiting students from under-representative groups, and designing course projects that use CBRS-related datasets.\r\n\r\nThe project has three goals for radar detection in the Citizens Broadband Radio Service (CBRS) band but is also generalizable for other frequencies. First, it proposes a deep learning framework to enhance the discriminative abilities of the environmental sensing capability (ESC) sensor while preserving privacy by using spectrogram inputs. These sensors will detect radar pulses within 5G and 4G-LTE signals with powers stronger than FCC-mandated levels by 5 dB. Furthermore, the PIs will develop transfer-learning methods for unseen conditions. Second, it will advance the science of collaborative inference, when multiple ESC sensors make (i) independent and (ii) joint decisions by fusing individual predictions using the algorithms developed as part of the first goal. It also proposes a method of fusion of spectrograms and raw in-phase and quadrature (IQ) samples. Third, when the geographically separated and arbitrarily spaced ESC sensors are time and phase synchronized, they form a massive virtual array for receive beamforming. The PIs will design real-time weight adaptation algorithms and horn antennas that can create nulls towards known 5G/4G-LTE base stations. Finally, the research goals will be validated in emulation as well as over experimental testbeds through the NSF Platform for Advanced Wireless Research (PAWR\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kaushik",
+   "pi_last_name": "Chowdhury",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kaushik R Chowdhury",
+   "pi_email_addr": "kaushik@utexas.edu",
+   "nsf_id": "000541186",
+   "pi_start_date": "2025-03-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140Y00",
+   "pgm_ele_name": "SWIFT-Spectrum Innov Futr Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7976",
+   "pgm_ref_txt": "EARS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 167647.0
+  }
+ ],
+ "por": null
+}

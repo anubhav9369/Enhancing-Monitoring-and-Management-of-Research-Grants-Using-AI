@@ -1,0 +1,118 @@
+{
+ "awd_id": "2433631",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ECCS-EPSRC: Neural Joint Source-Channel Coding: The Interplay Between Theory and Practice",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-04-24",
+ "awd_max_amd_letter_date": "2025-04-24",
+ "awd_abstract_narration": "Machine learning (ML) techniques are demonstrating record-breaking performances on many tasks such as speech recognition, image recognition, composing new documents, and even solving mathematics Olympiad problems. Encouraged by these remarkable results, machine learning-based techniques are now being researched to design better communication systems. An important communication problem is the transmission of sources such as speech, images, and video over noisy communication networks. To efficiently accomplish this task, the source must be compressed and encoded prior to transmission. This project considers the use of machine learning models for joint compression and encoding of sources, i.e., joint source-channel coding (JSCC). One significant drawback of many existing designs of joint source-channel coding schemes based on machine learning techniques is that they use an end-to-end approach based on deep neural networks (DNNs) which hide the underlying operations, and in turn, provide little insight and are less interpretable. The objective of this research is to significantly improve the understanding of the underlying mechanism of machine learning-based solutions, such that they become computationally efficient, less storage-hungry, more adaptive, more robust, and they are easily generalized to complex communication settings. This collaborative project between Texas A&M University and Imperial College, London will offer opportunities for new curriculum development and study-abroad programs for undergraduate students.  Techniques developed in this project can inform the development of compression techniques and channel coding techniques for 6G cellular communications.\r\n\r\nThis project will investigate deep neural-network-based solutions to isolate their functional components, which will lead to lower-complexity, more robust, and more flexible designs for future communication networks. The proposed approach is based on comparative studies of the JSCC designs from two related but distinctive perspectives: an information-theoretic perspective and a machine-learning perspective. By studying a sequence of more and more complex vector Gaussian sources and channel scenarios, and by contrasting and comparing the schemes designed using these two different perspectives, the project aims to develop new insights and simplifications of the ML-based JSCC coding scheme designs. The research plan is organized under the following thrusts - 1) Study of signal representations and neural network interfaces in point-to-point communication settings, 2) understanding the sources of performance gains and the mechanism that results in graceful performance degradation in channels with unknown parameters; 3) Study of neural JSCC for feedback channels and multi-user communication settings; 4) Study of generative models in neural JSCC, particularly Gaussian diffusion models. Some of the JSCC schemes will be implemented on a software-radio testbed to demonstrate the effectiveness of the designs in computation-constrained environments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Krishna",
+   "pi_last_name": "Narayanan",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Krishna R Narayanan",
+   "pi_email_addr": "krn@tamu.edu",
+   "nsf_id": "000388923",
+   "pi_start_date": "2025-04-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Chao",
+   "pi_last_name": "Tian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chao Tian",
+   "pi_email_addr": "chao.tian@tamu.edu",
+   "nsf_id": "000678094",
+   "pi_start_date": "2025-04-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M Engineering Experiment Station",
+  "inst_street_address": "3124 TAMU",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778433124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A&M ENGINEERING EXPERIMENT STATION",
+  "org_prnt_uei_num": "QD1MX6N5YTN4",
+  "org_uei_num": "QD1MX6N5YTN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M Engineering Experiment Station",
+  "perf_str_addr": "3128 TAMU",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778433128",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022Z",
+   "pgm_ref_txt": "International Partnerships"
+  },
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "5946",
+   "pgm_ref_txt": "UNITED KINGDOM"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

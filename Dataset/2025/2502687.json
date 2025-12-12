@@ -1,0 +1,93 @@
+{
+ "awd_id": "2502687",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Rational Points on Curves and Kim's Conjecture",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922271",
+ "po_email": "asalerno@nsf.gov",
+ "po_sign_block_name": "Adriana Salerno",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 225000.0,
+ "awd_amount": 225000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Understanding the integral and rational solutions to polynomial equations has remained a question of fundamental importance for centuries.  For instance, a problem formulated by Diophantus in the third century, when translated into the language of a polynomial equation, amounts to determining the rational solutions (x, y) to the equation y^2 = x^6 + x^2 + 1. This problem remained unsolved until the work of Wetherell in 1997.  Studying this algebraic equation from the point of view of geometry yields a curve, and more precisely, a curve of genus 2.  While curves of genus 2 or more are known to have finitely many rational points by the work of Faltings in 1983, as of yet there is no algorithm to determine these finite sets in general. In particular, when the curve\u2019s Jacobian rank is equal to or larger than the genus, there are many challenges that remain. In this project, the PI will study methods for explicitly determining the finite set of rational points on curves of genus 2 or more.  The PI will also organize educational activities to build the mathematical pipeline and mentor students and postdoctoral researchers.\r\n\r\nOne promising approach for determining the finite set of rational points on curves of genus 2 or more, regardless of Jacobian rank, is through Kim's nonabelian Chabauty program and the computation of Selmer sets.  Kim has conjectured that Selmer sets in depth n are finite for n sufficiently large, and that moreover, that these Selmer sets eventually precisely cut out the set of rational points.  Several components of the first nonabelian part of this program (i.e., in depth 2) have been made algorithmic by the PI and her collaborators. In this project, the PI proposes a careful study of Selmer sets in depth 2 and 3 for new classes of curves. She will do this by carrying out explicit computations that are motivated by Kim\u2019s conjecture. Additionally, she will compute rational points on a new database of curves in the L-functions and Modular Forms Database (LMFDB), using all available Diophantine tools at scale.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jennifer",
+   "pi_last_name": "Balakrishnan",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jennifer S Balakrishnan",
+   "pi_email_addr": "jbala@bu.edu",
+   "nsf_id": "000574554",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126400",
+   "pgm_ele_name": "ALGEBRA,NUMBER THEORY,AND COM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 225000.0
+  }
+ ],
+ "por": null
+}

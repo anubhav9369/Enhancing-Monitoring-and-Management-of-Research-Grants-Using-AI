@@ -1,0 +1,114 @@
+{
+ "awd_id": "2443203",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Toward Programmable NICs as Multi-Tenant Cloud Resources",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 622738.0,
+ "awd_amount": 486579.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-09-17",
+ "awd_abstract_narration": "Cloud computing resources are increasingly stretched thin, as demand for ever more compute cycles continues to increase unabated. To address this, cloud providers are increasingly adopting programmable network interface cards (NICs) to enhance data center efficiency by offloading networking, storage, and security tasks from server CPUs. Concurrently, there is growing interest in offloading parts of user-facing application logic to NICs. Despite their potential to accelerate diverse applications, NICs remain underutilized due to limited resource management capabilities. This project addresses exactly these challenges by developing NicOS, a new operating system designed to transform programmable NICs into fully shareable and efficient resources in multi-tenant cloud environments. The project integrates its research outcomes into educational programs, offering hands-on experiences for students. Broader dissemination through open-source prototypes, industry partnerships, and outreach to high school students will ensure widespread impact, supporting national goals of advancing technology and workforce development in STEM.\r\n\r\nThis project tackles fundamental challenges at the intersection of networking, computer systems, and security to realize the vision of NicOS. It will (1) design novel abstractions for managing on-chip resources, memory, and communication channels tailored to various NIC architectures, accompanied by runtime resource management optimized for streaming workloads; (2) develop proactive elastic scaling mechanisms to dynamically adapt to workload changes, alongside shared object abstractions and in-place data structure resizing for consistent state management; (3) ensure performance and security isolation through a virtual channel-oriented scheduler that fairly allocates resources and mitigates availability and confidentiality attacks via lightweight privileged access controls; and (4) demonstrate the practicality of the NicOS architecture by implementing it on a software NIC platform and an existing NPU-based NIC architecture, and by developing a clean-slate FPGA-based prototype. The prototypes will be rigorously evaluated with diverse applications and realistic workloads to ensure their effectiveness and applicability. The project will produce open-source software, hardware designs, and educational resources, fostering innovation and adoption in programmable cloud infrastructure.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daehyeok",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daehyeok Kim",
+   "pi_email_addr": "daehyeok@utexas.edu",
+   "nsf_id": "000929170",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 486579.0
+  }
+ ],
+ "por": null
+}

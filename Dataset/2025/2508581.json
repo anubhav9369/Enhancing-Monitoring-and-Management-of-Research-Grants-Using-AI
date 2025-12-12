@@ -1,0 +1,98 @@
+{
+ "awd_id": "2508581",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Optimal Transport for Risk Management and scenario Generation (OTRiMaGe)",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922436",
+ "po_email": "hliu@nsf.gov",
+ "po_sign_block_name": "Hailiang Liu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 299057.0,
+ "awd_amount": 299057.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "This project aims at contributing to the mathematical foundations of risk management in finance and robust generative models. The first major focus is the design of dynamic stochastic models subject to domain and/or distribution constraints. Such models will play a key role for a robust representation of the underlying uncertainties and will allow for a better generation of risk scenarios thus improving the back testing abilities of financial risk management. The second key component addresses model risk and hedging by developing sensitivity analysis tools in the context of distributionally robust optimization. This project contributes new mathematical methods for optimizing systems of interacting agents which plays a crucial role in the analysis of financial risks.\r\n \r\nMore specifically, the project investigates ergodic optimal semimartingale transport problems to model multidimensional stochastic processes under both domain (support) and distributional constraints. These results can be applied to di\ufb00usion-based generative methods in artificial intelligence and are expected to outperform standard score-based procedures. A second major part addresses model risk assessment and hedging through the so-called distributional robust optimization. This involves defining model deviations within small Wasserstein balls around a reference martingale model--a novel concept for quantifying and mitigating model risk. When volatility surface calibration gives access to marginals, the project introduces a new notion of static model risk hedging. Extending to continuous time poses a significant mathematical challenge. Finally, the project builds on the primary investigator\u2019s ongoing work in optimal control and di\ufb00erential games involving interacting populations. Key questions include the impact of distributed control in delegation relationship, the structure of optimal stopping strategies in mean field stopping problems, and the effect of optimal debt cross-holding on default propagation in systemic risk models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nizar",
+   "pi_last_name": "Touzi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nizar Touzi",
+   "pi_email_addr": "nizar.touzi@nyu.edu",
+   "nsf_id": "0000A273H",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299057.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2530577",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Robust and Dynamics-Aware Active Perception for Space Robotics",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 663275.0,
+ "awd_amount": 663275.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Satellites serve as the backbone of our digital world, enabling global communications, navigation systems, weather forecasting, and internet connectivity in remote areas. They facilitate everything from GPS navigation in smartphones to international financial transactions and military operations. When satellite systems fail, the consequences are immediate and far-reaching: navigation systems become unreliable, affecting transportation and logistics; communication networks experience outages, particularly in remote areas dependent on satellite internet; weather forecasting accuracy diminishes, impacting disaster preparedness; and many financial and commercial systems relying on precise timing signals face major disruptions. The ability to mitigate failures and enable routine repairs and hardware upgrades of spacecraft in orbit hinges on advanced space robotics capabilities. However, the harsh environmental conditions of space\u2014with challenging illumination, limited computational resources, and diverse motion regimes\u2014make traditional computer vision and localization techniques developed for terrestrial applications inadequate for space applications. Space robotics demands perception capabilities that far exceed those of similar terrestrial systems. This research develops novel visual perception, localization, mapping, and planning algorithms to enable new capabilities for all future space missions such as failure mitigation, large flexible structure assembly, orbital debris removal, inspection, hardware upgrades, and many more. This research involves training of both graduate and undergraduate students. The results of this research are disseminated to the community by journal and conference publications, organization of invited workshops and seminar presentations, and by targeted exposure (press releases, interviews) to popular media.\r\n\r\nThis research advances the state-of-the-art in computer vision and perception for space applications by addressing three critical limitations: first, existing feature detection methods struggle with the harsh illumination conditions of space; second current 3D reconstruction techniques fail to account for the dynamic orbital environment; and third, traditional simultaneous localization and mapping (SLAM) approaches cannot handle the diverse motion regimes of resident space objects (RSOs).  To address these challenges, the research team develops a robust learning-based feature detection framework for space by using line features that exploit the inherent geometry of the target, along with multi-spectral imaging feature extraction. It also develops a novel dynamics-aware 3D Gaussian Splatting framework that incorporates relative orbital dynamics as physical constraints, enabling simultaneous state estimation and motion regime classification while maintaining physical consistency. The research team introduces a visibility-aware neural field representation that explicitly models observation uncertainty to drive information-theoretic view planning, therefore enabling autonomous space robots to systematically explore unknown objects through efficient observation sequences. Finally, the developed theory is experimentally tested and validated using Georgia Tech\u2019s Autonomous Spacecraft Testing of Robotic Operations in Space (ASTROS) platform, a state-of-the-art spacecraft simulation platform, and also using a high-fidelity synthetic simulation environment.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Panagiotis",
+   "pi_last_name": "Tsiotras",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Panagiotis Tsiotras",
+   "pi_email_addr": "p.tsiotras@ae.gatech.edu",
+   "nsf_id": "000240738",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Danfei",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Danfei Xu",
+   "pi_email_addr": "danfei@gatech.edu",
+   "nsf_id": "000876816",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 663275.0
+  }
+ ],
+ "por": null
+}

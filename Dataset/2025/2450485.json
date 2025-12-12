@@ -1,0 +1,102 @@
+{
+ "awd_id": "2450485",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Monolithic Three-Dimensional Integrated Circuit Technology Based on High-Performance Junctionless Transistors Built on Single-Crystalline Silicon Nanomembranes",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032925394",
+ "po_email": "rnash@nsf.gov",
+ "po_sign_block_name": "Richard Nash",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 455489.0,
+ "awd_amount": 455489.0,
+ "awd_min_amd_letter_date": "2025-05-29",
+ "awd_max_amd_letter_date": "2025-05-29",
+ "awd_abstract_narration": "The information revolution is largely driven by semiconductor industry\u2019s capability of incorporating electronic device components in microprocessor chips with increasingly higher density, as described by Moore\u2019s law, during the past 70 years. However, it has become more and more difficult to sustain this progress by further reducing the size of each transistor since the lateral dimension scaling is approaching its physical limits. This project aims to address this challenge by developing a set of enabling technologies for the vertical stacking of high-performance silicon devices in future integrated circuits. This three-dimensional (3D) stacking approach allows us to achieve higher device integration density without reducing the size of individual transistors and enables a higher communication bandwidth with lower energy consumption between circuit blocks for better performance. This project serves the U.S. national interest in helping US-based semiconductor companies to sustain their technology leadership in the worldwide competition through accelerated technology transfer. It also provides summer research internships for high-school students and develops research-based laboratory modules for the enrichment of undergraduate curriculum.\r\n\r\nMonolithic 3D integrated circuits offer multiple advantages over conventional planar 2D architecture or 3D systems realized via wafer or chip stackings. However, their implementation and manufacturing face the fundamental challenge of forming high-performance n- and p-channel transistors on top tiers under the constraint of limited thermal budget to preserve the bottom-tier devices and interconnects from degradation. Low-temperature processed transistors built on laser-annealed poly-crystalline silicon, metal oxides, and low-dimensional nanomaterials have been explored as potential candidates, but their performance is far inferior to transistors built on single-crystalline silicon. The objective of this research is to fill this technology gap by developing a process to transfer-print ultrathin (<10 nm thick) single-crystalline silicon nanomembranes with uniform doping on wafer scale at low temperature (<200 oC) on top of a silicon-CMOS wafer with completed devices and interconnects. The transferred silicon nanomembrane is then utilized to build high-performance junctionless transistors without extra doping process to stay within a limited thermal budget <400 oC. They will connect with the bottom-tier transistors through ultra-dense interlayer vias to form functional logic and memory circuits with performance and chip-area footprint unattainable in 2D architectures. This project will enable a breakthrough in realizing high-performance 3D monolithic integration, overcoming thermal constraints associated with both the formation of high-mobility semiconductor layers and the fabrication of high-performance transistors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qing",
+   "pi_last_name": "Cao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qing Cao",
+   "pi_email_addr": "qingcao2@illinois.edu",
+   "nsf_id": "000784565",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "103E",
+   "pgm_ref_txt": "Energy efficient electronics"
+  },
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 455489.0
+  }
+ ],
+ "por": null
+}

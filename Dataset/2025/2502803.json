@@ -1,0 +1,102 @@
+{
+ "awd_id": "2502803",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Protein Dynamics Predictions for Drug Discovery",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-03-26",
+ "awd_max_amd_letter_date": "2025-03-26",
+ "awd_abstract_narration": "This I-Corps project focuses on the development of an artificial intelligence (AI) driven technology that predicts protein dynamics, addressing a major challenge in drug discovery. Traditional methods for modeling protein motion require months of computational time and access to supercomputers, making them expensive and impractical for widespread use. Understanding protein dynamics is crucial for identifying new drug targets, optimizing lead compounds, and reducing failure rates in early-stage drug development. By improving the accuracy and speed of drug discovery, this technology has the potential to accelerate the development of new treatments for diseases that currently lack effective therapies. The potential commercial impact is substantial, as pharmaceutical companies and research institutions require better tools to streamline the drug development process, ultimately leading to more efficient pipelines and lower costs. This innovation may also expand the target space by identifying hidden binding pockets, opening new opportunities for therapeutic interventions.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a deep-learning model that predicts dynamic protein conformations using physics-based force fields. Unlike existing approaches that rely on extensive datasets and prolonged simulations, this project introduces an active learning framework that enables efficient, on-the-fly model training. This approach is further extended through novel methodologies that generate new protein conformations optimized for virtual screening and assess ligand-induced conformational changes, including binding free energy calculations. By integrating diffusion-based deep learning models with molecular physics, this project advances computational biology by providing a scalable, adaptable tool for drug discovery. The insights gained from this project will help refine the technology's commercialization strategy and establish its role in the evolving landscape of artificial intelligence driven drug discovery.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Gumbart",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "James C Gumbart",
+   "pi_email_addr": "gumbart@physics.gatech.edu",
+   "nsf_id": "000651560",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "926 DALNEY ST NW",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303186395",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7573",
+   "pgm_ref_txt": "BIO-RELATED MATERIALS RESEARCH"
+  },
+  {
+   "pgm_ref_code": "8040",
+   "pgm_ref_txt": "Energy and Environment"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

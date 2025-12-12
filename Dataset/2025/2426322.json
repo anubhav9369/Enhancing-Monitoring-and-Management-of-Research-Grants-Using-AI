@@ -1,0 +1,106 @@
+{
+ "awd_id": "2426322",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-DFG/Collaborative Research: Integrated Computational Materials Engineering of Thermoplastic Composites",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032928136",
+ "po_email": "lbian@nsf.gov",
+ "po_sign_block_name": "Linkan Bian",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 267524.0,
+ "awd_amount": 267524.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "This project supports research that advances national security and economic prosperity by seeking to enable the manufacture of high-performance composite structures through processes that are faster and less energy intensive. Thermoplastic polymers can be reheated, reshaped, welded, repaired, and recycled at end-of-life, leading to lighter aircraft, automobiles, and medical devices that consume less fuel and generate less waste than counterparts made from conventional thermosetting polymers. By seeking to deliver the fundamental science required to predict and optimize the manufacturing of thermoplastic composites, this award addresses the steep learning curve currently limiting their industrial adoption. An international team from the United States, Germany, and the National Aeronautics and Space Administration (NASA) will openly share data, simulation codes, and validated processing methods, accelerating innovation across multiple industrial sectors. The project will also strengthen the science and engineering workforce by providing research-driven training for undergraduate and doctoral students and offering a free public short course on integrated computational materials engineering, with materials available online for self-learning. In these ways, this effort directly serves the National Science Foundation\u2019s mission to promote scientific progress and enhance the welfare of the United States.\r\n\r\nThe central focus of this research project addresses a fundamental question: How do polymer morphology, interdiffusion, crystallization, and residual stresses during processing influence the interlaminar strength and fracture toughness of carbon fiber-reinforced thermoplastic composites? To answer this, the project looks to develop a physics-based, multiscale modeling framework that links processing conditions to interfacial mechanical properties in thermoplastic composites, enabling predictions and optimization of interlaminar strength and fracture toughness. Molecular dynamics simulations quantify polymer-chain interdiffusion, crystallization, and residual stress evolution at ply-to-ply interfaces under processing conditions representative of automated fiber placement, induction welding, and stamp forming. These interfacial properties inform micro-scale finite-element models that resolve heterogeneous crystallinity and coupled thermo-mechanical fields during consolidation. At the structural scale, cohesive-zone elements embedded within continuum damage mechanics capture interface bonding and subsequent debonding under service loads. To efficiently explore the extensive parameter space defined by time, temperature, and pressure, the team looks to develop a machine-learning surrogate model, identifying optimal processing windows that maximize mechanical performance while significantly reducing computation time. Advanced experimental characterizations across multiple length scales will validate the model predictions. This project is a collaboration between University of California-San Diego, Michigan Technological University, the National Aeronautics and Space Administration (NASA) and University of Wuppertal in Germany, which broadens modeling and experimental capabilities, ensuring the robustness of the developed toolset for certifying next-generation thermoplastic composite structures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gregory",
+   "pi_last_name": "Odegard",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gregory M Odegard",
+   "pi_email_addr": "gmodegar@mtu.edu",
+   "nsf_id": "000419207",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan Technological University",
+  "inst_street_address": "1400 TOWNSEND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUGHTON",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "9064871885",
+  "inst_zip_code": "499311200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "MICHIGAN TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "GKMSN3DA6P91",
+  "org_uei_num": "GKMSN3DA6P91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan Technological University",
+  "perf_str_addr": "1400 TOWNSEND DR",
+  "perf_city_name": "HOUGHTON",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "499311200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "8025",
+   "pgm_ref_txt": "Advanced Materials Processing"
+  },
+  {
+   "pgm_ref_code": "082E",
+   "pgm_ref_txt": "MFG MACHINES & METROLOGY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 267524.0
+  }
+ ],
+ "por": null
+}

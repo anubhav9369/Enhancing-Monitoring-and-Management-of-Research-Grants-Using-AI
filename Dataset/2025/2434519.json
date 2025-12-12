@@ -1,0 +1,126 @@
+{
+ "awd_id": "2434519",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Interoperable Knowledge Representation and Distillation for Integrated Process Planning in Hybrid Remanufacturing",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2027-12-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2024-12-10",
+ "awd_max_amd_letter_date": "2024-12-10",
+ "awd_abstract_narration": "This project focuses on establishing a coherent learn-from-knowledge paradigm that achieves concurrent optimization in hybrid remanufacturing, by exploiting the shared target of additive manufacturing and machining. Integrating the strengths of both systems, hybrid remanufacturing is particularly promising for rejuvenating damaged or obsolete parts synergistically, thereby increasing efficiency, reducing costs, and improving sustainability. However, current state-of-the-art practices often overlook the intricate interactions between two distinct technologies, which leads to compromised part quality and low throughput. This project addresses this challenge by creating a holistic framework that integrates data from various stages of remanufacturing, including part specifications, machine logs, sensing, and expert knowledge, and repair protocols into a unified knowledge representation. By offering rich semantic representation and advanced reasoning capabilities, this project paves the way for enhanced efficiency and reliability for system-level optimization in hybrid remanufacturing. Validation and testing of generalizability will be carried out both in laboratory setups and within integrated hybrid machine networks through collaboration with two industry partners. The anticipated outcomes include the development of computational models for knowledge representation and fusion, as well as automation and decision-making algorithms to facilitate system integration of additive manufacturing and machining as inter-connected components. This research will disseminate findings through education and outreach activities, not only emphasizing the participation of underrepresented groups but also providing workforce training for local small- and medium-sized manufacturers to promote resilient, adaptable, and sustainable systems.\r\n\r\nThe overarching goal of this research is to establish a new framework of knowledge representation that leads to the concurrent optimization of hybrid manufacturing at the system integration level, which is facilitated by the cognitive principles producing unified and distilled knowledge. This framework bridges connectionist and symbolic approaches within knowledge graphs, systematically representing structured domain schemas and providing semantic richness to address data multi-modality, sparsity, and semantic heterogeneity in hybrid remanufacturing. The technical thrusts in this project are: (1) creating new cognitive encoders to unify multi-modal data from remanufacturing workflows into knowledge graphs, while integrating them as a retrievable memory into the semantic relationships; (2) advancing knowledge fusion through cognitive operations that facilitate data-driven reasoning, knowledge fusion, distillation, and online knowledge discovery; and (3) developing a symbiotic multi-objective optimization that leverages the memory-enabled knowledge graph to guide hybrid remanufacturing tasks. Collectively, these breakthroughs will be synergistically integrated into hybrid remanufacturing systems with insights from industry stakeholders.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Farhad",
+   "pi_last_name": "Imani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Farhad Imani",
+   "pi_email_addr": "farhad.imani@uconn.edu",
+   "nsf_id": "000838318",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jiong",
+   "pi_last_name": "Tang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jiong Tang",
+   "pi_email_addr": "jtang@engr.uconn.edu",
+   "nsf_id": "000166431",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut",
+  "inst_street_address": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "inst_street_address_2": "",
+  "inst_city_name": "STORRS",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8604863622",
+  "inst_zip_code": "062699018",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CT02",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WNTPS995QBM7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut",
+  "perf_str_addr": "438 WHITNEY RD EXTENSION UNIT 1133",
+  "perf_city_name": "STORRS",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "062699018",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "229Y00",
+   "pgm_ele_name": "MSI-Manufacturing Systms Integ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "118E",
+   "pgm_ref_txt": "GRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "1713",
+   "pgm_ref_txt": "WORKFORCE"
+  },
+  {
+   "pgm_ref_code": "5384",
+   "pgm_ref_txt": "DATA AND DATA SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8029",
+   "pgm_ref_txt": "Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

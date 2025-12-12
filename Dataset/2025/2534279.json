@@ -1,0 +1,106 @@
+{
+ "awd_id": "2534279",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Accelerating Scalable Stochastic Neuro-Inspired Computing With Spintronics: Devices to Systems",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 238794.0,
+ "awd_amount": 238794.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "Remarkable advances in Artificial Intelligence (AI) have demonstrated near-human cognitive performance in various applications. However, state-of-the-art AI still exhibits a large (orders of magnitude) efficiency gap compared to human brains. Enabling efficient AI hardware/software systems will be the key to deploying AI in various domains, including transportation, healthcare, and defense. Taking cues from the biological brains, neuro-inspired computing recently emerges as a promising approach to addressing the computational efficiency challenges. However, neuro-inspired computing with the complementary metal-oxide-semiconductor (CMOS) digital hardware lacks flexibility and efficiency due to mismatch at various levels from device to architecture. This project will leverage novel magneto-electronic (spintronic) technologies to create efficient and robust computational components that emulate neural stochastic functionality. The components will be integrated into in-memory computing architectures and co-designed with bio-inspired learning algorithms to achieve advanced cognitive capabilities. This project will significantly advance the science of developing next-generation AI hardware with emerging technologies. By implementing device-to-system co-design for stochastic in-memory computing, this project will create interdisciplinary knowledge of device integration, computing architecture design, and algorithm development. Such knowledge is crucial for addressing the challenges of AI computation.\r\n\r\nIn this project, two interesting attributes of biological brains, i.e., stochastic computing and processing in memory, will be exploited to develop novel computing systems for AI.  Stochastic spin-orbit-torque magnetic tunnel junctions with high thermal stability will be customized to realize various functionalities of an in-memory computing system. Compared to the existing work with thermally unstable devices, the proposed high-stability devices minimize the influence of noises and device variations, leading to a scalable solution for the robust and efficient implementation of stochastic neural networks. The new device design will also drastically reduce the overhead of peripheral circuits in the in-memory processing elements. To further unleash the full potential of the proposed spin-based stochastic neuro-mimetic components, we explore device-to-algorithm co-design, including a hardware-in-the-loop architecture search to develop neural network models that could better match the hardware characteristics. We will demonstrate prototypes of domain-specific stochastic neuromorphic computing systems for general deep neural networks. Corresponding circuit design and simulation tools will be developed as a part of this research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cheng",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cheng Wang",
+   "pi_email_addr": "chengw@iastate.edu",
+   "nsf_id": "000899892",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "086Z",
+   "pgm_ref_txt": "Neuromorphic Computing"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 238794.0
+  }
+ ],
+ "por": null
+}

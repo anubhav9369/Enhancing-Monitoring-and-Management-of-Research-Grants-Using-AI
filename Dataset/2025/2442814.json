@@ -1,0 +1,110 @@
+{
+ "awd_id": "2442814",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Explainable AI for Real-Time Video Anomaly Anticipation",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 598259.0,
+ "awd_amount": 359324.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Video surveillance systems, which are now common in cities and workplaces, present a valuable opportunity to predict and prevent harmful incidents before they occur. This project seeks to create advanced technologies capable of analyzing video streams in real time to anticipate potential anomalies with high accuracy. When such events are predicted, the system can initiate preventive measures, such as alerting users or triggering automated interventions\u2014like activating a car's brakes or stopping an escalator. Importantly, the system will also provide detailed explanations, enabling users to understand why their actions or environment were adjusted. By leveraging cutting-edge techniques to identify patterns that precede abnormal events and generate visual or text-based explanations, this project has the potential to transform public safety and operational efficiency. For example, in intelligent traffic systems, it could help reduce pedestrian accidents and fatalities. In warehouses, it could prevent losses caused by equipment mishaps. In air traffic control, it could serve as a critical safeguard to ensure safe and orderly flight operations. By enhancing safety, reducing risk, and supporting human decision-making, this work addresses a critical need and aligns with national priorities to promote prosperity and welfare.\r\n\r\nWhile significant advancements have been made in video processing through artificial intelligence (AI), the task of anticipating video anomalies remains largely underexplored. Addressing this challenge involves overcoming three critical barriers: the absence of robust, annotated real-world datasets for anomaly anticipation, the lack of efficient real-time algorithms for accurate anomaly prediction, and the difficulty in explaining the reasoning behind AI-based decision-making in anomaly anticipation scenarios. This project will address each of these challenges. First, the research team will create a framework, based on the concept of digital twins, to semi-automatically capture and annotate anomaly anticipation datasets. This framework will focus on scenarios with static camera positions, enabling the dynamic extraction and recomposition of real-world objects and their motion patterns to create novel motion anomalies. Generative AI models conditioned on the designed anomalous patterns will be used to create realistic videos containing anomalies. Second, the team will design real-time AI models capable of accurately predicting motion-based anomalies prior to their occurrence by leveraging multimodal models trained to anticipate the trajectories and positions of objects as well as the probability of an upcoming anomaly. Third, the project will develop descriptive visual AI models that can provide stakeholders with clear, understandable explanations of anticipated anomalies. As a case study, the proposed methods will be applied to traffic anomaly anticipation, demonstrating the practical utility of the research. The project will also integrate research and education by incorporating in-class assignments and organizing annual student competitions. The success of this project will lead to a new paradigm for training explainable anomaly detection models and expand the conversation from anomaly detection to real-time anomaly anticipation and prevention.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Anastasiu",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "David C Anastasiu",
+   "pi_email_addr": "danastasiu@scu.edu",
+   "nsf_id": "000737815",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Santa Clara University",
+  "inst_street_address": "500 EL CAMINO REAL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CLARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4085544764",
+  "inst_zip_code": "950504776",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "CA17",
+  "org_lgl_bus_name": "PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YE8LRJWSY3K9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Santa Clara University",
+  "perf_str_addr": "500 EL CAMINO REAL",
+  "perf_city_name": "SANTA CLARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950504776",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 359324.0
+  }
+ ],
+ "por": null
+}

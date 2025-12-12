@@ -1,0 +1,93 @@
+{
+ "awd_id": "2510272",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Inverse Problems for Hyperbolic Partial Differential Operators",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Wave-based imaging techniques are commonly used in geophysical and medical industries to obtain information about an unknown medium by measuring the travel time of reflected waves.  For instance, in seismic exploration, seismic energy is used to probe beneath the surface of the Earth and is integral for exploration of economic deposits of oil, gas, or minerals, but also for engineering, archeological, and scientific studies. This is done either passively (using a naturally occurring earthquake) or actively (using a source of seismic energy, such as an explosive charge or seismic vibration) where energy is directed into the Earth. The echoes of seismic waves as they are reflected off of discontinuities in the subsurface are then measured across a measurement area.  Similarly, medical ultrasonography is an imaging technique used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Ultrasound images, also known as sonograms, are created by sending pulses of ultrasonic waves into tissue using a probe. The ultrasound pulses echo off of tissues with different reflection properties and are returned to the probe, which records and displays them as an image.  The mathematical foundation behind both of these applications is based on the classical Fermat's principle in physics: a wave takes a path between two locations that can be traveled in the least time. Travel time of a wave defines a mathematical model in which the distance between two locations is measured using a clock instead of a ruler. This type of physically-motivated mathematical framework is commonly studied in the field of differential geometry.  This research project develops a stronger understanding of the mathematical theory of seismology and ultrasonography, having a particular emphasis on models with time-dependent material parameters and models that describe anisotropic mediums such as the human body or the subsurface of the Earth.  \r\n\r\nThis project focuses on the mathematical theory of indirect measurements arising from seismic exploration and ultrasonography in medical imaging, with particular emphasis on formulating new as well as solving longstanding and challenging geometric inverse problems in these contexts.  These problems are formulated in the language of hyperbolic Partial Differential Equations (PDE), with the goal of finding the unknown coefficients of the PDE from a boundary measurement. Since many physical quantities are coordinate invariant, it is conventional to model a terrestrial planet or a human body by a compact, connected Riemannian manifold with boundary.  Under these assumptions a fundamental hyperbolic inverse boundary value problem is to recover the unknown geometric structure from the hyperbolic Dirichlet-to-Neumann map (DN-map). This can be accomplished by reducing the PDE-based problem to a geometric problem which carries information about the unknown coefficients of the respective Partial Differential Operator.  The project introduces many different reduction methods and solutions to the respective geometric problems, containing three main lines of research: 1) Inverse Problems in Linear Elasticity, introduces elastic inverse problems which can be solved by a reduction to the boundary rigidity and its linearization. These problems go beyond the conventional while insufficient Riemannian formalism. 2) Hyperbolic Inverse Problems with Time-Independent coefficients introduces uniqueness and stability problems for hyperbolic operators on compact and non-compact manifolds. 3) Hyperbolic Inverse Problems with Time-Dependent Coefficients focuses uniqueness problems for general time-dependent hyperbolic inverse problems and invertibility of the light ray transform with partial data. The powerful mathematical methods developed to attack these geometric inverse problems will expand beyond the scope of this project and can be applied for instance in the control theory of PDEs and integral geometry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Teemu",
+   "pi_last_name": "Saksala",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Teemu S Saksala",
+   "pi_email_addr": "tssaksal@ncsu.edu",
+   "nsf_id": "000842253",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

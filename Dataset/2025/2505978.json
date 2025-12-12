@@ -1,0 +1,110 @@
+{
+ "awd_id": "2505978",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "GOALI: Technologies to Support the New Era of Liquid Chromatography Research",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032925327",
+ "po_email": "cfoss@nsf.gov",
+ "po_sign_block_name": "Colby Foss",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 442515.0,
+ "awd_amount": 442515.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, and in collaboration with Agilent Technologies, Professor Dwight Stoll and his group at Gustavus Adolphus College are working to develop innovative technologies that enable the next generation of cutting-edge chemical analyses involving liquid chromatography (LC). The LC technique is used widely in a variety of fields to discover the makeup of various samples. For example, LC can be used to understand the composition and chemistry of innovative materials (e.g., biodegradable plastics), determine concentrations of biomarkers of disease in fluids such as urine or plasma, and determine impurities or breakdown products in life-saving medicines. This academic/industrial collaboration seeks to develop novel approaches to mobile phase delivery (i.e., pumping systems) and detection of separated compounds \u2013 two of the key elements of any LC process \u2013 which will in turn enable new, faster ways to develop LC methods, and more efficient and reliable analyses. The data that these approaches produce will accelerate the widespread integration of machine learning and artificial intelligence into LC techniques. Dr. Stoll involves students at the high school and undergraduate levels in this cutting-edge research to prepare them to become the workforce of the future. He also develops simulations to facilitate learning about liquid chromatography and the more effective use of the technique across many sectors of the U.S. economy.\r\n\r\nCurrently, a major impediment to wide use of machine learning and artificial intelligence in liquid chromatography (LC) analyses is the paucity of high-quality retention data. Recent work in the Stoll Laboratory has yielded methodology for increasing the rate of acquisition of high-quality retention data, however this work has also identified technology gaps that prevent further development toward simultaneous improvement of retention data quality, and retention data acquisition rate. This collaborative research project will address these gaps through the development of two key technologies: 1)  a novel, specialized flow path design for physically registering analytes both entering and exiting the LC column, in order to enhance retention data precision; and 2) mobile phase delivery technology that enables ultra-fast gradient elution separations by application of a constant pressure solvent delivery mode, in order to eliminate the gradient formation errors originating from rapid pressure changes. We anticipate that these technologies will routinely facilitate high-quality LC measurements on the sub-5-second timescale, both for the purpose of building large retention databases, and in applications such as high-throughput screening laboratories. The large datasets yielded by these technologies will in turn be used by Stoll\u2019s group to continue development of predictive simulation tools that support increased autonomous operation of LC instruments, and increase the efficiency of research by focusing experimental lab-based LC measurements on conditions most likely to be useful.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dwight",
+   "pi_last_name": "Stoll",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "II",
+   "pi_full_name": "Dwight R Stoll",
+   "pi_email_addr": "dstoll@gustavus.edu",
+   "nsf_id": "000524384",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tom",
+   "pi_last_name": "van de Goor",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tom van de Goor",
+   "pi_email_addr": "tom_vandegoor@agilent.com",
+   "nsf_id": "000683926",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Gustavus Adolphus College",
+  "inst_street_address": "800 W COLLEGE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT PETER",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "5079338000",
+  "inst_zip_code": "560821498",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MN01",
+  "org_lgl_bus_name": "GUSTAVUS ADOLPHUS COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NE3ERK2DCKT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Gustavus Adolphus College",
+  "perf_str_addr": "800 W COLLEGE AVE",
+  "perf_city_name": "SAINT PETER",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "560821498",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MN01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688000",
+   "pgm_ele_name": "Chemical Measurement & Imaging"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1504",
+   "pgm_ref_txt": "GRANT OPP FOR ACAD LIA W/INDUS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 442515.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,114 @@
+{
+ "awd_id": "2527512",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Self-Biased Microparticles to Increase Reaction Rates in Microbial Electrochemistry",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928012",
+ "po_email": "adodabal@nsf.gov",
+ "po_sign_block_name": "Ananth Dodabalapur",
+ "awd_eff_date": "2025-11-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 597550.0,
+ "awd_amount": 597550.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "Title: Electronic Microparticles That Help Microbes Clean Waste and Generate Energy \r\n\r\nMicroorganisms can produce both electricity and useful chemicals from wastes, but there are multiple technical problems that prevent these capabilities from being fully realized in real world applications. These problems slow the reactions of bacteria and make energy harvesting inefficient. This project will create tiny particles that combine solar-powered electronics with bacterial activity to accelerate these important biological reactions. Each particle is designed to provide a surface at a voltage where certain microbes can best do what they are expert at: breaking down organic compounds. The bacteria enriched on these surfaces have a unique ability; their internal metabolism is connected to their outer surface. A metal electrode on the particle can collect electrical current from these bacteria and send it to a photovoltaic cell. The additional power drives hydrogen gas production from a second electrode, which can be collected or further converted into methane. These particles can flow freely through water, allowing them to access fresh nutrients and avoid many limitations of traditional systems. The silicon and glass-based particles are non-toxic, largely using materials common in sand and soil or using other materials, such as tiny aluminum or gold electrodes, that do not harm the surrounding environment. This technology opens new possibilities for wastewater treatment, energy production, and environmental monitoring. Our research supports a collaboration between students and scientists in microbiology and electrical engineering, offering unique training and educational opportunities.\r\nThe discovery of electroactive microorganisms enabled a new generation of biological systems integrated with electronic devices. When microorganisms can transfer electrons directly to or from electrodes, new kinds of wastewater treatment, soil bioremediation, biofuel synthesis, biomaterial production, and biosensing are possible. However, all microbial electrochemical technologies are constrained by diffusional limitations and inefficiencies, especially in water with low buffering capacity. This project addresses these challenges through a novel approach: self-powered, mobile microparticles that integrate anodes, photodiodes, and cathodes. These devices, having electrodes smaller than a typical diffusion length, harness spherical diffusion dynamics to enhance reaction rates while the photodiodes bias electrodes to voltages favorable to microbial metabolism, simplifying operation and reducing resistance losses. In addition, the particles themselves are small enough to be carried by fluid flow, which allows them to constantly travel through new regions of solutions where nutrients are available. Our interdisciplinary effort bridges microbiology and electrical engineering to fabricate and systematically test these devices. This completely new platform for growing electroactive microorganisms free of diffusional limitations and external power sources has the potential for transformative advances in catalytic rates and increased throughput of microbial experiments.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Talghader",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph J Talghader",
+   "pi_email_addr": "joey@ece.umn.edu",
+   "nsf_id": "000371477",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Bond",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel R Bond",
+   "pi_email_addr": "dbond@umn.edu",
+   "nsf_id": "000318285",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 Union ST SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554550169",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "108E",
+   "pgm_ref_txt": "Bioelectronics"
+  },
+  {
+   "pgm_ref_code": "094E",
+   "pgm_ref_txt": "Optoelectronic devices"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 597550.0
+  }
+ ],
+ "por": null
+}

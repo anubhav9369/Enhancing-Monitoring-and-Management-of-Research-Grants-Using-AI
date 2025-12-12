@@ -1,0 +1,134 @@
+{
+ "awd_id": "2529111",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: MATH-DT: Computationally efficient hypercomplex variable-based sensitivity methods for rapid Digital Twin model updating",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 429040.0,
+ "awd_amount": 429040.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "A Digital Twin (DT) is a representation of a real-world system that continuously exchanges data between digital models and their physical counterparts, allowing them to simulate, monitor, and predict the behavior of real-world systems in real-time. As such, DTs hold transformative potential across critical sectors including manufacturing, infrastructure, energy, and defense. However, existing methods for updating the digital models with real-world data are often too slow for real-time use. To overcome this barrier, this research introduces a novel mathematical and computational framework to dramatically accelerate digital model calibration, enabling faster and more accurate digital twin applications. The potential benefits of this work are far-reaching, advancing capabilities in predictive maintenance, process optimization, and risk mitigation, directly supporting the US economic productivity, public safety, technological innovation, and competitiveness. The project also fosters the next generation of scientists and engineers through interdisciplinary training and hands-on research experiences for graduate and undergraduate students. Together, these contributions lay the groundwork for a new generation of scalable, real-time Digital Twin systems with wide-reaching impact across science, industry, and education.\r\n \r\nDigital Twins require continuous two-way communication between physical systems and high-fidelity digital models. However, the cost in time and resources to update the digital models with real-world data is often prohibitive. To address this technical challenge, this project explores a fundamentally new approach for DT model updating centered on the efficient computation and exploitation of high-order derivatives obtained via a new class of hypercomplex algebras. These derivatives will serve as the foundation for a new derivative-informed Bayesian updating method that dramatically reduces the number of required model evaluations while preserving accuracy. The project is structured around three interconnected aims. Aim 1 develops hypercomplex algebras specifically formulated to compute arbitrary-order derivatives efficiently and accurately, even in high-dimensional settings. Aim 2 computes and applies the new hypercomplex algebras to accurately and efficiently obtain sensitivities of high-fidelity digital models. Aim 3 develops a derivative-informed Bayesian updating strategy that utilizes the derivatives to reduce the cost of model updating while maintaining high accuracy. The anticipated outcomes include faster and more accurate model calibration, improved uncertainty quantification, and reduced operational costs, enabling scalable, real-time DT systems across high-impact domains such as aerospace, defense, infrastructure, and healthcare.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Harry",
+   "pi_last_name": "Millwater",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Harry Millwater",
+   "pi_email_addr": "harry.millwater@utsa.edu",
+   "nsf_id": "000375871",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Restrepo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Restrepo",
+   "pi_email_addr": "david.restrepo@utsa.edu",
+   "nsf_id": "000784553",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mauricio",
+   "pi_last_name": "Aristizabal Cano",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mauricio Aristizabal Cano",
+   "pi_email_addr": "mauricio.aristizabalcano@utsa.edu",
+   "nsf_id": "0000A0CPW",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at San Antonio",
+  "inst_street_address": "1 UTSA CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN ANTONIO",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2104584340",
+  "inst_zip_code": "782491644",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "TX20",
+  "org_lgl_bus_name": "THE UNIVERSITY OF TEXAS AT SAN ANTONIO",
+  "org_prnt_uei_num": "U44ZMVYU52U6",
+  "org_uei_num": "U44ZMVYU52U6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at San Antonio",
+  "perf_str_addr": "1 UTSA CIR",
+  "perf_city_name": "SAN ANTONIO",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "782491644",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "TX20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 429040.0
+  }
+ ],
+ "por": null
+}

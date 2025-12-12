@@ -1,0 +1,122 @@
+{
+ "awd_id": "2529292",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "MATH-DT: RareDT: Rare event quantification and control in digital twins",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 500005.0,
+ "awd_amount": 500005.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "This project aims to develop innovative methodologies for quantifying and controlling rare events in complex systems using digital twins. Rare events, such as traffic crashes, power grid failures, and extreme weather, have severe consequences despite their low frequency. Digital twins, virtual replicas of physical systems, update dynamically with real-time data, providing predictive insights and decision-making capabilities for rare event mitigation. However, current digital twin models often fail to account for rare events, leading to substantial risks in real-world applications. This project addresses this gap by creating RareDT, digital twins that explicitly incorporate rare event quantification and control. This project combines foundational advances in mathematics and statistics with the development of efficient algorithms to quantify the uncertainty of rare events and optimize decision-making in digital twins. The methodologies will be applied and validated in the context of autonomous vehicle traffic control, with the broader goal of enhancing safety and resilience in areas such as transportation, infrastructure planning, and disaster response. By ensuring that AI-enabled digital twin technologies are both reliable and robust in extreme scenarios, the project contributes to national safety and prosperity. The project also includes a strong educational component, offering new courses, workshops, and outreach activities for learners from K-12 through graduate school, and will provide interdisciplinary training for doctoral students in computer science, mathematics, and engineering.\r\n\r\nThis project develops innovative mathematical and computational methods for quantifying and controlling rare events by integrating them into digital twin frameworks and designing efficient algorithms for solving the associated mathematical problem: optimal control under rare chance constraints in complex, high-dimensional systems governed by partial differential equations (PDEs). The core methodology builds on large deviation theory and advanced optimization techniques, initially under Gaussian approximations and then extended to handle non-Gaussian and even unknown distributions. The project introduces several key contributions: (i) Modeling advances for digital twins - The RareDT framework fills a critical gap in current digital twin technologies by incorporating rare event modeling, thereby improving their predictive accuracy and reliability, (ii) Methodological innovation - The research develops novel algorithms by adapting probability theory, uncertainty quantification, and PDE-constrained optimization techniques to address rare-chance-constrained problems in complex systems, (iii) Efficiency and real-time applicability - By prioritizing computational efficiency and enabling real-time data assimilation, the project ensures that the developed methods are suitable for time-critical decision-making in real-world scenarios involving rare events, such as autonomous vehicle traffic flow control accounting for collisions, (iv) Interdisciplinary integration - By combining insights from applied mathematics, statistics, and engineering, the project creates a robust collaboration and provides a multidisciplinary approach to address the challenges of rare event studies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shanyin",
+   "pi_last_name": "Tong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shanyin Tong",
+   "pi_email_addr": "tong3@sas.upenn.edu",
+   "nsf_id": "000918021",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Xuan",
+   "pi_last_name": "Di",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xuan Di",
+   "pi_email_addr": "sharon.di@columbia.edu",
+   "nsf_id": "000730829",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University Of Pennsylvania",
+  "perf_str_addr": "4N40 209 S 33rd St",
+  "perf_city_name": "Philadelphia",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046317",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "745400",
+   "pgm_ele_name": "MSPA-INTERDISCIPLINARY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500005.0
+  }
+ ],
+ "por": null
+}

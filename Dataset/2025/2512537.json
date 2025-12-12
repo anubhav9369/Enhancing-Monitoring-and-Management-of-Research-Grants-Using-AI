@@ -1,0 +1,98 @@
+{
+ "awd_id": "2512537",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Squeezing Optimal Control for Fault-Tolerant Bosonic Operations",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927421",
+ "po_email": "msbyrd@nsf.gov",
+ "po_sign_block_name": "Mark S. Byrd",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 363649.0,
+ "awd_amount": 363649.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "This project supports a critical step toward realizing practical, large-scale quantum computers, machines that promise transformative advances in national cybersecurity, economic competitiveness, and scientific discovery. However, existing physical components are too error-prone to construct a useful quantum computer. The PI and research team aim to adopt an emerging physical approach for storing and manipulating quantum information called \u201cbosonic encodings\u201d. This approach enjoys a high degree of efficiency in the number of resources necessary to protect against errors in stored information. However, the available quantum logic operations do not retain the protection of bosonic encodings. Therefore, our research will develop new strategies for quantum logic operations that preserve the built-in error protection of bosonic encodings. By conducting such research, the project will take a major step toward scalable quantum computers. The project serves the national interest by promoting the progress of science through research that pushes the boundaries of quantum control and error correction, which are critical building blocks for quantum computers.\r\n\r\nBosonic encodings of logical quantum information offer hardware-efficient approaches to quantum error correction. This has the potential to reduce the resource-overheads necessary to achieve a useful quantum computer. However, missing from this approach is a complete set of logical gates to enable active manipulation of stored information while maintaining the full error correction properties of the encoding. With a combined theoretical, computational, and experimental effort, the team proposes to advance quantum control methods so that this becomes possible. Specifically, the research team will aim to advance our novel concept of photon number parity-nested control operations on a binomial encoding by taking advantage of optimal-control derived squeezing-based operations of an oscillator. The research team will complete analytic and numerically-optimized gate sets for such squeezing-based operations and accomplish experiments that accomplish error-transparent magnitude-mixing operations on a bosonic encoding in superconducting hardware. Additionally, the PI will host a workshop for novel circuit elements for quantum information devices to engage students and faculty from a broad range of universities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Valla",
+   "pi_last_name": "Fatemi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Valla Fatemi",
+   "pi_email_addr": "vf82@cornell.edu",
+   "nsf_id": "000888142",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "728100",
+   "pgm_ele_name": "QIS - Quantum Information Scie"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 363649.0
+  }
+ ],
+ "por": null
+}

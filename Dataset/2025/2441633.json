@@ -1,0 +1,126 @@
+{
+ "awd_id": "2441633",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Embracing Uncertainty in High-Performance Computing Resource Scheduling: An Integrated Algorithmic and Machine Learning-based Approach",
+ "cfda_num": "47.070, 47.083",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 558208.0,
+ "awd_amount": 324315.0,
+ "awd_min_amd_letter_date": "2025-01-08",
+ "awd_max_amd_letter_date": "2025-01-08",
+ "awd_abstract_narration": "Resource scheduling is a critical component of high-performance computing (HPC) systems. Despite extensive literature on scheduling, new challenges continue to arise due to advancements in hardware, software, and evolving models, metrics, and performance demands. Today\u2019s HPC systems operate on an unprecedented scale, presenting significant challenges for resource management, particularly when facing uncertainty introduced by emerging application characteristics and system-level complexities. Existing schedulers lack robust mechanisms to effectively handle uncertainty, limiting their ability to achieve optimal performance. This project takes on the grand challenge of scheduling HPC resources under uncertainty by introducing an integrated approach that combines algorithm and machine learning (ML). The approach leverages the rigor of algorithmic analysis to provide performance guarantees while utilizing ML\u2019s predictive capabilities to manage uncertainty effectively. The anticipated outcome is a substantial enhancement to current HPC schedulers, enabling more efficient execution of a diverse range of scientific applications, such as neuroscience, medical research, climate modeling, and artificial intelligence. Additionally, the project includes a series of synergistic activities, including outreach programs, curriculum development, and student recruitment, aimed at engaging students from K-12 through graduate levels. These efforts focus particularly on underrepresented and underserved communities, offering research opportunities that foster success in STEM and CS education.\r\n\r\nTechnically, this project aims to design, implement, and evaluate scheduling algorithms that integrate ML prediction models to enhance efficiency. The focus will be on addressing three primary sources of uncertainty: (1) inherent runtime variability of emerging applications; (2) resource contention in job co-scheduling; and (3) structural variations within dynamic workflows. These aspects represent uncertainties across temporal, spatial, and structural dimensions, all of which demand solutions due to their growing prevalence in modern HPC environments. Algorithmically, approximation and semi-online algorithms will be developed to provide performance guarantees relative to theoretical lower bounds for metrics such as job completion time and resource utilization. On the ML front, various models, including those based on regression and reinforcement learning, will be trained to deliver accurate predictions for job runtime, performance degradation, and structural variability. A key ambition of this project is to establish an incubation framework that enables the effective integration of heuristic-based algorithms and data-driven ML models. This approach aims to achieve a level of performance that neither paradigm could accomplish independently. The framework will offer a novel perspective on resource management and potentially set the stage for future HPC advancements.\r\n\r\nThis project is jointly funded by Software and Hardware Foundations and  the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hongyang",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hongyang Sun",
+   "pi_email_addr": "hongyang.sun@ku.edu",
+   "nsf_id": "000759577",
+   "pi_start_date": "2025-01-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Kansas Center for Research Inc",
+  "inst_street_address": "2385 IRVING HILL RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "LAWRENCE",
+  "inst_state_code": "KS",
+  "inst_state_name": "Kansas",
+  "inst_phone_num": "7858643441",
+  "inst_zip_code": "660457563",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "KS01",
+  "org_lgl_bus_name": "UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC",
+  "org_prnt_uei_num": "SSUJB3GSH8A5",
+  "org_uei_num": "SSUJB3GSH8A5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Kansas Center for Research Inc",
+  "perf_str_addr": "2385 IRVING HILL RD",
+  "perf_city_name": "LAWRENCE",
+  "perf_st_code": "KS",
+  "perf_st_name": "Kansas",
+  "perf_zip_code": "660457563",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "KS01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 324315.0
+  }
+ ],
+ "por": null
+}

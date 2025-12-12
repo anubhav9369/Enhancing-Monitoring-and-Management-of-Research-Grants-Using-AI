@@ -1,0 +1,98 @@
+{
+ "awd_id": "2515542",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "New Methods for Scalable and Robust Simulation-Based Inference",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 155000.0,
+ "awd_amount": 155000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "In fields like genetics, ecology, biology, economics, and psychology, scientists use complex structural models to better understand how the world works. These models aim to mimic real systems, such as how species interact, how crops grow, or how diseases spread, and often rely on key input values, or parameters, that need to be estimated from data. However, many of these models involve high-dimensional, richly structured parameter spaces, making traditional likelihood-based inference methods infeasible, especially for large and complicated datasets. Simulation-based inference (SBI) offers a powerful alternative by exploring these models using simulations rather than direct likelihood evaluation. Within this framework, Bayesian methods provide a natural way to combine expert knowledge with data. This project will develop new simulation-based inference (SBI) methods. These innovations will empower scientists make better use of complex models across diverse domains, supporting more scalable, efficient and reliable decision-making.\r\n\r\nCurrent SBI methods face serious limitations when models involve many parameters or when the models do not fully align with the real-world systems that they are meant to represent.  This project will address two core challenges limiting the broader applicability of Bayesian inference in complex scientific models: scalability to high-dimensional parameter spaces and robustness to model misspecification. To improve scalability, this project introduces a novel solution based on score-based Langevin dynamics, which leverages gradient information approximated by deep conditional score-matching networks. To improve robustness, this project attempts to mitigate the misspecification issue by (1) refining the posterior based on their predictive performance, and (2) explicitly incorporating the level of model misspecification into the inference process.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuexi",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuexi Wang",
+   "pi_email_addr": "yxwang99@illinois.edu",
+   "nsf_id": "000971244",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "605 E. Springfield",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 155000.0
+  }
+ ],
+ "por": null
+}

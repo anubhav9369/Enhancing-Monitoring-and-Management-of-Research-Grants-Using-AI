@@ -1,0 +1,146 @@
+{
+ "awd_id": "2545822",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Foundations for IoT Cloud Security",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924540",
+ "po_email": "suluagac@nsf.gov",
+ "po_sign_block_name": "Selcuk Uluagac",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 550716.0,
+ "awd_amount": 384182.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "The Internet of things (IoT) cloud is one of the key pillars of the foundation upon which modern IoT systems rest (Smart Home, Industrial, Smart City, Retail, and Health applications, etc.). Newer IoT devices are taking advantage of the managed Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) IoT cloud services (e.g., AWS IoT Core, Azure IoT Hub), which offload much of the security responsibilities and deployment burden from device manufacturers to the public cloud providers. IoT clouds must manage trust for hundreds of millions of IoT devices and users, and provide device manufacturers reliable and usable tools for secure IoT deployments. In the IoT cloud systems, compromised security or improper deployments can cause hazardous and deadly consequences. The outcomes of the proposed work will (1) establish the foundational scientific theory, security principles, and practices that define the field of IoT cloud security and (2) protect PaaS and IaaS IoT clouds that underlie the wide array of Smart Home, Health, Industrial, Smart City, Retail, and critical infrastructure from cyberattacks. Techniques and tools to be developed in this project will be used by IoT developers, security analysts in industry, academic researchers, and a wide range of students (system security, formal methods, and engineering).\r\n\r\nIoT cloud systems have specific challenges imposed by their requirements of large-scale distributed trust management and secure support of emerging IoT computing paradigms such as IoT interoperability, which preclude direct application of solutions devised for general-purpose systems. The project will characterize these challenges while addressing three key, novel research thrusts. The first thrust is to formalize the threats concerning the emerging paradigms of IoT interoperability to conduct novel attacks, and formally verify their security in IoT cloud systems and protocols. The second thrust is to explore and understand emerging cyberattacks leveraging misconfiguration of cloud IoT policies by device manufacturers, and develop innovative formal modeling and verification approaches to elevate security assurance of policy specification and cloud-based IoT deployments. The third thrust is informed by the first two thrusts, which identify the threats and challenges, and is to fundamentally address the threats by developing a systematized IoT-cloud security framework with a set of innovative techniques, including secure clean-slate design of IoT interoperability protocols, a novel in-device channel control framework, and hardened supply chain for IoT brokers (a core component of IoT clouds). Through these thrusts, this project will produce new foundational understanding and methods to safeguard modern and the next generation of IoT cloud systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Luyi",
+   "pi_last_name": "Xing",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Luyi Xing",
+   "pi_email_addr": "lxing2@illinois.edu",
+   "nsf_id": "000784995",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 47818.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 119210.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 106745.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 110409.0
+  }
+ ],
+ "por": null
+}

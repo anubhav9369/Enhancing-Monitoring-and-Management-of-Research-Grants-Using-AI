@@ -1,0 +1,110 @@
+{
+ "awd_id": "2515333",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Robust Data-Driven Decision-Making: Human-AI Alignment, Adaptivity, and Optimality",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032925307",
+ "po_email": "tmaiti@nsf.gov",
+ "po_sign_block_name": "Tapabrata Maiti",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "AI-assisted decision-making systems have revolutionized fields ranging from medical treatment to online marketing by learning from data to optimize sequential decisions. However, real-world deployment reveals fundamental challenges that compromise system reliability and effectiveness. For instance, human users may distrust or selectively follow algorithmic recommendations, creating implementation gaps; operating environments often differ frequently from the conditions under which systems were trained; and complete knowledge about the environment is often unavailable. Existing methods typically assume perfect implementation and stable environments, leading to substantial performance degradation when these assumptions fail. This project aims to address these limitations by developing new theories and principled algorithms to enable robust and trustworthy decision-making under realistic constraints. In addition, it will provide valuable opportunities for training students at all levels in the STEM field and introducing the general audience to advances in data science and AI.\r\n\r\nThis project focuses on fundamental sequential decision-making problems: multi-armed bandit and reinforcement learning. The research pursues three complementary directions, aiming to characterize the fundamental statistical limits of learning and develop provably optimal algorithms while maintaining robustness to varied sources of uncertainties. The first thrust will devise trust-aware procedures that account for human behavioral factors when individuals deviate from algorithmic recommendations. The second thrust will tackle the challenge of distribution shifts between training data and deployment environments through robust transfer learning methods. The third thrust aims to design model-agnostic algorithms that function across diverse model types and automatically adapt to unknown environmental structures. The project will provide statistical insights that inform decision-making practice and develop efficient, robust procedures for real-world applications across various domains.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Changxiao",
+   "pi_last_name": "Cai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Changxiao Cai",
+   "pi_email_addr": "cxcai@umich.edu",
+   "nsf_id": "000989196",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "1269",
+   "pgm_ref_txt": "STATISTICS"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

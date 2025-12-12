@@ -1,0 +1,93 @@
+{
+ "awd_id": "2452009",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Mathematical Descriptions that are Mathematical Objects",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924885",
+ "po_email": "tbartosz@nsf.gov",
+ "po_sign_block_name": "Tomek Bartoszynski",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 109999.0,
+ "awd_amount": 109999.0,
+ "awd_min_amd_letter_date": "2025-06-16",
+ "awd_max_amd_letter_date": "2025-06-16",
+ "awd_abstract_narration": "We can measure how strong a mathematical theory is by asking whether it can distinguish computer programs which run for a very long time from those which never halt. Measuring stronger theories requires new techniques for describing computer programs which are guaranteed to eventually stop, but where this can only be proven in very strong theories. The goal of this project is to complete a recent breakthrough in this area which introduced the use of self-modifying computer programs. This made it possible to analyze the theory known as full second order arithmetic in this way. This project will use this new characterization of this very abstract theory to develop new ways to translate this abstract strength into concrete, computational information. This project involves graduate and undergraduate students.\r\n\r\nThe starting point of this project will be writing down a complete ordinal notation for the theory of second order arithmetic and then using this to examine the strength of this theory from several perspectives. The project will develop combinatorial results, in the style of Goodstein sequences or hydra games, whose termination is so hard to prove that it cannot be shown in second order arithmetic. The project will also develop new forms of inductive definitions which exhaust the strength of second order arithmetic. This project will also develop this new approach to cut-elimination as a general method applicable to other logics besides variants of second order arithmetic.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Henry",
+   "pi_last_name": "Towsner",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Henry P Towsner",
+   "pi_email_addr": "htowsner@gmail.com",
+   "nsf_id": "000546489",
+   "pi_start_date": "2025-06-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "David Rittenhouse Laboratories",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046205",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 109999.0
+  }
+ ],
+ "por": null
+}

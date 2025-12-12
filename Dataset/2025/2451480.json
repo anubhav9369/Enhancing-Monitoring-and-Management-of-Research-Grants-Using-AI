@@ -1,0 +1,102 @@
+{
+ "awd_id": "2451480",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: III: Towards Efficient Interpretation for Explainable Learning: A Computational Perspective on Attribution and Recourse",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "Artificial intelligence (AI) systems, especially advanced machine learning models, increasingly support critical decisions in areas such as healthcare. However, many of these AI systems operate as \"black boxes\", providing outcomes without clear explanations of how decisions were made. The lack of transparency can hinder trust and accountability, particularly when AI decisions significantly affect human lives. This project seeks to address a critical limitation of existing explainable AI techniques: their inefficiency in producing explanations quickly and reliably. By improving the efficiency of these methods, this research aims to broaden the practical use of explainable AI systems in real-world scenarios, such as medical diagnosis and personalized treatments. This advancement in AI interpretability will significantly enhance the national health, prosperity, and welfare by enabling safer and more reliable deployment of AI in critical application scenarios. \r\n\r\nThis project addresses the computational inefficiencies in current explainable AI methods through three interconnected research objectives. First, it will accelerate computationally demanding interpretation algorithms, specifically focusing on two widely used but computationally intensive explanation scenarios:  Use a solution approach for distributing gains or costs fairly . This acceleration will be achieved by novel randomized approximation techniques, substantially lowering computational complexity. Second, the project will construct unified explainer models using manifold-based modeling methods, allowing efficient generation of explanations through a single inference computation, thus enabling explanations for large volumes of data simultaneously. Third, the developed methods will be validated and embedded into critical medical applications (i.e., histopathology imaging and single-cell RNA sequencing in cancer prognosis) leveraging domain-specific knowledge prior and expert feedback. Rigorous evaluation using large-scale datasets will be conducted to demonstrate the practical value of these methods. Collectively, this work will establish an innovative theoretical and practical framework, enabling rapid and reliable explanations essential for deploying trustworthy AI systems in health informatics and beyond.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Fan",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Fan Yang",
+   "pi_email_addr": "yangfan@wfu.edu",
+   "nsf_id": "000954412",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wake Forest University",
+  "inst_street_address": "1834 WAKE FOREST RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "WINSTON SALEM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "3367585888",
+  "inst_zip_code": "271096000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NC10",
+  "org_lgl_bus_name": "WAKE FOREST UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MBU6HCLNZ431"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wake Forest University",
+  "perf_str_addr": "1834 WAKE FOREST RD",
+  "perf_city_name": "WINSTON SALEM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "271096000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NC10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

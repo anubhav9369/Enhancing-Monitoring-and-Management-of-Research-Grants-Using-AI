@@ -1,0 +1,98 @@
+{
+ "awd_id": "2515126",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: Neonatal Facial Coding for Pain Recognition Monitoring System (PRAMS)",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 1199832.0,
+ "awd_amount": 903136.0,
+ "awd_min_amd_letter_date": "2025-02-11",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Pain affects over 15 million hospitalized babies annually. Early-life pain is associated with abnormal structural and functional brain development and results in adverse consequences, including cognitive impairments, altered emotional functioning, psychopathologies, and global pain sensitivity. Using facial expressions associated with brain-based evidence of pain, nurses only agree to the presence of babies\u2019 pain 67-87% of the time. Thus, the inability to self-report pain makes babies vulnerable to under- and over-treatment of pain. The investigators created and pediatric nurses validated, a preliminary artificial intelligence (AI)-empowered pain classification model based on facial actions from a video dataset of newborn pain. This model provides 94% accuracy, 93% precision, and 95% recall in analyses of a small sample of babies. This model is not robust enough to be deployed for continuous pain assessment until it can be fully developed with a large sample of diverse babies. This project is being integrated into educational activities offered by the investigators, including the first massive open online course based on federated learning (FL) concepts and algorithms. \r\n\r\nThe goal of this program of research is to advance the creation of an automated Pain Recognition AI-empowered Monitoring System (PRAMS) grounded by biological evidence of pain and supervised by nurses-in-the loop. A novel hybrid FL approach is being tested by using a diverse pain assessment dataset that is being created from time-series facial action video, physiological and clinical data of more than 200 babies before and after surgery in eight patient care units; thus, simulating inter-hospital distributed learning. Mathematical proof that this novel hybrid FL approach has advantageous convergence characteristics in convex learning problems is being provided to establish in the future similar convergence bounds for non-convex optimization. This project has great potential to advance the development of machine learning algorithms across heterogeneous datasets in a privacy-preserving FL approach that could leverage the statistical power of multi-site data to learn clinically meaningful features of even rare conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "RENEE",
+   "pi_last_name": "MANWORREN",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "RENEE C MANWORREN",
+   "pi_email_addr": "reneemanworren@gmail.com",
+   "nsf_id": "000867178",
+   "pi_start_date": "2025-02-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Arlington",
+  "inst_street_address": "701 S NEDDERMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ARLINGTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "8172722105",
+  "inst_zip_code": "760199800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT ARLINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LMLUKUPJJ9N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Arlington",
+  "perf_str_addr": "701 S NEDDERMAN DR",
+  "perf_city_name": "ARLINGTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "760199800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 903135.0
+  }
+ ],
+ "por": null
+}

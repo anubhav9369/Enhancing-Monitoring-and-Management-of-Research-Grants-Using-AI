@@ -1,0 +1,114 @@
+{
+ "awd_id": "2432625",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EMBRACE-AGS-Seed: Unveiling the Role of Aerosols in Tropical Cyclone Precipitation in the Atlantic Basin",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032924715",
+ "po_email": "nanderso@nsf.gov",
+ "po_sign_block_name": "Nicholas Anderson",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-12-31",
+ "tot_intn_awd_amt": 198702.0,
+ "awd_amount": 198702.0,
+ "awd_min_amd_letter_date": "2024-12-16",
+ "awd_max_amd_letter_date": "2024-12-16",
+ "awd_abstract_narration": "Tropical cyclones (TCs) rank among the most destructive weather phenomena, causing widespread devastation globally. Their characteristics (frequency, intensity, rainfall) are influenced by environmental factors with complex interactions and feedback including sea surface temperatures (SSTs), atmospheric temperature and moisture, vertical wind shears, etc. Aerosols, such as Saharan dust, also play a significant role in modulating TC rainfall by influencing cloud processes and altering SSTs through direct radiative effects. Advancing the understanding of these dynamics is essential for improving predictive models and mitigating the societal impacts of extreme weather events. This project employs cutting-edge machine learning (ML) techniques and numerical weather models to enhance knowledge of TC rainfall and their environmental drivers. This project will contribute to the development of innovative ML frameworks adaptable to various scientific disciplines, enhance educational opportunities in climate science and ML, and increase public awareness of the growing risks associated with extreme weather events.\r\n\r\nThis project investigates the complex processes driving TC rain rates and accumulative rainfall in the Atlantic Basin, with a particular focus on the impact of Saharan dust on cloud formation and its interactions with atmospheric and oceanic systems. ML models, including Random Forests, Gradient Boosting Machines, and Neural Networks, will be utilized to analyze TC rainfall in relation to environmental forcings, such as Saharan dust. Interpretable ML techniques, such as SHapley Additive exPlanations (SHAP), will unveil key non-linear relationships that traditional statistical methods may fail to resolve. Idealized simulations will complement the ML analysis by isolating specific dynamics, offering deeper insights into fundamental atmospheric mechanisms. The integration of ML and process-based models is expected to discover new relationships between environmental forcings and TC dynamics while enhancing the accuracy of TC rain rates predictions in weather and climate models.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Laiyin",
+   "pi_last_name": "Zhu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Laiyin Zhu",
+   "pi_email_addr": "laiyin.zhu@wmich.edu",
+   "nsf_id": "000802241",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Western Michigan University",
+  "inst_street_address": "1903 W MICHIGAN AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "KALAMAZOO",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "2693878298",
+  "inst_zip_code": "490085200",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MI04",
+  "org_lgl_bus_name": "WESTERN MICHIGAN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J7WULLYGFRH1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Western Michigan University",
+  "perf_str_addr": "1903 W MICHIGAN AVE",
+  "perf_city_name": "KALAMAZOO",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "490085200",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MI04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152500",
+   "pgm_ele_name": "Physical & Dynamic Meteorology"
+  },
+  {
+   "pgm_ele_code": "334Y00",
+   "pgm_ele_name": "EMBRACE-EMpwrBRdrAcdmcCpcty&Ed"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1525",
+   "pgm_ref_txt": "PHYSICAL & DYNAMIC METEOROLOGY"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "334Y",
+   "pgm_ref_txt": "EMBRACE-EMpwrBRdrAcdmcCpcty&Ed"
+  },
+  {
+   "pgm_ref_code": "133Z",
+   "pgm_ref_txt": "EMBRACE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 198702.0
+  }
+ ],
+ "por": null
+}

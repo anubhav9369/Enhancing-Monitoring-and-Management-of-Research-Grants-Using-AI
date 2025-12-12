@@ -1,0 +1,98 @@
+{
+ "awd_id": "2537189",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Federated Optimization over Bandwidth-Limited Heterogeneous Networks",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 360000.0,
+ "awd_amount": 316074.0,
+ "awd_min_amd_letter_date": "2025-09-02",
+ "awd_max_amd_letter_date": "2025-09-02",
+ "awd_abstract_narration": "Harnessing the power of data collected from a vast amount of geographically distributed and heterogeneous devices, in a manner without moving data around and violating privacy, has great potential in advancing science and technology and improving quality of life. Federated optimization lies at the heart of the practice realizing this vision, encompassing problems such as training large-scale machine learning or artificial intelligence models, delivering insightful data analytics, as well as facilitating decision making under uncertainty, all in distributed manners. There is a significant gap in the algorithmic foundation of federated optimization when interfacing with bandwidth-limited heterogeneous networks, such as internet-of-things, smart healthcare, and edge computing, to meet the unique challenges of taming heterogeneity, privacy, and uncertainty without sacrificing efficiency. This research project will also be tightly integrated with education and workforce developments, through offering new courses, mentoring students at all levels in research projects, and disseminating the research outcomes at suitable conferences and workshops.\r\n \r\nThe goal of the research program is to develop a federated optimization framework to learning and decision making by designing communication-efficient, computation-scalable, and privacy-preserving algorithms that converge provably over highly heterogeneous data and computing environments. Leveraging insights from machine learning, optimization theory, signal processing, and differential privacy, the research program offers an entirely new suite of theoretical and algorithmic tools to enable heterogeneity-embracing and privacy-preserving learning and decision making in federated environments under bandwidth constraints, unveiling fundamental trade-offs among computation, communication, privacy, and utility. The research program will gravitate around a semi-decentralized federated setting suitable to meet the diverse needs of bandwidth-limited heterogeneous networks, and focus on developing bandwidth-limited federated optimization algorithms that are efficient, resilient, and private with rigorous performance guarantees for a wide range of problems arising from machine learning, data analysis, and sequential decision making.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuejie",
+   "pi_last_name": "Chi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuejie Chi",
+   "pi_email_addr": "yuejie.chi@yale.edu",
+   "nsf_id": "000627307",
+   "pi_start_date": "2025-09-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Yale University",
+  "inst_street_address": "150 MUNSON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW HAVEN",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "2037854689",
+  "inst_zip_code": "065113572",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "CT03",
+  "org_lgl_bus_name": "YALE UNIV",
+  "org_prnt_uei_num": "FL6GV84CKN57",
+  "org_uei_num": "FL6GV84CKN57"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Yale University",
+  "perf_str_addr": "150 MUNSON ST",
+  "perf_city_name": "NEW HAVEN",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "065113572",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "CT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 316074.0
+  }
+ ],
+ "por": null
+}

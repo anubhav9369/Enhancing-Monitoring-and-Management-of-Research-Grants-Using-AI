@@ -1,0 +1,98 @@
+{
+ "awd_id": "2517121",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CICI: UCSS: Confidential Computing in Reproducible Collaborative Workflows",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925147",
+ "po_email": "dmassey@nsf.gov",
+ "po_sign_block_name": "Daniel F. Massey",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 432485.0,
+ "awd_min_amd_letter_date": "2025-04-07",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Data-intensive scientific research projects often involve multiple collaborative parties. Some parties may demand confidential processing of their sensitive assets to protect intellectual property, embargo data (or algorithm) sharing before publishing a paper, conform to legal requirements, or avoid the responsibility for releasing sensitive data. However, integrating confidential computing into scientific workflows raises significant challenges. (1) Most science domain developers find it challenging to learn specific confidential computing frameworks and secure their code to protect from side-channel attacks. (2) The interplay between the private components and other components in a collaborative workflow may enable new attacks and side channels for adversaries to explore. The proposed project aims to address these challenges with a scientist-friendly development framework for confidential computing and a holistic attack study and mitigation framework for collaborative workflows. The success of this project will enable domain scientist developers to adopt the best confidential computing practices easily and use publicly available resources without the concern of confidentiality and privacy breach, boosting the idea of open, collaborative science.\r\n\r\nSpecifically, the proposed research focuses on the scientist-oriented trusted-execution-environment (TEE) based development and studies its integration with collaborative scientific workflows. (1) The project explores different protection and usability solutions for domain scientists and allows them to tradeoff between their research goals and security and privacy concerns. (2) It develops an efficient and transparent TEE access-pattern protection framework that uniquely combines the best practices in data-intensive computing and framework-based mitigation methods. (3) It takes a holistic approach to study new security and privacy threats around confidential components in a collaborative workflow, covering stages including task execution, logging, provenance analysis, and reproducibility verification. The solutions will integrate techniques like TEE, blockchain, and differential privacy. (4) It is science-driven, motivated, and validated by collaborative research projects in biomedical sequence processing, image-based remote diagnosis, and healthcare data analytics. This project will generate open-source toolkits and demonstration systems. It also includes several educational and outreach initiatives to enhance cybersecurity and data science programs, attract underrepresented students, help local high school CS education, and strengthen industrial collaborations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Keke",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Keke Chen",
+   "pi_email_addr": "kekechen@umbc.edu",
+   "nsf_id": "000506889",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Maryland Baltimore County",
+  "inst_street_address": "1000 HILLTOP CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4104553140",
+  "inst_zip_code": "212500001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RNKYWXURFRL5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Maryland Baltimore County",
+  "perf_str_addr": "1000 HILLTOP CIR",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212500001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802700",
+   "pgm_ele_name": "Cybersecurity Innovation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 432485.0
+  }
+ ],
+ "por": null
+}

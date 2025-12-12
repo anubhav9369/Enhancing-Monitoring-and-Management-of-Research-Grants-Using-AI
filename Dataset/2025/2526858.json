@@ -1,0 +1,114 @@
+{
+ "awd_id": "2526858",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Generating Synthetic Human Walking Data Using a Central Pattern Generator-based Model",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927014",
+ "po_email": "szehnder@nsf.gov",
+ "po_sign_block_name": "Steve Zehnder",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-07-02",
+ "awd_abstract_narration": "The goal of this project is to create simulated walking data that can be used together with real walking data to train machine learning tools. The simulated data this project is creating is called synthetic data. Once this data is created, machine learning tools could be used to identify patterns in how a person walks to predict how likely someone is to fall. This information could be used to help people get an appropriate intervention to prevent falls. Modern machine learning methods require a huge amount of data in order for them to work, so synthetic data can help make more powerful machine learning tools because collecting enough real walking data is too expensive and time consuming. This is one of the first projects to try to create synthetic walking data.\r\n\r\nSynthesizing gait data is challenging due to the complexity of the physical system, the sequential nature of the data, and the high variation in gait patterns across individuals and in different physical scenarios. Many of the existing synthetic data generation methods used in other fields do not guarantee that the generated data is physically possible, as existing methods do not allow for the physical constraints of realistic gait. They also generally assume independence of the observed data being synthesized instead of recognizing the sequential, time series nature of gait data. To address this gap, this study will develop and evaluate multiple data generation techniques including various methods which will use a central pattern generator (CPG)-based model in conjunction with a linear or nonlinear higher-order controller to ensure physical feasibility, as well as methods that use nonlinear data manipulation or nonparametric models custom built for gait time series. To create the models used to synthesize gait data, existing experimental data that has a wide range of step types to ensure that the proposed methods can capture the full richness of human gait will be used. The end result will be a suite of methods for synthesizing gait data, and a formal evaluation and comparison of these methods. Synthesizing realistic gait data has the potential to be revolutionary as it will enable the use of data-hungry modern nonparametric methods, which could lead to quantum leaps in our ability to predict fall risk.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anne",
+   "pi_last_name": "Martin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anne Martin",
+   "pi_email_addr": "AEM34@psu.edu",
+   "nsf_id": "000743063",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ephraim",
+   "pi_last_name": "Hanks",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ephraim M Hanks",
+   "pi_email_addr": "hanks@psu.edu",
+   "nsf_id": "000659544",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "534200",
+   "pgm_ele_name": "Disability & Rehab Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "5342",
+   "pgm_ref_txt": "RESEARCH TO AID THE DISABLED"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

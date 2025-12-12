@@ -1,0 +1,126 @@
+{
+ "awd_id": "2520333",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: ASCENT: Heterogeneously Integrated Electronic Photonic AI Accelerators (HIEPAA)",
+ "cfda_num": "47.041, 47.084",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Nontechnical Description\r\nThe rapid advancement of deep neural networks (DNNs) and large language models (LLMs) is transforming many facets of modern society. These AI models are trained and deployed in data centers powered by specialized hardware such as graphics processing units (GPUs), resulting in significant energy demands and raising critical concerns around sustainability and energy security. This project aims to explore the use of light for performing neural network computations, enabling the development of energy-efficient AI hardware. Specifically, the project will leverage the integration of thin-film lithium niobate (TFLN) \u2014 a high-performance electro-optic material \u2014 with silicon photonic chip platforms to fabricate analog optical modulators that offer significantly lower loss and higher speed compared to traditional silicon-based devices. In addition, the project will design new architectures and circuit techniques to achieve high-resolution AI computation using low-precision building blocks, optimizing both efficiency and accuracy. The educational component of this project will train students in both photonic and advanced electronic chip design, equipping them with the skills essential for next-generation AI hardware development. Outreach to high-school students using AI-based projects will help build a pipeline of students to pursue engineering degrees focusing on semiconductors and AI. The industry sponsor will be actively engaged as a strategic partner to help transition the technology from research prototypes to real-world deployment.\r\n\r\nTechnical Description\r\nThe heterogeneously-integrated electronic-photonic AI accelerator (HIEPAA) project features cross-layer innovations from device design to integrated circuits, to wafer-scale architecture to achieve significant improvements in throughput and energy efficiency of AI accelerators. By combining co-packaged electronic-photonic ICs (EPICs) with bonded TFLN modulators promising above 50 GHz bandwidth and extremely low loss, this architecture will enable space-time multiplexed computations, delivering over 2 Tera operations per second (TOPS) per tile with 2 TOPS/W energy-efficiency and scaling to 1 ExaOPS performance at the wafer scale with 200 TOPS/W energy-efficiency. Architectural innovations will solve the long-standing challenge associated with the precision and energy consumption tradeoff of data converters and devices used in the accelerator tile by investigating residue number system (RNS)-based photonic VMM architecture. The EPIC photonic core will support coherent vector-matrix multiplication (VMM) at up to 60 GS/s symbol rates. The space-time multiplexed architecture will enable flexible VMM operations with vector lengths ranging over 1000s to perform inference on transformer-based LLM models. Fabricated PICs and EICs will be independently verified, packaged, and integrated into a system, with a packaged printed circuit board (PCB) prototype with a field-programmable gate array (FPGA)-based digital backend to validate the HIEPAA tile's performance on the state-of-the-art LLM models, which will guide wafer-scale architectural performance benchmarking. A comprehensive education and workforce development plan will focus on building expertise in electro-optic AI accelerator architecture, photonic and electronic chip design, and AI and Machine Learning. A key emphasis is to fast-track the training of students on newer FinFET CMOS nodes through a complete revamp of analog IC design courses and developing structured training material with a focus on photonics IC design.  New undergraduate research opportunities will be introduced to sustain the tradition of involving undergraduates in the PIs' labs through summer scholar programs and NSF-sponsored REU initiatives.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shayan",
+   "pi_last_name": "Mookherjea",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shayan Mookherjea",
+   "pi_email_addr": "smookherjea@ucsd.edu",
+   "nsf_id": "000488316",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "133Y00",
+   "pgm_ele_name": "ASCENT-Address-Chalg-Eng-Teams"
+  },
+  {
+   "pgm_ele_code": "241Y00",
+   "pgm_ele_name": "NSF-Intel Semiconductr Partnrs"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "1517",
+   "pgm_ref_txt": "ELECT, PHOTONICS, & DEVICE TEC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "4082PYXXDB",
+   "fund_name": "NSF TRUST FUND",
+   "fund_symb_id": "048960"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

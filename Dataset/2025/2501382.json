@@ -1,0 +1,98 @@
+{
+ "awd_id": "2501382",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Molecular Discovery with Explainable Artificial Intelligence",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-05-09",
+ "awd_max_amd_letter_date": "2025-05-20",
+ "awd_abstract_narration": "This I-Corps project is based on the translation from lab to market of an advanced artificial intelligence (AI) software tool designed to enhance molecular and drug discovery processes. Drug discovery is a crucial aspect of pharmaceutical development, directly impacting human health and the creation of life-saving treatments. Applying an AI tool that generates interpretable explanations for how and why drug candidates were suggested can accelerate the drug discovery process. The commercialization of this technology has the potential to benefit society by reducing the time and cost associated with pharmaceutical research and development, leading to faster drug approvals and broader accessibility to new treatments. With traditional drug development costing over $2 billion and taking 10-15 years, this solution has the potential to accelerate and de-risk drug discovery, making it attractive to pharmaceutical firms and research institutions.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of a Graph Neural Network (GNN)-enhanced Explainable software suite for drug discovery. The software integrates GNN-explainers that provide interpretable explanations for the GNN-based model, with extensive molecular datasets to identify functional compounds more efficiently and with greater interpretability than existing AI-driven approaches. The system includes input preparation of diverse chemical and biological datasets to train black-box GNN models. An explainer framework then analyzes the black-box GNNs, developing explanation sub-graphs and identifying graph information bottlenecks through a GNN-enhanced explainable AI approach. The benefits of this approach include improved efficiency in identifying viable drug candidates, reduced computational costs, and enhanced transparency in AI-driven molecular discovery.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aichih",
+   "pi_last_name": "Chang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aichih Chang",
+   "pi_email_addr": "jschang@njit.edu",
+   "nsf_id": "000817759",
+   "pi_start_date": "2025-05-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New Jersey Institute of Technology",
+  "inst_street_address": "323 DR MARTIN LUTHER KING JR BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9735965275",
+  "inst_zip_code": "071021824",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SGBMHQ7VXNH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New Jersey Institute of Technology",
+  "perf_str_addr": "323 DR MARTIN LUTHER KING JR BLVD",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "071021824",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NJ10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": null
+}

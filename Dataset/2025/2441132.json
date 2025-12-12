@@ -1,0 +1,102 @@
+{
+ "awd_id": "2441132",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Physics-Informed Deep Learning for Ice Dynamics",
+ "cfda_num": "47.078",
+ "org_code": "06090300",
+ "po_phone": "7032920000",
+ "po_email": "kbrunt@nsf.gov",
+ "po_sign_block_name": "Kelly Brunt",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 738807.0,
+ "awd_amount": 738807.0,
+ "awd_min_amd_letter_date": "2025-08-19",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Harnessing the power of physics-informed artificial intelligence (AI), this CAREER project aims to improve our understanding of how polar ice sheets flow, critical processes that influence global sea-level change. By developing new deep-learning tools that can extract hidden physical properties from satellite data, the research addresses challenges in bridging the gap between modeling and observations for predicting future ice-sheet changes. The project will not only advance scientific understanding but also foster broader impacts by making cutting-edge AI methods accessible to the glaciology and Earth science communities. It will support education and training and strengthen the integration of research and teaching. This project will make physics-informed AI tools open source and more accessible to the polar research community. The methods developed could be applicable to a wide spectrum of data-driven research, thus offering significant potential for scientific discoveries in the wider geoscience community in the era of big earth science data.\r\n\r\nThe future prediction of mass loss from ice sheets and their sea-level impact depends on knowledge of ice viscosity and the friction beneath the ice sheets. However, both ice viscosity and basal friction are challenging, if not impossible, to measure at the ice-sheet scale. Traditionally, the inversion of these two quantities involves solving inverse problems via partial-differential-equation-constrained optimizations. In recent years, deep-learning methods have emerged as powerful tools for both solving inverse problems and emulating physics-based simulations. This project will develop deep-learning algorithms for inverse modeling of ice sheets and ice shelves. The goals of the project include: (1) DIFFICE.jax, an open-source physics-informed deep-learning algorithm to infer continent-wide ice-shelf viscosity structure, facilitating scientific discoveries regarding ice rheology; and (2) Neural Inverse Operator (NIO), a novel open-source algorithm to substantially accelerate probabilistic predictions of basal tractions, enabling ice-sheet-wide basal traction inversion with uncertainty quantification. To foster a collaborative community at the rapidly evolving intersection between AI and glaciology, this project will include a summer school and a workshop to facilitate knowledge exchange and identify key challenges and emerging themes in this new field.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OPP",
+ "org_div_long_name": "Office of Polar Programs (OPP)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ching-Yao",
+   "pi_last_name": "Lai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ching-Yao Lai",
+   "pi_email_addr": "cyaolai@stanford.edu",
+   "nsf_id": "000795872",
+   "pi_start_date": "2025-08-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "511600",
+   "pgm_ele_name": "ANT Glaciology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5116",
+   "pgm_ref_txt": "ANTARCTIC GLACIOLOGY"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "0100CYXXDB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 738807.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2450532",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CDS&E: Data-driven next-generation Lagrangian models for swarms of deforming and interacting droplets",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032928045",
+ "po_email": "sshojaei@nsf.gov",
+ "po_sign_block_name": "Shahab Shojaei-Zadeh",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 329976.0,
+ "awd_amount": 329976.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Sprays are formed by breaking down a liquid into tiny droplets, enabling a wide range of practical applications from fuel injection in engines to efficient cooling systems. It is important to be able to predict how droplets in sprays deform and move while interacting with each other and the surrounding airflow. However, accurately predicting the behavior of large numbers of droplets in sprays is challenging due to the immense computational power required. By using advanced computer simulations to create detailed datasets and applying machine learning, this project will improve predictions of spray behavior. These improvements could help scientists and engineers design more efficient engines, better cooling technologies, and innovative solutions to reduce environmental pollution. The project also supports education by engaging high school students in science and engineering careers through workshops at engineering summer camps.\r\n\r\nThe project will employ the Basilisk multiphase flow solver to perform high-fidelity simulations of droplet swarms in gas flows, generating a comprehensive dataset across a wide range of key parameters, including droplet volume fraction, Reynolds, and Weber numbers. A novel machine-learning model, based on a graph convolutional network, will be developed to capture how individual droplets and their interactions influence deformation and forces. This model ensures consistency with physical principles, such as maintaining symmetry in motion and orientation. The project will also use SHapley Additive exPlanations (SHAP) analysis to interpret the machine-learning model, identify the most important factors, and create simpler models for faster predictions. The resulting models will be made publicly available, enabling researchers to improve spray simulations in applications like combustion and spray cooling. This award is expected to advance computational fluid dynamics and provide practical benefits for many industrial applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yue",
+   "pi_last_name": "Ling",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yue Ling",
+   "pi_email_addr": "stanley_ling@sc.edu",
+   "nsf_id": "000610932",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yi",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yi Wang",
+   "pi_email_addr": "yiwang@cec.sc.edu",
+   "nsf_id": "000799772",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of South Carolina at Columbia",
+  "inst_street_address": "1600 HAMPTON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "SC",
+  "inst_state_name": "South Carolina",
+  "inst_phone_num": "8037777093",
+  "inst_zip_code": "292083403",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "SC06",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTH CAROLINA",
+  "org_prnt_uei_num": "Q93ZDA59ZAR5",
+  "org_uei_num": "J22LNTMEDP73"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of South Carolina at Columbia",
+  "perf_str_addr": "1600 HAMPTON ST",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "SC",
+  "perf_st_name": "South Carolina",
+  "perf_zip_code": "292083403",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "SC06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "141500",
+   "pgm_ele_name": "PMP-Particul&MultiphaseProcess"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 329976.0
+  }
+ ],
+ "por": null
+}

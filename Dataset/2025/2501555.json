@@ -1,0 +1,106 @@
+{
+ "awd_id": "2501555",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: A Noble Approach to Design Polymer Nanocomposites for Partial Discharge Free Electric Machine Winding Insulation",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 199999.0,
+ "awd_amount": 199999.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "This NSF ERI project aims to address the accelerated aging of motor winding insulation by developing a partial discharge (PD)-resistant insulation material for electric machines powered by fast-switching pulse width modulated (PWM) inverters. Electric motors are essential for integrating distributed energy sources into the power grid and serve as a cornerstone of electric transportation systems. The increasing use of wide bandgap (WBG) semiconductor devices has significantly enhanced the performance of power converters, enabling operation at higher voltages, switching frequencies, and temperatures. However, these advantages come with new challenges. Fast-switching inverters often introduce steep voltage transients due to impedance mismatches between the inverter, cables, and motor terminals. These mismatches lead to non-uniform voltage distribution across motor windings, resulting in excessive electrical stress and the initiation of PD, which accelerates insulation degradation. The project will bring transformative change by developing an advanced insulation system using polymer nanocomposites that addresses the accelerated aging introduced by modern power electronics. This will be achieved by integrating numerical modeling and experimental validation to design nanocomposite insulation materials with tailored dielectric properties. The intellectual merits of the project include advancing the fundamental understanding of interphase-driven dielectric behavior in polymer nanocomposites and establishing insulation design strategies for WBG-based inverter-fed electric machine winding insulation. The broader impacts of the project include enhancing dielectric reliability across power and energy sectors; training the next generation of electrical insulation engineers; and engaging K\u201312 students through hands-on STEM activities to foster interest in dielectric and insulation materials.\r\n\r\nDielectric aging caused by PD in PWM inverter-fed electric machine winding insulation remains one of the most critical barriers to achieving high-efficiency and dielectrically robust power systems. To address this, the project focuses on polymer nanocomposites composed of a polymer matrix with inorganic nanofillers. The effectiveness of these materials depends on the polymer\u2013nanoparticle combination, fabrication method, and optimal filler concentration. The interphase region, formed when nanoparticles are dispersed in the polymer matrix, plays a critical role in determining the dielectric behavior of nanocomposites. This project introduces a novel approach by explicitly modeling the dielectric properties of the interphase layer as a function of interphase thickness and nanoparticle volume fraction. Numerical simulations will be developed using a Multiphysics model to study how tuning interphase properties can reduce peak and average electric fields in the insulation, thereby suppressing PD initiation. These insights will guide experimental optimization toward achieving robust, PD-resistant insulation systems for next-generation electric machines.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Farhina",
+   "pi_last_name": "Haque",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Farhina Haque",
+   "pi_email_addr": "fhaque@uakron.edu",
+   "nsf_id": "0000A0649",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Akron",
+  "inst_street_address": "302 BUCHTEL COMMON",
+  "inst_street_address_2": "",
+  "inst_city_name": "AKRON",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "3309722760",
+  "inst_zip_code": "443250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "OH13",
+  "org_lgl_bus_name": "THE UNIVERSITY OF AKRON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "DFNLDECWM8J8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Akron",
+  "perf_str_addr": "302 Buchtel Common",
+  "perf_city_name": "Akron",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "443250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "OH13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8614",
+   "pgm_ref_txt": "Nanomaterials"
+  },
+  {
+   "pgm_ref_code": "5560",
+   "pgm_ref_txt": "ENERGY CONVERSION"
+  },
+  {
+   "pgm_ref_code": "085E",
+   "pgm_ref_txt": "POLYMER & COMPOSITES PROCESSES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199999.0
+  }
+ ],
+ "por": null
+}

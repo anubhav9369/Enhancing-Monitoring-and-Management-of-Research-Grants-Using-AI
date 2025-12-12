@@ -1,0 +1,102 @@
+{
+ "awd_id": "2507707",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Machine-Learning Enabled Analog-to-Digital Converter",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2025-09-30",
+ "tot_intn_awd_amt": 304900.0,
+ "awd_amount": 304900.0,
+ "awd_min_amd_letter_date": "2025-04-02",
+ "awd_max_amd_letter_date": "2025-04-02",
+ "awd_abstract_narration": "The broader impact/commercial impacts of this Small Business Innovation Research (SBIR) Phase I project are in developing electronic components called analog to digital converters (ADCs). Physical phenomena like light waves exist in analog domain, whereas chip circuits require digital values. ADCs turn real world analog measurements into digital values that are used in computers. This project enhances scientific and technological understanding of the ADC process by demonstrating a new approach based on machine learning (ML). Computer models suggest that this new, patent-pending approach can measure much denser signals than traditional ADCs, meaning more information can be captured and processed. The first market opportunity will be computer chips that send data over networks, enabling faster data center and internet connections. The devices using this technology will have significant higher speeds and have cost advantages over traditional devices. The existing data center ADC market is close to $1 billion annually and growing. \r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project advances the design of ADCs. The ML ADC decomposes an analog signal into multiple channels, each containing only a portion of the signal\u2019s total information. Each channel is sampled separately, slower than the input signal\u2019s Nyquist rate, producing aliased and complicated digital outputs. A neural network, trained to approximate the inverse transfer function of the analog front-end, maps those digital outputs to the standard Shannon-Nyquist signal representation. This project implements one half of a common communication device, a Serializer/Deserializer receiver, using a ML ADC in printed circuit board prototype form. This project will examine the ability of the physical prototype to capture complete information in gigahertz-range pulse amplitude modulated (PAM) signals. This project expects to replicate computer simulations indicating high accuracy of the ML ADC when driven by a jittery and phase-drifting clock running below the Nyquist rate. The project will produce neural network models trained on the receiver\u2019s data and report the error rates achieved by the models in decoding PAM-4 signals recorded by the receiver.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Luke",
+   "pi_last_name": "Urban",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Luke S Urban",
+   "pi_email_addr": "luke.urban@magnoliaelectronics.com",
+   "nsf_id": "000984821",
+   "pi_start_date": "2025-04-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "MAGNOLIA ELECTRONICS INC",
+  "inst_street_address": "221 N BROAD ST",
+  "inst_street_address_2": "STE 3A",
+  "inst_city_name": "MIDDLETOWN",
+  "inst_state_code": "DE",
+  "inst_state_name": "Delaware",
+  "inst_phone_num": "2028174730",
+  "inst_zip_code": "197091070",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DE00",
+  "org_lgl_bus_name": "MAGNOLIA ELECTRONICS INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTZEDJ8F423"
+ },
+ "perf_inst": {
+  "perf_inst_name": "MAGNOLIA ELECTRONICS INC",
+  "perf_str_addr": "3425 Bellevue Ave",
+  "perf_city_name": "Los Angeles",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900263531",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "30",
+  "perf_st_cong_dist": "CA30",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1984",
+   "pgm_ref_txt": "MATERIALS SYNTHESIS & PROCESSN"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304900.0
+  }
+ ],
+ "por": null
+}

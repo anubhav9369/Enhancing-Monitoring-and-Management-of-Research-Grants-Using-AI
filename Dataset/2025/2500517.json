@@ -1,0 +1,98 @@
+{
+ "awd_id": "2500517",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: Deep learning models of child development derived from social video game data",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924760",
+ "po_email": "osokolsk@nsf.gov",
+ "po_sign_block_name": "Oleg Sokolsky",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 1025097.0,
+ "awd_amount": 1025097.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-09-09",
+ "awd_abstract_narration": "Autism Spectrum Disorder (ASD) affects about 1 in 31 children in the United States, yet many children are diagnosed too late to benefit from the most effective early interventions. Existing diagnostic approaches are often slow, resource-intensive, and reliant on limited specialist availability, creating barriers to timely care. Meanwhile, families increasingly use smartphones to capture everyday moments, presenting a unique opportunity to rethink autism detection. Our team\u2019s innovative GuessWhat mobile game, designed to encourage natural play and interaction, has been used by over 500 families and produced a large, growing collection of over 5,000 short videos of young children, including nearly 3,000 videos from children with autism. These rich, real-world videos contain subtle behavioral cues that can be challenging for parents and clinicians to spot but can be harnessed by advanced artificial intelligence (AI) techniques. Our goal is to develop AI tools that automatically analyze these videos to provide accurate, early, and accessible autism risk assessments, ultimately empowering families and clinicians to act sooner and improve outcomes.\r\n\r\nFrom a technical perspective, this project will leverage the GuessWhat (GW) dataset to build and validate next-generation AI models for early autism detection in diverse children under 6 years old, eventually expanding to other learning conditions. In Aim 1, we will train specialized deep learning models, each focused on predicting a clinically relevant behavioral feature (e.g., eye contact, emotion), and then fuse these outputs using advanced machine learning approaches such as XGBoost and TabNet to form a comprehensive, interpretable diagnostic system expected to achieve at least 90% balanced accuracy. In Aim 2, we will develop multimodal self-supervised learning (SSL) models to learn directly from our large GW video library without relying on manual feature annotation. These SSL models, based on state-of-the-art VideoMAE and CAV-MAE architectures, will identify novel behavioral signals and enable robust autism predictions. Finally, in Aim 3 will build and implement test-time adaptation methods that incorporate important temporal patterns to ensure the models maintain high accuracy across diverse symptom presentations, recording conditions and device types, allowing for on-device, real-time performance and personalization. Together, these three aims will yield clinically robust, explainable, and scalable AI agents that can transform autism diagnosis, reduce wait times, and improve equitable access to early intervention worldwide.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dennis",
+   "pi_last_name": "Wall",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dennis P Wall",
+   "pi_email_addr": "dpwall@stanford.edu",
+   "nsf_id": "000090845",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Board of Trustees of the Leland Stanford Junior University",
+  "perf_str_addr": "1265 Welch Road",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1025097.0
+  }
+ ],
+ "por": null
+}

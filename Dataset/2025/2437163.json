@@ -1,0 +1,102 @@
+{
+ "awd_id": "2437163",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Developing Predictive Models for Dissipation and Actuation in  Polydomain Liquid Crystal Elastomers by Bridging Scales",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 299385.0,
+ "awd_amount": 299385.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Liquid crystal elastomers are soft, rubber-like materials that contain special molecules called mesogens. Mesogens have unique properties that allow them to be manipulated with external forces, independently from the host polymer. Being able to directly manipulate mesogens gives rise to materials that are supersoft, can dissipate large amounts of energy, and can even function as actuators. Potential applications include biomedical implants with programmable dissipation, architected vibration isolators, football helmet liners, motorcycle riders and war fighters, and actuators for soft robotics. To date, most work on liquid crystal elastomers has been performed on material systems whose manufacturing is difficult to scale to the industrial setting. This project proposes to experimentally probe the mesogen scale processes that occur in liquid crystal elastomers, which will be made via economical and scalable batch mixing and cross-linking processes. The plan includes testing materials in several complex states of deformation and developing testable mathematical models for the materials\u2019 behavior. All data and numerical implementations of these models will be made findable, shareable, and publicly available through data repositories and code hosting platforms, allowing for the effective design of engineering products that leverage the unique properties of liquid crystal elastomers. Lastly, the project will integrate undergraduate and high-school students in various aspects of the research to promote the development of the American STEM workforce, as well as engage in outreach to improve public scientific literacy and engagement.\r\n\r\nLiquid crystal elastomers have been widely promoted as possible materials for soft actuators and high damping materials. Past work on materials and models for engineering design with liquid crystal elastomers has been heavily concentrated on mono-domain materials that require special fabrication steps, which are difficult to scale to industrial settings. More promising from an economic perspective are poly-domain materials that can be made in simple batch processes. In this project, a panel of mono and poly-domain materials will be made using the same chemistry. The materials will be subjected to uniaxial tension, compression, biaxial extension, and plane strain compression, all while monitoring their director fields. The resulting data will be used to calibrate a viscoelastic mono-domain model, which will subsequently be utilized in a representative volume element (RVE) model of the polydomain materials. The RVE model will then be exercised as a tool to develop a continuum level polydomain model based on a variational modeling structure that employs a spatially averaged free energy function and dissipation function, together with a generalized Biot evolution law.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thao",
+   "pi_last_name": "Nguyen",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thao D Nguyen",
+   "pi_email_addr": "vicky.nguyen@jhu.edu",
+   "nsf_id": "000468724",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299385.0
+  }
+ ],
+ "por": null
+}

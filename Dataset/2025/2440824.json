@@ -1,0 +1,130 @@
+{
+ "awd_id": "2440824",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: High-Dimensional Learning and Inference from Heterogeneous Data Sources",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032925307",
+ "po_email": "tmaiti@nsf.gov",
+ "po_sign_block_name": "Tapabrata Maiti",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-06-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 88793.0,
+ "awd_min_amd_letter_date": "2025-02-10",
+ "awd_max_amd_letter_date": "2025-07-03",
+ "awd_abstract_narration": "This project will develop novel statistical theories and methods for handling large, heterogeneous datasets. Modern scientific applications often produce heterogeneous data of different types for the same problem. For instance, a single-cell biologist may observe multiple types of sequencing data from diverse instruments, all relevant for understanding the biological pathways of a single complex disease.  The challenge lies in effectively combining these different data types to build statistical pipelines that outperform those developed using any one data type. Traditional statistical approaches struggle with this challenge. This project will establish a new statistical paradigm to address the complexities of such heterogeneous data while accounting for datasets with billions of variables. The project outcomes will facilitate principled prediction and inference in applications ranging from single-cell biology to precision health and neuroimaging. The project will involve graduate student participation and the development of new curricula at graduate and undergraduate levels that incorporate the project outcomes. Additionally, the research will engage medical professionals to facilitate the dissemination of the research products in current biomedical practice.\r\n\r\n\r\nThis project will develop a modern statistical framework to address data heterogeneity in high dimensions, focusing on three key sub-themes: (i) creating principled and robust prediction strategies for multi-view learning, (ii) developing new inference pipelines and prediction analysis frameworks for meta-learning, and (iii) introducing novel inference methods for low-dimensional functionals under transfer learning. In multi-view learning, this project will quantify optimal strategies for cooperative learning, devise new adversarial learning techniques, and analyze the effects of interpolation learning.  In meta-learning, this project will introduce new debiasing strategies to tackle inference questions that arise during fine-tuning following an initial phase of pre-training.  In transfer learning, this project will develop general-purpose strategies for ranking source distributions and establish new inference schemes for low-dimensional functionals of scientific relevance. On the technical front, this project will introduce novel comparison inequalities, algorithmic proof methods, and leave-one-out techniques that effectively capture the interplay between high dimensionality and heterogeneity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pragya",
+   "pi_last_name": "Sur",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pragya Sur",
+   "pi_email_addr": "pragya@fas.harvard.edu",
+   "nsf_id": "000844628",
+   "pi_start_date": "2025-02-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Harvard University",
+  "inst_street_address": "1033 MASSACHUSETTS AVE STE 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6174955501",
+  "inst_zip_code": "021385366",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LN53LCFJFL45"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Harvard University",
+  "perf_str_addr": "1033 MASSACHUSETTS AVE STE 3",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021385366",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 88793.0
+  }
+ ],
+ "por": null
+}

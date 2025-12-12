@@ -1,0 +1,106 @@
+{
+ "awd_id": "2427440",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIF: Small: Advanced Understanding and Applications of Deep Learning",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2024-12-10",
+ "awd_max_amd_letter_date": "2024-12-10",
+ "awd_abstract_narration": "This project aims to advance Artificial Intelligence (AI) by investigating the mathematical foundations and practical applications of deep learning models, which encompass broad class of neural network methods. The focus is on understanding the properties of neural networks that are trained on large datasets, investigating how these properties enable networks to model complex data distributions and capture intricate dependencies within the data. By analyzing the progressively refined data representations that emerge during training, the project seeks to uncover the principles underlying the ability of neural networks to map and represent complex information. This research promises to enhance our understanding of network architectures and their capabilities, with potential applications in areas such as image processing and natural language understanding. Moreover, the project will train the next generation of AI researchers. Through hands-on involvement in cutting-edge work, students will gain invaluable experience and develop the innovative thinking needed to tackle future challenges. Ultimately, this effort not only builds a skilled workforce but also contributes to the broader goal of advancing AI technology to better interpret and interact with the world.\r\n\r\nThe goal of this project is to deepen the understanding of the deep learning models that underpin modern AI systems by exploring vector-valued, multi-output mappings, compositional function spaces, and the inner workings of transformer architectures. Bridging theoretical insights with practical applications, the project aims to develop novel network architectures, regularization strategies, and training methodologies to improve the performance and generalization capabilities of neural network models. Central to this effort is the study of compositional function spaces and the progressively refined data representations that emerge during training. This includes investigations into both low-dimensional settings, such as implicit neural representations for images and continuous fields, and high-dimensional domains in computer vision and language modeling. A particular focus will be on transformer architectures, with the goal of understanding the evolution of data representations within these models and uncovering task-specific representations enabled by novel training techniques. By examining the function spaces and mappings characteristic of deep learning models, this research seeks to uncover new foundational principles of data representation and processing. These insights promise not only to advance our theoretical understanding of deep learning mechanisms but also to enable innovative AI applications across a wide range of fields.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Nowak",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robert D Nowak",
+   "pi_email_addr": "rdnowak@wisc.edu",
+   "nsf_id": "000338270",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7936",
+   "pgm_ref_txt": "SIGNAL PROCESSING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,130 @@
+{
+ "awd_id": "2440563",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Optimization and Learning with Changing Distributions",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 236099.0,
+ "awd_min_amd_letter_date": "2025-01-13",
+ "awd_max_amd_letter_date": "2025-01-13",
+ "awd_abstract_narration": "Stochastic optimization is a fundamental research discipline and a workhorse of learning algorithms. It addresses problems that are stochastic\u2014or random\u2014in nature, such as those arising in the training of machine learning models. The existing theory underlying most learning and optimization algorithms often relies on the simplifying assumption that the data examples observed during training are representative of the data on which the model will be tested or deployed. However, this assumption rarely holds in practice. For example, a facial recognition model trained on broad U.S. data may exhibit varying performance across states with differing demographics, raising concerns about both accuracy and fairness. Similarly, in e-commerce, customer behavior can shift dynamically in response to pricing strategies. This research aims to develop robust algorithms capable of handling these dynamic and uncertain data scenarios. The work will advance optimization techniques to address fundamental supervised learning tasks, yielding algorithms with provable error guarantees that are both computationally and data efficient. These advances will enhance our understanding of learning in dynamic and uncertain data environments, which are central to modern machine learning. Broader impacts include fostering cross-disciplinary collaborations, mentoring students, and organizing a workshop to engage diverse early-career researchers, thereby supporting education, diversity, and innovation in science. \r\n\r\nThe project will develop new optimization-inspired algorithms to address learning under two models of distributional shifts, forming two main research thrusts. The first thrust focuses on scenarios where the training and testing data distributions differ, studied through the distributionally robust optimization framework. The goal is to train learning models that perform well under worst-case test scenarios within a predefined ambiguity set. By leveraging the structured nature of fundamental tasks in regression and classification, this research aims to address limitations of existing approaches, which often rely on overly general assumptions and produce overly pessimistic results. The second thrust addresses situations where data distributions shift in response to the trained model, such as in performative prediction settings. The key challenge is to achieve stability under these shifts, which translates into solving stochastic fixed-point equations and nonconvex optimization problems. The focus is on advancing algorithmic techniques to tackle structured learning problems, providing guarantees for tasks such as learning single-index models. The proposed research is expected to contribute novel algorithmic techniques in stochastic optimization and learning theory, particularly in areas such as min-max optimization, stochastic fixed-point problems, and learning under label noise.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jelena",
+   "pi_last_name": "Diakonikolas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jelena Diakonikolas",
+   "pi_email_addr": "jdiakonikola@wisc.edu",
+   "nsf_id": "000811478",
+   "pi_start_date": "2025-01-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7926",
+   "pgm_ref_txt": "ALGORITHMS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 236099.0
+  }
+ ],
+ "por": null
+}

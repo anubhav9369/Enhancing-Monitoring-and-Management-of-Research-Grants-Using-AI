@@ -1,0 +1,102 @@
+{
+ "awd_id": "2513653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RUI: Reconstructing Discrete Images from Low-Frequency Fourier Data",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927212",
+ "po_email": "jmead@nsf.gov",
+ "po_sign_block_name": "Jodi Mead",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-06-12",
+ "awd_max_amd_letter_date": "2025-06-12",
+ "awd_abstract_narration": "This project will investigate how prior mathematical information can be used to dramatically improve the resolution of images from blurred data. In many real-world applications, the images to be recovered contain only a few distinct types of materials. This includes distinguishing solid rock from fluid in scientific imaging, bone from soft tissue and tumors in medical scans, and identifying organic material versus metal or plastic in security screenings. This project will focus on ways to restore fine, high-resolution details in these kinds of discrete images when only low-resolution information is available. This is a common challenge in imaging systems where data is degraded by noise, physical limitations, or transmission losses. By developing new algorithms that take advantage of this strong mathematical structure, the research has the potential to improve the quality and resolution of imaging techniques used in scientific, medical, and security applications. A major component of the project involves providing undergraduate students with hands-on research experience, including opportunities to engage with cutting-edge techniques in machine learning, helping prepare the future workforce with expertise in artificial intelligence tools.\r\n \r\nThis project will address the problem of restoring missing discrete Fourier transform (DFT) coefficients in blurred images by leveraging the prior knowledge that each pixel takes on a value from a limited, known set. Prior work has established strong theoretical guarantees. The proposed research will extend these results to more general cases where the known DFT data is not confined to a pass-band and where standard error correction techniques are applied. The project will focus on developing reliable, efficient numerical methods for such inversions, along with practical analyses of runtime and stability. The work will integrate tools from cryptography, optimization, and probability theory. Undergraduate researchers will play an active role in algorithm development, theoretical analysis, and computational experimentation, with structured projects designed for meaningful student contributions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Howard",
+   "pi_last_name": "Levinson",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Howard W Levinson",
+   "pi_email_addr": "hlevinso@oberlin.edu",
+   "nsf_id": "000842062",
+   "pi_start_date": "2025-06-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oberlin College",
+  "inst_street_address": "173 W LORAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "OBERLIN",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "4407758461",
+  "inst_zip_code": "440741057",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "OH05",
+  "org_lgl_bus_name": "OBERLIN COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ZY4LY6PDKLM1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oberlin College",
+  "perf_str_addr": "10 North Professor Street",
+  "perf_city_name": "OBERLIN",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "440741019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "OH05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  },
+  {
+   "pgm_ref_code": "9229",
+   "pgm_ref_txt": "RES IN UNDERGRAD INST-RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

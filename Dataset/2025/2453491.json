@@ -1,0 +1,106 @@
+{
+ "awd_id": "2453491",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Disorder, Fragility and Localization in Networked Control and Dynamical Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 470000.0,
+ "awd_amount": 470000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Large-scale networks of interconnected dynamical systems are ubiquitous in both nature and engineered systems. For example, the AC electric transmission grid is arguably one of the most complex machines ever built. Its stability requires the operation of thousands of generators in synchrony to within milliseconds. This synchrony is achieved through networked interconnections and dynamic interactions. The study of these network dynamics is essential in characterizing the resilience of such critical infrastructure to disturbances, uncertainties and exogenous shocks. Networked oscillators operating in various states of partial or complete synchrony are also ubiquitous in biology, from interconnected neurons to the synchronization of fireflies. The commonality between all these disparate networked systems is in the underlying mathematical structure and phenomena. Thus the study of synchrony phenomena in one type of network can inform the understanding of another network that at first might seem to be a very different system. \r\n\r\nThe proposed research aims at studying a recently discovered type of network vulnerability that arises from certain patterns in the way some networks are interconnected. Mathematically, this phenomenon is known as the localization of eigenvectors that describe the network structure. We study the intriguing mathematical similarities between these phenomena in macro-scale networks on the one hand, and those that occur in semiconductor physics known as Anderson Localization on the other. It appears that not all parts of a network are equally vulnerable, and different types of shocks and perturbations lead to different behaviors of the network, some more problematic than others. Our research aims to uncover the fundamental underlying mathematical reasons for both network resilience and network vulnerability and apply those findings to real-world networks such as those in the AC transmission grid among others.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bassam",
+   "pi_last_name": "Bamieh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bassam Bamieh",
+   "pi_email_addr": "bamieh@engineering.ucsb.edu",
+   "nsf_id": "000373282",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Santa Barbara",
+  "inst_street_address": "3227 CHEADLE HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA BARBARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8058934188",
+  "inst_zip_code": "931060001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "CA24",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G9QBQDH39DF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Santa Barbara",
+  "perf_str_addr": "3227 CHEADLE HALL",
+  "perf_city_name": "SANTA BARBARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "931060001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "CA24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  },
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 470000.0
+  }
+ ],
+ "por": null
+}

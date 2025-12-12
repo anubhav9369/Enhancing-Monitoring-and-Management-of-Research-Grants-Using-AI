@@ -1,0 +1,110 @@
+{
+ "awd_id": "2514514",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Over-the-Air Sensing (COTAS) Edge Networks Achieving High Spectral Efficiency: Framework, Algorithms, and Analysis",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "The tremendous growth and widespread deployment of sensor networks in advanced technologies like robotics, autonomous vehicles, environmental monitoring, and digital farming underscore the historic new industry revolution of the 21st century. As data measurement and processing increasingly take place collaboratively across networks of distributed agents, there is an urgent need to innovate networked systems for collaborative sensing and decision-making while maintaining high spectrum efficiency. Collaborative sensing and decision-making based on edge devices and agents typically features low-cost, modest-power, and limited-computation-capacity wireless devices and sensors. Current wireless protocols, such as IEEE 802.11 Wi-Fi and 3GPP Cellular networks, tend to be inefficient for short data bursts due to their relatively large control and signaling overhead.\r\n\r\nThis project represents a comprehensive effort to develop innovative solutions for collaborative decision-making based on wireless networks of distributed nodes, aiming to jointly achieve high decision accuracy and spectrum efficiency. The project's goal is to develop innovative, simple, and low-cost networks that are easy to deploy for future large-scale applications in smart farming, disaster or hazard detection, air quality monitoring, and security. Leveraging a collaborative framework based on collaborative over-the-air sensing (COTAS), the project focuses on the most common and specific learning tasks: event detection and parameter estimation. Among its major research thrusts, we specifically tackle critical and practical challenges including COTAS detection and estimation under channel uncertainty, robustness against passive eavesdropping attacks, secure and reliable COTAS detection against jamming and Byzantine attacks, as well as deep learning solutions against physical uncertainties. Successes from the proposed research tasks can significantly impact collaborative decision-making, federated learning, sensor networks, and network spectrum management. Broadly, this work promotes reliable and efficient decision-making based on wirelessly-networked agents in cooperative systems ranging from smart agriculture, seismic detection, environmental monitoring, safety monitoring, and national security, thereby providing immense potential societal impacts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lifeng",
+   "pi_last_name": "Lai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lifeng Lai",
+   "pi_email_addr": "lflai@ucdavis.edu",
+   "nsf_id": "000541215",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhi",
+   "pi_last_name": "Ding",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhi Ding",
+   "pi_email_addr": "zding@ucdavis.edu",
+   "nsf_id": "000162105",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "1850 RESEARCH PARK DR STE 300",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956186153",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

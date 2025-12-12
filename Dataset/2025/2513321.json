@@ -1,0 +1,106 @@
+{
+ "awd_id": "2513321",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: NSF-BSF: A modern alert system for the International Gravitational-wave Network",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927372",
+ "po_email": "pmarrone@nsf.gov",
+ "po_sign_block_name": "Pedro Marronetti",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "The primary objective of this project between Montclair State University (US) and Bar-Ilan University (Israel) is the design, testing, and deployment of a low-latency alert infrastructure that will address the needs of the upcoming fifth observing run. Multi-messenger astronomy has exploded with the detection of gravitational and electromagnetic waves from the mergers of binary systems of neutron stars and black holes. With the growing data sets of gravitational waves and their electromagnetic signatures and the astrophysical detectors that create them, the need for improving the software contributing to this ecosystem of technologies to exploit these data sets has rapidly grown. For this reason, multi-messenger follow-up networks have realized a need for open-source software toolkits that address the technical and scientific challenges they face. They include enabling transformational insights on the nature of extreme matter found inside the neutron stars and physics of relativistic ejecta produced as a result of colliding neutron stars, the origins of element formation in the universe, and measurements of the Hubble Constant. As the rates of detections by gravitational-wave networks increase during the lifetime of this award, the toolkits employed to study these sources must grow with them to understand the physics of one of the most energetic phenomena of the Universe. This award also facilitates collaboration between the US scientific lead and the Israeli Science lead from Bar-Ilan University on aspects of multi-messenger follow-up of gravitational wave events.\r\n\r\nThis award targets the development and expansion of the low-latency alert system for the International Gravitational-wave network for NSF's LIGO fifth observing run. To achieve these goals, the team will work on projects to develop and deploy data science tools for ingestion, scheduling, follow-up, and interpretation of multi-messenger events. These tools will include frameworks that utilize gravitational wave data to enhance multi-messenger counterpart searches, thereby enabling joint constraints on these systems. The collaboration with Bar-Ilan University will develop software infrastructure for low-latency gravitational wave searches, focusing on the growing data sets from ground-based gravitational wave detectors. The team will create a mock data challenge for (1) analysis pipelines to participate in the fifth observing run, and (2) engagement with the wider astronomy community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shaon",
+   "pi_last_name": "Ghosh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shaon Ghosh",
+   "pi_email_addr": "ghoshs@montclair.edu",
+   "nsf_id": "000815947",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Montclair State University",
+  "inst_street_address": "1 NORMAL AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "MONTCLAIR",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9736556923",
+  "inst_zip_code": "070431624",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "NJ11",
+  "org_lgl_bus_name": "MONTCLAIR STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CM4TTRKFCLF9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Montclair State University",
+  "perf_str_addr": "1 NORMAL AVE",
+  "perf_city_name": "MONTCLAIR",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070431624",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "NJ11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124300",
+   "pgm_ele_name": "Gravity Exp. & Data Analysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "014Z",
+   "pgm_ref_txt": "NSF and US-Israel Binational Science Fou"
+  },
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

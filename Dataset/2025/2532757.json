@@ -1,0 +1,93 @@
+{
+ "awd_id": "2532757",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "LEAPS-MPS: Interactions Between Algebraic Combinatorics, Groebner Geometry and Liaison Theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922271",
+ "po_email": "asalerno@nsf.gov",
+ "po_sign_block_name": "Adriana Salerno",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 248904.0,
+ "awd_amount": 248904.0,
+ "awd_min_amd_letter_date": "2025-08-01",
+ "awd_max_amd_letter_date": "2025-08-01",
+ "awd_abstract_narration": "There are many real-world problems that can be modeled using mathematics which involve a combinatorial description in terms of a graph or polytope. The field of algebraic combinatorics lies in the intersection of geometry, algebra and combinatorics, and involves questions where complicated systems can be reduced to simple discrete data that is easier to visualize and compute with. It has played an increasingly important role in modern mathematics, having interactions with applied fields like statistics, network optimization, particle physics, and cryptography. For example, vehicle routing and communication networks can be represented by a graph, and properties of these systems can be translated into graph-theoretic properties and algorithms (like connectivity, shortest distance algorithms, or weighted scheduling algorithms). Algebraic objects known as Grobner bases play an essential role in computational questions arising in algebraic geometry, and degeneration techniques like geometric vertex decomposition have proven to be extremely useful in a broad range of settings. This project will advance the use of these techniques to answer open questions in algebra, geometry, and combinatorics. This award will also support outreach to local high schools, provide research opportunities for undergraduate and graduate students, encourage interdisciplinary and international research, and will provide exposure of STEM research to the local community.\r\n\r\nMore precisely, the project will advance the use of tools like Groebner degeneration, geometric vertex decomposition, and Frobenius splitting to answer various open questions about subword complexes, edge ideals, toric ideals of graphs, Gorenstein linkage, and Schubert varieties. For instance, when is the toric ideal of a graph Cohen-Macaulay? One approach is to use geometric vertex decomposability and its variations (which all imply the Cohen-Macaulay property in this setting), together with certain iterative graph operations that preserve decomposability (such as star contractions and cycle gluing) to classify such graphs. Another subproject involves characterizing the Gorenstein locus of a Schubert variety in a flag variety by translating a previously studied subword complex description of the Gorenstein property into an interval pattern avoidance condition. An extension of this approach will be used to partially characterize Gorenstein edge ideals and will serve as a testing ground for understanding the boundaries of what is possible with this technique.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sergio",
+   "pi_last_name": "Da Silva",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sergio Da Silva",
+   "pi_email_addr": "sdasilva@vsu.edu",
+   "nsf_id": "000897216",
+   "pi_start_date": "2025-08-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia State University",
+  "inst_street_address": "1 HAYDEN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "PETERSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "8045246987",
+  "inst_zip_code": "238032520",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "VA04",
+  "org_lgl_bus_name": "VIRGINIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "VKZLFK6M5DD3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia State University",
+  "perf_str_addr": "1 HAYDEN DR",
+  "perf_city_name": "PETERSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "238032520",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "VA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 248904.0
+  }
+ ],
+ "por": null
+}

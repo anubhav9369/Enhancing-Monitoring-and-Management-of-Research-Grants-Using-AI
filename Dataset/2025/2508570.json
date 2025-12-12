@@ -1,0 +1,93 @@
+{
+ "awd_id": "2508570",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Many-Particle Systems Beyond the Mean-Field Limit",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922436",
+ "po_email": "hliu@nsf.gov",
+ "po_sign_block_name": "Hailiang Liu",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-06-18",
+ "awd_max_amd_letter_date": "2025-06-18",
+ "awd_abstract_narration": "This project develops new approaches in the theory of Partial Differential Equations (PDEs) with a focus on large systems of interacting particles \u2013 commonly known as many-particle or many-body systems. Such systems arise in a large set of applications, including biosciences, statistical physics, and fluid mechanics. Due to their inherent complexity, one of the central goals of the project is to create more accurate large-scale representations that go beyond classical statistical descriptions. The investigator will in particular focus on second order systems and systems with non-identical particles or agents, which appear in models from plasmas and astrophysics/cosmology to networks of biological neurons.\r\n\r\nThese systems are often governed by large coupled systems of ordinary or stochastic differential equations (ODEs/SDEs), posing significant challenges for both analysis and computation. Reducing this complexity is a key question that is often answered through the notion of mean-field limit and the concept of propagation of chaos. However, in practice, applications have a fixed number of particles and the mean field approximation may become inaccurate over long time scales since the exact solution may deviate from the mean-field limit exponentially fast. The investigator studies the deviations to the mean-field limit to derive more accurate descriptions, and better capture the long-time behavior. A key approach in the project revolves around clustering expansions of the joint law of the system, through the notions of cumulants and their recent extension to dual cumulants.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pierre-Emmanuel",
+   "pi_last_name": "Jabin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pierre-Emmanuel Jabin",
+   "pi_email_addr": "pejabin@psu.edu",
+   "nsf_id": "000606980",
+   "pi_start_date": "2025-06-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "109 McAllister",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

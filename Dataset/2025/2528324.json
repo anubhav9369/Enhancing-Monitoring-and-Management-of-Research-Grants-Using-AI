@@ -1,0 +1,98 @@
+{
+ "awd_id": "2528324",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Text Rewriting Tool Using Novel Discrete Style and Inference-Based Artificial Intelligence (AI) Model",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928772",
+ "po_email": "patherto@nsf.gov",
+ "po_sign_block_name": "Peter Atherton",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-09-04",
+ "awd_max_amd_letter_date": "2025-09-04",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Technology Phase I project stems from a novel framework that can automatically rewrite any text for any purpose while accurately preserving meaning. This rewriting requires just one example text, so reduces manual effort while resolving several issues that can lead to inconsistent and impersonal results with existing tools such as Grammarly, QuillBot, and ChatGPT. These advantages will benefit numerous fields, such as law, medicine, marketing, journalism, and education. Within the legal and medical fields, higher accuracy will support new use cases compared with prior methods, which are more likely to compromise content. Content creators, such as journalists and marketers, will be able to reduce rewriting time while adapting their content to broader audiences. The proposed framework is also expected to improve education. For example, learning materials can be adapted based on the needs of each student. Those materials will be especially helpful for students with learning disabilities and those that do not speak English as their first language. More generally, the proposed framework can be used to simplify complex texts, such as government communications. In doing so, that information will be more accessible to everyone.\r\n\r\nThis Small Business Technology Phase I project focuses on the research and development of a novel text style transfer framework that can rewrite text in any style and eliminate the need for per-style fine-tuning, inaccurate style matching, and manual user effort that plague existing tools. The overall approach is based on the novel concept of discrete style features, an interpretable and efficient mechanism to enable accurate and scalable rewriting. This project builds upon this concept with three key innovations. First, this project uses a novel style analysis pipeline in order to determine discrete style features and then automatically represent any writing style using those features. Second, this project leverages a specialized training method to encourage more explicit style awareness in rewriting models. Third, this project introduces a more reliable mechanism for users to make fine-grained adjustments to text style via text input. Collectively, these innovations establish a fundamentally new paradigm in text style transfer, advancing both the theoretical and practical capabilities of text style transfer while significantly improving efficiency, interpretability, and customization. Furthermore, a systematic methodology is implemented that allows direct comparison of expected user satisfaction for various rewriting services based on output texts.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Drew",
+   "pi_last_name": "Penney",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Drew Penney",
+   "pi_email_addr": "drewdpenney@gmail.com",
+   "nsf_id": "000788128",
+   "pi_start_date": "2025-09-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "LEXEL SYNERGETICS, INC.",
+  "inst_street_address": "5676 NW 132ND AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PORTLAND",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5182886078",
+  "inst_zip_code": "972292420",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "OR01",
+  "org_lgl_bus_name": "LEXEL SYNERGETICS, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RACDT4FPJFM2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "LEXEL SYNERGETICS, INC.",
+  "perf_str_addr": "5676 NW 132ND AVE",
+  "perf_city_name": "PORTLAND",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "972292420",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "OR01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

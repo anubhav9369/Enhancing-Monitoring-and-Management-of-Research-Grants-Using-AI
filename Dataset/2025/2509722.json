@@ -1,0 +1,98 @@
+{
+ "awd_id": "2509722",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Qualitative reconstruction methods for inverse Biharmonic scattering",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922948",
+ "po_email": "slevine@nsf.gov",
+ "po_sign_block_name": "Stacey Levine",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "This project focuses on the study of qualitative reconstruction methods for nondestructive testing in thin elastic plates. Nondestructive testing is ubiquitous in engineering applications and medical imaging, and scattering in thin elastic plates has significant applications in the area of detecting geomagnetic anomalies and medical imaging of the brain. In recent years, qualitative reconstruction methods have been shown to provide quick and accurate reconstructions when applied to acoustic and electromagnetic scattering. Therefore, the primary goal of this project is to study the applicability of these methods to the thin elastic plate model. This would allow for computationally simple yet analytically rigorous algorithms for recovering defects in thin elastic materials. This project will also involve the training of graduate students who will contribute to this project. \r\n\r\nThe proposed research has two main components. The first component aims to study the direct and inverse scattering problems of a thin elastic plate. This is given by a biharmonic wave equation that is derived from the Kirchhoff-Love infinite plate problem in an infinite domain, which will be studied in the frequency domain. Questions such as the well-posedness of many direct scattering problems will be addressed and well-known qualitative reconstruction methods, such as the linear sampling and factorization methods, will be applied to these scattering problems. These methods are advantageous for shape reconstruction problems since little a priori information is required for their implementation. One disadvantage of the aforementioned reconstruction methods is that they are not valid at frequencies that correspond to an associated eigenvalue problem. This leads to the second component of the research, which is to study the associated transmission eigenvalue problems. In general, these eigenvalue problems are non-self-adjoint and nonlinear, which makes their investigation mathematically interesting. Preliminary calculations indicate that these eigenvalues can be recovered from the scattering data and depend monotonically on the material parameters. This project will aim to provide an analytical and computational study of these new eigenvalue problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Isaac",
+   "pi_last_name": "Harris",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Isaac Harris",
+   "pi_email_addr": "harri814@purdue.edu",
+   "nsf_id": "000678849",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "2550 NORTHWESTERN AVE # 1100",
+  "perf_city_name": "WEST LAFAYETTE",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

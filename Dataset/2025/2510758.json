@@ -1,0 +1,146 @@
+{
+ "awd_id": "2510758",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Equipment: MRI: Track 2 Development of 96-Qubit Scientific Quantum Computer with Trapped Ions",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032928235",
+ "po_email": "bmihaila@nsf.gov",
+ "po_sign_block_name": "Bogdan Mihaila",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 2660485.0,
+ "awd_amount": 2660485.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "The invention of the modern computer has revolutionized how we do scientific research. Quantum computing has the potential to again transform science and lead to new discoveries about the physical world, with applications in areas such as fundamental physics, chemistry, privacy and logistics. This new kind of computer harnesses the special properties of quantum particles to perform complex calculations. Even with the growing quantum industry, access to early-stage quantum computing resources for scientific purposes is limited.  Additionally, there are many outstanding research and engineering challenges to building a large-scale quantum computer capable of tackling hard problems. The purpose of this project is to build a intermediate-scale scientific quantum computer that can be used by scientists for fundamental research regarding those challenges. This device can also be used to prototype algorithms designed for those hard problems. The quantum computer will be used for years after completion to train the future generations of quantum scientists and quantum engineers.\r\n \r\nThis new quantum computer operates using trapped ion qubits. Trapped ion qubits are single atoms that are manipulated using lasers to execute quantum gates. These qubits are one of the leading choices for the development of a scientific machine with access to both hardware and software components for co-design of algorithms. Trapped ion qubit properties and operations have been well developed for decades. This foundation enables engineering and development at a larger scale. The new quantum computer has 96 qubits with errors less than 1%. It features a reconfigurable architecture for dynamic qubit connectivity that will require new quantum circuit compilation methods. The machine will be available to scientists for investigations in areas such as quantum computer science, quantum many-body physics, nuclear physics, and quantum gravity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jungsang",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jungsang Kim",
+   "pi_email_addr": "jungsang@ee.duke.edu",
+   "nsf_id": "000490144",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Crystal",
+   "pi_last_name": "Noel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Crystal Noel",
+   "pi_email_addr": "crystal.noel@duke.edu",
+   "nsf_id": "000736936",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Monroe",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher R Monroe",
+   "pi_email_addr": "c.monroe@duke.edu",
+   "nsf_id": "000325006",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Kozhanov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander Kozhanov",
+   "pi_email_addr": "alexander.kozhanov@duke.edu",
+   "nsf_id": "000588209",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "057Z",
+   "pgm_ref_txt": "(QL) Quantum Leap"
+  },
+  {
+   "pgm_ref_code": "1189",
+   "pgm_ref_txt": "MAJOR RESEARCH INSTRUMENTATION"
+  },
+  {
+   "pgm_ref_code": "7928",
+   "pgm_ref_txt": "QUANTUM COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 2660485.0
+  }
+ ],
+ "por": null
+}

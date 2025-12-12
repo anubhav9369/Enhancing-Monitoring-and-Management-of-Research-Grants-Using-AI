@@ -1,0 +1,102 @@
+{
+ "awd_id": "2533575",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Millimeter-wavelength transients and sources with the Atacama Cosmology Telescope and the Simons Observatory",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032922761",
+ "po_email": "hkrimm@nsf.gov",
+ "po_sign_block_name": "Hans Krimm",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 647818.0,
+ "awd_amount": 584488.0,
+ "awd_min_amd_letter_date": "2025-05-22",
+ "awd_max_amd_letter_date": "2025-05-22",
+ "awd_abstract_narration": "Precision measurements of the cosmic microwave background radiation seek a clearer picture of the physics of the Big Bang.  The telescopes that take such data also capture light from stars and galaxies that emit at the same wavelengths.  This project would build software pipelines that take advantage of these measurements. Each day, these telescopes scan the sky and make an updated image, letting sources that are variable to be identified.  During this decade, upgraded telescopes will produce more and better data of this kind.  Such time-resolved data will permit new classes of unknown phenomena to be found. This may include exceptional supernovae, gamma ray bursts, tidal disruptions of stars around supermassive black holes, stellar flares and the discovery of additional bodies in the solar system, including a hypothetical and undiscovered Planet 9. The excitement of this project will be conveyed to the public via a variety of outreach programs including one targeting people living in rural areas near Tallahassee.\r\n\r\nNew, time-domain studies of wide-field millimeter-wave surveys are opening a vast, unexplored discovery space.  In this project, millimeter-wave transients and point-like sources will be identified using data from the Advanced Atacama Cosmology Telescope, now surveying areas that exceed 18,000 square degrees, and the Simons Observatory, which by the mid-2020s will produce more sensitive measurements over a similar area.  Software tools and pipelines will be developed to (1) develop and implement a system to mine daily Simons Observatory data based on real-time transient alerts; (2) perform triggered and blind searches for mm-wave transients in archival and live data; (3) prepare and release point source catalogs in temperature and polarization for the ACT and Simons Observatory surveys; and (4) support a follow-up program for high redshift source candidates. The project supports a number of outreach programs that involve the general public, K-12 students and undergraduate as well as graduate students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kevin",
+   "pi_last_name": "Huffenberger",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kevin M Huffenberger",
+   "pi_email_addr": "khuffenberger@tamu.edu",
+   "nsf_id": "000280009",
+   "pi_start_date": "2025-05-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M University",
+  "inst_street_address": "400 HARVEY MITCHELL PKY S STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLLEGE STATION",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "9798626777",
+  "inst_zip_code": "778454375",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "TX10",
+  "org_lgl_bus_name": "TEXAS A & M UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JF6XLNB4CDJ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M University",
+  "perf_str_addr": "400 HARVEY MITCHELL PKY S STE 30",
+  "perf_city_name": "COLLEGE STATION",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "778454375",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "TX10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121500",
+   "pgm_ele_name": "STELLAR ASTRONOMY & ASTROPHYSC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 584487.0
+  }
+ ],
+ "por": null
+}

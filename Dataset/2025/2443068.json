@@ -1,0 +1,126 @@
+{
+ "awd_id": "2443068",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Pushing the Boundaries of Learning Dynamics and Equilibrium Computation in Games: Control, Complexity, and Nonlinear Optimization",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922095",
+ "po_email": "kwimmer@nsf.gov",
+ "po_sign_block_name": "Karl Wimmer",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 227984.0,
+ "awd_min_amd_letter_date": "2025-01-10",
+ "awd_max_amd_letter_date": "2025-01-10",
+ "awd_abstract_narration": "Many real-world settings involve the interaction of multiple agents with diverse goals and differing amounts of private information. These range from military and security settings, to auctions, to networks. Developing technology to find optimal behavior\u2014also known as equilibrium\u2014in these interactions has the potential of enabling more economically efficient auctions, enhance strategic reasoning in situations of conflict, and improve our ability to predict the evolution of complex multiagent systems. This proposal aims to advance our theoretical and practical understanding of equilibrium computation, improve the efficiency of computing various equilibrium notions, and enable the development of high-precision and practical methods across a variety of settings. This project also includes a comprehensive plan for incorporating the research into undergraduate and graduate courses, preparing students to tackle interdisciplinary challenges at the interface of optimization, game theory, and computer science.\r\n\r\nThis project addresses several fundamental gaps in our current understanding of equilibrium computation and learning dynamics in multiagent interactions (\"games\"), with a bias towards focusing on techniques that will enable the construction of new state-of-the-art algorithms for equilibrium computation at scale. Concretely, it tackles four key technical challenges. 1) It refines the understanding of learning dynamics in games, employing tools from nonlinear dynamical systems to construct state-of-the-art algorithms with optimal regret guarantees. 2) It investigates the efficiency of computing equilibrium notions, such as correlated equilibria and its variants, in structured games like imperfect-information extensive-form games. 3) It seeks to overcome the limitations of current low-precision methods by developing practical algorithms for high-precision equilibrium computation. 4) It clarifies the computational complexity of nonconvex games by examining the role of constraints and extending recent advances.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gabriele",
+   "pi_last_name": "Farina",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gabriele Farina",
+   "pi_email_addr": "gfarina@mit.edu",
+   "nsf_id": "000950556",
+   "pi_start_date": "2025-01-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7932",
+   "pgm_ref_txt": "COMPUT GAME THEORY & ECON"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 227984.0
+  }
+ ],
+ "por": null
+}

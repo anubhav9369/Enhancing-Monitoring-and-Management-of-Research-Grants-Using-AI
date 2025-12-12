@@ -1,0 +1,142 @@
+{
+ "awd_id": "2525840",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CRCNS Research Proposal: A Unified Framework for Unsupervised Sparse-to-dense Brain Image Generation and Neural Circuit Reconstruction",
+ "cfda_num": "47.070, 47.074",
+ "org_code": "05020000",
+ "po_phone": "7032924768",
+ "po_email": "jyang@nsf.gov",
+ "po_sign_block_name": "Jie Yang",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2028-10-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 807867.0,
+ "awd_min_amd_letter_date": "2025-03-07",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Understanding how information is processed and propagated in neural circuits in the brain, requires the connections among extremely large numbers of densely packed, intermingled neurons to be accurately mapped out. Despite the century-long effort to map brain circuits, dissection of these complex networks remains technically challenging and time-consuming. This project builds on recent advances in genetic, imaging, and computational methods to develop a unified framework for reliable reconstruction of genetically identified neurons and their connections at single-neuron resolution from 3D image data. The resulting computational methods will be applicable to a wide range of problems in biological and biomedical image analysis.\r\n\r\nThe technical aims of the project are divided into four thrusts. The first thrust generates a large number of super-resolution three dimensional (3D) images of whole Drosophila brains, in each of which connected neurons are labeled by multispectral trans-Tango/Bitbow labeling. The second thrust creates computer vision and unsupervised machine learning algorithms to generate neuronal tracing, and software to aid efficient human proofreading and error correction. This will allow the generation of gold-standard neuronal tracing and segmentation from relatively sparse Brainbow labeling as training inputs. The third thrust creates a generative machine learning model to create realistic Bitbow neurons and synthesize images with various labeling densities based on the sparse annotation training inputs. The fourth thrust develops an annotation machine learning model to reconstruct the densely labeled trans-Tango/Bitbow Drosophila brains with the machine-learning-generated Bitbow images and their corresponding ground truth annotations as training inputs. Together, these efforts form a novel computational framework to enable accurate automatic reconstruction of densely labeled neural circuits.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yan",
+   "pi_last_name": "Yan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yan Yan",
+   "pi_email_addr": "yyan55@uic.edu",
+   "nsf_id": "000784712",
+   "pi_start_date": "2025-03-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164Y00",
+   "pgm_ele_name": "Innovation: Bioinformatics"
+  },
+  {
+   "pgm_ele_code": "732700",
+   "pgm_ele_name": "CRCNS-Computation Neuroscience"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7327",
+   "pgm_ref_txt": "CRCNS"
+  },
+  {
+   "pgm_ref_code": "1165",
+   "pgm_ref_txt": "ADVANCES IN BIO INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "8089",
+   "pgm_ref_txt": "Understanding the Brain/Cognitive Scienc"
+  },
+  {
+   "pgm_ref_code": "8091",
+   "pgm_ref_txt": "BRAIN Initiative Res Support"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 667866.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 140000.0
+  }
+ ],
+ "por": null
+}

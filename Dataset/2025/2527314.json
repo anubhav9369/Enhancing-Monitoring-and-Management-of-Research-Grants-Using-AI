@@ -1,0 +1,93 @@
+{
+ "awd_id": "2527314",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Collapse, Rogue Waves, and their Applications: From Theory to Computation and Beyond",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922117",
+ "po_email": "dgolovat@nsf.gov",
+ "po_sign_block_name": "Dmitry Golovaty",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 142798.0,
+ "awd_amount": 59830.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "The project aims to further the understanding of collapse-type phenomena and rogue waves in systems that are modeled by nonlinear ordinary, partial, and lattice differential equations. Collapse-type phenomena are mathematically described by solutions that remain self-similar as some of their attributes become unbounded in finite time. Self-similarity refers to preservation of shape when an appropriate scaling of space and time and solution amplitude is employed. Collapse phenomena are relevant to the focusing of light beams in optics and to atomic matter waves. Rogue waves have a characteristic length or time scale and extreme amplitudes; they are important in subjects such as hydrodynamics, nonlinear optics, and atomic and plasma physics. Using dynamical systems and computational techniques, this project aims to reformulate the underlying models and provide a unified approach to studying both collapse phenomena and rogue waves by treating the relevant patterns as self-similar solutions. The project is expected to provide insights on the mechanisms and reduced mathematical descriptions of collapse phenomena in some of the prototypical mathematical models that feature these potentially catastrophic focusing events, as well as on the formation, prediction, and analysis of extreme waves in both continuum and spatially discrete systems. The project will offer research training opportunities for students. \r\n\r\nThe project will explore a recently derived normal form for the study of self-focusing waves of the central dispersive wave model of the nonlinear Schr\u00f6dinger equation and will seek generalizations for related models (such as the Korteweg-de Vries equation). Stability analysis of such collapsing waves is expected to shed light on the spectral properties and potential instabilities of such systems, their connection to symmetries, their implications for the dynamics in different settings (supercritical, critical, and subcritical), and their reinterpretation in the original \"non-exploding'' frame. A second focus of the project will be the study of rogue waves from a dynamical systems viewpoint, including characterization of stability via limits of time-periodic solutions and rogue waves in higher-order dispersion settings. The theoretical analysis will be corroborated by numerical simulations involving deflation-based fixed-point techniques and pseudo-arclength continuation, as well as state-of-the-art contour integral-based eigenvalue solvers. Collaboration with experimental groups performing laboratory experiments will also be sought.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Efstathios",
+   "pi_last_name": "Charalampidis",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Efstathios G Charalampidis",
+   "pi_email_addr": "echaralampidis@sdsu.edu",
+   "nsf_id": "000811397",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "San Diego State University Foundation",
+  "inst_street_address": "5250 CAMPANILE DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN DIEGO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6195945731",
+  "inst_zip_code": "921821901",
+  "inst_country_name": "United States",
+  "cong_dist_code": "51",
+  "st_cong_dist_code": "CA51",
+  "org_lgl_bus_name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+  "org_prnt_uei_num": "H59JKGFZKHL7",
+  "org_uei_num": "H59JKGFZKHL7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "San Diego State University Foundation",
+  "perf_str_addr": "5250 CAMPANILE DR",
+  "perf_city_name": "SAN DIEGO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "921821901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "51",
+  "perf_st_cong_dist": "CA51",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 59830.0
+  }
+ ],
+ "por": null
+}

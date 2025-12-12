@@ -1,0 +1,102 @@
+{
+ "awd_id": "2506319",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Unitary Mechanical Metamaterials: A Quantum Abacus Paradigm",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7022924526",
+ "po_email": "ksolanki@nsf.gov",
+ "po_sign_block_name": "Kiran Solanki",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 352408.0,
+ "awd_amount": 352408.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "When an elongated material sample is pricked at two opposite ends, induced mechanical stress will lessen in the sample interior. As a result, information about specific location and arrangement of those concentrated forces applied to the sample cannot be recovered by measuring deformation far away from the loaded ends. This award supports fundamental research that seeks to demonstrate novel materials, with engineered internal structure, able to transfer in full information about loading conditions from their boundaries and throughout the material interior. These materials look to feature a unique combination of useful mechanical properties not realized previously. Most interestingly, while keeping the overall amount of information constant, they could also modify it from point to point inside the material similar to as information is processed by a quantum computer. As a result, knowledge obtained could potentially help to build inexpensive quantum computers, advancing the national prosperity, welfare and technological superiority. The project will also provide opportunities to educate and train both graduate and undergraduate students in the inter-disciplinary area of metamaterials, micromechanics, lattice mechanics and computational mechanics by performing research in the PI\u2019s lab.\r\n\r\nRealization of the Saint-Venant\u2019s principle in conventional materials can be viewed as disappearance of higher harmonics in Fourier series decompositions of displacement fields when the distance to the load increases. This phenomenon could be understood as a loss of information in the material interior about any loading conditions or deformation profiles imposed at a material boundary. On the contrary, the proposed research intends conceptualize a class of mechanical metamaterials, where all the Fourier harmonics are preserved in the displacement fields, and the information about any boundary loads is fully preserved in the material interior. Most interestingly, mechanical deformation in some of these materials is anticipated to be governed by a unitary transfer matrix, a mathematical formalism that connects the states of polarization in the Fourier harmonics of stationary deformation profiles at different spatial positions in the material interior. This transfer matrix will also feature all the formal mathematical properties of a quantum operator.  Actual material designs plan to be demonstrated, where the transfer matrix takes the form of an important quantum gate operator. Effective mechanical properties of these material systems will be investigated systematically in conjunction with the corresponding quantum phenomena they can represent. Open-source simulation tools to illustrate and interpret mechanistically, using a human-scale material structure, the action of several most common quantum gates will be developed and made available to the public.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eduard",
+   "pi_last_name": "Karpov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eduard Karpov",
+   "pi_email_addr": "ekarpov@uic.edu",
+   "nsf_id": "000295933",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "024E",
+   "pgm_ref_txt": "MATERIALS DESIGN"
+  },
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 352408.0
+  }
+ ],
+ "por": null
+}

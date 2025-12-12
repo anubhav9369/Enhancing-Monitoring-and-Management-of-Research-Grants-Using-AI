@@ -1,0 +1,106 @@
+{
+ "awd_id": "2425389",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Microcrack Triggering and the Tree Structures Associated with Fracture Coalescence",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922339",
+ "po_email": "gibiscon@nsf.gov",
+ "po_sign_block_name": "Giovanna Biscontin",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 424459.0,
+ "awd_amount": 424459.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Infrastructure systems \u2014 such as tunnels, bridges, dams, and underground facilities \u2014 often emit subtle signals before failure, much like a tree branch creaks before it breaks. These signals are not random; they follow recognizable organizational patterns that hold valuable information about stress, damage, and fracture progression. This project seeks to uncover how such signals \u2014 known as energy releases \u2014 form and evolve into structured networks during material failure. By reimagining these signals not as isolated events but as part of a dynamic, interconnected system, the work will provide new insight into how cracks initiate, propagate, and coalesce in both engineered and natural materials. The findings will strengthen public safety by enabling earlier, more accurate detection of failure in critical infrastructure. The project will also support national prosperity by training students in advanced sensing, data science, and failure prediction. Partnerships with engineering firms and engagement with policymakers will help ensure that these findings are translated into practice, building resilience into the built environment.\r\n\r\nThis research project will conduct controlled laboratory experiments in rock and concrete to analyze energy releases associated with fracture under varying stress conditions. These energy releases will be modeled as evolving networks based on their spatial and temporal relationships. The research will quantify how stress direction, fracture history, and cyclic loading influence the topology of these networks. Through advanced graph-based techniques, the work will isolate which network features correlate with fracture stage, orientation, and coalescence. A series of experimental scenarios, from monotonic to cyclic and mixed-mode loading of beam structures, will probe the limits of using energy release organization as a predictive tool. By doing so, the research can develop robust, physics-informed indicators for monitoring structural degradation and anticipating failure in civil and geological systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jesse",
+   "pi_last_name": "Hampton",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jesse C Hampton",
+   "pi_email_addr": "jesse.hampton@wisc.edu",
+   "nsf_id": "000830918",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "037E",
+   "pgm_ref_txt": "GEOTECHNICAL ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "172E",
+   "pgm_ref_txt": "Geomechanics"
+  },
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 424459.0
+  }
+ ],
+ "por": null
+}

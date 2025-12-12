@@ -1,0 +1,98 @@
+{
+ "awd_id": "2528288",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Bridging Multi-Party Computation and Fully Homomorphic Encryption for Practical Data Security Solutions",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928772",
+ "po_email": "patherto@nsf.gov",
+ "po_sign_block_name": "Peter Atherton",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 303174.0,
+ "awd_amount": 303174.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project will result from the development of a novel data security technology that enables organizations to collaboratively analyze data in encrypted form, in turn providing the strongest data privacy and security guarantees.  This innovation addresses the growing need for secure data processing in sectors like healthcare, finance, and government, where sensitive information must be protected during computation. The proposed solution combines two powerful cryptographic techniques - Fully Homomorphic Encryption (FHE) and Secure Multi-Party Computation (MPC) - to create a unified protocol that balances computational efficiency with strong privacy guarantees. By reducing the high computational and communication overheads associated with existing methods, the technology makes privacy-preserving computation more accessible and scalable for real-world applications. This advancement has the potential to significantly impact how organizations collaborate and extract insights from sensitive data while complying with data protection regulations. It will also promote public trust in the use of artificial intelligence and data-driven technologies by ensuring that privacy is preserved throughout the computational process.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project aims to develop and evaluate a new cryptographic protocol called McFHE that efficiently combines the strengths of FHE and MPC. The core challenge addressed by this project is the impracticality of current privacy-preserving computation methods when applied to large-scale datasets. The research will focus on designing the McFHE protocol, building foundational operations such as dot products and comparisons, and evaluating its performance in practical applications like privacy-preserving machine learning. A custom software library will be developed to integrate these cryptographic techniques and assess their computational, communication, and memory requirements. The project also includes a real-world use case involving secure training of AI models on medical imaging data. Anticipated results include a working prototype of the McFHE system and performance benchmarks that demonstrate its viability for commercial deployment. This work lays the foundation for broader adoption of privacy-preserving technologies in sensitive and regulated industries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rashmi",
+   "pi_last_name": "Agrawal",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rashmi S Agrawal",
+   "pi_email_addr": "rashmi@ciphersoniclabs.io",
+   "nsf_id": "000937013",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "CIPHERSONIC LABS INC",
+  "inst_street_address": "217 THORNDIKE ST APT 209",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "4049367316",
+  "inst_zip_code": "021411505",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "CIPHERSONIC LABS INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "FSUGJKZRV285"
+ },
+ "perf_inst": {
+  "perf_inst_name": "CIPHERSONIC LABS INC",
+  "perf_str_addr": "217 THORNDIKE ST APT 209",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021411505",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8027",
+   "pgm_ref_txt": "Cyber Secur - Cyberinfrastruc"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 303174.0
+  }
+ ],
+ "por": null
+}

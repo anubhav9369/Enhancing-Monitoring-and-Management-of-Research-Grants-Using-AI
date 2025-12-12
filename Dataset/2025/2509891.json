@@ -1,0 +1,130 @@
+{
+ "awd_id": "2509891",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ZVAR: Unlocking the Sky's Variability and Periodicity for 1.5 Billion Astronomical Objects",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032922761",
+ "po_email": "hkrimm@nsf.gov",
+ "po_sign_block_name": "Hans Krimm",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 575000.0,
+ "awd_amount": 575000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Observations of the temporal variability of astrophysical objects are foundational for many areas of stellar and extragalactic astrophysics. The Zwicky Transient Facility (ZTF) is the leading large-area time domain sky survey with a particular emphasis on transient sources that change on day timescales. A research group at California Institute of Technology (Caltech) will significantly enhance the value of ZTF to the astronomy community by boosting its ability to study persistent variability on all timescales. The team will develop a publicly accessible repository of variability data for 1.5 billion objects: the ZTF Variability Archive or ZVAR. The ZVAR footprint includes a significant overlap with the region covered by new Vera C. Rubin Observatory, providing a valuable tool for early exploitation of the Rubin data. This project will directly support thesis-related activities for graduate students studying stellar variability as well as undergraduate students through programs such as Caltech\u2019s Summer Undergraduate Research Fellowship Program (SURF). The project also exposes students to cutting edge techniques in data science, including high level data mining and extraction of meaningful results from these large datasets.\r\n\r\nZVAR will contain a forced-photometry light curve and variability repository for 1.5 billion objects above -30 degrees declination. With a median of over 1600 observations per source, ZVAR will provide variability information on time scales from minutes to years in g, r and i-passbands and periodicity sensitivity on objects as faint as m ~22. The team will use Pan-STARRS and Gaia catalogs to determine the sky positions for the forced photometry. Sources in the repository will include metadata from Gaia and have links to other databases, such as spectra from Sloan Digital Sky Survey-V (SDSS-V). This project provides added value to a major prior NSF-supported project \u2013 ZTF \u2013 and extends its utility to the astronomical community. It will enable a broad range of astrophysical investigations of the stellar and extragalactic variable population, including studies of common envelope evolution, stellar outbursts, compact binaries, and orbital period changes, and even searches for the most massive nanohertz frequency gravitational wave sources.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Graham",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew Graham",
+   "pi_email_addr": "mjg@caltech.edu",
+   "nsf_id": "000490515",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Stanislav",
+   "pi_last_name": "Djorgovski",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stanislav G Djorgovski",
+   "pi_email_addr": "george@astro.caltech.edu",
+   "nsf_id": "000465867",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Prince",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas A Prince",
+   "pi_email_addr": "prince@caltech.edu",
+   "nsf_id": "000280268",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California Institute of Technology",
+  "inst_street_address": "1200 E CALIFORNIA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PASADENA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6263956219",
+  "inst_zip_code": "911250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U2JMKHNS5TG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California Institute of Technology",
+  "perf_str_addr": "1200 E CALIFORNIA BLVD",
+  "perf_city_name": "PASADENA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "911250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121500",
+   "pgm_ele_name": "STELLAR ASTRONOMY & ASTROPHYSC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  },
+  {
+   "pgm_ref_code": "7480",
+   "pgm_ref_txt": "ARCHIVAL DATA ANALYSIS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 575000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,97 @@
+{
+ "awd_id": "2449026",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE Phase I:  Transitioning OpenViSUS to a Sustainable and Robust Open-Source Ecosystem",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 299979.0,
+ "awd_amount": 319975.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-09-11",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project improves how we manage and process gigantic scientific data collections using an open-source, easy-to-use software framework called OpenVisus. The project addresses the growing problem that researchers and professionals in areas such as engineering, materials science, and biology face, as they typically deal with very large datasets. The project makes sophisticated data tools accessible to a wider audience, including those without specialized computer science expertise. This availability will accelerate scientific discoveries, improve workflow efficiencies, and reduce the cost and time requirements for handling massive data sets. The new framework enhances science and technology comprehension by facilitating rapid, interactive analysis of complex data, fostering collaboration, and supporting education. This approach provides the United States with a competitive advantage in data-driven research and technology. This advantage benefits instructors, researchers, and industry professionals who require robust and agile solutions for big data challenges.\r\n\r\nThis Pathways to Enable Open-Source Ecosystems (POSE) project establishes a sustainable and robust open-source ecosystem for OpenVisus, which manages and visualizes large, gridded datasets. OpenVisus provides a user-friendly framework for multi-resolution, out-of-core visualization of massive datasets. It is optimized for efficient streaming and remote access of data that cannot fit in memory, as well as error-bound encoding and decoding. Users can interact with subsets of data as it loads, making it suitable for use in environments with limited bandwidth or remote access. Emphasizing fast data reading and writing for analysis, OpenViSUS addresses bottlenecks in non-destructive evaluation caused by large-scale data management and visualization. Modern scanning methods produce image collections from tens to hundreds of gigabytes, increasing the challenge. OpenViSUS's data ordering enables efficient access to arbitrary subsets of large multi-dimensional images. Progressively streaming data in a coarse-to-fine manner ensures responsiveness and interactivity regardless of data size or network bandwidth. The project is fostering a community of early adopters who benefit from the technology's data solutions, enabling effective simulation for design, evaluation, and discovery.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Amy",
+   "pi_last_name": "Gooch",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amy A Gooch",
+   "pi_email_addr": "amy.a.gooch@gmail.com",
+   "nsf_id": "000697923",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "ViSUS LLC",
+  "inst_street_address": "50 W BROADWAY",
+  "inst_street_address_2": "STE 300",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8018285038",
+  "inst_zip_code": "841012044",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "UT02",
+  "org_lgl_bus_name": "VISUS LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C6MNMRNTXYN1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "ViSUS LLC",
+  "perf_str_addr": "50 W BROADWAY",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841012044",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "UT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  },
+  {
+   "pgm_ele_code": "226Y00",
+   "pgm_ele_name": "Special Projects"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 319975.0
+  }
+ ],
+ "por": null
+}

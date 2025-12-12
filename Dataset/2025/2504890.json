@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504890",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "HCC: Medium: Monte Carlo Methods for Inverse Simulation",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922533",
+ "po_email": "hshen@nsf.gov",
+ "po_sign_block_name": "Han-Wei Shen",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 600000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "Inverse simulation is used to identify the needed inputs in order generate a desired outcome. It has found widespread usage across sciences and engineering. These include designing temperature-regulating components in aircraft, fabricating fluid systems, and detecting tumors in brain. Due to widespread utility of inverse simulations, there exists a large set of mature computational methodologies for inverse simulation tasks, predominantly based on taking continuous space and dividing into discrete sections, which is called a discretization approach. Unfortunately, the dependence on using discrete spaces in inverse simulations and the amount of time and computation it requires means that the existing methodologies are severely constrained. In an era of increasing demand for large-scale inverse simulation for a range of important applications (e.g., fabrication, medicine, robotics), there is a critical demand for methods that can overcome the existing bottlenecks.\r\n\r\nThe project will address this challenge by developing a suite of Monte Carlo methods for inverse simulation that are highly scalable, parallelizable, output-sensitive, and significantly expand the applicable types of physical phenomena and representations. The project will achieve this goal through three inter-connected research thrusts: First, the project will research methods for Monte Carlo differentiable simulation, developing mathematical formulations and computational algorithms that can compute derivatives of solutions to partial differential equations (PDEs) with respect to arbitrary PDE parameters, without the need for discretization. Second, the project will research general and scalable material and geometry representations (e.g., volume representations, neural and point-based implicits) that lend themselves to inverse simulation problems. Third, the project will conduct evaluations through targeted applications, combining differentiable simulation, representations, and gradient-based optimization to solve inverse simulation problems in thermal design and electrical impedance tomography.  This project will create new research areas both within computer graphics and at its intersection with other fields (mechanical engineering, medical imaging), and has the potential for transformative impact in all areas that use inverse simulation (e.g., fabrication, remote sensing, architecture, robotics, aviation, medicine), by developing new inverse simulation methods with greatly improved generality, robustness, and scalability. Finally, this project includes outreach activities synergistically with the above research activities. These activities will engage students in secondary education and undergraduate students, introduce them to computer graphics, and provide them with opportunities for research and hands-on development. These activities will promote greater participation in STEM, thus bringing long-term societal benefit.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ioannis",
+   "pi_last_name": "Gkioulekas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ioannis Gkioulekas",
+   "pi_email_addr": "igkioule@andrew.cmu.edu",
+   "nsf_id": "000743510",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Keenan",
+   "pi_last_name": "Crane",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Keenan Crane",
+   "pi_email_addr": "kmcrane@cs.cmu.edu",
+   "nsf_id": "000631231",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 600000.0
+  }
+ ],
+ "por": null
+}

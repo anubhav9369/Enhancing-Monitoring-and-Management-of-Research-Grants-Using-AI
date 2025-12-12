@@ -1,0 +1,93 @@
+{
+ "awd_id": "2445403",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Computational modeling of the influence of wall quenching on emissions from partially cracked ammonia combustion",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927281",
+ "po_email": "hchellia@nsf.gov",
+ "po_sign_block_name": "Harsha Chelliah",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2028-03-31",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-06-13",
+ "awd_max_amd_letter_date": "2025-06-13",
+ "awd_abstract_narration": "Ammonia is a viable alternate fuel when compared to hydrogen because of its high energy density and relatively easy storability. However, combustion of ammonia can lead to very high pollutant emissions. For example, nitrous oxide can form in low-temperature regions of engines because combustion is slow in these regions.  Low-temperature regions often are located near engine walls where heat is lost to surroundings. The slow combustion there is called wall quenching.  This project addresses the role of wall quenching in generating emissions in ammonia combustion. The project will use numerical simulations of the flow and chemical reactions to describe the generation of nitrous oxide in wall quenching regions.  The results of the project will be predictive computational models that can then be used to provide design rules. Optimized ammonia combustion systems with minimum pollutant emissions could have an enormous impact on several combustion applications such as heavy-duty marine engines.  As part of this research program, graduate and undergraduate students will be trained in combustion, turbulence, computational fluid dynamics, software engineering, and high-performance computing.\r\n\r\nThe goal of this award is to computationally investigate emissions in ammonia wall quenching processes and provide a predictive computational model for engineering simulations. First, detailed numerical simulations will be conducted for laminar and turbulent wall quenching in multiple configurations to understand the influence of geometry and wall conditions on the wall quenching phenomena with a specific emphasis on nitrous oxide formation. Second, a new Wall-Modeled Large Eddy Simulation for Reacting Flows framework will be developed for the reacting flow processes near the wall. In brief, evolution equations for the complete set of species mass fractions and energy are solved only near the wall, and a more computationally efficient combustion model is used away from the wall. Finally, the wall modeling framework will be applied to a wide parametric sweep of ammonia combustion wall quenching to better understand undesirable conditions that should be avoided in ammonia combustion systems. These results will be used to train a data-based wall model for implementation into other codes that will be shared publicly. The modeling framework will allow for the efficient computational modeling of emissions from ammonia combustion, which can be leveraged to accelerate the development of new ammonia combustion technologies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "GEORGE",
+   "pi_last_name": "PARK",
+   "pi_mid_init": "I",
+   "pi_sufx_name": "",
+   "pi_full_name": "GEORGE I PARK",
+   "pi_email_addr": "gipark@seas.upenn.edu",
+   "nsf_id": "000859094",
+   "pi_start_date": "2025-06-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Pennsylvania",
+  "inst_street_address": "3451 WALNUT ST STE 440A",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158987293",
+  "inst_zip_code": "191046205",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE",
+  "org_prnt_uei_num": "GM1XX56LEP58",
+  "org_uei_num": "GM1XX56LEP58"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Pennsylvania",
+  "perf_str_addr": "3401 Walnut St",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191046205",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140700",
+   "pgm_ele_name": "CFS-Combustion & Fire Systems"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2530746",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Unraveling Aerosol-Cloud Interactions and Sea Ice Thermodynamics with AI and Ensemble Kalman Diffusion Guidance",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032928527",
+ "po_email": "edeweave@nsf.gov",
+ "po_sign_block_name": "Eric DeWeaver",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 658592.0,
+ "awd_amount": 658592.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "This project will advance our capabilities to understand and predict two critical aspects of the Earth system by pioneering a new approach driven by artificial intelligence (AI). For decades, the complexity of the underlying physics has limited progress in quantifying the cooling effect due to atmospheric aerosols and their effect on clouds and the rate of Arctic sea ice melt. This project tackles these challenges by using advanced AI to learn directly from satellite observations and laboratory data, developing more accurate and reliable computer simulations. These will in turn result in improved predictive capabilities that are vital for U.S. strategic interests, for example, as a warming Arctic opens new maritime shipping routes essential for commerce and security. More reliable environmental intelligence will support better-informed decisions for infrastructure planning and risk assessment. The project will also make all its AI tools and software openly available and will train a new generation of researchers in these cutting-edge methods.\r\n\r\nTo address current limitations in Earth System Models (ESMs), this project will develop and implement novel parameterizations for aerosol-cloud interactions (ACI) and Arctic sea ice thermodynamics. The research will leverage AI, specifically a novel framework called Ensemble Kalman Diffusion Guidance (EnKG), to learn from a diverse range of observational and laboratory data. For ACI, the project will develop new data-driven models for how aerosols form cloud droplets and ice crystals, using high-fidelity simulations for pre-training before online fine-tuning in an ESM, specifically the ESM developed by the Climate Modeling Alliance (CliMA). For sea ice, the research will build an improved thermodynamic model, incorporating machine learning components to better represent processes such as melt ponds and albedo feedback. The EnKG framework will be developed to efficiently train these embedded ML parameterizations using large-scale satellite observations without requiring model derivatives. Finally, the project will conduct ESM simulations using the new parameterizations to provide improved, uncertainty-quantified estimates of aerosol radiative forcing and more robust projections of future Arctic sea ice decline.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tapio",
+   "pi_last_name": "Schneider",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tapio Schneider",
+   "pi_email_addr": "tapio@caltech.edu",
+   "nsf_id": "000429933",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yisong",
+   "pi_last_name": "Yue",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yisong Yue",
+   "pi_email_addr": "yyue@caltech.edu",
+   "nsf_id": "000678698",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "California Institute of Technology",
+  "inst_street_address": "1200 E CALIFORNIA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "PASADENA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6263956219",
+  "inst_zip_code": "911250001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "28",
+  "st_cong_dist_code": "CA28",
+  "org_lgl_bus_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U2JMKHNS5TG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "California Institute of Technology",
+  "perf_str_addr": "1200 E CALIFORNIA BLVD",
+  "perf_city_name": "PASADENA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "911250001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 658592.0
+  }
+ ],
+ "por": null
+}

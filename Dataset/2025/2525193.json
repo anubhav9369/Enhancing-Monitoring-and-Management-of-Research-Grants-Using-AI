@@ -1,0 +1,110 @@
+{
+ "awd_id": "2525193",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMitF: Track I: Automated Learning of Quantitative Network Models (ALOFT)",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032925139",
+ "po_email": "haliu@nsf.gov",
+ "po_sign_block_name": "Hang Liu",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 904686.0,
+ "awd_amount": 904686.0,
+ "awd_min_amd_letter_date": "2025-07-18",
+ "awd_max_amd_letter_date": "2025-07-18",
+ "awd_abstract_narration": "Computer networks are critical for distributed software systems, and their failure can lead to major disruptions. Tools for verifying networked behavior can help catch bugs and improve trust, but there is a fundamental challenge that limits the applicability of formal methods in networking: the need for precise models of the devices, topologies, and systems being verified. This project will develop new techniques that enable automatic construction of such models, which will enable broader use of formal verification in networking, ensuring that networks satisfy specified correct properties and are aligned with the intents of human operators. The project will also pursue education and outreach efforts to share results with the broader community and will seek to transition the fundamental research into practice through collaborations with industrial partners.\r\n\r\nDespite many recent successes of verification in networking, many important properties remain challenging to formally reason about. One challenge is the lack of models that automatically evolve as changes are made to network devices, configuration, and topology. Another challenge is the lack of models that capture essential quantitative properties such as latency and reliability. This project will further the vision of automated inference of models and provide efficient techniques for quantitative model learning that do not require access to source code or handcrafted models of network behavior. At the core of the development will be a unique integration of new closed-box learning algorithms and symbolic techniques crucial to tame the scale of network models. The outcomes will be a new generation of formal verification techniques based on closed-box learning and grounded in applications in networking.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alexandra",
+   "pi_last_name": "Silva",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexandra Silva",
+   "pi_email_addr": "alexandra.silva@cornell.edu",
+   "nsf_id": "000916068",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Foster",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "John N Foster",
+   "pi_email_addr": "jnfoster@cs.cornell.edu",
+   "nsf_id": "000569694",
+   "pi_start_date": "2025-07-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "094Y00",
+   "pgm_ele_name": "FMitF: Formal Methods in the F"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "071Z",
+   "pgm_ref_txt": "FMitF-Formal Methods in the Field"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 904686.0
+  }
+ ],
+ "por": null
+}

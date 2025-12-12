@@ -1,0 +1,114 @@
+{
+ "awd_id": "2442806",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Data-driven, Physics-augmented Process Systems Engineering Framework for Digital, Sustainable Agriculture",
+ "cfda_num": "47.041, 47.083",
+ "org_code": "07020000",
+ "po_phone": "7032927258",
+ "po_email": "rramacha@nsf.gov",
+ "po_sign_block_name": "Rohit Ramachandran",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 406800.0,
+ "awd_min_amd_letter_date": "2025-04-07",
+ "awd_max_amd_letter_date": "2025-04-07",
+ "awd_abstract_narration": "In 2050, the global population is expected to reach nearly 10 billion. Global food production and water consumption will increase by at least 70% and 50% by 2050, respectively. Today, one third of U.S. counties suffer from severe drought, causing losses of more than $30 billion/year to U.S. irrigated farms. In-situ soil monitoring in crop fields to enable efficient irrigation practices is an important water management strategy. Nevertheless, only 12% of irrigated farms in the U.S. have deployed soil sensors due to limitations of current technologies, which are unable to infer field-wide soil conditions from local sensor measurements. There are also challenges in using soil monitoring to improve irrigation scheduling.  This project will advance the fundamental science underlying strategies to capture field-scale soil moisture and salinity data to optimize soil monitoring and irrigation control. The success of the project will make sensor-based digital agriculture attractive and economically viable for farmers, which will help strengthen the national security of food and water resources. The project will also help build research capabilities at Oklahoma State University in scientific computing, artificial intelligence, digital agriculture, and sustainability. It will provide opportunities for students to conduct STEM research. In addition, educational and outreach programs will raise awareness and broaden participation of engineering students, farmers, and local communities in digital and sustainable farming, thus helping prepare the next-generation workforce to adopt digital solutions and systems thinking in the food and agriculture sectors.\r\n\r\nThis project develops a data-driven, physics-augmented digital twin to address whether and how field-wide soil moisture and salinity profiles can be attained by a small number of strategically placed sensors, and explores how to leverage these profiles to design efficient crop irrigation systems. The project integrates water-solute-soil dynamics modeling, sensor network design, and irrigation scheduling to provide efficient and affordable solutions for field-wide soil monitoring and irrigation decision-making. The project will develop foundational theories and efficient algorithms to model complex spatiotemporal water-solute-soil dynamics and solve the associated inverse problem. It will create a new physics-integrated active learning framework based on spatiotemporal Gaussian process coupled with mutual-information filling principle for optimal soil sensor placement. Furthermore, it will develop provably safe and convergent reinforcement learning algorithms for precision irrigation scheduling, as well as the first systematic techno-economic analysis model to quantify economic savings and payback period. The education and extension plan integrated with the research activities include creating a soil monitoring and irrigation decision-making test bed, launching a new course in sustainable systems engineering, introducing course modules combining process systems engineering, agriculture, and sustainability into chemical engineering curriculum, and engaging with farmers in rural communities of Oklahoma to promote soil monitoring and water management practices.\r\n\r\nThis project is jointly funded by the Process Systems, Reaction Engineering and Molecular Thermodynamics (PRM) program, and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zheyu",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zheyu Jiang",
+   "pi_email_addr": "zheyu.jiang@okstate.edu",
+   "nsf_id": "000862617",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oklahoma State University",
+  "inst_street_address": "401 WHITEHURST HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "STILLWATER",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4057449995",
+  "inst_zip_code": "740781031",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OK03",
+  "org_lgl_bus_name": "OKLAHOMA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNYDFK5FTSX9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oklahoma State University",
+  "perf_str_addr": "401 WHITEHURST HALL",
+  "perf_city_name": "STILLWATER",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "740781031",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OK03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140300",
+   "pgm_ele_name": "Proc Sys, Reac Eng & Mol Therm"
+  },
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 406800.0
+  }
+ ],
+ "por": null
+}

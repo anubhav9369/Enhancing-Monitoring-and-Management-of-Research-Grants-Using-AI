@@ -1,0 +1,98 @@
+{
+ "awd_id": "2446505",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Quantifying and predicting wind-driven internal-wave shear in the ocean",
+ "cfda_num": "47.050",
+ "org_code": "06040000",
+ "po_phone": "7032924557",
+ "po_email": "bmuz@nsf.gov",
+ "po_sign_block_name": "Baris Uz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 215143.0,
+ "awd_amount": 215143.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Wind blowing over the ocean resonantly generates near-inertial waves (NIWs) which dominate the ocean kinetic-energy and vertical-shear spectra at frequencies above 0.2 cycles/day. Once generated, long-wavelength (low-mode) NIWs propagate long distances toward the equator before meeting an unknown fate, while short-wavelength (high-mode) NIWs persist for weeks under the storm track, maintaining ubiquitous upper-ocean shear. The exact partitioning between low- and high-mode NIWs is unknown, but relevant to ocean/climate feedback because breaking NIWs drive diapycnal mixing that affects the vertical transports of heat and carbon in the ocean. Low-mode NIWs are believed to scatter over rough topography where they may enhance deep boundary mixing. High-mode NIWs produce velocity shear associated with total kinetic energy dissipation through a variety of processes such as wave-wave or wave-mean interactions, thus contributing to open-water upper-ocean mixing. This project will synthesize existing NIW observations, theory, and numerical models to create a global NIW prediction system, which will help answer some basic questions that have persisted despite recent progress with theory and process studies: (1) How do dynamics in the ocean surface boundary layer (OSBL) shape NIW vertical wavenumber spectrum? (2) What is the fate of low-mode NIWs? and (3) How well do linearized models that include realistic wind, stratification, and mesoscale circulation predict upper-ocean shear?  Results from this project will influence the next generation of mixing parameterizations for ocean-climate models. This project will also impact STEM education by supporting a PhD student and undergraduate summer interns. Public outreach events, such as the \u201cScience on Deck\u201d open houses on the research vessel (R/V) Blue Heron, will be conducted, and ocean modeling software and data products developed during this project will be open source and publicly available.\r\n\r\nThis effort will analyze novel high-resolution observations and numerical models. A global dataset will be compiled from lowered-Acoustic Doppler Current Profiler (ADCP) measurements collected during the GO-SHIP repeat hydrography surveys, 20+ years of sonar observations from the ship-mounted Hydrographic Doppler Sonar System (HDSS) on the R/V Revelle, and three highly-instrumented NSF or ONR funded mooring campaigns. The NIW models will utilize a variety of OSBL turbulence models coupled with two NIW propagation models, the Coupled-mode Shallow Water (CSW) model and the Young and Ben Jelloul (YBJ) model. First, OSBL models will be run with realistic atmospheric forcing to examine how the turbulent stress profile determines the NIW vertical-wavenumber spectrum. These results will be compared against HDSS vertical-wavenumber spectra to identify which OSBL dynamics are critical for replicating observations. Next, the CSW model is run to examine global propagation of low-mode NIWs. These simulations will be examined for consistency with mooring energy fluxes and then used to quantify island trapping, coastal reflection, and scattering by topography and depth-dependent mean flows (taken from the HYCOM ocean general circulation model). Lastly, the evolution of upper-ocean shear will be examined by running high-resolution YBJ simulations with realistic forcing, mesoscale flow, topography, and low-mode boundary forcing. These simulations will be compared with HDSS and lowered-ADCP data to explain global variations in upper-ocean shear.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Samuel",
+   "pi_last_name": "Kelly",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Samuel M Kelly",
+   "pi_email_addr": "smkelly@d.umn.edu",
+   "nsf_id": "000649892",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota Duluth",
+  "inst_street_address": "1049 UNIVERSITY DRIVE 209 DARLAND",
+  "inst_street_address_2": "",
+  "inst_city_name": "DULUTH",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "2187267582",
+  "inst_zip_code": "558123011",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MN08",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LPCTM8BS8NF3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota Duluth",
+  "perf_str_addr": "1035 UNIVERSITY DR # 133",
+  "perf_city_name": "DULUTH",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "558123031",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MN08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "161000",
+   "pgm_ele_name": "PHYSICAL OCEANOGRAPHY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1610",
+   "pgm_ref_txt": "PHYSICAL OCEANOGRAPHY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 215143.0
+  }
+ ],
+ "por": null
+}

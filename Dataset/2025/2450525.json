@@ -1,0 +1,93 @@
+{
+ "awd_id": "2450525",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Planning: CIRC: Planning-C: Building Foundation Model Infrastructure for Feature Interaction Discovery",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-01-31",
+ "tot_intn_awd_amt": 49979.0,
+ "awd_amount": 49979.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Discovering how different features interact to influence outcomes is essential for understanding complex biological systems. Traditional statistical methods often fall short when applied to large-scale biological datasets. In contrast, newer artificial intelligence models show promise. These transformer-based foundation models, with their advanced capabilities and methods to focus attention on the most important features, are better suited to capture these interactions effectively. However, a gap remains between the computer science and biology communities. Many computer scientists are not fully aware of the importance of feature interaction discovery in biological research, while biologists are increasingly interested in using computational tools but may lack access to the latest developments in foundation model infrastructure. This project aims to bridge this gap by fostering collaboration between researchers in both fields. The goal is to build a scalable foundation model infrastructure specifically designed for identifying feature interactions in biological data.\r\n\r\nThe main contribution of this project is to advance data-driven discovery of feature interactions through a shared foundation model infrastructure. The project will involve: (1) engaging computer science researchers through surveys, interviews, workshops, and working groups to explore feature interactions with foundation models; (2) developing scalable infrastructure for foundation models training and inference, along with creating datasets and benchmarks, for feature interaction discovery; and (3) applying the developed foundation model infrastructure to feature interaction discovery problems in biology. Together, this project will support both computer science and biology communities and fundamentally advance research in data-driven feature interaction discovery.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "zirui",
+   "pi_last_name": "liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "zirui liu",
+   "pi_email_addr": "zrliu@umn.edu",
+   "nsf_id": "0000A0DH1",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "200 Union St. SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554550159",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 49979.0
+  }
+ ],
+ "por": null
+}

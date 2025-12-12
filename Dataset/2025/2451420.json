@@ -1,0 +1,110 @@
+{
+ "awd_id": "2451420",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRII: SHF: RUI: Enhancing LLM Debugging Capabilities: A Study on AI-Driven Software Error Detection and Correction",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 173037.0,
+ "awd_amount": 173037.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "Software has been an essential part of daily life, embedded in the tools and applications people use every day. When software fails - for example, when a mobile app crashes or a medical system displays incorrect information - it can lead to frustration, wasted time, or even safety risks. These issues are often caused by mistakes in the code, commonly referred to as \"bugs\". Fixing bugs, known as \"debugging\", is often time-consuming and requires considerable problem-solving skills. As software systems grow in complexity, there is an increasing need for tools that help developers identify and fix bugs more efficiently and accurately. This project will explore how recent advances in artificial intelligence - particularly large language models (LLMs) - can support and enhance the debugging process. The work will lead to the development of smarter tools that reflect how people approach problem-solving, making it easier for developers to correct errors. These improvements could lead to more reliable software across fields such as healthcare, transportation, education, and beyond.\r\n\r\nThe project will focus on three main research activities. (1) Developing a comprehensive benchmark to evaluate the performance of LLMs across a range of software bug types, including logic, functional, and performance-related errors. This benchmark will fill a critical gap by providing a structured framework for systematically assessing LLM capabilities in debugging tasks. (2) The project will incorporate developer-like problem-solving strategies, such as understanding problem context and analyzing failed test cases, into the design of LLM-driven tools, enhancing their ability to detect and explain bugs. (3) This project will streamline the debugging workflow by leveraging human-AI collaboration to deliver more reliable and actionable solutions. Through the integration of feedback mechanisms, reinforcement learning, and iterative refinement, it will enhance the ability of LLMs to generate fixes that are more accurate, efficient, and practical, thereby reducing the need for manual correction. These innovations are expected to significantly enhance developer productivity and improve overall software quality.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xianshan",
+   "pi_last_name": "Qu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xianshan Qu",
+   "pi_email_addr": "xqu1@uco.edu",
+   "nsf_id": "0000A0WWY",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Central Oklahoma",
+  "inst_street_address": "100 N UNIVERSITY DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "EDMOND",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4059742538",
+  "inst_zip_code": "730345207",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "OK05",
+  "org_lgl_bus_name": "UNIVERSITY OF CENTRAL OKLAHOMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TVYWG7KY4XL8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Central Oklahoma",
+  "perf_str_addr": "100 N UNIVERSITY DR",
+  "perf_city_name": "EDMOND",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "730345207",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "OK05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  },
+  {
+   "pgm_ref_code": "8228",
+   "pgm_ref_txt": "CISE Resrch Initiatn Initiatve"
+  },
+  {
+   "pgm_ref_code": "9229",
+   "pgm_ref_txt": "RES IN UNDERGRAD INST-RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 173037.0
+  }
+ ],
+ "por": null
+}

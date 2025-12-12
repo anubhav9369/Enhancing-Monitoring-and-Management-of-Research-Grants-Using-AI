@@ -1,0 +1,110 @@
+{
+ "awd_id": "2523480",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Understanding and Controlling Powder Dynamics for Spatter-Free Pulsed-Mode Laser Powder Bed Fusion",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032922949",
+ "po_email": "atalkach@nsf.gov",
+ "po_sign_block_name": "Alena Talkachova",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-08-28",
+ "awd_max_amd_letter_date": "2025-08-28",
+ "awd_abstract_narration": "Laser powder bed fusion (LPBF) is a metal additive manufacturing process that uses a focused high-energy laser to selectively melt metal powders layer by layer, enabling the production of geometrically complex parts for aerospace, biomedical, and other industries. However, localized laser heating creates a highly dynamic interaction region involving powder, molten metal, vapor jet, and gas flow. These elements fluctuate rapidly during laser scanning, causing process instabilities that result in defects and compromise part quality. One major contributor to these instabilities is the stochastic ejection of powder, known as spatter. To address spatter challenges, this project will conduct a fundamental in-situ investigation of powder dynamics during the pulsed LPBF process, thus uncovering the underlying mechanisms and driving forces. Based on these insights, an analytical model will be developed that links process conditions to powder dynamics, guiding the design of a spatter-free LPBF process. This project will deepen scientific understanding of powder dynamics in pulsed LPBF. Addressing spatter issues will enhance part quality and consistency, benefiting critical sectors such as aerospace, biomedical, and defense, thereby supporting national economy, health, and security. The project includes rich educational and outreach activities to introduce K-12, undergraduate, and graduate students to additive manufacturing and the use of in-situ monitoring tools to solve real-world challenges.\r\n\r\nDuring LPBF, laser-material interactions induce significant process instabilities that cause defect formation and reduce part quality. The stochastic formation of spatters is a major contributor to these instabilities. Eliminating spatter has long been considered unachievable due to the intrinsic ejection of powders by vapor jets. This research project aims to address this longstanding challenge by using a pulsed laser beam to control powder dynamics. To realize this, multi-agent multi-view in-situ characterization experiments will be conducted to capture powder dynamics during the pulsed LPBF process, thereby revealing the underlying mechanisms. An analytical model will be further developed that links pulsed laser parameters (frequency, duty cycle, laser power, scan speed) with dynamic powder behavior (movement, incorporation, ejection). The specific objectives of this project include: (1) uncover powder movement, incorporation and ejection dynamics and mechanisms in pulsed-mode LPBF; (2) develop an analytical model linking process conditions to powder dynamics; (3) predict and demonstrate spatter-free in real LPBF prints. The ultimate goal is to establish a process design framework that can reliably control powder dynamics and enable consistent spatter-free LPBF.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Minglei",
+   "pi_last_name": "Qu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Minglei Qu",
+   "pi_email_addr": "minglei.qu@asu.edu",
+   "nsf_id": "0000A10VS",
+   "pi_start_date": "2025-08-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "660 S MILL AVENUE STE 204",
+  "inst_street_address_2": "",
+  "inst_city_name": "TEMPE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852813670",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "AZ04",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

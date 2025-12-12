@@ -1,0 +1,126 @@
+{
+ "awd_id": "2434622",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Mid-infrared detection in silicon through metasurface-enhanced non-degenerate two-photon absorption",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2028-02-29",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "Nontechnical description of the project:\r\n\r\nThis project increases the detection sensitivity of a silicon-based camera for mid-infrared (MIR) radiation.  Imaging in the MIR range of the spectrum is attractive because it produces images with molecular-specific contrast. State-of-the-art MIR cameras, however, lack the performance and speed needed to tackle numerous imaging challenges. A new MIR detection approach, based on non-degenerate two-photon absorption (NTA) in the detector chip, promises to overcome such shortcomings by enabling MIR mapping with prototypical silicon-based detectors. This program significantly advances the MIR sensitivity and detection speed of silicon-based cameras by modifying the detector surface such that the NTA process is dramatically enhanced. These modified surfaces, called metasurfaces, consist of micrometer-sized structures that concentrate the incoming light and boost the affinity for two-photon absorption in silicon. The advances made in this project render silicon-based cameras ripe for fast imaging applications in the MIR, offering high-definition visualization not possible with existing MIR cameras. The project further supports extensive training for graduate and undergraduate students, equipping them with advanced skills in the areas of physical chemistry, optical microscopy, and molecular biophysics - skills essential for the support of cutting-edge science and technology in society. Finally, by offering students from historically black colleges and universities (HBCUs) an exciting and immersive summer research experience, this project promotes diversity by increasing the number of African American doctoral students in science, technology, engineering, and mathematics (STEM).\r\n\r\nTechnical description of the project:\r\nMIR imaging allows the visualization of objects with chemical contrast. Imaging technologies based on MIR light are important in a myriad of fields, including the pharmaceutical and semiconductor industries, forensics, art conservation, biomedical imaging, and more. There are, however, several technological hurdles that have held back a broader implementation of the MIR imaging approach, and chief among these is the limited performance of MIR cameras. Compared to technologically mature Si-based cameras optimized for the visible and near-infrared (NIR) range of the spectrum, MIR cameras offer limited pixel density and acquisition speed, and suffer from issues related to thermal noise. Several recent developments seek to overcome these limitations by employing frequency conversion strategies that allow MIR detection with Si-based cameras instead. Among these developments, NTA-based MIR detection is particularly attractive, as it offers robust mid-infrared imaging capabilities at frame rates exceeding 1 kHz. In this project, we advance NTA-enabled MIR imaging by developing silicon detectors optimized for NTA detection. So far, the NTA approach has relied on conventional Si photodetectors that are designed for one-photon absorption for light detection. Here, we design metasurfaces that dramatically improve the two-photon absorption process in silicon, giving rise to a boost in the NTA detection efficiency by at least one order of magnitude. By precisely sculpting the sensor surface with micrometer-sized silicon structures and following a systematic optimization approach that leverages the state-of-the-art in metasurface design, we will produce the first silicon-based detector specifically optimized for light detection in the MIR wavelength range.  The MIR detection sensitivities achieved in this work render NTA detection a practical and robust solution for MIR imaging applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eric",
+   "pi_last_name": "Potma",
+   "pi_mid_init": "O",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eric O Potma",
+   "pi_email_addr": "epotma@uci.edu",
+   "nsf_id": "000108049",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Maxx",
+   "pi_last_name": "Arguilla",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maxx Arguilla",
+   "pi_email_addr": "marguill@uci.edu",
+   "nsf_id": "000848490",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Dmitry",
+   "pi_last_name": "Fishman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dmitry Fishman",
+   "pi_email_addr": "dmitryf@uci.edu",
+   "nsf_id": "000927630",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "1102 Natural Sciences II",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926972025",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "095E",
+   "pgm_ref_txt": "Photonic integration"
+  },
+  {
+   "pgm_ref_code": "1775",
+   "pgm_ref_txt": "ELECTRONIC/PHOTONIC MATERIALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2502050",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: A New Uncertainty Modeling Framework for Snapshot Compressive Imaging",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 200000.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Computational imaging technologies are increasingly required to operate in real-world applications, offering high-fidelity visual output under complex lighting environments. Among these, snapshot compressive imaging (SCI) is a promising technique that retrieves high-dimensional signals from 2D optically compressed measurements. Incorporating modern AI techniques, SCI has significantly advanced the capabilities of traditional optical sensing in various fields, including hyperspectral imaging, video compression, microscopy, and security. However, despite its promise, SCI remains sensitive and under-explored to uncertainties rooted in its hybrid structure \u2013 optical encoders and algorithmic decoders \u2013 stemming from imperfect optical hardware, algorithmic overfitting, and unpredictable environmental noise, which limits its deployment across diverse platforms and safety-critical systems. This research project aims to enhance the reliability and robustness of SCI in practical use by developing novel methods to study uncertainties at various system levels. The success of this project benefits a broad range of areas, including computational imaging, signal processing, remote sensing, AI photonics, and machine learning. Along with the proposed research, the project supports a comprehensive education and outreach agenda, encompassing cutting-edge undergraduate and graduate research activities, as well as engaging K-12 students through hands-on experiences with AI and imaging technologies.\r\n\r\nThe goal of this project is to develop a versatile bilevel optimization framework to study uncertainties in hybrid models that interweave physical optics and deep learning algorithms throughout SCI systems. In collaboration with domain experts, the investigator investigates new scientific knowledge to establish computational and optical underpinnings of SCI by modeling mask, weight, and data uncertainties. The research is unfolded into three thrusts: 1) reasoning mask uncertainties with scalable hyperparameter optimization techniques through a Bayes lens to automatically calibrate models across different hardware, 2) developing new post-training quantization algorithms combined with weight uncertainty and diffusion probabilistic models to combat large model sizes and high-dimensional reconstruction, and 3) building a dual-camera spectral SCI system to capture data noise in the real imaging process. The project bridges the gap between laboratory simulation and real hardware by developing an integrated uncertainty-aware SCI toolbox and collecting a dataset that co-registers compressed measurements with reference images.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zhiqiang",
+   "pi_last_name": "Tao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zhiqiang Tao",
+   "pi_email_addr": "zqtaomail@gmail.com",
+   "nsf_id": "000854438",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rochester Institute of Tech",
+  "inst_street_address": "1 LOMB MEMORIAL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5854757987",
+  "inst_zip_code": "146235603",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J6TWTRKC1X14"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rochester Institute of Tech",
+  "perf_str_addr": "1 LOMB MEMORIAL DR",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146235603",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 200000.0
+  }
+ ],
+ "por": null
+}

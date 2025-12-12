@@ -1,0 +1,102 @@
+{
+ "awd_id": "2516629",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: HCC: Small: Accounting for Focus Ambiguity in Visual Questions",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922971",
+ "po_email": "sroberts@nsf.gov",
+ "po_sign_block_name": "Scott Robertson",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 215000.0,
+ "awd_amount": 215000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "Ambiguous language is a common part of communication. It means using vague words or phrases that can be interpreted in multiple ways depending on the context. This project addresses how a question answering system might handle ambiguous questions about images where it is unclear which part of an image a question refers to. For example, if someone asks \"What is the medicine?\" while looking at an image showing several pill bottles, a system should identify all relevant parts of the image and provide answers for each so that a person receives the full picture and can resolve ambiguities later. Instead, current visual question answering (VQA) services typically provide people with one answer per question and do not explain their reasoning process for choosing the answer. This limits a person's ability to verify whether the desired interpretation was made. The possible repercussions from VQA services providing incomplete information can be grave, inflicting adverse personal, social, professional, legal, and financial consequences to VQA service users.\r\n\r\nIn this project, we will develop a socio-technical solution to address the need for innovative approaches that empower people to recognize when there is question ambiguity and then resolve it. We will introduce the first back-end AI model that can specify every plausible image region that could be the focus of a question's language paired with natural language answers derived from those regions. We will also establish effective interaction designs within a user-facing tool that empowers people to recognize and resolve focus ambiguity in visual questions. Progress will be measured by evaluating the proposed AI model on our benchmark dataset and examining real users' experiences with this model when embedded within a larger VQA system. User studies will focus on blind individuals since they are the current dominant end-users for VQA services. More generally, we expect project success will benefit all VQA service users, whether visually impaired or sighted.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Anhong",
+   "pi_last_name": "Guo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Anhong Guo",
+   "pi_email_addr": "anhong@umich.edu",
+   "nsf_id": "000839067",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 215000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2451163",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: NAIRR Pilot: Making Biomedical Data FAIR on the NAIRR",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 237951.0,
+ "awd_amount": 237951.0,
+ "awd_min_amd_letter_date": "2024-12-20",
+ "awd_max_amd_letter_date": "2024-12-20",
+ "awd_abstract_narration": "Artificial Intelligence (AI) methods depend on data. However, much of the most valuable biomedical data is subject to strict access controls due to its sensitivity. This significantly hinders the data\u2019s ability to be findable, accessible, interoperable, and reusable (FAIR), effectively making it \u201cdark data.\u201d Dark data is a major reason why AI remains underdeveloped in healthcare. To address this problem, this project will develop methods that can safely and securely illuminate dark health data and make it accessible for research without compromising the privacy of the data donors. By creating fully open but privacy-preserving replicas of the original datasets, the project will empower researchers to find, access, inspect, socialize, critique, and reuse this data. Systematically illuminating dark data will support beneficial AI health applications, particularly for data stored in isolated repositories, such as data about rare diseases.\r\n\r\nThis project\u2019s goal is to advance the state-of-the-art in privacy-preserving biomedical data sharing through the development of a software library with efficient algorithms and cryptographic protocols. This will enable data custodians from secured, siloed repositories to contribute data to a joint and secure synthetic data generation process. The solution combines Secure Multiparty Computation with Differential Privacy techniques to ensure input privacy (data custodians do not need to disclose their data to anyone, including intermediary and aggregating servers) and output privacy, where the synthetic data sets do not reveal sensitive information about individuals in the training data. Additionally, the project will improve the understanding of current techniques\u2019 strengths and limitations in training generative artificial intelligence models for high-fidelity and high-utility synthetic genomics (germline) data. It will investigate the limits of direct germline sequence generation using state-of-the-art generative foundation models, generate variant call file data using frontier models for tabular data generation, and validate the concordance of mutation annotation files derived from synthetic and original variant call files by comparing pathogenicity predictions. The project focuses on rare diseases such as Neurofibromatosis and Acute Myeloid Leukemia, where existing data is minimal and fragmented across different data custodians.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Martine",
+   "pi_last_name": "De Cock",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Martine De Cock",
+   "pi_email_addr": "mdecock@u.washington.edu",
+   "nsf_id": "000519779",
+   "pi_start_date": "2024-12-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Luca",
+   "pi_last_name": "Foschini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Luca Foschini",
+   "pi_email_addr": "luca.foschini@sagebase.org",
+   "nsf_id": "0000A0RXP",
+   "pi_start_date": "2024-12-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington Tacoma",
+  "perf_str_addr": "1900 Commerce St",
+  "perf_city_name": "Tacoma",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "984023112",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "WA06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "296Y00",
+   "pgm_ele_name": "NAIRR-Nat AI Research Resource"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 237951.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2544613",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "NSF-BSF: RI: Small: Efficient Bi- and Multi-Objective Search Algorithms",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 499694.0,
+ "awd_amount": 346674.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "This project develops faster search algorithms for route-planning problems where multiple cost measures are used to determine the best solutions. For example, when transporting hazardous goods it is important to consider both the duration and safety of a route.  Other applications include planning power-transmission lines, inspection and manipulation planning in robotics, scheduling satellites, and routing packets in computer networks.  These bi- and multi-objective search algorithms work by maintaining many paths from the given start location to each location encountered during the search.  This approach currently prevents them from solving realistically sized problems in real-time. This project both investigates techniques for speeding them up to realistic problem sizes and develops new benchmark instances for evaluating their performance. It is part of an international collaboration that also includes the exchange of personnel and the development of educational material.\r\n\r\nBi-objective (and multi-objective) search algorithms allow the cost of every graph edge to be quantified by two (or more) real values. They essentially assume that one wants to find the set of all paths, called the Pareto frontier, such that each path in the set is better than all other paths from a given start vertex to a given goal vertex with respect to the sum of at least one cost component of its edges (or equally good with respect to all cost components). The researchers of this project work on finding synergies between ideas from existing bi-objective search algorithms and recent algorithmic developments in the artificial intelligence search community to develop the next generation of optimal and approximately-optimal bi-objective search algorithms. They are also working on generalizing their bi-objective search algorithms to multi-objective search algorithms and applying them in the context of transportation and robotics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sven",
+   "pi_last_name": "Koenig",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sven Koenig",
+   "pi_email_addr": "svenk@uci.edu",
+   "nsf_id": "000249346",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "160 ALDRICH HALL",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926970001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "014Z",
+   "pgm_ref_txt": "NSF and US-Israel Binational Science Fou"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 346674.0
+  }
+ ],
+ "por": null
+}

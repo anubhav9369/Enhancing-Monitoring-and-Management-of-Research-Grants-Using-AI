@@ -1,0 +1,138 @@
+{
+ "awd_id": "2527408",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CIVIC-FA Track B: Strengthening Peer-Run Safety-Net Behavioral Health Services through Community-centered AI Design",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032927375",
+ "po_email": "adubey@nsf.gov",
+ "po_sign_block_name": "Abhishek Dubey",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 700000.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Public sector peer-run behavioral health organizations (PROs) are essential providers supporting Americans facing tough times. These organizations offer holistic care that extends beyond mental and behavioral health to include services such as housing, employment support, and income assistance. However, many PROs operate with limited staffing and outdated infrastructure, making it difficult to meet rising service demands. While large healthcare systems increasingly use Artificial Intelligence (AI) to improve efficiency, peer-led organizations have had limited access to AI tools built specifically for their service models and day-to-day challenges. This project addresses that gap through a partnership with the Collaborative Support Programs of New Jersey (CSPNJ), a statewide, peer-run behavioral health organization. Together, we are developing PeerCoPilot, an AI-powered assistant designed to help peer providers deliver faster, more tailored, and more consistent support to service users, without replacing the human connection at the core of peer work. The project is designed to scale across similar peer-run organizations, creating a model for efficient technology integration in the safety-net behavioral health sector across the US. \r\n\r\nThis project applies a community-centered AI design framework to develop and evaluate PeerCoPilot, an AI assistant for peer providers in high-need behavioral health settings. During our Stage 1 planning grant, we co-designed and tested the first component of PeerCoPilot \u2013 the Wellness Planner, a large language model (LLM)-powered tool that helps peer providers generate personalized wellness plans and locate relevant service resources. Initial testing showed the tool was easy to use and provided meaningful support, while also revealing key areas for improvement in information accuracy and follow-up management. In Stage 2, we will enhance PeerCoPilot by (1) improving the reliability of the Wellness Planner using techniques like retrieval-augmented generation and in-context learning, and (2) adding a new Wellness Check-in Management feature powered by LLMs and sequential decision-making methods (e.g., restless multi-armed bandits) to support timely, personalized follow-up. These features are aimed at increasing provider capacity and reducing missed opportunities for engagement. To support adoption and readiness, we will also co-develop onboarding guides, brief tutorials, and embedded support tools for peer providers. The project integrates expertise in AI, HCI, behavioral health, and social work, with the goal of building a scalable, efficient AI system that enhances the reach and quality of peer-led behavioral health services.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hong",
+   "pi_last_name": "Shen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hong Shen",
+   "pi_email_addr": "hongs@andrew.cmu.edu",
+   "nsf_id": "000769644",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "FEI",
+   "pi_last_name": "FANG",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "FEI FANG",
+   "pi_email_addr": "feifang@cmu.edu",
+   "nsf_id": "000754062",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Genevra",
+   "pi_last_name": "Jones",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Genevra N Jones",
+   "pi_email_addr": "nevjones@pitt.edu",
+   "nsf_id": "000881924",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Margaret",
+   "pi_last_name": "Swarbrick",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Margaret Swarbrick",
+   "pi_email_addr": "pswarbrick@cspnj.org",
+   "nsf_id": "0000A3DXZ",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "033Y00",
+   "pgm_ele_name": "S&CC: Smart & Connected Commun"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "042Z",
+   "pgm_ref_txt": "S&CC: Smart and Connected Communities"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 700000.0
+  }
+ ],
+ "por": null
+}

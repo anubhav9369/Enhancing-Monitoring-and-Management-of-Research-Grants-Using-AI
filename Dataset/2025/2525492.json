@@ -1,0 +1,110 @@
+{
+ "awd_id": "2525492",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "BIO-AI: Dendritic Democracy in Drosophila Connectomes.",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032924611",
+ "po_email": "pforlano@nsf.gov",
+ "po_sign_block_name": "Paul Forlano",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 1068160.0,
+ "awd_amount": 1068160.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "A central goal in neuroscience is to understand how networks of neurons process information to generate behavior. Recent advances in imaging have produced detailed maps of brain networks, including individual connections (synapses) between neurons. Yet it remains unclear how to best use these maps to build accurate models of how the brain works. This project will investigate whether neurons integrate information in a surprisingly simple way: by treating all incoming signals equally, regardless of where they land on the neuron's branching input structure, called dendrites. If this \u201cdendritic democracy\u201d proves to be a common feature, it would allow researchers to streamline complex brain models while preserving their accuracy, vastly enhancing computational speed and paving the way for energy efficient, brain inspired AI biotechnologies. The project will also include a strong educational component, integrating findings into high school neuroengineering modules and providing summer research fellowships for students. High school students will use low-cost tools and real behavioral data to explore how brain circuits drive behavior, gaining early exposure to neuroscience, computation, and machine learning.  In addition to its scientific contributions, the work will result in publicly available simulation tools, machine learning pipelines, and curriculum materials that support computational neuroscience and STEM education.\r\n\r\nThis project will evaluate the extent to which dendritic democracy, defined as the passive equalization of synaptic input effectiveness across dendritic locations, is a generalizable feature of Drosophila melanogaster neurons and how it influences the interpretation of electron microscopy (EM)-derived connectome data. The investigators will use detailed multicompartment neuron models, constrained by EM morphology and experimentally measured passive properties, in combination with in vivo electrophysiological validation. A central question is whether synapse number alone is sufficient to predict postsynaptic responses during realistic spatiotemporal activation, or whether accurate modeling requires incorporating dendritic structure and synapse location. The project aims to clarify when simplified neuron models provide sufficient explanatory power and when more complex representations are required. To address this, the investigators will apply machine learning approaches to explore the parameter space supporting dendritic democracy and will develop complementary analytical tools rooted in biophysical theory. These tools will be used to evaluate neurons from multiple brain regions, producing general principles to guide modeling strategies for EM datasets in both Drosophila and other species. \r\n\r\nThis project is co-funded by the Directorate for Biological Sciences Activation Program in the Neural Systems Cluster of the Division of Integrative Organismal Systems and by the Division of Emerging Frontiers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jessica",
+   "pi_last_name": "Ausborn",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jessica Ausborn",
+   "pi_email_addr": "ja696@drexel.edu",
+   "nsf_id": "000760758",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Catherine",
+   "pi_last_name": "von Reyn",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Catherine R von Reyn",
+   "pi_email_addr": "crv33@drexel.edu",
+   "nsf_id": "000727038",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Drexel University",
+  "inst_street_address": "3141 CHESTNUT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PHILADELPHIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "2158956342",
+  "inst_zip_code": "191042875",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "PA03",
+  "org_lgl_bus_name": "DREXEL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XF3XM9642N96"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Drexel University",
+  "perf_str_addr": "2900 W. Queen Lane",
+  "perf_city_name": "PHILADELPHIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "191291033",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "PA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "152Z",
+   "pgm_ref_txt": "BIO-AI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1068160.0
+  }
+ ],
+ "por": null
+}

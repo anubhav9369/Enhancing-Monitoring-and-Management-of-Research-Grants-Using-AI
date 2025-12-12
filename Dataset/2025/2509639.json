@@ -1,0 +1,102 @@
+{
+ "awd_id": "2509639",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CDS&E: New Constraints on Extensions to the Cosmological Standard Model with the Lyman-Alpha Forest.",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032925387",
+ "po_email": "aberlind@nsf.gov",
+ "po_sign_block_name": "ANDREAS BERLIND",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 360620.0,
+ "awd_amount": 360620.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Maps of intergalactic hydrogen, understood through large-scale computer simulations, can reveal how the Universe began. The research team from the University of California, Riverside will use simulations and observations of intergalactic hydrogen to help understand what caused the Universe to expand in the crucial first nanosecond of its existence. The investigators will also measure the mass of the neutrino, the last detected subatomic particle without a known mass, and attempt to understand why different measurements of the current speed with which the Universe is expanding disagree. This project will provide training and research opportunities for graduate and undergraduate students in computational cosmology, and it will support professional development for high school physics teachers.\r\n\r\nThe team will use the PRIYA simulation suite, a comprehensive model for the hydrogen distribution that combines simulations at different resolutions to achieve unprecedented dynamic range. PRIYA has demonstrated a consistent primordial power spectrum measurement between the cosmic microwave background and the Lyman-alpha forest, and has found matter clustering in agreement with weak lensing surveys but lower than the cosmic microwave background, revealing a S8 tension at redshift two. The PRIYA simulations possess the resolution and accuracy to analyze DESI hydrogen data, whose small-scale information will dramatically improve cosmological parameter constraints. The project will combine the PRIYA simulation suite with DESI data and cosmic microwave background data from Planck to address three key goals: measuring the sum of neutrino masses, constraining spectral index running, and testing whether early dark energy models can resolve the Hubble tension. Forecasts suggest this work will detect the first cosmological evidence for non-zero neutrino mass and improve existing constraints on spectral index running. The team will also incorporate high-resolution data from KODIAQ/SQUAD, enabling simultaneously constrained analysis of both cosmology and thermal history. The investigators will further develop the wavelet scattering transform they pioneered as a statistic for Lyman-alpha forest cosmology, which preliminary results suggest may improve cosmological constraints by an order of magnitude.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Simeon",
+   "pi_last_name": "Bird",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Simeon P Bird",
+   "pi_email_addr": "sbird@ucr.edu",
+   "nsf_id": "000761944",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Riverside",
+  "inst_street_address": "200 UNIVERSTY OFC BUILDING",
+  "inst_street_address_2": "",
+  "inst_city_name": "RIVERSIDE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9518275535",
+  "inst_zip_code": "92521",
+  "inst_country_name": "United States",
+  "cong_dist_code": "39",
+  "st_cong_dist_code": "CA39",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MR5QC5FCAVH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Riverside",
+  "perf_str_addr": "200 UNIVERSTY OFC BUILDING",
+  "perf_city_name": "RIVERSIDE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "925210001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "39",
+  "perf_st_cong_dist": "CA39",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121700",
+   "pgm_ele_name": "EXTRAGALACTIC ASTRON & COSMOLO"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "8084",
+   "pgm_ref_txt": "CDS&E"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 360620.0
+  }
+ ],
+ "por": null
+}

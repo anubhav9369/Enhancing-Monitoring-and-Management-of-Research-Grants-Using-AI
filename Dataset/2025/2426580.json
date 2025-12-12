@@ -1,0 +1,114 @@
+{
+ "awd_id": "2426580",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CISE-ANR: SHF: Small: Generating Highly Performant Code via Polyhedral Compilation and Graph-based Learning",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927885",
+ "po_email": "abanerje@nsf.gov",
+ "po_sign_block_name": "Anindya Banerjee",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2028-04-30",
+ "tot_intn_awd_amt": 420000.0,
+ "awd_amount": 420000.0,
+ "awd_min_amd_letter_date": "2025-01-02",
+ "awd_max_amd_letter_date": "2025-01-02",
+ "awd_abstract_narration": "Due to the vast amounts of data and the growing adoption of Artificial Intelligence (AI) applications, there is an increasing demand for programs that can fully leverage the power of High-Performance Computing (HPC) systems. This project aims to develop a framework capable of automatically rewriting programs to run more efficiently on modern multicore and manycore architectures. The project\u2019s novelties are its ability to gain a deeper understanding of complex programs by employing advanced machine learning techniques and ensuring the optimized program aligns with its intended functionality. By analyzing the syntax and structural design of programs, the proposed framework identifies tasks that can be executed in parallel, significantly improving performance and speed. This enables developers to identify optimization opportunities. As programs are transformed to become faster and more efficient, maintaining reliability is paramount. The framework validates that optimized versions produce results consistent with the original, ensuring trustworthiness, particularly in critical domains like scientific computing. The project's impacts are streamlining the scientific software development process, creating faster, more reliable, and purpose-driven programs, and supporting the growing demands of modern computing platforms and technologies.\r\n\r\nThis project introduces a comprehensive framework for improving program performance and reliability by integrating advanced methods in program analysis, parallelization, and validation. The presented framework aims to both identify and generate parallel versions of sequential code. By employing a graph-based multimodal contrastive learning approach, it combines two views of a program: its graph representation using low level virtual machine (LLVM) intermediate representation based graphs and its textual representation from the original source code. Using Graph Neural Networks (GNNs) and Large Language Models (LLMs), the framework uniquely learns intrinsic parallel characteristics. It directly generates parallelized code, eliminating the need for additional data structures or manual annotations. To support parallelization and ensure robust code transformations, this project also focuses on understanding the underlying computations of a program. By leveraging neural architectures, it analyzes and classifies data flow graphs to comprehend program characteristics and generates extensive program variants to train the model. This method enhances the precision of detecting program clones and obfuscated transformations, which is crucial for identifying computational equivalence and guiding optimization decisions. Finally, the project also addresses the challenge of verifying the correctness of complex program transformations, particularly those involving reduction parallelization patterns. The reduction pattern, which leverages algebraic properties like associativity and commutativity, often results in transformations that cannot be directly validated using existing equivalence-checking methods. This module develops new polyhedral validation techniques to handle combinations of reduction parallelization and classical loop transformations (e.g., tiling, skewing, unrolling), ensuring the correctness and reliability of transformed programs. The project aims to advance the state of the art in automatic parallelization, program understanding, and transformation validation, providing a robust framework for optimizing and verifying modern software systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ali",
+   "pi_last_name": "Jannesari",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ali Jannesari",
+   "pi_email_addr": "jannesar@iastate.edu",
+   "nsf_id": "000796985",
+   "pi_start_date": "2025-01-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5918",
+   "pgm_ref_txt": "FRANCE"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 420000.0
+  }
+ ],
+ "por": null
+}

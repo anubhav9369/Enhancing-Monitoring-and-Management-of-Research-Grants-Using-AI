@@ -1,0 +1,102 @@
+{
+ "awd_id": "2514847",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Fault-Tolerant Quantum Error Correction Beyond Foliation",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927421",
+ "po_email": "msbyrd@nsf.gov",
+ "po_sign_block_name": "Mark S. Byrd",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 450000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Quantum computing promises to accelerate scientific progress by solving computational problems faster and more accurately. Scientific computing with standard computers is presently used to improve drug design, develop new electronic materials, and understand the dynamics of subatomic particles. Future quantum computers will enhance scientific computing, but current quantum computers have limited use cases due to noise in quantum systems.  The noise leads to unwanted errors in the computational output and results that cannot be trusted. Quantum error correction is a method for reducing noise using feedback control. It is based on classical error correction, which is critical in our modern information society for both the long-term storage of data and for high-speed wireless communication. Quantum error correction differs from classical error correction in that noise can arise not just in storage and communication, but in the computation itself.  The goal of the project is to make quantum error correction more practical by focusing on the computational errors and how the noise is inferred from measurements. \r\n\r\nIn a simple model of quantum error correction, errors only arise when qubits are idle.  Syndrome measurements can then be used to infer the error without generating additional errors. Fault-tolerant quantum error correction is difficult because errors arise when qubits are idle, when gates are applied, and when they are measured.  The standard approach is to measure the error syndrome multiple times and then infer the error from the syndrome history.  The syndrome measurements can be viewed as being stacked on top of each other in time. This procedure can be mapped to cluster states where copies of the code are stacked or foliated in space. The research project considers fault-tolerant error correction that goes beyond the standard approach including single-shot quantum error correction, quantum data syndrome codes, and non-foliated dynamic codes including Floquet codes and cluster-state-derived codes. The project aims to develop optimized fault-tolerant circuits that reduce the cost of fault-tolerant quantum error correction.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kenneth",
+   "pi_last_name": "Brown",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kenneth R Brown",
+   "pi_email_addr": "kenneth.r.brown@duke.edu",
+   "nsf_id": "000074067",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "728100",
+   "pgm_ele_name": "QIS - Quantum Information Scie"
+  },
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 450000.0
+  }
+ ],
+ "por": null
+}

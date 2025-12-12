@@ -1,0 +1,118 @@
+{
+ "awd_id": "2525500",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ENG-QUANT: Low-Power CryoCMOS Control for Superconducting Qubits with High-Frequency Readout",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032927360",
+ "po_email": "jenlin@nsf.gov",
+ "po_sign_block_name": "Jenshan Lin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 479482.0,
+ "awd_amount": 479482.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Quantum systems are gaining increasing interest in solving computationally challenging problems, enabling high-performance computing, advanced sensing, and secure communication. However, building a scalable quantum system with high fidelity faces a major challenge. Ultimately, millions of qubits are required to achieve practical quantum computing, and a significant challenge lies in their control electronics and interconnectivity. Current cryogenically cooled quantum computers are controlled from room temperature using coaxial cables, which poses a significant bottleneck for long-term scalability due to the limited cooling power of a typical refrigerator. This project aims to demonstrate an ultra-low-power cryogenic complementary metal-oxide-semiconductor (cryoCMOS) integrated architecture for controlling a novel superconducting qubit. This approach will enable scalable, low-power, low-latency control of superconducting qubits with high fidelity. In addition to the research, the education component of this interdisciplinary project addresses the increasing need of workforce development in several critical areas: integrated circuits, quantum engineering, and semiconductor manufacturing. The education plan includes integrating advanced research materials into courses, providing research opportunities for undergraduate and graduate students, advising student project teams, and conducting outreach efforts. \r\n\r\nIn this project, the cryoCMOS architecture will be designed and developed to reduce the power consumption of qubit controllers without sacrificing its functionality. The proposed qubit controller replaces the conventional power-hungry digital-to-analog converter, which generates pulse shapes, with a custom-designed energy-efficient crossbar array. With this novel approach, the cryoCMOS chip can efficiently generate modulated signals required for high-fidelity quantum logical operations. In addition, the team will design a superconducting qubit architecture that reduces measurement errors, which are currently the dominant source of errors in qubit processing. To achieve higher readout and quantum non-demolition fidelity, the team will develop readout resonators with a large detuning from the transmon qubit while maintaining compatibility with standard microwave cabling. The project aims to first demonstrate single-qubit and two-qubit operations with state control and readout pulses generated with the cryoCMOS chip. With successful demonstration, the team will expand its collaborative efforts toward scalable quantum processors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohamed",
+   "pi_last_name": "Ibrahim",
+   "pi_mid_init": "I",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohamed I Ibrahim",
+   "pi_email_addr": "mibrahim@cornell.edu",
+   "nsf_id": "000982397",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Valla",
+   "pi_last_name": "Fatemi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Valla Fatemi",
+   "pi_email_addr": "vf82@cornell.edu",
+   "nsf_id": "000888142",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "096E",
+   "pgm_ref_txt": "High freq comm/sensing circuits"
+  },
+  {
+   "pgm_ref_code": "105E",
+   "pgm_ref_txt": "RF/Microwave & mm-wave tech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 479482.0
+  }
+ ],
+ "por": null
+}

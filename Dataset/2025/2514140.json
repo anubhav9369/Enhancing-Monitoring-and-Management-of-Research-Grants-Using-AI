@@ -1,0 +1,98 @@
+{
+ "awd_id": "2514140",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Frameworks: SINAPSE: Scalable Infrastructure for AI-coupled Predictive Simulation Enhancement",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928104",
+ "po_email": "shabagch@nsf.gov",
+ "po_sign_block_name": "Sharmistha Bagchi-Sen",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 725000.0,
+ "awd_amount": 725000.0,
+ "awd_min_amd_letter_date": "2025-06-25",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "Many critical scientific challenges, from understanding complex diseases to designing innovative materials, rely on sophisticated computer simulations. However, scientists often encounter a \"silicon ceiling,\" where current computational power restricts their ability to model these intricate real-world phenomena accurately enough to achieve major breakthroughs. The SINAPSE project directly addresses this issue by developing a powerful, open-source software toolkit that combines Artificial Intelligence (AI) with High-Performance Computing (HPC). This integration promises to enhance simulation capabilities, effectively offering significant orders-of-magnitude performance gains. SINAPSE will provide foundational software that benefits the broader AI-HPC research community, advancing the field itself. The project is also dedicated to supporting education and training for students in these cutting-edge computational methods, fostering the next generation of STEM professionals. By making advanced simulations more powerful and accessible, SINAPSE serves the national interest by driving innovation and enabling solutions to pressing scientific challenges.\r\n\r\nThe project aims to overcome the \"silicon ceiling\" limiting complex simulations by developing a Scalable Infrastructure for AI-driven Predictive Simulation Enhancements (SINAPSE), delivering an open, sustainable Software Development Kit (SDK) that seamlessly couples Artificial Intelligence (AI) with High-Performance Computing (HPC) workflows. The project will provide functional capabilities through new and enhanced core software elements for AI-coupled HPC and integrated problem-solving frameworks for common scientific discovery patterns. The methodology begins by convening the SDK with a community focus. The SDK will then be populated by creating several novel core software elements and significantly enhancing existing tools like Colmena and RHAPSODY to support diverse AI-HPC coupling needs, including dynamic and asynchronous execution. These components will be assembled into problem-solving frameworks such as \"Muse\" for online surrogate model training, \"Music\" for model-directed sampling, and \"Melody\" for multi-scale campaigns. Finally, the entire SINAPSE SDK and its frameworks will be validated and strengthened through applications in biophysics, focusing on viral glycoprotein dynamics, and materials engineering, specifically for catalyst design.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rommie",
+   "pi_last_name": "Amaro",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rommie E Amaro",
+   "pi_email_addr": "ramaro@ucsd.edu",
+   "nsf_id": "000616571",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego",
+  "inst_street_address": "9500 GILMAN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585344896",
+  "inst_zip_code": "920930021",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "UYTTZT6G9DT1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego",
+  "perf_str_addr": "9500 GILMAN DR",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920930021",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 725000.0
+  }
+ ],
+ "por": null
+}

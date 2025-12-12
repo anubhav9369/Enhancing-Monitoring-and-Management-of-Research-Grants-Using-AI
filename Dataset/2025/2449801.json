@@ -1,0 +1,106 @@
+{
+ "awd_id": "2449801",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Elements: Cyberinfrastructure for Post-Linkage Data Analysis",
+ "cfda_num": "47.070, 47.075",
+ "org_code": "05090000",
+ "po_phone": "7032924278",
+ "po_email": "plsmith@nsf.gov",
+ "po_sign_block_name": "Plato Smith",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 599992.0,
+ "awd_amount": 599992.0,
+ "awd_min_amd_letter_date": "2024-10-09",
+ "awd_max_amd_letter_date": "2024-11-29",
+ "awd_abstract_narration": "The digital revolution has led to a rapid expansion of available data sources. Data integration methods such as record linkage are critically important in generating actionable insights from the combination of data sources in a cost-effective manner. Record linkage merges multiple files by identifying matching records associated with the same entity. Without unique identifiers, this process is often error-prone, bearing the risk of false and missed links, which can compromise data analysis based on the merged file. Building on established implementations of record linkage, this project develops software in popular data science programming languages that addresses potential errors and uncertainty in data analysis performed post-linkage. The development of the software is driven by the needs of federal statistical agencies, researchers and practitioners in health services, and other stakeholders seeking to harness record linkage to unravel the potential of their data. The resulting additional capabilities for linked data analysis support informed decision-making in public administration and health services and enable savings in data collection and human labor. The project provides research opportunities and support for graduate students and delivers educational materials on the record linkage and analysis pipeline, thereby contributing to workforce development and the training of future data scientists.\r\n\r\nExisting software for record linkage is almost entirely dedicated to aspects pertaining to the creation of linked files, leaving a gap in supporting downstream tasks. This project fills this gap by providing software supporting post-linkage data analysis, an evolving subject with various open problems requiring novel statistical and computational tools. Guided by use cases from several application domains, the investigators intend to unify and refine state-of-the-art approaches to post-linkage data analysis in primary and secondary analysis settings given information of varying degrees about the underlying linkage process. The project develops scalable, robust and user-friendly implementations of these approaches embedded in a modular software that is envisioned to ease burdens for users of linked data, enable the validity of analyses based on such data, and propel advances in the field of data integration. The latter is achieved by generating capabilities for validation, benchmarking, and inspiring new avenues of methodological research.\r\n\r\nThis Office of Advanced Cyberinfrastructure award is jointly funded by the Division of Social and Economic Sciences (SES) in the Social, Behavioral and Economic Sciences Directorate (SBE).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Martin",
+   "pi_last_name": "Slawski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Martin Slawski",
+   "pi_email_addr": "ebh3ep@virginia.edu",
+   "nsf_id": "000762135",
+   "pi_start_date": "2024-10-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 599992.0
+  }
+ ],
+ "por": null
+}

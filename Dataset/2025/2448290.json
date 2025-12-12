@@ -1,0 +1,98 @@
+{
+ "awd_id": "2448290",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Anomalous Hall oscillators driven by Rashba spin-orbit torque",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 403697.0,
+ "awd_amount": 403697.0,
+ "awd_min_amd_letter_date": "2025-07-31",
+ "awd_max_amd_letter_date": "2025-07-31",
+ "awd_abstract_narration": "Today\u2019s information technology hardware uses the silicon transistors developed 70 years ago. However, applications such as Artificial Intelligence (AI) can be optimized by different types of elements naturally modelling neurons in human brain. The project will advance such elements implemented by magnetic heterostructures, where information is carried by coherent microwave-frequency magnetization dynamics. In the proposed project, these dynamics will be driven by the Rashba spin-orbit torque \u2013 a torque exerted on the magnetization due to the spin-orbit interaction at electrically biased interfaces between materials. The material properties of the interfaces will be engineered to maximize the device efficiency, while the geometry and the magnetic properties of the devices will maximize the dynamical coherence. The heterostructures will be incorporated into a new device architecture enabling the detection of voltage transverse to the current, which will produce larger signals and will be compatible with a wider range of materials than the usual longitudinal voltage detection. By integrating engineering with the fundamental questions about the mechanism driving magnetization dynamics, the project will impact both the nanomagnetic technologies and the scientific understanding of spin-dependent phenomena at interfaces. The project will also include innovative undergraduate STEM course development, and PI-STEM teacher partnership with a local elementary school, adding much-needed hands-on activities and engagement to the science curriculum.\r\n\r\nMagnetic nano-oscillators driven by spin Hall effect (SHE) - the spin Hall nano-oscillators (SHNO) \u2013 find applications in microwave generation, neuromorphics, and magnonics. However, they suffer from low coherence due to small oscillation volume, large Joule dissipation due to the high resistivity of efficient SHE materials such as heavy metals, and small output signals produced by anisotropic magnetoresistance (AMR). The goal of the proposed research will be to develop approaches that can overcome these limitations. First, heterostructures with large interfacial spin-orbit torques (SOTs) driven by the interfacial Rashba effect will be developed, without SHE source metals. By obviating the need for current to pass through metallic SHE sources, Joule dissipation will be reduced and the output power of oscillators will be increased. Large built-in effective interfacial electric fields \u2013 the basis for the Rashba effect \u2013 will be achieved by engineering graded oxidation or nitridation of the interfaces. Second, the net magnetic anisotropy will be minimized by magnetic heterostructure engineering. This will enable oscillation of large magnetic volumes, resulting in increased coherence. Third, larger output will be generated using anomalous Hall effect (AHE) instead of AMR, which will be compatible with a wider range of materials including antiferromagnets. The SOTs in the developed heterostructures and devices will be characterized by the nonlinear harmonic mixing technique, SOT-ferromagnetic resonance, and by microwave spectroscopy. In addition to magnetic nano-oscillators, the developed approaches will benefit other applications of SOTs, such as magnetic random access memory and magnetic memristors. The project will contribute to training of high-tech and academic workforce, integrate outreach to elementary school, and develop a novel freshman hands-on course providing a pipeline for increased STEM major enrollment.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sergei",
+   "pi_last_name": "Urazhdin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sergei Urazhdin",
+   "pi_email_addr": "surazhd@emory.edu",
+   "nsf_id": "000325783",
+   "pi_start_date": "2025-07-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Emory University",
+  "inst_street_address": "201 DOWMAN DR NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4047272503",
+  "inst_zip_code": "303221061",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "EMORY UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "S352L5PJLMP8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Emory University",
+  "perf_str_addr": "201 DOWMAN DR NE",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303221061",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "107E",
+   "pgm_ref_txt": "Magnetics and spin electronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 403697.0
+  }
+ ],
+ "por": null
+}

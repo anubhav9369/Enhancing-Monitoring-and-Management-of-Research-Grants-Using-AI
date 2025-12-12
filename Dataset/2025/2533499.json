@@ -1,0 +1,102 @@
+{
+ "awd_id": "2533499",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Numerical Methods and Differential Geometry",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 190527.0,
+ "awd_amount": 151869.0,
+ "awd_min_amd_letter_date": "2025-05-22",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Partial differential equations (PDEs) model a wide variety of phenomena, ranging from how an airplane wing deforms in response to turbulence, to how radio waves travel through and around objects, to how black holes generate gravitational waves when they merge. Numerical analysts develop algorithms for simulating these systems by solving PDEs on a computer; these simulations enable engineers and scientists to develop prototypes and to interpret data from sensors. For example, the NSF-funded Nobel-winning detection of gravitational waves would not have been possible without advances in numerical analysis. In recent decades, numerical analysts discovered that ideas from differential geometry, an area of pure mathematics, can be used to develop good algorithms for solving PDEs. In fact, these ideas help not only for geometric problems in fields of study like computer vision and general relativity, but also for fields like electromagnetism that have little to do with geometry. Although applying differential geometry to numerical analysis has been very successful, thus far this link has been explored only for a small number of differential geometry ideas. In this project, the investigators will continue exploring this link, taking more ideas from differential geometry and applying them to develop new numerical algorithms. These algorithms could then be used both in applied areas, by solving PDEs in science and engineering, and in pure areas, by solving PDEs in differential geometry itself. The project will also support the training of graduate student researchers.\r\n\r\nThis project focuses on problems at the cusp of numerical analysis and differential geometry.  It deals specifically with the design of finite element methods for PDEs that involve vector fields and tensor fields on Riemannian manifolds.  In the long term, these efforts have the potential to lead to robust numerical methods for solving geometric PDEs like the Einstein field equations, which are useful for studying gravitational wave signals, as well as PDEs like the elasticity equations, which model how objects deform under stress. This project has three main goals. The first is to develop a new family of finite elements for discretizing algebraic curvature tensors and other bi-forms---tensor products of differential forms---on simplicial triangulations. The second goal is to develop an intrinsic finite element discretization of the Bochner Laplacian, which is a basic differential operator in Riemannian geometry that differs from the familiar Hodge Laplacian from finite element exterior calculus. The third goal is to leverage what we learn to design numerical methods for a wide range of geometric problems, such as computing spectra of elliptic operators on manifolds, simulating intrinsic geometric flows, and solving prescribed curvature problems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Evan",
+   "pi_last_name": "Gawlik",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Evan S Gawlik",
+   "pi_email_addr": "egawlik@scu.edu",
+   "nsf_id": "000734031",
+   "pi_start_date": "2025-05-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Santa Clara University",
+  "inst_street_address": "500 EL CAMINO REAL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SANTA CLARA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4085544764",
+  "inst_zip_code": "950504776",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "CA17",
+  "org_lgl_bus_name": "PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLARA COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YE8LRJWSY3K9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Santa Clara University",
+  "perf_str_addr": "500 EL CAMINO REAL",
+  "perf_city_name": "SANTA CLARA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "950504776",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 151869.0
+  }
+ ],
+ "por": null
+}

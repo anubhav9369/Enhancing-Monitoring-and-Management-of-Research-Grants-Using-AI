@@ -1,0 +1,118 @@
+{
+ "awd_id": "2504143",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: SHF: Medium: Probabilistic Concurrent Outcome Logic (pcOL) -- Expressive Specifications for Concurrent Randomized Programs",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032920000",
+ "po_email": "amarcus@nsf.gov",
+ "po_sign_block_name": "Andrian Marcus",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 450000.0,
+ "awd_amount": 333627.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "Software bugs can have disastrous consequences, ranging from financial costs to loss of human life. As a result, for high-stakes systems, software vendors are increasingly applying techniques that can prove the absence of various kinds of bugs. However, existing techniques have limitations that make them inapplicable for certain types of programs that make use of randomness, which is common in sensitive software domains such as cryptography and machine learning. This project will develop new techniques for reasoning about randomness in programs, which will make it possible to prove important properties about these programs, thereby improving software quality in these critical areas. In addition, the team of researchers will develop educational materials to make the project's ideas more broadly accessible to students, researchers, and industrial practitioners.\r\n\r\nThis project targets programs that exhibit two important kinds of effectful features: concurrency and randomization. Existing formal verification techniques cannot handle the complexity and expressivity of many programming language features, and these features make it harder to write, test, and reason about programs. Establishing correctness in the presence of just one of these features is hard enough, and it only becomes more difficult when they are combined. This project will develop program logics and reasoning tools that can enable more precise, compositional analysis of concurrent randomized programs by building on a new semantic model of randomness and concurrency. The investigators will formally verify the soundness of the logic and build a framework for using it inside of an interactive theorem prover. This formalized framework will facilitate further breakthroughs in verification of concurrent randomized programs in different domains.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Tassarotti",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph D Tassarotti",
+   "pi_email_addr": "jt4767@nyu.edu",
+   "nsf_id": "000810613",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New York University",
+  "inst_street_address": "70 WASHINGTON SQ S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW YORK",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "2129982121",
+  "inst_zip_code": "100121019",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NY10",
+  "org_lgl_bus_name": "NEW YORK UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NX9PXMKW5KW8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New York University",
+  "perf_str_addr": "70 WASHINGTON SQ S",
+  "perf_city_name": "NEW YORK",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "100121019",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NY10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7944",
+   "pgm_ref_txt": "SOFTWARE ENG & FORMAL METHODS"
+  },
+  {
+   "pgm_ref_code": "8206",
+   "pgm_ref_txt": "Formal Methods and Verification"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "7943",
+   "pgm_ref_txt": "PROGRAMMING LANGUAGES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 333627.0
+  }
+ ],
+ "por": null
+}

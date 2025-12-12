@@ -1,0 +1,93 @@
+{
+ "awd_id": "2517840",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "GEM: Stochastic Parameterization of Lightning-Generated Whistler (LGW) Diffusion Coefficients",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032927544",
+ "po_email": "chihuang@nsf.gov",
+ "po_sign_block_name": "Chia-Lin Huang",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 292793.0,
+ "awd_amount": 292793.0,
+ "awd_min_amd_letter_date": "2025-02-10",
+ "awd_max_amd_letter_date": "2025-04-30",
+ "awd_abstract_narration": "Understanding the dynamics of radiation belt electrons is critical for our ability to predict the effects of solar storms on the near-Earth space environment and our upper atmosphere. In the radiation belts, these electrons can pose problems for satellite operations. Plasma waves direct these electrons into our atmosphere, where they can influence upper atmospheric chemistry and dynamics. This project will incorporate methods from the weather and climate fields (stochastic parameterization and ensemble modeling) to better model and predict the result of these wave-particle interactions. This project will expose the broader space physics community to these compelling tools from the weather and climate fields. This project will support a first-time early career PI.\r\n\r\nLightning-generated whistlers (LGWs) are one of the primary drivers of radiation belt electron precipitation within the plasmasphere. The primary objective of this project is to study the interaction of LGWs with radiation belt electrons using event-specific diffusion coefficients to more accurately capture the rate of pitch angle scattering and precipitation into the Earth\u2019s atmosphere for eventual implementation into a stochastically parameterized diffusion model. Stochastic parameterization is a modeling scheme where the variables representing the sub grid physics (i.e., diffusion coefficients representing wave-particle interactions) are selected randomly from a distribution instead of using a deterministic average. This allows for explicit variance of the sub-grid physics and better error quantification through ensemble modeling. Quantifying and understanding the temporal and spatial scale sizes of the variability of each wave mode is a crucial first step in implementing a complete stochastically parameterized radiation belt diffusion model. This project seeks to accomplish this for LGWs, an important wave mode inside the plasmasphere.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Shane",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander D Shane",
+   "pi_email_addr": "adshane@umich.edu",
+   "nsf_id": "000900430",
+   "pi_start_date": "2025-02-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "575000",
+   "pgm_ele_name": "MAGNETOSPHERIC PHYSICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 292793.0
+  }
+ ],
+ "por": null
+}

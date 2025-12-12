@@ -1,0 +1,158 @@
+{
+ "awd_id": "2511989",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Research Infrastructure: MRI: Acquisition of a High-Performance GPU Cluster for Large-Scale AI",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 597771.0,
+ "awd_amount": 597771.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "This project establishes state-of-the-art graphical processing unit (GPU)-based High-Performance Computing Infrastructure (HPCI) at the University of Nevada, Reno (UNR) to advance research in efficient and scalable multi-modal artificial intelligence (AI). As AI systems increasingly integrate and analyze diverse data sources\u2014including images, video, audio, text, and real-time sensor streams\u2014there is a critical national need for infrastructure that supports the generation, compression, and high-performance processing of large-scale, multi-modal datasets. The HPCI resources empower researchers to develop next-generation AI models and data workflows, enabling rapid innovation in areas such as intelligent data fusion, privacy-preserving analytics, and distributed computation. The project fosters broad academic, industry, and community collaborations, and expands participation in AI and STEM fields through outreach and educational activities open to all. By promoting advances in data-centric and efficient AI, this initiative accelerates scientific progress and supports national interests in technology, health, and public welfare.\r\n\r\nThe project deploys a cutting-edge GPU cluster to support five integrated research thrusts: (1) construction of diverse and representative multi-modal datasets for robust model development; (2) creation of data-efficient distillation and compression techniques to reduce storage and computational costs without sacrificing fidelity; (3) design and optimization of high-performance multi-modal large language models for scalable analysis and real-time applications; (4) implementation of federated and privacy-preserving learning paradigms for secure, decentralized data collaboration; and (5) integration of real-time IoT and sensor data streams to enable dynamic analytics in distributed environments. These efforts address foundational challenges in scalable AI, data-centric computing, and privacy-aware analytics. The resulting infrastructure and research outputs support a wide range of scientific, industrial, and societal applications, empowering impactful research on in next-generation, efficient, and trustworthy multi-modal AI.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lei",
+   "pi_last_name": "Yang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lei Yang",
+   "pi_email_addr": "leiy@unr.edu",
+   "nsf_id": "000675645",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ping",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ping Liu",
+   "pi_email_addr": "pingl@unr.edu",
+   "nsf_id": "0000A03VN",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Emily",
+   "pi_last_name": "Hand",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Emily M Hand",
+   "pi_email_addr": "emhand@unr.edu",
+   "nsf_id": "000784557",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "RUI",
+   "pi_last_name": "HU",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "RUI HU",
+   "pi_email_addr": "ruihu@unr.edu",
+   "nsf_id": "000929131",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ankita",
+   "pi_last_name": "Shukla",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ankita Shukla",
+   "pi_email_addr": "ankitas@unr.edu",
+   "nsf_id": "0000A0MXQ",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Board of Regents, NSHE, obo University of Nevada, Reno",
+  "inst_street_address": "1664 N VIRGINIA ST # 285",
+  "inst_street_address_2": "",
+  "inst_city_name": "RENO",
+  "inst_state_code": "NV",
+  "inst_state_name": "Nevada",
+  "inst_phone_num": "7757844040",
+  "inst_zip_code": "895570001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NV02",
+  "org_lgl_bus_name": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER ED",
+  "org_prnt_uei_num": "WLDGTNCFFJZ3",
+  "org_uei_num": "WLDGTNCFFJZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Board of Regents, NSHE, obo University of Nevada, Reno",
+  "perf_str_addr": "1664 N VIRGINIA ST # 285",
+  "perf_city_name": "RENO",
+  "perf_st_code": "NV",
+  "perf_st_name": "Nevada",
+  "perf_zip_code": "895570001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NV02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  },
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  },
+  {
+   "pgm_ele_code": "736300",
+   "pgm_ele_name": "Networking Technology and Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1189",
+   "pgm_ref_txt": "MAJOR RESEARCH INSTRUMENTATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 597771.0
+  }
+ ],
+ "por": null
+}

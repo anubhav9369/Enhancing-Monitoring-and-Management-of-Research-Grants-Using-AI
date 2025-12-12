@@ -1,0 +1,98 @@
+{
+ "awd_id": "2512565",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Coarse-grained models for simulating fluid suspensions under confinement",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 292686.0,
+ "awd_amount": 292686.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "The behavior of fluids containing suspended elastic objects is significantly influenced by the domain geometry and interactions with boundaries. For example, it is well-known that the fluid drag on particles in dead-end channels is greater than in free space. This is relevant in many applications, including biological fluids such as blood, in which the suspended red blood cells and platelets become non-uniformly distributed in the bloodstream as a result of boundary interactions. However, confined suspensions are challenging to simulate because of their multiscale nature and the difficulty of resolving the thin films that may develop between particles and boundaries. This project aims to model and simulate confined suspensions in order to accurately capture the effects of boundaries. The goal is to study the fluid dynamics of suspensions in confined geometries and accelerate simulations of these phenomena.\r\n\r\nTo achieve the project goals, a hierarchy of mathematical models and numerical methods will be developed. Simulations of fluid-structure interaction will be performed to explicitly capture the wall-induced migration of elastic objects away from walls, and these will be used to parameterize a reduced model of elastic deformations and corresponding lift coefficients. In addition, the classical Oldroyd-B model of non-Newtonian fluids will be revisited to incorporate the effect of a heterogeneous particle distribution near boundaries, and the method of images will be applied to extend the Stokeslet solution to the case of dead-end geometries. Taken together, these projects will provide a set of practical numerical and analytical tools to study the behavior of suspensions in the presence of boundaries. As broader outcomes, the results from this work will be integrated into course materials, and open-source implementations of the resulting computational methods will be released to make them widely accessible.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Fai",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas G Fai",
+   "pi_email_addr": "tfai@brandeis.edu",
+   "nsf_id": "000654893",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brandeis University",
+  "inst_street_address": "415 SOUTH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "WALTHAM",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "7817362121",
+  "inst_zip_code": "024532728",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "BRANDEIS UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MXLZGAMFEKN5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brandeis University",
+  "perf_str_addr": "415 SOUTH ST",
+  "perf_city_name": "WALTHAM",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "024532728",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 292686.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2541725",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Multimodal AI for Elucidating Genome Structure-Function Relationships in Human Brain Cells",
+ "cfda_num": "47.074",
+ "org_code": "08070000",
+ "po_phone": "7032927323",
+ "po_email": "mhingora@nsf.gov",
+ "po_sign_block_name": "Manju Hingorani",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-08-06",
+ "awd_max_amd_letter_date": "2025-08-06",
+ "awd_abstract_narration": "The human brain comprises a remarkable variety of cell types that collectively support sensation, cognition, and behavior. This diversity arises not from differences in genetic code, but from how DNA is physically organized and regulated in each cell. Understanding the 3D structure of the genome \u2013 and how it controls which genes are active in different brain cells \u2013 is essential for advancing neuroscience, regenerative medicine, and genome engineering. This project will use AI to investigate how chromatin accessibility, spatial DNA structure, and gene activity work together to establish cell identity in the human brain. The team will build new AI tools to reconstruct the three-dimensional organization of chromosomes from single-cell experiments and to simulate how changes in genome structure affect gene expression. These efforts will create a detailed map of chromatin structure across brain cell types and provide computational models to explain how genetic information is interpreted differently in different cells. The results will support basic research on brain development and disease, and will help guide future interventions based on genome editing. The project will also generate community resources such as open-source software and public data releases, and will provide training opportunities for early-career researchers.\r\n\r\nThis research brings together computational biophysics, machine learning, and genomics to develop a unified generative framework for modeling chromatin structure and function. The first aim focuses on developing ChromoGen2, a scalable, high-resolution architecture for single-cell 3D genome structure prediction using only DNA sequence and chromatin accessibility data. By incorporating architectural innovations that address long-standing computational constraints in structural genomics, ChromoGen2 enables full-chromosome inference at 5-kilobase resolution. This capability will support the construction of the first high-resolution atlas of single-cell 3D genome structures across 188 human brain cell types, offering an unprecedented view of spatial genome organization in the brain. The second aim is to develop CRAFT, a multimodal DNA language model that integrates DNA sequence, chromatin accessibility, 3D structure, and gene expression into a unified generative framework. Unlike existing models, which are limited to fixed input-output mappings, CRAFT will support flexible, bidirectional inference and cross-modal prediction, allowing any modality to be reconstructed from others. This will enable causal testing of regulatory hypotheses, such as how 3D structure influences expression, and lay the groundwork for rational sequence design in regulatory genomics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bin",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bin Zhang",
+   "pi_email_addr": "binz@MIT.EDU",
+   "nsf_id": "000737179",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "E2NYLCDML6V1",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

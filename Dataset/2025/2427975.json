@@ -1,0 +1,122 @@
+{
+ "awd_id": "2427975",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FMSG: Cyber: Molecular Layer Deposition for EUV Photoresists",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2027-05-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-05-29",
+ "awd_max_amd_letter_date": "2025-05-29",
+ "awd_abstract_narration": "This project aims to help advance the field of semiconductor manufacturing by addressing a critical challenge in extreme ultraviolet (EUV) photolithography, a technology essential for creating the next generation of integrated circuits with features smaller than 10 nanometers. EUV photolithography is a process used to pattern extremely small features on silicon wafers, which are the building blocks of electronic devices. In this project, development of new photoresists will be carried out. These photoresists are light-sensitive materials used to form a patterned coating on a surface. To develop these photoresists, fundamental studies will be performed to learn what chemical reactions take place when these photoresists are exposed to light. By improving these materials, the project seeks to enhance the effectiveness of EUV photolithography, thereby supporting the growth of the semiconductor industry. This advancement is crucial, as it will enable the production of smaller, faster, and more efficient electronic devices, which are in high demand in today's technology-driven world. Additionally, the project includes educational initiatives to inspire and prepare students for careers in the semiconductor industry. These efforts align with the goals of the US CHIPS Act, which aims to strengthen the domestic semiconductor workforce.\r\n\r\nDuring the two-year funding period, this proposed research will uncover the mechanisms behind the crosslinking and chemical etching of ultrathin photoresist films grown by molecular layer deposition (MLD), a vapor-phase method for depositing ultrathin organic-inorganic films with precise control over thickness and composition. Experimentally, the project will uncover process-structure-property relationships by varying the reactants used in the MLD process, leveraging a high-throughput MLD reactor to create a library of aluminum-based EUV photoresists with a variety of organic functional groups of varying photoreactivity and likelihood of forming crystalline structures. These films will be thoroughly characterized to determine the resulting films\u2019 chemical composition, thickness, and surface morphology before and after photopatterning with UV and e-beam sources. This effort will be paired with reactive molecular dynamics computational modeling to further understand film photoreactivity and organic reactant alignment during deposition. This combined experimental and computational approach aims to create a map of the structure of these photoresist films, which will be used to gain insights into the factors that influence strong EUV photoresist performance, supporting the broader adoption of EUV photolithography. This effort represents a significant technological advancement, as the limited existing work in the use of vapor-deposited EUV photoresists has largely focused on proof-of-concept patterning with new elements. Exploiting this library, we will perform convergence research, constructing an experimental model of these organic-inorganic films and comparing it to a computational model constructed through ReaxFF molecular dynamics simulations.\r\n\r\nThis Future Manufacturing award is co-funded by the Divisions of Materials Research (DMR) and Chemistry (CHE) in the Directorate for Mathematical and Physical Sciences (MPS), and the division of Electrical, Communications and Cyber Systems (ECCS) in the Engineering Directorate (ENG).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Bergsman",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "David S Bergsman",
+   "pi_email_addr": "dbergs@uw.edu",
+   "nsf_id": "000846802",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Aniruddh",
+   "pi_last_name": "Vashisth",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aniruddh Vashisth",
+   "pi_email_addr": "vashisth@uw.edu",
+   "nsf_id": "000835030",
+   "pi_start_date": "2025-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Washington",
+  "inst_street_address": "4333 BROOKLYN AVE NE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "2065434043",
+  "inst_zip_code": "981951016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "UNIVERSITY OF WASHINGTON",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HD1WMN6945W6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Washington",
+  "perf_str_addr": "4333 BROOKLYN AVE NE",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981951016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "142Y00",
+   "pgm_ele_name": "FM-Future Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "106Z",
+   "pgm_ref_txt": "Microelectronics and Semiconductors"
+  },
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "8249",
+   "pgm_ref_txt": "Sustainable Materials"
+  },
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

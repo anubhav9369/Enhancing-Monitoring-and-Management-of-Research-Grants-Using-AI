@@ -1,0 +1,106 @@
+{
+ "awd_id": "2440998",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Simulating Quantum Many-Body Phenomena with Fluxonium Qubits",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924892",
+ "po_email": "tdurakie@nsf.gov",
+ "po_sign_block_name": "Tomasz Durakiewicz",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2030-08-31",
+ "tot_intn_awd_amt": 798732.0,
+ "awd_amount": 798732.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Non-technical abstract: The collective behavior of quantum particles that compose materials presents us with numerous puzzles. This project aims to solve some of these puzzles by recreating such collective behavior within superconducting circuits. The project employs fluxonium qubits, which behave like magnetic atoms when cooled to low temperatures. Utilizing the greater freedom in design and the control that circuits provide, the research team intends to study multiple collective phenomena that appear in materials with magnetic impurities. Such phenomena include transitions between quantum phases of matter, quantum entanglement, and the process by which quantum systems reach thermal equilibrium. The research results are expected to advance our understanding of quantum states of matter. Selected ideas inspired by the research are adapted for live demonstrations presented by the principal investigator during The Wonders of Physics annual shows at the University of Wisconsin-Madison, as well as for museum exhibits, and for hands-on activities designed for teachers, thereby increasing K-12 students' engagement with quantum science and technology. The research activities provide training in state-of-the-art quantum information science and condensed matter physics to undergraduate and graduate students.\r\n\r\nTechnical abstract:\r\nWhile quantum many-body phenomena play a central role in condensed matter physics, their experimental investigation is often challenging in natural settings. This project uses superconducting circuits to develop a scalable platform for analog quantum simulations of several many-body models. The platform's key elements are fluxonium qubits, chosen for their strong anharmonicity and record-high coherence, and high-impedance transmission lines. Employing fluxonium in the role of spin, the project aims to implement single- and multi-channel Kondo, two-impurity Kondo, Kondo lattice, and spin chain models. The research goals include testing theoretical predictions for a ferromagnetic\u2013antiferromagnetic quantum phase transition, entanglement scaling, non-Fermi liquid behavior, and many-body localization. The research findings are likely to provide new insights into fundamental problems in condensed matter physics, including quantum phase transitions, high-temperature superconductivity, heavy-fermion materials, and the thermodynamics of large quantum systems. The latter is not only of fundamental interest but also helps in the design and control of multi-qubit quantum processors.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Roman",
+   "pi_last_name": "Kuzmin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Roman Kuzmin",
+   "pi_email_addr": "rkuzmin@wisc.edu",
+   "nsf_id": "000885609",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "105Y00",
+   "pgm_ele_name": "QISET-Quan Info Sci Eng & Tech"
+  },
+  {
+   "pgm_ele_code": "171000",
+   "pgm_ele_name": "CONDENSED MATTER PHYSICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 798732.0
+  }
+ ],
+ "por": null
+}

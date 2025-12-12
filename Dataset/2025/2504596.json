@@ -1,0 +1,114 @@
+{
+ "awd_id": "2504596",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: CSR: Medium: LANDS - Learning-Based Adaptive Networked Systems for Delivery of Short Videos",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924442",
+ "po_email": "shimishr@nsf.gov",
+ "po_sign_block_name": "Shivakant Mishra",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 436384.0,
+ "awd_amount": 320881.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "Short-video systems deliver videos only a few seconds or at most a few minutes long, in a personalized way, to billions of users around the globe. In the last few years, they have become increasingly popular for delivering societally beneficial content, such as microlearning, news, citizen reporting, advertising, user-generated content, testimonials, sports feeds, and more. Unlike long-form multimedia which is well-studied, short-video systems are unique in terms of the associated user behaviors, video and audio content, recommender algorithms, and the delivery pipelines that transport videos from content providers via content distribution networks (CDNs) and eventually to user devices. This transformative project will help improve both the efficiency of, and our understanding of, the class of short-video systems. The project plan draws on a unique and innovative combination of systems and networking design philosophies, along with machine learning (ML) techniques, complemented by real human user studies; this combination is essential for short-video systems because of their user-facing nature. The expected project outcomes include new video delivery techniques that use less compute and network resources and reduce consumption of user devices\u2019 energy; new analytical understandings of the behavior of short video systems; and browser plugins and open software. Educational content will include course modules, including ones for online courses, focused on short-video streaming systems. The project will broaden participation in computing for Americans from any and all backgrounds, including high-school students, undergraduate researchers, and graduate students.\r\n\r\n\r\nTechnically, this project will build transformative new ways of building learning-based and adaptive techniques for short-video systems. Our project, called \"LANDS - Learning-based Adaptive Networked systems for Delivery of Short videos,\" will build three systems: (A) MidLand, a system that uses novel video reordering to reduce content distribution network (CDN) costs of midgress and cache size investment, while maintaining high user engagement and QoE (Quality of Engagement); (B) HighLand, a system that leverages ML pipelines, such as large vision language models, to predict user behavior and capture recommender algorithm performance as well as improve system-level metrics like cache effectiveness and adaptive bit rate adaptation; and (C) LowLand, a system that executes the ML pipelines of HighLand in fast, resource-efficient, and scalable ways, with support for expressing many types of useful analytic pipelines. Overall, LANDS will consist of both \"learning-independent\" layers and rich ML-driven layers atop them to further improve performance. The project plan contains a carefully crafted mix of system design and implementation, along with ML techniques (e.g., Large Language Models) as well as human user studies (with IRB approval). The team is interdisciplinary, with expertise across distributed systems, networking, ML systems, and human-computer interaction.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Deepti",
+   "pi_last_name": "Raghavan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Deepti Raghavan",
+   "pi_email_addr": "deepti_raghavan@brown.edu",
+   "nsf_id": "000932496",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171400",
+   "pgm_ele_name": "Special Projects - CNS"
+  },
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 320881.0
+  }
+ ],
+ "por": null
+}

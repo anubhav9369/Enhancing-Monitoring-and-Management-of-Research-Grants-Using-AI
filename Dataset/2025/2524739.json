@@ -1,0 +1,102 @@
+{
+ "awd_id": "2524739",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Fellowship Award",
+ "awd_titl_txt": "AGS-PRF: Quantifying Solar Wind Input Uncertainty in Global Geospace Models with Perturbed Input Ensemble Modeling",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032927544",
+ "po_email": "chihuang@nsf.gov",
+ "po_sign_block_name": "Chia-Lin Huang",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 202000.0,
+ "awd_amount": 202000.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Physics-based simulations of Earth\u2019s magnetosphere are critical for understanding and predicting the impacts of space weather on national infrastructure in space and the Earth. These simulations rely on solar wind measurements at the first Earth-Sun Lagrange point (L1) upstream of Earth for their inputs. Significant uncertainty is associated with these inputs propagating through the models and affecting their outputs, but these effects remain poorly understood. This postdoc project will quantify the effects of uncertain solar wind inputs on the Multiscale Atmosphere-Geospace Environment (MAGE) geospace model to guide improvements to the model. It will also develop an extensible ensemble modeling framework that can be applied to a wide range of geospace models. The study is the most statistically reliable quantification of the uncertainties in MAGE, and the most statistically powerful study of global geospace model uncertainty. \r\n\r\nThis postdoctoral research fellowship award will 1) quantify the sensitivity of the MAGE geospace model to input uncertainty, 2) identify what differences between MAGE\u2019s outputs and observed magnetospheric state cannot be explained by uncertain boundary conditions alone, and 3) develop an extensible ensemble modeling framework. This goal will be accomplished by generating perturbed model inputs using the Probabilistic Regressor for Input to the Magnetosphere Estimation (PRIME), a highly accurate L1-to-Earth solar wind propagation algorithm capable of reliable uncertainty estimation. For a series of 122 geomagnetic storms, solar wind data will be propagated from L1 to Earth using PRIME. The uncertainties of solar wind conditions will be used to draw statistically consistent ensembles of perturbed inputs. These inputs then drive individual MAGE simulations (members) that together constitute an ensemble estimate of the storm. This includes magnetospheric configuration as well as geomagnetic activity. Comparing the ensemble estimates to the real geomagnetic activity and measurements of the geospace environment during the storms will determine what differences between model outputs and observations cannot be explained by uncertainties in the solar wind driver.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Connor",
+   "pi_last_name": "O'Brien",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Connor O'Brien",
+   "pi_email_addr": "",
+   "nsf_id": "0000A220B",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "O'Brien, Connor",
+  "inst_street_address": "",
+  "inst_street_address_2": "",
+  "inst_city_name": "Boston",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "",
+  "inst_zip_code": "02215",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MA08",
+  "org_lgl_bus_name": "",
+  "org_prnt_uei_num": "",
+  "org_uei_num": ""
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University Applied Physics Lab",
+  "perf_str_addr": null,
+  "perf_city_name": "Laurel",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "207236099",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MD03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "713700",
+   "pgm_ele_name": "Postdoctoral Fellowships"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7137",
+   "pgm_ref_txt": "POSTDOCTORAL FELLOWSHIPS"
+  },
+  {
+   "pgm_ref_code": "5750",
+   "pgm_ref_txt": "MAGNETOSPHERIC PHYSICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 202000.0
+  }
+ ],
+ "por": null
+}

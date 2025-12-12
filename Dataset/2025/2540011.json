@@ -1,0 +1,114 @@
+{
+ "awd_id": "2540011",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: LLM based Enrichment for Data Analytics",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032922232",
+ "po_email": "sdraghic@nsf.gov",
+ "po_sign_block_name": "Sorin Draghici",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 60000.0,
+ "awd_amount": 60000.0,
+ "awd_min_amd_letter_date": "2025-07-26",
+ "awd_max_amd_letter_date": "2025-07-26",
+ "awd_abstract_narration": "As large language models (LLMs) transform how we interact with information, this project explores how such generative AI technologies can be tightly integrated into the core of data analytics systems. The goal is to make advanced artificial intelligence (AI) capabilities a seamless part of data processing pipelines, allowing organizations to ask richer questions and get faster, more insightful answers from their data. By enhancing a prior system called EnrichDB\u2014which successfully combined machine learning with database queries\u2014this research aims to expand its capabilities to work with modern LLMs, improving how data is enriched, interpreted, and acted upon. Beyond technical innovation, this work could have real-world impact in areas like disaster response, where quick and intelligent analysis of fast-changing data is critical. The research will also contribute to workforce development through student involvement and collaborations with public agencies.\r\n\r\nThis proposal aims to explore mechanisms to seamlessly embed large language models into data processing in the context of large scale data analytics applications. A key contribution will be the design of a middleware component, the LLM Extender, that mediates between user analytics tasks and a set of LLMs available through API-based access with diverse performance, cost, and latency profiles. The middleware will support automatic selection of appropriate LLMs per task, optimizing for user-defined tradeoffs among quality, cost, and latency. The integration of the LLM Selector into EnrichDB will allow real-time query execution to dynamically invoke LLM-based enrichment functions. This preliminary work will assess the feasibility of embedding LLMs into large-scale, real-time data analytics and lay the groundwork for future agentic data systems. The research will also explore applications in disaster planning and response, leveraging existing partnerships with local agencies during the Great California Shakeout.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sharad",
+   "pi_last_name": "Mehrotra",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sharad Mehrotra",
+   "pi_email_addr": "sharad@ics.uci.edu",
+   "nsf_id": "000491471",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Nalini",
+   "pi_last_name": "Venkatasubramanian",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nalini Venkatasubramanian",
+   "pi_email_addr": "nalini@ics.uci.edu",
+   "nsf_id": "000315745",
+   "pi_start_date": "2025-07-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Irvine",
+  "inst_street_address": "160 ALDRICH HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "IRVINE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9498247295",
+  "inst_zip_code": "926970001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "47",
+  "st_cong_dist_code": "CA47",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+  "org_prnt_uei_num": "MJC5FCYQTPE6",
+  "org_uei_num": "MJC5FCYQTPE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Irvine",
+  "perf_str_addr": "2091 Bren Hall",
+  "perf_city_name": "IRVINE",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "926973425",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "47",
+  "perf_st_cong_dist": "CA47",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 60000.0
+  }
+ ],
+ "por": null
+}

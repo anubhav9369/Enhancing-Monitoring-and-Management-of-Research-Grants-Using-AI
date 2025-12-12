@@ -1,0 +1,98 @@
+{
+ "awd_id": "2518495",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Postdoctoral Fellowship: EAR-PF: Temporal Discretization and Areal Metrics for Revealing Statistically Powerful Patterns in Volcanic Processes",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032927977",
+ "po_email": "rteasdal@nsf.gov",
+ "po_sign_block_name": "Rachel Teasdale",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 387558.0,
+ "awd_amount": 387558.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Understanding volcanoes is essential both for advancing knowledge of the dynamic processes that shape our planet and for ensuring public welfare and safety. Volcanic activity provides critical insights into systems that connect Earth\u2019s surface to deep within the planet, and volcanoes pose some of the most unpredictable natural hazards. This project will improve how scientists interpret information about when and where volcanoes have erupted, information which is often incomplete and inconsistent. These insights will support the development of regional statistics to improve hazard assessment and forecasting, an urgent national need identified by the National Academies of Sciences, Engineering, and Medicine. They will also clarify the temporal and spatial scales that drive volcanic behavior. To facilitate participation in science, the project will implement a two-part educational model. It will begin with a general education math course that engages a wide range of students and builds confidence and trust through fundamental, accessible ideas, followed by a second course where students practice framing questions using their newly learned mathematical tools. This emphasis on question-framing is inspired by the research itself, which advances volcanic interpretation by recasting complex Earth science problems as fundamental statistical questions, ones that could arise in an introductory math class.\r\n\r\nThe goal of this project is to develop methods for extracting statistically robust patterns from existing volcanic records. This work is organized into three parts: analyzing volcanism as (1) a temporal process, (2) a spatial process, and (3) a spatio-temporal process. To analyze volcanism in time, the project will discretize eruption records at varying temporal resolutions. Coarse discretizations are reliable but uninformative, while fine discretizations offer more insight at the cost of reliability. An information-theoretic approach will be used to determine the optimal temporal resolution for each record. This analysis will identify the portions of each record with the highest statistical power, quantify the trade-off between reliability and descriptive scope when including lower-quality segments, assess whether the behavior is best characterized as random, clustered, or periodic, and provide a basis for comparing records of differing quality. This component is grounded in the question: ``What is the most active volcano?\u201d Second, spatial analysis will employ Voronoi tessellations to develop truly two-dimensional, area-based metrics for volcanic-vent distributions, rather than relying on existing one-dimensional measures (e.g., inter-vent distance). This areal framework will enable a natural delineation of vent arrangements and the classification of spatial patterns as random, clustered, or regularly spaced, providing the spatial characterization needed to begin answering longstanding questions about controls on stratovolcano spacing and the mechanisms that govern vent clustering. This phase is anchored by the question: \"What is the extent of a volcanic field?\u201d Finally, these results will be synthesized into a spatio-temporal model that leverages both spatial and temporal insights to better understand volcanic system dynamics. This portion is framed by: \"When and where will the next eruption occur?\u201d Collectively, these methods will produce, for the first time, consistent and comparable statistics for regional volcanism and will yield new tools for both scientific discovery and improved hazard forecasting.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Harper",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher R Harper",
+   "pi_email_addr": "charper4@uoregon.edu",
+   "nsf_id": "0000A2Y87",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Oregon Eugene",
+  "inst_street_address": "1776 E 13TH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "EUGENE",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5413465131",
+  "inst_zip_code": "974031905",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "UNIVERSITY OF OREGON",
+  "org_prnt_uei_num": "Z3FGN9MF92U2",
+  "org_uei_num": "Z3FGN9MF92U2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Oregon",
+  "perf_str_addr": null,
+  "perf_city_name": "Eugene",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "974031657",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "713700",
+   "pgm_ele_name": "Postdoctoral Fellowships"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7137",
+   "pgm_ref_txt": "POSTDOCTORAL FELLOWSHIPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 387558.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,110 @@
+{
+ "awd_id": "2415347",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "An Integrated Numerical and Experimental Study of Wind-Driven Water Film Flow Dynamics Pertinent to Wind Turbine Icing Phenomena",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032928045",
+ "po_email": "sshojaei@nsf.gov",
+ "po_sign_block_name": "Shahab Shojaei-Zadeh",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 620900.0,
+ "awd_amount": 620900.0,
+ "awd_min_amd_letter_date": "2024-11-26",
+ "awd_max_amd_letter_date": "2024-11-26",
+ "awd_abstract_narration": "Wind energy is the largest renewable and carbon-free energy source. While over one-third of wind turbines are installed in cold climate regions, wind turbine icing is found to cause significant power loss and additional maintenance and operational costs, valued up to billions of dollars in the fast-growing wind energy market. The overarching goal of this project is to advance understanding of the complex multiphase flow dynamics pertinent to wind turbine icing phenomena under real-world conditions. The new knowledge will facilitate the development of effective and robust de-/anti-icing systems to ensure safer and more efficient wind turbine operations in cold climates. In the long term, this project is expected to benefit the nation\u2019s economy and promote a zero-emission and environment-friendly society. In addition, this proposed program will create new course modules, organize summer workshops, develop outreach programs for kindergarten through 12th-grade students and teachers, and broaden participation in engineering research. \r\n\r\nThe research objective of this project is to better understand wind-driven water film flow dynamics, which is responsible for the dangerous glaze ice accretion process over wind turbine blades. To this end, this project will create a tightly integrated numerical and experiment framework to accurately analyze the underlying driving mechanism of turbine icing phenomena under various conditions. In this integrated framework, the experiment corrects defects in the numerical model, and the corrected model complements lab-scale flow analyses and extends knowledge for real-world conditions. A solver-in-loop, multiphase field inversion machine learning framework will be created to identify and correct defects in existing flow models. Then, the corrected model will be used to analyze the impact of the main driving force (local wind shear at the air-water interface) on the wind-driven water film flow dynamics, such as the water film thickness, waterfront contact line movement, film/rivulet morphologies, and interfacial waves. Finally, the trained model will be further extended to analyze wind-driven water film flow dynamics for a utility-scale wind turbine, which facilitates the development of active and passive anti-/de-icing systems. The training and validation datasets and the machine learning framework will be open to the public to promote further developments and collaborations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ping",
+   "pi_last_name": "He",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ping He",
+   "pi_email_addr": "phe@iastate.edu",
+   "nsf_id": "000842254",
+   "pi_start_date": "2024-11-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hui",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hui Hu",
+   "pi_email_addr": "huhui@iastate.edu",
+   "nsf_id": "000326343",
+   "pi_start_date": "2024-11-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "DQDBM7FGJPC5",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164200",
+   "pgm_ele_name": "Special Initiatives"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 620900.0
+  }
+ ],
+ "por": null
+}

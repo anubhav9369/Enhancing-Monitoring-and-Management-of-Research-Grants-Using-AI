@@ -1,0 +1,138 @@
+{
+ "awd_id": "2505865",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "Institute for Foundations of Machine Learning",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 20000000.0,
+ "awd_amount": 6500000.0,
+ "awd_min_amd_letter_date": "2025-07-28",
+ "awd_max_amd_letter_date": "2025-08-25",
+ "awd_abstract_narration": "The primary goal of this project is the development of broadly applicable foundational tools and new mathematical theories to advance the state of the art in Generative Artificial Intelligence (AI).  Although AI systems are now pervasive across disparate domains, core algorithmic challenges for building and deploying large models remain.  It is critical that training algorithms make the most of available computational resources and that resulting models are accurate, robust, and interpretable during inference.  Data sets must be curated and network architectures tuned depending on the modality of the task at hand.  This research will focus on new frameworks for formally modeling these problems in order to create efficient solutions.  In addition, this project will help thousands of students and working professionals acquire AI expertise through a large-scale online masters initiative and through activities targeting high-school students.\r\n\r\nThe project's technical research is divided into four foundational thrusts.  The first, algorithms and optimization for generative models, focuses on better training and inference for large models and looks beyond first-order methods.  The second, a mathematical theory of foundation models, aims to understand how to specialize foundation models for new domains using as little additional data and compute as possible.  The third thrust is on diffusion, now a cornerstone of Generative AI, and studies how to learn distributions without memorization and solve associated inverse problems.  The last thrust looks at improving the robustness and safety of generative models through the lens of distribution shift.  All of these thrusts are coupled with use-inspired projects in medical imaging, generative biology, and AI for mathematical theorem-proving.  A particular emphasis is on open-sourcing AI in order to provide transparent models for use in multiple domains.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adam",
+   "pi_last_name": "Klivans",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adam R Klivans",
+   "pi_email_addr": "klivans@cs.utexas.edu",
+   "nsf_id": "000284027",
+   "pi_start_date": "2025-07-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "041Y00",
+   "pgm_ele_name": "TRIPODS Transdisciplinary Rese"
+  },
+  {
+   "pgm_ele_code": "132Y00",
+   "pgm_ele_name": "AI Research Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 6500000.0
+  }
+ ],
+ "por": null
+}

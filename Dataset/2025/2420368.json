@@ -1,0 +1,118 @@
+{
+ "awd_id": "2420368",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Advancing Fire Resilient Design of Timber Buildings Through Computational Modeling",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927732",
+ "po_email": "lsneed@nsf.gov",
+ "po_sign_block_name": "Lesley Sneed",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 379885.0,
+ "awd_amount": 379885.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "This award supports research on the fire behavior of timber structures to develop novel engineering methods to design mass timber buildings for fire resilience. Recent innovations in engineered wood products unlock benefits for the built environment, however, knowledge gaps in fire performance can limit adoption or lead to inadequate fire safety in buildings. To date, design has relied on empirical methods based on charring rates that do not capture the complex fire-structure interaction and the potential for collapse during the fire decay phase, highlighted by recent experiments. This project aims to derive novel modeling capabilities to enable the fire-resilient design of mass timber buildings. The research efforts will be integrated with dissemination activities involving professional committees, aimed at informing building codes. Through enabling resource-efficient designs with novel timber structures that address fire safety challenges, this award will contribute to NSF\u2019s mission to advance the national prosperity, safety, and welfare.\r\n\r\nThe goal of the research is to develop a computational framework for understanding and modeling the response of timber structures in fire and use this framework to derive design methods for fire-resilient timber buildings. The research methodology will combine computational modeling, machine learning, and topology optimization. By analyzing recent timber fire test data with Bayesian inference techniques and surrogate modeling, the project looks to derive accurate material models and properties for timber in realistic fire scenarios. The project will also seek to enhance current fire models to incorporate the contribution from bio-sourced structural materials in the fire intensities used for design. A finite element computational framework that captures the fire-thermal-structural response, validated against full-scale experiments, will then be used to construct fragility functions for timber frame structures. Additionally, the project will explore innovative design approaches to enhance fire resilience through topology optimization applied at different scales, including optimization of the cross-section and optimization of the column layout through a stiffness projection method. This effort looks to advance understanding of the effect of key design parameters on the vulnerability to fire-induced collapse and result in methodologies to uncover resilient designs optimized at both the member and system levels. The research has the potential to advance modeling capabilities and transform fire design for timber structures from an empirical to a performance-based design approach, addressing the complexity of the structural fire response and enhancing safety and resilience.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Gernay",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Gernay",
+   "pi_email_addr": "tgernay@jhu.edu",
+   "nsf_id": "000767677",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Guest",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "James K Guest",
+   "pi_email_addr": "jkguest@jhu.edu",
+   "nsf_id": "000070594",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Johns Hopkins University",
+  "inst_street_address": "3400 N CHARLES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4439971898",
+  "inst_zip_code": "212182608",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "org_prnt_uei_num": "GS4PNKTRNKL3",
+  "org_uei_num": "FTMTDMBR29C7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Johns Hopkins University",
+  "perf_str_addr": "3400 N CHARLES ST",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212182608",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "061E",
+   "pgm_ref_txt": "Fire"
+  },
+  {
+   "pgm_ref_code": "1637",
+   "pgm_ref_txt": "HAZARD MIT & STRUCTURAL ENG"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 379885.0
+  }
+ ],
+ "por": null
+}

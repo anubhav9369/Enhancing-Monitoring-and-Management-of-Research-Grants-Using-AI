@@ -1,0 +1,122 @@
+{
+ "awd_id": "2508439",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Focused Control of Unfocused Ensemble Systems via Data-Enabled Moment Methods",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 510000.0,
+ "awd_amount": 510000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "From cancer treatment to swarm robotics, many emerging technologies rely on understanding and controlling large populations of interconnected systems. However, these populations are often highly diverse, and scientists and engineers typically cannot observe or control individual components directly. Instead, they must rely on \u201cunfocused\u201d interactions, such as measurements that provide only average behaviors across the entire group or control inputs that affect all members simultaneously. This project addresses the fundamental challenge of making precise, targeted interventions in these complex populations using only broad, population-level information. By developing new theoretical frameworks and data-driven tools, this research aims to unlock a powerful form of population-level feedback control, closing the loop not on individuals, but on the collective. This work has the potential to transform a wide range of applications, from improving the effectiveness of cancer therapies that must target heterogeneous cell populations, and designing intelligent control for robotic swarms, to optimizing large-scale infrastructure systems. Beyond its direct research goals, the project contributes broadly to the scientific community by providing open-source tools, hosting educational workshops, and creating research opportunities for K-12 students and the general public. \r\n\r\nThis research introduces a novel computational and theoretical framework for controlling dynamic ensemble systems using aggregated data. The primary idea is to statistically interpret the behavior of populations using moments, such as averages and variances, as the basis for analysis and control. By drawing a deep connection between the control of ensemble systems and the evolution of their moment dynamics, the project aims to enable a new class of control architectures that can learn from data and respond in real time. The scope of the research includes the development of algorithms that can infer moment dynamics from population-level measurements and utilize these to design effective feedback strategies. This moment-based, data-enabled approach represents a fundamental shift in the design of control systems for complex, high-dimensional, and data-rich settings. The methodological advances are validated through real-world applications in both biology and engineering, illustrating the feasibility and transformative potential of population-level feedback control.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shen",
+   "pi_last_name": "Zeng",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shen Zeng",
+   "pi_email_addr": "s.zeng@wustl.edu",
+   "nsf_id": "000759688",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jr-Shin",
+   "pi_last_name": "Li",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jr-Shin Li",
+   "pi_email_addr": "jsli@seas.wustl.edu",
+   "nsf_id": "000104918",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "ONE BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631304862",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1632",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "092E",
+   "pgm_ref_txt": "Control systems & applications"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 510000.0
+  }
+ ],
+ "por": null
+}

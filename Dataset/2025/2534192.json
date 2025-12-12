@@ -1,0 +1,118 @@
+{
+ "awd_id": "2534192",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "C2H2 EAGER: Particles of Peril: Analyzing Mineral Dust Storms and their Health Effects Using Remote Sensing and Machine Learning",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032927792",
+ "po_email": "bransom@nsf.gov",
+ "po_sign_block_name": "Barbara Ransom",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-06-18",
+ "awd_max_amd_letter_date": "2025-06-18",
+ "awd_abstract_narration": "Sand and mineral dust storms are natural events where strong winds lift soil particulate matter into the atmosphere. Inhalation of these particles can cause serious respiratory and cardiovascular health effects.  Using Arizona as a testbed, this research develops and tests a novel, experimental approach that combines satellite remote sensing and health data to better understand the health impacts and hospitalization rates related to dust storms. The project involves atmospheric science, public health, and environmental science. This interdisciplinary approach provides a robust framework for understanding and addressing the adverse health impacts of dust storms, such as asthma, Valley Fever, and cardiovascular disease. This work is important because, over the last few decades, there has been increasing dryness in the U.S. Southwest and persistent droughts elsewhere in the nation. This has resulted in more frequent and intense dust being blown into the atmosphere. This research combines hospitalization records with remote sensing and machine learning to determine dust mineral composition and its link to serious health complications. Knowing which minerals are in the dust and which are most harmful helps health professionals predict and mitigate health risks associated with wind-blown dust. Broader impacts of the work include new method-development, improved correlation and understanding of airborne dust-related health issues, and results that can be used in, or applied to, a variety of environmental health studies. Results of his project can lead to significant advances in our knowledge of how to address dust-related, air quality health issues. The project also aligns with NSF\u2019s mission to promote the progress of science and advance national health and welfare.\r\n\r\nSand and mineral dust storms are significant aeolian processes exacerbated by human activities. Globally, billions of tons of dust are injected into the atmosphere due to farming, desertification, and other human-created and natural environmental processes. These suspended aerosols result in the increased risk of serious health problems. Despite this known link, significant knowledge gaps remain on the actual cause of dust inhalation-related health impacts, particularly with regard to lung sensitivity to dust composition (i.e., mineralogy). This research investigates the health impacts of airborne dust by using machine learning to analyze its mineral composition and correlate it with hospital records on respiratory, cardiovascular, and airborne dust-related infectious diseases. The project uses the Hybrid Single Particle Lagrangian Integrated Trajectory model to simulate air parcel trajectories. It also utilizes advanced, remote sensing, hyperspectral data from the Hyperion, EMIT, CALIPSO, MODIS, and VIIRS satellites. These inputs are then combined with other environmental and hospitalization data using advanced mathematical techniques. Results will identify dust storm sources and develop understandings for use in forecasting health impacts and, when used by public health officials, to help mitigate dust storm impacts. Statistical approaches are employed to analyze the hospitalization patterns derived from Arizona public health databases. Integration of the disparate data allows development of a predictive model for forecasting and mitigating dust storm health impacts as a function of dust and mineral concentration and composition. Research results can be used to develop effective health prevention and/or mitigation strategies that improve dust-related health outcomes in arid and agricultural regions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Oommen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Oommen",
+   "pi_email_addr": "toommen@olemiss.edu",
+   "nsf_id": "000573263",
+   "pi_start_date": "2025-06-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Courtney",
+   "pi_last_name": "Roper",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Courtney Roper",
+   "pi_email_addr": "clroper@olemiss.edu",
+   "nsf_id": "000804520",
+   "pi_start_date": "2025-06-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Mississippi",
+  "inst_street_address": "113 FALKNER",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6629157482",
+  "inst_zip_code": "386779704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MS01",
+  "org_lgl_bus_name": "THE UNIVERSITY OF MISSISSIPPI",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G1THVER8BNL4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Mississippi",
+  "perf_str_addr": "113 Falkner",
+  "perf_city_name": "University",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "386779704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MS01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "300Y00",
+   "pgm_ele_name": "Climate Impact on Human Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "145Z",
+   "pgm_ref_txt": "Climate and Human Health"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

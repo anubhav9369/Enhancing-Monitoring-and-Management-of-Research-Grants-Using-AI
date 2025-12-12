@@ -1,0 +1,118 @@
+{
+ "awd_id": "2516126",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Collaborative Research: Integrating Algebraic Topology, Graph Theory, and Multiscale Analysis for Learning Complex and Diverse Datasets",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927299",
+ "po_email": "yzeng@nsf.gov",
+ "po_sign_block_name": "Yong Zeng",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2025-08-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 55860.0,
+ "awd_min_amd_letter_date": "2025-02-04",
+ "awd_max_amd_letter_date": "2025-02-04",
+ "awd_abstract_narration": "Despite the tremendous accomplishments of machine learning and deep learning in the past decade, challenges remain for structurally complex and diverse data. For example, a single data point in a database used for drug design might have tens of thousands of internal degrees of freedom, and such a database may have tens of thousands of such data points. This feature of structural complexity is a major challenge to deep learning methods.  Moreover, diverse data typically originate from sparse sampling of a huge space, and this sparsity is due, in particular, to the cost and time constraints in experimental data acquisition.  This project will address the challenges of complex and diverse datasets with ideas that blend and integrate mathematical techniques from several subfields including algebraic topology, spectral graph theory and multiscale analysis. The methods developed will apply to data representation, advanced machine learning methods, and deep learning algorithms, and will be implemented into software packages available to the community. This project will train graduate and undergraduate students and engage underrepresented groups in data science research.\r\n \r\nThis project will develop novel topology and graph theory-based approaches to revolutionize the current practice in data analysis and to deal with the challenge of structurally complex data and diverse data. First, the investigators will develop persistent combinatorial graph theory as a unified paradigm for simultaneous topological data analysis and spectral data analysis.  In particular, they  will develop systematic, scalable, accurate persistent combinatorial graph representations to extract rich topological and spectral information. Secondly,  the investigators will develop multiscale graph models to create a family of nested submanifolds to handle the diverse data originated from sparsely sampled data points in a huge space. These methods will be integrated with advanced machine learning and deep learning algorithms for complex and diverse datasets.  Thirdly, the proposed methods will be applied to a wide range of case studies in data science. User-friendly software packages and online servers will be developed using parallel and GPU architectures for researchers who are not formally trained in mathematics or machine learning.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Duc",
+   "pi_last_name": "Nguyen",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Duc D Nguyen",
+   "pi_email_addr": "ducnguyen@utk.edu",
+   "nsf_id": "000786347",
+   "pi_start_date": "2025-02-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "LXG4F9K8YZK5",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806900",
+   "pgm_ele_name": "CDS&E-MSS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 11273.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 44587.0
+  }
+ ],
+ "por": null
+}

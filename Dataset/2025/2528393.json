@@ -1,0 +1,102 @@
+{
+ "awd_id": "2528393",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "SBIR Phase II: Physics-Guided AI Platform for Accelerating Extreme Ultraviolet (EUV) Mask Design",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2027-08-31",
+ "tot_intn_awd_amt": 1168940.0,
+ "awd_amount": 1168940.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to strengthen domestic semiconductor manufacturing capacity at a time of global supply-chain realignment and unprecedented demand for advanced chips. By providing an intelligent software platform that shortens design-to-manufacturing cycles, the project supports faster delivery of high-performance, energy-efficient electronics that underpin cloud computing, artificial intelligence (AI), and critical infrastructure. The approach reduces waste, lowers production costs, and helps keep cutting-edge semiconductor fabrication in the United States, aligning with recent national initiatives to expand on-shore chipmaking and create high-skill jobs. In addition to enabling smaller, more capable devices for consumers and industry, the technology nurtures a new workforce at the intersection of machine learning and semiconductor engineering through internships and workforce trainings. Collectively, these outcomes promote economic growth, technological sovereignty, and increased access to computation resources by maximizing utilization of fabrication assets.\r\n\r\nThe proposed project tackles the escalating complexity and turnaround delays in extreme ultraviolet (EUV) mask design by advancing a physics-guided AI platform that fuses high-fidelity EUV lithography simulation, process adaptation, and multi-objective layout optimization into a coherent, scalable service. Instead of relying on traditional rule-based models or hardware-specific software, the framework embeds fundamental optical and materials physics inside a scalable neural network architecture. An integrated optimization engine explores billions of potential design adjustments to simultaneously improve pattern fidelity, yield, and production economics, delivering manufacturable mask layouts in hours rather than weeks. Modular interfaces and modern application programming interfaces (APIs) allow rapid integration with existing electronic-design-automation flows, with optimized models to support advanced simulation capabilities to edge devices. Through these innovations, the project seeks to establish a new computational foundation for future lithography nodes, paving the way for faster, lower-cost entry of next-generation chipsets.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Paul",
+   "pi_last_name": "Lou",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Paul C Lou",
+   "pi_email_addr": "Paul@exig.ai",
+   "nsf_id": "000936916",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "EXIGENT SOLUTIONS, INC.",
+  "inst_street_address": "3908 VERBENA ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUBREY",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "6505056565",
+  "inst_zip_code": "762271998",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "TX26",
+  "org_lgl_bus_name": "EXIGENT SOLUTIONS, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "P3QCAAJXMFW4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "EXIGENT SOLUTIONS, INC.",
+  "perf_str_addr": "3908 VERBENA ST",
+  "perf_city_name": "AUBREY",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "762271998",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "TX26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537300",
+   "pgm_ele_name": "SBIR Phase II"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1984",
+   "pgm_ref_txt": "MATERIALS SYNTHESIS & PROCESSN"
+  },
+  {
+   "pgm_ref_code": "1084",
+   "pgm_ref_txt": "NANOTECHNOLOGY INITIATIVE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1168940.0
+  }
+ ],
+ "por": null
+}

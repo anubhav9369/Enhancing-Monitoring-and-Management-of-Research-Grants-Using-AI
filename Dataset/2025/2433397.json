@@ -1,0 +1,122 @@
+{
+ "awd_id": "2433397",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "VSMART: Vital Sign Monitoring viA Remote Tracking",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Radar technology for monitoring vital signs, including heart rate and respiration rate, shows significant potential in transforming health monitoring via remote, continuous observation of multiple individuals. While phased arrays have been widely used in radar-based vital sign monitoring due to their low cost and effectiveness in single-person applications, they lack the flexibility to generate beams with well-controlled sidelobes required for monitoring individuals in close proximity. This project introduces VSMART (Vital Sign Monitoring via Remote Tracking), a system that integrates hardware, signal processing, and machine learning to enable continuous, remote monitoring of vital signs across multiple individuals. VSMART is designed to reduce interference and deliver high-accuracy performance at low cost. The research also explores the system\u2019s adaptability for remote blood pressure monitoring. VSMART is particularly suited for deployment in crowded critical care environments, assisted living facilities, and nurseries, with applications including apnea detection and identification of sudden infant death syndrome in newborns. Additionally, the project contributes to curriculum development and offers opportunities for both graduate and undergraduate students to engage in research.\r\n\r\nThe research pursues the following objectives: (i) Develop a novel, cost-effective radar transmitter architecture capable of producing well-controlled beams targeted at specific regions of the human body. This innovation centers on enhancing phased arrays with double phase shifters, providing additional degrees of freedom for improved beamforming capability. Unlike traditional arrays, the proposed configuration can control both magnitude and phase of the transmitted waveform at each antenna element, allowing for greater flexibility in beam pattern design. These improvements are achieved with minimal added cost, primarily due to the use of inexpensive phase shifters. For multi-target scenarios, the main beam is successively directed at each target while nullifying interference from others, enabling effective monitoring of multiple individuals. Computationally efficient algorithms for calculating beamforming weights that consider non-ideal characteristics of the phase shifters are developed and a prototype of the enhanced phased array system is constructed. (ii) Develop advanced methods for heart rate and respiration rate estimation using learning-based techniques that reconstruct waveform morphology similar to that of contact-based sensors. This includes the design of a waveform reconstruction network based on Long Short-Term Memory to capture temporal dependencies and a self-attention mechanism to emphasize relevant segments of the radar signal. A signal augmentation framework that simulates realistic radar echoes reflecting human dynamics is implemented. A Conditional Generative Adversarial Network serves as the foundation for generating training data to enhance model robustness. Radar waveforms that preserve the integrity of vital sign information within the radar echoes are also investigated. (iii) Leverage the flexibility of the proposed transmitter system to generate multiple beams focused on different regions of the body, and utilize the reconstructed vital sign waveforms to extract blood pulse information from each region. By analyzing time delays between these signals, estimates of blood pressure are obtained using both traditional physiological models and machine learning techniques.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Athina",
+   "pi_last_name": "Petropulu",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Athina P Petropulu",
+   "pi_email_addr": "athinap@rutgers.edu",
+   "nsf_id": "000107949",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yingying",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yingying Chen",
+   "pi_email_addr": "yingche@scarletmail.rutgers.edu",
+   "nsf_id": "000080615",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Chung-Tse",
+   "pi_last_name": "Wu",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chung-Tse M Wu",
+   "pi_email_addr": "ctm.wu@rutgers.edu",
+   "nsf_id": "000682444",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "153E",
+   "pgm_ref_txt": "Wireless comm & sig processing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,106 @@
+{
+ "awd_id": "2517201",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Practical Adaptive Filters and Applications",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-05-31",
+ "tot_intn_awd_amt": 607746.0,
+ "awd_amount": 376103.0,
+ "awd_min_amd_letter_date": "2025-02-18",
+ "awd_max_amd_letter_date": "2025-02-18",
+ "awd_abstract_narration": "Filters tradeoff accuracy for space and occasionally return false positive matches with a bounded error. Filters are extensively used to compactly represent large datasets in fast memory (RAM) and avoid unnecessary I/Os across databases, storage systems, computational biology, cybersecurity, and networks. Yet modern data-intensive applications are severely bottlenecked by the limitations in filters. A fundamental limitation of traditional filters is that they do not change their representation upon seeing a false positive match. Therefore, the maximum false positive rate is only guaranteed for a single query, not a stream of queries. If users can adapt after seeing false positive matches, they can improve the filter performance for a stream of queries (especially skewed distributions). This project focuses on two goals. First, to design a high-performance, space-efficient, and practical adaptive filter with strong adaptivity guarantees, which means that the performance and false-positive probability guarantees continue to hold even for adversarial workloads. Second, to do a deep dive into various performance trade-offs in applications and integrate the adaptive filter in databases, cybersecurity applications, and computational biology tools. The effort redesigns existing applications and develops new software tools to establish appropriate trade-offs and achieve high performance and space efficiency. \r\n\r\nThis project has the following top-level approach: develop the theory and an accompanying data structure library for strong adaptive filters under various real-world workloads involving deletions and updates, resizing, and merging two adaptive filters.  It demonstrates the impact of adaptive filters in the real world by integrating the adaptive filter into applications and achieving massive speed-ups and robust performance for skewed and adversarial workloads. This project will enhance the capability of applications across databases, computational biology, and cybersecurity to achieve higher and stronger performance guarantees. Both accelerated computation (allowing quicker feedback and more experiments) and more extensive computation potentially accelerate the process of scientific discovery. Furthermore, this project places a strong emphasis on combining theory and practice. In addition, the research team will also develop teaching material on adaptive data structures and their usage in modern data-intensive applications and make it freely available online.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Prashant",
+   "pi_last_name": "Pandey",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Prashant Pandey",
+   "pi_email_addr": "p.pandey@northeastern.edu",
+   "nsf_id": "000920999",
+   "pi_start_date": "2025-02-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northeastern University",
+  "inst_street_address": "360 HUNTINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173735600",
+  "inst_zip_code": "021155005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "NORTHEASTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HLTMVS2JZBS6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northeastern University",
+  "perf_str_addr": "360 HUNTINGTON AVE",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021155005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 376103.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,102 @@
+{
+ "awd_id": "2426840",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Small CISE-ANR: A Local Optima Tunneling Engine for Scalable Graybox Optimization",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2027-11-30",
+ "tot_intn_awd_amt": 299997.0,
+ "awd_amount": 299997.0,
+ "awd_min_amd_letter_date": "2024-11-20",
+ "awd_max_amd_letter_date": "2024-11-20",
+ "awd_abstract_narration": "Many modern real-world manufacturing and scheduling problems need to satisfy multiple goals.  For example, in automotive design we would like to increase safety and fuel efficiency, while at the same time decreasing cost and harmful emissions.   However, a good solution must balance these conflicting goals.  The need to balance conflicting goals is common across virtually all industrial and engineering problems.    Traditional optimization tools are designed to achieve the best possible outcome for one goal, but do not work well when solving for multiple goals.    Modern multiobjective methods are increasingly being used by industry but are not as well understood as single objective methods.   Part of the problem is that there is not a single best solution, but rather there will be a family of solutions representing the possible trade-off between different goals.   In shipping and logistics, we want to ensure on-time arrival of goods, while also minimizing shipping costs and the risk of shipping disruptions.    But, if one solution reduces average shipping cost, while another solution reduces the risk of disruption, which is the right answer?    Multiobjective tools do not provide a best solution, but instead give a human decision maker a family of options to select from, which highlights the trade-offs between the different conflicting goals.\r\n\r\nThis project will improve multiobjective optimization tools.   The family of best solutions under multiobjective optimization form what is known as a Pareto Front.   Given two solutions that lie on the Pareto Front, how do we efficiently find other solutions that also lie on the Pareto Front?   Most current multiobjective optimization tools are highly stochastic in nature.  This project exploits new mathematical methods that have the potential to deterministically explore the Pareto Front.   These new methods take two (locally optimal) solutions and then remove all nonlinear interactions in each evaluation function that are not locally relevant to these two solutions.  The nonlinearity of the evaluation function in this lower dimensional space is guaranteed to be less than (if not equal to) the nonlinearity of the full space.   Simplifying the evaluation function in the lower dimensional space will often decompose the full evaluation function, causing it to become locally linearly separable in the reduced space.  When this occurs, we can provably generate the best of exponentially many piecewise locally optimal solutions in linear time.   We have already shown this method works extremely well on classic NP-Hard problems.    If we take two solutions on the Pareto Front, we can also define a lower dimensional space between pairs of solutions.   Given two solutions, this gives us a highly efficient deterministic method to search for other solutions that potentially lie along the Pareto Front.   Our work will also look at hardware and software innovations as well as parallel implementations to support our new multiobjective optimization tool.    This project is a collaboration between a French and US Investigator under the CISE-ANR funding agreement.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Darrell",
+   "pi_last_name": "Whitley",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Darrell Whitley",
+   "pi_email_addr": "darrell.whitley@gmail.com",
+   "nsf_id": "000342224",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Colorado State University",
+  "inst_street_address": "601 S HOWES ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "FORT COLLINS",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "9704916355",
+  "inst_zip_code": "805212807",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "COLORADO STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LT9CXX8L19G1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Colorado State University",
+  "perf_str_addr": "601 S HOWES ST",
+  "perf_city_name": "FORT COLLINS",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "805212807",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "287800",
+   "pgm_ele_name": "Special Projects - CCF"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  },
+  {
+   "pgm_ref_code": "7942",
+   "pgm_ref_txt": "HIGH-PERFORMANCE COMPUTING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299997.0
+  }
+ ],
+ "por": null
+}

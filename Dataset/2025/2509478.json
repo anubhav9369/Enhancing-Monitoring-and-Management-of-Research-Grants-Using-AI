@@ -1,0 +1,98 @@
+{
+ "awd_id": "2509478",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Non-resonant Electromagnetic Vibration Energy Harvester with Magnetic Gear for Wearable Technology",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928012",
+ "po_email": "adodabal@nsf.gov",
+ "po_sign_block_name": "Ananth Dodabalapur",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2028-09-30",
+ "tot_intn_awd_amt": 400000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "Abstract Title: Non-resonant Electromagnetic Vibration Energy Harvester with Magnetic Gear for Wearable Technology\r\n\r\nAbstract:\r\nThe proposed research is to efficiently generate power from vibration energy associated with humans\u2019 daily activities, such as walking. As the internet of things (IoT) is boldly predicted to connect trillion sensors, and now that smartphones and wearable devices (for fitness or health tracking) are getting ubiquitous, two key issues are how to power the devices and how to keep the devices working constantly and continuously without battery recharging or replacement. Battery recharging or replacement means down-time and human intervention. One approach to avoid frequent battery replacement or recharging is to use a battery with large energy capacity at the cost of large weight and volume, which makes wearable devices heavy and bulky. Indeed, current wearables are critically limited by battery capacity. Human motions offer ubiquitous vibration energy, which the proposed research will tap into to generate electrical power without loading or restricting the person, so that the power requirement of wearables may be substantially aided by a small and light vibration energy harvester (VEH). The proposed research will pave the foundational technology for generating power from human motion without loading the human who carries the power-generating device. The successful outcome of the research will ultimately mean a power-generating device smaller and lighter than 1 cc and 1 gram, respectively, that can generate up to 1 mW from a low-frequency and low-acceleration human motion, for wearable technology in order to replace or supplement battery.\r\n\r\nVarious innovative approaches will be explored to efficiently generate power from vibration energy associated with human motion without loading or affecting the wearer of the power generator (with a total mass and volume of less than 4 gram and 2 cc, respectively. The proposed electromagnetic non-resonant vibrational energy harvester (VEH) incorporates multiple innovative ideas and approaches in order to address the following two key fundamental challenges in generating power from human motion: (1) extremely low vibrational frequency (sub-Hz \u2013 several Hz) and (2) inherently low level of vibration energy associated with the low frequency. The first challenge rules out vibrational energy harvesting based on a resonant mechanical spring, and thus, a non-resonant VEH with ferrofluid-based suspension and a non-mechanical-spring VEH with diamagnetic suspension are proposed for frictionless relative movement between an internal magnet array (suspended by a liquid bearing or through diamagnetic repulsion) and a coil array (mounted inside a frame over which an external magnetic array is arranged for linear magnetic gear). For the second challenge, a linear magnetic gear is proposed to increase the relative velocity between the internal magnet array and the frame by a factor of the gear ratio, which can be more than 10. In addition, the proposed research is to explore various ideas and approaches to make the proposed VEH be compelling for wearable technology through automatically winding micron-scale coils into a coil array along with studies on the surface treatment or structuring for reducing any contact friction for ferrofluidic bearing or internal magnet array, impact of the frame height on the gear effect, and ways to reduce the sidewall friction.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eun",
+   "pi_last_name": "Kim",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eun S Kim",
+   "pi_email_addr": "eskim@usc.edu",
+   "nsf_id": "000176824",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3651 Watt Way, VHE 405",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900893612",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "CA37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMD-ElectrnPhoton&MagnDevices"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "100E",
+   "pgm_ref_txt": "Novel devices & vacuum electronics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 400000.0
+  }
+ ],
+ "por": null
+}

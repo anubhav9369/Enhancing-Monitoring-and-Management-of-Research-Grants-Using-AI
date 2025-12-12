@@ -1,0 +1,98 @@
+{
+ "awd_id": "2502025",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Odor Representation Learning for Robust Detection of Co-present Foods and Pathogen Contamination Using an Electronic Nose",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032922191",
+ "po_email": "asimonia@nsf.gov",
+ "po_sign_block_name": "Aleksandr Simonian",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 199995.0,
+ "awd_amount": 199995.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "Foodborne illnesses affect 48 million people in the U.S. annually, causing 128,000 hospitalizations and 3,000 deaths. Traditional detection methods are accurate, but they are costly, slow, and often destructive. Image analysis based on artificial intelligence (AI) offers a faster, nondestructive alternative but struggles to detect internal or microbial contamination. This project will use an electronic nose (e-nose) to detect food contamination by analyzing volatile organic compounds (VOCs). A major challenge is that VOCs from multiple foods can blend, making detection difficult. The team will develop AI models trained on thousands of VOC samples to enable the e-nose to separate odors and identify contamination, even in complex mixtures and varying environments. The improved e-nose will enhance food safety and will have broader applications in healthcare (e.g., disease detection from a patient's breath), security, and robotics. The project will be integrated into machine learning courses at KSU, offering students hands-on experience with AI-driven sensors and promoting interdisciplinary training in olfactory sensing.\r\n\r\nElectronic noses (e-noses) detect odors by sensing volatile organic compounds (VOCs) and provide fast, non-destructive screening for food safety. However, VOCs often blend in multi-food environments, making it difficult to identify contamination in specific items. These challenges are further complicated by environmental variations, such as changes in temperature. This project aims to advance e-nose technology by leveraging AI to improve odor detection in complex settings. The research team will develop contrastive learning models that train deep neural networks to distinguish odors from co-present foods and adapt to varying atmospheric conditions. These models will also enable the detection of contaminated foods, whether presented individually or in mixtures. Unlike traditional approaches that focus on single-food comparisons or low-level chemical profiling, this project introduces robust AI techniques to identify contamination across diverse food combinations. By constructing reliable odor representations, the work addresses critical limitations in current e-nose systems and offers new insights into odor dynamics, with potential parallels to human olfaction. Improved e-noses could significantly enhance food safety, enable breath-based disease detection in healthcare, and improve situational awareness in AI and robotic systems across applications such as security, environmental monitoring, and industrial automation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Taeyeong",
+   "pi_last_name": "Choi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Taeyeong Choi",
+   "pi_email_addr": "ctyeong@gmail.com",
+   "nsf_id": "000948335",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kennesaw State University Research and Service Foundation",
+  "inst_street_address": "1000 CHASTAIN RD NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "KENNESAW",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4705786381",
+  "inst_zip_code": "301445588",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "GA11",
+  "org_lgl_bus_name": "KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G8DZHNRKWTN3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kennesaw State University Research and Service Foundation",
+  "perf_str_addr": "1000 CHASTAIN RD NW",
+  "perf_city_name": "KENNESAW",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "301445588",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "GA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "790900",
+   "pgm_ele_name": "BIOSENS-Biosensing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9229",
+   "pgm_ref_txt": "RES IN UNDERGRAD INST-RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199995.0
+  }
+ ],
+ "por": null
+}

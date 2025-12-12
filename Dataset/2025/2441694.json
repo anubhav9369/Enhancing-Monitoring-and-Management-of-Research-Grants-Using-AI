@@ -1,0 +1,126 @@
+{
+ "awd_id": "2441694",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Optimizing the Next Frontiers of Chiplet-based Designs in Advanced Packaging",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032924360",
+ "po_email": "grpeters@nsf.gov",
+ "po_sign_block_name": "Greg Peterson",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 512105.0,
+ "awd_amount": 409403.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "Modern Artificial Intelligence (AI) workloads demand computing systems with large silicon areas to sustain throughput and performance. However, manufacturing costs, yield limitations at advanced tech nodes, and die sizes reaching the reticle limit restrain us from achieving this on a monolithic die. With the recent innovations in advanced packaging technologies, disaggregated chiplet-based architectures have opened the next frontier of innovation in AI hardware and System on Chips (SoCs). However, the scope of stacking multiple chiplet tiers in 3D, various package interconnect options, and thermal challenges introduce significant design challenges. The project\u2019s key novelties are developing AI/Machine Learning(ML)-assisted System and Package-level co-design methodologies that can optimize the power, performance, chip area, reliability, and cost of the next-generation AI hardware. The project's broader significance and importance include: (1) Generate knowledge and scientific methods to optimize the system-level architecture of multi-tier chiplet-based designs, and thus contribute to the advancement of the field of AI hardware and AI. (2) Develop educational resources and open-source tools for designing next-generation chiplet-based hardware in advanced packaging. (3) Cultivate a pipeline of skilled engineers and scientists with expertise in computer systems and AI/ML, and to promote participation from undergraduates, underrepresented groups, and K-12 students. \r\n\r\n\r\nIn Thrust 1, using the first principles, the key performance metrics of chiplet-based AI hardware are analytically modeled. Heuristics and deep learning (e.g., Reinforcement Learning) based methods are explored to find the set of optimal parameters (e.g., chiplet area and count, number of tiers, packaging interconnects, etc.). Thrust 2 focuses on yield, reliability, and power integrity. Hardware and software-level comprehensive techniques are developed to detect and repair faulty Hybrid Bonds (HB) to achieve maximum yield at the package level.   To ensure robust power integrity of the multi-tier chiplet system at optimum energy efficiency, the emerging technique of backside power delivery is explored. As heat dissipation is a major impediment to the widespread adoption of multi-tier chiplet stacking technology, Thrust 3 explores a proactive thermal management technique and workload scheduling algorithm to prevent simultaneous peak temperatures in adjacent chiplets in a stack.  Overall, the collective advancement of these research thrusts will establish a comprehensive scientific methodology for the design of multi-tier 3D SoCs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mehdi",
+   "pi_last_name": "Sadi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mehdi Sadi",
+   "pi_email_addr": "mzs0190@auburn.edu",
+   "nsf_id": "000841195",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Auburn University",
+  "inst_street_address": "321-A INGRAM HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUBURN",
+  "inst_state_code": "AL",
+  "inst_state_name": "Alabama",
+  "inst_phone_num": "3348444438",
+  "inst_zip_code": "36849",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "AL03",
+  "org_lgl_bus_name": "AUBURN UNIVERSITY",
+  "org_prnt_uei_num": "DMQNDJDHTDG4",
+  "org_uei_num": "DMQNDJDHTDG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Auburn University",
+  "perf_str_addr": "321-A INGRAM HALL",
+  "perf_city_name": "AUBURN",
+  "perf_st_code": "AL",
+  "perf_st_name": "Alabama",
+  "perf_zip_code": "368490001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "AL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 409403.0
+  }
+ ],
+ "por": null
+}

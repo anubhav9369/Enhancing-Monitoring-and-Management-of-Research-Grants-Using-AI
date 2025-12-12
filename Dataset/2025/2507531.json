@@ -1,0 +1,98 @@
+{
+ "awd_id": "2507531",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: High-Precision Timing Devices for Research and Industry",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-03-21",
+ "awd_max_amd_letter_date": "2025-03-21",
+ "awd_abstract_narration": "The broader impact/commercial impacts of this Small Business Innovation Research (SBIR) Phase I project is in developing timing devices with increased performance and capability. These timing devices, capable of picosecond accuracy (a trillionth of a second), enable nuclear physics research, light detection and ranging, and medical imaging. This project will develop a time-to-digital converter (TDC) with unique features and the capability to operate in harsh environments. A TDC is an electronic device that measures time intervals with extremely high precision and converts the measured time into a digital value. TDCs are widely used in applications requiring precise timing, such as LIDAR, high-energy physics, medical imaging, and communications. The market opportunities and the competitive advantage are secured through an architecture that overcomes the limitations of current TDC implementations. The developed TDCs will be semiconductor chip based that will be fabricated domestically and introduced to three primary markets: nuclear physics, spacecraft instrumentation, and medical imaging devices. \r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project is a high-availability TDC that features zero dead-time, unlimited multi-hits, picosecond accuracy, and a dedicated calibration circuit. A proof-of-concept already exists, and a prototype application-specific integrated circuit is ready for fabrication. Phase I addresses research and development of hardware and software and overall robustness to withstand high radiation and cryogenic temperatures. This will be achieved through an iterative design methodology between logic design, transistor design, and transistor layout, each in their respective software environment.  At the conclusion to Phase I, the primary goal is to have a second prototype ready to send to a chip fabrication facility.  This prototype will include new features of the design, as well as radiation hardening.  The radiation hardening will allow the prototype to operate in a more extreme environment, dictated by the operational constraints of the end users.  The secondary goal will analyze the extreme temperature and radiation environments of the particle physics community and determine if and how to migrate the design to a chip fabrication process that includes radiation hardening and cryogenic models for a potential Phase II follow on.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Erik",
+   "pi_last_name": "Donald",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erik T Donald",
+   "pi_email_addr": "admin@main.engineering",
+   "nsf_id": "0000A0199",
+   "pi_start_date": "2025-03-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "MAIN ENGINEERING LLC",
+  "inst_street_address": "8070 GEORGIA AVE STE 304",
+  "inst_street_address_2": "",
+  "inst_city_name": "SILVER SPRING",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "2026880588",
+  "inst_zip_code": "209104971",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "MD08",
+  "org_lgl_bus_name": "MAIN ENGINEERING LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GSX3L6CQDVR4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "MAIN ENGINEERING LLC",
+  "perf_str_addr": "8070 GEORGIA AVE STE 304",
+  "perf_city_name": "SILVER SPRING",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "209104971",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "MD08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": null
+}

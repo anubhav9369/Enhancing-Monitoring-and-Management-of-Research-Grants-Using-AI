@@ -1,0 +1,102 @@
+{
+ "awd_id": "2440938",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Non-equilibrium Quantum Dynamics of Molecular Qubit Ensembles",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032927486",
+ "po_email": "rdawes@nsf.gov",
+ "po_sign_block_name": "Richard Dawes",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2030-04-30",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 700000.0,
+ "awd_min_amd_letter_date": "2025-04-11",
+ "awd_max_amd_letter_date": "2025-04-11",
+ "awd_abstract_narration": "Philip Shushkov of Indiana University is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop theoretical methods to simulate the dynamics of ensembles of molecular spin qubits. The new methods will be used to characterize the range of quantum dynamical behaviors of molecular qubit ensembles with different dimensionality, disorder, and environmental noise and different temperature regimes and driving conditions will be explored. The interactions with the nuclear spins and the molecular vibrations that destroy the quantum correlations in the spin states will be characterized, defining states that are resilient to decoherence, and how quantum states with non-classical correlations that have broad application in quantum sensing and computation can be created in realistic molecular environments. The new methods will facilitate the application of molecular qubit ensembles in quantum information sciences, the interpretation of experimental observations, and the interfacing of molecular spin ensembles with other quantum platforms. As part of this work, open-source software packages will be developed for model derivation and simulation of molecular spin ensembles, provide training opportunities, and a new research immersion class and an interactive quantum exhibit will be developed.\r\n\r\nMolecular spin-coherent systems feature unmatched synthetic reproducibility and chemical tunability, offering unprecedented opportunities for the design of the next-generation systems for quantum information processing. This project will leverage the PI's density-matrix coupled-cluster method and dynamic spin Hamiltonian approach, and will advance systematically improvable ab initio theoretical methods to simulate the non-equilibrium many-body dynamics of molecular spin systems and will apply them to characterize the spin dynamics of molecular qubit ensembles. First, a density-matrix coupled-cluster method for quantum dynamics of spin ensembles at finite temperature will be developed, and they will apply it to characterize the spin decoherence dynamics of interacting spin ensembles with different dimensionality and disorder and the quantum states of periodically driven spin ensembles. Second, an ab initio model for the spin-spin and spin-vibrational interactions in molecular qubit ensembles will also be developed, and they will apply the model to characterize the decoherence, spin transport, and cross-relaxation in molecular spin ensembles. Third, a spin-vibrational coupled-cluster method to simulate the non-equilibrium dynamics of noisy molecular qubit ensembles will be developed, and they will apply it to characterize the spin-vibrational dynamics of driven molecular qubit ensembles and the stability of entangled quantum states in dissipative molecular environments. As part of the integrated educational and outreach aims, they will engage college students in the study of quantum sciences in chemistry through a research immersion course, provide free and accessible tools to college and K-12 chemistry educators, and engage the public in quantum inquiry through an interactive exhibit.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Philip",
+   "pi_last_name": "Shushkov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Philip Shushkov",
+   "pi_email_addr": "phgshush@iu.edu",
+   "nsf_id": "0000A0GQQ",
+   "pi_start_date": "2025-04-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Indiana University",
+  "inst_street_address": "107 S INDIANA AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BLOOMINGTON",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "3172783473",
+  "inst_zip_code": "474057000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IN09",
+  "org_lgl_bus_name": "TRUSTEES OF INDIANA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YH86RTW2YVJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Indiana University",
+  "perf_str_addr": "800 E. Kirkwood Ave.",
+  "perf_city_name": "Bloomington",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "474057102",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688100",
+   "pgm_ele_name": "Chem Thry, Mdls & Cmptnl Mthds"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 700000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,117 @@
+{
+ "awd_id": "2445337",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Multiscale Modeling of the Demineralization of Tissues",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032922390",
+ "po_email": "rbardhan@nsf.gov",
+ "po_sign_block_name": "Rizia Bardhan",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-08-21",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "Loss of minerals from teeth owing to tooth decay or erosive tooth wear, or from bones owing to osteoporosis, compromises mechanical function, causes pain, and affects quality of life. Demineralization involves the dissolution of biological apatite crystallites.  This project will create a computational model that will accurately predict time-dependent changes in mineralized tissue structure and composition.  Based on robust structural, compositional, and thermodynamic data or quantum chemical computation, this model will show how the phases, interfaces, and dissolution dynamics contribute to healthy and pathological mineralized tissues. In the long-term, this model will be able to identify risk factors for enamel dissolution and enable personalized minimally invasive interventions to address mineral loss in teeth. The project will provide early career researchers with the skills to apply state-of-the-art computational and experimental materials science approaches to research in life sciences and engineering. \r\n\r\nDemineralization of teeth and bones is linked to multiple debilitating disorders with poor quality of life. These disorders involve the dissolution of apatite crystallites, and in dental enamel an amorphous intergranular phase (AIGP) is also involved. Minor constituents modulate the solubility and orientation-dependent interfacial free energies during demineralization. The interplay between the microstructure and composition of bulk phases, interfaces, mechanical stresses, and dissolution dynamics remains poorly understood, limiting predictive modeling. This is a major bottleneck to design clinically-relevant minimally invasive interventions. Therefore, this project will create and validate a modular and expandable phase field model (PFM) based on robust structural, compositional, and thermodynamic data. The team will use high-fidelity density functional theory (DFT) to model apatite structure and solubility, and determine orientation-dependent interfacial free energies in the physiological environment. A reverse Monte Carlo (RMC) approach constrained by experimental data will be used to model the composition-dependent structure, and DFT will predict properties of the AIGP. The project will expand the capabilities of PFM to account for multiple phases with composition-dependent solubility, diffuse transport and speciation in narrow pores, and the orientation-dependent surface energy and interface mobility.  The project will refine and rigorously validate the PFM by comparing predicted dissolution rates of synthetic apatite and murine enamel to experimental data, and perform a sensitivity analysis to identify factors that contribute to rapid enamel dissolution to improve the accuracy of the model.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Rondinelli",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "James M Rondinelli",
+   "pi_email_addr": "jrondinelli@northwestern.edu",
+   "nsf_id": "000614932",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Derk",
+   "pi_last_name": "Joester",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Derk Joester",
+   "pi_email_addr": "d-joester@northwestern.edu",
+   "nsf_id": "000081881",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Voorhees",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter W Voorhees",
+   "pi_email_addr": "p-voorhees@northwestern.edu",
+   "nsf_id": "000183588",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EXZVPWZBLUE8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "2220 Campus Drive",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "534500",
+   "pgm_ele_name": "Engineering of Biomed Systems"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 500000.0
+  }
+ ],
+ "por": null
+}

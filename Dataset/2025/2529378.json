@@ -1,0 +1,102 @@
+{
+ "awd_id": "2529378",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "III: Small: Optimizing Knowledge Utilization in Generative Models to Foster Research Ideation",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 300000.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Large language models (LLMs) have transformed how people interact with artificial intelligence (AI) systems, achieving state-of-the-art results in various tasks such as education and healthcare. Their ability to understand and generate human-like text has opened up new possibilities for advancing scientific research, and one of the most promising applications of LLMs in this context is research idea generation, where LLMs can be utilized to identify novel research directions by analyzing existing knowledge. Although LLMs may generate claims that are not fully supported by existing publications, it is possible for them to generate potentially innovative research ideas that might have been overlooked by scientists working alone. Although quite a few studies have yielded promising results, significant advances are required for LLMs to generate accurate, easily verifiable, and trustworthy responses for scientific research. Moreover, for foundation models to achieve a comparable impact in research ideation, it is crucial that they are capable of optimizing both external and internal knowledge sources. Addressing this need, this project develops approaches that aim to effectively optimize two types of knowledge: external knowledge, drawn from diverse data sources, and internal knowledge, the parametric understanding acquired during training. A dual framework solution is designed for this optimization using agentic AI reasoning techniques. This research can improve the adaptation of external and internal knowledge of foundation models and their utility for scientific tasks.\r\n\r\nTo optimize knowledge utilization in foundation models to foster research ideation, this project conducts three innovative research tasks: (1) The project develops an adversary-based reasoning approach to effectively harnessing the vast parametric knowledge within LLMs to improve research ideation. The project introduces adversarial learning in inference time, a paradigm shift from prompt design that unlocks the full potential of parametric knowledge of LLMs without requiring additional training. (2) This project develops a reinforcement learning-based approach to optimize LLM\u2019s idea generation capabilities by leveraging external knowledge to systematically improve the utilization of external knowledge for idea generation. The project formulates the interaction between language agents and the external knowledge bases as a nested Markov Decision Process (MDP), where the outer MDP governs high-level action generation through interactions with the information retrieval environment, while the inner MDP controls token generation within LLMs. (3) This project develops a knowledge-based hallucination detection framework that assesses the groundedness of the generated research ideas and identifies hallucinated claims by analyzing the rationale behind the idea generation. The project also designs metrics to assess whether the ideation approach improves the quality of research ideas generated in terms of novelty and feasibility, and conducts extensive experimental studies to evaluate how the ideation approaches work using a variety of existing LLMs to generate research ideas based on the given approaches and evaluation metrics.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aidong",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aidong Zhang",
+   "pi_email_addr": "aidong@virginia.edu",
+   "nsf_id": "000341960",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 300000.0
+  }
+ ],
+ "por": null
+}

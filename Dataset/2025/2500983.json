@@ -1,0 +1,134 @@
+{
+ "awd_id": "2500983",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SCH: Fundamental Limits of Fair and Privacy-Preserving Healthcare Models",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2029-07-31",
+ "tot_intn_awd_amt": 1000000.0,
+ "awd_amount": 1000000.0,
+ "awd_min_amd_letter_date": "2025-07-24",
+ "awd_max_amd_letter_date": "2025-07-24",
+ "awd_abstract_narration": "Artificial intelligence (AI)-based systems play a critical role in modern healthcare, from diagnosing diseases through medical imaging to managing patient care efficiently in emergency rooms. However, these systems can inadvertently perpetuate inaccuracies arising from historical or manually curated data, reducing effectiveness for certain patient groups or unintentionally exposing sensitive patient information. To address these critical challenges, this project will advance our understanding of the fundamental trade-offs among predictive accuracy, robustness across patient populations, and patient privacy in AI-driven healthcare. Insights from this project will directly benefit society by promoting safer, more reliable, and trustworthy healthcare technologies, ultimately advancing national goals in public health and welfare. Additionally, the research will support the education and training of future researchers, including graduate students, and inspire K-12 students to pursue careers in STEM fields.\r\n\r\nThe project has two research objectives. First, it aims to provide a rigorous theoretical understanding and practical evaluation of performance trade-offs among predictive accuracy, robustness across patient populations, and privacy in healthcare predictive models, particularly those used for diagnosing skin and soft tissue infections. These trade-offs will be analyzed both in centrally trained models and personalized models tailored to specific patient characteristics. Second, the project will develop innovative algorithms and methodologies designed to achieve optimal performance under these trade-offs. These will include novel approaches for effectively integrating heterogeneous, distributed, noisy, and self-supervised data sources. The outcomes of this project will establish essential performance benchmarks and deliver robust algorithms with strong theoretical guarantees, thereby enabling the development and deployment of more effective, reliable, and privacy-preserving AI healthcare solutions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vishnu",
+   "pi_last_name": "Boddeti",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vishnu Boddeti",
+   "pi_email_addr": "vishnu@msu.edu",
+   "nsf_id": "000711404",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "Reynolds",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua C Reynolds",
+   "pi_email_addr": "reyno406@msu.edu",
+   "nsf_id": "0000A1BJZ",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Oostema",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "John Oostema",
+   "pi_email_addr": "oostema@msu.edu",
+   "nsf_id": "0000A178J",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Miller",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joseph B Miller",
+   "pi_email_addr": "jmiller6@hfhs.org",
+   "nsf_id": "0000A1BF2",
+   "pi_start_date": "2025-07-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan State University",
+  "inst_street_address": "426 AUDITORIUM RD RM 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST LANSING",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "5173555040",
+  "inst_zip_code": "488242600",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "MICHIGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "VJKZC4D1JN36",
+  "org_uei_num": "R28EKN92ZTZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan State University",
+  "perf_str_addr": "426 AUDITORIUM RD RM 2",
+  "perf_city_name": "EAST LANSING",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "488242600",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1000000.0
+  }
+ ],
+ "por": null
+}

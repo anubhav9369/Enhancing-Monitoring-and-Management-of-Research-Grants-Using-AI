@@ -1,0 +1,102 @@
+{
+ "awd_id": "2517733",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: RI: Medium: Transparent Fair Division of Indivisible Items",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 621874.0,
+ "awd_amount": 323951.0,
+ "awd_min_amd_letter_date": "2025-03-25",
+ "awd_max_amd_letter_date": "2025-03-25",
+ "awd_abstract_narration": "Fair division deals with the distribution of resources and tasks among different parties, e.g., individuals, firms, nations, or autonomous agents, with the goal of achieving fairness and economic efficiency. Fairness has increasingly become crucial in distributing precious and scarce medical equipment, and its absence has exacerbated healthcare issues during the COVID-19 global pandemic. A wide variety of real-world applications such as scheduling, dispute resolution, healthcare management, and refugee settlement assume complete knowledge about allocation decisions, which gives rise to negative computational and impossibility results. The existing approaches to mitigate these challenges, in turn, impose a high cost on transparency. The broad goal of this project is to provide theoretical and algorithmic solutions for fair allocation of indivisible items in practical, large-scale settings, as a broad contribution to the grand scheme of artificial intelligence (AI) and economics for social good. This research will offer a novel and promising perspective for developing practical and transparent fair solutions while providing a systematic investigation on the perceived fairness of allocation mechanisms that are applicable to societies at large. This project will integrate and develop algorithmic solutions for transparent fair division in a publicly available software system with the goal of extending its reach--and in general promoting fairness and transparency--to a broad national and international audience. \r\n\r\nThis project will develop a new framework for achieving fairness and efficiency in the allocation of indivisible resources with minimum cost on transparency. Specifically, it will make progress in four interconnected dimensions: 1) Tradeoffs between transparency, fairness, and efficiency, that aim at analyzing the compatibility of the properties and devising algorithmic solutions when allocating indivisible items, 2) Strategic aspects of fair division, that investigates agents' behavior and strategies under transparency requirements, 3) Domain restriction, that focuses on developing tractable solutions by circumventing the impossibility results in achieving compatible solutions, and 4) Bads and mixtures, that extend the transparency and fairness framework to include desirable (goods) and undesirable items (bads). Furthermore, this research plans to close the current gap between theoretical foundations of fairness and the perception of fairness through a series of comprehensive empirical evaluations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lirong",
+   "pi_last_name": "Xia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lirong Xia",
+   "pi_email_addr": "xialirong@gmail.com",
+   "nsf_id": "000663135",
+   "pi_start_date": "2025-03-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 323951.0
+  }
+ ],
+ "por": null
+}

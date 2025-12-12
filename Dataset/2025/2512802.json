@@ -1,0 +1,106 @@
+{
+ "awd_id": "2512802",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "DFG-NSF Physics: Multimessenger Astronomy of Neutron Star Mergers with Numerical Relativity",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032927372",
+ "po_email": "pmarrone@nsf.gov",
+ "po_sign_block_name": "Pedro Marronetti",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 392069.0,
+ "awd_amount": 392069.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "The collisions between neutron stars and between neutron stars and black holes are among the most energetic phenomena in the Universe. These events can be studied using gravitational-wave observatories, such as NSF's Laser Interferometer Gravitational-Wave Observatory (LIGO), and ground-based and space-based observatories, such as NSF's Vera Rubin Observatory and NASA's James Webb Space Telescope. Through these cosmic collisions it is possible to study, among others, the nature of matter at supernuclear densities, testing quantum chromo dynamics in a regime that cannot be probed on Earth, the nuclear physics involved in the formation of rare-earth elements, gold, and alkali metals, and the outcome of the evolution of massive stars. This project aims to develop the theoretical framework necessary to interpret upcoming observations and advance research in these areas. In particular, the team will construct a large template of synthetic neutron star merger observations, leveraging new national computing resources to perform sophisticated general-relativistic simulations. These data will then be used to develop statistical and artificial intelligence models that can be used to interpret real observations. This project will train one US graduate student and three US undergraduate students at the interface between high-performance computing, computational fluid dynamics, and machine learning, thus strengthening the US STEM workforce. This project will also develop new simulations and data analysis techniques and produce open-source code for the benefit of the broader STEM community. This work will be performed in collaboration with researchers at the Friedrich-Schiller-Universit\u00e4t, funded by the German science agency DFG, and will include a research exchange program with Germany, thereby strengthening bilateral ties with Germany.\r\n\r\nThe project will assemble a comprehensive, publicly accessible database of double neutron-star and black-hole neutron-star merger simulations and leverage it for multimessenger astronomy. The database will contain about 1,000 simulations, varying in the binary masses and spins, as well as in the equation of state used to describe neutron-star matter. For each simulation, the team will release the multipole-decomposed gravitational-wave signal, mass ejecta, and remnant properties, including 3D snapshots that could be used as initial conditions for longer-term postmerger simulations. The team will use the data to inform and calibrate 1) merger and post-merger gravitational-wave waveform models; 2) understand the critical physical dependencies of the post-merger evolution of binary neutron-star and black-hole neutron-star mergers; 3) data-driven models of the ejecta; and of 4) the expected thermal and non-thermal counterparts to mergers. These data and models will be the theoretical foundation for the interpretation of future merger observations. The database will also support independent theoretical and observational investigations by other teams.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "David",
+   "pi_last_name": "Radice",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "David Radice",
+   "pi_email_addr": "david.radice@psu.edu",
+   "nsf_id": "000734325",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "168021503",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "104 Davey Laboratory",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "124400",
+   "pgm_ele_name": "Gravity Theory"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1206",
+   "pgm_ref_txt": "THEORETICAL & COMPUTATIONAL ASTROPHYSICS"
+  },
+  {
+   "pgm_ref_code": "069Z",
+   "pgm_ref_txt": "Windows on the Universe (WoU)"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 392069.0
+  }
+ ],
+ "por": null
+}

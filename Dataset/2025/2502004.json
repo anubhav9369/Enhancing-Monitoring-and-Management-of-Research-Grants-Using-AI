@@ -1,0 +1,93 @@
+{
+ "awd_id": "2502004",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Homological aspects of local algebra, with a view towards modularity",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922976",
+ "po_email": "ewitt@nsf.gov",
+ "po_sign_block_name": "Emily E. Witt",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2027-07-31",
+ "tot_intn_awd_amt": 219199.0,
+ "awd_amount": 219199.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "One of the myriad functions of mathematics is to provide language for the formulation of equations that describe the physical world, and tools to solve them. Often the equations that arise are algebraic in nature, like those describing lines, circles, parabolas, and the like, in contrast with, say, equations involving the trigonometric functions, or logarithms, or derivatives. Typically, the equations have infinitely many solutions--think about the equation defining a circle--and it is usually not possible to write down a complete list of solutions. Rather, the objective is to find ways to study the structure of the collection of the solution set. A fruitful approach has been to consider the (algebraic) functions on these solution sets. These functions form a mathematical structure called a commutative ring, and the principal investigator's research over the past two decades has been dedicated to understanding these structures; not in the abstract, but in their various manifestations, which are galore, for they arise in various contexts across mathematics--e.g., in the representation theory of groups, in topology, and in number theory. This might be seen as an instance of what Venkatesh in his Ahlfors Lectures calls \u201cthe unreasonable effectiveness of mathematics in mathematics\u201d. In conjunction with the principal investigator's research plan, this project also provides research opportunities for, and training of, graduate students and postdoctoral scholars.\r\n\r\nAndrew Wiles deduced Fermat\u2019s Last Theorem as a byproduct of his proof of the Shimura-Taniyama-Weil (or modularity) conjecture that postulates that every elliptic curve, an object from the world of algebra, arises in a natural way from a modular form, an object from the world of analysis that is endowed with a lot of symmetries. Wiles\u2019 proof introduced many new techniques; central among them is the method of patching (in collaboration with Richard Taylor) and a numerical criterion for detecting when a map between certain types of commutative rings is an isomorphism. The Taylor-Wiles patching method has been developed extensively, leading to many new modularity results. However, the numerical criterion had resisted attempts of generalization to a broader context. A few years ago, the principal investigator, in collaboration with Chandrashekhar Khare and Jeff Manning, found a way to do just that. In combination with the patching method, they have used this to establish more refined modularity results than possible with pure patching alone. The principal investigator plans to develop new and more sophisticated commutative algebraic tools, driven by major open problems around modularity lifting, and algebraic number theory more generally. He and his PhD student will also implement some of these tools in the proof assistant Lean.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Srikanth",
+   "pi_last_name": "Iyengar",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Srikanth B Iyengar",
+   "pi_email_addr": "iyengar@math.utah.edu",
+   "nsf_id": "000287935",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126400",
+   "pgm_ele_name": "ALGEBRA,NUMBER THEORY,AND COM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 219199.0
+  }
+ ],
+ "por": null
+}

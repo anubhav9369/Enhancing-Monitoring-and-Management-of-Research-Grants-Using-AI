@@ -1,0 +1,122 @@
+{
+ "awd_id": "2544065",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Framework: Improving the Understanding and Representation of Atmospheric Gravity Waves using High-Resolution Observations and Machine Learning",
+ "cfda_num": "47.050, 47.070",
+ "org_code": "05090000",
+ "po_phone": "7032927743",
+ "po_email": "mpierce@nsf.gov",
+ "po_sign_block_name": "Marlon Pierce",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 1144020.0,
+ "awd_amount": 354318.0,
+ "awd_min_amd_letter_date": "2025-07-29",
+ "awd_max_amd_letter_date": "2025-07-29",
+ "awd_abstract_narration": "Geophysical gravity waves are a ubiquitous phenomenon in Earth\u2019s atmosphere and ocean, made possible by the interaction of gravity with a stratified, or layered fluid.  They are excited in the atmosphere when winds flow over mountains, by thunderstorms and other strong convective systems, and when winter storms intensify.  Gravity waves play an important role in the momentum and energy balance of the atmosphere, with direct impacts on surface weather and climate through their effect on the variability of key features of the climate system such as the jet streams and stratospheric polar vortices.  These waves present a challenge to weather and climate prediction: waves on scales of 100 meters to 100 kilometers can neither be systematically measured with conventional observational systems, nor properly resolved in global atmospheric models. As a result, these waves must be represented, or approximated, based on the resolved flow that can be directly simulated. Current representations of gravity waves are severely limited by computational necessity and the scarcity of observations, leading to inaccuracies or uncertainties in short term weather and long term climate predictions. The objective of this project is to leverage unprecedented observations from Loon high altitude balloons and use specialized high resolution computer simulations and machine learning techniques to develop accurate, data-informed representation of gravity waves. The outcomes of this project are expected to result in better weather and climate models, thus improving short term forecasts of weather extremes and long term climate change projections, which have substantial societal benefits. Furthermore, the project will support the training of 3 Ph.D. students, 4 postdocs, and 10 undergraduate summer researchers to work at the intersection of atmospheric dynamics, climate modeling, and data science, thus preparing the next generation of scientists for interdisciplinary careers.\r\n\r\nThe project will deliver two key advances. First, it will open up a new data source to constrain gravity wave momentum transport in the atmosphere. Loon LLC has been launching super pressure balloons since 2013 to provide global internet coverage. Very high resolution position, temperature, and pressure observations (taken every 60 seconds) are available from thousands of flights. This provides an unprecedented source of high resolution observations to constrain gravity wave sources and propagation. The project will process the balloon measurements and, in concert with novel high resolution simulations, establish a publicly available dataset to open up a potentially transformational resource for observationally constrained assessment of gravity wave sources, propagation, and breaking. The second transformation will be using machine learning techniques to develop computationally feasible representations of momentum deposition by gravity waves. Current physics-based representations only account for vertical propagation of the waves (i.e., they are one dimensional) and ignore their horizontal propagation. Using the data based on the Loon measurements and high resolution models, one and three dimensional data driven representations will be developed to more accurately and efficiently represent the effects of gravity waves in weather and climate models. These novel representations will be implemented in idealized atmospheric models to study the role of gravity waves in the variability of the extratropical jet streams, the Quasi Biennial Oscillation (a slow variation of the winds in the tropical stratosphere) and the polar vortex of the winter stratosphere, enabling better understanding their response to increased atmospheric greenhouse gas concentrations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pedram",
+   "pi_last_name": "Hassanzadeh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pedram Hassanzadeh",
+   "pi_email_addr": "pedramh@uchicago.edu",
+   "nsf_id": "000723866",
+   "pi_start_date": "2025-07-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Chicago",
+  "inst_street_address": "5801 S ELLIS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "7737028669",
+  "inst_zip_code": "606375418",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "IL01",
+  "org_lgl_bus_name": "UNIVERSITY OF CHICAGO",
+  "org_prnt_uei_num": "ZUE9HKT2CLC9",
+  "org_uei_num": "ZUE9HKT2CLC9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Chicago",
+  "perf_str_addr": "5801 S ELLIS AVE",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606375418",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "IL01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  },
+  {
+   "pgm_ele_code": "807400",
+   "pgm_ele_name": "EarthCube"
+  },
+  {
+   "pgm_ele_code": "574000",
+   "pgm_ele_name": "Climate & Large-Scale Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "026Z",
+   "pgm_ref_txt": "NSCI: National Strategic Computing Initi"
+  },
+  {
+   "pgm_ref_code": "077Z",
+   "pgm_ref_txt": "CSSI-1: Cyberinfr for Sustained Scientif"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  },
+  {
+   "pgm_ref_code": "7925",
+   "pgm_ref_txt": "LARGE PROJECT"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 354317.0
+  }
+ ],
+ "por": null
+}

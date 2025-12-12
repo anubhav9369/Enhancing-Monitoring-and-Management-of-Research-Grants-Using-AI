@@ -1,0 +1,110 @@
+{
+ "awd_id": "2502138",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ERI: Infrastructural Internet-of-Things Monitoring Integrating Edge Computing and Self-Powered Sensing Towards Smart Structures",
+ "cfda_num": "47.041, 47.083",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2027-04-30",
+ "tot_intn_awd_amt": 199901.0,
+ "awd_amount": 199901.0,
+ "awd_min_amd_letter_date": "2025-04-07",
+ "awd_max_amd_letter_date": "2025-04-07",
+ "awd_abstract_narration": "This Engineering Research Initiation (ERI) project will support research that attempts to develop an innovative infrastructure health monitoring system that facilitates real-time, energy-efficient monitoring. Infrastructure resilience is a societal grand challenge, especially given unprecedented stressors (e.g., climate change, natural hazards, explosive urbanization) now taxing our critical infrastructure systems. Existing infrastructure health monitoring systems employing modern sensing technologies that aim to overcome this difficulty by continuously monitoring the long- and short-term effects of these stressors. Nonetheless, these technologies suffer from several shortcomings, including energy availability, lack of scalability, automation, and reliance on centralized data processing. To address these challenges, the overarching objective of this project is to attempt to develop an infrastructure Internet of things (IoT) monitoring system integrating edge computing and self-powered sensing, enabling continuous, autonomous monitoring of infrastructure without relying on centralized servers or a constant power source. It aims to enhance infrastructure resilience, improving public safety and extending the lifespan of essential assets including bridges, buildings, and transportation networks. In addition to advancing the state-of-the-art in structural health monitoring, the project will contribute to workforce development by training students and researchers in cutting-edge technologies. Furthermore, if successful its scalable design holds the potential for broader societal applications, including smart cities, space exploration, and biomedicine.    \r\n  \r\nThis project support research that aims to develop a hierarchical, decentralized architecture for infrastructure health monitoring that processes data locally at the sensor nodes utilizing edge computing devices and self-powered sensors. The primary research objectives are: 1) develop a distributed edge computing architecture for real-time data processing and storage at the sensor nodes, and implement machine learning models on the edge computing nodes for structural health assessment; 2) integrate piezoelectric self-powered sensors with edge computing nodes and design communication protocols to ensure robust data collection and processing between the self-powered sensor nodes and edge nodes; 3) deploy and validate the integrated self-powered IoT-edge monitoring system through small-scale laboratory tests of plate structures. The research intends to demonstrate how this technology offers advantages over existing IoT-based monitoring systems by addressing key energy-efficiency and autonomy challenges through self-powered sensing, real-time data processing employing edge computing, enhanced scalability, and seamless network integration. The research intends to advance knowledge and technology for the development of smart structures with self-sensing and self-diagnostic functionalities, enhanced by edge computing, to foster a resilient and sustainable built environment.\r\n\r\nThis project is jointly funded by Civil Infrastructure Systems (CIS) program and the Established Program to Stimulate Competitive Research (EPSCoR).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hadi",
+   "pi_last_name": "Salehi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hadi Salehi",
+   "pi_email_addr": "hsalehi@latech.edu",
+   "nsf_id": "000922376",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Louisiana Tech University",
+  "inst_street_address": "RAIL ROAD AVE WYLY TWR 1620",
+  "inst_street_address_2": "",
+  "inst_city_name": "RUSTON",
+  "inst_state_code": "LA",
+  "inst_state_name": "Louisiana",
+  "inst_phone_num": "3182575075",
+  "inst_zip_code": "71272",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "LA05",
+  "org_lgl_bus_name": "LOUISIANA TECH UNIVERSITY",
+  "org_prnt_uei_num": "PAMDY6DMVVE7",
+  "org_uei_num": "PAMDY6DMVVE7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Louisiana Tech University",
+  "perf_str_addr": "RAIL ROAD AVE WYLY TWR 1620",
+  "perf_city_name": "RUSTON",
+  "perf_st_code": "LA",
+  "perf_st_name": "Louisiana",
+  "perf_zip_code": "712720001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "LA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "915000",
+   "pgm_ele_name": "EPSCoR Co-Funding"
+  },
+  {
+   "pgm_ele_code": "163100",
+   "pgm_ele_name": "CIS-Civil Infrastructure Syst"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "029E",
+   "pgm_ref_txt": "INFRASTRUCTURE SYSTEMS MGT"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9264",
+   "pgm_ref_txt": "RESEARCH INITIATION AWARD"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 199901.0
+  }
+ ],
+ "por": null
+}

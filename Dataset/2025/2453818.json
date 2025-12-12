@@ -1,0 +1,106 @@
+{
+ "awd_id": "2453818",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: SaTC: CORE: Medium: Practical Generative AI to Enhance Security Classifiers by Overcoming Data Challenges",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 320000.0,
+ "awd_amount": 320000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "Machine learning (ML) is increasingly used to combat cyberthreats. ML enables tools known as security classifiers to identify potential cyberthreats, e.g., to detect malicious software (\"malware\") or a network intrusion. Such classifiers are typically developed by collecting data on threats (e.g., malware samples) and benign entities (e.g., legitimate software), then building an ML model that learns patterns in the gathered training data that suggest the presence of threats. The model is then used in real systems  to help identify new undetected threats. However, for many security problems, good training data is hard to find. Threats may be relatively rare, or not shared by people and companies that experience them. This leads to unbalanced datasets that contain mostly benign cases, which ML models often struggle with. Threats also change over time, as malicious software is constantly evolving, and models may quickly go out of date. This project will develop ways to address these data challenges by developing methods for Generative Artificial Intelligence (GenAI) tools to create synthetic but useful data for network and application security tasks. Through this, the project will advance knowledge of both GenAI systems and more practical, effective defenses against cyberthreats. The project team will also create novel educational resources on AI and security topics and provide educational opportunities for pre-college teachers and students and research opportunities for undergraduate students.\r\n\r\nThe project's goal is to boost and maintain the performance of a security task by addressing training data challenges. The work is structured around three research thrusts. The first thrust focuses on conducting an in-depth study to evaluate the effectiveness of existing GenAI schemes in addressing data challenges in ML-based network and application security tasks, highlighting cases where they fall short and where there are opportunities for improvement. The second thrust is to develop a novel GenAI framework called Aura, which will be purpose-built for the security domain to generate high-quality synthetic data, even when training data are limited, biased, or have noisy labels. The third thrust will extend Aura to support security operations after deployment by designing novel techniques to mitigate concept drift and by enabling continual learning against evolving security threats. Aura will also provide novel model interpretation schemes to attribute predictions to synthetic data in the training set. Beyond the contributions to the specific problem of generating useful synthetic data, the project will also provide a case study of the larger goal of leveraging AI-based techniques to support security and privacy, an area of high interest to the research community.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bimal",
+   "pi_last_name": "Viswanath",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bimal Viswanath",
+   "pi_email_addr": "vbimal@cs.vt.edu",
+   "nsf_id": "000785295",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Virginia Polytechnic Institute and State University",
+  "inst_street_address": "300 TURNER ST NW",
+  "inst_street_address_2": "STE 4200",
+  "inst_city_name": "BLACKSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "5402315281",
+  "inst_zip_code": "240603359",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "VA09",
+  "org_lgl_bus_name": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
+  "org_prnt_uei_num": "X6KEFGLHSJX7",
+  "org_uei_num": "QDE5UHE5XD16"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Virginia Polytechnic Institute and State University",
+  "perf_str_addr": "620 Drillfield Drive",
+  "perf_city_name": "BLACKSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "240611050",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "VA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "806000",
+   "pgm_ele_name": "Secure &Trustworthy Cyberspace"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7924",
+   "pgm_ref_txt": "MEDIUM PROJECT"
+  },
+  {
+   "pgm_ref_code": "025Z",
+   "pgm_ref_txt": "SaTC: Secure and Trustworthy Cyberspace"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 320000.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,98 @@
+{
+ "awd_id": "2441804",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Towards Next-Generation Human-in-the-Loop and Human-over-the-Loop Computer Architecture Performance Analysis Infrastructure",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922625",
+ "po_email": "jjli@nsf.gov",
+ "po_sign_block_name": "Juan Li",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 598555.0,
+ "awd_amount": 598555.0,
+ "awd_min_amd_letter_date": "2024-12-20",
+ "awd_max_amd_letter_date": "2024-12-20",
+ "awd_abstract_narration": "This project develops innovative tools and techniques to enhance computer architecture analysis, a critical need given the complexity of modern chip designs. Computer architects often struggle to identify bottlenecks, understand underlying issues, and implement efficient improvements. Addressing these challenges, the project introduces advanced visualization, collaborative sensemaking, and generative artificial intelligence techniques to provide deeper insights into system performance, facilitating designing more efficient and sustainable computing systems. Highlighting human-in-the-loop and human-over-the-loop methods, the project fosters a flexible analytical workflow that empowers architects to balance manual insights with automated analysis, significantly improving the efficiency and scalability of performance diagnostics. The tools developed in this project will also serve educational purposes, supporting students in understanding complex computer architecture mechanisms and reducing learning barriers. \r\n\r\nExisting solutions for performance analysis usually focus on technical capabilities, emphasizing what tools can accomplish while paying limited attention to user experience and the capabilities or limitations of the users themselves. Instead, this project adopts a human-centered approach to design highly usable tools with enhanced user experience, significantly improving developer efficiency and capability. It focuses on three key methods. First, this project designs visualizations tailored for computer architecture systems to pinpoint reasons for slow execution. Second, this project enhances collaborative sensemaking by introducing tagging, annotation, and semantic coding to support multi-user analysis and discussions. Third, it leverages generative AI for automated analysis, identifying points of interest, diagnosing root causes, and suggesting potential improvements. The developed tools will be integrated into the existing tools developed under the PI\u2019s lead, which are already widely used by the community, to accelerate innovation in the computer architecture domain further.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yifan",
+   "pi_last_name": "Sun",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yifan Sun",
+   "pi_email_addr": "ysun25@wm.edu",
+   "nsf_id": "000845690",
+   "pi_start_date": "2024-12-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "College of William and Mary",
+  "inst_street_address": "1314 S MOUNT VERNON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "WILLIAMSBURG",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "7572213965",
+  "inst_zip_code": "23185",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "VA01",
+  "org_lgl_bus_name": "COLLEGE OF WILLIAM AND MARY",
+  "org_prnt_uei_num": "EVWJPCY6AD97",
+  "org_uei_num": "EVWJPCY6AD97"
+ },
+ "perf_inst": {
+  "perf_inst_name": "College of William and Mary",
+  "perf_str_addr": "1314 S MOUNT VERNON AVE",
+  "perf_city_name": "WILLIAMSBURG",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "231852817",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "VA01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "104500",
+   "pgm_ele_name": "CAREER: FACULTY EARLY CAR DEV"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 598555.0
+  }
+ ],
+ "por": null
+}

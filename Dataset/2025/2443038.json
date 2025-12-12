@@ -1,0 +1,118 @@
+{
+ "awd_id": "2443038",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: HCC: Quantifying Social and Affective Cognition in Humans and Machines",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032924420",
+ "po_email": "cbethel@nsf.gov",
+ "po_sign_block_name": "Cindy Bethel",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 508756.0,
+ "awd_amount": 348757.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "Recent advancements in Artificial Intelligence have produced general-purpose Large Language Models (as used in AI chatbots such as chatGPT) that millions of people use daily. These models not only produce text that is startlingly like human writing and spoken language, but have shown remarkable ability to understand people\u2019s emotions and even offer empathy. But we are unable to objectively gauge their true understanding of emotions, because we do not have rigorous definitions and tests that measure social and emotional understanding in AI. Without objective measures, we cannot assess progress in developing these models, identify blind spots or potential harms, or understand how to improve the emotional understanding of AI. This project addresses this knowledge gap, by defining what such social and emotional understanding entails, and devising new ways to measure the emotional capacity of AI language models. In parallel to the technical work, this project will also produce policy guidelines for designing and implementing AI that relies on understanding of human emotions, and educational materials to provide teenagers and adults with better AI literacy, and enable them to navigate the AI landscape with an awareness of its dangers. This project will ultimately enable practitioners to build more capable and safer conversational AI conversational that can better understand their human users.\r\n\r\nThe project combines theoretical frameworks from psychology with rigorous methods from computer science to define several types of reasoning over emotions. These include predicting emotions from situation contexts and mental states; reasoning about interventions to change emotions; and how to include modalities like facial expressions and vocal expressions to inform emotionally-aware AI. The research will systematically define reasoning tasks in a Question-Answer format and generate benchmark datasets that researchers can use to assess various aspects of social and affective cognition. The project will also assess the progress of modern Large Language Models and develop techniques to improve their performance on tasks that measure social and emotional capabilities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Desmond",
+   "pi_last_name": "Ong",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Desmond Ong",
+   "pi_email_addr": "desmond.ong@utexas.edu",
+   "nsf_id": "000916430",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 348757.0
+  }
+ ],
+ "por": null
+}

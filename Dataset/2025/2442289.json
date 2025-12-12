@@ -1,0 +1,118 @@
+{
+ "awd_id": "2442289",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CAREER: Composable Optimization for Robot Simulation and Control",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07010000",
+ "po_phone": "7032924568",
+ "po_email": "hdai@nsf.gov",
+ "po_sign_block_name": "Huaiyu Dai",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2030-09-30",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 650000.0,
+ "awd_min_amd_letter_date": "2025-07-03",
+ "awd_max_amd_letter_date": "2025-07-03",
+ "awd_abstract_narration": "Robots have come a long way in the past decade, but they still cannot reliably traverse or manipulate complex environments in the real world. This Faculty Early Career Development (CAREER) award supports research that looks to address two key reasons for this capability gap by developing 1) simulation tools that can efficiently and accurately capture relevant physics \u2013 including deformation, fluid interactions, and orbital dynamics \u2013 and 2) control methods that can reason about complex systems while simultaneously offering interpretability and safety guarantees. These advancements look to enable robots that can more efficiently, reliably, and safely interact with their environments and, therefore, bring us closer to a future in which robots are widely deployed to perform dangerous or tedious work. These robots could save lives by performing crucial tasks in dangerous environments instead of humans, and advance science by exploring places that are completely inaccessible to humans like deep oceans, space, and other planetary bodies. The education and outreach components of this award will also help inspire and recruit the next generation of scientists and engineers by directly engaging elementary and middle school students in future space missions.\r\n\r\nThis project addresses two high-level technical goals. The first is to develop better modeling and simulation tools for situations in which sufficient data for reinforcement learning is too difficult or expensive to obtain on hardware. The focus, in particular, will be on multi-physics simulation for the emerging application areas of space and underwater robotics, where current simulation tools are lacking. The second addresses the need for computationally and data-efficient control methods that scale to high-dimensional inputs like vision and tactile sensors and exploit modern parallel computing hardware like graphics processing units (GPUs). To achieve this, the rich intersection between classical data-driven behavioral control \u2013 which offers interpretability and a rich set of system-theoretic analysis tools \u2013 and state-of-the-art diffusion policy methods from machine learning will be investigated. The education and outreach components of this project will help recruit and train the next generation of scientists and engineers by inspiring students to pursue careers in STEM, mentoring undergraduate student researchers as they enter the field of robotics, and training graduate students in cutting-edge optimization, dynamics, and control techniques.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Zachary",
+   "pi_last_name": "Manchester",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Zachary Manchester",
+   "pi_email_addr": "zacm@cmu.edu",
+   "nsf_id": "000811174",
+   "pi_start_date": "2025-07-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carnegie-Mellon University",
+  "inst_street_address": "5000 FORBES AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "PITTSBURGH",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122688746",
+  "inst_zip_code": "152133890",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "PA12",
+  "org_lgl_bus_name": "CARNEGIE MELLON UNIVERSITY",
+  "org_prnt_uei_num": "U3NKNFLNQ613",
+  "org_uei_num": "U3NKNFLNQ613"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carnegie-Mellon University",
+  "perf_str_addr": "5000 FORBES AVE",
+  "perf_city_name": "PITTSBURGH",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "152133815",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "PA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  },
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "8888",
+   "pgm_ref_txt": "LEARNING & INTELLIGENT SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 650000.0
+  }
+ ],
+ "por": null
+}

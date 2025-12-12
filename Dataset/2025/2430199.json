@@ -1,0 +1,149 @@
+{
+ "awd_id": "2430199",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CC* Storage-Campus: Building a Complete Research Storage Solution at Franklin & Marshall College",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925184",
+ "po_email": "awapon@nsf.gov",
+ "po_sign_block_name": "Amy Apon",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 460542.0,
+ "awd_amount": 460542.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "Franklin & Marshall College (F&M) is deploying a research data storage solution to better meet the needs of researchers and their students to support scientific research and discovery. F&M researchers are generating increasing amounts of data through field work, experimentation and/or analysis work.  This work requires a centralized place to archive new and existing data that is not otherwise easily accessible or reproduced. This research storage solution enables F&M researchers to collaborate with other researchers around the globe by being connected to the fabric of research data infrastructure that resides beyond F&M\u2019s campus. Research is supported in areas such as climate change by mapping local bird populations using audio capture and understanding the dynamics of human/robot interaction. F&M is a leader amongst small colleges showcasing how it is possible to design and implement significant research infrastructure, even at a smaller institution, that advances scientific discovery.\r\n\r\nThe storage solution consists of 2.14PB of usable capacity in a multi-pool ZFS storage system designed for different storage needs. The first storage pool is designed to be a standard repository for general daily use and longer term storage data and consists of 142 18TB Enterprise 7200 drives. The second pool is a small faster flash based pool for use as a scratch in compute systems like the HPC cluster and central research workstations as well as network scratch used in VMware virtual infrastructure. It consists of 82 7.6TB SSD drives.  The final portion of the build consists of a redundant back-up host using ZFS replication.  This project contributes a portion of data storage resources to the Partnership to Advance Throughput Computing /Open Science Data Federation (PaTH/OSDF).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carrie",
+   "pi_last_name": "Rampp",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carrie Rampp",
+   "pi_email_addr": "crampp@fandm.edu",
+   "nsf_id": "000693784",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Dorothy",
+   "pi_last_name": "Merritts",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dorothy J Merritts",
+   "pi_email_addr": "dorothy.merritts@fandm.edu",
+   "nsf_id": "000211888",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jaime",
+   "pi_last_name": "Blair",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jaime Blair",
+   "pi_email_addr": "jaime.blair@fandm.edu",
+   "nsf_id": "000509685",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Justin",
+   "pi_last_name": "Brody",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Justin D Brody",
+   "pi_email_addr": "justin.brody@fandm.edu",
+   "nsf_id": "000651824",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jason",
+   "pi_last_name": "Brooks",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jason B Brooks",
+   "pi_email_addr": "jbrooks1@fandm.edu",
+   "nsf_id": "000830785",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Franklin and Marshall College",
+  "inst_street_address": "415 HARRISBURG AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "LANCASTER",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "7173584517",
+  "inst_zip_code": "176032827",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "PA11",
+  "org_lgl_bus_name": "FRANKLIN AND MARSHALL COLLEGE",
+  "org_prnt_uei_num": "P4NXVGAJNQK3",
+  "org_uei_num": "P4NXVGAJNQK3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Franklin and Marshall College",
+  "perf_str_addr": "415 HARRISBURG AVE",
+  "perf_city_name": "LANCASTER",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "176032827",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "PA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 460542.0
+  }
+ ],
+ "por": null
+}

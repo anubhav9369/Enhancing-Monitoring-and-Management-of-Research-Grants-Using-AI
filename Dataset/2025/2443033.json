@@ -1,0 +1,134 @@
+{
+ "awd_id": "2443033",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: CO2-Efficient Computing: Quantifying Trade-Offs in Power, Performance, Area, and Total Carbon Footprint of Monolithic Three-Dimensional Integrated Circuits",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 130134.0,
+ "awd_min_amd_letter_date": "2025-01-02",
+ "awd_max_amd_letter_date": "2025-07-03",
+ "awd_abstract_narration": "Computing\u2019s carbon footprint is growing at an unsustainable rate. To overcome this global challenge, researchers and professionals are exploring techniques to reduce the total carbon footprint of computing systems across their entire lifetime, considering both embodied carbon (due to emissions during manufacturing) and operational carbon (from day-to-day use.) This represents a paradigm shift in humanity\u2019s approach to designing computing systems, evolving from energy-efficient design (balancing performance and energy consumption) to carbon-efficient design (balancing performance and total carbon footprint). While today\u2019s efforts in carbon-efficient computing are essential, many of them focus on today\u2019s silicon-based technologies, and thus do not fully capture the wide range of future beyond-silicon technologies that are actively being investigated for future directions in energy-efficient computing. In particular, monolithic three-dimensional integrated circuits (3D ICs), which have multiple layers of computing and memory circuits densely integrated directly on top of each other in three dimensions, are unmatched in their projected energy efficiency benefits. However, their implications on computing\u2019s carbon footprint are not as well understood. This project aims to answer the following question: should monolithic 3D ICs be pursued for carbon-efficient computing, considering trade-offs in power, performance, area, operational carbon, and embodied carbon? This project also emphases two key goals in education. The first is to leverage recent developments in Augmented Reality and Virtual Reality (AR/VR) to help students visualize complex manufacturing processes for monolithic 3D ICs. The second is to instill the idea that carbon footprint is a first-class figure of merit for computing systems, alongside conventional metrics including power, performance, and area. \r\n\r\nThis project focuses on addressing three key challenges. Challenge 1: quantifying the embodied carbon footprint of future monolithic 3D ICs, as opposed to silicon-based ICs that are already commercially available, is particularly difficult for manufacturing processes that are not yet in production. Challenge 2: it is not clear which metrics (or figures of merit) designers should target for optimizing carbon efficiency, instead of energy efficiency. Challenge 3: there is high variability in quantifying carbon footprint, due to both (a) transparency: designers may not have full access to detailed carbon emission numbers from manufacturing, and (b) varying energy sources: the carbon footprint of executing a computing task varies depending on the energy source (for example, renewable versus non-renewable), which also changes over time. The technical approach is organized across four research thrusts designed to address these three key challenges. Thrust 1: Modeling embodied carbon of monolithic 3D ICs comprising emerging beyond-silicon nanotechnologies. Thrust 2: Analyzing metrics of carbon efficiency to drive carbon-aware optimization. Thrust 3: Developing case studies in carbon-efficient computing. Thrust 4: Leveraging mathematical robust optimization techniques to design carbon-efficient computing systems even when there is uncertainty in carbon accounting.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gage",
+   "pi_last_name": "Hills",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gage Hills",
+   "pi_email_addr": "ghills@seas.harvard.edu",
+   "nsf_id": "000841281",
+   "pi_start_date": "2025-01-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Harvard University",
+  "inst_street_address": "1033 MASSACHUSETTS AVE STE 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6174955501",
+  "inst_zip_code": "021385366",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LN53LCFJFL45"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Harvard University",
+  "perf_str_addr": "1033 MASSACHUSETTS AVE STE 3",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021385366",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 130134.0
+  }
+ ],
+ "por": null
+}

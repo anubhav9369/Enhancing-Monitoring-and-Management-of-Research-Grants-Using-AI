@@ -1,0 +1,138 @@
+{
+ "awd_id": "2513237",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Bridge to the HL-LHC: CMS Upgrades and Run 3 Physics",
+ "cfda_num": "47.049",
+ "org_code": "03010000",
+ "po_phone": "7032924516",
+ "po_email": "jshank@nsf.gov",
+ "po_sign_block_name": "James Shank",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 405908.0,
+ "awd_amount": 405908.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "This award provides support for the UIC group's high-energy physics program on the CMS experiment at the Large Hadron Collider (LHC) at CERN, a particle physics laboratory in Geneva, Switzerland.  The program balances measurements scrutinizing known particles such as the top quark and the Higgs boson with direct searches for well-motivated new particles that address profound questions about the fundamental workings of the universe.  Motivating questions include how the universe survived the Big Bang and the role of symmetries (and symmetry breaking) in nature.  These searches and measurements will use the most recent proton-proton collision data recorded by CMS, from the ongoing \u201cRun 3.\u201d  Further, this award will support upgrades to the CMS detector for the next run of the LHC, the High-Luminosity LHC (HL-LHC), scheduled to start in 2030.  The group is adapting machine-learning algorithms based on the same underlying structure as large language models for deployment in the \u201ctrigger\u201d hardware that decides, every 25 nanoseconds, which one in a million collision events should be kept for later analysis.  This award will also support testing the delicate components of the most precise part of the particle tracking, which must also endure punishing radiation conditions at the center of CMS.  The trigger and tracker efforts will both broadly increase the quality of physics results possible at the HL-LHC, and complement the program of searches and measurements, many of which will only reach their full potential at the HL-LHC and benefit directly from the hardware improvements.  In addition to the scientific benefits, this work provides invaluable training to the students in the group across a breadth of cutting-edge topics, and the extension of the longstanding and successful QuarkNet program helps generate excitement around basic science and develop scientific literacy at regional high schools.  \r\n\r\nThe CMS analyses that will be supported by this award address fundamental profound questions.  How can a light Higgs boson be reconciled with the huge, destabilizing quantum effects predicted by current theoretical models?  One possibility is a composite Higgs boson, which will be searched for via TeV-scale resonant states decaying to pairs of Standard Model (SM) bosons, reconstructed using machine-learning (ML) identification of their high-energy decays to quark pairs.  Do multiple types of Higgs bosons exist and enable the universe to survive after the Big Bang?  A direct search for heavy Higgs bosons with the lighter of the two decaying to a top quark-antiquark pair explores some of the most promising phase space for such a solution.  Can trace evidence of new physics be uncovered through precision measurements interpreted through tools such as quantum observables and effective field theories?  Boosted top quark signatures are an exciting theater for that exploration.  These searches and measurements will only come to full fruition with the larger dataset and significantly improved CMS detector of the HL-LHC.  The group complements its analysis program with a significant commitment to key hardware upgrades.  The group\u2019s goal for the Level-1 trigger is to deploy linearized transformer models for the identification of jets from heavy particles decaying partially or fully to hadrons.  These \u201clinformers\u201d have comparable performance to state-of-the-art transformers adapted for particle physics but with smaller size and faster inference.  This award will support work towards adapting them for FPGAs.  For the tracking detector, UIC will be the primary site for testing all of the pixel tracking modules after they are assembled from their component sensors, readout chips, and flexible circuit support and before they are installed onto half-disks, and this award will support the fast ramp-up needed as construction starts.  Students will gain not just practical skills with cutting-edge technology but also harder to quantify ones such as transforming abstraction to realizable projects, collaborating in teams, and communicating technical subjects effectively.  The QuarkNet program extends the spirit of our work to the high school level through the training of teachers and students in nontrivial measurements using cosmic rays, including tracking muon flux changes due to Coronal Mass Ejection events.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "PHY",
+ "org_div_long_name": "Division Of Physics",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cecilia",
+   "pi_last_name": "Gerber",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cecilia E Gerber",
+   "pi_email_addr": "gerber@uic.edu",
+   "nsf_id": "000297491",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Corrinne",
+   "pi_last_name": "Mills",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Corrinne Mills",
+   "pi_email_addr": "cmills10@uic.edu",
+   "nsf_id": "000731699",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Adams",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark R Adams",
+   "pi_email_addr": "adams@uic.edu",
+   "nsf_id": "000229271",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Richard",
+   "pi_last_name": "Cavanaugh",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Richard Cavanaugh",
+   "pi_email_addr": "cavana@uic.edu",
+   "nsf_id": "000527380",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Chicago",
+  "inst_street_address": "809 S MARSHFIELD AVE M/C 551",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3129962862",
+  "inst_zip_code": "606124305",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "W8XEAJDKMXH3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Chicago",
+  "perf_str_addr": "809 S MARSHFIELD AVE M/C 551",
+  "perf_city_name": "CHICAGO",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606124305",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "122100",
+   "pgm_ele_name": "HEP-High Energy Physics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "7483",
+   "pgm_ref_txt": "PHYSICS OF THE UNIVERSE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 405908.0
+  }
+ ],
+ "por": null
+}

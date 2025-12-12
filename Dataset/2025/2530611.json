@@ -1,0 +1,110 @@
+{
+ "awd_id": "2530611",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CAIG: Understanding the dynamical behavior of dense granular media in Geosciences using Interpretable AI",
+ "cfda_num": "47.050",
+ "org_code": "06010000",
+ "po_phone": "7032924938",
+ "po_email": "azaffos@nsf.gov",
+ "po_sign_block_name": "Andrew Zaffos",
+ "awd_eff_date": "2026-01-15",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 558188.0,
+ "awd_amount": 558188.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "Understanding how mixtures of solid particles and fluids, such as those found in avalanches, volcanic flows, and river sediments, initiate and how fast they propagate is vital for natural hazards and improving engineering models of Earth systems. These particle-laden flows are complex because the solids and fluids interact in diverse ways: sometimes the mixture acts like a solid, other times like a liquid, and often something in between. This project brings together geoscientists, computer scientists, and engineers to develop new models that better capture these behaviors by combining laboratory experiments, advanced numerical simulations, and artificial intelligence (AI). By using AI methods that are designed to be transparent and interpretable, this work not only enhances scientific understanding but also helps build public trust in AI-driven tools. The findings will support a broad range of geoscience applications and improve forecasts of events that can impact lives and infrastructure. Educationally, the project supports a vertically integrated training model, where postdocs mentor graduate and undergraduate students in a collaborative, hands-on research environment. The team will also create publicly accessible AI tools, YouTube tutorials, and organize quarterly seminars to disseminate their advances in AI for geosciences. These efforts will help prepare a new generation of researchers skilled in both scientific computing and Earth science.\r\n\r\n\r\nThis project aims to discover and validate an elasto-viscoplastic continuum rheology for dense granular suspensions under varying stress conditions, relevant to natural and engineered geophysical flows. Three central scientific questions guide the research: (1) how to represent stochastic force chains in a continuum framework, (2) how to define a rheology accounting for competing fluid\u2013particle and particle\u2013particle interactions, and (3) how to incorporate nonlocal and memory effects in stress evolution formulated using integro-differential equations. The approach integrates laboratory experiments, discrete element simulations, and interpretable machine learning. A novel by-design interpretable AI framework will be developed to discover analytical integro-differential equations for the rheological model, while physics-informed operator learning with Kolmogorov\u2013Arnold networks will enable its reduced-order surrogate modeling for GPU-based numerical solvers. The resulting models will be deployed in a large-scale application involving melt extraction from crystal-rich magmas. Open-source software and educational content will support broad dissemination. Collectively, this project advances both geoscientific understanding and AI methodologies for modeling multiscale, memory-driven systems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "RISE",
+ "org_div_long_name": "Integrative and Collaborative Education and Research (ICER)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Salah Aldin",
+   "pi_last_name": "Faroughi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Salah Aldin Faroughi",
+   "pi_email_addr": "salah.faroughi@utah.edu",
+   "nsf_id": "000801514",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Amirhossein",
+   "pi_last_name": "Arzani",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Amirhossein Arzani",
+   "pi_email_addr": "amir.arzani@sci.utah.edu",
+   "nsf_id": "000757350",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "243Y00",
+   "pgm_ele_name": "GEO CI - GEO Cyberinfrastrctre"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 558188.0
+  }
+ ],
+ "por": null
+}

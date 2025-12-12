@@ -1,0 +1,102 @@
+{
+ "awd_id": "2523495",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RI:Small:  Neuro-PGM: Neuro-Symbolic Integration with Probabilistic Graphical Models Towards Data Efficient, Generalizable, and Interpretable Deep Learning",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 598744.0,
+ "awd_amount": 598744.0,
+ "awd_min_amd_letter_date": "2025-07-15",
+ "awd_max_amd_letter_date": "2025-07-15",
+ "awd_abstract_narration": "Despite the impressive performance of modern deep learning models across various domains, they still suffer from several fundamental limitations, including high data dependency, poor generalization, and low interpretability. These limitations primarily arise from the data-driven nature of deep models and their inability to effectively leverage prior knowledge. Traditional symbolic AI models successfully incorporate different types of prior knowledge, offer interpretability, and exhibit good generalization. However, they suffer from the slow and difficult process of extracting and structuring knowledge and, therefore, do not scale up as well. To address these deficiencies and increase the applicability of deep learning models to many real-world scenarios, this project will create a hybrid AI model that systematically integrates modern deep learning with probabilistic graphical models (PGMs; a way of encoding relationships between variables to transit knowledge). Thus, the prior knowledge encoded in the PGMs works synergistically with the data encoded in the deep learning model. This approach, effectively incorporates prior knowledge into deep learning models and could greatly expand their utility to a wide range of data-scarce yet knowledge-rich applications\u2014such as those in manufacturing, scientific discovery, medicine, and defense.\r\n\r\nHowever, current efforts to address these limitations tend to be heuristic, ad hoc, and narrow in scope, both in the types of domain knowledge considered and in the methods used for knowledge integration. This project proposes a systematic and unified approach to identifying, encoding, and integrating prior knowledge with data.  Specifically, the project systematically categorizes and organizes diverse forms of prior knowledge\u2014including theoretical and experiential knowledge\u2014drawn from a broad range of sources. It employs PGMs as a unified framework to represent various types of knowledge (e.g., mathematical equations, logical rules, and knowledge graphs) and develops learning algorithms to automatically encode this knowledge into the PGM.  Finally, the project introduces complementary methods for integrating PGM-encoded knowledge with data within deep learning models at multiple levels, including decision level, architectural level, and training level. The proposed framework is evaluated on both vision-based tasks, such as human nonverbal behavior analysis and recognition, and non-vision tasks in domains like scientific discovery and manufacturing, with a focus on improving data efficiency, generalization, or interpretability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qiang",
+   "pi_last_name": "Ji",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qiang Ji",
+   "pi_email_addr": "qji@ecse.rpi.edu",
+   "nsf_id": "000350734",
+   "pi_start_date": "2025-07-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "121803590",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 598744.0
+  }
+ ],
+ "por": null
+}

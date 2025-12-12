@@ -1,0 +1,110 @@
+{
+ "awd_id": "2443828",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Integrating Conformal Prediction into Machine Learning for Provably Safe Deployment",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2030-05-31",
+ "tot_intn_awd_amt": 600000.0,
+ "awd_amount": 317381.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-06-06",
+ "awd_abstract_narration": "Advances in machine learning (ML) have opened up new possibilities for accurate predictions in various fields. To ensure the reliability of these predictions, especially in high-stakes decision-making scenarios, theory and tools need to be developed that provide confidence intervals. This research project aims to create innovative methods for quantifying uncertainty in complex systems, allowing for more informed and confident decision-making. One key aspect of this work is designing efficient collaboration between humans and machines, where artificial intelligence (AI) produces a set of possible solutions and human experts select the best option. For instance, in medical diagnosis, these tools will enable doctors to identify potential health risks by generating a short list of likely diagnoses, with the correct answer guaranteed to be included among them. Through a five-year program combining cutting-edge research, education, and community engagement, the researcher will develop novel algorithmic and theoretical frameworks to improve predictive accuracy and trustworthiness across various applications. To share the results broadly, the researcher will publish research papers, present at conferences, and provide tutorials on uncertainty quantification and safe ML deployment. \r\n\r\nThis project aims to create a new framework that seamlessly integrates conformal prediction principles into ML model training procedures. This integrated approach will enable the production of small uncertainty sets with rigorous guarantees, facilitating the safe deployment of ML models and efficient human-ML collaboration. To achieve this goal, the project will focus on three interconnected research areas.  First, develop calibration methods that can provide reliable assessments of confidence intervals using two complementary metrics: conformity scores from trained classifiers and label ranks.  Second, establish principled training objectives and optimization algorithms for conformally training deep neural network classifiers. Third, develop conformal calibration techniques tailored to large language models (LLMs) and optimize their fine-tuning procedures using a novel framework. These methods will address the unique challenges posed by LLMs while ensuring robust performance in high-stakes applications.  This research will be applied to real-world domains, including adaptive experimentation for design optimization, cybersecurity, health monitoring, smart agriculture, and elderly care. The team will collaborate closely with domain experts to ensure that our solutions meet the needs to tackle pressing societal problems.  The developed algorithms will be freely available through open-source software, enabling widespread adoption by academia and industry. The team also plans to engage with the broader community through education and outreach initiatives, including a novel Ambassador program to encourage underrepresented minority students in computer science, a short summer course on uncertainty quantification for engineers and scientists, and a partnerships with existing programs to recruit students in computer science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yan",
+   "pi_last_name": "Yan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yan Yan",
+   "pi_email_addr": "yan.yan1@wsu.edu",
+   "nsf_id": "000815262",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington State University",
+  "inst_street_address": "240 FRENCH ADMINISTRATION BLDG",
+  "inst_street_address_2": "",
+  "inst_city_name": "PULLMAN",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "5093359661",
+  "inst_zip_code": "991640001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "WA05",
+  "org_lgl_bus_name": "WASHINGTON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XRJSGX384TD6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington State University",
+  "perf_str_addr": "355 NE Spoakane St",
+  "perf_city_name": "PULLMAN",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "991642752",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "WA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 317381.0
+  }
+ ],
+ "por": null
+}

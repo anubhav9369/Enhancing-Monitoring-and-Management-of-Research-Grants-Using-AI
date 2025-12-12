@@ -1,0 +1,134 @@
+{
+ "awd_id": "2442137",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Towards Reliable Machine Learning in Feedback Systems",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928318",
+ "po_email": "vpavlovi@nsf.gov",
+ "po_sign_block_name": "Vladimir Pavlovic",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2030-03-31",
+ "tot_intn_awd_amt": 602549.0,
+ "awd_amount": 101476.0,
+ "awd_min_amd_letter_date": "2025-03-27",
+ "awd_max_amd_letter_date": "2025-03-27",
+ "awd_abstract_narration": "Machine learning has made significant advancements in tasks like image recognition and click prediction, enabling applications such as self-driving cars and personalized social media feeds. However, when machine learning predictions are deployed to make decisions, small errors can have unintended consequences. In feedback loops, these errors can compound, leading to problems in safety, bias, and performance.  This project aims to address this challenge by developing algorithms for reliable decision-making in complex systems, ensuring that the benefits of machine learning are realized while minimizing its risks. By understanding how feedback loops work, we can unlock the full potential of machine learning to improve outcomes in areas like weather prediction, recommendation systems, and human-robot collaboration.  Our research program will develop innovative solutions that benefit society as a whole, with a focus on developing theory and algorithms that have direct impact on these applications. In addition, an integrated education plan will promote computer science education and inspire the next generation of innovators. Hands-on projects and interactive modules will introduce high school students to exciting topics like weather forecasting, balloon control, and robotics.\r\n\r\nThe project will leverage ideas and techniques from online optimization, control theory, system identification, and reinforcement learning to answer the following questions:  How should decision algorithms make use of possibly unreliable machine learning predictions while ensuring good outcomes? How can we reliably predict the long-term impacts of decisions with models learned from temporally correlated data? How do we adaptively make decisions while learning about initially unknown impacts?  The algorithmic and theoretical frameworks will be developed in tandem with applications in weather prediction, autonomous aerial navigation, recommendation systems, and human-robot interaction, along the following three thrusts. First, consider decision-making with ML predictions. Reliably leveraging unreliable predictions requires accounting for potential errors to guard against bad outcomes. The researchers will first develop algorithms that robustly guarantee performance and safety while benefiting from predictions when they are accurate and then use decision performance as a metric to evaluate prediction quality. Second, consider learning models of impacts. Understanding the long-term impacts of decisions on individuals is crucial, and yet human activities are non-stationary, correlated, and partially observed. The researchers will develop reliable learning algorithms for data arising from such processes, with a particular focus on finite sample uncertainty quantification and bounded sample complexity. Third, consider sample-efficient reinforcement learning: Adaptive decision-making requires simultaneously learning from data while making decisions. The researchers will develop model-based algorithms which can operate even in partially observed settings, such as the non-stationary user behaviors important for applications like recommendation and human-robot collaboration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sarah",
+   "pi_last_name": "Dean",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sarah Dean",
+   "pi_email_addr": "sdean@cornell.edu",
+   "nsf_id": "000880502",
+   "pi_start_date": "2025-03-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 101476.0
+  }
+ ],
+ "por": null
+}

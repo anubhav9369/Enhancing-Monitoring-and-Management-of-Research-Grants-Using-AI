@@ -1,0 +1,114 @@
+{
+ "awd_id": "2515805",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Flexible and Scalable Cluster Analysis of Longitudinal Microbiome Data to Define Functional Groups",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924551",
+ "po_email": "jzhu@nsf.gov",
+ "po_sign_block_name": "Jun Zhu",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "Current research on human and animal microbiomes is largely focused on monitoring and reshaping individual microbes or global microbial communities to diagnose, treat, and prevent diseases, as well as track and improve population health. These fine-scaled and coarse-scaled analyses likely miss an important intermediate ecological scale---functional groups of microbes, which may serve as potent biomarkers of host or ecosystem health as well as targets for medical therapies. This project aims to identify functional groups of microbes by learning their temporal dynamics through longitudinal microbiome studies. However, longitudinal microbiome data possess unique characteristics, such as compositionality, high dimensionality, sparsity, and temporal dependence, and their cluster analysis thus presents distinct challenges. The investigators will develop flexible and scalable functional cluster analysis methods to generate biologically meaningful microbial groups. The investigators will develop, distribute, document, and maintain R software packages for their developed methods, will provide tutorials with example datasets, and will test the software in real-world settings. The investigators will train high-school, undergraduate, and graduate students at the intersection of statistics, ecology, and genomics.\r\n\r\nThe project aims to expand the traditional toolbox of functional cluster analysis by introducing broader similarity measures of functional curves, incorporating the effects of external factors on the curves to be clustered, and developing a general framework for clustering longitudinal profiles from multivariate non-normal data. Specifically, this project will (1) innovate functional cluster analysis to enable the identification of microbial functional groups defined by novel and flexible subgroups of microbes with similar dynamic patterns, such as scale-invariant and gradient-sign-invariant subgroups; (2) develop adaptable and scalable clustering tools for specific functional groups that react similarly to external factors, in order to link microbial functional group profiles to ecosystem or host health factors; and (3) adapt the clustering tools tailored to the specific characteristics of microbiome data, and identify functional groups of microbes that contribute to wildlife and human health by applying the proposed analytical methods to real ecological and biomedical datasets.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yuan",
+   "pi_last_name": "Jiang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yuan Jiang",
+   "pi_email_addr": "yuan.jiang@oregonstate.edu",
+   "nsf_id": "000640919",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Lan",
+   "pi_last_name": "Xue",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lan Xue",
+   "pi_email_addr": "xuel@stat.oregonstate.edu",
+   "nsf_id": "000325796",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": null
+}

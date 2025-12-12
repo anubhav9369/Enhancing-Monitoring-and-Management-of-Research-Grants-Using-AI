@@ -1,0 +1,98 @@
+{
+ "awd_id": "2453121",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Optimal Transport, Regularity, and Branched Microstructures",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 204069.0,
+ "awd_amount": 204069.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "A great number of problems in physics, mathematics and other scientific disciplines are variational, that is, their solutions are obtained by optimizing cost or energy functions subject to certain constraints. A classical question, for instance, is concerned with the most efficient way to move resources from one place to another. The mathematical theory addressing this is the theory of optimal transport. It has deep connections to analysis, geometry, and probability, and plays a central role in a wide range of applications, including economics, fluid dynamics, and machine learning. While the existence of optimal transport plans can be established in great generality, the study of their structure and fine properties is more delicate. This is the aim of regularity theory, which analyzes whether solutions are well-behaved or develop singularities. These insights are important for theoretical developments and practical applications. The investigator studies the regularity of optimal transport plans in situations relevant to quantum chemistry and data science. There are also connections to materials science: regularity theory turns out to be related to the mathematical understanding of microstructure in materials such as thin-film ferromagnets and superconductors. Understanding the emergence of complex patterns has been a long-lasting effort by scientists. From the mathematical point of view, proving their existence and formation is an extremely challenging task. This project has a broad educational impact by integrating cutting-edge mathematical ideas into both graduate and undergraduate education. It provides valuable training opportunities for graduate students through direct involvement in research-level mathematics.\r\n\r\nThe focus of the project is the regularity of optimal transport. This concerns classical as well as multi-marginal optimal transport, which addresses the question of correlating more than two measures in the most efficient way. Until recently, the regularity theory of optimal transport has mostly been based on partial differential equations techniques. However, one can also obtain regularity results for optimal transport plans based on energy estimates, that is, within a fully variational framework; this approach is orthogonal to the classical one based on Monge-Amp\u00e8re equations and is similar to De Giorgi\u2019s approach to the regularity of minimal surfaces. The investigator develops this variational approach further, in particular in degenerate and singular situations such as optimal transport with Coulomb cost, which is of relevance in electronic density functional theory \u2013 a central tool in the investigation of quantum systems and the development of new quantum technologies. The investigator also explores the regularity of multi-marginal optimal transport and Wasserstein barycenters. A different but closely related research direction concerns the development of a robust mathematical framework to understand and analyze branching phenomena, focusing on the description of branched microstructures in a statistical sense. On the mathematical level, this can be seen as regularity theory in action.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tobias",
+   "pi_last_name": "Ried",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tobias Ried",
+   "pi_email_addr": "tobias.ried@gatech.edu",
+   "nsf_id": "0000A10WZ",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia Tech Research Corporation",
+  "inst_street_address": "926 DALNEY ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4048944819",
+  "inst_zip_code": "303186395",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA TECH RESEARCH CORP",
+  "org_prnt_uei_num": "EMW9FC8J3HN4",
+  "org_uei_num": "EMW9FC8J3HN4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia Tech Research Corporation",
+  "perf_str_addr": "686 Cherry Street",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303320160",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 204069.0
+  }
+ ],
+ "por": null
+}

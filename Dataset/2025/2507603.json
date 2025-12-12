@@ -1,0 +1,110 @@
+{
+ "awd_id": "2507603",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STTR Phase I: Beyond Shot Noise - Plasmonic Metasurface Coherent Optical Detection for Room Temperature, Single Photon Detectors",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 304987.0,
+ "awd_amount": 304987.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "The broader impact and commercial potential of this Small Business Technology Transfer (STTR) Phase I project lie in advancing light detection technology through the development of highly sensitive detectors capable of sensing a single particle of light at room temperature. Unlike existing technologies that require extreme cooling, these detectors offer greater accessibility and efficiency, with applications spanning satellite communication, secure online communication, national security, and healthcare. In satellite-based optical communication, they can enable faster, more secure, and reliable data transmission, while in cybersecurity, they can strengthen quantum encryption to protect against cyber threats. Their use in defense may enhance surveillance and threat detection, and in healthcare, they may improve medical imaging and diagnostics by increasing sensitivity and accuracy. By supporting data privacy, sustainable and energy-efficient solutions, and global security, this technology addresses critical societal needs. With a rapidly growing $1.5 billion market for space communication and an annual growth rate of 16\u201330%, these detectors have the potential to drive innovation and create widespread economic and technological advancements.\r\n\r\nThis Small Business Technology Transfer (STTR) Phase I project will address the need for ultrasensitive optical detectors and ranging systems that provide a critical means for information acquisition and perception of the real world. Coherent optical detection, where a weak sample beam is mixed with a strong reference beam before photoconversion, is currently the most sensitive technique, but is ultimately limited by quantum shot noise resulting from the reference beam. This project aims to demonstrate that fundamentally lower detector noise is possible while retaining coherent mixing and amplification benefits. Using a passive, range-mapping, coherence sensitive plasmonic optical amplifier to mix the weak sample and strong reference beams prior to photoconversion makes the limiting shot noise proportional to the amplified intensity of the weak sample beam instead of the strong reference beam. This fundamental change improves signal-to-noise, and therefore detection sensitivity. This proposal will demonstrate a broadly applicable approach to fundamentally improve optical detection signal-to-noise in coherent detection. It will expand the application envelope for not only ranging detectors, but for all applications where it is possible to access a reference beam.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andres",
+   "pi_last_name": "Zuluaga",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andres F Zuluaga",
+   "pi_email_addr": "azuluaga@cv-optics.com",
+   "nsf_id": "000871742",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Juejun",
+   "pi_last_name": "Hu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juejun Hu",
+   "pi_email_addr": "hujuejun@mit.edu",
+   "nsf_id": "000571505",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "CLEARVIEW OPTICS LLC",
+  "inst_street_address": "187 WOODLAND RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHESTNUT HILL",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173889858",
+  "inst_zip_code": "024672322",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MA04",
+  "org_lgl_bus_name": "CLEARVIEW OPTICS LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H6Z4HLTJLT85"
+ },
+ "perf_inst": {
+  "perf_inst_name": "CLEARVIEW OPTICS LLC",
+  "perf_str_addr": "187 WOODLAND RD",
+  "perf_city_name": "CHESTNUT HILL",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "024672322",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150500",
+   "pgm_ele_name": "STTR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8990",
+   "pgm_ref_txt": "Optics and Photonics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304987.0
+  }
+ ],
+ "por": null
+}

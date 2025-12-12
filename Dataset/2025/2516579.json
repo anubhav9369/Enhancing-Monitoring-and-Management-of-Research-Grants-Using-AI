@@ -1,0 +1,106 @@
+{
+ "awd_id": "2516579",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: CSSI Frameworks: From Notebook to Workflow and Back Again",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032928386",
+ "po_email": "wtung@nsf.gov",
+ "po_sign_block_name": "Wen-Wen Tung",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 976705.0,
+ "awd_amount": 976705.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2025-02-13",
+ "awd_abstract_narration": "Computational notebooks have become a cornerstone of the scientific computing enterprise, providing an interactive means to acquire and communicate insights, share discoveries, and visualize experimental outcomes.  However, computational notebooks today are most suited for small-scale explorations carried out on a single computer, and are quite difficult to use for large-scale computations on high performance computing clusters or commercial clouds.  This project will develop NBFlow, a software toolkit for converting notebook computations into workflows that are feasible to execute efficiently on clusters or clouds.  This will make it possible to use notebook technologies in conjunction with high performance clusters to enable new discoveries in scientific fields such as high energy physics and geosciences.  These technologies will be used to develop new educational curricula, outreach activities for K-12 students, and research experiences for college students.\r\n\r\nNBFlow will support and advance the use of computational notebooks in scientific research and data analysis by bridging the gap between interactive computation and distributed cyberinfrastructure developed for data-intensive sciences.  Today's notebook environments provide easy access to standard artificial intelligence and machine learning toolkits for processing vast datasets with greater efficiency and accuracy compared to conventional methods. However, migrating a notebook from a scratchpad-like analysis to a robust  pipeline, which must be distributed across a cluster or cloud infrastructure, currently requires significant efforts by developers and scientists.  NBFlow will build upon existing NSF investments in the areas of containerization and workflows that will record notebook executions and schedule tasks for concurrent execution.  By experimenting with an integrated notebook-workflow system, this cutting-edge research will advance understanding in data management and distributed computing sub-fields. At the same time, the project will produce novel techniques to robustly capture provenance from notebook-based workflows, a rich source of data in itself, as well as put techniques developed for incremental computation to practice.  These technologies will be deployed with active user communities in high energy physics at multiple facilities and in geospatial and sustainability sciences through the I-GUIDE cyberinfrastructure.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tanu",
+   "pi_last_name": "Malik",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tanu Malik",
+   "pi_email_addr": "tanu.malik@depaul.edu",
+   "nsf_id": "000618829",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Missouri-Columbia",
+  "inst_street_address": "121 UNIVERSITY HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBIA",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "5738827560",
+  "inst_zip_code": "652113020",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MO03",
+  "org_lgl_bus_name": "UNIVERSITY OF MISSOURI SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SZPJL5ZRCLF4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Missouri-Columbia",
+  "perf_str_addr": "121 UNIVERSITY HALL",
+  "perf_city_name": "COLUMBIA",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "652113020",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MO03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "800400",
+   "pgm_ele_name": "Software Institutes"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7569",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE/SCIENCE"
+  },
+  {
+   "pgm_ref_code": "077Z",
+   "pgm_ref_txt": "CSSI-1: Cyberinfr for Sustained Scientif"
+  },
+  {
+   "pgm_ref_code": "8004",
+   "pgm_ref_txt": "Software Institutes"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 976705.0
+  }
+ ],
+ "por": null
+}

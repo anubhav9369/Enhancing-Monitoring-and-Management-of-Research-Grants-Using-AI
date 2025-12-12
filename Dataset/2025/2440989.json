@@ -1,0 +1,138 @@
+{
+ "awd_id": "2440989",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Physically-Aware Accelerator Design Flows for Motion Planning",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927498",
+ "po_email": "achtchel@nsf.gov",
+ "po_sign_block_name": "Almadena Chtchelkanova",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2029-12-31",
+ "tot_intn_awd_amt": 669930.0,
+ "awd_amount": 127658.0,
+ "awd_min_amd_letter_date": "2024-12-27",
+ "awd_max_amd_letter_date": "2024-12-27",
+ "awd_abstract_narration": "A focus of modern computer engineering is designing customized computer processors (accelerators) in order to meet the timing and power needs of emerging applications, and one critical application space that can benefit from customized accelerators is autonomous systems, e.g., robots that can walk and grasp objects. Robots must complete heavy computational workloads fast enough to keep up with changes in the world around them, especially if they are interacting closely with people (e.g., assistive technology, elder care), because they must react quickly to guarantee safety. However, a key challenge in designing accelerators for autonomous systems is the enormous diversity of deployment scenarios (variations in robot shape, weight, power, task, environment, etc.), leading to an explosion of the computing design space. This project will enable efficient navigation of this large, diverse design space by identifying common computational patterns that are shaped by the physical characteristics of the robot deployment scenario and encoding this physical information into the accelerator design process. This will enable the design of accelerators to increase the capabilities of autonomous systems, including unlocking faster control to help robots safely interact with people. Additionally, the educational and outreach activities associated with this project will prepare students for careers in advanced interdisciplinary computing design.\r\n\r\nSpecifically, this project targets the application of motion planning for autonomous systems (i.e., calculating motion trajectories), with three main technical tasks: (1) Developing a library of hardware design flows for commonly-used motion-related computations; (2) Establishing intermediate representations, interfaces, and domain-specific languages to encode real-world parameters, and combining the low-level hardware flows with high-level algorithmic-choice optimizations; and (3) Creating runtime systems that tune both the algorithmic and hardware parameters adaptively during the runtime of a robot motion planning task. This work complements existing hardware compiler and high-level synthesis (HLS) techniques, providing richer information to guide design optimization, and enabling agile deployment of accelerators without ongoing intervention from domain experts or computer engineers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sabrina",
+   "pi_last_name": "Neuman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sabrina Neuman",
+   "pi_email_addr": "sneuman@bu.edu",
+   "nsf_id": "0000A0J92",
+   "pi_start_date": "2024-12-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Trustees of Boston University",
+  "inst_street_address": "1 SILBER WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOSTON",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6173534365",
+  "inst_zip_code": "022151703",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "THL6A6JLE1S7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston University",
+  "perf_str_addr": "1 SILBER WAY",
+  "perf_city_name": "BOSTON",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "022151703",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779800",
+   "pgm_ele_name": "Software & Hardware Foundation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "7941",
+   "pgm_ref_txt": "COMPUTER ARCHITECTURE"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 127658.0
+  }
+ ],
+ "por": null
+}

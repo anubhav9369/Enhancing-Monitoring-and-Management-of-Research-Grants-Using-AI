@@ -1,0 +1,93 @@
+{
+ "awd_id": "2529058",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Sustaining the Network for Advanced NMR Cyberinfrastructure",
+ "cfda_num": "47.074",
+ "org_code": "08080000",
+ "po_phone": "7032928297",
+ "po_email": "kvarga@nsf.gov",
+ "po_sign_block_name": "Krisztina Varga",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 252629.0,
+ "awd_amount": 252629.0,
+ "awd_min_amd_letter_date": "2025-07-16",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "The Network for Advanced NMR (NAN) is a distributed resource for high-field NMR for applications in structural biology, metabolomics, material science, and chemistry. NAN affords under-resourced institutions and individuals, including PUIs and young investigators, access to resources that were previously accessible mainly to larger institutions. Investigators from across the US can discover appropriate instruments, access tutorials on experimental protocols for both experts and novices, and request time allocation. Samples can be shipped to any of the three NAN nodes, and spectrometers can be accessed and operated remotely. NAN provides resources for data storage and management, and a rich set of collaboration tools, including granular control of data sharing. The NAN team conducts regular in-person and virtual workshops and hosts an ongoing web-based seminar series to further promote research community engagement.\r\n \r\nNAN simplifies discovery, access, and use of NMR instruments, including modern high-field instruments, for investigators across the US.  A key element of NAN is cyberinfrastructure (CI) linking NAN spectrometers to a central hub. The CI includes four main components: (1) NAN Data Transport System (NDTS) comprised of a lightweight GUI and daemon that operates on the spectrometer, a facility gateway which communicates with spectrometers, a receiver, and a parser which copies datasets to storage appliances and creates database entries. (2) A web portal for resource discovery, resource requests, dissemination of knowledgebase content, management dashboards for facilities and labs, and a web browser for datasets and samples. (3) Services such as web application APIs, databases, authentication, and developer support services (4) System administration services for cybersecurity, backups, account management, and upgrades. The close interaction between NAN and the free NMRbox platform allows all users to process data acquired through NAN using the NMR software environment and high-performance computational resources available through NMRbox. NAN also integrates with other research infrastructure resources (for example the Biological Magnetic Resonance Data Bank), fostering the promulgation of and adherence to FAIR data principles.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "DBI",
+ "org_div_long_name": "Division of Biological Infrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jeffrey",
+   "pi_last_name": "Hoch",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeffrey C Hoch",
+   "pi_email_addr": "hoch@uchc.edu",
+   "nsf_id": "000292272",
+   "pi_start_date": "2025-07-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Connecticut Health Center",
+  "inst_street_address": "263 FARMINGTON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "FARMINGTON",
+  "inst_state_code": "CT",
+  "inst_state_name": "Connecticut",
+  "inst_phone_num": "8606794040",
+  "inst_zip_code": "060300001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "CT05",
+  "org_lgl_bus_name": "UNIVERSITY OF CONNECTICUT HEALTH CENTER",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H6D6JMXJXDE6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Connecticut Health Center",
+  "perf_str_addr": "263 FARMINGTON AVE",
+  "perf_city_name": "FARMINGTON",
+  "perf_st_code": "CT",
+  "perf_st_name": "Connecticut",
+  "perf_zip_code": "060300001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "CT05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "086Y00",
+   "pgm_ele_name": "Sustained Availability of Biol"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 252629.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,126 @@
+{
+ "awd_id": "2450567",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "CIRC: GRAND/ENS: COSMOS3: Enhancing and Sustaining the COSMOS Platform",
+ "cfda_num": "47.070",
+ "org_code": "05050000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 3800000.0,
+ "awd_amount": 3365448.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-09-12",
+ "awd_abstract_narration": "The COSMOS^3 project is to enhance and expand the COSMOS platform, a city-scale testbed for advanced wireless, networking, and sensing technologies, deployed in New York City (NYC). COSMOS is one of the projects under the NSF Platforms for Advanced Wireless Research (PAWR) program. The project aims to enable studying smarter and safer urban environments by deploying new wireless nodes and sensors\u2014such as cameras, lidars, and radars\u2014across key intersections in New York City. These tools will enable inventing and testing new technologies that could improve everyday life. The COSMOS^3 platform is designed to be open and accessible for a wide range of users to learn, experiment, and create technology that shapes the future of cities.\r\n\r\nThe project is organized into several thrusts: (i) design and deployment of advanced hardware nodes that support a wider range of wireless frequencies (FR1/FR2/FR3) and multi-modal sensing; (ii) development of open-source software tools for managing experiments and processing real-time data; and (iii) development of educational materials and hands-on tutorials to support learning and experimentation. The COSMOS^3 infrastructure enables research on a wide range of next-generation wireless network scenarios including joint communication and sensing (JCAS), dynamic spectrum sharing, edge artificial intelligence (Edge AI), and smart intersections. By integrating programmable radios, multi-modal sensors, and high-performance edge computing, COSMOS^3 provides a flexible platform for experimentation and development that goes beyond what existing urban testbeds can offer, driving the advancement of next-generation wireless technologies.\r\n\r\nIn terms of broader impacts, the COSMOS^3 testbed will accelerate wireless technology innovation, benefiting both the industry and end-users of mobile services. The project will also help to foster a growing community of research users and to encourage the use of the platform at local, regional, national, and global scales. The COSMOS^3 team hosts workshops, internships, and training programs to expand access to the testbed\u2019s resources. By sharing all data, code, and training materials, the project is designed to accelerate discovery, foster collaboration, and enable new research and educational opportunities across many fields.\r\nProject information, software, datasets, and experimenter resources for COSMOS^3 are made available at https://cosmos-lab.org/. The project team is committed to maintaining the repository and website for the duration of the award and for at least two years beyond its completion. Long-term sustainability will be pursued through partnerships, community engagement, and integration with other research and education programs, ensuring COSMOS^3 remains a valuable resource into the future.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CNS",
+ "org_div_long_name": "Division Of Computer and Network Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ivan",
+   "pi_last_name": "Seskar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ivan Seskar",
+   "pi_email_addr": "seskar@winlab.rutgers.edu",
+   "nsf_id": "000195782",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Dipankar",
+   "pi_last_name": "Raychaudhuri",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dipankar Raychaudhuri",
+   "pi_email_addr": "ray@winlab.rutgers.edu",
+   "nsf_id": "000181288",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "3 RUTGERS PLZ",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735900",
+   "pgm_ele_name": "CCRI-CISE Cmnty Rsrch Infrstrc"
+  },
+  {
+   "pgm_ele_code": "289000",
+   "pgm_ele_name": "CISE Research Resources"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "044Z",
+   "pgm_ref_txt": "PAWR- Platforms for Advanced Wireless Re"
+  },
+  {
+   "pgm_ref_code": "7359",
+   "pgm_ref_txt": "COMPUTING RES INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 3365448.0
+  }
+ ],
+ "por": null
+}

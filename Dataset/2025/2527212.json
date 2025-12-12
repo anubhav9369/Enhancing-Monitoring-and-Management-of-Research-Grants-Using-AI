@@ -1,0 +1,134 @@
+{
+ "awd_id": "2527212",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "eMB: Leveraging artificial intelligence velocimetry to solve mysteries of cerebrospinal fluid flow in the brain",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032927523",
+ "po_email": "zfeng@nsf.gov",
+ "po_sign_block_name": "Zhilan Feng",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 299999.0,
+ "awd_amount": 299999.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "The brain circulates cerebrospinal fluid to clear metabolic waste, but the circulation system is altered with aging, stroke, and high blood pressure, and its failure is linked to Alzheimer's disease. Yet, there is still much scientists do not know about how this brain-cleaning system works because it is currently impossible to measure fluid flow deep inside living brains. This knowledge gap makes it difficult to propose potential interventions to rehabilitate or prevent damage caused when the system does not function properly. The project will use a newly developed method, artificial intelligence velocimetry, to infer measure cerebrospinal fluid (CSF) speeds deep inside the brain, answering crucial questions about how the brain clears metabolic waste in a healthy state and with high blood pressure. Because artificial intelligence velocimetry is a new method, the project will also carefully test how accurate the inferences are to ensure the results can be trusted. Understanding how this brain cleaning system works could lead to new ways to prevent or treat brain diseases and improve how medicines are delivered to the brain. This project could also benefit other areas of science where fluids move through complex spaces, like the lungs or kidneys. In addition to the scientific goals, this project will train graduate students, create educational videos to engage the public, and offer hands-on engineering experiences to high school students. This research will not only answer important questions related to brain health, but also inspire and educate the next generation.\r\n\r\nNo methods currently exist to measure cerebrospinal fluid velocities in the deep brain in vivo, limiting understanding of how the brain clears metabolic waste, particularly in aging and disease. This project will apply artificial intelligence velocimetry (AIV) to infer volume flow rates in penetrating perivascular spaces, key pathways that carry CSF into the brain's interior. AIV infers three-dimensional flow fields from sparse particle tracking data by leveraging physics-informed neural networks that enforce the governing equations of fluid motion. The experiments will employ high-resolution two-photon imaging in murine models to capture tracer particle trajectories beneath the brain's surface. The project will use numerical simulations of flow in real anatomical geometries to validate AIV and assess its robustness. A key focus of the project is rigorous uncertainty quantification of AIV, addressing both aleatoric (experimental) and epistemic (model-based) uncertainty. Accurate measurement of CSF flow rates will constrain models of glymphatic transport, clarify the role of advection vs. diffusion in solute clearance, and resolve fundamental questions about fluid entry pathways in the brain. The expected outcomes include the first volumetric CSF flow measurements in penetrating perivascular spaces, improved understanding of how CSF circulation changes with high blood pressure, and a rigorous uncertainty quantification of AIV, which will be applicable in any scenario where AIV is used.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ting",
+   "pi_last_name": "Du",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ting Du",
+   "pi_email_addr": "ting_du@urmc.rochester.edu",
+   "nsf_id": "000997465",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kimberly",
+   "pi_last_name": "Boster",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kimberly A Boster",
+   "pi_email_addr": "kboster@ur.rochester.edu",
+   "nsf_id": "000656643",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Douglas",
+   "pi_last_name": "Kelley",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Douglas H Kelley",
+   "pi_email_addr": "d.h.kelley@rochester.edu",
+   "nsf_id": "000661946",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rochester",
+  "inst_street_address": "910 GENESEE ST",
+  "inst_street_address_2": "STE 200",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5852754031",
+  "inst_zip_code": "146113847",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "UNIVERSITY OF ROCHESTER",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F27KDXZMF9Y8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rochester",
+  "perf_str_addr": "910 GENESEE ST",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146113847",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  },
+  {
+   "pgm_ele_code": "733400",
+   "pgm_ele_name": "MATHEMATICAL BIOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299999.0
+  }
+ ],
+ "por": null
+}

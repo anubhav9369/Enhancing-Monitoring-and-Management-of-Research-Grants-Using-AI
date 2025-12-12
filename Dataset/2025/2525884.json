@@ -1,0 +1,114 @@
+{
+ "awd_id": "2525884",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Multi-Timescale Dynamics Modeling, Simulation, and Analysis of Converter-Dominated Power Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928126",
+ "po_email": "yhuang@nsf.gov",
+ "po_sign_block_name": "Yih-Fang Huang",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2029-08-31",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 500000.0,
+ "awd_min_amd_letter_date": "2025-05-28",
+ "awd_max_amd_letter_date": "2025-07-16",
+ "awd_abstract_narration": "This NSF CAREER project aims to investigate power system dynamics with large-scale integration of inverter-based resources (IBRs), which challenges the existing frameworks of stability simulation and analysis. The project will bring transformative change to power system dynamics studies and improve the accuracy and efficiency for capturing dynamic responses in both fast the slow time-scales. This will be achieved by creating a unified framework that blends fast transients with slow dynamics and selecting dynamics through transformation, simplification, and numerical methods. The intellectual merits of the project include establishing a unified symbolic framework for device- and system-level modeling, developing advanced analytical methods for stability analysis, and creating efficient simulation algorithms, all aimed at improving grid simulations under complex, multi-timescale dynamics. The broader impacts of the project include enhancing open-source infrastructures for power engineering research and education, cultivating public interest and knowledge of renewable energy through innovative outreach programs, and engaging underrepresented students with hands-on experiences in renewable energy technologies.\r\n\r\nThe large-scale integration of converters and IBRs has significantly impacted power system dynamics. Traditionally, the notion of time-scale separation facilitated a classification between component-level fast electromagnetic transients and system-level slow-varying electromechanical stability. This separation, however, is being challenged by IBRs, which interact with both fast network transients and slow electromechanical dynamics. This project aims to understand how network transients, switched converters, and electromechanical dynamics can be uniformly modeled, rigorously analyzed, and efficiently simulated. Specifically, the project will 1) establish a symbolic framework for formulating component dynamics by switched differential algebraic equations (DAE), which will enable the transformation and simplification of models in a principled manner; 2) establish analytical methods to characterize the oscillatory properties of small-signal models, including assessing the impact of uncertainty on eigenvalues and timescale separation; and 3) develop efficient simulation methods for switched DAE problems in both the time domain and dynamic phasor domain, creating algorithms that leverage the properties of the mathematical models to speed up computations while maintaining accuracy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hantao",
+   "pi_last_name": "Cui",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hantao Cui",
+   "pi_email_addr": "hcui9@ncsu.edu",
+   "nsf_id": "000835840",
+   "pi_start_date": "2025-05-28",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "North Carolina State University",
+  "inst_street_address": "2601 WOLF VILLAGE WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "RALEIGH",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9195152444",
+  "inst_zip_code": "276950001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NC02",
+  "org_lgl_bus_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "org_prnt_uei_num": "U3NVH931QJJ3",
+  "org_uei_num": "U3NVH931QJJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "North Carolina State University",
+  "perf_str_addr": "2601 WOLF VILLAGE WAY",
+  "perf_city_name": "RALEIGH",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "276950001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NC02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760700",
+   "pgm_ele_name": "EPCN-Energy-Power-Ctrl-Netwrks"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 394768.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 105232.0
+  }
+ ],
+ "por": null
+}

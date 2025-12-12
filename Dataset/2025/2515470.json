@@ -1,0 +1,98 @@
+{
+ "awd_id": "2515470",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Advancing nonparametric regression: from convex multi-index and Bayesian models to BART and neural networks",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032925307",
+ "po_email": "tmaiti@nsf.gov",
+ "po_sign_block_name": "Tapabrata Maiti",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 175000.0,
+ "awd_amount": 175000.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "This project addresses fundamental challenges in statistical modeling,\r\nto develop more accurate and reliable methods for\r\nanalyzing complex data. As data becomes increasingly central to\r\nscientific discovery, economic prosperity, and national security, the\r\nneed for advanced statistical tools is paramount. This research will\r\ncreate new techniques in nonparametric regression, a field of\r\nstatistics focused on fitting models to data without pre-supposing the\r\nrelationship's form. It confronts three recurrent obstacles in\r\nanalyzing large datasets -- curse of dimensionality, ad-hoc tuning\r\nchoices, and the tension between flexibility and interpretability -- by\r\ndeveloping principled regression and density-estimation tools, thereby\r\nimproving our ability to interpret complex information. The work\r\nforges new links between shape-constrained nonparametric methods and\r\nneural networks, adapts ideas from image processing to statistics, and\r\nalso unites frequentist and Bayesian thinking through simple,\r\nintuitive priors. The development of these methods will have\r\nwide-ranging benefits in many applied fields. Furthermore, this\r\nproject will contribute to the education and training of the next\r\ngeneration of statisticians and data scientists, ensuring that the\r\nnation remains at the forefront of this critical field.\r\n\r\nThe investigator will develop a suite of novel approaches to\r\nnonparametric regression. One area of focus is a new shape-constrained\r\nmethod for multi-index convex regression, which is designed to\r\nalleviate the curse of dimensionality and has close connections to\r\nsingle hidden-layer neural networks. Another key component of the\r\nresearch involves the systematic study of Total Generalized Variation\r\n(TGV) regularization for regression and density estimation problems\r\nthat have both smooth and non-smooth components, a common challenge in\r\nfields like image processing. The project will also investigate the\r\nproperties of the log-concave maximum likelihood estimator, with the\r\naim of proving its suboptimality in high dimensions under the total\r\nvariation distance. Additionally, the research will explore Bayesian\r\napproaches with innovative priors, such as those based on Cauchy\r\nprocesses, to model complex regression relationships and address the\r\nissue of tuning parameter selection. Finally, the research will\r\ndevelop Bayesian methods for mixed-derivative constrained regression,\r\nleading to the creation of an additive regression tree and piecewise\r\nlinear fits for greater flexibility in multivariate settings. These\r\nresearch thrusts will be pursued through a combination of theoretical\r\nanalysis and computational experiments, to produce\r\npractical and principled solutions to outstanding problems in\r\nnonparametric regression.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adityanand",
+   "pi_last_name": "Guntuboyina",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adityanand Guntuboyina",
+   "pi_email_addr": "aditya@stat.berkeley.edu",
+   "nsf_id": "000632304",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Berkeley",
+  "inst_street_address": "1608 4TH ST STE 201",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106433891",
+  "inst_zip_code": "947101749",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GS3YEVSS12N6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Berkeley",
+  "perf_str_addr": "1608 4TH ST STE 201",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947101749",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1269",
+   "pgm_ref_txt": "STATISTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 175000.0
+  }
+ ],
+ "por": null
+}

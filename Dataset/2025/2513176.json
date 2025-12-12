@@ -1,0 +1,98 @@
+{
+ "awd_id": "2513176",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Computational Methods for Extremal Eigenvalue Problems with Geometric Constraints",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922113",
+ "po_email": "ygorb@nsf.gov",
+ "po_sign_block_name": "Yuliya Gorb",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2028-06-30",
+ "tot_intn_awd_amt": 147731.0,
+ "awd_amount": 147731.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "In a variety of real-world applications, eigenvalues of linear partial differential operators describe physical phenomena of interest, e.g., light propagation, mechanical vibrations, and liquid sloshing.  It is of practical and fundamental interest to study the dependence of an eigenvalue on a control variable, such as the material coefficient or the domain shape, and to engineer/design/optimize control variables to enhance relevant spectral properties. This project will develop and analyze new computational methods for solving extremal eigenvalue problems, especially involving challenging geometric constraints. The research activities will advance discovery and understanding in computational mathematics and mathematical physics, as well as more general areas of science and engineering through applications. Educational activities are integrated with research activities in four specific ways: (i) training of students (including K-12, undergraduate, and graduate students across different schools) and junior researchers at different levels, (ii) encouraging participation of researchers in the area (iii) dissemination and sharing of research results publicly, and (iv) organization of international workshops on proposed research topics. Due to the collaborative nature of this proposal, students will engage in activities across R1 and primarily undergraduate institutions.\r\n\r\nThe aim of this project is to tackle two canonical extremal eigenvalue problems from the mathematical and engineering communities: (1) study the Steklov eigenvalue problem on a compact Riemannian surface with boundary and seek to maximize of an eigenvalue over the class of smooth metrics; (2) address a key challenge in the design of topological photonic crystals (TPCs): find materials that have large shared spectral bandgaps where the adjacent dispersion surfaces have prescribed topological invariants (e.g., the Chern number, a topological invariant obtained from Berry curvature). A technical challenge in these problems is to handle geometric constraints - either stemming from topological constraints on Riemannian surfaces or topological invariants of dispersion surfaces. The proposed research activities will develop analytical and computational tools to tackle this challenge.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chiu-Yen",
+   "pi_last_name": "Kao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chiu-Yen Kao",
+   "pi_email_addr": "ckao@claremontmckenna.edu",
+   "nsf_id": "000631918",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Claremont McKenna College",
+  "inst_street_address": "500 E 9TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLAREMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "9096077085",
+  "inst_zip_code": "91711",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "CA26",
+  "org_lgl_bus_name": "CLAREMONT MCKENNA COLLEGE",
+  "org_prnt_uei_num": "L45FLFHWMGQ9",
+  "org_uei_num": "L45FLFHWMGQ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Claremont McKenna College",
+  "perf_str_addr": "500 E 9TH ST",
+  "perf_city_name": "CLAREMONT",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "917115929",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "28",
+  "perf_st_cong_dist": "CA28",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 147731.0
+  }
+ ],
+ "por": null
+}

@@ -1,0 +1,125 @@
+{
+ "awd_id": "2430193",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Research Infrastructure: CC* Compute-Campus: Pioneering Research-Oriented Flexible Cyberinfrastructure (PROFLEX-CI)",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032925184",
+ "po_email": "awapon@nsf.gov",
+ "po_sign_block_name": "Amy Apon",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-10-31",
+ "tot_intn_awd_amt": 622422.0,
+ "awd_amount": 622422.0,
+ "awd_min_amd_letter_date": "2024-11-13",
+ "awd_max_amd_letter_date": "2025-06-12",
+ "awd_abstract_narration": "This project at Georgia State University adds HPC resources to support 11 research projects that are identified from diverse domains. Research spans areas including wildfire management, solar event prediction, brain and mind function, financial market forecasting, and optimal approaches to public policy decisions.  A common thread among several of these projects is the application of advanced techniques such as generative AI, natural language processing, deep learning, digital twins, computer simulations, and neuroscience.  The resource will also support many projects that fall into in the long tail of science \u2014 fields such as game design, economics, biology, and public policy studies, which often fall outside the focus of traditional high-performance computing centers.  Georgia State University has a diverse student body and is able to provide these CI resources to underserved groups. The platform will enhance educational activities like summer workshops and hands-on classes such as Generative AI in Business, English Composition, Spanish Writing, and Game Design.  Outreach programs encourage participation of underserved students including minorities and women.  Student opportunities are included through involvement in cluster operations.\r\n\r\nThe project will acquire 12 H100 GPUs with Bluefield DPU, 682 CPU cores, and 228TB storage.  The platform uses containerization and version control to ensure efficient and reproducible computations, supporting researchers throughout their project lifecycle in a unified environment. Science gateways enable seamless communication and data sharing, making it easier for researchers to publish their work and engage with the broader scientific community. The user-friendly interface and experienced staff lower the barriers to entry, allowing researchers, students and educators to utilize powerful CPU and GPU computing resources.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Neranjan",
+   "pi_last_name": "Edirisinghe Pathirannehe",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Neranjan Edirisinghe Pathirannehe",
+   "pi_email_addr": "neranjan@gsu.edu",
+   "nsf_id": "000729971",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Dustin",
+   "pi_last_name": "Kempton",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dustin Kempton",
+   "pi_email_addr": "dkempton1@gsu.edu",
+   "nsf_id": "000800766",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Molnar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter Molnar",
+   "pi_email_addr": "pmolnar@gsu.edu",
+   "nsf_id": "0000A0663",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Georgia State University Research Foundation, Inc.",
+  "inst_street_address": "58 EDGEWOOD AVE NE",
+  "inst_street_address_2": "FL 3",
+  "inst_city_name": "ATLANTA",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "4044133570",
+  "inst_zip_code": "303032921",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "GA05",
+  "org_lgl_bus_name": "GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MNS7B9CVKDN7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Georgia State University",
+  "perf_str_addr": "58 EDGEWOOD AVE NE",
+  "perf_city_name": "ATLANTA",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "303032921",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "GA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 622422.0
+  }
+ ],
+ "por": null
+}

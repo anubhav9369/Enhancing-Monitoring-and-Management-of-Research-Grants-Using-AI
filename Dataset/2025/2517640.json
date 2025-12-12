@@ -1,0 +1,102 @@
+{
+ "awd_id": "2517640",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Macroeconomic Modeling with Learning Through Reasoning and Experiences",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032925074",
+ "po_email": "nbayrakt@nsf.gov",
+ "po_sign_block_name": "Nihal Bayraktar",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2028-07-31",
+ "tot_intn_awd_amt": 264480.0,
+ "awd_amount": 264480.0,
+ "awd_min_amd_letter_date": "2025-08-14",
+ "awd_max_amd_letter_date": "2025-08-14",
+ "awd_abstract_narration": "This research project develops new ways to model the US economy by using the assumption that economic decision makers learn by experience over time about underlying optimal decision rules.  Individuals and organizations are faced with complex real world economic decisions and the best decision may not be immediately obvious. Many macroeconomic models assume that these decision makers have full information and always make decisions that best advance their interests. In contrast, this project models economic decision makers by using artificial intelligence in a model of learning through experience, and incorporates this new framework in classic economic cost-benefit tradeoffs. The new framework provides more realistic economic models that can better approximate the actual behavior of people and firms. These models can provide new insights into how U.S. government fiscal and monetary decisions can achieve desired economic outcomes.\r\n\r\nThe project\u2019s starting point is the observation that people and firms in real life typically learn in two ways about optimal behavior. The first one is reasoning: through introspective, abstract deliberations, economic units can better figure out their optimal course of action. The second one is accumulated experiences: the realized outcomes of past actions can update the perceived benefit of these past decisions. These two sources of information are conceptually distinct but limited, as experiences are observed only along the actual path taken by economic participants, while abstract thinking is a scarce cognitive resource. This research project develops a new interdisciplinary framework to learning through both reasoning and experience. There are three main components to the project. The first component develops the theoretical foundations of the framework and studies its deep fundamental properties, both in the short-run and the long-run. Learning can occur through cognition, which is costly, but beneficial in reducing decision makers' uncertainty about the best course of action. Decision makers trade off that benefit and cost of engaging cognitive resources, giving rise to constrained-optimal, or \u201cresource-rational\u201d choice of reasoning. These participants also update beliefs about optimal behavior based on the experienced flow utility each period. Critically, the effective precision of both reasoning and experiences in informing behavior is endogenous, as a function of the participant's beginning of period prior beliefs which evolve dynamically. This research advances the interest in bounded rationality within economics with novel methods that are rigorously grounded in established cognitive science findings. At the same time, the research also introduces several conceptual innovations to Reinforcement Learning literature, primarily by grounding the proposed learning theory in the constrained-optimal framework familiar to economists. In the second and third projects, the research team evaluates specific applications of the new bounded rationality theory in both household and firm settings. In the second project, the team studies the consumption-savings behavior in a rich model with participant heterogeneity, incomplete markets, consumption of durable and non-durable goods, and potentially investment in liquid and illiquid assets. In the last project, the team evaluates firm and investment dynamics, incorporating fixed costs of investment, endogenous entry and exit, and borrowing constraints. These two projects explore how the proposed learning friction could fundamentally alter economic literature's understanding of both demand and supply blocks, while providing novel and rich implications for decision making.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cosmin",
+   "pi_last_name": "Ilut",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cosmin Ilut",
+   "pi_email_addr": "cosmin.ilut@duke.edu",
+   "nsf_id": "000550504",
+   "pi_start_date": "2025-08-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "132000",
+   "pgm_ele_name": "Economics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 264480.0
+  }
+ ],
+ "por": null
+}

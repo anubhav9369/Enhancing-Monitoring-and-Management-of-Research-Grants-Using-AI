@@ -1,0 +1,93 @@
+{
+ "awd_id": "2515263",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Distributional Balancing Methods for Advancing Causal Inference in Complex Settings",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2028-08-31",
+ "tot_intn_awd_amt": 68000.0,
+ "awd_amount": 68000.0,
+ "awd_min_amd_letter_date": "2025-08-07",
+ "awd_max_amd_letter_date": "2025-08-07",
+ "awd_abstract_narration": "Recent advances in data science and statistics have revolutionized how researchers uncover cause-and-effect relationships from complex, real-world data. Many pressing questions\u2014such as whether flu vaccination reduces infection rates, whether sanitation programs improve children\u2019s health, or whether educational policies enhance student outcomes\u2014cannot be answered through randomized experiments alone. Observational data, while abundant, often pose serious challenges due to hidden biases, unmeasured factors, or interconnected influences among individuals. For example, a person\u2019s risk of flu depends not only on their own vaccination status but also on whether people around them are vaccinated, while unmeasured behaviors such as health-seeking habits can distort results. This project tackles these challenges by developing advanced statistical methodologies that improve the reliability of causal conclusions. In particular, it enhances a class of techniques known as distributional balancing methods, which create fair, comparable groups across the full range of observed variables. By extending these methods to account for complex data structures and unobserved confounding, the project will equip scientists and policymakers with more trustworthy evidence for decision-making. The research outcomes will impact healthcare, education, economics, and environmental policy, while also contributing to science through open-source software, user-friendly resources, and the training of students in cutting-edge statistical methods.\r\n\r\nTechnically, the project focuses on two complementary innovations. First, it develops a novel framework for distributional balancing in settings where data exhibit dependency structures, such as patients treated within hospitals, students nested within schools, or individuals connected by social networks. The proposed methodology constructs balancing weights by aligning the joint distribution of covariates between treatment groups while explicitly accounting for clustering and network effects, which pose major challenges for current balancing methods. The approach includes diagnostic procedures for assessing covariate balance under dependence and robust sensitivity analysis for evaluating the stability of causal conclusions. Second, the project introduces a new integration of instrumental variable (IV) techniques with reproducing kernel Hilbert space (RKHS)-based distributional balancing. This extension allows researchers to address unmeasured confounding by leveraging valid instruments and estimating balancing weights with respect to flexible, nonparametric distributional distances. The resulting IV-balancing methods provide both theoretical guarantees and computational efficiency, expanding the toolkit of modern causal inference. Together, these methodological advances fill critical gaps in existing frameworks, enabling robust causal analysis in complex observational studies and yielding immediate applications in healthcare policy evaluation, biomedical research, and other domains where confounding and dependency are inherent.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guanhua",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guanhua Chen",
+   "pi_email_addr": "gchen25@wisc.edu",
+   "nsf_id": "000793690",
+   "pi_start_date": "2025-08-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 68000.0
+  }
+ ],
+ "por": null
+}

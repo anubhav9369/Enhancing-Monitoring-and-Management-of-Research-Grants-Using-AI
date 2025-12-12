@@ -1,0 +1,106 @@
+{
+ "awd_id": "2443001",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Cryogenic-CMOS and Superconducting Circuits for Scalable Quantum Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2025-02-28",
+ "tot_intn_awd_amt": 500000.0,
+ "awd_amount": 400000.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "Quantum computers leverage quantum phenomena such as superposition and entanglement in quantum bits (qubits), enabling them to solve certain computational problems exponentially faster than classical computers. The successful realization of quantum computers has the potential to transform diverse fields such as drug discovery, quantum chemistry, biology, cryptography, image processing, optimization, and machine learning by addressing computational challenges that are infeasible for classical systems. Estimates suggest that general-purpose quantum computers capable of solving real-world problems will require 10\u2074\u201310\u2075 physical qubits. A significant obstacle to scaling quantum computers to this level is the hardware infrastructure, which currently relies on room-temperature rack electronics for qubit control and readout, along with bulky, connectorized microwave components\u2014such as circulators and amplifiers\u2014inside dilution refrigerators. This project aims to address these limitations by developing energy-efficient, low-cost, and compact cryogenic chips that enable scaling quantum systems to support thousands of qubits. The research focuses on advancing cryogenic Complementary Metal-Oxide-Semiconductor (CMOS) integrated circuits (ICs) for qubit control pulse generation and superconducting chip technology for on-chip circulators. These innovations are expected to accelerate breakthroughs in quantum computing while also benefiting related fields such as satellite communication, space-based telescopes, and cryogenic electronics. Furthermore, the project seeks to foster seamless integration between circuit design and quantum physics, laying the foundation for a diverse and skilled workforce in this multidisciplinary research domain. To achieve this, the project will implement a range of educational and outreach initiatives, including online courses, undergraduate research opportunities, career development workshops for K-12 students, and the creation of open-source infrastructure.\r\n\r\nThe research activities are organized into three thrusts: cryogenic (4K) CMOS IC development, superconducting chip development, and system integration with superconducting qubits operating at 10-100mK. First, a fully analog, low-power, and scalable qubit control scheme will be demonstrated using CMOS ICs operating at 4K, eliminating the need for room-temperature rack electronics. Unlike current digital-intensive control schemes, this project explores low-power microwave pulse generation using analog filter synthesis, enabling significant power savings compared to state-of-the-art digital qubit control circuits. Analog multiplexing schemes will be explored to reduce the cabling overheard between the 4K to 10mK stages. Second, time-modulated Josephson Junction-based non-reciprocal devices will be developed to replace the bulky and costly ferrite-based circulators and isolators currently used in dilution refrigerators. These on-chip, superconducting circulators are expected to offer drastically reduced size and cost when compared to their ferrite counterparts. To aid easier integration with the qubits, these superconducting circulators will be designed to achieve to low intermodulation power while achieving low-loss transmission and high isolation at the input frequency.  Finally, the cryogenic-CMOS ICs and superconducting circulators will be integrated with superconducting qubits to demonstrate a fully integrated closed-loop system for qubit control and readout.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aravind",
+   "pi_last_name": "Nagulu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aravind Nagulu",
+   "pi_email_addr": "a.nagulu@northeastern.edu",
+   "nsf_id": "000931210",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "ONE BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631304899",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756400",
+   "pgm_ele_name": "CCSS-Comms Circuits & Sens Sys"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 0.0
+  }
+ ],
+ "por": null
+}

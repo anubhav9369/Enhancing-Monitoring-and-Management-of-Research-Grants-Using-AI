@@ -1,0 +1,102 @@
+{
+ "awd_id": "2433871",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FET: Small: PRISM: Multi-State Probabilistic-bit Engines Enabled by Oscillator Ising Machines",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2028-05-31",
+ "tot_intn_awd_amt": 351653.0,
+ "awd_amount": 351653.0,
+ "awd_min_amd_letter_date": "2025-06-03",
+ "awd_max_amd_letter_date": "2025-06-03",
+ "awd_abstract_narration": "Digital computing has been the backbone of the modern information revolution, driven by sustained advancements in digital hardware. Despite this tremendous success, many computational problems relevant to rapidly advancing fields such as machine learning, biotechnology, and resource optimization continue to challenge these platforms in terms of performance and efficiency. With the ever-increasing demand for computation and the slowing down of Moore\u2019s law, there is a strong impetus to explore alternate computing paradigms and hardware platforms to solve such problems more efficiently. Probabilistic bit (p-bit)-based computing platforms, which exhibit characteristics starkly different from the deterministic behavior of digital bits, offer a promising pathway in such scenarios. However, current p-bit-based computing platforms have focused on a narrow set of functionalities, thereby limiting their broader potential. The goal of this project is to develop PRSIM, a new probabilistic computing engine with novel functional capabilities that can transform the efficacy of probabilistic computing. These advancements will be enabled and supported by novel probabilistic hardware realized using oscillator networks. PRISM will facilitate fundamental advances in probabilistic computing that will help overcome the constraints of existing platforms. These advancements will also have transformative downstream benefits for practical applications that require solving such problems.\r\n\r\nComputing platforms based on p-bits provide a natural hardware solution for accelerating Monte Carlo algorithms, a powerful tool for solving computationally intractable problems efficiently. However, existing platforms employ p-bits which are designed to probabilistically switch only between two states. This limitation can hinder the functional and performance capabilities of such platforms, especially when addressing problems that require more than two states. Currently, solving such problems necessitates computationally expensive pre-processing techniques just to make the problem compatible with the underlying p-bit platform, which increases the effective problem size on hardware and may degrade the solution quality. This project proposes to develop and demonstrate PRISM, a new computing platform using p-bits that are capable of probabilistic switching between multiple states. To enable this, PRISM introduces a novel hardware implementation based on oscillators and their networks which are capable of supporting multi-state p-bits. The PRISM platform facilitates direct mapping of a broad class of computationally hard problems that entail more than two states. This enhances performance and efficiency by eliminating the traditional overhead associated with solving such problems using two-state p-bit engines. The PRISM platform will be developed through a cross-cutting effort that spans both hardware and algorithm.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Nikhil",
+   "pi_last_name": "Shukla",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Nikhil Shukla",
+   "pi_email_addr": "ns6pf@virginia.edu",
+   "nsf_id": "000761333",
+   "pi_start_date": "2025-06-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "086Z",
+   "pgm_ref_txt": "Neuromorphic Computing"
+  },
+  {
+   "pgm_ref_code": "7923",
+   "pgm_ref_txt": "SMALL PROJECT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 351653.0
+  }
+ ],
+ "por": null
+}

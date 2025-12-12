@@ -1,0 +1,129 @@
+{
+ "awd_id": "2503010",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CC* Integration-Large: Scaling Scientific Workloads on Distributed Commodity GPUs and Storage through Campus-level RDMA Networking",
+ "cfda_num": "47.070",
+ "org_code": "05090000",
+ "po_phone": "7032922935",
+ "po_email": "dmedhi@nsf.gov",
+ "po_sign_block_name": "Deepankar Medhi",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2027-06-30",
+ "tot_intn_awd_amt": 750000.0,
+ "awd_amount": 750000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "Scientific workloads have outgrown the capabilities of today's campus networks, driven by two key trends: the increasing adoption of machine learning (ML) in scientific research, and the growing need to access and process large-scale datasets. Remote Direct Memory Access (RDMA) has emerged as a key network technology to provide high-bandwidth, low-latency communication for distributed ML and fast data storage. This project explores an RDMA-based campus network design and implementation that enables the shared use of distributed, heterogeneous Graphics Processing Units (GPUs) to accelerate scientific applications and fast access to research data storage.\r\n\r\nThe project entails four research thrusts. First, high-bandwidth, low-latency RDMA network infrastructure will be established to connect campus GPUs using standard data center-class network hardware. Second, new workload scheduling systems and algorithms will be developed to make efficient usage of the RDMA network. Third, storage disaggregation over RDMA will be enabled, allowing compute servers to access remote NVMe-class storage with minimal performance overheads. Finally, varied science applications, such as large language models (LLMs), domain-specific natural language processing (NLP), medical image processing, and cryo-electron microscopy (CryoEM) will be evaluated on top of the RDMA network, the workload scheduler, and the disaggregated storage.\r\n\r\nThis project presents a first step toward improving the efficiency and utilization of Duke University's compute infrastructure by connecting centralized and individual GPU servers via a high-speed RDMA network. It is expected to reduce the time, effort, and financial burden that researchers typically face in enabling the scaling of scientific workloads in a number of scientific fields including but not limited to ML and LLMs, biomedical imaging, and molecular dynamics. The project will contribute to workforce development by training graduate and undergraduate students in high-performance computing, network optimization, and large-scale data management.\r\n\r\nSoftware artifacts, papers, and tutorials developed as part of this project will be released on the following website https://sites.duke.edu/dream/. This website will be regularly maintained for five years after the completion of the project.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure (OAC)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Danyang",
+   "pi_last_name": "Zhuo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Danyang Zhuo",
+   "pi_email_addr": "danyang@cs.duke.edu",
+   "nsf_id": "000850880",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Kneifel",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles L Kneifel",
+   "pi_email_addr": "charley.kneifel@duke.edu",
+   "nsf_id": "000694202",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Brockelsby",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "William J Brockelsby",
+   "pi_email_addr": "william.brockelsby@duke.edu",
+   "nsf_id": "000798668",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tingjun",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tingjun Chen",
+   "pi_email_addr": "tingjun.chen@duke.edu",
+   "nsf_id": "000842584",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "289000",
+   "pgm_ele_name": "CISE Research Resources"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 750000.0
+  }
+ ],
+ "por": null
+}
