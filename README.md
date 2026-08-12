@@ -1,15 +1,3 @@
----
-title: AI Research Grant Monitoring System
-emoji: 📘
-colorFrom: yellow
-colorTo: red
-sdk: streamlit
-sdk_version: 1.35.0
-app_file: app.py
-pinned: false
----
-
-
 # 📘 AI-Based Research Grant Monitoring & Management System
 
 An end-to-end AI + Streamlit platform designed to automate the evaluation, monitoring, and progress tracking of research grant projects.
